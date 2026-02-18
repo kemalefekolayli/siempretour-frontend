@@ -1471,26 +1471,26 @@
             <div class="booking-box">
               <div class="customer-information mb-4">
                 <h3 class="border-b pb-2 mb-2">Seyahat Edecek Kişi Bilgileri</h3>
-                <form class="mb-2">
+                <form class="mb-2" id="booking-form">
                   <h5>Lütfen tüm alanları doldurunuz</h5>
                   <div class="row">
                     <div class="col-md-12">
                       <div class="form-group mb-2">
                         <label>Adınız</label>
-                        <input type="text" placeholder="Adınız" />
+                        <input type="text" id="booking-name" placeholder="Adınız" required />
                       </div>
                     </div>
                     <div class="col-md-12">
                       <div class="form-group mb-2">
                         <label>Soyadınız</label>
-                        <input type="text" placeholder="Soyadınız" />
+                        <input type="text" id="booking-surname" placeholder="Soyadınız" required />
                       </div>
                     </div>
                     <div class="col-md-12">
                       <div class="form-group mb-2">
                         <label>Telefon Numaranız</label>
-                        <input type="tel" class="form-control" placeholder="05XX XXX XX XX" pattern="^05\d{9}$"
-                          maxlength="14" required />
+                        <input type="tel" id="booking-phone" class="form-control" placeholder="05XX XXX XX XX"
+                          pattern="^05\d{9}$" maxlength="14" required />
 
                       </div>
                     </div>
@@ -1926,18 +1926,27 @@
                     <hr class="log-reg-hr position-relative my-4 overflow-visible" />
                     <form method="post" action="#" name="contactform1" id="contactform1">
                       <div class="form-group mb-2">
-                        <input type="text" name="user_name" class="form-control" id="fname1" placeholder="User Name" />
+                        <input type="text" name="first_name" class="form-control" id="reg_firstname"
+                          placeholder="First Name" />
                       </div>
                       <div class="form-group mb-2">
-                        <input type="text" name="user_name" class="form-control" id="femail"
+                        <input type="text" name="last_name" class="form-control" id="reg_lastname"
+                          placeholder="Last Name" />
+                      </div>
+                      <div class="form-group mb-2">
+                        <input type="text" name="phone_number" class="form-control" id="reg_phone"
+                          placeholder="Phone Number (10-11 digits)" />
+                      </div>
+                      <div class="form-group mb-2">
+                        <input type="email" name="email" class="form-control" id="reg_email"
                           placeholder="Email Address" />
                       </div>
                       <div class="form-group mb-2">
-                        <input type="password" name="password_name" class="form-control" id="lpass1"
+                        <input type="password" name="password" class="form-control" id="reg_password"
                           placeholder="Password" />
                       </div>
                       <div class="form-group mb-2">
-                        <input type="password" name="password_name" class="form-control" id="lrepass"
+                        <input type="password" name="confirm_password" class="form-control" id="reg_repassword"
                           placeholder="Re-enter Password" />
                       </div>
                       <div class="form-group mb-2 d-flex">
@@ -1971,6 +1980,8 @@
   <!-- <script src="js/particles.js"></script>
     <script src="js/particlerun.js"></script> -->
   <script src="js/plugin.js"></script>
+  <script src="js/api-service.js"></script>
+  <script src="js/auth.js"></script>
   <script src="js/main.js"></script>
   <script src="js/custom-swiper.js"></script>
   <script src="js/custom-nav.js"></script>|

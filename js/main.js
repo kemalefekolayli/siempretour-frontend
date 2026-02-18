@@ -6,315 +6,315 @@
 -------------------------------------------------------------------
 */
 
- (function($) {
-     "use strict";
+(function ($) {
+    "use strict";
 
 
-      /*======== Doucument Ready Function =========*/
+    /*======== Doucument Ready Function =========*/
     jQuery(document).ready(function () {
-     //CACHE JQUERY OBJECTS
-      $("#status").fadeOut();
-      $("#preloader").delay(200).fadeOut("slow");
-      $("body").delay(200).css({ "overflow": "visible" });
+        //CACHE JQUERY OBJECTS
+        $("#status").fadeOut();
+        $("#preloader").delay(200).fadeOut("slow");
+        $("body").delay(200).css({ "overflow": "visible" });
 
-      
-      /* Init Wow Js */
-      new WOW().init();
+
+        /* Init Wow Js */
+        new WOW().init();
 
     });
 
-     //search categories
-    $('a[href="#search1"]').on('click', function(event) {
-         event.preventDefault();
-         $('#search1').addClass('open');
-         $('#search1 > form > input[type="search"]').focus();
-     });
-     $('#search1, #search1 button.close').on('click keyup', function(event) {
-         if (event.target == this || event.target.className == 'close' || event.keyCode == 27) {
-             $(this).removeClass('open');
-         }
-     });
+    //search categories
+    $('a[href="#search1"]').on('click', function (event) {
+        event.preventDefault();
+        $('#search1').addClass('open');
+        $('#search1 > form > input[type="search"]').focus();
+    });
+    $('#search1, #search1 button.close').on('click keyup', function (event) {
+        if (event.target == this || event.target.className == 'close' || event.keyCode == 27) {
+            $(this).removeClass('open');
+        }
+    });
 
     jQuery(document).ready(() => {
-         jQuery('.js-video-button').modalVideo({
-             channel: 'vimeo'
-         });
-     });
+        jQuery('.js-video-button').modalVideo({
+            channel: 'vimeo'
+        });
+    });
 
-     // Range sliders activation
-     $(".range-slider-ui").each(function() {
-         var minRangeValue = $(this).attr('data-min');
-         var maxRangeValue = $(this).attr('data-max');
-         var minName = $(this).attr('data-min-name');
-         var maxName = $(this).attr('data-max-name');
-         var unit = $(this).attr('data-unit');
-         $(this).slider({
-             range: true,
-             min: minRangeValue,
-             max: maxRangeValue,
-             values: [minRangeValue, maxRangeValue],
-             slide: function(event, ui) {
-                 event = event;
-                 var currentMin = parseInt(ui.values[0]);
-                 var currentMax = parseInt(ui.values[1]);
-                 $(this).children(".min-value").text(currentMin + " " + unit);
-                 $(this).children(".max-value").text(currentMax + " " + unit);
-                 $(this).children(".current-min").val(currentMin);
-                 $(this).children(".current-max").val(currentMax);
-             }
-         });
-     });
+    // Range sliders activation
+    $(".range-slider-ui").each(function () {
+        var minRangeValue = $(this).attr('data-min');
+        var maxRangeValue = $(this).attr('data-max');
+        var minName = $(this).attr('data-min-name');
+        var maxName = $(this).attr('data-max-name');
+        var unit = $(this).attr('data-unit');
+        $(this).slider({
+            range: true,
+            min: minRangeValue,
+            max: maxRangeValue,
+            values: [minRangeValue, maxRangeValue],
+            slide: function (event, ui) {
+                event = event;
+                var currentMin = parseInt(ui.values[0]);
+                var currentMax = parseInt(ui.values[1]);
+                $(this).children(".min-value").text(currentMin + " " + unit);
+                $(this).children(".max-value").text(currentMax + " " + unit);
+                $(this).children(".current-min").val(currentMin);
+                $(this).children(".current-max").val(currentMax);
+            }
+        });
+    });
 
 
-     /* ------------------------------------------------------------------------ */
-     /* BACK TO TOP
     /* ------------------------------------------------------------------------ */
-     $(document).on('click', '#back-to-top, .back-to-top', () => {
-         $('html, body').animate({
-             scrollTop: 0
-         }, '500');
-         return false;
-     });
-     $(window).on('scroll', () => {
-         if ($(window).scrollTop() > 500) {
-             $('#back-to-top').fadeIn(200);
-         } else {
-             $('#back-to-top').fadeOut(200);
-         }
-     });
+    /* BACK TO TOP
+   /* ------------------------------------------------------------------------ */
+    $(document).on('click', '#back-to-top, .back-to-top', () => {
+        $('html, body').animate({
+            scrollTop: 0
+        }, '500');
+        return false;
+    });
+    $(window).on('scroll', () => {
+        if ($(window).scrollTop() > 500) {
+            $('#back-to-top').fadeIn(200);
+        } else {
+            $('#back-to-top').fadeOut(200);
+        }
+    });
 
-     // Slick SLider (only init when slides are already in DOM)
-     const $sliderStore = $('.slider-store');
-     const $sliderThumbs = $('.slider-thumbs');
-     const hasStoreSlides = $sliderStore.length && $sliderStore.children().length;
-     const hasThumbSlides = $sliderThumbs.length && $sliderThumbs.children().length;
+    // Slick SLider (only init when slides are already in DOM)
+    const $sliderStore = $('.slider-store');
+    const $sliderThumbs = $('.slider-thumbs');
+    const hasStoreSlides = $sliderStore.length && $sliderStore.children().length;
+    const hasThumbSlides = $sliderThumbs.length && $sliderThumbs.children().length;
 
-     if (hasStoreSlides && hasThumbSlides) {
-         if (!$sliderStore.hasClass('slick-initialized')) {
-             $sliderStore.slick({
-                 slidesToShow: 1,
-                 slidesToScroll: 1,
-                 direction: 'vertical',
-                 arrows: false,
-                 dots: false,
-                 fade: true,
-                 autoplay: true,
-                 asNavFor: '.slider-thumbs'
-             });
-         }
+    if (hasStoreSlides && hasThumbSlides) {
+        if (!$sliderStore.hasClass('slick-initialized')) {
+            $sliderStore.slick({
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                direction: 'vertical',
+                arrows: false,
+                dots: false,
+                fade: true,
+                autoplay: true,
+                asNavFor: '.slider-thumbs'
+            });
+        }
 
-         if (!$sliderThumbs.hasClass('slick-initialized')) {
-             $sliderThumbs.slick({
-                 slidesToShow: 5,
-                 slidesToScroll: 1,
-                 asNavFor: '.slider-store',
-                 dots: false,
-                 arrows: false,
-                 autoplay: true,
-                 direction: 'vertical',
-                 centerMode: true,
-                 focusOnSelect: true,
-                 responsive: [{
-                     breakpoint: 800,
-                     settings: {
-                         arrows:false,
-                     }
-                 }]
-             });
-         }
-     }
+        if (!$sliderThumbs.hasClass('slick-initialized')) {
+            $sliderThumbs.slick({
+                slidesToShow: 5,
+                slidesToScroll: 1,
+                asNavFor: '.slider-store',
+                dots: false,
+                arrows: false,
+                autoplay: true,
+                direction: 'vertical',
+                centerMode: true,
+                focusOnSelect: true,
+                responsive: [{
+                    breakpoint: 800,
+                    settings: {
+                        arrows: false,
+                    }
+                }]
+            });
+        }
+    }
 
 
-     $('.review-slider').slick({
-         infinite: true,
-         slidesToShow: 1,
-         slidesToScroll: 1,
-         arrows: true,
-         dots: false,
-         rows:0,
-         autoplay: true,
-         speed: 2000,
-         loop:true,
-         responsive: [{
-             breakpoint: 991,
-             settings: {
-                 slidesToShow: 1,
-                 arrows: false,
-             }
-         }]
-     });
-
-     $('.review-slider1').slick({
-         infinite: true,
-         slidesToShow: 2,
-         slidesToScroll: 1,
-         arrows: false,
-         dots: false,
-         rows:0,
-         autoplay: true,
-         speed: 5000,
-         loop:true,
-         responsive: [{
-             breakpoint: 1100,
-             settings: {
-                 slidesToShow: 1
-             }
-         }]
-     });
-
-     $('.about-slider').slick({
-         infinite: true,
-         slidesToShow: 1,
-         slidesToScroll: 1,
-         arrows: false,
-         dots: false,
-         autoplay: true,
-         rows:0,
-         speed: 4000,
-         loop:true,
-         responsive: [{
-             breakpoint: 700,
-             settings: {
-                 arrows:false
-             }
-         }]
-     });
-
-     $('.side-slider').slick({
-         infinite: true,
-         slidesToShow: 6,
-         slidesToScroll: 1,
-         arrows: false,
-         rows:0,
-         dots: false,
-         autoplay: true,
-         speed: 4000,
-         loop:true,
-          responsive: [{
-             breakpoint: 1000,
-             settings: {
-                 slidesToShow: 3
-             }
-         }, 
-         {
-             breakpoint: 811,
-             settings: {
-                 slidesToShow: 2
+    $('.review-slider').slick({
+        infinite: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: true,
+        dots: false,
+        rows: 0,
+        autoplay: true,
+        speed: 2000,
+        loop: true,
+        responsive: [{
+            breakpoint: 991,
+            settings: {
+                slidesToShow: 1,
+                arrows: false,
             }
-         }, 
-         {
-             breakpoint: 500,
-             settings: {
-                 slidesToShow: 1
-             }
-         }]
-     });
+        }]
+    });
 
-      $('.attract-slider').slick({
-         infinite: true,
-         slidesToShow: 8,
-         slidesToScroll: 1,
-         arrows: false,
-         dots: false,
-         speed: 2000,
-         rows:0,
-         autoplay: true,
-         draggable:false,
-         responsive: [{
-             breakpoint: 1000,
-             settings: {
-                 slidesToShow: 4
-             }
-         }, 
-         {
-             breakpoint: 600,
-             settings: {
-                 slidesToShow: 3
+    $('.review-slider1').slick({
+        infinite: true,
+        slidesToShow: 2,
+        slidesToScroll: 1,
+        arrows: false,
+        dots: false,
+        rows: 0,
+        autoplay: true,
+        speed: 5000,
+        loop: true,
+        responsive: [{
+            breakpoint: 1100,
+            settings: {
+                slidesToShow: 1
             }
-         }, 
-         {
-             breakpoint: 500,
-             settings: {
-                 slidesToShow: 2
-             }
-         }]
-     });
+        }]
+    });
 
-    
-     $('.team-slider').slick({
-         infinite: true,
-         slidesToShow: 3,
-         slidesToScroll: 1,
-         arrows: false,
-         dots: true,
-         autoplay: true,
-         speed: 1000,
-         rows:0,
-         loop:true,
-         responsive: [{
-             breakpoint: 1000,
-             settings: {
-                 slidesToShow: 2
-             }
-         }, {
-             breakpoint: 750,
-             settings: {
-                 slidesToShow: 1
-             }
-         }]
-     });
+    $('.about-slider').slick({
+        infinite: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: false,
+        dots: false,
+        autoplay: true,
+        rows: 0,
+        speed: 4000,
+        loop: true,
+        responsive: [{
+            breakpoint: 700,
+            settings: {
+                arrows: false
+            }
+        }]
+    });
 
-     $('.item-slider').slick({
-         infinite: true,
-         slidesToShow: 3,
-         slidesToScroll: 1,
-         arrows: true,
-         dots: false,
-         autoplay: true,
-         speed: 2000,
-         rows:0,
-         loop:true,
-         responsive: [{
-             breakpoint: 1000,
-             settings: {
-                 slidesToShow: 2,
-                 arrows: false,
-             }
-         }, {
-             breakpoint: 750,
-             settings: {
-                 slidesToShow: 1,
-                 arrows: false,
-             }
-         }]
-     });
+    $('.side-slider').slick({
+        infinite: true,
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        arrows: false,
+        rows: 0,
+        dots: false,
+        autoplay: true,
+        speed: 4000,
+        loop: true,
+        responsive: [{
+            breakpoint: 1000,
+            settings: {
+                slidesToShow: 3
+            }
+        },
+        {
+            breakpoint: 811,
+            settings: {
+                slidesToShow: 2
+            }
+        },
+        {
+            breakpoint: 500,
+            settings: {
+                slidesToShow: 1
+            }
+        }]
+    });
 
-     $('.item-slider1').slick({
-         infinite: true,
-         slidesToShow: 3,
-         slidesToScroll: 1,
-         arrows: false,
-         dots: false,
-         autoplay: true,
-         speed: 2000,
-         rows:0,
-         loop:true,
-         responsive: [{
-             breakpoint: 1000,
-             settings: {
-                 slidesToShow: 1,
-                 arrows: false,
-             }
-         }, {
-             breakpoint: 750,
-             settings: {
-                 slidesToShow: 1,
-                 arrows: false,
-             }
-         }]
-     });
+    $('.attract-slider').slick({
+        infinite: true,
+        slidesToShow: 8,
+        slidesToScroll: 1,
+        arrows: false,
+        dots: false,
+        speed: 2000,
+        rows: 0,
+        autoplay: true,
+        draggable: false,
+        responsive: [{
+            breakpoint: 1000,
+            settings: {
+                slidesToShow: 4
+            }
+        },
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 3
+            }
+        },
+        {
+            breakpoint: 500,
+            settings: {
+                slidesToShow: 2
+            }
+        }]
+    });
 
-     $('.item-slider2').slick({
+
+    $('.team-slider').slick({
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: false,
+        dots: true,
+        autoplay: true,
+        speed: 1000,
+        rows: 0,
+        loop: true,
+        responsive: [{
+            breakpoint: 1000,
+            settings: {
+                slidesToShow: 2
+            }
+        }, {
+            breakpoint: 750,
+            settings: {
+                slidesToShow: 1
+            }
+        }]
+    });
+
+    $('.item-slider').slick({
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: true,
+        dots: false,
+        autoplay: true,
+        speed: 2000,
+        rows: 0,
+        loop: true,
+        responsive: [{
+            breakpoint: 1000,
+            settings: {
+                slidesToShow: 2,
+                arrows: false,
+            }
+        }, {
+            breakpoint: 750,
+            settings: {
+                slidesToShow: 1,
+                arrows: false,
+            }
+        }]
+    });
+
+    $('.item-slider1').slick({
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: false,
+        dots: false,
+        autoplay: true,
+        speed: 2000,
+        rows: 0,
+        loop: true,
+        responsive: [{
+            breakpoint: 1000,
+            settings: {
+                slidesToShow: 1,
+                arrows: false,
+            }
+        }, {
+            breakpoint: 750,
+            settings: {
+                slidesToShow: 1,
+                arrows: false,
+            }
+        }]
+    });
+
+    $('.item-slider2').slick({
         infinite: true,
         slidesToShow: 4,
         slidesToScroll: 1,
@@ -322,8 +322,8 @@
         dots: false,
         autoplay: true,
         speed: 2000,
-        rows:0,
-        loop:true,
+        rows: 0,
+        loop: true,
         responsive: [
             {
                 breakpoint: 1199,
@@ -344,123 +344,103 @@
                 settings: {
                     slidesToShow: 1,
                     arrows: false,
+                }
+            }]
+    });
+
+    $('.banner-slider').slick({
+        infinite: true,
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        arrows: true,
+        dots: false,
+        autoplay: true,
+        speed: 2000,
+        rows: 0,
+        cursor: false,
+        loop: true,
+        responsive: [{
+            breakpoint: 1000,
+            settings: {
+                slidesToShow: 2
+            }
+        }, {
+            breakpoint: 800,
+            settings: {
+                slidesToShow: 1
             }
         }]
     });
 
-     $('.banner-slider').slick({
-         infinite: true,
-         slidesToShow: 4,
-         slidesToScroll: 1,
-         arrows: true,
-         dots: false,
-         autoplay: true,
-         speed: 2000,
-         rows:0,
-         cursor: false,
-         loop:true,
-         responsive: [{
-             breakpoint: 1000,
-             settings: {
-                 slidesToShow: 2
-             }
-         }, {
-             breakpoint: 800,
-             settings: {
-                 slidesToShow: 1
-             }
-         }]
-     });
-
-     $('.shop-slider').slick({
-         infinite: true,
-         slidesToShow: 4,
-         slidesToScroll: 1,
-         arrows: false,
-         dots: false,
-         autoplay: true,
-         speed: 2000,
-         rows:0,
-         cursor: false,
-         loop:true,
-         responsive: [{
-             breakpoint: 1000,
-             settings: {
-                 slidesToShow: 2
-             }
-         }, {
-             breakpoint: 800,
-             settings: {
-                 slidesToShow: 1
-             }
-         }]
-     });
-
-     // Slick Testimonial Slider
-        $('.sl-testimonial-slider').slick({
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          vertical: true,
-          verticalSwiping: true,
-          autoplay: true,
-          Speed: 8000,
-          rows:0,
-          infinite: true,
-          arrows: false,
-          dots: false,
-          adaptiveHeight: true
-        });
-
-     $('.partner-slider').slick({
-         infinite: true,
-         slidesToShow: 5,
-         slidesToScroll: 1,
-         arrows: false,
-         dots: false,
-         autoplay: true,
-         speed: 2000,
-         rows:0,
-         loop:true,
-         responsive: [{
-             breakpoint: 1000,
-             settings: {
-                 slidesToShow: 3
-             }
-         }, {
-             breakpoint: 800,
-             settings: {
-                 slidesToShow: 2
-             }
-         }, {
-             breakpoint: 500,
-             settings: {
-                 slidesToShow: 1
-             }
-         }]
-     });
-
-
-     $("#contactform2").validate({      
-      submitHandler: function() {
-        
-        $.ajax({
-          url : 'mail/contact.php',
-          type : 'POST',
-          data : {
-            fname : $('input[name="first_name"]').val(),
-            lname : $('input[name="last_name"]').val(),
-            email : $('input[name="email"]').val(),
-            phone : $('input[name="phone"]').val(),
-            comments : $('textarea[name="comments"]').val(),
-          },
-          success : function( result ){
-            $('#contactform-error-msg').html( result );
-            $("#contactform2")[0].reset();
-          }     
-        });
-
-      }
+    $('.shop-slider').slick({
+        infinite: true,
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        arrows: false,
+        dots: false,
+        autoplay: true,
+        speed: 2000,
+        rows: 0,
+        cursor: false,
+        loop: true,
+        responsive: [{
+            breakpoint: 1000,
+            settings: {
+                slidesToShow: 2
+            }
+        }, {
+            breakpoint: 800,
+            settings: {
+                slidesToShow: 1
+            }
+        }]
     });
+
+    // Slick Testimonial Slider
+    $('.sl-testimonial-slider').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        vertical: true,
+        verticalSwiping: true,
+        autoplay: true,
+        Speed: 8000,
+        rows: 0,
+        infinite: true,
+        arrows: false,
+        dots: false,
+        adaptiveHeight: true
+    });
+
+    $('.partner-slider').slick({
+        infinite: true,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        arrows: false,
+        dots: false,
+        autoplay: true,
+        speed: 2000,
+        rows: 0,
+        loop: true,
+        responsive: [{
+            breakpoint: 1000,
+            settings: {
+                slidesToShow: 3
+            }
+        }, {
+            breakpoint: 800,
+            settings: {
+                slidesToShow: 2
+            }
+        }, {
+            breakpoint: 500,
+            settings: {
+                slidesToShow: 1
+            }
+        }]
+    });
+
+
+    // contactform2 PHP handler removed - now handled by auth.js via ApiService
 
     $('.blog-slider').slick({
         infinite: true,
@@ -470,8 +450,8 @@
         dots: false,
         autoplay: true,
         speed: 2000,
-        rows:0,
-        loop:true,
+        rows: 0,
+        loop: true,
         responsive: [
             {
                 breakpoint: 1199,
@@ -505,8 +485,8 @@
         dots: false,
         autoplay: true,
         speed: 2000,
-        rows:0,
-        loop:true,
+        rows: 0,
+        loop: true,
         responsive: [{
             breakpoint: 1000,
             settings: {
@@ -522,14 +502,14 @@
         }]
     });
 
-    
-     /*-----------------------------------------------------------------------------------*/
+
+    /*-----------------------------------------------------------------------------------*/
     /*  COUNTDOWN
     /*-----------------------------------------------------------------------------------*/
 
-     $(document).ready(() => {
-         loopcounter('coming-counter');
-     });
+    $(document).ready(() => {
+        loopcounter('coming-counter');
+    });
 
     /*-----------------------------------------------------------------------------------*/
     /*  COUNTER UP
@@ -541,249 +521,249 @@
     /*-----------------------------------------------------------------------------------*/
     /*  MASONRY
     /*-----------------------------------------------------------------------------------*/
-    
-     $('.blog-main').masonry({
-         // options
-         itemSelector: '.mansonry-item',
-     });
 
-     $('.trend-box1').masonry({
-         // options
-         itemSelector: '.mansonry-item1',
-     });
+    $('.blog-main').masonry({
+        // options
+        itemSelector: '.mansonry-item',
+    });
 
-     // Nice Select JS
-     $('.niceSelect').niceSelect();
+    $('.trend-box1').masonry({
+        // options
+        itemSelector: '.mansonry-item1',
+    });
 
-     $('a[href="#search1"]').on('click', function(event) {
-         event.preventDefault();
-         $('#search1').addClass('open');
-         $('#search1 > form > input[type="search"]').focus();
-     });
-     $('#search1, #search1 button.close').on('click keyup', function(event) {
-         if (event.target == this || event.target.className == 'close' || event.keyCode == 27) {
-             $(this).removeClass('open');
-         }
-     });
-     //Do not include! This prevents the form from submitting for DEMO purposes only!
-     $('form').submit(function(event) {
-         event.preventDefault();
-         return false;
-     });
+    // Nice Select JS
+    $('.niceSelect').niceSelect();
 
- })(jQuery);
+    $('a[href="#search1"]').on('click', function (event) {
+        event.preventDefault();
+        $('#search1').addClass('open');
+        $('#search1 > form > input[type="search"]').focus();
+    });
+    $('#search1, #search1 button.close').on('click keyup', function (event) {
+        if (event.target == this || event.target.className == 'close' || event.keyCode == 27) {
+            $(this).removeClass('open');
+        }
+    });
+    //Do not include! This prevents the form from submitting for DEMO purposes only!
+    $('form').not('#loginForm, #registerForm, #registerFormInline, #bookingForm, #booking-form, #contactform, #contactform1').submit(function (event) {
+        event.preventDefault();
+        return false;
+    });
+
+})(jQuery);
 
 
- jQuery(window).on('resize load', () => {
-     resize_eb_slider();
- }).resize();
- /**
-  * Resize slider
-  */
- function resize_eb_slider() {
-     let bodyheight = jQuery(this).height();
-     if (jQuery(window).width() > 1400) {
-         bodyheight *= 0.90;
-         jQuery('.slider').css('height', `${bodyheight}px`);
-     }
- }
+jQuery(window).on('resize load', () => {
+    resize_eb_slider();
+}).resize();
+/**
+ * Resize slider
+ */
+function resize_eb_slider() {
+    let bodyheight = jQuery(this).height();
+    if (jQuery(window).width() > 1400) {
+        bodyheight *= 0.90;
+        jQuery('.slider').css('height', `${bodyheight}px`);
+    }
+}
 
-/* Mega-Menu JS*/ 
+/* Mega-Menu JS*/
 
 (function () {
-  const trigger = document.getElementById('megaTrigger');
-  const panel   = document.getElementById('megaFull');
-  const closeBt = panel.querySelector('.mega-close');
-  const body    = document.body;
+    const trigger = document.getElementById('megaTrigger');
+    const panel = document.getElementById('megaFull');
+    const closeBt = panel.querySelector('.mega-close');
+    const body = document.body;
 
-  // --- Kaydırma kilidi (sadece JS) ---
-  let _scrollY = 0;
+    // --- Kaydırma kilidi (sadece JS) ---
+    let _scrollY = 0;
 
-  const preventScroll = (e) => {
-    // wheel / touchmove default'larını engelle
-    e.preventDefault();
-  };
+    const preventScroll = (e) => {
+        // wheel / touchmove default'larını engelle
+        e.preventDefault();
+    };
 
-  const preventScrollKeys = (e) => {
-    // Klavye ile kaydırmayı engelle
-    const k = e.key;
-    if (k === ' ' || k === 'Spacebar' || // eski tarayıcı desteği
-        k === 'PageUp' || k === 'PageDown' ||
-        k === 'Home' || k === 'End' ||
-        k === 'ArrowUp' || k === 'ArrowDown' ||
-        k === 'ArrowLeft' || k === 'ArrowRight') {
-      e.preventDefault();
+    const preventScrollKeys = (e) => {
+        // Klavye ile kaydırmayı engelle
+        const k = e.key;
+        if (k === ' ' || k === 'Spacebar' || // eski tarayıcı desteği
+            k === 'PageUp' || k === 'PageDown' ||
+            k === 'Home' || k === 'End' ||
+            k === 'ArrowUp' || k === 'ArrowDown' ||
+            k === 'ArrowLeft' || k === 'ArrowRight') {
+            e.preventDefault();
+        }
+    };
+
+    function lockScroll() {
+        // 1) Anlık konumu sakla
+        _scrollY = window.scrollY || document.documentElement.scrollTop || 0;
+
+        // 2) Scrollbar genişliği kadar sağ padding vererek layout kaymasını önle
+        const sbw = window.innerWidth - document.documentElement.clientWidth;
+        if (sbw > 0) body.style.paddingRight = sbw + 'px';
+
+        // 3) Body'yi fixed'e alarak kaydırmayı fiziksel olarak durdur
+        body.style.position = 'fixed';
+        body.style.top = `-${_scrollY}px`;
+        body.style.left = '0';
+        body.style.right = '0';
+        body.style.width = '100%';
+
+        // 4) Tüm kaydırma girişimlerini iptal et
+        window.addEventListener('wheel', preventScroll, { passive: false });
+        window.addEventListener('touchmove', preventScroll, { passive: false });
+        window.addEventListener('keydown', preventScrollKeys, { passive: false });
+
+        // (isteğe bağlı) Orta tuş auto-scroll kapatma:
+        // window.addEventListener('mousedown', (e)=>{ if(e.button===1) e.preventDefault(); }, { passive:false });
     }
-  };
 
-  function lockScroll() {
-    // 1) Anlık konumu sakla
-    _scrollY = window.scrollY || document.documentElement.scrollTop || 0;
+    function unlockScroll() {
+        // Eventleri geri al
+        window.removeEventListener('wheel', preventScroll, { passive: false });
+        window.removeEventListener('touchmove', preventScroll, { passive: false });
+        window.removeEventListener('keydown', preventScrollKeys, { passive: false });
 
-    // 2) Scrollbar genişliği kadar sağ padding vererek layout kaymasını önle
-    const sbw = window.innerWidth - document.documentElement.clientWidth;
-    if (sbw > 0) body.style.paddingRight = sbw + 'px';
+        // Body stilini eski haline getir
+        body.style.position = '';
+        body.style.top = '';
+        body.style.left = '';
+        body.style.right = '';
+        body.style.width = '';
+        body.style.paddingRight = '';
 
-    // 3) Body'yi fixed'e alarak kaydırmayı fiziksel olarak durdur
-    body.style.position = 'fixed';
-    body.style.top = `-${_scrollY}px`;
-    body.style.left = '0';
-    body.style.right = '0';
-    body.style.width = '100%';
+        // Kaldığı yere geri sar
+        window.scrollTo(0, _scrollY);
+    }
 
-    // 4) Tüm kaydırma girişimlerini iptal et
-    window.addEventListener('wheel',     preventScroll, { passive: false });
-    window.addEventListener('touchmove', preventScroll, { passive: false });
-    window.addEventListener('keydown',   preventScrollKeys, { passive: false });
+    // --- Var olan fonksiyonlarına entegre et ---
+    function setNavHeight() { /* sende zaten var, dokunmuyoruz */ }
 
-    // (isteğe bağlı) Orta tuş auto-scroll kapatma:
-    // window.addEventListener('mousedown', (e)=>{ if(e.button===1) e.preventDefault(); }, { passive:false });
-  }
-
-  function unlockScroll() {
-    // Eventleri geri al
-    window.removeEventListener('wheel',     preventScroll, { passive: false });
-    window.removeEventListener('touchmove', preventScroll, { passive: false });
-    window.removeEventListener('keydown',   preventScrollKeys, { passive: false });
-
-    // Body stilini eski haline getir
-    body.style.position = '';
-    body.style.top = '';
-    body.style.left = '';
-    body.style.right = '';
-    body.style.width = '';
-    body.style.paddingRight = '';
-
-    // Kaldığı yere geri sar
-    window.scrollTo(0, _scrollY);
-  }
-
-  // --- Var olan fonksiyonlarına entegre et ---
-  function setNavHeight(){ /* sende zaten var, dokunmuyoruz */ }
-
-  function openMega() {
-  setNavHeight();
-  panel.classList.add('is-open');
-  panel.setAttribute('aria-hidden', 'false');
-  body.classList.add('mega-lock');
-  lockScroll();
-}
+    function openMega() {
+        setNavHeight();
+        panel.classList.add('is-open');
+        panel.setAttribute('aria-hidden', 'false');
+        body.classList.add('mega-lock');
+        lockScroll();
+    }
 
 
-  function closeMega() {
-  // önce odağı kaldır
-  if (document.activeElement && panel.contains(document.activeElement)) {
-    document.activeElement.blur();
-  }
+    function closeMega() {
+        // önce odağı kaldır
+        if (document.activeElement && panel.contains(document.activeElement)) {
+            document.activeElement.blur();
+        }
 
-  // sonra aria ve class işlemleri
-  panel.classList.remove('is-open');
-  panel.setAttribute('aria-hidden', 'true');
-  body.classList.remove('mega-lock');
-  unlockScroll();
-}
+        // sonra aria ve class işlemleri
+        panel.classList.remove('is-open');
+        panel.setAttribute('aria-hidden', 'true');
+        body.classList.remove('mega-lock');
+        unlockScroll();
+    }
 
 
-  function toggle(e){
-    e.preventDefault();
-    panel.classList.contains('is-open') ? closeMega() : openMega();
-  }
+    function toggle(e) {
+        e.preventDefault();
+        panel.classList.contains('is-open') ? closeMega() : openMega();
+    }
 
-  trigger.addEventListener('click', toggle);
-  closeBt.addEventListener('click', closeMega);
-  document.addEventListener('keydown', (e)=>{ if(e.key==='Escape' && panel.classList.contains('is-open')) closeMega(); });
-  panel.addEventListener('click', (e)=>{ if(e.target===panel) closeMega(); });
+    trigger.addEventListener('click', toggle);
+    closeBt.addEventListener('click', closeMega);
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && panel.classList.contains('is-open')) closeMega(); });
+    panel.addEventListener('click', (e) => { if (e.target === panel) closeMega(); });
 
-  // sekmeler vs. kalan kodların aynı kalabilir…
+    // sekmeler vs. kalan kodların aynı kalabilir…
 })();
 
 
 /*mega menu img change JS*/
 
 document.addEventListener('DOMContentLoaded', function () {
-  const mega = document.getElementById('megaFull');
-  if (!mega) return;
+    const mega = document.getElementById('megaFull');
+    if (!mega) return;
 
-  const catsNav = mega.querySelector('.mega-cats');
-  const catLinks = Array.from(catsNav.querySelectorAll('[data-mega-tab]'));
-  const lists = Array.from(mega.querySelectorAll('.mega-content .mega-list'));
-  const heroImg = mega.querySelector('#megaHero') || mega.querySelector('.mega-grid > img');
+    const catsNav = mega.querySelector('.mega-cats');
+    const catLinks = Array.from(catsNav.querySelectorAll('[data-mega-tab]'));
+    const lists = Array.from(mega.querySelectorAll('.mega-content .mega-list'));
+    const heroImg = mega.querySelector('#megaHero') || mega.querySelector('.mega-grid > img');
 
-  // HTML'de data-hero yoksa kullanılacak fallback eşlemesi
-  const HERO_MAP = {
-    eu: 'images/mega-menu-photo/europian.jpg',
-    af: 'images/mega-menu-photo/africansafari.jpg',
-    la: 'images/mega-menu-photo/latin-america.jpg',
-    sp: 'images/mega-menu-photo/guney-pasific.jpg',
-    as: 'images/mega-menu-photo/asia.jpg',         // Asya = Tokyo görselin
-    me: 'images/mega-menu-photo/midle-East.jpg',
-    an: 'images/mega-menu-photo/antartica.jpg',
-    afs:'images/mega-menu-photo/africansafari.jpg',
-    gt: 'images/mega-menu-photo/cruise.jpg'
-  };
+    // HTML'de data-hero yoksa kullanılacak fallback eşlemesi
+    const HERO_MAP = {
+        eu: 'images/mega-menu-photo/europian.jpg',
+        af: 'images/mega-menu-photo/africansafari.jpg',
+        la: 'images/mega-menu-photo/latin-america.jpg',
+        sp: 'images/mega-menu-photo/guney-pasific.jpg',
+        as: 'images/mega-menu-photo/asia.jpg',         // Asya = Tokyo görselin
+        me: 'images/mega-menu-photo/midle-East.jpg',
+        an: 'images/mega-menu-photo/antartica.jpg',
+        afs: 'images/mega-menu-photo/africansafari.jpg',
+        gt: 'images/mega-menu-photo/cruise.jpg'
+    };
 
 
-  function showTab(key) {
-    // Sol menü: aktif link sınıfı
-    catLinks.forEach(a => {
-      const isTarget = a.dataset.megaTab === key;
-      a.classList.toggle('is-active', isTarget);
-      a.setAttribute('aria-current', isTarget ? 'true' : 'false');
+    function showTab(key) {
+        // Sol menü: aktif link sınıfı
+        catLinks.forEach(a => {
+            const isTarget = a.dataset.megaTab === key;
+            a.classList.toggle('is-active', isTarget);
+            a.setAttribute('aria-current', isTarget ? 'true' : 'false');
+        });
+
+        // Sağ listeler: sadece hedef UL görünür, diğerleri gizli
+        lists.forEach(ul => {
+            const match = ul.dataset.megaContent === key;
+            if (match) {
+                ul.hidden = false;
+                ul.setAttribute('aria-hidden', 'false');
+            } else {
+                ul.hidden = true;
+                ul.setAttribute('aria-hidden', 'true');
+            }
+        });
+
+        // Hero görsel: data-hero > HERO_MAP > mevcut src (fallback)
+        const activeLink = catLinks.find(a => a.dataset.megaTab === key);
+        if (heroImg && activeLink) {
+            const nextSrc = activeLink.dataset.hero || HERO_MAP[key] || heroImg.getAttribute('src');
+            if (nextSrc && heroImg.getAttribute('src') !== nextSrc) {
+                // Küçük bir geçiş efekti istersen:
+                heroImg.style.opacity = '0';
+                const altText = activeLink.textContent.trim();
+                const img = new Image();
+                img.onload = () => {
+                    heroImg.src = nextSrc;
+                    heroImg.alt = altText;
+                    requestAnimationFrame(() => { heroImg.style.opacity = '1'; });
+                };
+                img.src = nextSrc;
+            } else {
+                heroImg.alt = activeLink.textContent.trim();
+            }
+        }
+    }
+
+    // Tıklama ve klavye (Enter/Space) ile sekme değiştir
+    catsNav.addEventListener('click', function (e) {
+        const a = e.target.closest('[data-mega-tab]');
+        if (!a) return;
+        e.preventDefault();
+        showTab(a.dataset.megaTab);
     });
 
-    // Sağ listeler: sadece hedef UL görünür, diğerleri gizli
-    lists.forEach(ul => {
-      const match = ul.dataset.megaContent === key;
-      if (match) {
-        ul.hidden = false;
-        ul.setAttribute('aria-hidden', 'false');
-      } else {
-        ul.hidden = true;
-        ul.setAttribute('aria-hidden', 'true');
-      }
+    catsNav.addEventListener('keydown', function (e) {
+        const a = e.target.closest('[data-mega-tab]');
+        if (!a) return;
+        if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            showTab(a.dataset.megaTab);
+        }
     });
 
-    // Hero görsel: data-hero > HERO_MAP > mevcut src (fallback)
-    const activeLink = catLinks.find(a => a.dataset.megaTab === key);
-    if (heroImg && activeLink) {
-      const nextSrc = activeLink.dataset.hero || HERO_MAP[key] || heroImg.getAttribute('src');
-      if (nextSrc && heroImg.getAttribute('src') !== nextSrc) {
-        // Küçük bir geçiş efekti istersen:
-        heroImg.style.opacity = '0';
-        const altText = activeLink.textContent.trim();
-        const img = new Image();
-        img.onload = () => {
-          heroImg.src = nextSrc;
-          heroImg.alt = altText;
-          requestAnimationFrame(() => { heroImg.style.opacity = '1'; });
-        };
-        img.src = nextSrc;
-      } else {
-        heroImg.alt = activeLink.textContent.trim();
-      }
-    }
-  }
-
-  // Tıklama ve klavye (Enter/Space) ile sekme değiştir
-  catsNav.addEventListener('click', function (e) {
-    const a = e.target.closest('[data-mega-tab]');
-    if (!a) return;
-    e.preventDefault();
-    showTab(a.dataset.megaTab);
-  });
-
-  catsNav.addEventListener('keydown', function (e) {
-    const a = e.target.closest('[data-mega-tab]');
-    if (!a) return;
-    if (e.key === 'Enter' || e.key === ' ') {
-      e.preventDefault();
-      showTab(a.dataset.megaTab);
-    }
-  });
-
-  // Başlangıç durumu: .is-active varsa onu aç; yoksa ilkini
-  const initial = catLinks.find(a => a.classList.contains('is-active')) || catLinks[0];
-  if (initial) showTab(initial.dataset.megaTab);
+    // Başlangıç durumu: .is-active varsa onu aç; yoksa ilkini
+    const initial = catLinks.find(a => a.classList.contains('is-active')) || catLinks[0];
+    if (initial) showTab(initial.dataset.megaTab);
 });
 
 // Hava durumu JS
@@ -791,16 +771,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
 document.addEventListener("DOMContentLoaded", function () {
     const table = document.getElementById("havaTablosu");
-    const rows  = table.querySelectorAll("tbody tr");
+    const rows = table.querySelectorAll("tbody tr");
 
     rows.forEach(row => {
         // 0: Ay, 1: Min, 2: Max, 3: Yağmur
-        const minCell  = row.children[1];
-        const maxCell  = row.children[2];
+        const minCell = row.children[1];
+        const maxCell = row.children[2];
         const rainCell = row.children[3];
 
-        const min  = parseFloat(minCell.textContent);
-        const max  = parseFloat(maxCell.textContent);
+        const min = parseFloat(minCell.textContent);
+        const max = parseFloat(maxCell.textContent);
         const rain = parseFloat(rainCell.textContent);
 
         // --- Min sıcaklık ---
@@ -852,48 +832,48 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 // tour copy JS
- document.addEventListener('DOMContentLoaded', function () {
-  const topCards = document.querySelectorAll('#tourCards .tour-card');
-  const bottomContainer = document.querySelector('#copyTours .swiper-wrapper');
+document.addEventListener('DOMContentLoaded', function () {
+    const topCards = document.querySelectorAll('#tourCards .tour-card');
+    const bottomContainer = document.querySelector('#copyTours .swiper-wrapper');
 
-  if (!bottomContainer || topCards.length === 0) return;
+    if (!bottomContainer || topCards.length === 0) return;
 
-  topCards.forEach((card, index) => {
-    if (index < 6) {
-      const clone = card.cloneNode(true);
-      clone.classList.add('swiper-slide');
-      bottomContainer.appendChild(clone);
-    }
-  });
+    topCards.forEach((card, index) => {
+        if (index < 6) {
+            const clone = card.cloneNode(true);
+            clone.classList.add('swiper-slide');
+            bottomContainer.appendChild(clone);
+        }
+    });
 
-  // Swiper'ı BAŞLAT
-  const toursSwiper = new Swiper('#copyTours', {
-    slidesPerView: 3,
-    spaceBetween: 24,
-    loop: true,
-    autoplay: {
-      delay: 2500,
-      disableOnInteraction: false,
-    },
-    speed: 600,
-    grabCursor: true,
+    // Swiper'ı BAŞLAT
+    const toursSwiper = new Swiper('#copyTours', {
+        slidesPerView: 3,
+        spaceBetween: 24,
+        loop: true,
+        autoplay: {
+            delay: 2500,
+            disableOnInteraction: false,
+        },
+        speed: 600,
+        grabCursor: true,
 
-    // breakpoint'ler
-    breakpoints: {
-      576: { slidesPerView: 1 },
-      992: { slidesPerView: 2 },
-      1200: { slidesPerView: 3 },
-    },
+        // breakpoint'ler
+        breakpoints: {
+            576: { slidesPerView: 1 },
+            992: { slidesPerView: 2 },
+            1200: { slidesPerView: 3 },
+        },
 
-    // boyut değişimlerini otomatik izle
-    observer: true,
-    observeParents: true,
-  });
+        // boyut değişimlerini otomatik izle
+        observer: true,
+        observeParents: true,
+    });
 
-  // Tüm sayfa + görseller yüklendikten sonra bir kez daha hesaplat
-  window.addEventListener('load', () => {
-    toursSwiper.update();
-  });
+    // Tüm sayfa + görseller yüklendikten sonra bir kez daha hesaplat
+    window.addEventListener('load', () => {
+        toursSwiper.update();
+    });
 });
 
 
