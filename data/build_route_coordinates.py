@@ -14,7 +14,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.join(BASE_DIR, "big_siempre_tour_tours")
 CACHE_PATH = os.path.join(BASE_DIR, "geocode_cache.json")
 
-MAPBOX_TOKEN = "pk.eyJ1IjoidG9sZ2F5aWxtYXp6IiwiYSI6ImNtbHRha3FyYTBlZnkzZXMxbW02bTJ0cmQifQ.PgjbsMatO5oIZhAAhICEZQ"
+MAPBOX_TOKEN = ""
 
 SLEEP_BETWEEN_REQUESTS = 0.1
 MAX_RETRIES = 3
