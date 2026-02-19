@@ -68,7 +68,113 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Thebes",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Queen Hatchepsut Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -134,7 +240,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -195,7 +375,99 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt"
+      },
+      {
+        "name": "Blue Hole",
+        "country": "Egypt"
+      },
+      {
+        "name": "Canyon",
+        "country": "Egypt"
+      },
+      {
+        "name": "Lighthouse",
+        "country": "Egypt"
+      },
+      {
+        "name": "Islands",
+        "country": "Egypt"
+      },
+      {
+        "name": "Wadi Gunai",
+        "country": "Egypt"
+      },
+      {
+        "name": "3 Pools",
+        "country": "Egypt"
+      },
+      {
+        "name": "Mashruba",
+        "country": "Egypt"
+      },
+      {
+        "name": "Ricks Reef",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Helal",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Talal",
+        "country": "Egypt"
+      },
+      {
+        "name": "Eel Garden",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt",
+        "lat": 28.499113,
+        "lng": 34.519817
+      },
+      {
+        "name": "Wadi Gunai",
+        "country": "Egypt",
+        "lat": 29.531355,
+        "lng": 31.289448
+      },
+      {
+        "name": "3 Pools",
+        "country": "Egypt",
+        "lat": 30.676628,
+        "lng": 30.15137
+      },
+      {
+        "name": "Abu Helal",
+        "country": "Egypt",
+        "lat": 30.642641,
+        "lng": 31.171734
+      },
+      {
+        "name": "Abu Talal",
+        "country": "Egypt",
+        "lat": 31.28484,
+        "lng": 31.562973
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -261,7 +533,151 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "The Sphinx",
+        "country": "Egypt"
+      },
+      {
+        "name": "National Museum of Egyptian Civilisation",
+        "country": "Egypt"
+      },
+      {
+        "name": "Coptic Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Muhammed Ali Mosque",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan Dam",
+        "country": "Egypt"
+      },
+      {
+        "name": "Elephantine Island",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple Complex",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Workers",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Hatshepsut",
+        "country": "Egypt"
+      },
+      {
+        "name": "Khan El Khalili Bazaar",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Coptic Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Aswan Dam",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -322,7 +738,103 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sakkara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Coptic Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Islamic Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Coptic Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Islamic Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -408,7 +920,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sakkara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hatshepsut Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Philae",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sharm El Sheikh",
+        "country": "Egypt"
+      },
+      {
+        "name": "Ras Mohamed National Park",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Sharm El Sheikh",
+        "country": "Egypt",
+        "lat": 27.909058,
+        "lng": 34.325226
+      },
+      {
+        "name": "Ras Mohamed National Park",
+        "country": "Egypt",
+        "lat": 27.754436,
+        "lng": 34.241035
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -474,7 +1110,99 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -535,7 +1263,83 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dahshur",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "name": "Old Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Khan El-Khalili",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Dahshur",
+        "country": "Egypt",
+        "lat": 29.750814,
+        "lng": 31.240938
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      },
+      {
+        "name": "Old Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -591,7 +1395,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Bahariya Oasis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Black Desert",
+        "country": "Egypt"
+      },
+      {
+        "name": "White Desert",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -637,7 +1495,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Grand Egyptian Museum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Citadel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Khan al Khalili",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nile River",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Whales",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -688,7 +1614,131 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Old Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Coptic Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Islamic Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Citadel of Saladin",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alabaster Mosque",
+        "country": "Egypt"
+      },
+      {
+        "name": "Khan El Khalili Bazaar",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "name": "Bibliotheca Alexandrina",
+        "country": "Egypt"
+      },
+      {
+        "name": "Roman Amphitheatre",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sultan Qa?it Bey Citadel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria Catacombs",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Old Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Coptic Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Islamic Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      },
+      {
+        "name": "Bibliotheca Alexandrina",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      },
+      {
+        "name": "Roman Amphitheatre",
+        "country": "Egypt",
+        "lat": 31.012379,
+        "lng": 32.662254
+      },
+      {
+        "name": "Alexandria Catacombs",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -739,7 +1789,105 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sakkara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza Plateau",
+        "country": "Egypt"
+      },
+      {
+        "name": "Grand Egyptian Museum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Egyptian Museum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Tahrir Square",
+        "country": "Egypt"
+      },
+      {
+        "name": "Qaitbay Citadel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria Library",
+        "country": "Egypt"
+      },
+      {
+        "name": "Roman Catacombs",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      },
+      {
+        "name": "Giza Plateau",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Alexandria Library",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      },
+      {
+        "name": "Roman Catacombs",
+        "country": "Egypt",
+        "lat": 31.012379,
+        "lng": 32.662254
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -790,7 +1938,55 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -896,7 +2092,359 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Betty's Bay",
+        "country": "South Africa"
+      },
+      {
+        "name": "Hermanus",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Agulhas",
+        "country": "South Africa"
+      },
+      {
+        "name": "Outeniqua Mountains",
+        "country": "South Africa"
+      },
+      {
+        "name": "Little Karoo",
+        "country": "South Africa"
+      },
+      {
+        "name": "Knysna",
+        "country": "South Africa"
+      },
+      {
+        "name": "Tsitsikamma Forest",
+        "country": "South Africa"
+      },
+      {
+        "name": "Addo Elephant National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Lesotho",
+        "country": "Lesotho"
+      },
+      {
+        "name": "Maseru",
+        "country": "Lesotho"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Maun",
+        "country": "Botswana"
+      },
+      {
+        "name": "Okavango Delta",
+        "country": "Botswana"
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi"
+      },
+      {
+        "name": "Dar Es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Lake Naivasha",
+        "country": "Kenya"
+      },
+      {
+        "name": "Lake Nakuru National Park",
+        "country": "Kenya"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Bahir Dar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Khartoum",
+        "country": "Sudan"
+      },
+      {
+        "name": "Wadi Halfa",
+        "country": "Sudan"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Betty's Bay",
+        "country": "South Africa",
+        "lat": -34.351936,
+        "lng": 18.918617
+      },
+      {
+        "name": "Hermanus",
+        "country": "South Africa",
+        "lat": -34.420567,
+        "lng": 19.241768
+      },
+      {
+        "name": "Cape Agulhas",
+        "country": "South Africa",
+        "lat": -34.83145,
+        "lng": 20.00673
+      },
+      {
+        "name": "Outeniqua Mountains",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Little Karoo",
+        "country": "South Africa",
+        "lat": -25.081411,
+        "lng": 27.929525
+      },
+      {
+        "name": "Knysna",
+        "country": "South Africa",
+        "lat": -34.03538,
+        "lng": 23.048079
+      },
+      {
+        "name": "Tsitsikamma Forest",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Addo Elephant National Park",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Maseru",
+        "country": "Lesotho",
+        "lat": -29.344175,
+        "lng": 27.496523
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      },
+      {
+        "name": "Maun",
+        "country": "Botswana",
+        "lat": -19.988626,
+        "lng": 23.42207
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana",
+        "lat": -17.799239,
+        "lng": 25.156546
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe",
+        "lat": -17.831773,
+        "lng": 31.045686
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Dar Es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Lake Naivasha",
+        "country": "Kenya",
+        "lat": -0.719343,
+        "lng": 36.433064
+      },
+      {
+        "name": "Lake Nakuru National Park",
+        "country": "Kenya",
+        "lat": -2.131049,
+        "lng": 37.44916
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "lat": 0.435304,
+        "lng": 33.205557
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Bahir Dar",
+        "country": "Ethiopia",
+        "lat": 11.588551,
+        "lng": 37.384398
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia",
+        "lat": 12.035836,
+        "lng": 39.055571
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia",
+        "lat": 12.617401,
+        "lng": 37.465476
+      },
+      {
+        "name": "Khartoum",
+        "country": "Sudan",
+        "lat": 15.588,
+        "lng": 32.525
+      },
+      {
+        "name": "Wadi Halfa",
+        "country": "Sudan",
+        "lat": 21.8005,
+        "lng": 31.350737
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -972,7 +2520,117 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Hatshepsut",
+        "country": "Egypt"
+      },
+      {
+        "name": "Habu Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -1053,7 +2711,101 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Elephantine Island",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple Complex",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Workers",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Hatshepsut",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -1139,7 +2891,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.453524,
+        "lng": 54.377438
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -1235,7 +3081,115 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -1301,7 +3255,97 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza Pyramids",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nubian bazaar",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Isis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nile felucca journey",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel temple",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza Pyramids",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Abu Simbel temple",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -1387,7 +3431,215 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Grand Egyptian Museum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Tahrir Square",
+        "country": "Egypt"
+      },
+      {
+        "name": "Citadel of Salah al-Din",
+        "country": "Egypt"
+      },
+      {
+        "name": "Khan El Khalili Bazaar",
+        "country": "Egypt"
+      },
+      {
+        "name": "Old Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "National Museum of Egyptian Civilization",
+        "country": "Egypt"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "W.E.B Du Bois Centre",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kwame Nkrumah Memorial Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Independence Square",
+        "country": "Ghana"
+      },
+      {
+        "name": "Assin Manso",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina Castle",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast Castle",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Prempeh II Jubilee Museum",
+        "country": "Ghana"
+      },
+      {
+        "name": "Ahwiaa",
+        "country": "Ghana"
+      },
+      {
+        "name": "Ntonso",
+        "country": "Ghana"
+      },
+      {
+        "name": "Adanwomase",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Citadel of Salah al-Din",
+        "country": "Egypt",
+        "lat": 27.231422,
+        "lng": 31.112698
+      },
+      {
+        "name": "Old Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "W.E.B Du Bois Centre",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kwame Nkrumah Memorial Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Independence Square",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Assin Manso",
+        "country": "Ghana",
+        "lat": 5.522605,
+        "lng": -1.16542
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Elmina Castle",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Cape Coast Castle",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Prempeh II Jubilee Museum",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Ahwiaa",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Ntonso",
+        "country": "Ghana",
+        "lat": 6.835499,
+        "lng": -1.516011
+      },
+      {
+        "name": "Adanwomase",
+        "country": "Ghana",
+        "lat": 6.812532,
+        "lng": -1.475672
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -1463,7 +3715,115 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -1564,7 +3924,127 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mt. Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -1670,7 +4150,145 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Mujib",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt",
+        "lat": 28.499113,
+        "lng": 34.519817
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -1756,7 +4374,127 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Colossi of Memnon",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sinai",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt",
+        "lat": 28.499113,
+        "lng": 34.519817
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -1832,7 +4570,85 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Whales",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -1918,7 +4734,149 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Old Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Coptic Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Islamic Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Elephantine Island",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Workers",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Hatshepsut",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Old Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Coptic Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Islamic Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -1989,7 +4947,105 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nubian Village",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Hatshepsut",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Citadel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Khan-el-Khalili",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -2060,7 +5116,113 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Pyramids of Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Isis at Philae",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Queen Hatshepsut Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      },
+      {
+        "name": "Red Sea",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Pyramids of Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      },
+      {
+        "name": "Red Sea",
+        "country": "Egypt",
+        "lat": 27.226487,
+        "lng": 33.835062
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -2126,7 +5288,61 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sharm El Sheikh",
+        "country": "Egypt"
+      },
+      {
+        "name": "Ras Mohamed National Park",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Sharm El Sheikh",
+        "country": "Egypt",
+        "lat": 27.909058,
+        "lng": 34.325226
+      },
+      {
+        "name": "Ras Mohamed National Park",
+        "country": "Egypt",
+        "lat": 27.754436,
+        "lng": 34.241035
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -2192,7 +5408,65 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giftun Island National Park",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -2273,7 +5547,121 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Marsa Alam",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt",
+        "lat": 25.30078,
+        "lng": 32.555386
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Marsa Alam",
+        "country": "Egypt",
+        "lat": 25.071253,
+        "lng": 34.89386
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -2354,7 +5742,117 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae",
+        "country": "Egypt"
+      },
+      {
+        "name": "Koubania",
+        "country": "Egypt"
+      },
+      {
+        "name": "Daraw",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Daraw",
+        "country": "Egypt",
+        "lat": 24.41124,
+        "lng": 32.92797
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -2440,7 +5938,119 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Fayoum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Lake Qaroun",
+        "country": "Egypt"
+      },
+      {
+        "name": "Wadi Rayan National Park",
+        "country": "Egypt"
+      },
+      {
+        "name": "El Minya",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abydos",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Fayoum",
+        "country": "Egypt",
+        "lat": 29.30894,
+        "lng": 30.845884
+      },
+      {
+        "name": "Wadi Rayan National Park",
+        "country": "Egypt",
+        "lat": 31.37197,
+        "lng": 31.475231
+      },
+      {
+        "name": "El Minya",
+        "country": "Egypt",
+        "lat": 28.102425,
+        "lng": 30.756323
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -2511,7 +6121,113 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hatshepsut Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "National Museum of Egyptian Civilization",
+        "country": "Egypt"
+      },
+      {
+        "name": "Old Cairo",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Old Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -2597,7 +6313,135 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sakkara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hatshepsut Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Colossi of Memnon",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -2678,7 +6522,115 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Pyramids of Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sphinx",
+        "country": "Egypt"
+      },
+      {
+        "name": "Egyptian Museum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nile river",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Queen Hatshepsut",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      },
+      {
+        "name": "Red Sea",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Pyramids of Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel temple",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      },
+      {
+        "name": "Red Sea",
+        "country": "Egypt",
+        "lat": 27.226487,
+        "lng": 33.835062
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -2784,7 +6736,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Fayoum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Minya",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Fayoum",
+        "country": "Egypt",
+        "lat": 29.30894,
+        "lng": 30.845884
+      },
+      {
+        "name": "Minya",
+        "country": "Egypt",
+        "lat": 28.102425,
+        "lng": 30.756323
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -2870,7 +6926,73 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nile",
+        "country": null
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Thebes",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -2951,7 +7073,89 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Komombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3022,7 +7226,87 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Queen Hatchepsut Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Medinat Habu Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Colossi of Memnon",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3088,7 +7372,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dashour",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Wadi Rayan",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Wadi Rayan",
+        "country": "Egypt",
+        "lat": 31.37197,
+        "lng": 31.475231
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3189,7 +7587,129 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Great Pyramid of Giza and the Sphinx",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Elephantine Island",
+        "country": "Egypt"
+      },
+      {
+        "name": "Fayoum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Wadi El Rayan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Wadi Al-Hitan",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Great Pyramid of Giza and the Sphinx",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Fayoum",
+        "country": "Egypt",
+        "lat": 29.30894,
+        "lng": 30.845884
+      },
+      {
+        "name": "Wadi El Rayan",
+        "country": "Egypt",
+        "lat": 31.37197,
+        "lng": 31.475231
+      },
+      {
+        "name": "Wadi Al-Hitan",
+        "country": "Egypt",
+        "lat": 29.16483,
+        "lng": 33.098137
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3265,7 +7785,71 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kharga",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dakhla Oasis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Kharga",
+        "country": "Egypt",
+        "lat": 25.450586,
+        "lng": 30.546268
+      },
+      {
+        "name": "Dakhla Oasis",
+        "country": "Egypt",
+        "lat": 31.25221,
+        "lng": 31.684082
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3341,7 +7925,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3407,7 +8065,143 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Great Pyramids of Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sphinx",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Step Pyramid",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Colossi of Memnon",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan High Dam",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Egyptian Museum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Grand Egyptian Museum",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Great Pyramids of Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Luxor Temple",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Aswan High Dam",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3473,7 +8267,89 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3549,7 +8425,117 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nile River",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Hatshepsut",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      },
+      {
+        "name": "Red Sea",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      },
+      {
+        "name": "Red Sea",
+        "country": "Egypt",
+        "lat": 27.226487,
+        "lng": 33.835062
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3655,7 +8641,129 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajlun",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Ajlun",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "Shobak",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3716,7 +8824,35 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt"
+      },
+      {
+        "name": "Ras Abu Galum National Park",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt",
+        "lat": 28.499113,
+        "lng": 34.519817
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3832,7 +8968,143 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza Pyramids and Sphinx",
+        "country": "Egypt"
+      },
+      {
+        "name": "Egyptian Museum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "name": "El Alamein",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan High Dam",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor Temple",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza Pyramids and Sphinx",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      },
+      {
+        "name": "El Alamein",
+        "country": "Egypt",
+        "lat": 30.833513,
+        "lng": 28.949265
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Aswan High Dam",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Luxor Temple",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3918,7 +9190,143 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nubian Village",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Hatshepsut",
+        "country": "Egypt"
+      },
+      {
+        "name": "Colossi of Memnon",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      },
+      {
+        "name": "Old Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Khan-el-Khalili",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      },
+      {
+        "name": "Old Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -3989,7 +9397,65 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt",
+        "lat": 28.499113,
+        "lng": 34.519817
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4080,7 +9546,201 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza Plateau",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hatshepsut Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Colossi of Memnon",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan High Dam",
+        "country": "Egypt"
+      },
+      {
+        "name": "Grand Egyptian Museum",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza Plateau",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Aswan High Dam",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4171,7 +9831,171 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Umayyad Palace",
+        "country": "Jordan"
+      },
+      {
+        "name": "King's Highway",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Egyptian Museum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Pyramids of Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sphinx",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Philae",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nile",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Colossi of Memnon",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Pyramids of Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4252,7 +10076,113 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dahshur",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Egyptian Museum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Coptic Cairo",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Dahshur",
+        "country": "Egypt",
+        "lat": 29.750814,
+        "lng": 31.240938
+      },
+      {
+        "name": "Coptic Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4318,7 +10248,103 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sakkara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt"
+      },
+      {
+        "name": "El Kab",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Gebel Silsela",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt",
+        "lat": 25.30078,
+        "lng": 32.555386
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4409,7 +10435,105 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4475,7 +10599,103 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aglika Island",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4546,7 +10766,105 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Pyramids at Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan Dam",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Pyramids at Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Aswan Dam",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4607,7 +10925,117 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Daraw",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Bashir Island",
+        "country": "Egypt"
+      },
+      {
+        "name": "Faris",
+        "country": "Egypt"
+      },
+      {
+        "name": "Gebel Silsileh",
+        "country": "Egypt"
+      },
+      {
+        "name": "Wadi el-Chott",
+        "country": "Egypt"
+      },
+      {
+        "name": "Fawaza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfou",
+        "country": "Egypt"
+      },
+      {
+        "name": "El Kab",
+        "country": "Egypt"
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Daraw",
+        "country": "Egypt",
+        "lat": 24.41124,
+        "lng": 32.92797
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Faris",
+        "country": "Egypt",
+        "lat": 24.614708,
+        "lng": 32.90398
+      },
+      {
+        "name": "Wadi el-Chott",
+        "country": "Egypt",
+        "lat": 29.531355,
+        "lng": 31.289448
+      },
+      {
+        "name": "Edfou",
+        "country": "Egypt",
+        "lat": 24.979143,
+        "lng": 32.875927
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt",
+        "lat": 25.30078,
+        "lng": 32.555386
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4668,7 +11096,79 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Daraw",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Gebel el Silsila",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "El Kab",
+        "country": "Egypt"
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Daraw",
+        "country": "Egypt",
+        "lat": 24.41124,
+        "lng": 32.92797
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt",
+        "lat": 25.30078,
+        "lng": 32.555386
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4744,7 +11244,159 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dendera",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor Museum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Queens",
+        "country": "Egypt"
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt"
+      },
+      {
+        "name": "El Hegz",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Quarries of El Silsila-Farez",
+        "country": "Egypt"
+      },
+      {
+        "name": "Daraw camel market",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Rameses II",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Isis",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Luxor Museum",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Luxor Temple",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Temple of Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt",
+        "lat": 25.30078,
+        "lng": 32.555386
+      },
+      {
+        "name": "Edfu Temple",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Daraw camel market",
+        "country": "Egypt",
+        "lat": 24.41124,
+        "lng": 32.92797
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Temple of Rameses II",
+        "country": "Egypt",
+        "lat": 30.824316,
+        "lng": 30.65054
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4805,7 +11457,63 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Meidum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dahshur",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza Plateau",
+        "country": "Egypt"
+      },
+      {
+        "name": "The Sphinx",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Dahshur",
+        "country": "Egypt",
+        "lat": 29.750814,
+        "lng": 31.240938
+      },
+      {
+        "name": "Giza Plateau",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4861,7 +11569,103 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      },
+      {
+        "name": "Carless Reef",
+        "country": "Egypt"
+      },
+      {
+        "name": "Brothers Islands",
+        "country": "Egypt"
+      },
+      {
+        "name": "Daedalus",
+        "country": "Egypt"
+      },
+      {
+        "name": "Rocky Island",
+        "country": "Egypt"
+      },
+      {
+        "name": "St Johns Reef",
+        "country": "Egypt"
+      },
+      {
+        "name": "Ras Tirombi",
+        "country": "Egypt"
+      },
+      {
+        "name": "Erg Somaya",
+        "country": "Egypt"
+      },
+      {
+        "name": "El Gouna",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Nihas",
+        "country": "Egypt"
+      },
+      {
+        "name": "SS Thistlegorm",
+        "country": "Egypt"
+      },
+      {
+        "name": "Mahmoudet reefs",
+        "country": "Egypt"
+      },
+      {
+        "name": "Ras Mohammad",
+        "country": "Egypt"
+      },
+      {
+        "name": "Jackfish Alley",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt"
+      },
+      {
+        "name": "Port Galib",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      },
+      {
+        "name": "St Johns Reef",
+        "country": "Egypt",
+        "lat": 23.609722,
+        "lng": 36.195833
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt",
+        "lat": 28.499113,
+        "lng": 34.519817
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4922,7 +11726,77 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Pyramids of Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sphinx",
+        "country": "Egypt"
+      },
+      {
+        "name": "Egyptian Museum",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Khan-el-Khalili",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Pyramids of Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Temple of Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -4993,7 +11867,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sphinx",
+        "country": "Egypt"
+      },
+      {
+        "name": "Great Pyramid",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan High Dam",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nile",
+        "country": null
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Colossi of Memnon",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Aswan High Dam",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5039,7 +12037,61 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Red Sea",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Marsa Alam",
+        "country": "Egypt"
+      },
+      {
+        "name": "El Quseir",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Red Sea",
+        "country": "Egypt",
+        "lat": 27.226487,
+        "lng": 33.835062
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Marsa Alam",
+        "country": "Egypt",
+        "lat": 25.071253,
+        "lng": 34.89386
+      },
+      {
+        "name": "El Quseir",
+        "country": "Egypt",
+        "lat": 26.10447,
+        "lng": 34.27993
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5095,7 +12147,79 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt"
+      },
+      {
+        "name": "El Kab",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Gebel El Silsila",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Daraw",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt",
+        "lat": 25.30078,
+        "lng": 32.555386
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Daraw",
+        "country": "Egypt",
+        "lat": 24.41124,
+        "lng": 32.92797
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5166,7 +12290,107 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Great Pyramids of Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sphinx",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nile",
+        "country": null
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Colossi of Memnon",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor Temple",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Great Pyramids of Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Karnak Temple",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Luxor Temple",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5232,7 +12456,77 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nile Cruise",
+        "country": null
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Queen Hatshepsut",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Elephantine Island",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5308,7 +12602,75 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Philae",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5384,7 +12746,137 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Heliopolis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dokki",
+        "country": "Egypt"
+      },
+      {
+        "name": "Roda",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Lake Nasser",
+        "country": "Egypt"
+      },
+      {
+        "name": "River Nile",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kitchener Island",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Heliopolis",
+        "country": "Egypt",
+        "lat": 30.101631,
+        "lng": 31.331734
+      },
+      {
+        "name": "Dokki",
+        "country": "Egypt",
+        "lat": 30.038303,
+        "lng": 31.211466
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Lake Nasser",
+        "country": "Egypt",
+        "lat": 29.14676,
+        "lng": 31.128311
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt",
+        "lat": 25.30078,
+        "lng": 32.555386
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5450,7 +12942,79 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "River Nile",
+        "country": null
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5546,7 +13110,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5622,7 +13240,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "River Nile",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5698,7 +13384,109 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Island of Agilka",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Fortress of Babylon",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt",
+        "lat": 25.30078,
+        "lng": 32.555386
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5784,7 +13572,61 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5880,7 +13722,73 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Al Bayyarah",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dendera",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -5956,7 +13864,125 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Ancient Thebes",
+        "country": "Egypt"
+      },
+      {
+        "name": "Modern Thebes",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dendera",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Agilika Island",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Kom Ombo",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6042,7 +14068,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sharm El Sheikh",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Sharm El Sheikh",
+        "country": "Egypt",
+        "lat": 27.909058,
+        "lng": 34.325226
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6123,7 +14213,71 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sharm El Sheikh",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Sharm El Sheikh",
+        "country": "Egypt",
+        "lat": 27.909058,
+        "lng": 34.325226
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6209,7 +14363,65 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "River Nile",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.198877,
+        "lng": 29.89866
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6305,7 +14517,119 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "El Quseir",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "El Quseir",
+        "country": "Egypt",
+        "lat": 26.10447,
+        "lng": 34.27993
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6391,7 +14715,79 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dendera",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Nile River",
+        "country": "Egypt"
+      },
+      {
+        "name": "Great Pyramid of Giza",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Great Pyramid of Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6457,7 +14853,115 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "River Nile",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kitchener Island",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan High Dam",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kom Ombo Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu Temple",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Khan Khalili",
+        "country": "Egypt"
+      },
+      {
+        "name": "Beit El Seheimy",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Aswan High Dam",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Kom Ombo Temple",
+        "country": "Egypt",
+        "lat": 24.47928,
+        "lng": 32.946712
+      },
+      {
+        "name": "Edfu Temple",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6528,7 +15032,95 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Saqqara",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Kitchener Island",
+        "country": "Egypt"
+      },
+      {
+        "name": "Elephantine Island",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Queens",
+        "country": "Egypt"
+      },
+      {
+        "name": "Sharm El Sheikh",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Sharm El Sheikh",
+        "country": "Egypt",
+        "lat": 27.909058,
+        "lng": 34.325226
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6614,7 +15206,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Beirut",
+        "country": "Lebanon"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Beirut",
+        "country": "Lebanon",
+        "lat": 33.89625,
+        "lng": 35.477367
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6680,7 +15326,51 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6756,7 +15446,71 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6842,7 +15596,85 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6918,7 +15750,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Esna",
+        "country": "Egypt",
+        "lat": 25.30078,
+        "lng": 32.555386
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -6989,7 +15875,69 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Memphis",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "River Nile",
+        "country": "Egypt"
+      },
+      {
+        "name": "Red Sea",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Red Sea",
+        "country": "Egypt",
+        "lat": 27.226487,
+        "lng": 33.835062
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -7060,7 +16008,51 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      }
+    ]
   },
   {
     "destination": "Egypt",
@@ -7141,6 +16133,50 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      }
+    ]
   }
 ]

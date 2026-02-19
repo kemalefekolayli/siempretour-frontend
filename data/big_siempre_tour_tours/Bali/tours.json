@@ -63,7 +63,87 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nusa Dua",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Uluwatu Temple",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanah Lot",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Yeh Gangga Beach",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Seminyak",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Turtle Island",
+        "country": null
+      },
+      {
+        "name": "Tegallalang Rice Terraces",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Uluwatu Temple",
+        "country": "Indonesia",
+        "lat": -4.118547,
+        "lng": 120.01521
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Yeh Gangga Beach",
+        "country": "Indonesia",
+        "lat": -8.309701,
+        "lng": 116.1989
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia",
+        "lat": -7.206964,
+        "lng": 109.82982
+      },
+      {
+        "name": "Tegallalang Rice Terraces",
+        "country": "Indonesia",
+        "lat": -8.449728,
+        "lng": 115.28027
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -129,7 +209,45 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Islands",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Gili Islands",
+        "country": "Indonesia",
+        "lat": -8.35,
+        "lng": 116.06
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -195,7 +313,99 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanah Lot",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ayung River",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Bratan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kintamani",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Nusa Lembongan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Blangjong Temple",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Ayung River",
+        "country": "Indonesia",
+        "lat": -6.947728,
+        "lng": 110.51335
+      },
+      {
+        "name": "Lake Bratan",
+        "country": "Indonesia",
+        "lat": 1.641162,
+        "lng": 118.08117
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia",
+        "lat": -7.206964,
+        "lng": 109.82982
+      },
+      {
+        "name": "Kintamani",
+        "country": "Indonesia",
+        "lat": -8.250999,
+        "lng": 115.32966
+      },
+      {
+        "name": "Nusa Lembongan",
+        "country": "Indonesia",
+        "lat": -8.681767,
+        "lng": 115.451117
+      },
+      {
+        "name": "Blangjong Temple",
+        "country": "Indonesia",
+        "lat": -4.118547,
+        "lng": 120.01521
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -266,7 +476,49 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Amed",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Candidasa",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Seminyak",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Amed",
+        "country": "Indonesia",
+        "lat": -3.123087,
+        "lng": 102.206375
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -337,7 +589,83 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kuta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Celuk Village",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tenganan Traditional Village",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Nusa Lembongan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Batubulan Village",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Kuta",
+        "country": "Indonesia",
+        "lat": -8.727787,
+        "lng": 115.17325
+      },
+      {
+        "name": "Tenganan Traditional Village",
+        "country": "Indonesia",
+        "lat": -7.420341,
+        "lng": 110.52187
+      },
+      {
+        "name": "Nusa Lembongan",
+        "country": "Indonesia",
+        "lat": -8.681767,
+        "lng": 115.451117
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -423,7 +751,81 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sanur Beach",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lovina",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kintamani",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Menjangan Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Senggigi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Islands",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Trawangan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Air",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Kintamani",
+        "country": "Indonesia",
+        "lat": -8.250999,
+        "lng": 115.32966
+      },
+      {
+        "name": "Gili Islands",
+        "country": "Indonesia",
+        "lat": -8.35,
+        "lng": 116.06
+      },
+      {
+        "name": "Gili Trawangan",
+        "country": "Indonesia",
+        "lat": -8.350886,
+        "lng": 116.036389
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -499,7 +901,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Phnom Penh",
+        "country": "Cambodia"
+      },
+      {
+        "name": "Siem Reap",
+        "country": "Cambodia"
+      },
+      {
+        "name": "Angkor Wat",
+        "country": "Cambodia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Nusa Dua",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali Island",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Phnom Penh",
+        "country": "Cambodia",
+        "lat": 11.568271,
+        "lng": 104.922443
+      },
+      {
+        "name": "Siem Reap",
+        "country": "Cambodia",
+        "lat": 13.354503,
+        "lng": 103.85486
+      },
+      {
+        "name": "Angkor Wat",
+        "country": "Cambodia",
+        "lat": 11.504923,
+        "lng": 104.89187
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Bali Island",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -565,7 +1035,77 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tampaksiring Village",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Uluwatu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jimbaran Beach",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Seminyak",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Bali Island",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia",
+        "lat": -8.669399,
+        "lng": 115.21312
+      },
+      {
+        "name": "Tampaksiring Village",
+        "country": "Indonesia",
+        "lat": -8.425979,
+        "lng": 115.30813
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -631,7 +1171,57 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Nusa Dua",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Uluwatu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lovina",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Menjangan Island",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -707,7 +1297,77 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Solo City",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Nusa Dua",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Uluwatu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jimbaran",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Seminyak",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia",
+        "lat": -7.601826,
+        "lng": 110.201546
+      },
+      {
+        "name": "Solo City",
+        "country": "Indonesia",
+        "lat": -0.79036,
+        "lng": 100.65531
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -768,7 +1428,87 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Seminyak",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tegenungan Waterfall",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tegallalang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pura Taman Ayun",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kedaton",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanah Lot",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ayung River",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Tegallalang",
+        "country": "Indonesia",
+        "lat": -8.449728,
+        "lng": 115.28027
+      },
+      {
+        "name": "Pura Taman Ayun",
+        "country": "Indonesia",
+        "lat": -7.351527,
+        "lng": 112.69934
+      },
+      {
+        "name": "Kedaton",
+        "country": "Indonesia",
+        "lat": -5.393094,
+        "lng": 105.25794
+      },
+      {
+        "name": "Ayung River",
+        "country": "Indonesia",
+        "lat": -6.947728,
+        "lng": 110.51335
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -829,7 +1569,49 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sanur Beach",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lovina",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kintamani",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Kintamani",
+        "country": "Indonesia",
+        "lat": -8.250999,
+        "lng": 115.32966
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -895,7 +1677,55 @@
       }
     ],
     "map": "",
-    "category": "Yoga&Wellness"
+    "category": "Yoga&Wellness",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bali Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Nusa Dua",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Islands",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bali Island",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Gili Islands",
+        "country": "Indonesia",
+        "lat": -8.35,
+        "lng": 116.06
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -971,7 +1801,89 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kuta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Legian",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jimbaran",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Uluwatu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanah Lot",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Batubalan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kintamani",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Seminyak",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia",
+        "lat": -8.669399,
+        "lng": 115.21312
+      },
+      {
+        "name": "Kuta",
+        "country": "Indonesia",
+        "lat": -8.727787,
+        "lng": 115.17325
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Kintamani",
+        "country": "Indonesia",
+        "lat": -8.250999,
+        "lng": 115.32966
+      }
+    ]
   },
   {
     "destination": "Bali",
@@ -1057,6 +1969,48 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Munduk",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jimbaran",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Menjangan Island",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Munduk",
+        "country": "Indonesia",
+        "lat": -6.756394,
+        "lng": 108.59349
+      }
+    ]
   }
 ]

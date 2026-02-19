@@ -133,7 +133,191 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "Petauke",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi"
+      },
+      {
+        "name": "Mbeya Region",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Iringa",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mikumi National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Bagamoyo",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "Petauke",
+        "country": "Zambia",
+        "lat": -14.250179,
+        "lng": 31.329778
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Mbeya Region",
+        "country": "Tanzania",
+        "lat": -8.906508,
+        "lng": 33.468672
+      },
+      {
+        "name": "Iringa",
+        "country": "Tanzania",
+        "lat": -7.779097,
+        "lng": 35.697053
+      },
+      {
+        "name": "Mikumi National Park",
+        "country": "Tanzania",
+        "lat": -7.397705,
+        "lng": 36.973422
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Bagamoyo",
+        "country": "Tanzania",
+        "lat": -6.447658,
+        "lng": 38.896381
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzania",
+        "lat": -3.342779,
+        "lng": 37.329261
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania",
+        "lat": -3.32343,
+        "lng": 35.671901
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      }
+    ]
   },
   {
     "destination": "Malawi",
@@ -194,7 +378,85 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      },
+      {
+        "name": "Mfuwe",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Likoma Island",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Mfuwe",
+        "country": "Zambia",
+        "lat": -13.110679,
+        "lng": 31.797816
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Likoma Island",
+        "country": "Malawi",
+        "lat": -12.065692,
+        "lng": 34.73191
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "lat": -13.987511,
+        "lng": 33.768144
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      }
+    ]
   },
   {
     "destination": "Malawi",
@@ -250,7 +512,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Blantyre",
+        "country": "Malawi"
+      },
+      {
+        "name": "Majete Wildlife Reserve",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Blantyre",
+        "country": "Malawi",
+        "lat": -15.786254,
+        "lng": 35.003569
+      },
+      {
+        "name": "Majete Wildlife Reserve",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "lat": -13.987511,
+        "lng": 33.768144
+      }
+    ]
   },
   {
     "destination": "Malawi",
@@ -316,7 +632,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Blantyre",
+        "country": "Malawi"
+      },
+      {
+        "name": "Majete Wildlife Reserve",
+        "country": "Malawi"
+      },
+      {
+        "name": "Satemwa Tea Estate",
+        "country": "Malawi"
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Blantyre",
+        "country": "Malawi",
+        "lat": -15.786254,
+        "lng": 35.003569
+      },
+      {
+        "name": "Majete Wildlife Reserve",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Satemwa Tea Estate",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "lat": -13.987511,
+        "lng": 33.768144
+      }
+    ]
   },
   {
     "destination": "Malawi",
@@ -347,7 +737,81 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi"
+      },
+      {
+        "name": "Majete Wildlife Reserve",
+        "country": "Malawi"
+      },
+      {
+        "name": "Thyolo district",
+        "country": "Malawi"
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi"
+      },
+      {
+        "name": "Cape Maclear",
+        "country": "Malawi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "lat": -13.987511,
+        "lng": 33.768144
+      },
+      {
+        "name": "Majete Wildlife Reserve",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Thyolo district",
+        "country": "Malawi",
+        "lat": -16.066879,
+        "lng": 35.148584
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Cape Maclear",
+        "country": "Malawi",
+        "lat": -14.0218,
+        "lng": 34.846135
+      }
+    ]
   },
   {
     "destination": "Malawi",
@@ -388,7 +852,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi"
+      },
+      {
+        "name": "Mulanje Mountains",
+        "country": "Malawi"
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lake Malawi National Park",
+        "country": "Malawi"
+      },
+      {
+        "name": "Mumbo Island",
+        "country": "Malawi"
+      },
+      {
+        "name": "Cape Maclear",
+        "country": "Malawi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "lat": -13.987511,
+        "lng": 33.768144
+      },
+      {
+        "name": "Mulanje Mountains",
+        "country": "Malawi",
+        "lat": -15.906379,
+        "lng": 35.544564
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Lake Malawi National Park",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Mumbo Island",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Cape Maclear",
+        "country": "Malawi",
+        "lat": -14.0218,
+        "lng": 34.846135
+      }
+    ]
   },
   {
     "destination": "Malawi",
@@ -464,7 +1002,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Majete Wildlife Reserve",
+        "country": "Malawi"
+      },
+      {
+        "name": "Satemwa Tea Estate",
+        "country": "Malawi"
+      },
+      {
+        "name": "Mount Mulanje",
+        "country": "Malawi"
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi"
+      },
+      {
+        "name": "Southern Lake Malawi",
+        "country": "Malawi"
+      },
+      {
+        "name": "Mumbo Island",
+        "country": "Malawi"
+      },
+      {
+        "name": "The Makokola Retreat",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Majete Wildlife Reserve",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Satemwa Tea Estate",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Mount Mulanje",
+        "country": "Malawi",
+        "lat": -15.906379,
+        "lng": 35.544564
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Southern Lake Malawi",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Mumbo Island",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "The Makokola Retreat",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "lat": -13.987511,
+        "lng": 33.768144
+      }
+    ]
   },
   {
     "destination": "Malawi",
@@ -505,7 +1137,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Luangwa Valley",
+        "country": "Zambia"
+      },
+      {
+        "name": "Nyika National Park",
+        "country": "Malawi"
+      },
+      {
+        "name": "Likoma Island",
+        "country": "Malawi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Luangwa Valley",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Nyika National Park",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Likoma Island",
+        "country": "Malawi",
+        "lat": -12.065692,
+        "lng": 34.73191
+      }
+    ]
   },
   {
     "destination": "Malawi",
@@ -571,7 +1257,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lilongwe City",
+        "country": "Malawi"
+      },
+      {
+        "name": "Mumbo Island",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lake Malawi National Park",
+        "country": "Malawi"
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi"
+      },
+      {
+        "name": "Thyolo",
+        "country": "Malawi"
+      },
+      {
+        "name": "Satemwa Tea Estate",
+        "country": "Malawi"
+      },
+      {
+        "name": "Mount Mulanje",
+        "country": "Malawi"
+      },
+      {
+        "name": "Blantyre",
+        "country": "Malawi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lilongwe City",
+        "country": "Malawi",
+        "lat": -13.987511,
+        "lng": 33.768144
+      },
+      {
+        "name": "Mumbo Island",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Lake Malawi National Park",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Thyolo",
+        "country": "Malawi",
+        "lat": -16.066879,
+        "lng": 35.148584
+      },
+      {
+        "name": "Satemwa Tea Estate",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Mount Mulanje",
+        "country": "Malawi",
+        "lat": -15.906379,
+        "lng": 35.544564
+      },
+      {
+        "name": "Blantyre",
+        "country": "Malawi",
+        "lat": -15.786254,
+        "lng": 35.003569
+      }
+    ]
   },
   {
     "destination": "Malawi",
@@ -667,7 +1447,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Blantyre",
+        "country": "Malawi"
+      },
+      {
+        "name": "Majete National Park",
+        "country": "Malawi"
+      },
+      {
+        "name": "Zomba",
+        "country": "Malawi"
+      },
+      {
+        "name": "Zomba Mountain",
+        "country": "Malawi"
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi"
+      },
+      {
+        "name": "Cape Maclear",
+        "country": "Malawi"
+      },
+      {
+        "name": "Senga Bay",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi"
+      },
+      {
+        "name": "Dzalanyama Forest",
+        "country": "Malawi"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Blantyre",
+        "country": "Malawi",
+        "lat": -15.786254,
+        "lng": 35.003569
+      },
+      {
+        "name": "Majete National Park",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Zomba",
+        "country": "Malawi",
+        "lat": -15.386321,
+        "lng": 35.326827
+      },
+      {
+        "name": "Zomba Mountain",
+        "country": "Malawi",
+        "lat": -15.386321,
+        "lng": 35.326827
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Cape Maclear",
+        "country": "Malawi",
+        "lat": -14.0218,
+        "lng": 34.846135
+      },
+      {
+        "name": "Senga Bay",
+        "country": "Malawi",
+        "lat": -13.733168,
+        "lng": 34.60588
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "lat": -13.987511,
+        "lng": 33.768144
+      },
+      {
+        "name": "Dzalanyama Forest",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      }
+    ]
   },
   {
     "destination": "Malawi",
@@ -743,7 +1637,161 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Kafue River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi"
+      },
+      {
+        "name": "Tete",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Bazaruto Islands",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Vilankulos",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Inhambane",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Bilene",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Greater Kruger",
+        "country": "South Africa"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Kafue River",
+        "country": "Zambia",
+        "lat": -15.744513,
+        "lng": 28.175516
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Tete",
+        "country": "Mozambique",
+        "lat": -16.15842,
+        "lng": 33.587936
+      },
+      {
+        "name": "Bazaruto Islands",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Vilankulos",
+        "country": "Mozambique",
+        "lat": -21.999647,
+        "lng": 35.31868
+      },
+      {
+        "name": "Inhambane",
+        "country": "Mozambique",
+        "lat": -23.865437,
+        "lng": 35.385563
+      },
+      {
+        "name": "Bilene",
+        "country": "Mozambique",
+        "lat": -25.025051,
+        "lng": 33.10212
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa",
+        "lat": -24.995052,
+        "lng": 31.592167
+      },
+      {
+        "name": "Greater Kruger",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      }
+    ]
   },
   {
     "destination": "Malawi",
@@ -844,7 +1892,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      },
+      {
+        "name": "Mfuwe",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Mfuwe",
+        "country": "Zambia",
+        "lat": -13.110679,
+        "lng": 31.797816
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "lat": -13.987511,
+        "lng": 33.768144
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      }
+    ]
   },
   {
     "destination": "Malawi",
@@ -920,6 +2046,120 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "Kafue River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Great East Road",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi"
+      },
+      {
+        "name": "Mount Mulanje",
+        "country": "Malawi"
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi"
+      },
+      {
+        "name": "Mumbo Island",
+        "country": "Malawi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "Kafue River",
+        "country": "Zambia",
+        "lat": -15.744513,
+        "lng": 28.175516
+      },
+      {
+        "name": "Lower Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Great East Road",
+        "country": "Zambia",
+        "lat": -13.132195,
+        "lng": 28.375013
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "lat": -13.987511,
+        "lng": 33.768144
+      },
+      {
+        "name": "Mount Mulanje",
+        "country": "Malawi",
+        "lat": -15.906379,
+        "lng": 35.544564
+      },
+      {
+        "name": "Liwonde National Park",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Mumbo Island",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      }
+    ]
   }
 ]

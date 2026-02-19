@@ -68,7 +68,87 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "El Chalten",
+        "country": "Argentina"
+      },
+      {
+        "name": "El Calafate",
+        "country": "Argentina"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "El Chalten",
+        "country": "Argentina",
+        "lat": -49.331,
+        "lng": -72.88523
+      },
+      {
+        "name": "El Calafate",
+        "country": "Argentina",
+        "lat": -50.337997,
+        "lng": -72.26468
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -119,7 +199,103 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "Melchior Islands",
+        "country": null
+      },
+      {
+        "name": "Schollaert Channel",
+        "country": null
+      },
+      {
+        "name": "Brabant Island",
+        "country": null
+      },
+      {
+        "name": "Anvers Island",
+        "country": null
+      },
+      {
+        "name": "Cuverville Island",
+        "country": null
+      },
+      {
+        "name": "Danco Island",
+        "country": null
+      },
+      {
+        "name": "Neko Harbour",
+        "country": null
+      },
+      {
+        "name": "Paradise Bay",
+        "country": null
+      },
+      {
+        "name": "Port Lockroy",
+        "country": null
+      },
+      {
+        "name": "Goudier Island",
+        "country": null
+      },
+      {
+        "name": "Jougla Point",
+        "country": null
+      },
+      {
+        "name": "Pléneau Island",
+        "country": null
+      },
+      {
+        "name": "Petermann Island",
+        "country": null
+      },
+      {
+        "name": "Lemaire Channel",
+        "country": null
+      },
+      {
+        "name": "Wilhelmina Bay",
+        "country": null
+      },
+      {
+        "name": "Guvernøren",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -170,7 +346,89 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "King George Island",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Fildes Bay",
+        "country": "Antarctica"
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Cierva Cove",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Port Lockroy",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Petermann Island",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Paradise Bay",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Lemaire Channel",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Prospect",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Fish Islands",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Polar Circle",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "King George Island",
+        "country": "Antarctica",
+        "lat": -62.033333,
+        "lng": -58.35
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -226,7 +484,61 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Beagle Channel",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -277,7 +589,49 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "King George Island",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica"
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "King George Island",
+        "country": "Antarctica",
+        "lat": -62.033333,
+        "lng": -58.35
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -333,7 +687,63 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Beagle Channel",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Half Moon Island",
+        "country": null
+      },
+      {
+        "name": "Deception Island",
+        "country": null
+      },
+      {
+        "name": "Weddell Sea",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Elephant Island",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -384,7 +794,77 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Beagle Channel",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Antarctica",
+        "country": null
+      },
+      {
+        "name": "Deception Island",
+        "country": null
+      },
+      {
+        "name": "Petermann Island",
+        "country": null
+      },
+      {
+        "name": "Pleneau Island",
+        "country": null
+      },
+      {
+        "name": "Detaille Island",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -440,7 +920,57 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "Beagle Channel",
+        "country": null
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -491,7 +1021,103 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Melchior Islands",
+        "country": null
+      },
+      {
+        "name": "Schollaert Channel",
+        "country": null
+      },
+      {
+        "name": "Brabant Island",
+        "country": null
+      },
+      {
+        "name": "Anvers Island",
+        "country": null
+      },
+      {
+        "name": "Cuverville Island",
+        "country": null
+      },
+      {
+        "name": "Danco Island",
+        "country": null
+      },
+      {
+        "name": "Neko Harbour",
+        "country": null
+      },
+      {
+        "name": "Paradise Bay",
+        "country": null
+      },
+      {
+        "name": "Port Lockroy",
+        "country": null
+      },
+      {
+        "name": "Goudier Island",
+        "country": null
+      },
+      {
+        "name": "Booth Island",
+        "country": null
+      },
+      {
+        "name": "Pléneau Island",
+        "country": null
+      },
+      {
+        "name": "Petermann Island",
+        "country": null
+      },
+      {
+        "name": "Lemaire Channel",
+        "country": null
+      },
+      {
+        "name": "Wilhelmina Bay",
+        "country": null
+      },
+      {
+        "name": "Guvernøren",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -557,7 +1183,53 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "South Georgia",
+        "country": "null"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "null"
+      },
+      {
+        "name": "Drake Passage",
+        "country": "null"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -608,7 +1280,53 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "King George Island",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "Deception Island",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "King George Island",
+        "country": "Antarctica",
+        "lat": -62.033333,
+        "lng": -58.35
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -699,7 +1417,187 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "Deception Island",
+        "country": null
+      },
+      {
+        "name": "Neko Harbor",
+        "country": null
+      },
+      {
+        "name": "Paradise Bay",
+        "country": null
+      },
+      {
+        "name": "Lemaire Channel",
+        "country": null
+      },
+      {
+        "name": "Petermann Island",
+        "country": null
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": null
+      },
+      {
+        "name": "Marguerite Bay",
+        "country": null
+      },
+      {
+        "name": "Stonington Island",
+        "country": null
+      },
+      {
+        "name": "Bellingshausen Sea",
+        "country": null
+      },
+      {
+        "name": "Amundsen Sea",
+        "country": null
+      },
+      {
+        "name": "Ross Sea",
+        "country": null
+      },
+      {
+        "name": "Ross Island",
+        "country": null
+      },
+      {
+        "name": "Cape Royds",
+        "country": null
+      },
+      {
+        "name": "Cape Evans",
+        "country": null
+      },
+      {
+        "name": "McMurdo Station",
+        "country": null
+      },
+      {
+        "name": "Mount Erebus",
+        "country": null
+      },
+      {
+        "name": "Discovery Hut",
+        "country": null
+      },
+      {
+        "name": "Victoria Land",
+        "country": null
+      },
+      {
+        "name": "Terra Nova Bay",
+        "country": null
+      },
+      {
+        "name": "Cape Adare",
+        "country": null
+      },
+      {
+        "name": "Balleny Islands",
+        "country": null
+      },
+      {
+        "name": "Macquarie Island",
+        "country": "Australia"
+      },
+      {
+        "name": "Campbell Island",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Auckland Islands",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Snares Islands",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Lyttelton",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Christchurch",
+        "country": "New Zealand"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Macquarie Island",
+        "country": "Australia",
+        "lat": -54.63,
+        "lng": 158.86
+      },
+      {
+        "name": "Campbell Island",
+        "country": "New Zealand",
+        "lat": -52.534215,
+        "lng": 169.166525
+      },
+      {
+        "name": "Auckland Islands",
+        "country": "New Zealand",
+        "lat": -36.846996,
+        "lng": 174.76591
+      },
+      {
+        "name": "Lyttelton",
+        "country": "New Zealand",
+        "lat": -43.602966,
+        "lng": 172.72267
+      },
+      {
+        "name": "Christchurch",
+        "country": "New Zealand",
+        "lat": -43.533516,
+        "lng": 172.63503
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -785,7 +1683,81 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Beagle Channel",
+        "country": null
+      },
+      {
+        "name": "Falkland Islands",
+        "country": null
+      },
+      {
+        "name": "Stanley",
+        "country": "Falkland Islands"
+      },
+      {
+        "name": "South Georgia",
+        "country": null
+      },
+      {
+        "name": "Shackleton's grave",
+        "country": "South Georgia"
+      },
+      {
+        "name": "South Orkney Islands",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Half Moon Island",
+        "country": null
+      },
+      {
+        "name": "Deception Island",
+        "country": null
+      },
+      {
+        "name": "Hannah point",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Stanley",
+        "country": "Falkland Islands",
+        "lat": -51.674275,
+        "lng": -57.804029
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -851,7 +1823,75 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Falklands",
+        "country": null
+      },
+      {
+        "name": "South Georgia",
+        "country": null
+      },
+      {
+        "name": "Salisbury Plain",
+        "country": null
+      },
+      {
+        "name": "Fortuna Bay",
+        "country": null
+      },
+      {
+        "name": "Grytviken",
+        "country": null
+      },
+      {
+        "name": "St Andrew's Bay",
+        "country": null
+      },
+      {
+        "name": "Gold Bay",
+        "country": null
+      },
+      {
+        "name": "Weddell Sea",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "Deception Island",
+        "country": null
+      },
+      {
+        "name": "Half Moon Island",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -937,7 +1977,77 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "West Falklands",
+        "country": "null"
+      },
+      {
+        "name": "Stanley",
+        "country": "Falkland Islands"
+      },
+      {
+        "name": "South Georgia",
+        "country": "null"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "null"
+      },
+      {
+        "name": "Drake Passage",
+        "country": "null"
+      },
+      {
+        "name": "Pampas",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Stanley",
+        "country": "Falkland Islands",
+        "lat": -51.674275,
+        "lng": -57.804029
+      },
+      {
+        "name": "Pampas",
+        "country": "Argentina",
+        "lat": -29.53495,
+        "lng": -62.26615
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -993,7 +2103,57 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Beagle Channel",
+        "country": null
+      },
+      {
+        "name": "Tierra del Fuego",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Tierra del Fuego",
+        "country": "Argentina",
+        "lat": -54.806933,
+        "lng": -68.307325
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -1059,7 +2219,81 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -1145,7 +2379,71 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Falkland Islands",
+        "country": "Islas Malvinas"
+      },
+      {
+        "name": "South Georgia",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Falkland Islands",
+        "country": "Islas Malvinas",
+        "lat": 22.28154,
+        "lng": 113.93624
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -1211,7 +2509,69 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Beagle Channel",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -1357,7 +2717,67 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Falkland Islands",
+        "country": null
+      },
+      {
+        "name": "Stanley",
+        "country": "Falkland Islands"
+      },
+      {
+        "name": "South Georgia",
+        "country": null
+      },
+      {
+        "name": "Grytviken",
+        "country": "South Georgia"
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": null
+      },
+      {
+        "name": "Antarctica",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Stanley",
+        "country": "Falkland Islands",
+        "lat": -51.674275,
+        "lng": -57.804029
+      },
+      {
+        "name": "Grytviken",
+        "country": "South Georgia",
+        "lat": -54.284218,
+        "lng": -36.494513
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -1443,7 +2863,57 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Falkland Islands",
+        "country": null
+      },
+      {
+        "name": "Stanley",
+        "country": "Falkland Islands"
+      },
+      {
+        "name": "South Georgia",
+        "country": null
+      },
+      {
+        "name": "South Orkney Islands",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Stanley",
+        "country": "Falkland Islands",
+        "lat": -51.674275,
+        "lng": -57.804029
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -1509,7 +2979,51 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Beagle Channel",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -1565,7 +3079,105 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Aitcho Islands",
+        "country": null
+      },
+      {
+        "name": "Brown Bluff",
+        "country": null
+      },
+      {
+        "name": "Tabarin Peninsula",
+        "country": null
+      },
+      {
+        "name": "Cuverville Island",
+        "country": null
+      },
+      {
+        "name": "Paradise Bay",
+        "country": null
+      },
+      {
+        "name": "Paulet Island",
+        "country": null
+      },
+      {
+        "name": "Wilhelm Archipelago",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -1626,7 +3238,95 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "King George Island",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "King George Island",
+        "country": null
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Chile’s wine region",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "King George Island",
+        "country": "Antarctica",
+        "lat": -62.033333,
+        "lng": -58.35
+      },
+      {
+        "name": "King George Island",
+        "country": "Antarctica",
+        "lat": -62.033333,
+        "lng": -58.35
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Chile’s wine region",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -1687,7 +3387,67 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -1763,7 +3523,69 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Colchagua Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "King George Island",
+        "country": "null"
+      },
+      {
+        "name": "Antarctica",
+        "country": "null"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Colchagua Valley",
+        "country": "Chile",
+        "lat": -34.548615,
+        "lng": -71.40168
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -1849,7 +3671,103 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Queenstown",
+        "country": "New Zealand"
+      },
+      {
+        "name": "The Snares",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Auckland Islands",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Campbell Island",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Ross Sea",
+        "country": "null"
+      },
+      {
+        "name": "Cape Adare",
+        "country": "null"
+      },
+      {
+        "name": "Cape Hallett",
+        "country": "null"
+      },
+      {
+        "name": "Franklin Island",
+        "country": "null"
+      },
+      {
+        "name": "Possession Islands",
+        "country": "null"
+      },
+      {
+        "name": "Ross Ice Shelf",
+        "country": "null"
+      },
+      {
+        "name": "Ross Island",
+        "country": "null"
+      },
+      {
+        "name": "Terra Nova Bay",
+        "country": "null"
+      },
+      {
+        "name": "Port of Bluff",
+        "country": "New Zealand"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Queenstown",
+        "country": "New Zealand",
+        "lat": -45.032063,
+        "lng": 168.66133
+      },
+      {
+        "name": "Auckland Islands",
+        "country": "New Zealand",
+        "lat": -36.846996,
+        "lng": 174.76591
+      },
+      {
+        "name": "Campbell Island",
+        "country": "New Zealand",
+        "lat": -52.534215,
+        "lng": 169.166525
+      },
+      {
+        "name": "Possession Islands",
+        "country": "null",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Port of Bluff",
+        "country": "New Zealand",
+        "lat": -46.599014,
+        "lng": 168.34438
+      }
+    ]
   },
   {
     "destination": "Antarctica",
@@ -1935,6 +3853,46 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Beagle Channel",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ]
   }
 ]

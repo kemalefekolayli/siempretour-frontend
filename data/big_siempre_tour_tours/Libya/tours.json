@@ -58,6 +58,100 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tripoli",
+        "country": "Libya"
+      },
+      {
+        "name": "Sabratha",
+        "country": "Libya"
+      },
+      {
+        "name": "Jebel Nafusa",
+        "country": "Libya"
+      },
+      {
+        "name": "Nalut",
+        "country": "Libya"
+      },
+      {
+        "name": "Ghadames",
+        "country": "Libya"
+      },
+      {
+        "name": "Tarmisa",
+        "country": "Libya"
+      },
+      {
+        "name": "Gharyan",
+        "country": "Libya"
+      },
+      {
+        "name": "Leptis Magna",
+        "country": "Libya"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tripoli",
+        "country": "Libya",
+        "lat": 32.892,
+        "lng": 13.178
+      },
+      {
+        "name": "Sabratha",
+        "country": "Libya",
+        "lat": 32.790621,
+        "lng": 12.482674
+      },
+      {
+        "name": "Jebel Nafusa",
+        "country": "Libya",
+        "lat": 20.922044,
+        "lng": 21.261715
+      },
+      {
+        "name": "Nalut",
+        "country": "Libya",
+        "lat": 31.863787,
+        "lng": 10.98279
+      },
+      {
+        "name": "Ghadames",
+        "country": "Libya",
+        "lat": 30.12584,
+        "lng": 9.490066
+      },
+      {
+        "name": "Tarmisa",
+        "country": "Libya",
+        "lat": 31.992221,
+        "lng": 12.047763
+      },
+      {
+        "name": "Gharyan",
+        "country": "Libya",
+        "lat": 32.171587,
+        "lng": 13.021145
+      },
+      {
+        "name": "Leptis Magna",
+        "country": "Libya",
+        "lat": 20.922044,
+        "lng": 21.261715
+      }
+    ]
   }
 ]

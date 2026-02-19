@@ -83,7 +83,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kalopani",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kagbeni",
+        "country": "Nepal"
+      },
+      {
+        "name": "Charang",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lo Manthang",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chhusang",
+        "country": "Nepal"
+      },
+      {
+        "name": "Jomsom",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Kalopani",
+        "country": "Nepal",
+        "lat": 27.581236,
+        "lng": 85.975925
+      },
+      {
+        "name": "Kagbeni",
+        "country": "Nepal",
+        "lat": 28.835325,
+        "lng": 83.78507
+      },
+      {
+        "name": "Charang",
+        "country": "Nepal",
+        "lat": 29.094778,
+        "lng": 83.9297
+      },
+      {
+        "name": "Lo Manthang",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Chhusang",
+        "country": "Nepal",
+        "lat": 28.913982,
+        "lng": 83.82078
+      },
+      {
+        "name": "Jomsom",
+        "country": "Nepal",
+        "lat": 28.78546,
+        "lng": 83.73347
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -129,7 +223,51 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bardia National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nepalganj",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bardia National Park",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Nepalganj",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -180,7 +318,51 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bharatpur",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Bharatpur",
+        "country": "Nepal",
+        "lat": 27.681574,
+        "lng": 84.43019
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -246,7 +428,91 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Boudhanath",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pasupatinath Temple",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Royal Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Boudhanath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Pasupatinath Temple",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Royal Chitwan National Park",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal",
+        "lat": 28.245338,
+        "lng": 83.947556
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -347,7 +613,151 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Durbar Square",
+        "country": "Nepal"
+      },
+      {
+        "name": "Swayambunath Stupa",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Siddha Cave",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Devi Falls",
+        "country": "Nepal"
+      },
+      {
+        "name": "Ghandruk",
+        "country": "Nepal"
+      },
+      {
+        "name": "Boudhanath Stupa",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Changu Narayan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pasupatinath",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Durbar Square",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Swayambunath Stupa",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal",
+        "lat": 27.937855,
+        "lng": 84.407
+      },
+      {
+        "name": "Siddha Cave",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Devi Falls",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Ghandruk",
+        "country": "Nepal",
+        "lat": 28.376865,
+        "lng": 83.80779
+      },
+      {
+        "name": "Boudhanath Stupa",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Changu Narayan",
+        "country": "Nepal",
+        "lat": 28.842934,
+        "lng": 81.71162
+      },
+      {
+        "name": "Pasupatinath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -393,7 +803,41 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Langtang District",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Langtang District",
+        "country": "Nepal",
+        "lat": 28.215755,
+        "lng": 85.50898
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -444,7 +888,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -530,7 +1028,77 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Dhulikhel",
+        "country": "Nepal"
+      },
+      {
+        "name": "Balthali",
+        "country": "Nepal"
+      },
+      {
+        "name": "Panauti",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kerung",
+        "country": "null"
+      },
+      {
+        "name": "Tingri",
+        "country": "null"
+      },
+      {
+        "name": "Shigatse",
+        "country": "null"
+      },
+      {
+        "name": "Lhasa",
+        "country": "null"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Dhulikhel",
+        "country": "Nepal",
+        "lat": 27.620441,
+        "lng": 85.552956
+      },
+      {
+        "name": "Balthali",
+        "country": "Nepal",
+        "lat": 27.554371,
+        "lng": 85.544234
+      },
+      {
+        "name": "Panauti",
+        "country": "Nepal",
+        "lat": 27.584614,
+        "lng": 85.51718
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -596,7 +1164,69 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Langtang National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Gyirong",
+        "country": "null"
+      },
+      {
+        "name": "Everest Base Camp",
+        "country": "null"
+      },
+      {
+        "name": "Shigatse",
+        "country": "China"
+      },
+      {
+        "name": "Lhasa",
+        "country": "China"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Langtang National Park",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Shigatse",
+        "country": "China",
+        "lat": 29.272408,
+        "lng": 88.88125
+      },
+      {
+        "name": "Lhasa",
+        "country": "China",
+        "lat": 29.654987,
+        "lng": 91.11809
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -682,7 +1312,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Tukuche",
+        "country": "Nepal"
+      },
+      {
+        "name": "Muktinath",
+        "country": "Nepal"
+      },
+      {
+        "name": "Tatopani",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Tukuche",
+        "country": "Nepal",
+        "lat": 28.711245,
+        "lng": 83.64565
+      },
+      {
+        "name": "Muktinath",
+        "country": "Nepal",
+        "lat": 28.814875,
+        "lng": 83.86185
+      },
+      {
+        "name": "Tatopani",
+        "country": "Nepal",
+        "lat": 27.922693,
+        "lng": 85.93369
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -748,7 +1452,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -824,7 +1592,111 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Trisuli River",
+        "country": "Nepal"
+      },
+      {
+        "name": "Annapurna",
+        "country": "Nepal"
+      },
+      {
+        "name": "Australian Camp",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Namobudha",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Trisuli River",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Annapurna",
+        "country": "Nepal",
+        "lat": 27.20497,
+        "lng": 86.97454
+      },
+      {
+        "name": "Australian Camp",
+        "country": "Nepal",
+        "lat": 28.304464,
+        "lng": 83.828295
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal",
+        "lat": 28.245338,
+        "lng": 83.947556
+      },
+      {
+        "name": "Namobudha",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -890,7 +1762,151 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kushma",
+        "country": "Nepal"
+      },
+      {
+        "name": "Beni",
+        "country": "Nepal"
+      },
+      {
+        "name": "Ghorepani",
+        "country": "Nepal"
+      },
+      {
+        "name": "Poon Hill",
+        "country": "Nepal"
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "David's Fall",
+        "country": "Nepal"
+      },
+      {
+        "name": "Mahadev Cave",
+        "country": "Nepal"
+      },
+      {
+        "name": "Seti River Gorge",
+        "country": "Nepal"
+      },
+      {
+        "name": "Mountain Museum",
+        "country": "Nepal"
+      },
+      {
+        "name": "Everest",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Kushma",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Beni",
+        "country": "Nepal",
+        "lat": 27.550507,
+        "lng": 86.5869
+      },
+      {
+        "name": "Ghorepani",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Poon Hill",
+        "country": "Nepal",
+        "lat": 27.046624,
+        "lng": 87.912787
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal",
+        "lat": 27.004112,
+        "lng": 84.9493
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal",
+        "lat": 28.245338,
+        "lng": 83.947556
+      },
+      {
+        "name": "David's Fall",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Mahadev Cave",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Seti River Gorge",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Mountain Museum",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Everest",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -971,7 +1987,131 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Trishuli River",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal"
+      },
+      {
+        "name": "Annapurna",
+        "country": "Nepal"
+      },
+      {
+        "name": "Australian Camp",
+        "country": "Nepal"
+      },
+      {
+        "name": "Seti River gorge",
+        "country": "Nepal"
+      },
+      {
+        "name": "Mahendra Gufa",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Trishuli River",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal",
+        "lat": 27.004112,
+        "lng": 84.9493
+      },
+      {
+        "name": "Annapurna",
+        "country": "Nepal",
+        "lat": 27.20497,
+        "lng": 86.97454
+      },
+      {
+        "name": "Australian Camp",
+        "country": "Nepal",
+        "lat": 28.304464,
+        "lng": 83.828295
+      },
+      {
+        "name": "Seti River gorge",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Mahendra Gufa",
+        "country": "Nepal",
+        "lat": 28.222586,
+        "lng": 82.657987
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1077,7 +2217,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Ghandruk",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kerung",
+        "country": "Tibet"
+      },
+      {
+        "name": "Tingri",
+        "country": "Tibet"
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet"
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet"
+      },
+      {
+        "name": "Gyirong",
+        "country": "Tibet"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal",
+        "lat": 27.841117,
+        "lng": 82.761036
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Ghandruk",
+        "country": "Nepal",
+        "lat": 28.376865,
+        "lng": 83.80779
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1153,7 +2387,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Namobuddha",
+        "country": "Nepal"
+      },
+      {
+        "name": "Balthali",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nala Gumba",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Namobuddha",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Balthali",
+        "country": "Nepal",
+        "lat": 27.554371,
+        "lng": 85.544234
+      },
+      {
+        "name": "Nala Gumba",
+        "country": "Nepal",
+        "lat": 27.920553,
+        "lng": 85.78672
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal",
+        "lat": 27.841117,
+        "lng": 82.761036
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1234,7 +2542,131 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pharphing",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Phewa Taal Lake",
+        "country": "Nepal"
+      },
+      {
+        "name": "Poon Hill",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Pharphing",
+        "country": "Nepal",
+        "lat": 27.611635,
+        "lng": 85.267011
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal",
+        "lat": 27.841117,
+        "lng": 82.761036
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Phewa Taal Lake",
+        "country": "Nepal",
+        "lat": 27.004112,
+        "lng": 84.9493
+      },
+      {
+        "name": "Poon Hill",
+        "country": "Nepal",
+        "lat": 27.046624,
+        "lng": 87.912787
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal",
+        "lat": 27.937855,
+        "lng": 84.407
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1280,7 +2712,51 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sauraha",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Sauraha",
+        "country": "Nepal",
+        "lat": 27.532618,
+        "lng": 83.00039
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1326,7 +2802,51 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sauraha",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Sauraha",
+        "country": "Nepal",
+        "lat": 27.532618,
+        "lng": 83.00039
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1372,7 +2892,41 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Langtang District",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Langtang District",
+        "country": "Nepal",
+        "lat": 28.215755,
+        "lng": 85.50898
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1468,7 +3022,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Hemjakot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kirtipur",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Chitwan",
+        "country": "Nepal",
+        "lat": 27.874595,
+        "lng": 84.893294
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Hemjakot",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Kirtipur",
+        "country": "Nepal",
+        "lat": 27.674793,
+        "lng": 85.277756
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1529,7 +3187,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal"
+      },
+      {
+        "name": "Seti River Gorge",
+        "country": "Nepal"
+      },
+      {
+        "name": "Mahendra Cave",
+        "country": "Nepal"
+      },
+      {
+        "name": "Trishuli River",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal",
+        "lat": 28.245338,
+        "lng": 83.947556
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal",
+        "lat": 27.004112,
+        "lng": 84.9493
+      },
+      {
+        "name": "Seti River Gorge",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Mahendra Cave",
+        "country": "Nepal",
+        "lat": 28.222586,
+        "lng": 82.657987
+      },
+      {
+        "name": "Trishuli River",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1595,7 +3357,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nepalgunj",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bardiya National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Karnali River",
+        "country": "Nepal"
+      },
+      {
+        "name": "Tharu Village",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan Durbar Square",
+        "country": "Nepal"
+      },
+      {
+        "name": "Swoyambunath Temple",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Nepalgunj",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Bardiya National Park",
+        "country": "Nepal",
+        "lat": 28.452032,
+        "lng": 81.24345
+      },
+      {
+        "name": "Karnali River",
+        "country": "Nepal",
+        "lat": 28.595387,
+        "lng": 81.628494
+      },
+      {
+        "name": "Tharu Village",
+        "country": "Nepal",
+        "lat": 27.579695,
+        "lng": 84.471564
+      },
+      {
+        "name": "Patan Durbar Square",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Swoyambunath Temple",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1666,7 +3512,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1762,7 +3662,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal"
+      },
+      {
+        "name": "Tansen",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal",
+        "lat": 27.841117,
+        "lng": 82.761036
+      },
+      {
+        "name": "Tansen",
+        "country": "Nepal",
+        "lat": 27.866465,
+        "lng": 83.54586
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal",
+        "lat": 28.245338,
+        "lng": 83.947556
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal",
+        "lat": 27.937855,
+        "lng": 84.407
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1818,7 +3832,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Durbar Square",
+        "country": "Nepal"
+      },
+      {
+        "name": "Swayambunath",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kirtipur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Changu Narayan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Panauti",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pasupatinath",
+        "country": "Nepal"
+      },
+      {
+        "name": "Boudhanath",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Durbar Square",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Swayambunath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Kirtipur",
+        "country": "Nepal",
+        "lat": 27.674793,
+        "lng": 85.277756
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Changu Narayan",
+        "country": "Nepal",
+        "lat": 28.842934,
+        "lng": 81.71162
+      },
+      {
+        "name": "Panauti",
+        "country": "Nepal",
+        "lat": 27.584614,
+        "lng": 85.51718
+      },
+      {
+        "name": "Pasupatinath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Boudhanath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1869,7 +4007,61 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bardia National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nepalgunj",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Bardia National Park",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Nepalgunj",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -1930,7 +4122,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sauraha",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan Durbar Square",
+        "country": "Nepal"
+      },
+      {
+        "name": "Swoyambunath Temple",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Chitwan",
+        "country": "Nepal",
+        "lat": 27.874595,
+        "lng": 84.893294
+      },
+      {
+        "name": "Sauraha",
+        "country": "Nepal",
+        "lat": 27.532618,
+        "lng": 83.00039
+      },
+      {
+        "name": "Patan Durbar Square",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Swoyambunath Temple",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2026,7 +4292,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Thasang Village",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kagbeni",
+        "country": "Nepal"
+      },
+      {
+        "name": "Dhakmar",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lo-Manthang",
+        "country": "Nepal"
+      },
+      {
+        "name": "Jomsom",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lake Phewa",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Thasang Village",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Kagbeni",
+        "country": "Nepal",
+        "lat": 28.835325,
+        "lng": 83.78507
+      },
+      {
+        "name": "Dhakmar",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Lo-Manthang",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Jomsom",
+        "country": "Nepal",
+        "lat": 28.78546,
+        "lng": 83.73347
+      },
+      {
+        "name": "Lake Phewa",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2102,7 +4462,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Ilam",
+        "country": "Nepal"
+      },
+      {
+        "name": "Dobate",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Ilam",
+        "country": "Nepal",
+        "lat": 26.911564,
+        "lng": 87.9292
+      },
+      {
+        "name": "Dobate",
+        "country": "Nepal",
+        "lat": 28.251176,
+        "lng": 83.924699
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2203,7 +4617,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Gorkha",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Gorkha",
+        "country": "Nepal",
+        "lat": 27.999067,
+        "lng": 84.6227
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal",
+        "lat": 27.937855,
+        "lng": 84.407
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2284,7 +4782,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pasupatinath temple",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal",
+        "lat": 27.937855,
+        "lng": 84.407
+      },
+      {
+        "name": "Pasupatinath temple",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2330,7 +4912,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2376,7 +5022,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Terai region",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bardia National Park",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Terai region",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Bardia National Park",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2452,7 +5152,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Koshi Tappu Wildlife Sanctuary",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bardia National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Ilam",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Koshi Tappu Wildlife Sanctuary",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Bardia National Park",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Ilam",
+        "country": "Nepal",
+        "lat": 26.911564,
+        "lng": 87.9292
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2508,7 +5272,41 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2569,7 +5367,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kathmandu Valley",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhadrapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Ilam",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Kathmandu Valley",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bhadrapur",
+        "country": "Nepal",
+        "lat": 26.54547,
+        "lng": 88.09464
+      },
+      {
+        "name": "Ilam",
+        "country": "Nepal",
+        "lat": 26.911564,
+        "lng": 87.9292
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2650,7 +5502,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Everest",
+        "country": null
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Everest",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal",
+        "lat": 27.937855,
+        "lng": 84.407
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2746,7 +5672,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Namobuddha",
+        "country": "Nepal"
+      },
+      {
+        "name": "Panauti",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Namobuddha",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Panauti",
+        "country": "Nepal",
+        "lat": 27.584614,
+        "lng": 85.51718
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Chitwan",
+        "country": "Nepal",
+        "lat": 27.874595,
+        "lng": 84.893294
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal",
+        "lat": 28.245338,
+        "lng": 83.947556
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2837,7 +5867,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Jomsom",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kagbeni",
+        "country": "Nepal"
+      },
+      {
+        "name": "Charang",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lo Manthang",
+        "country": "Nepal"
+      },
+      {
+        "name": "Jomsom",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Jomsom",
+        "country": "Nepal",
+        "lat": 28.78546,
+        "lng": 83.73347
+      },
+      {
+        "name": "Kagbeni",
+        "country": "Nepal",
+        "lat": 28.835325,
+        "lng": 83.78507
+      },
+      {
+        "name": "Charang",
+        "country": "Nepal",
+        "lat": 29.094778,
+        "lng": 83.9297
+      },
+      {
+        "name": "Lo Manthang",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Jomsom",
+        "country": "Nepal",
+        "lat": 28.78546,
+        "lng": 83.73347
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2908,7 +6042,51 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal",
+        "lat": 27.841117,
+        "lng": 82.761036
+      },
+      {
+        "name": "Chitwan",
+        "country": "Nepal",
+        "lat": 27.874595,
+        "lng": 84.893294
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -2989,7 +6167,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Boudhanath",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal"
+      },
+      {
+        "name": "Annapurna Conservation Area",
+        "country": "Nepal"
+      },
+      {
+        "name": "Ghorepani",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Boudhanath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal",
+        "lat": 28.245338,
+        "lng": 83.947556
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal",
+        "lat": 27.004112,
+        "lng": 84.9493
+      },
+      {
+        "name": "Annapurna Conservation Area",
+        "country": "Nepal",
+        "lat": 27.20497,
+        "lng": 86.97454
+      },
+      {
+        "name": "Ghorepani",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Bandipur",
+        "country": "Nepal",
+        "lat": 27.937855,
+        "lng": 84.407
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -3090,7 +6392,95 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Himalayas",
+        "country": "null"
+      },
+      {
+        "name": "Delhi",
+        "country": "India"
+      },
+      {
+        "name": "Agra",
+        "country": "India"
+      },
+      {
+        "name": "Jaipur",
+        "country": "India"
+      },
+      {
+        "name": "Hyderabad",
+        "country": "India"
+      },
+      {
+        "name": "Mumbai",
+        "country": "India"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Delhi",
+        "country": "India",
+        "lat": 28.613895,
+        "lng": 77.209006
+      },
+      {
+        "name": "Agra",
+        "country": "India",
+        "lat": 27.17493,
+        "lng": 78.00882
+      },
+      {
+        "name": "Jaipur",
+        "country": "India",
+        "lat": 26.920341,
+        "lng": 75.81248
+      },
+      {
+        "name": "Hyderabad",
+        "country": "India",
+        "lat": 17.361362,
+        "lng": 78.474525
+      },
+      {
+        "name": "Mumbai",
+        "country": "India",
+        "lat": 19.077793,
+        "lng": 72.87872
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -3181,7 +6571,121 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Changu Narayan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Dhulikhel",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kurintar",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Changu Narayan",
+        "country": "Nepal",
+        "lat": 28.842934,
+        "lng": 81.71162
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Dhulikhel",
+        "country": "Nepal",
+        "lat": 27.620441,
+        "lng": 85.552956
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal",
+        "lat": 27.004112,
+        "lng": 84.9493
+      },
+      {
+        "name": "Kurintar",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -3287,7 +6791,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal"
+      },
+      {
+        "name": "Varanasi",
+        "country": "India"
+      },
+      {
+        "name": "Orchha",
+        "country": "India"
+      },
+      {
+        "name": "Fatehpur Sikri",
+        "country": "India"
+      },
+      {
+        "name": "Jaipur",
+        "country": "India"
+      },
+      {
+        "name": "Delhi",
+        "country": "India"
+      },
+      {
+        "name": "Jhansi",
+        "country": "India"
+      },
+      {
+        "name": "Agra",
+        "country": "India"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal",
+        "lat": 27.841117,
+        "lng": 82.761036
+      },
+      {
+        "name": "Varanasi",
+        "country": "India",
+        "lat": 25.336693,
+        "lng": 83.00701
+      },
+      {
+        "name": "Orchha",
+        "country": "India",
+        "lat": 25.350868,
+        "lng": 78.6409
+      },
+      {
+        "name": "Fatehpur Sikri",
+        "country": "India",
+        "lat": 27.09386,
+        "lng": 77.66358
+      },
+      {
+        "name": "Jaipur",
+        "country": "India",
+        "lat": 26.920341,
+        "lng": 75.81248
+      },
+      {
+        "name": "Delhi",
+        "country": "India",
+        "lat": 28.613895,
+        "lng": 77.209006
+      },
+      {
+        "name": "Jhansi",
+        "country": "India",
+        "lat": 25.448484,
+        "lng": 78.569725
+      },
+      {
+        "name": "Agra",
+        "country": "India",
+        "lat": 27.17493,
+        "lng": 78.00882
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -3358,7 +6976,111 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Namo Buddha",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sagarmatha",
+        "country": "Nepal"
+      },
+      {
+        "name": "Mt. Everest",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal"
+      },
+      {
+        "name": "Begnas Lake",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Namo Buddha",
+        "country": "Nepal",
+        "lat": 27.571669,
+        "lng": 85.584002
+      },
+      {
+        "name": "Sagarmatha",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Mt. Everest",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal",
+        "lat": 27.004112,
+        "lng": 84.9493
+      },
+      {
+        "name": "Begnas Lake",
+        "country": "Nepal",
+        "lat": 28.649963,
+        "lng": 81.624186
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -3469,7 +7191,161 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Arughat",
+        "country": "Nepal"
+      },
+      {
+        "name": "Jagat",
+        "country": "Nepal"
+      },
+      {
+        "name": "Manaslu Conservation Area",
+        "country": "Nepal"
+      },
+      {
+        "name": "Deng",
+        "country": "Nepal"
+      },
+      {
+        "name": "Siring Himal",
+        "country": "Nepal"
+      },
+      {
+        "name": "Namrung",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lho",
+        "country": "Nepal"
+      },
+      {
+        "name": "Shyala",
+        "country": "Nepal"
+      },
+      {
+        "name": "Samagaun",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pungyen Monastery",
+        "country": "Nepal"
+      },
+      {
+        "name": "Samdo",
+        "country": "Nepal"
+      },
+      {
+        "name": "Tilje",
+        "country": "Nepal"
+      },
+      {
+        "name": "Dharapani",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Arughat",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Jagat",
+        "country": "Nepal",
+        "lat": 27.824589,
+        "lng": 86.227371
+      },
+      {
+        "name": "Manaslu Conservation Area",
+        "country": "Nepal",
+        "lat": 28.62318,
+        "lng": 82.346664
+      },
+      {
+        "name": "Deng",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Siring Himal",
+        "country": "Nepal",
+        "lat": 27.262468,
+        "lng": 85.278206
+      },
+      {
+        "name": "Namrung",
+        "country": "Nepal",
+        "lat": 28.545046,
+        "lng": 84.768657
+      },
+      {
+        "name": "Lho",
+        "country": "Nepal",
+        "lat": 28.574047,
+        "lng": 84.70199
+      },
+      {
+        "name": "Shyala",
+        "country": "Nepal",
+        "lat": 28.108329,
+        "lng": 84.128028
+      },
+      {
+        "name": "Samagaun",
+        "country": "Nepal",
+        "lat": 28.584675,
+        "lng": 84.64404
+      },
+      {
+        "name": "Pungyen Monastery",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Samdo",
+        "country": "Nepal",
+        "lat": 27.247534,
+        "lng": 87.57899
+      },
+      {
+        "name": "Tilje",
+        "country": "Nepal",
+        "lat": 29.372042,
+        "lng": 83.29123
+      },
+      {
+        "name": "Dharapani",
+        "country": "Nepal",
+        "lat": 28.518997,
+        "lng": 84.35838
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -3540,7 +7416,91 @@
       }
     ],
     "map": "",
-    "category": "Yoga&Wellness"
+    "category": "Yoga&Wellness",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal",
+        "lat": 28.245338,
+        "lng": 83.947556
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -3606,7 +7566,111 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Thamel",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Mt. Everest",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Trisuli River",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Thamel",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Mt. Everest",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Trisuli River",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Phewa Lake",
+        "country": "Nepal",
+        "lat": 27.004112,
+        "lng": 84.9493
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -3682,7 +7746,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Delhi",
+        "country": "India"
+      },
+      {
+        "name": "Jaipur",
+        "country": "India"
+      },
+      {
+        "name": "Agra",
+        "country": "India"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Mount Everest",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Delhi",
+        "country": "India",
+        "lat": 28.613895,
+        "lng": 77.209006
+      },
+      {
+        "name": "Jaipur",
+        "country": "India",
+        "lat": 26.920341,
+        "lng": 75.81248
+      },
+      {
+        "name": "Agra",
+        "country": "India",
+        "lat": 27.17493,
+        "lng": 78.00882
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Mount Everest",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -3803,7 +7931,141 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sagarmatha National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Tham",
+        "country": "Nepal"
+      },
+      {
+        "name": "Dinjung",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lumde",
+        "country": "Nepal"
+      },
+      {
+        "name": "Gokyo",
+        "country": "Nepal"
+      },
+      {
+        "name": "Dragnag",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lobuche",
+        "country": "Nepal"
+      },
+      {
+        "name": "Everest Base Camp",
+        "country": "Nepal"
+      },
+      {
+        "name": "Gorak Shep",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chukhung",
+        "country": "Nepal"
+      },
+      {
+        "name": "Dingboche",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Sagarmatha National Park",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Tham",
+        "country": "Nepal",
+        "lat": 28.516704,
+        "lng": 82.548607
+      },
+      {
+        "name": "Dinjung",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Lumde",
+        "country": "Nepal",
+        "lat": 26.923367,
+        "lng": 87.727356
+      },
+      {
+        "name": "Gokyo",
+        "country": "Nepal",
+        "lat": 27.954088,
+        "lng": 86.694588
+      },
+      {
+        "name": "Dragnag",
+        "country": "Nepal",
+        "lat": 27.940737,
+        "lng": 86.720281
+      },
+      {
+        "name": "Lobuche",
+        "country": "Nepal",
+        "lat": 27.948099,
+        "lng": 86.810173
+      },
+      {
+        "name": "Everest Base Camp",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Gorak Shep",
+        "country": "Nepal",
+        "lat": 27.980675,
+        "lng": 86.828926
+      },
+      {
+        "name": "Chukhung",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Dingboche",
+        "country": "Nepal",
+        "lat": 27.89352,
+        "lng": 86.830936
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -3899,7 +8161,251 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Delhi",
+        "country": "India"
+      },
+      {
+        "name": "Old Delhi",
+        "country": "India"
+      },
+      {
+        "name": "Chandni Chowk",
+        "country": "India"
+      },
+      {
+        "name": "Jama Masjid",
+        "country": "India"
+      },
+      {
+        "name": "Agra",
+        "country": "India"
+      },
+      {
+        "name": "Agra Fort",
+        "country": "India"
+      },
+      {
+        "name": "Jhansi",
+        "country": "India"
+      },
+      {
+        "name": "Orchha",
+        "country": "India"
+      },
+      {
+        "name": "Khajuraho",
+        "country": "India"
+      },
+      {
+        "name": "Varanasi",
+        "country": "India"
+      },
+      {
+        "name": "Sarnath",
+        "country": "India"
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal"
+      },
+      {
+        "name": "Swayambhunath",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pashupatinath",
+        "country": "Nepal"
+      },
+      {
+        "name": "Boudhanath",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kirtipur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Dhulikhel",
+        "country": "Nepal"
+      },
+      {
+        "name": "Panauti",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Telkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Changu Narayan",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Delhi",
+        "country": "India",
+        "lat": 28.613895,
+        "lng": 77.209006
+      },
+      {
+        "name": "Old Delhi",
+        "country": "India",
+        "lat": 28.613895,
+        "lng": 77.209006
+      },
+      {
+        "name": "Chandni Chowk",
+        "country": "India",
+        "lat": 28.656172,
+        "lng": 77.23217
+      },
+      {
+        "name": "Jama Masjid",
+        "country": "India",
+        "lat": 28.602232,
+        "lng": 77.229385
+      },
+      {
+        "name": "Agra",
+        "country": "India",
+        "lat": 27.17493,
+        "lng": 78.00882
+      },
+      {
+        "name": "Agra Fort",
+        "country": "India",
+        "lat": 28.602232,
+        "lng": 77.229385
+      },
+      {
+        "name": "Jhansi",
+        "country": "India",
+        "lat": 25.448484,
+        "lng": 78.569725
+      },
+      {
+        "name": "Orchha",
+        "country": "India",
+        "lat": 25.350868,
+        "lng": 78.6409
+      },
+      {
+        "name": "Khajuraho",
+        "country": "India",
+        "lat": 24.851814,
+        "lng": 79.92318
+      },
+      {
+        "name": "Varanasi",
+        "country": "India",
+        "lat": 25.336693,
+        "lng": 83.00701
+      },
+      {
+        "name": "Sarnath",
+        "country": "India",
+        "lat": 25.37779,
+        "lng": 83.02723
+      },
+      {
+        "name": "Lumbini",
+        "country": "Nepal",
+        "lat": 27.841117,
+        "lng": 82.761036
+      },
+      {
+        "name": "Swayambhunath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Pashupatinath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Boudhanath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Kirtipur",
+        "country": "Nepal",
+        "lat": 27.674793,
+        "lng": 85.277756
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Dhulikhel",
+        "country": "Nepal",
+        "lat": 27.620441,
+        "lng": 85.552956
+      },
+      {
+        "name": "Panauti",
+        "country": "Nepal",
+        "lat": 27.584614,
+        "lng": 85.51718
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Telkot",
+        "country": "Nepal",
+        "lat": 27.712463,
+        "lng": 85.475092
+      },
+      {
+        "name": "Changu Narayan",
+        "country": "Nepal",
+        "lat": 28.842934,
+        "lng": 81.71162
+      }
+    ]
   },
   {
     "destination": "Nepal",
@@ -3985,6 +8491,130 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nepalgunj",
+        "country": "Nepal"
+      },
+      {
+        "name": "Juphal",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kalagaun",
+        "country": "Nepal"
+      },
+      {
+        "name": "Dunai",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kagbeni",
+        "country": "Nepal"
+      },
+      {
+        "name": "Shyanta",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chhepka",
+        "country": "Nepal"
+      },
+      {
+        "name": "Phoksundo Lake",
+        "country": "Nepal"
+      },
+      {
+        "name": "Ringmo",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bardiya National Park",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Nepalgunj",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Juphal",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Kalagaun",
+        "country": "Nepal",
+        "lat": 28.57026,
+        "lng": 82.21273
+      },
+      {
+        "name": "Dunai",
+        "country": "Nepal",
+        "lat": 28.95429,
+        "lng": 82.894226
+      },
+      {
+        "name": "Kagbeni",
+        "country": "Nepal",
+        "lat": 28.835325,
+        "lng": 83.78507
+      },
+      {
+        "name": "Shyanta",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Chhepka",
+        "country": "Nepal",
+        "lat": 29.056747,
+        "lng": 82.89706
+      },
+      {
+        "name": "Phoksundo Lake",
+        "country": "Nepal",
+        "lat": 29.201365,
+        "lng": 82.92984
+      },
+      {
+        "name": "Ringmo",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Bardiya National Park",
+        "country": "Nepal",
+        "lat": 28.452032,
+        "lng": 81.24345
+      }
+    ]
   }
 ]

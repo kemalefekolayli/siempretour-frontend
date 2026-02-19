@@ -68,7 +68,123 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Azoueiga",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Mherith Oasis",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Chinguetti",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Intkemkemt Oasis",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Tanouchert",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Ouadane",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Richat Structure",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Amogjar Canyon",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Terjit Oasis",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Atar",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "lat": 18.079238,
+        "lng": -15.978007
+      },
+      {
+        "name": "Azoueiga",
+        "country": "Mauritania",
+        "lat": 19.874704,
+        "lng": -13.554792
+      },
+      {
+        "name": "Chinguetti",
+        "country": "Mauritania",
+        "lat": 20.440359,
+        "lng": -12.262204
+      },
+      {
+        "name": "Intkemkemt Oasis",
+        "country": "Mauritania",
+        "lat": 20.488319,
+        "lng": -12.332794
+      },
+      {
+        "name": "Tanouchert",
+        "country": "Mauritania",
+        "lat": 20.719025,
+        "lng": -11.882494
+      },
+      {
+        "name": "Ouadane",
+        "country": "Mauritania",
+        "lat": 20.930898,
+        "lng": -11.620795
+      },
+      {
+        "name": "Terjit Oasis",
+        "country": "Mauritania",
+        "lat": 20.258163,
+        "lng": -13.096455
+      },
+      {
+        "name": "Atar",
+        "country": "Mauritania",
+        "lat": 20.514017,
+        "lng": -13.050462
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "lat": 18.079238,
+        "lng": -15.978007
+      }
+    ]
   },
   {
     "destination": "Mauritania",
@@ -159,7 +275,129 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Akjoujt",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Chinguetti",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Ouadane",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Guelb er Richat",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Trig Chauail",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Erg Ouarane",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Aoukar",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Oulata",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Aoudaghost",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Tagant",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "lat": 18.079238,
+        "lng": -15.978007
+      },
+      {
+        "name": "Akjoujt",
+        "country": "Mauritania",
+        "lat": 19.74358,
+        "lng": -14.385524
+      },
+      {
+        "name": "Chinguetti",
+        "country": "Mauritania",
+        "lat": 20.440359,
+        "lng": -12.262204
+      },
+      {
+        "name": "Ouadane",
+        "country": "Mauritania",
+        "lat": 20.930898,
+        "lng": -11.620795
+      },
+      {
+        "name": "Guelb er Richat",
+        "country": "Mauritania",
+        "lat": 21.117156,
+        "lng": -11.401829
+      },
+      {
+        "name": "Erg Ouarane",
+        "country": "Mauritania",
+        "lat": 20.930898,
+        "lng": -11.620795
+      },
+      {
+        "name": "Aoukar",
+        "country": "Mauritania",
+        "lat": 18.3795,
+        "lng": -14.366
+      },
+      {
+        "name": "Oulata",
+        "country": "Mauritania",
+        "lat": 17.300474,
+        "lng": -7.025808
+      },
+      {
+        "name": "Tagant",
+        "country": "Mauritania",
+        "lat": 18.554516,
+        "lng": -11.432583
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "lat": 18.079238,
+        "lng": -15.978007
+      }
+    ]
   },
   {
     "destination": "Mauritania",
@@ -235,6 +473,160 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Iwik",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Banc d’Arguin National Park",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Nouadhibou",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Cap Blanc",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Ben Amera",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Atar",
+        "country": "Mauritania"
+      },
+      {
+        "name": "El Beyyed",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Guelb er Richat",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Ouadane",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Tenewchert",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Chinguetti",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Mheirith",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Timinit",
+        "country": "Mauritania"
+      },
+      {
+        "name": "White Valley",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Tergit",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "lat": 18.079238,
+        "lng": -15.978007
+      },
+      {
+        "name": "Iwik",
+        "country": "Mauritania",
+        "lat": 19.878406,
+        "lng": -16.304419
+      },
+      {
+        "name": "Banc d’Arguin National Park",
+        "country": "Mauritania",
+        "lat": 20.603333,
+        "lng": -16.461389
+      },
+      {
+        "name": "Nouadhibou",
+        "country": "Mauritania",
+        "lat": 20.912705,
+        "lng": -17.050309
+      },
+      {
+        "name": "Ben Amera",
+        "country": "Mauritania",
+        "lat": 25.7875,
+        "lng": -8.995556
+      },
+      {
+        "name": "Atar",
+        "country": "Mauritania",
+        "lat": 20.514017,
+        "lng": -13.050462
+      },
+      {
+        "name": "El Beyyed",
+        "country": "Mauritania",
+        "lat": 16.892672,
+        "lng": -10.006335
+      },
+      {
+        "name": "Guelb er Richat",
+        "country": "Mauritania",
+        "lat": 21.117156,
+        "lng": -11.401829
+      },
+      {
+        "name": "Ouadane",
+        "country": "Mauritania",
+        "lat": 20.930898,
+        "lng": -11.620795
+      },
+      {
+        "name": "Chinguetti",
+        "country": "Mauritania",
+        "lat": 20.440359,
+        "lng": -12.262204
+      },
+      {
+        "name": "Tergit",
+        "country": "Mauritania",
+        "lat": 20.258163,
+        "lng": -13.096455
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "lat": 18.079238,
+        "lng": -15.978007
+      }
+    ]
   }
 ]

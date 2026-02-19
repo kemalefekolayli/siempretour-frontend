@@ -88,7 +88,115 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Community Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tulear",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Anja Community Reserve",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar",
+        "lat": -22.385761,
+        "lng": 47.765644
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -164,7 +272,89 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Analamazaotra Special Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Manambato",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankanin'ny Nofy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Lake Ampitabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Toamasina",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambohimanga",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Manambato",
+        "country": "Madagascar",
+        "lat": -13.911564,
+        "lng": 49.162872
+      },
+      {
+        "name": "Ankanin'ny Nofy",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Lake Ampitabe",
+        "country": "Madagascar",
+        "lat": -19.420944,
+        "lng": 48.648362
+      },
+      {
+        "name": "Ambohimanga",
+        "country": "Madagascar",
+        "lat": -21.586366,
+        "lng": 47.585048
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -245,7 +435,69 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Avenue of the Baobabs",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anjajavy",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Anjajavy",
+        "country": "Madagascar",
+        "lat": -15.028878,
+        "lng": 47.217704
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -351,7 +603,89 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Toliara",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Mandrare River",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar",
+        "lat": -22.880859,
+        "lng": 44.758547
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -447,7 +781,105 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Diego Suarez",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Amber Mountain National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankarana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Red Tsingy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Mitsio",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Tanikely Marine National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Diego Suarez",
+        "country": "Madagascar",
+        "lat": -12.303149,
+        "lng": 49.286663
+      },
+      {
+        "name": "Amber Mountain National Park",
+        "country": "Madagascar",
+        "lat": -18.610763,
+        "lng": 47.914426
+      },
+      {
+        "name": "Ankarana National Park",
+        "country": "Madagascar",
+        "lat": -21.918642,
+        "lng": 47.898377
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Nosy Mitsio",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Nosy Tanikely Marine National Park",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -558,7 +990,153 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andravona",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andavadoaka",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Manja",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andringitra National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antoetra",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar",
+        "lat": -19.146633,
+        "lng": 44.790146
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar",
+        "lat": -23.120165,
+        "lng": 47.621115
+      },
+      {
+        "name": "Manja",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar",
+        "lat": -22.880859,
+        "lng": 44.758547
+      },
+      {
+        "name": "Andringitra National Park",
+        "country": "Madagascar",
+        "lat": -22.251837,
+        "lng": 47.954255
+      },
+      {
+        "name": "Anja Reserve",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Antoetra",
+        "country": "Madagascar",
+        "lat": -20.77587,
+        "lng": 47.317505
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -644,7 +1222,75 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Maroantsetra",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Masoala National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Mangabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsarabanjina",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Maroantsetra",
+        "country": "Madagascar",
+        "lat": -15.435323,
+        "lng": 49.7423
+      },
+      {
+        "name": "Masoala National Park",
+        "country": "Madagascar",
+        "lat": -15.387065,
+        "lng": 47.989346
+      },
+      {
+        "name": "Nosy Mangabe",
+        "country": "Madagascar",
+        "lat": -17.778814,
+        "lng": 49.207893
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -725,7 +1371,99 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Palmarium",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy National Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Anja",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -806,7 +1544,99 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Palmarium",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy National Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Anja",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -927,7 +1757,183 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ampefy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsiroanomandidy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Belobaka",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankavandra",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Manambolo River",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andadoany",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsingy de Bemaraha",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Belo Tsiribihina",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy Forest",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Miandrivazo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana Rainforest National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andringitra",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Toliara",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Ampefy",
+        "country": "Madagascar",
+        "lat": -19.04146,
+        "lng": 46.732037
+      },
+      {
+        "name": "Belobaka",
+        "country": "Madagascar",
+        "lat": -15.704666,
+        "lng": 46.394184
+      },
+      {
+        "name": "Ankavandra",
+        "country": "Madagascar",
+        "lat": -18.772383,
+        "lng": 45.293156
+      },
+      {
+        "name": "Manambolo River",
+        "country": "Madagascar",
+        "lat": -15.127611,
+        "lng": 49.692375
+      },
+      {
+        "name": "Andadoany",
+        "country": "Madagascar",
+        "lat": -19.143701,
+        "lng": 44.811546
+      },
+      {
+        "name": "Tsingy de Bemaraha",
+        "country": "Madagascar",
+        "lat": -23.120165,
+        "lng": 47.621115
+      },
+      {
+        "name": "Belo Tsiribihina",
+        "country": "Madagascar",
+        "lat": -24.482363,
+        "lng": 46.025696
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Miandrivazo",
+        "country": "Madagascar",
+        "lat": -19.531784,
+        "lng": 45.45776
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana Rainforest National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Andringitra",
+        "country": "Madagascar",
+        "lat": -22.251837,
+        "lng": 47.954255
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -1028,7 +2034,103 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tulear",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Reniala Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Anja Reserve",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -1134,7 +2236,103 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tulear",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Seychelles",
+        "country": null
+      },
+      {
+        "name": "Mahe",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar",
+        "lat": -19.394962,
+        "lng": 47.620153
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar",
+        "lat": -22.880859,
+        "lng": 44.758547
+      },
+      {
+        "name": "Andasibe Mantadia National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -1230,7 +2428,125 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambatolampy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Lake Tritriva",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsaranoro Valley",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andringitra National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Ambatolampy",
+        "country": "Madagascar",
+        "lat": -19.384727,
+        "lng": 47.426723
+      },
+      {
+        "name": "Lake Tritriva",
+        "country": "Madagascar",
+        "lat": -19.927347,
+        "lng": 46.931595
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Anja Park",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Andringitra National Park",
+        "country": "Madagascar",
+        "lat": -22.251837,
+        "lng": 47.954255
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar",
+        "lat": -22.385761,
+        "lng": 47.765644
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -1311,7 +2627,79 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Montagne des Français",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Montagne d’Ambre National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankarana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankify",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Sakatia",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Ankarana National Park",
+        "country": "Madagascar",
+        "lat": -21.918642,
+        "lng": 47.898377
+      },
+      {
+        "name": "Ankify",
+        "country": "Madagascar",
+        "lat": -22.386715,
+        "lng": 46.096085
+      },
+      {
+        "name": "Nosy Sakatia",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -1407,7 +2795,105 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsarasoa",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar",
+        "lat": -19.394962,
+        "lng": 47.620153
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Anja Reserve",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar",
+        "lat": -22.385761,
+        "lng": 47.765644
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -1503,7 +2989,149 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambohimanga",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranohira",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Community Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ilakaka",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tuléar",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Reniala Nature Reserve",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Ambohimanga",
+        "country": "Madagascar",
+        "lat": -21.586366,
+        "lng": 47.585048
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar",
+        "lat": -20.53303,
+        "lng": 47.24517
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar",
+        "lat": -19.394962,
+        "lng": 47.620153
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Ranohira",
+        "country": "Madagascar",
+        "lat": -22.556799,
+        "lng": 45.414116
+      },
+      {
+        "name": "Anja Community Reserve",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Ilakaka",
+        "country": "Madagascar",
+        "lat": -22.765566,
+        "lng": 45.348274
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar",
+        "lat": -22.385761,
+        "lng": 47.765644
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -1599,7 +3227,141 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Manambato",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankanin’ny Nofy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Amber Mountain National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsiranana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankarana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Iharana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankify",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Sakatia",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Tanikely",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Manambato",
+        "country": "Madagascar",
+        "lat": -13.911564,
+        "lng": 49.162872
+      },
+      {
+        "name": "Ankanin’ny Nofy",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Amber Mountain National Park",
+        "country": "Madagascar",
+        "lat": -18.610763,
+        "lng": 47.914426
+      },
+      {
+        "name": "Antsiranana",
+        "country": "Madagascar",
+        "lat": -22.656821,
+        "lng": 47.780593
+      },
+      {
+        "name": "Ankarana National Park",
+        "country": "Madagascar",
+        "lat": -21.918642,
+        "lng": 47.898377
+      },
+      {
+        "name": "Iharana",
+        "country": "Madagascar",
+        "lat": -19.781323,
+        "lng": 47.664968
+      },
+      {
+        "name": "Ankify",
+        "country": "Madagascar",
+        "lat": -22.386715,
+        "lng": 46.096085
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Nosy Sakatia",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Nosy Tanikely",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -1710,7 +3472,125 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambatolampy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Lake Tritriva",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsaranoro Valley",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ambatolampy",
+        "country": "Madagascar",
+        "lat": -19.384727,
+        "lng": 47.426723
+      },
+      {
+        "name": "Lake Tritriva",
+        "country": "Madagascar",
+        "lat": -19.927347,
+        "lng": 46.931595
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Anja Park",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar",
+        "lat": -22.385761,
+        "lng": 47.765644
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar",
+        "lat": -22.880859,
+        "lng": 44.758547
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -1846,7 +3726,177 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Miandrivazo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsiribihina River",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy Forest Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Belo Sur Mer",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Manja",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morombe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Mikea",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tana",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Miandrivazo",
+        "country": "Madagascar",
+        "lat": -19.531784,
+        "lng": 45.45776
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar",
+        "lat": -19.146633,
+        "lng": 44.790146
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar",
+        "lat": -23.120165,
+        "lng": 47.621115
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Belo Sur Mer",
+        "country": "Madagascar",
+        "lat": -20.736223,
+        "lng": 44.002075
+      },
+      {
+        "name": "Manja",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Morombe",
+        "country": "Madagascar",
+        "lat": -21.744032,
+        "lng": 43.35931
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar",
+        "lat": -20.53303,
+        "lng": 47.24517
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -1947,7 +3997,133 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Lemur Island",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Lake Tritriva",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Mahafaly Tombs",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Toliara",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Ve Island",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Lemur Park",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe Reserve",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Lake Tritriva",
+        "country": "Madagascar",
+        "lat": -19.927347,
+        "lng": 46.931595
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar",
+        "lat": -20.53303,
+        "lng": 47.24517
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar",
+        "lat": -19.394962,
+        "lng": 47.620153
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Mahafaly Tombs",
+        "country": "Madagascar",
+        "lat": -19.836825,
+        "lng": 47.044647
+      },
+      {
+        "name": "Nosy Ve Island",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -2078,7 +4254,185 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Miandrivazo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsiribihina River",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Belo sur Tsiribihina",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Betsileo Villages",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsaranoro Valley",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tulear",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Manambato",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Akanin’ny Nofy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tamatave",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Miandrivazo",
+        "country": "Madagascar",
+        "lat": -19.531784,
+        "lng": 45.45776
+      },
+      {
+        "name": "Belo sur Tsiribihina",
+        "country": "Madagascar",
+        "lat": -19.504198,
+        "lng": 44.513763
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar",
+        "lat": -19.146633,
+        "lng": 44.790146
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar",
+        "lat": -23.120165,
+        "lng": 47.621115
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar",
+        "lat": -20.53303,
+        "lng": 47.24517
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar",
+        "lat": -19.394962,
+        "lng": 47.620153
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Manambato",
+        "country": "Madagascar",
+        "lat": -13.911564,
+        "lng": 49.162872
+      },
+      {
+        "name": "Akanin’ny Nofy",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -2134,7 +4488,55 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "beachside lodge",
+        "country": null
+      },
+      {
+        "name": "primary rainforest",
+        "country": null
+      },
+      {
+        "name": "coral reefs",
+        "country": null
+      },
+      {
+        "name": "coastal forests",
+        "country": null
+      },
+      {
+        "name": "island",
+        "country": null
+      },
+      {
+        "name": "Malagasy Tombs",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -2220,7 +4622,77 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Avenue of Baobabs",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Mandrare River",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Sacred Gallery Forest",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Perinet Reserve",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar",
+        "lat": -23.120165,
+        "lng": 47.621115
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -2311,7 +4783,109 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Diego Suarez",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Montagne des Français",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Jofreville",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Amber Mountain",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankarana Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankify",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anjiabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Radama",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Diego Suarez",
+        "country": "Madagascar",
+        "lat": -12.303149,
+        "lng": 49.286663
+      },
+      {
+        "name": "Jofreville",
+        "country": "Madagascar",
+        "lat": -12.497419,
+        "lng": 49.202435
+      },
+      {
+        "name": "Amber Mountain",
+        "country": "Madagascar",
+        "lat": -18.610763,
+        "lng": 47.914426
+      },
+      {
+        "name": "Ankarana Reserve",
+        "country": "Madagascar",
+        "lat": -21.918642,
+        "lng": 47.898377
+      },
+      {
+        "name": "Ankify",
+        "country": "Madagascar",
+        "lat": -22.386715,
+        "lng": 46.096085
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Anjiabe",
+        "country": "Madagascar",
+        "lat": -15.653982,
+        "lng": 48.363956
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -2402,7 +4976,95 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Manambato",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ampasindava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankanin'ny Nofy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambavarano",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tamatave",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ile Sainte Marie",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Manambato",
+        "country": "Madagascar",
+        "lat": -13.911564,
+        "lng": 49.162872
+      },
+      {
+        "name": "Ampasindava",
+        "country": "Madagascar",
+        "lat": -13.269271,
+        "lng": 48.262112
+      },
+      {
+        "name": "Ankanin'ny Nofy",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Ambavarano",
+        "country": "Madagascar",
+        "lat": -15.118212,
+        "lng": 50.262636
+      },
+      {
+        "name": "Ile Sainte Marie",
+        "country": "Madagascar",
+        "lat": -17.068026,
+        "lng": 49.82565
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -2508,7 +5170,161 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Highlands",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Mania River",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Allee de Baobab",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Belo Sur Mer",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Maja",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andavadoaka",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Laguna Blu",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ihosy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Betsileo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Mania River",
+        "country": "Madagascar",
+        "lat": -17.299463,
+        "lng": 46.425938
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Belo Sur Mer",
+        "country": "Madagascar",
+        "lat": -20.736223,
+        "lng": 44.002075
+      },
+      {
+        "name": "Maja",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Isalo",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Ihosy",
+        "country": "Madagascar",
+        "lat": -22.403301,
+        "lng": 46.12877
+      },
+      {
+        "name": "Anja Park",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar",
+        "lat": -19.394962,
+        "lng": 47.620153
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -2624,7 +5440,147 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Community Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Reniala Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anakao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsimanampetsotsa National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Ve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tulear",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Mahajanga",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankarafantsika National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Anja Community Reserve",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar",
+        "lat": -22.385761,
+        "lng": 47.765644
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar",
+        "lat": -22.880859,
+        "lng": 44.758547
+      },
+      {
+        "name": "Anakao",
+        "country": "Madagascar",
+        "lat": -23.659891,
+        "lng": 43.64691
+      },
+      {
+        "name": "Nosy Ve",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Mahajanga",
+        "country": "Madagascar",
+        "lat": -15.718153,
+        "lng": 46.317314
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -2730,7 +5686,123 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Alley of the Baobabs",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anjà Community Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ifaty Beach",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tuléar",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar",
+        "lat": -19.146633,
+        "lng": 44.790146
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar",
+        "lat": -23.120165,
+        "lng": 47.621115
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Anjà Community Reserve",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Ifaty Beach",
+        "country": "Madagascar",
+        "lat": -22.385761,
+        "lng": 47.765644
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -2806,7 +5878,89 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Hara",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Majunga",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Toliara",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Richards Bay",
+        "country": "South Africa"
+      },
+      {
+        "name": "Durban",
+        "country": "South Africa"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Nosy Hara",
+        "country": "Madagascar",
+        "lat": -23.118111,
+        "lng": 47.538024
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Richards Bay",
+        "country": "South Africa",
+        "lat": -28.769068,
+        "lng": 32.058865
+      },
+      {
+        "name": "Durban",
+        "country": "South Africa",
+        "lat": -29.858688,
+        "lng": 31.021832
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -2917,7 +6071,129 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Sahambavy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Manakara",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Faraony River",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsaranoro Valley",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anjajavy",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Sahambavy",
+        "country": "Madagascar",
+        "lat": -21.440153,
+        "lng": 47.250435
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar",
+        "lat": -19.394962,
+        "lng": 47.620153
+      },
+      {
+        "name": "Manakara",
+        "country": "Madagascar",
+        "lat": -22.145388,
+        "lng": 48.01143
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Anja Park",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar",
+        "lat": -20.53303,
+        "lng": 47.24517
+      },
+      {
+        "name": "Anjajavy",
+        "country": "Madagascar",
+        "lat": -15.028878,
+        "lng": 47.217704
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -3043,7 +6319,171 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andringitra",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranohira",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Reniala Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tulear",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Fort-Dauphin",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Berenty Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andohahela National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Lokaro Bay",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar",
+        "lat": -19.394962,
+        "lng": 47.620153
+      },
+      {
+        "name": "Anja Reserve",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Andringitra",
+        "country": "Madagascar",
+        "lat": -22.251837,
+        "lng": 47.954255
+      },
+      {
+        "name": "Ranohira",
+        "country": "Madagascar",
+        "lat": -22.556799,
+        "lng": 45.414116
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar",
+        "lat": -22.880859,
+        "lng": 44.758547
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar",
+        "lat": -22.385761,
+        "lng": 47.765644
+      },
+      {
+        "name": "Fort-Dauphin",
+        "country": "Madagascar",
+        "lat": -25.02413,
+        "lng": 46.981567
+      },
+      {
+        "name": "Berenty Reserve",
+        "country": "Madagascar",
+        "lat": -22.170841,
+        "lng": 45.055145
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -3104,7 +6544,73 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Russian Bay",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Iranja",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Aldabra Atoll",
+        "country": "null"
+      },
+      {
+        "name": "Mtwara",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mafia Island",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Nosy Iranja",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Mtwara",
+        "country": "Tanzania",
+        "lat": -10.28112,
+        "lng": 40.181341
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -3235,7 +6741,229 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tulear",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar",
+        "lat": -19.146633,
+        "lng": 44.790146
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar",
+        "lat": -23.120165,
+        "lng": 47.621115
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar",
+        "lat": -22.880859,
+        "lng": 44.758547
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar",
+        "lat": -22.385761,
+        "lng": 47.765644
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -3326,7 +7054,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambohimanga",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Ambohimanga",
+        "country": "Madagascar",
+        "lat": -21.586366,
+        "lng": 47.585048
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -3387,7 +7189,95 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Perinet Special Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Lemur Island",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Fort Dauphin",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Forest of Zenavo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Sacred Gallery Forest",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Sacred Spiny Forest",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Manafiafy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Fort Dauphin",
+        "country": "Madagascar",
+        "lat": -25.02413,
+        "lng": 46.981567
+      },
+      {
+        "name": "Manafiafy",
+        "country": "Madagascar",
+        "lat": -24.703886,
+        "lng": 43.942127
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -3508,7 +7398,125 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tulear",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Lake Ampitabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Mahambo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ile Sainte Marie",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Andasibe Mantadia National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Lake Ampitabe",
+        "country": "Madagascar",
+        "lat": -19.420944,
+        "lng": 48.648362
+      },
+      {
+        "name": "Mahambo",
+        "country": "Madagascar",
+        "lat": -17.480774,
+        "lng": 49.463654
+      },
+      {
+        "name": "Ile Sainte Marie",
+        "country": "Madagascar",
+        "lat": -17.068026,
+        "lng": 49.82565
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -3594,7 +7602,105 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Mitsinjo Forest",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Diego-Suarez",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Emerald Sea",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Amber National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankarana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Iharana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Mitsinjo Forest",
+        "country": "Madagascar",
+        "lat": -16.01162,
+        "lng": 45.86637
+      },
+      {
+        "name": "Diego-Suarez",
+        "country": "Madagascar",
+        "lat": -12.303149,
+        "lng": 49.286663
+      },
+      {
+        "name": "Amber National Park",
+        "country": "Madagascar",
+        "lat": -18.610763,
+        "lng": 47.914426
+      },
+      {
+        "name": "Ankarana National Park",
+        "country": "Madagascar",
+        "lat": -21.918642,
+        "lng": 47.898377
+      },
+      {
+        "name": "Iharana",
+        "country": "Madagascar",
+        "lat": -19.781323,
+        "lng": 47.664968
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -3685,7 +7791,99 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy Forest Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Palmarium Reserve",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar",
+        "lat": -23.120165,
+        "lng": 47.621115
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Anja Reserve",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -3801,7 +7999,115 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranohira",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Avenue of the Baobabs",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anjajavy Reserve",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Ranohira",
+        "country": "Madagascar",
+        "lat": -22.556799,
+        "lng": 45.414116
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Anjajavy Reserve",
+        "country": "Madagascar",
+        "lat": -15.028878,
+        "lng": 47.217704
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -3917,7 +8223,165 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Sambava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Marojejy National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Daraina Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankarana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambilobe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Montagne des Francais",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Joffreville",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Amber Mountain National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Red Tsingy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsingy D’Ankarana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Diego Suarez",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andrafiamena",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambanja",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Mahitsizato",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsohihy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankarafantsika",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Lake Ravelobe",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Sambava",
+        "country": "Madagascar",
+        "lat": -14.255324,
+        "lng": 50.15523
+      },
+      {
+        "name": "Daraina Reserve",
+        "country": "Madagascar",
+        "lat": -13.205335,
+        "lng": 49.66137
+      },
+      {
+        "name": "Ankarana",
+        "country": "Madagascar",
+        "lat": -21.918642,
+        "lng": 47.898377
+      },
+      {
+        "name": "Ambilobe",
+        "country": "Madagascar",
+        "lat": -13.194096,
+        "lng": 49.050377
+      },
+      {
+        "name": "Joffreville",
+        "country": "Madagascar",
+        "lat": -12.497419,
+        "lng": 49.202435
+      },
+      {
+        "name": "Amber Mountain National Park",
+        "country": "Madagascar",
+        "lat": -18.610763,
+        "lng": 47.914426
+      },
+      {
+        "name": "Tsingy D’Ankarana",
+        "country": "Madagascar",
+        "lat": -21.918642,
+        "lng": 47.898377
+      },
+      {
+        "name": "Diego Suarez",
+        "country": "Madagascar",
+        "lat": -12.303149,
+        "lng": 49.286663
+      },
+      {
+        "name": "Ambanja",
+        "country": "Madagascar",
+        "lat": -13.675349,
+        "lng": 48.45188
+      },
+      {
+        "name": "Antsohihy",
+        "country": "Madagascar",
+        "lat": -14.877266,
+        "lng": 47.98669
+      },
+      {
+        "name": "Lake Ravelobe",
+        "country": "Madagascar",
+        "lat": -16.309653,
+        "lng": 46.815798
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -4023,7 +8487,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Amber Mountain National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Diego Suarez",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ankarana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Sakatia",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Iranja",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Amber Mountain National Park",
+        "country": "Madagascar",
+        "lat": -18.610763,
+        "lng": 47.914426
+      },
+      {
+        "name": "Diego Suarez",
+        "country": "Madagascar",
+        "lat": -12.303149,
+        "lng": 49.286663
+      },
+      {
+        "name": "Ankarana National Park",
+        "country": "Madagascar",
+        "lat": -21.918642,
+        "lng": 47.898377
+      },
+      {
+        "name": "Nosy Komba",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Nosy Sakatia",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Nosy Iranja",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -4114,7 +8692,75 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Be Archipelago",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Mitsio Archipelago",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Nosy Tanikely",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsarabanjina Island",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Nosy Be Archipelago",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Nosy Mitsio Archipelago",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      },
+      {
+        "name": "Nosy Tanikely",
+        "country": "Madagascar",
+        "lat": -19.222093,
+        "lng": 48.893181
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -4220,7 +8866,153 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Betafo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Lake Tritriva",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Sahambavy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Manakara",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Canal des Pangalanes",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsaranoro Valley",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andringitra National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anakao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tulear",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Betafo",
+        "country": "Madagascar",
+        "lat": -19.837927,
+        "lng": 46.855003
+      },
+      {
+        "name": "Lake Tritriva",
+        "country": "Madagascar",
+        "lat": -19.927347,
+        "lng": 46.931595
+      },
+      {
+        "name": "Sahambavy",
+        "country": "Madagascar",
+        "lat": -21.440153,
+        "lng": 47.250435
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar",
+        "lat": -20.53303,
+        "lng": 47.24517
+      },
+      {
+        "name": "Manakara",
+        "country": "Madagascar",
+        "lat": -22.145388,
+        "lng": 48.01143
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Andringitra National Park",
+        "country": "Madagascar",
+        "lat": -22.251837,
+        "lng": 47.954255
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Anakao",
+        "country": "Madagascar",
+        "lat": -23.659891,
+        "lng": 43.64691
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -4276,7 +9068,59 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Desroches Island",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Farquhar Atolls",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Hell-Ville",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria",
+        "country": "Seychelles",
+        "lat": -4.620366,
+        "lng": 55.454901
+      },
+      {
+        "name": "Nosy Be",
+        "country": "Madagascar",
+        "lat": -21.824931,
+        "lng": 43.294534
+      },
+      {
+        "name": "Hell-Ville",
+        "country": "Madagascar",
+        "lat": -13.405685,
+        "lng": 48.273342
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -4382,7 +9226,163 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Avenue of the Baobabs",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Miandrivazo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tuléar",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Tsingy de Bemaraha National Park",
+        "country": "Madagascar",
+        "lat": -23.120165,
+        "lng": 47.621115
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar",
+        "lat": -19.146633,
+        "lng": 44.790146
+      },
+      {
+        "name": "Miandrivazo",
+        "country": "Madagascar",
+        "lat": -19.531784,
+        "lng": 45.45776
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ambositra",
+        "country": "Madagascar",
+        "lat": -20.53303,
+        "lng": 47.24517
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar",
+        "lat": -19.394962,
+        "lng": 47.620153
+      },
+      {
+        "name": "Anja Park",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar",
+        "lat": -22.385761,
+        "lng": 47.765644
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -4468,7 +9468,89 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Reniala Nature Reserve ‘Spiny Forest’",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tulear",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar",
+        "lat": -22.385761,
+        "lng": 47.765644
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -4564,7 +9646,111 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Community Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Anja Community Reserve",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar",
+        "lat": -22.880859,
+        "lng": 44.758547
+      },
+      {
+        "name": "Ifaty",
+        "country": "Madagascar",
+        "lat": -22.385761,
+        "lng": 47.765644
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -4685,7 +9871,167 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsingy De Bemaraha National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Avenue of Baobabs",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Community Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tulear",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anakao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsimanampetsotsa National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Morondava",
+        "country": "Madagascar",
+        "lat": -20.29403,
+        "lng": 44.278698
+      },
+      {
+        "name": "Tsingy De Bemaraha National Park",
+        "country": "Madagascar",
+        "lat": -23.120165,
+        "lng": 47.621115
+      },
+      {
+        "name": "Bekopaka",
+        "country": "Madagascar",
+        "lat": -19.146633,
+        "lng": 44.790146
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Ranomafana",
+        "country": "Madagascar",
+        "lat": -21.260815,
+        "lng": 47.45523
+      },
+      {
+        "name": "Fianarantsoa",
+        "country": "Madagascar",
+        "lat": -19.394962,
+        "lng": 47.620153
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Anja Community Reserve",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar",
+        "lat": -22.880859,
+        "lng": 44.758547
+      },
+      {
+        "name": "Anakao",
+        "country": "Madagascar",
+        "lat": -23.659891,
+        "lng": 43.64691
+      },
+      {
+        "name": "Andasibe",
+        "country": "Madagascar",
+        "lat": -17.302492,
+        "lng": 48.99023
+      }
+    ]
   },
   {
     "destination": "Madagascar",
@@ -4826,6 +10172,148 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Miandrivazo",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsiribihina River",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Gorge of Tsiribihina",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andavadoaka",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Kirindy Mitea National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andravona",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Makay Massif",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anja Reserve",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Tsaranoro Valley",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Anjozorobe Forest Corridor",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar"
+      },
+      {
+        "name": "Andringitra National Park",
+        "country": "Madagascar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Antananarivo",
+        "country": "Madagascar",
+        "lat": -18.909775,
+        "lng": 47.52709
+      },
+      {
+        "name": "Antsirabe",
+        "country": "Madagascar",
+        "lat": -13.880381,
+        "lng": 48.143883
+      },
+      {
+        "name": "Miandrivazo",
+        "country": "Madagascar",
+        "lat": -19.531784,
+        "lng": 45.45776
+      },
+      {
+        "name": "Kirindy Mitea National Park",
+        "country": "Madagascar",
+        "lat": -22.303837,
+        "lng": 47.617649
+      },
+      {
+        "name": "Zombitse National Park",
+        "country": "Madagascar",
+        "lat": -22.880859,
+        "lng": 44.758547
+      },
+      {
+        "name": "Anja Reserve",
+        "country": "Madagascar",
+        "lat": -21.43414,
+        "lng": 44.330334
+      },
+      {
+        "name": "Ambalavao",
+        "country": "Madagascar",
+        "lat": -19.096058,
+        "lng": 47.53055
+      },
+      {
+        "name": "Anjozorobe Forest Corridor",
+        "country": "Madagascar",
+        "lat": -18.401323,
+        "lng": 47.881516
+      },
+      {
+        "name": "Isalo National Park",
+        "country": "Madagascar",
+        "lat": -19.73672,
+        "lng": 45.43856
+      },
+      {
+        "name": "Andringitra National Park",
+        "country": "Madagascar",
+        "lat": -22.251837,
+        "lng": 47.954255
+      }
+    ]
   }
 ]

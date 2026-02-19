@@ -98,7 +98,113 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paramaribo",
+        "country": "Suriname"
+      },
+      {
+        "name": "Danpaati",
+        "country": null
+      },
+      {
+        "name": "Commewijne",
+        "country": "Suriname"
+      },
+      {
+        "name": "Cayenne",
+        "country": "French Guiana"
+      },
+      {
+        "name": "Devil’s Island",
+        "country": "French Guiana"
+      },
+      {
+        "name": "Kourou",
+        "country": "French Guiana"
+      },
+      {
+        "name": "Georgetown",
+        "country": "Guyana"
+      },
+      {
+        "name": "Kaieteur Falls",
+        "country": "Guyana"
+      },
+      {
+        "name": "Iwokrama",
+        "country": "Guyana"
+      },
+      {
+        "name": "Surama",
+        "country": "Guyana"
+      },
+      {
+        "name": "Surama Mountain",
+        "country": "Guyana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paramaribo",
+        "country": "Suriname",
+        "lat": 5.824763,
+        "lng": -55.170394
+      },
+      {
+        "name": "Commewijne",
+        "country": "Suriname",
+        "lat": 5.880419,
+        "lng": -55.084954
+      },
+      {
+        "name": "Cayenne",
+        "country": "French Guiana",
+        "lat": 4.938791,
+        "lng": -52.33174
+      },
+      {
+        "name": "Devil’s Island",
+        "country": "French Guiana",
+        "lat": 5.29389,
+        "lng": -52.5833
+      },
+      {
+        "name": "Kourou",
+        "country": "French Guiana",
+        "lat": 5.157353,
+        "lng": -52.643288
+      },
+      {
+        "name": "Georgetown",
+        "country": "Guyana",
+        "lat": 6.809843,
+        "lng": -58.159283
+      },
+      {
+        "name": "Surama",
+        "country": "Guyana",
+        "lat": 4.137861,
+        "lng": -59.070676
+      },
+      {
+        "name": "Surama Mountain",
+        "country": "Guyana",
+        "lat": 4.137861,
+        "lng": -59.070676
+      }
+    ]
   },
   {
     "destination": "French Guiana",
@@ -199,6 +305,106 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Georgetown",
+        "country": "Guyana"
+      },
+      {
+        "name": "Kaieteur Falls",
+        "country": "Guyana"
+      },
+      {
+        "name": "Iwokrama River Lodge",
+        "country": "Guyana"
+      },
+      {
+        "name": "Atta Rainforest Lodge",
+        "country": "Guyana"
+      },
+      {
+        "name": "Karanambu Lodge",
+        "country": "Guyana"
+      },
+      {
+        "name": "Lethem",
+        "country": "Guyana"
+      },
+      {
+        "name": "Paramaribo",
+        "country": "Suriname"
+      },
+      {
+        "name": "St. Laurent du Maroni",
+        "country": "French Guiana"
+      },
+      {
+        "name": "Guiana Space Center",
+        "country": "French Guiana"
+      },
+      {
+        "name": "Devil's Island",
+        "country": "French Guiana"
+      },
+      {
+        "name": "Cayenne",
+        "country": "French Guiana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Georgetown",
+        "country": "Guyana",
+        "lat": 6.809843,
+        "lng": -58.159283
+      },
+      {
+        "name": "Karanambu Lodge",
+        "country": "Guyana",
+        "lat": 3.752901,
+        "lng": -59.310262
+      },
+      {
+        "name": "Paramaribo",
+        "country": "Suriname",
+        "lat": 5.824763,
+        "lng": -55.170394
+      },
+      {
+        "name": "St. Laurent du Maroni",
+        "country": "French Guiana",
+        "lat": 5.499873,
+        "lng": -54.0308
+      },
+      {
+        "name": "Guiana Space Center",
+        "country": "French Guiana",
+        "lat": 4.357921,
+        "lng": -53.174392
+      },
+      {
+        "name": "Devil's Island",
+        "country": "French Guiana",
+        "lat": 5.29389,
+        "lng": -52.5833
+      },
+      {
+        "name": "Cayenne",
+        "country": "French Guiana",
+        "lat": 4.938791,
+        "lng": -52.33174
+      }
+    ]
   }
 ]

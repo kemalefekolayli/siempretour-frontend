@@ -63,7 +63,107 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Prishtina",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Peja",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Rugova",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Liqenati Mountain Lakes",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Accursed Mountains",
+        "country": "Kosovo"
+      },
+      {
+        "name": "White Drini Natural Park",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Sleeping Beauty Cave",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Batllava Lake",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Prizren",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Sharr Mountains",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Mt. Korab",
+        "country": "Kosovo"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Prishtina",
+        "country": "Kosovo",
+        "lat": 42.663877,
+        "lng": 21.164085
+      },
+      {
+        "name": "Peja",
+        "country": "Kosovo",
+        "lat": 42.659399,
+        "lng": 20.288576
+      },
+      {
+        "name": "Rugova",
+        "country": "Kosovo",
+        "lat": 42.330958,
+        "lng": 20.5779
+      },
+      {
+        "name": "White Drini Natural Park",
+        "country": "Kosovo",
+        "lat": 43.133056,
+        "lng": 20.768124
+      },
+      {
+        "name": "Batllava Lake",
+        "country": "Kosovo",
+        "lat": 42.836741,
+        "lng": 21.252817
+      },
+      {
+        "name": "Prizren",
+        "country": "Kosovo",
+        "lat": 42.213015,
+        "lng": 20.736334
+      },
+      {
+        "name": "Sharr Mountains",
+        "country": "Kosovo",
+        "lat": 42.061581,
+        "lng": 20.653367
+      }
+    ]
   },
   {
     "destination": "Kosovo",
@@ -129,6 +229,210 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sofia",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Melnik",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Pirin Mountains",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Bitola",
+        "country": "North Macedonia"
+      },
+      {
+        "name": "Pelister National Park",
+        "country": "North Macedonia"
+      },
+      {
+        "name": "Ohrid",
+        "country": "North Macedonia"
+      },
+      {
+        "name": "Galicica National Park",
+        "country": "North Macedonia"
+      },
+      {
+        "name": "Kalishta",
+        "country": "North Macedonia"
+      },
+      {
+        "name": "Radozda",
+        "country": "North Macedonia"
+      },
+      {
+        "name": "Skopje",
+        "country": "North Macedonia"
+      },
+      {
+        "name": "Prizren",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Prekaz",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Gazimestan",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Prishtina",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Gracanica",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Ulpiana",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Peja",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Visoki Decani",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Gjakova",
+        "country": "Kosovo"
+      },
+      {
+        "name": "Valbona",
+        "country": "Albania"
+      },
+      {
+        "name": "Lake Koman",
+        "country": "Albania"
+      },
+      {
+        "name": "Rubik",
+        "country": "Albania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sofia",
+        "country": "Bulgaria",
+        "lat": 42.69489,
+        "lng": 23.320782
+      },
+      {
+        "name": "Melnik",
+        "country": "Bulgaria",
+        "lat": 41.522942,
+        "lng": 23.393246
+      },
+      {
+        "name": "Pirin Mountains",
+        "country": "Bulgaria",
+        "lat": 41.546165,
+        "lng": 23.561146
+      },
+      {
+        "name": "Bitola",
+        "country": "North Macedonia",
+        "lat": 41.031601,
+        "lng": 21.330251
+      },
+      {
+        "name": "Ohrid",
+        "country": "North Macedonia",
+        "lat": 41.11702,
+        "lng": 20.801739
+      },
+      {
+        "name": "Kalishta",
+        "country": "North Macedonia",
+        "lat": 41.152956,
+        "lng": 20.649887
+      },
+      {
+        "name": "Radozda",
+        "country": "North Macedonia",
+        "lat": 41.104549,
+        "lng": 20.633154
+      },
+      {
+        "name": "Skopje",
+        "country": "North Macedonia",
+        "lat": 41.996092,
+        "lng": 21.43165
+      },
+      {
+        "name": "Prizren",
+        "country": "Kosovo",
+        "lat": 42.213015,
+        "lng": 20.736334
+      },
+      {
+        "name": "Prishtina",
+        "country": "Kosovo",
+        "lat": 42.663877,
+        "lng": 21.164085
+      },
+      {
+        "name": "Gracanica",
+        "country": "Kosovo",
+        "lat": 42.599971,
+        "lng": 21.192285
+      },
+      {
+        "name": "Peja",
+        "country": "Kosovo",
+        "lat": 42.659399,
+        "lng": 20.288576
+      },
+      {
+        "name": "Visoki Decani",
+        "country": "Kosovo",
+        "lat": 42.540224,
+        "lng": 20.28822
+      },
+      {
+        "name": "Gjakova",
+        "country": "Kosovo",
+        "lat": 42.379879,
+        "lng": 20.431623
+      },
+      {
+        "name": "Valbona",
+        "country": "Albania",
+        "lat": 42.453137,
+        "lng": 19.893176
+      },
+      {
+        "name": "Lake Koman",
+        "country": "Albania",
+        "lat": 42.09536,
+        "lng": 19.81155
+      },
+      {
+        "name": "Rubik",
+        "country": "Albania",
+        "lat": 41.773561,
+        "lng": 19.784286
+      }
+    ]
   }
 ]

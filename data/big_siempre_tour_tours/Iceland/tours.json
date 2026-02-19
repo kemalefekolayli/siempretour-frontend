@@ -68,7 +68,143 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Reykjavik",
+        "country": "Iceland"
+      },
+      {
+        "name": "Akureyri",
+        "country": "Iceland"
+      },
+      {
+        "name": "Hrisey Island",
+        "country": "Iceland"
+      },
+      {
+        "name": "Godafoss",
+        "country": "Iceland"
+      },
+      {
+        "name": "Lake Myvatn",
+        "country": "Iceland"
+      },
+      {
+        "name": "Egilsstadir",
+        "country": "Iceland"
+      },
+      {
+        "name": "Dettifoss Waterfall",
+        "country": "Iceland"
+      },
+      {
+        "name": "Breiddalsvik",
+        "country": "Iceland"
+      },
+      {
+        "name": "Hofn",
+        "country": "Iceland"
+      },
+      {
+        "name": "Vatnajokull",
+        "country": "Iceland"
+      },
+      {
+        "name": "Jokulsarlon Glacial Lagoon",
+        "country": "Iceland"
+      },
+      {
+        "name": "Diamond Beach",
+        "country": "Iceland"
+      },
+      {
+        "name": "Thingvellir National Park",
+        "country": "Iceland"
+      },
+      {
+        "name": "Gullfoss",
+        "country": "Iceland"
+      },
+      {
+        "name": "Geysir",
+        "country": "Iceland"
+      },
+      {
+        "name": "Strokkur",
+        "country": "Iceland"
+      },
+      {
+        "name": "Keflavik Airport",
+        "country": "Iceland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Reykjavik",
+        "country": "Iceland",
+        "lat": 64.145847,
+        "lng": -21.9436
+      },
+      {
+        "name": "Akureyri",
+        "country": "Iceland",
+        "lat": 65.682636,
+        "lng": -18.091299
+      },
+      {
+        "name": "Hrisey Island",
+        "country": "Iceland",
+        "lat": 65.97913,
+        "lng": -18.376345
+      },
+      {
+        "name": "Lake Myvatn",
+        "country": "Iceland",
+        "lat": 65.64072,
+        "lng": -16.91121
+      },
+      {
+        "name": "Egilsstadir",
+        "country": "Iceland",
+        "lat": 65.26109,
+        "lng": -14.406851
+      },
+      {
+        "name": "Breiddalsvik",
+        "country": "Iceland",
+        "lat": 64.79217,
+        "lng": -14.00673
+      },
+      {
+        "name": "Hofn",
+        "country": "Iceland",
+        "lat": 64.250336,
+        "lng": -15.204558
+      },
+      {
+        "name": "Thingvellir National Park",
+        "country": "Iceland",
+        "lat": 64.2591,
+        "lng": -21.121254
+      },
+      {
+        "name": "Keflavik Airport",
+        "country": "Iceland",
+        "lat": 63.999769,
+        "lng": -22.556537
+      }
+    ]
   },
   {
     "destination": "Iceland",
@@ -134,7 +270,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Reykjavík",
+        "country": "Iceland"
+      },
+      {
+        "name": "Snæfellsnes Peninsula",
+        "country": "Iceland"
+      },
+      {
+        "name": "Snæfellsjökull glacier",
+        "country": "Iceland"
+      },
+      {
+        "name": "Kirkjufell Mountain",
+        "country": "Iceland"
+      },
+      {
+        "name": "Vík",
+        "country": "Iceland"
+      },
+      {
+        "name": "Skógafoss",
+        "country": "Iceland"
+      },
+      {
+        "name": "Seljalandsfoss",
+        "country": "Iceland"
+      },
+      {
+        "name": "Skaftafell National Park",
+        "country": "Iceland"
+      },
+      {
+        "name": "Svínafellsjökull glacier",
+        "country": "Iceland"
+      },
+      {
+        "name": "Hvannadalshnjúkur",
+        "country": "Iceland"
+      },
+      {
+        "name": "Jökulsárlón glacier lagoon",
+        "country": "Iceland"
+      },
+      {
+        "name": "Hali",
+        "country": "Iceland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Reykjavík",
+        "country": "Iceland",
+        "lat": 64.145847,
+        "lng": -21.9436
+      },
+      {
+        "name": "Vík",
+        "country": "Iceland",
+        "lat": 63.417328,
+        "lng": -19.01429
+      }
+    ]
   },
   {
     "destination": "Iceland",
@@ -210,7 +420,101 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Reykjavik",
+        "country": "Iceland"
+      },
+      {
+        "name": "Olafsvik",
+        "country": "Iceland"
+      },
+      {
+        "name": "Isafjordur",
+        "country": "Iceland"
+      },
+      {
+        "name": "Holmavik",
+        "country": "Iceland"
+      },
+      {
+        "name": "Fludir",
+        "country": "Iceland"
+      },
+      {
+        "name": "Varmahlid",
+        "country": "Iceland"
+      },
+      {
+        "name": "Vik",
+        "country": "Iceland"
+      },
+      {
+        "name": "Hofn",
+        "country": "Iceland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Reykjavik",
+        "country": "Iceland",
+        "lat": 64.145847,
+        "lng": -21.9436
+      },
+      {
+        "name": "Olafsvik",
+        "country": "Iceland",
+        "lat": 64.89593,
+        "lng": -23.708434
+      },
+      {
+        "name": "Isafjordur",
+        "country": "Iceland",
+        "lat": 66.07282,
+        "lng": -23.119629
+      },
+      {
+        "name": "Holmavik",
+        "country": "Iceland",
+        "lat": 65.706825,
+        "lng": -21.666822
+      },
+      {
+        "name": "Fludir",
+        "country": "Iceland",
+        "lat": 64.13075,
+        "lng": -20.320572
+      },
+      {
+        "name": "Varmahlid",
+        "country": "Iceland",
+        "lat": 65.55339,
+        "lng": -19.44538
+      },
+      {
+        "name": "Vik",
+        "country": "Iceland",
+        "lat": 63.417328,
+        "lng": -19.01429
+      },
+      {
+        "name": "Hofn",
+        "country": "Iceland",
+        "lat": 64.250336,
+        "lng": -15.204558
+      }
+    ]
   },
   {
     "destination": "Iceland",
@@ -286,6 +590,104 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Reykjavik",
+        "country": "Iceland"
+      },
+      {
+        "name": "Grindavik",
+        "country": "Iceland"
+      },
+      {
+        "name": "Hella",
+        "country": "Iceland"
+      },
+      {
+        "name": "Hof",
+        "country": "Iceland"
+      },
+      {
+        "name": "Hofn",
+        "country": "Iceland"
+      },
+      {
+        "name": "Vik",
+        "country": "Iceland"
+      },
+      {
+        "name": "Skalholt",
+        "country": "Iceland"
+      },
+      {
+        "name": "Grundarfjordur",
+        "country": "Iceland"
+      },
+      {
+        "name": "Holmavik",
+        "country": "Iceland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Reykjavik",
+        "country": "Iceland",
+        "lat": 64.145847,
+        "lng": -21.9436
+      },
+      {
+        "name": "Grindavik",
+        "country": "Iceland",
+        "lat": 63.844124,
+        "lng": -22.433334
+      },
+      {
+        "name": "Hella",
+        "country": "Iceland",
+        "lat": 63.83457,
+        "lng": -20.402203
+      },
+      {
+        "name": "Hofn",
+        "country": "Iceland",
+        "lat": 64.250336,
+        "lng": -15.204558
+      },
+      {
+        "name": "Vik",
+        "country": "Iceland",
+        "lat": 63.417328,
+        "lng": -19.01429
+      },
+      {
+        "name": "Skalholt",
+        "country": "Iceland",
+        "lat": 64.125744,
+        "lng": -20.524374
+      },
+      {
+        "name": "Grundarfjordur",
+        "country": "Iceland",
+        "lat": 64.925028,
+        "lng": -23.259298
+      },
+      {
+        "name": "Holmavik",
+        "country": "Iceland",
+        "lat": 65.706825,
+        "lng": -21.666822
+      }
+    ]
   }
 ]

@@ -88,7 +88,111 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Gulu",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kidepo Valley National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bigodi",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Gulu",
+        "country": "Uganda",
+        "lat": 2.770239,
+        "lng": 32.304427
+      },
+      {
+        "name": "Kidepo Valley National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bigodi",
+        "country": "Uganda",
+        "lat": 0.404009,
+        "lng": 30.411347
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -139,7 +243,51 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -205,7 +353,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda",
+        "lat": 1.312204,
+        "lng": 34.367987
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -281,7 +493,91 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ngamba Island Chimpanzee Sanctuary",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Ngamba Island Chimpanzee Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      },
+      {
+        "name": "Bwindi National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -377,7 +673,121 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Bunyonyi",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mabamba Swamp",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Bunyonyi",
+        "country": "Uganda",
+        "lat": 1.048939,
+        "lng": 33.317299
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      },
+      {
+        "name": "Mabamba Swamp",
+        "country": "Uganda",
+        "lat": 0.056847,
+        "lng": 32.346014
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -438,7 +848,91 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda"
+      },
+      {
+        "name": "Rwenzori Mountains",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda",
+        "lat": 0.656191,
+        "lng": 30.277943
+      },
+      {
+        "name": "Rwenzori Mountains",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -494,7 +988,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Kibale",
+        "country": "Uganda",
+        "lat": 1.312204,
+        "lng": 34.367987
+      },
+      {
+        "name": "Bwindi National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -570,7 +1118,91 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda",
+        "lat": 0.656191,
+        "lng": 30.277943
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -626,7 +1258,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mityana",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Mityana",
+        "country": "Uganda",
+        "lat": 0.402051,
+        "lng": 32.04501
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -692,7 +1388,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kyambura Gorge",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Rwenzori Mountains",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kihihi",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kyambura Gorge",
+        "country": "Uganda",
+        "lat": -0.213884,
+        "lng": 30.102052
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Rwenzori Mountains",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kihihi",
+        "country": "Uganda",
+        "lat": -0.995556,
+        "lng": 30.574255
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -778,7 +1568,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Maramagambo Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Bunyoni",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Maramagambo Forest",
+        "country": "Uganda",
+        "lat": -0.963213,
+        "lng": 31.584955
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Bunyoni",
+        "country": "Uganda",
+        "lat": 1.048939,
+        "lng": 33.317299
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -854,7 +1738,131 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe International Airport",
+        "country": "Uganda"
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Edward",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kigezi Highlands",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe International Airport",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "lat": 0.435304,
+        "lng": 33.205557
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda",
+        "lat": 0.656191,
+        "lng": 30.277943
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Edward",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kigezi Highlands",
+        "country": "Uganda",
+        "lat": 1.061886,
+        "lng": 34.2426
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -900,7 +1908,59 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Mgahinga National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Virunga Volcanoes",
+        "country": "null"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali Genocide Memorial",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Mgahinga National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kigali Genocide Memorial",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1006,7 +2066,151 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Lake Nakuru National Park",
+        "country": "Kenya"
+      },
+      {
+        "name": "Eldoret",
+        "country": "Kenya"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kalinzu Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Bunyonyi",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Ruhengeri",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Mbarara",
+        "country": "Uganda"
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kericho",
+        "country": "Kenya"
+      },
+      {
+        "name": "Maasai Mara National Park",
+        "country": "Kenya"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Lake Nakuru National Park",
+        "country": "Kenya",
+        "lat": -2.131049,
+        "lng": 37.44916
+      },
+      {
+        "name": "Eldoret",
+        "country": "Kenya",
+        "lat": 0.517718,
+        "lng": 35.276505
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kalinzu Forest",
+        "country": "Uganda",
+        "lat": -0.42286,
+        "lng": 30.026064
+      },
+      {
+        "name": "Lake Bunyonyi",
+        "country": "Uganda",
+        "lat": 1.048939,
+        "lng": 33.317299
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Ruhengeri",
+        "country": "Rwanda",
+        "lat": -1.50405,
+        "lng": 29.63631
+      },
+      {
+        "name": "Mbarara",
+        "country": "Uganda",
+        "lat": -0.61079,
+        "lng": 30.653318
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "lat": 0.435304,
+        "lng": 33.205557
+      },
+      {
+        "name": "Kericho",
+        "country": "Kenya",
+        "lat": -0.369199,
+        "lng": 35.283165
+      },
+      {
+        "name": "Maasai Mara National Park",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1102,7 +2306,111 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Masai Mara",
+        "country": "Kenya"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "lat": 0.435304,
+        "lng": 33.205557
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda",
+        "lat": 0.656191,
+        "lng": 30.277943
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Masai Mara",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1188,7 +2496,121 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Bunyonyi",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mbarara",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "lat": 0.435304,
+        "lng": 33.205557
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda",
+        "lat": 1.312204,
+        "lng": 34.367987
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Bunyonyi",
+        "country": "Uganda",
+        "lat": 1.048939,
+        "lng": 33.317299
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Mbarara",
+        "country": "Uganda",
+        "lat": -0.61079,
+        "lng": 30.653318
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1244,7 +2666,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kyambura Gorge",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kyambura Gorge",
+        "country": "Uganda",
+        "lat": -0.213884,
+        "lng": 30.102052
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1290,7 +2766,51 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kisoro",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kisoro",
+        "country": "Uganda",
+        "lat": -1.282214,
+        "lng": 29.692667
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1336,7 +2856,41 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1412,7 +2966,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bigodi Wetland Sanctuary",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha Sector",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kihihi Airstrip",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda",
+        "lat": 1.312204,
+        "lng": 34.367987
+      },
+      {
+        "name": "Bigodi Wetland Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha Sector",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kihihi Airstrip",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1458,7 +3106,41 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1519,7 +3201,101 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe International Airport",
+        "country": "Uganda"
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda"
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kayabwe",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe International Airport",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "lat": 0.435304,
+        "lng": 33.205557
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda",
+        "lat": 0.656191,
+        "lng": 30.277943
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Kayabwe",
+        "country": "Uganda",
+        "lat": -0.527825,
+        "lng": 31.223706
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1565,7 +3341,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe International Airport",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kalinzu Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mbarara",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe International Airport",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kalinzu Forest",
+        "country": "Uganda",
+        "lat": -0.42286,
+        "lng": 30.026064
+      },
+      {
+        "name": "Mbarara",
+        "country": "Uganda",
+        "lat": -0.61079,
+        "lng": 30.653318
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1626,7 +3476,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kyambura Gorge",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mgahinga Gorilla National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kyambura Gorge",
+        "country": "Uganda",
+        "lat": -0.213884,
+        "lng": 30.102052
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Mgahinga Gorilla National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1747,7 +3671,151 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda"
+      },
+      {
+        "name": "Sipi Falls",
+        "country": "Uganda"
+      },
+      {
+        "name": "Moroto Town",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kidepo Valley National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kyambura Gorge",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mutanda",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "lat": 0.435304,
+        "lng": 33.205557
+      },
+      {
+        "name": "Sipi Falls",
+        "country": "Uganda",
+        "lat": 1.330763,
+        "lng": 34.37428
+      },
+      {
+        "name": "Moroto Town",
+        "country": "Uganda",
+        "lat": 2.528619,
+        "lng": 34.658727
+      },
+      {
+        "name": "Kidepo Valley National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kyambura Gorge",
+        "country": "Uganda",
+        "lat": -0.213884,
+        "lng": 30.102052
+      },
+      {
+        "name": "Lake Mutanda",
+        "country": "Uganda",
+        "lat": -1.214043,
+        "lng": 29.676508
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1833,7 +3901,201 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mabira Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda"
+      },
+      {
+        "name": "Masindi",
+        "country": "Uganda"
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bigodi Swamp",
+        "country": "Uganda"
+      },
+      {
+        "name": "Toro Kingdom",
+        "country": "Uganda"
+      },
+      {
+        "name": "Amabere ga nyina mwiru",
+        "country": "Uganda"
+      },
+      {
+        "name": "Semuliki National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kalinzu Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mpigi",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "lat": 0.435304,
+        "lng": 33.205557
+      },
+      {
+        "name": "Mabira Forest",
+        "country": "Uganda",
+        "lat": 0.607453,
+        "lng": 33.120632
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Masindi",
+        "country": "Uganda",
+        "lat": 1.685254,
+        "lng": 31.720594
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda",
+        "lat": 0.656191,
+        "lng": 30.277943
+      },
+      {
+        "name": "Bigodi Swamp",
+        "country": "Uganda",
+        "lat": -0.400575,
+        "lng": 31.895374
+      },
+      {
+        "name": "Toro Kingdom",
+        "country": "Uganda",
+        "lat": 1.797777,
+        "lng": 32.429645
+      },
+      {
+        "name": "Amabere ga nyina mwiru",
+        "country": "Uganda",
+        "lat": 1.601389,
+        "lng": 32.645833
+      },
+      {
+        "name": "Semuliki National Park",
+        "country": "Uganda",
+        "lat": 0.764762,
+        "lng": 29.985682
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kalinzu Forest",
+        "country": "Uganda",
+        "lat": -0.42286,
+        "lng": 30.026064
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Mpigi",
+        "country": "Uganda",
+        "lat": 0.228331,
+        "lng": 32.319855
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1864,7 +4126,51 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -1945,7 +4251,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bigodi Wetlands Sanctuary",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mabamba Swamp",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda",
+        "lat": 1.312204,
+        "lng": 34.367987
+      },
+      {
+        "name": "Bigodi Wetlands Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      },
+      {
+        "name": "Mabamba Swamp",
+        "country": "Uganda",
+        "lat": 0.056847,
+        "lng": 32.346014
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2026,7 +4426,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kyambura Gorge",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kisoro",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mount Gahinga",
+        "country": "Uganda"
+      },
+      {
+        "name": "Virunga Mountains",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda",
+        "lat": 1.312204,
+        "lng": 34.367987
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kyambura Gorge",
+        "country": "Uganda",
+        "lat": -0.213884,
+        "lng": 30.102052
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kisoro",
+        "country": "Uganda",
+        "lat": -1.282214,
+        "lng": 29.692667
+      },
+      {
+        "name": "Mount Gahinga",
+        "country": "Uganda",
+        "lat": -1.321545,
+        "lng": 29.748513
+      },
+      {
+        "name": "Virunga Mountains",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2087,7 +4581,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mutanda",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda",
+        "lat": 0.656191,
+        "lng": 30.277943
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda",
+        "lat": 1.312204,
+        "lng": 34.367987
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mutanda",
+        "country": "Uganda",
+        "lat": -1.214043,
+        "lng": 29.676508
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2163,7 +4751,111 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda",
+        "lat": 0.656191,
+        "lng": 30.277943
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2239,7 +4931,101 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale Forest",
+        "country": "Uganda",
+        "lat": 1.312204,
+        "lng": 34.367987
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2325,7 +5111,141 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mutanda",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mutanda",
+        "country": "Uganda",
+        "lat": -1.214043,
+        "lng": 29.676508
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2411,7 +5331,111 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda"
+      },
+      {
+        "name": "Sipi Falls",
+        "country": "Uganda"
+      },
+      {
+        "name": "Pian Upe Game Reserve",
+        "country": "Uganda"
+      },
+      {
+        "name": "Moroto",
+        "country": "Uganda"
+      },
+      {
+        "name": "Matheniko Game Reserve",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kidepo Valley National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "lat": 0.435304,
+        "lng": 33.205557
+      },
+      {
+        "name": "Sipi Falls",
+        "country": "Uganda",
+        "lat": 1.330763,
+        "lng": 34.37428
+      },
+      {
+        "name": "Pian Upe Game Reserve",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Moroto",
+        "country": "Uganda",
+        "lat": 2.528619,
+        "lng": 34.658727
+      },
+      {
+        "name": "Matheniko Game Reserve",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kidepo Valley National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2487,7 +5511,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2558,7 +5656,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2634,7 +5796,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ngamba Island Chimpanzee Sanctuary",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Ngamba Island Chimpanzee Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      },
+      {
+        "name": "Bwindi National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2680,7 +5936,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2761,7 +6071,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha Sector",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha Sector",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2862,7 +6246,181 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda"
+      },
+      {
+        "name": "Masindi Town",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bigodi Swamp",
+        "country": "Uganda"
+      },
+      {
+        "name": "Rwenzori Mountain range",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Edward",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Bunyonyi",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "lat": 0.435304,
+        "lng": 33.205557
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Masindi Town",
+        "country": "Uganda",
+        "lat": 1.685254,
+        "lng": 31.720594
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda",
+        "lat": 0.656191,
+        "lng": 30.277943
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bigodi Swamp",
+        "country": "Uganda",
+        "lat": -0.400575,
+        "lng": 31.895374
+      },
+      {
+        "name": "Rwenzori Mountain range",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Edward",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Bunyonyi",
+        "country": "Uganda",
+        "lat": 1.048939,
+        "lng": 33.317299
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -2933,7 +6491,91 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kisoro",
+        "country": "Uganda"
+      },
+      {
+        "name": "Dian Fossey Museum",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mgahinga National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kalinzu Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Kisoro",
+        "country": "Uganda",
+        "lat": -1.282214,
+        "lng": 29.692667
+      },
+      {
+        "name": "Dian Fossey Museum",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Mgahinga National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kalinzu Forest",
+        "country": "Uganda",
+        "lat": -0.42286,
+        "lng": 30.026064
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -3019,7 +6661,111 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bigodi",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda"
+      },
+      {
+        "name": "River Nile",
+        "country": "Uganda"
+      },
+      {
+        "name": "Entebbe International Airport",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bigodi",
+        "country": "Uganda",
+        "lat": 0.404009,
+        "lng": 30.411347
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "lat": 0.435304,
+        "lng": 33.205557
+      },
+      {
+        "name": "River Nile",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Entebbe International Airport",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -3105,7 +6851,91 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -3206,7 +7036,131 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kabwoya Game Reserve",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Katwe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Masaka",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kabwoya Game Reserve",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Katwe",
+        "country": "Uganda",
+        "lat": 0.249415,
+        "lng": 32.89377
+      },
+      {
+        "name": "Ishasha",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Masaka",
+        "country": "Uganda",
+        "lat": -0.339026,
+        "lng": 31.746584
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -3282,7 +7236,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha Sector",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha Sector",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -3383,7 +7411,141 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mabamba Swamp",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Budongo Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mgahinga National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Bunyoni",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      },
+      {
+        "name": "Mabamba Swamp",
+        "country": "Uganda",
+        "lat": 0.056847,
+        "lng": 32.346014
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Budongo Forest",
+        "country": "Uganda",
+        "lat": 1.089889,
+        "lng": 33.475346
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Fort Portal",
+        "country": "Uganda",
+        "lat": 0.656191,
+        "lng": 30.277943
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Mgahinga National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Bunyoni",
+        "country": "Uganda",
+        "lat": 1.048939,
+        "lng": 33.317299
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -3474,7 +7636,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -3555,7 +7791,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kidepo Valley National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Semuliki National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      },
+      {
+        "name": "Kidepo Valley National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Semuliki National Park",
+        "country": "Uganda",
+        "lat": 0.764762,
+        "lng": 29.985682
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -3636,7 +7946,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Amboseli National Park",
+        "country": "Kenya"
+      },
+      {
+        "name": "Masai Mara",
+        "country": "Kenya"
+      },
+      {
+        "name": "Mara North Conservancy",
+        "country": "Kenya"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Amboseli National Park",
+        "country": "Kenya",
+        "lat": -2.643332,
+        "lng": 37.259075
+      },
+      {
+        "name": "Masai Mara",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      },
+      {
+        "name": "Mara North Conservancy",
+        "country": "Kenya",
+        "lat": -2.131049,
+        "lng": 37.44916
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -3712,7 +8116,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha Sector",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha Sector",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -3793,7 +8271,101 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "River Nile",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "River Nile",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -3859,7 +8431,91 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Rwenzori Mountains",
+        "country": "Uganda"
+      },
+      {
+        "name": "Crater Lakes",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Rwenzori Mountains",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Crater Lakes",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -3925,7 +8581,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -4001,7 +8711,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha Sector",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Semuliki National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kidepo Valley National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha Sector",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Semuliki National Park",
+        "country": "Uganda",
+        "lat": 0.764762,
+        "lng": 29.985682
+      },
+      {
+        "name": "Kidepo Valley National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -4077,7 +8881,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ssese Islands",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ssese Islands",
+        "country": "Uganda",
+        "lat": 0.246281,
+        "lng": 33.315062
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -4168,7 +9036,121 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Giraffe Centre",
+        "country": "Kenya"
+      },
+      {
+        "name": "Masai Mara",
+        "country": "Kenya"
+      },
+      {
+        "name": "Mara North Conservancy",
+        "country": "Kenya"
+      },
+      {
+        "name": "Masai Mara National Reserve",
+        "country": "Kenya"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Giraffe Centre",
+        "country": "Kenya",
+        "lat": -2.131049,
+        "lng": 37.44916
+      },
+      {
+        "name": "Masai Mara",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      },
+      {
+        "name": "Mara North Conservancy",
+        "country": "Kenya",
+        "lat": -2.131049,
+        "lng": 37.44916
+      },
+      {
+        "name": "Masai Mara National Reserve",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -4279,7 +9261,131 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda"
+      },
+      {
+        "name": "Masindi",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Bunyonyi",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ssese Islands",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "lat": 0.435304,
+        "lng": 33.205557
+      },
+      {
+        "name": "Masindi",
+        "country": "Uganda",
+        "lat": 1.685254,
+        "lng": 31.720594
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Bunyonyi",
+        "country": "Uganda",
+        "lat": 1.048939,
+        "lng": 33.317299
+      },
+      {
+        "name": "Ssese Islands",
+        "country": "Uganda",
+        "lat": 0.246281,
+        "lng": 33.315062
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Uganda",
+        "lat": 0.241579,
+        "lng": 33.127865
+      }
+    ]
   },
   {
     "destination": "Uganda",
@@ -4345,6 +9451,70 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda"
+      },
+      {
+        "name": "Ishasha Sector",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kazinga Channel",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Ishasha Sector",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   }
 ]

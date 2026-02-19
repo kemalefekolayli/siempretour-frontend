@@ -63,7 +63,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Warsaw",
+        "country": "Poland"
+      },
+      {
+        "name": "Wroclaw",
+        "country": "Poland"
+      },
+      {
+        "name": "Krakow",
+        "country": "Poland"
+      },
+      {
+        "name": "Wieliczka Salt Mines",
+        "country": "Poland"
+      },
+      {
+        "name": "Auschwitz-Birkenau",
+        "country": "Poland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Warsaw",
+        "country": "Poland",
+        "lat": 52.23072,
+        "lng": 21.016317
+      },
+      {
+        "name": "Wroclaw",
+        "country": "Poland",
+        "lat": 51.11029,
+        "lng": 17.03056
+      },
+      {
+        "name": "Krakow",
+        "country": "Poland",
+        "lat": 50.062325,
+        "lng": 19.937975
+      },
+      {
+        "name": "Wieliczka Salt Mines",
+        "country": "Poland",
+        "lat": 49.9844,
+        "lng": 20.061146
+      },
+      {
+        "name": "Auschwitz-Birkenau",
+        "country": "Poland",
+        "lat": 50.038548,
+        "lng": 19.220903
+      }
+    ]
   },
   {
     "destination": "Poland",
@@ -129,6 +193,140 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Warsaw",
+        "country": "Poland"
+      },
+      {
+        "name": "Zalipie",
+        "country": "Poland"
+      },
+      {
+        "name": "Cracow",
+        "country": "Poland"
+      },
+      {
+        "name": "Wieliczka",
+        "country": "Poland"
+      },
+      {
+        "name": "Silesia Region",
+        "country": "Poland"
+      },
+      {
+        "name": "Ksiaz Castle",
+        "country": "Poland"
+      },
+      {
+        "name": "Poznan",
+        "country": "Poland"
+      },
+      {
+        "name": "Biskupin Heritage Park",
+        "country": "Poland"
+      },
+      {
+        "name": "Sopot",
+        "country": "Poland"
+      },
+      {
+        "name": "Gdansk",
+        "country": "Poland"
+      },
+      {
+        "name": "Oliwa",
+        "country": "Poland"
+      },
+      {
+        "name": "Westerplatte",
+        "country": "Poland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Warsaw",
+        "country": "Poland",
+        "lat": 52.23072,
+        "lng": 21.016317
+      },
+      {
+        "name": "Zalipie",
+        "country": "Poland",
+        "lat": 50.23854,
+        "lng": 20.85984
+      },
+      {
+        "name": "Cracow",
+        "country": "Poland",
+        "lat": 50.698917,
+        "lng": 20.19439
+      },
+      {
+        "name": "Wieliczka",
+        "country": "Poland",
+        "lat": 49.9844,
+        "lng": 20.061146
+      },
+      {
+        "name": "Silesia Region",
+        "country": "Poland",
+        "lat": 50.259899,
+        "lng": 19.021585
+      },
+      {
+        "name": "Ksiaz Castle",
+        "country": "Poland",
+        "lat": 51.14643,
+        "lng": 22.1587
+      },
+      {
+        "name": "Poznan",
+        "country": "Poland",
+        "lat": 52.407333,
+        "lng": 16.93123
+      },
+      {
+        "name": "Biskupin Heritage Park",
+        "country": "Poland",
+        "lat": 49.694444,
+        "lng": 18.8325
+      },
+      {
+        "name": "Sopot",
+        "country": "Poland",
+        "lat": 54.445114,
+        "lng": 18.569073
+      },
+      {
+        "name": "Gdansk",
+        "country": "Poland",
+        "lat": 54.350178,
+        "lng": 18.650743
+      },
+      {
+        "name": "Oliwa",
+        "country": "Poland",
+        "lat": 54.408789,
+        "lng": 18.556846
+      },
+      {
+        "name": "Westerplatte",
+        "country": "Poland",
+        "lat": 49.694444,
+        "lng": 18.8325
+      }
+    ]
   }
 ]

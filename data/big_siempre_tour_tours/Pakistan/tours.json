@@ -98,7 +98,97 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan"
+      },
+      {
+        "name": "North West Frontier Province",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Kalash Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hindu Kush",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Balanguru",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Wakhan Corridor",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Shandur Pass",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Mt Rakaposhi",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hunza",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karakoram Highway",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hope Glacier",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Rakaposhi View",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan",
+        "lat": 35.854168,
+        "lng": 71.7873
+      },
+      {
+        "name": "Wakhan Corridor",
+        "country": "Pakistan",
+        "lat": 27.749765,
+        "lng": 69.144366
+      },
+      {
+        "name": "Shandur Pass",
+        "country": "Pakistan",
+        "lat": 36.465816,
+        "lng": 74.894326
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -194,7 +284,119 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Yugo",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Kharfaq Lake",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chaqchan Mosque",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Sailing",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Shigar Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Sarfaranga Cold Desert",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Deosai Plains",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hunza",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Passu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hoper Valley",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan",
+        "lat": 35.299202,
+        "lng": 75.63532
+      },
+      {
+        "name": "Yugo",
+        "country": "Pakistan",
+        "lat": 35.185195,
+        "lng": 76.159158
+      },
+      {
+        "name": "Shigar Valley",
+        "country": "Pakistan",
+        "lat": 35.4238,
+        "lng": 75.73843
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan",
+        "lat": 35.922653,
+        "lng": 74.31062
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan",
+        "lat": 36.327056,
+        "lng": 74.659336
+      },
+      {
+        "name": "Passu",
+        "country": "Pakistan",
+        "lat": 35.25985,
+        "lng": 73.21849
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -265,7 +467,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hunza",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Baltit Fort",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Altit Fort",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Ganish",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Duikar",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Passu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Atabad Lake",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gulmit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Borith Lake",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hoper Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Nagar Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Minapin",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khanabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Kargah Budha",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan",
+        "lat": 35.922653,
+        "lng": 74.31062
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan",
+        "lat": 36.327056,
+        "lng": 74.659336
+      },
+      {
+        "name": "Passu",
+        "country": "Pakistan",
+        "lat": 35.25985,
+        "lng": 73.21849
+      },
+      {
+        "name": "Atabad Lake",
+        "country": "Pakistan",
+        "lat": 36.315258,
+        "lng": 74.813811
+      },
+      {
+        "name": "Gulmit",
+        "country": "Pakistan",
+        "lat": 36.387894,
+        "lng": 74.862464
+      },
+      {
+        "name": "Kargah Budha",
+        "country": "Pakistan",
+        "lat": 31.480282,
+        "lng": 73.800674
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -366,7 +692,209 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Karachi",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Makli Necropolis",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Banbhore",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Thatta",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Ranikot",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Sehwan Sharif",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Mohenjo Daro",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Larkana",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Sukkur Barrage",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Sadh Belo",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Uch Sharif",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Bahawalpur",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Multan",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Harappa",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Lahore",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khewra Salt Mines",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Takht-i-Bahi",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Rawalpindi",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Karachi",
+        "country": "Pakistan",
+        "lat": 24.855368,
+        "lng": 67.02053
+      },
+      {
+        "name": "Makli Necropolis",
+        "country": "Pakistan",
+        "lat": 24.747277,
+        "lng": 67.892326
+      },
+      {
+        "name": "Thatta",
+        "country": "Pakistan",
+        "lat": 24.751348,
+        "lng": 67.92156
+      },
+      {
+        "name": "Ranikot",
+        "country": "Pakistan",
+        "lat": 34.521189,
+        "lng": 73.483324
+      },
+      {
+        "name": "Sehwan Sharif",
+        "country": "Pakistan",
+        "lat": 26.426817,
+        "lng": 67.86383
+      },
+      {
+        "name": "Mohenjo Daro",
+        "country": "Pakistan",
+        "lat": 27.758451,
+        "lng": 68.42748
+      },
+      {
+        "name": "Larkana",
+        "country": "Pakistan",
+        "lat": 27.553766,
+        "lng": 68.2133
+      },
+      {
+        "name": "Sukkur Barrage",
+        "country": "Pakistan",
+        "lat": 27.698666,
+        "lng": 68.84596
+      },
+      {
+        "name": "Sadh Belo",
+        "country": "Pakistan",
+        "lat": 27.337372,
+        "lng": 66.36677
+      },
+      {
+        "name": "Bahawalpur",
+        "country": "Pakistan",
+        "lat": 29.390804,
+        "lng": 71.671875
+      },
+      {
+        "name": "Multan",
+        "country": "Pakistan",
+        "lat": 30.197731,
+        "lng": 71.47031
+      },
+      {
+        "name": "Harappa",
+        "country": "Pakistan",
+        "lat": 30.633056,
+        "lng": 72.870168
+      },
+      {
+        "name": "Lahore",
+        "country": "Pakistan",
+        "lat": 31.565607,
+        "lng": 74.31418
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Khewra Salt Mines",
+        "country": "Pakistan",
+        "lat": 32.630738,
+        "lng": 73.014709
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      },
+      {
+        "name": "Takht-i-Bahi",
+        "country": "Pakistan",
+        "lat": 34.786356,
+        "lng": 72.928611
+      },
+      {
+        "name": "Rawalpindi",
+        "country": "Pakistan",
+        "lat": 33.591337,
+        "lng": 73.051906
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -437,7 +965,73 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Swat",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Kailash Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Bumburet",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Peshawar",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan",
+        "lat": 35.854168,
+        "lng": 71.7873
+      },
+      {
+        "name": "Peshawar",
+        "country": "Pakistan",
+        "lat": 34.00801,
+        "lng": 71.57228
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -518,7 +1112,83 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Peshawar",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Swat",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chitral Gol",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Balanguru",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Ayun",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Peshawar",
+        "country": "Pakistan",
+        "lat": 34.00801,
+        "lng": 71.57228
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan",
+        "lat": 35.854168,
+        "lng": 71.7873
+      },
+      {
+        "name": "Chitral Gol",
+        "country": "Pakistan",
+        "lat": 35.854168,
+        "lng": 71.7873
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -614,7 +1284,155 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Naran",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Lulusar National Park",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karakoram Highway",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Nanga Parbat",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Deosai Plateau",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Shigar",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Katpana Desert",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hunza Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gupis",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Yasin Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Babusar Pass",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Lulusar Lake",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Naran",
+        "country": "Pakistan",
+        "lat": 34.904546,
+        "lng": 73.646965
+      },
+      {
+        "name": "Lulusar National Park",
+        "country": "Pakistan",
+        "lat": 34.781101,
+        "lng": 74.214792
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan",
+        "lat": 35.299202,
+        "lng": 75.63532
+      },
+      {
+        "name": "Shigar",
+        "country": "Pakistan",
+        "lat": 35.4238,
+        "lng": 75.73843
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan",
+        "lat": 35.922653,
+        "lng": 74.31062
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan",
+        "lat": 36.327056,
+        "lng": 74.659336
+      },
+      {
+        "name": "Gupis",
+        "country": "Pakistan",
+        "lat": 36.25018,
+        "lng": 73.35366
+      },
+      {
+        "name": "Yasin Valley",
+        "country": "Pakistan",
+        "lat": 36.40689,
+        "lng": 73.35175
+      },
+      {
+        "name": "Babusar Pass",
+        "country": "Pakistan",
+        "lat": 36.465816,
+        "lng": 74.894326
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -715,7 +1533,197 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Naran",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Jaulian Monastery",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Sirkup Old City",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Babusar Pass",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Fairy Meadows",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Tarashing",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Desosai National Park",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Shigar Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Katchura Lake",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hunza Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Borith Lake",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Passu Glacier",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hussaini Suspension Bridge",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Baltit Fort",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Altit Fort",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Duikar",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Besham",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Rawalpindi",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Naran",
+        "country": "Pakistan",
+        "lat": 34.904546,
+        "lng": 73.646965
+      },
+      {
+        "name": "Jaulian Monastery",
+        "country": "Pakistan",
+        "lat": 32.516196,
+        "lng": 74.451767
+      },
+      {
+        "name": "Babusar Pass",
+        "country": "Pakistan",
+        "lat": 36.465816,
+        "lng": 74.894326
+      },
+      {
+        "name": "Tarashing",
+        "country": "Pakistan",
+        "lat": 35.234802,
+        "lng": 74.733587
+      },
+      {
+        "name": "Desosai National Park",
+        "country": "Pakistan",
+        "lat": 34.781101,
+        "lng": 74.214792
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan",
+        "lat": 35.299202,
+        "lng": 75.63532
+      },
+      {
+        "name": "Shigar Valley",
+        "country": "Pakistan",
+        "lat": 35.4238,
+        "lng": 75.73843
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan",
+        "lat": 35.922653,
+        "lng": 74.31062
+      },
+      {
+        "name": "Passu Glacier",
+        "country": "Pakistan",
+        "lat": 35.25985,
+        "lng": 73.21849
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan",
+        "lat": 36.327056,
+        "lng": 74.659336
+      },
+      {
+        "name": "Besham",
+        "country": "Pakistan",
+        "lat": 34.925068,
+        "lng": 72.87542
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      },
+      {
+        "name": "Rawalpindi",
+        "country": "Pakistan",
+        "lat": 33.591337,
+        "lng": 73.051906
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -876,7 +1884,191 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Naran",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Fairy Meadows",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Astore",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Deosai Plateau",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hushe",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hunza",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Attabad Lake",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gupis",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Mastuj",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Kailash Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Mingora",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Swat",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Peshawar",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      },
+      {
+        "name": "Naran",
+        "country": "Pakistan",
+        "lat": 34.904546,
+        "lng": 73.646965
+      },
+      {
+        "name": "Astore",
+        "country": "Pakistan",
+        "lat": 35.34927,
+        "lng": 74.858604
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan",
+        "lat": 35.299202,
+        "lng": 75.63532
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan",
+        "lat": 35.15902,
+        "lng": 76.34847
+      },
+      {
+        "name": "Hushe",
+        "country": "Pakistan",
+        "lat": 35.450229,
+        "lng": 76.358077
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan",
+        "lat": 35.922653,
+        "lng": 74.31062
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan",
+        "lat": 36.327056,
+        "lng": 74.659336
+      },
+      {
+        "name": "Attabad Lake",
+        "country": "Pakistan",
+        "lat": 36.315258,
+        "lng": 74.813811
+      },
+      {
+        "name": "Gupis",
+        "country": "Pakistan",
+        "lat": 36.25018,
+        "lng": 73.35366
+      },
+      {
+        "name": "Mastuj",
+        "country": "Pakistan",
+        "lat": 36.27948,
+        "lng": 72.51584
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan",
+        "lat": 35.854168,
+        "lng": 71.7873
+      },
+      {
+        "name": "Mingora",
+        "country": "Pakistan",
+        "lat": 34.772502,
+        "lng": 72.360673
+      },
+      {
+        "name": "Peshawar",
+        "country": "Pakistan",
+        "lat": 34.00801,
+        "lng": 71.57228
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -997,7 +2189,167 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Rawalpindi",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hasan Abdal",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Naran",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Ghizer Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Deosai National Park",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Shigar Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Rakaposhi",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Nagar Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gulmit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Passu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Minapin",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Rawalpindi",
+        "country": "Pakistan",
+        "lat": 33.591337,
+        "lng": 73.051906
+      },
+      {
+        "name": "Hasan Abdal",
+        "country": "Pakistan",
+        "lat": 32.223448,
+        "lng": 74.260625
+      },
+      {
+        "name": "Naran",
+        "country": "Pakistan",
+        "lat": 34.904546,
+        "lng": 73.646965
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan",
+        "lat": 35.922653,
+        "lng": 74.31062
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan",
+        "lat": 35.299202,
+        "lng": 75.63532
+      },
+      {
+        "name": "Deosai National Park",
+        "country": "Pakistan",
+        "lat": 34.781101,
+        "lng": 74.214792
+      },
+      {
+        "name": "Shigar Valley",
+        "country": "Pakistan",
+        "lat": 35.4238,
+        "lng": 75.73843
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan",
+        "lat": 35.15902,
+        "lng": 76.34847
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan",
+        "lat": 36.327056,
+        "lng": 74.659336
+      },
+      {
+        "name": "Gulmit",
+        "country": "Pakistan",
+        "lat": 36.387894,
+        "lng": 74.862464
+      },
+      {
+        "name": "Passu",
+        "country": "Pakistan",
+        "lat": 35.25985,
+        "lng": 73.21849
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -1098,7 +2450,117 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Kalash Valleys",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Mastuj",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hunza Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karakorum Highway",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Deosai Plateau",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Besham",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan",
+        "lat": 35.854168,
+        "lng": 71.7873
+      },
+      {
+        "name": "Mastuj",
+        "country": "Pakistan",
+        "lat": 36.27948,
+        "lng": 72.51584
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan",
+        "lat": 35.922653,
+        "lng": 74.31062
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan",
+        "lat": 35.15902,
+        "lng": 76.34847
+      },
+      {
+        "name": "Besham",
+        "country": "Pakistan",
+        "lat": 34.925068,
+        "lng": 72.87542
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -1199,7 +2661,155 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Rawalpindi",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chilas",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Fairy Meadows",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Nanga Parbat Base Camp",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Deosai National Park",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Satpara Lake",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Shigar Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hunza Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Nagar Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Upper Hunza",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khunjerab Pass",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chilas",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Rawalpindi",
+        "country": "Pakistan",
+        "lat": 33.591337,
+        "lng": 73.051906
+      },
+      {
+        "name": "Chilas",
+        "country": "Pakistan",
+        "lat": 35.411446,
+        "lng": 74.1044
+      },
+      {
+        "name": "Deosai National Park",
+        "country": "Pakistan",
+        "lat": 34.781101,
+        "lng": 74.214792
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan",
+        "lat": 35.299202,
+        "lng": 75.63532
+      },
+      {
+        "name": "Shigar Valley",
+        "country": "Pakistan",
+        "lat": 35.4238,
+        "lng": 75.73843
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan",
+        "lat": 35.15902,
+        "lng": 76.34847
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan",
+        "lat": 36.327056,
+        "lng": 74.659336
+      },
+      {
+        "name": "Khunjerab Pass",
+        "country": "Pakistan",
+        "lat": 36.465816,
+        "lng": 74.894326
+      },
+      {
+        "name": "Chilas",
+        "country": "Pakistan",
+        "lat": 35.411446,
+        "lng": 74.1044
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -1290,7 +2900,123 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Swat",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Kailash Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chitral Gol National Park",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Peshawar",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Rohtas Fort",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Wagha Border",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Lahore",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khewra Caves",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Katas Temple",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan",
+        "lat": 35.854168,
+        "lng": 71.7873
+      },
+      {
+        "name": "Chitral Gol National Park",
+        "country": "Pakistan",
+        "lat": 35.854168,
+        "lng": 71.7873
+      },
+      {
+        "name": "Peshawar",
+        "country": "Pakistan",
+        "lat": 34.00801,
+        "lng": 71.57228
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      },
+      {
+        "name": "Rohtas Fort",
+        "country": "Pakistan",
+        "lat": 32.967296,
+        "lng": 73.578186
+      },
+      {
+        "name": "Lahore",
+        "country": "Pakistan",
+        "lat": 31.565607,
+        "lng": 74.31418
+      },
+      {
+        "name": "Khewra Caves",
+        "country": "Pakistan",
+        "lat": 32.630738,
+        "lng": 73.014709
+      },
+      {
+        "name": "Katas Temple",
+        "country": "Pakistan",
+        "lat": 32.727623,
+        "lng": 72.946977
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -1426,7 +3152,179 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Peshawar",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Takht-e-Bhai",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Swat",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Kailash",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Mastuj",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gupis",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Atta Abad Lake",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khunjerab National Park",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Shigir",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Deosai National Park",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Peshawar",
+        "country": "Pakistan",
+        "lat": 34.00801,
+        "lng": 71.57228
+      },
+      {
+        "name": "Takht-e-Bhai",
+        "country": "Pakistan",
+        "lat": 34.786356,
+        "lng": 72.928611
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan",
+        "lat": 35.854168,
+        "lng": 71.7873
+      },
+      {
+        "name": "Mastuj",
+        "country": "Pakistan",
+        "lat": 36.27948,
+        "lng": 72.51584
+      },
+      {
+        "name": "Gupis",
+        "country": "Pakistan",
+        "lat": 36.25018,
+        "lng": 73.35366
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan",
+        "lat": 35.922653,
+        "lng": 74.31062
+      },
+      {
+        "name": "Atta Abad Lake",
+        "country": "Pakistan",
+        "lat": 27.909128,
+        "lng": 68.813398
+      },
+      {
+        "name": "Khunjerab National Park",
+        "country": "Pakistan",
+        "lat": 34.781101,
+        "lng": 74.214792
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan",
+        "lat": 36.327056,
+        "lng": 74.659336
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan",
+        "lat": 35.299202,
+        "lng": 75.63532
+      },
+      {
+        "name": "Shigir",
+        "country": "Pakistan",
+        "lat": 35.4238,
+        "lng": 75.73843
+      },
+      {
+        "name": "Deosai National Park",
+        "country": "Pakistan",
+        "lat": 34.781101,
+        "lng": 74.214792
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan",
+        "lat": 35.15902,
+        "lng": 76.34847
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -1537,7 +3435,139 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Deosai National Park",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hunza Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Baltistan",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Lahore",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Katas Raj Temple",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khewra Salt Mines",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Rohtas Fort",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Rawalpindi",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan",
+        "lat": 35.299202,
+        "lng": 75.63532
+      },
+      {
+        "name": "Deosai National Park",
+        "country": "Pakistan",
+        "lat": 34.781101,
+        "lng": 74.214792
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan",
+        "lat": 35.922653,
+        "lng": 74.31062
+      },
+      {
+        "name": "Karimabad",
+        "country": "Pakistan",
+        "lat": 36.327056,
+        "lng": 74.659336
+      },
+      {
+        "name": "Lahore",
+        "country": "Pakistan",
+        "lat": 31.565607,
+        "lng": 74.31418
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      },
+      {
+        "name": "Katas Raj Temple",
+        "country": "Pakistan",
+        "lat": 32.727623,
+        "lng": 72.946977
+      },
+      {
+        "name": "Khewra Salt Mines",
+        "country": "Pakistan",
+        "lat": 32.630738,
+        "lng": 73.014709
+      },
+      {
+        "name": "Rohtas Fort",
+        "country": "Pakistan",
+        "lat": 32.967296,
+        "lng": 73.578186
+      },
+      {
+        "name": "Rawalpindi",
+        "country": "Pakistan",
+        "lat": 33.591337,
+        "lng": 73.051906
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -1668,7 +3698,179 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Ayun",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Kalash Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chitral National Park",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Mastuj",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Ghizer Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hunza",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Baltit Fort",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Attabad Lake",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hushe Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Deosai Plateau",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Astore",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Fairy Meadows",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Naran",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Kaghan Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan",
+        "lat": 35.854168,
+        "lng": 71.7873
+      },
+      {
+        "name": "Chitral National Park",
+        "country": "Pakistan",
+        "lat": 35.854168,
+        "lng": 71.7873
+      },
+      {
+        "name": "Mastuj",
+        "country": "Pakistan",
+        "lat": 36.27948,
+        "lng": 72.51584
+      },
+      {
+        "name": "Attabad Lake",
+        "country": "Pakistan",
+        "lat": 36.315258,
+        "lng": 74.813811
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan",
+        "lat": 35.922653,
+        "lng": 74.31062
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan",
+        "lat": 35.299202,
+        "lng": 75.63532
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan",
+        "lat": 35.15902,
+        "lng": 76.34847
+      },
+      {
+        "name": "Hushe Valley",
+        "country": "Pakistan",
+        "lat": 35.450229,
+        "lng": 76.358077
+      },
+      {
+        "name": "Astore",
+        "country": "Pakistan",
+        "lat": 35.34927,
+        "lng": 74.858604
+      },
+      {
+        "name": "Naran",
+        "country": "Pakistan",
+        "lat": 34.904546,
+        "lng": 73.646965
+      },
+      {
+        "name": "Kaghan Valley",
+        "country": "Pakistan",
+        "lat": 29.297472,
+        "lng": 68.90621
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -1754,7 +3956,87 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hunza",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Nagar",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Phander",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Shandur Pass",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Kalash Valleys",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Swat",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan",
+        "lat": 35.922653,
+        "lng": 74.31062
+      },
+      {
+        "name": "Phander",
+        "country": "Pakistan",
+        "lat": 34.49427,
+        "lng": 72.84585
+      },
+      {
+        "name": "Shandur Pass",
+        "country": "Pakistan",
+        "lat": 36.465816,
+        "lng": 74.894326
+      },
+      {
+        "name": "Chitral",
+        "country": "Pakistan",
+        "lat": 35.854168,
+        "lng": 71.7873
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -1825,7 +4107,113 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Ghanche",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Yugo",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Macholo Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Masherbrum Peak",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Shigar Valley",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Sarfaranga Cold Desert",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Nansoq",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Deosai Plains",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Sadpara Lake",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Sheosar Lake",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Skardu",
+        "country": "Pakistan",
+        "lat": 35.299202,
+        "lng": 75.63532
+      },
+      {
+        "name": "Yugo",
+        "country": "Pakistan",
+        "lat": 35.185195,
+        "lng": 76.159158
+      },
+      {
+        "name": "Khaplu",
+        "country": "Pakistan",
+        "lat": 35.15902,
+        "lng": 76.34847
+      },
+      {
+        "name": "Shigar Valley",
+        "country": "Pakistan",
+        "lat": 35.4238,
+        "lng": 75.73843
+      },
+      {
+        "name": "Gilgit",
+        "country": "Pakistan",
+        "lat": 35.922653,
+        "lng": 74.31062
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -1926,7 +4314,169 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Peshawar",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Khewra Salt Mines",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Lahore",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Harappa",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Multan",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Derawar Fort",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Bahawalpur",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Uch Sharif",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Sukkur",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Mohenjo Daro",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Sehwan Sharif",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Ranikot Fort",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hyderabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Karachi",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Islamabad",
+        "country": "Pakistan",
+        "lat": 33.696762,
+        "lng": 73.06307
+      },
+      {
+        "name": "Taxila",
+        "country": "Pakistan",
+        "lat": 33.748505,
+        "lng": 72.80726
+      },
+      {
+        "name": "Peshawar",
+        "country": "Pakistan",
+        "lat": 34.00801,
+        "lng": 71.57228
+      },
+      {
+        "name": "Khewra Salt Mines",
+        "country": "Pakistan",
+        "lat": 32.630738,
+        "lng": 73.014709
+      },
+      {
+        "name": "Lahore",
+        "country": "Pakistan",
+        "lat": 31.565607,
+        "lng": 74.31418
+      },
+      {
+        "name": "Harappa",
+        "country": "Pakistan",
+        "lat": 30.633056,
+        "lng": 72.870168
+      },
+      {
+        "name": "Multan",
+        "country": "Pakistan",
+        "lat": 30.197731,
+        "lng": 71.47031
+      },
+      {
+        "name": "Bahawalpur",
+        "country": "Pakistan",
+        "lat": 29.390804,
+        "lng": 71.671875
+      },
+      {
+        "name": "Sukkur",
+        "country": "Pakistan",
+        "lat": 27.698666,
+        "lng": 68.84596
+      },
+      {
+        "name": "Mohenjo Daro",
+        "country": "Pakistan",
+        "lat": 27.758451,
+        "lng": 68.42748
+      },
+      {
+        "name": "Sehwan Sharif",
+        "country": "Pakistan",
+        "lat": 26.426817,
+        "lng": 67.86383
+      },
+      {
+        "name": "Ranikot Fort",
+        "country": "Pakistan",
+        "lat": 34.521189,
+        "lng": 73.483324
+      },
+      {
+        "name": "Hyderabad",
+        "country": "Pakistan",
+        "lat": 25.391617,
+        "lng": 68.36815
+      },
+      {
+        "name": "Karachi",
+        "country": "Pakistan",
+        "lat": 24.855368,
+        "lng": 67.02053
+      }
+    ]
   },
   {
     "destination": "Pakistan",
@@ -2007,6 +4557,90 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Karachi",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Hyderabad",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Larkana",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Sukkur",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Bahawalpur",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Multan",
+        "country": "Pakistan"
+      },
+      {
+        "name": "Lahore",
+        "country": "Pakistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Karachi",
+        "country": "Pakistan",
+        "lat": 24.855368,
+        "lng": 67.02053
+      },
+      {
+        "name": "Hyderabad",
+        "country": "Pakistan",
+        "lat": 25.391617,
+        "lng": 68.36815
+      },
+      {
+        "name": "Larkana",
+        "country": "Pakistan",
+        "lat": 27.553766,
+        "lng": 68.2133
+      },
+      {
+        "name": "Sukkur",
+        "country": "Pakistan",
+        "lat": 27.698666,
+        "lng": 68.84596
+      },
+      {
+        "name": "Bahawalpur",
+        "country": "Pakistan",
+        "lat": 29.390804,
+        "lng": 71.671875
+      },
+      {
+        "name": "Multan",
+        "country": "Pakistan",
+        "lat": 30.197731,
+        "lng": 71.47031
+      },
+      {
+        "name": "Lahore",
+        "country": "Pakistan",
+        "lat": 31.565607,
+        "lng": 74.31418
+      }
+    ]
   }
 ]

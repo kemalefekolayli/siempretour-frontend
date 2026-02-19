@@ -43,7 +43,45 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kiruna",
+        "country": "Sweden"
+      },
+      {
+        "name": "ICEHOTEL 365",
+        "country": "Sweden"
+      },
+      {
+        "name": "Abisko National Park",
+        "country": "Sweden"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kiruna",
+        "country": "Sweden",
+        "lat": 67.84812,
+        "lng": 20.307302
+      },
+      {
+        "name": "Abisko National Park",
+        "country": "Sweden",
+        "lat": 68.349724,
+        "lng": 18.831642
+      }
+    ]
   },
   {
     "destination": "Lapland",
@@ -94,6 +132,40 @@
       }
     ],
     "map": "",
-    "category": "Polar"
+    "category": "Polar",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kiruna",
+        "country": "Sweden"
+      },
+      {
+        "name": "Abisko National Park",
+        "country": "Sweden"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kiruna",
+        "country": "Sweden",
+        "lat": 67.84812,
+        "lng": 20.307302
+      },
+      {
+        "name": "Abisko National Park",
+        "country": "Sweden",
+        "lat": 68.349724,
+        "lng": 18.831642
+      }
+    ]
   }
 ]

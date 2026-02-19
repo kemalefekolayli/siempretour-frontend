@@ -48,7 +48,65 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sukau",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tabin National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mount Kinabalu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gaya Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -94,7 +152,55 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggoh Wildlife Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batang Ai",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Batang Ai",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -180,7 +286,55 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kiulu Valley",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mount Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kundasang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan Wildlife Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Rainforest Discovery Centre",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -276,7 +430,109 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Borneo",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gomantong Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "River Kinabatangan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sabah Tea Plantation",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mt. Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabalu Botanical Gardens",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Malacca",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Langkawi",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sabah Tea Plantation",
+        "country": "Malaysia",
+        "lat": 5.978007,
+        "lng": 116.072899
+      },
+      {
+        "name": "Malacca",
+        "country": "Malaysia",
+        "lat": 2.196443,
+        "lng": 102.25013
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia",
+        "lat": 5.41558,
+        "lng": 100.3314
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia",
+        "lat": 5.414162,
+        "lng": 100.328735
+      },
+      {
+        "name": "Langkawi",
+        "country": "Malaysia",
+        "lat": 6.320134,
+        "lng": 99.84938
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -372,7 +628,67 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batang Ai National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sri Aman",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mulu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gaya Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Batang Ai National Park",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      },
+      {
+        "name": "Sri Aman",
+        "country": "Malaysia",
+        "lat": 1.236042,
+        "lng": 111.461205
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -458,7 +774,51 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tabin Wildlife Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lipad mud volcano",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River region",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Menanggul River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Sanctuary",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -529,7 +889,61 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabalu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Poring Hot Springs",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Turtle Island",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Rehabilitation Centre",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -625,7 +1039,83 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mulu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabalu Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Poring Hot Springs",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Longhouse village",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Selingan Island",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Rainforest Discovery Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Pulao Tiga",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Pulao Tiga",
+        "country": "Malaysia",
+        "lat": 5.65687,
+        "lng": 100.889389
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -751,7 +1241,95 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mulu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Limbang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Dusun Village",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Poring Hot Springs",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Turtle Island",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Reserve",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Limbang",
+        "country": "Malaysia",
+        "lat": 4.75571,
+        "lng": 115.00837
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -822,7 +1400,85 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Rehabilitation Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sun Bear Conservation Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Rainforest Discovery Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Selingan Island",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lower Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Abai Jungle Lodge",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sukau",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Menanggul River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tabin Wildlife Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lipad Waterfall",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tabin",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia",
+        "lat": 5.020468,
+        "lng": 118.32694
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -893,7 +1549,73 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tunku Abdul Rahman Marine Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabalu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sabah Tea Plantation",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Borneo Rainforest Discovery Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gomantong Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Manukan Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sabah Tea Plantation",
+        "country": "Malaysia",
+        "lat": 5.978007,
+        "lng": 116.072899
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -974,7 +1696,77 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batang Ai Reservoir",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Enseluai Waterfalls",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Jambu Longhouse",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggoh Wildlife Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mulu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Damai Beach",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Batang Ai Reservoir",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      },
+      {
+        "name": "Damai Beach",
+        "country": "Malaysia",
+        "lat": 3.949527,
+        "lng": 102.215324
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1065,7 +1857,89 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batang Ai",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Batang Ai",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1126,7 +2000,73 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batu Punggul",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kabili-Sepilok Forest",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lower Kinabatangan River Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Danum Valley Conservation Area",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kudat",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Batu Punggul",
+        "country": "Malaysia",
+        "lat": 2.676009,
+        "lng": 111.532974
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Kudat",
+        "country": "Malaysia",
+        "lat": 6.88075,
+        "lng": 116.849655
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1202,7 +2142,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Danum Valley Conservation Area",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Coffin Trail",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Rehabilitation Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gaya Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia",
+        "lat": 5.020468,
+        "lng": 118.32694
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1278,7 +2272,99 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mount Santubong",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggoh Orangutan Conservation Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kampung Bengoh",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kiulu River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bornean Sun Bear Conservation Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gaya Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Kampung Bengoh",
+        "country": "Malaysia",
+        "lat": 1.248933,
+        "lng": 110.256361
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1354,7 +2440,97 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabalu Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Poring Hot Springs",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kipungit Waterfall",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mount Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Labuk Bay Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gomantong Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sukau",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tabin Wildlife Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lipad Waterfall",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Labuk Bay Sanctuary",
+        "country": "Malaysia",
+        "lat": 2.753089,
+        "lng": 101.82614
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia",
+        "lat": 5.020468,
+        "lng": 118.32694
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1405,7 +2581,57 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tabin Wildlife Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gomantong Cave",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Deramakot Forest Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia",
+        "lat": 5.020468,
+        "lng": 118.32694
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1496,7 +2722,89 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kabili-Sepilok Forest Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sukau Rainforest Lodge",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gomantong Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Utan Rainforest",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sungai Kapur Virgin Jungle Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gaya Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia",
+        "lat": 5.020468,
+        "lng": 118.32694
+      },
+      {
+        "name": "Sungai Kapur Virgin Jungle Reserve",
+        "country": "Malaysia",
+        "lat": 3.996831,
+        "lng": 101.30816
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1587,7 +2895,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gunung Mulu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Clearwater River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Crocker Mountain Range",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mahua Falls",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kibandi Butterfly Farm",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Rafflesia Forest Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mount Kinabalu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan Wildlife Corridor",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gomantong Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Sanctuary",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1663,7 +3055,75 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bornean Sun Bear Conservation Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan War Memorial",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gomantong Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kundasang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Manukan Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Sandakan War Memorial",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1749,7 +3209,73 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batang Ai National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mulu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Rehabilitation Centre",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Batang Ai National Park",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1835,7 +3361,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Danum Valley",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Menanggul River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gaya Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia",
+        "lat": 5.020468,
+        "lng": 118.32694
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1896,7 +3476,69 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mount Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabalu Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Rehabilitation Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sukau",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lankayan Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -1952,7 +3594,129 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggoh Wildlife Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batang Ai National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Niah National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Miri",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kuala Belait",
+        "country": "Brunei"
+      },
+      {
+        "name": "Seria",
+        "country": "Brunei"
+      },
+      {
+        "name": "Bandar Seri Begawan",
+        "country": "Brunei"
+      },
+      {
+        "name": "Labuan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mount Kinabalu",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Batang Ai National Park",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      },
+      {
+        "name": "Niah National Park",
+        "country": "Malaysia",
+        "lat": 3.861812,
+        "lng": 113.71492
+      },
+      {
+        "name": "Miri",
+        "country": "Malaysia",
+        "lat": 4.397556,
+        "lng": 113.987305
+      },
+      {
+        "name": "Kuala Belait",
+        "country": "Brunei",
+        "lat": 4.5842,
+        "lng": 114.19163
+      },
+      {
+        "name": "Seria",
+        "country": "Brunei",
+        "lat": 4.615672,
+        "lng": 114.32973
+      },
+      {
+        "name": "Bandar Seri Begawan",
+        "country": "Brunei",
+        "lat": 4.889977,
+        "lng": 114.94248
+      },
+      {
+        "name": "Labuan",
+        "country": "Malaysia",
+        "lat": 5.279835,
+        "lng": 115.242004
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2043,7 +3807,67 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Deramakot Forest Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lower Kinabatangan River Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tabin Wildlife Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia",
+        "lat": 5.020468,
+        "lng": 118.32694
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2119,7 +3943,91 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Papar",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinarut",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabalu Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Poring Hot Springs",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sulu Sea",
+        "country": null
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Pitas Lake",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Papar",
+        "country": "Malaysia",
+        "lat": 5.73314,
+        "lng": 115.93341
+      },
+      {
+        "name": "Kinarut",
+        "country": "Malaysia",
+        "lat": 5.824428,
+        "lng": 116.043155
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Pitas Lake",
+        "country": "Malaysia",
+        "lat": 6.730318,
+        "lng": 117.054365
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2205,7 +4113,73 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggoh Wildlife Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gunung Gading National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batang Ai National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mulu showcaves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Batang Ai National Park",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2306,7 +4280,117 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mulu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Deer Cave",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mari Mari village",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mount Kinabalu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sabah Tea Gardens Longhouse",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Rainforest Discovery Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bornean Sun Bear Conservation Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Danum Valley",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gomantong Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Mari Mari village",
+        "country": "Malaysia",
+        "lat": 4.397556,
+        "lng": 113.987305
+      },
+      {
+        "name": "Sabah Tea Gardens Longhouse",
+        "country": "Malaysia",
+        "lat": 5.978007,
+        "lng": 116.072899
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2382,7 +4466,85 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabalu Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Poring Hot Springs",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mount Kinabalu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Labuk Bay Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sukau",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Danum Valley",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Labuk Bay Sanctuary",
+        "country": "Malaysia",
+        "lat": 2.753089,
+        "lng": 101.82614
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia",
+        "lat": 5.020468,
+        "lng": 118.32694
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2468,7 +4630,67 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gomantong Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tabin Wildlife Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Danum Valley Conservation Area",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia",
+        "lat": 5.020468,
+        "lng": 118.32694
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2519,7 +4741,57 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Deramakot Forest Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gomantong Cave",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tabin Wildlife Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2565,7 +4837,47 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sukau",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tabin National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu Beach",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu Beach",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2646,7 +4958,65 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Nature Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Abai Village",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Danum Valley",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gaya Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2742,7 +5112,143 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Palangkaraya",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tumbang Malahoi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sebangau National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bapallas Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kanarakan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Tahai",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sei Gohong",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Muara Rungan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjung Sanggalang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bukit Rawi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sigi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Balikpapan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Samboja",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Palangkaraya",
+        "country": "Indonesia",
+        "lat": -2.206748,
+        "lng": 113.91627
+      },
+      {
+        "name": "Tumbang Malahoi",
+        "country": "Indonesia",
+        "lat": 0.345359,
+        "lng": 101.327515
+      },
+      {
+        "name": "Sebangau National Park",
+        "country": "Indonesia",
+        "lat": -2.29371,
+        "lng": 113.916756
+      },
+      {
+        "name": "Sei Gohong",
+        "country": "Indonesia",
+        "lat": -7.021459,
+        "lng": 110.76972
+      },
+      {
+        "name": "Muara Rungan",
+        "country": "Indonesia",
+        "lat": 2.338091,
+        "lng": 98.910675
+      },
+      {
+        "name": "Tanjung Sanggalang",
+        "country": "Indonesia",
+        "lat": -6.874943,
+        "lng": 108.86812
+      },
+      {
+        "name": "Bukit Rawi",
+        "country": "Indonesia",
+        "lat": 4.719438,
+        "lng": 96.872055
+      },
+      {
+        "name": "Sigi",
+        "country": "Indonesia",
+        "lat": -0.951317,
+        "lng": 119.91674
+      },
+      {
+        "name": "Balikpapan",
+        "country": "Indonesia",
+        "lat": -1.241016,
+        "lng": 116.85976
+      },
+      {
+        "name": "Samboja",
+        "country": "Indonesia",
+        "lat": -0.977213,
+        "lng": 117.15052
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2823,7 +5329,63 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Borneo",
+        "country": null
+      },
+      {
+        "name": "Abai",
+        "country": null
+      },
+      {
+        "name": "Danum Valley",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2889,7 +5451,95 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Balikpapan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kampong Baru",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sangata",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kutai National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Samboja",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Black River",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Balikpapan",
+        "country": "Indonesia",
+        "lat": -1.241016,
+        "lng": 116.85976
+      },
+      {
+        "name": "Kampong Baru",
+        "country": "Indonesia",
+        "lat": -7.873082,
+        "lng": 112.52883
+      },
+      {
+        "name": "Sangata",
+        "country": "Indonesia",
+        "lat": -4.174347,
+        "lng": 122.094955
+      },
+      {
+        "name": "Kutai National Park",
+        "country": "Indonesia",
+        "lat": -7.76889,
+        "lng": 112.19652
+      },
+      {
+        "name": "Samboja",
+        "country": "Indonesia",
+        "lat": -0.977213,
+        "lng": 117.15052
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -2965,7 +5615,59 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggoh Wildlife Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gaya Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3021,7 +5723,87 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Ipoh",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sukau",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lankayan",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Ipoh",
+        "country": "Malaysia",
+        "lat": 4.596848,
+        "lng": 101.08405
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia",
+        "lat": 5.41558,
+        "lng": 100.3314
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3082,7 +5864,55 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kumai",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Camp Leakey Research Centre",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Kumai",
+        "country": "Indonesia",
+        "lat": -2.741472,
+        "lng": 111.7213
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia",
+        "lat": -6.874943,
+        "lng": 108.86812
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3168,7 +5998,79 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bengoh",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Ukom Longhouse",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabalu Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Abai Jungle Lodge",
+        "country": null
+      },
+      {
+        "name": "Pitas Oxbow Lake",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3249,7 +6151,79 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Dusun village",
+        "country": null
+      },
+      {
+        "name": "Mount Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Poring Hot Springs",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Turtle Island",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Orangutan Rehabilitation Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bornean Sun Bear Conservation Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan War Memorial",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Sandakan War Memorial",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3310,7 +6284,57 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kiulu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabalu Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3406,7 +6430,97 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Abai",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Pitas Lake",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Nature Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok Rehabilitation Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batang Ai reservoir",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Pulau Damai Beach",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Pitas Lake",
+        "country": "Malaysia",
+        "lat": 6.730318,
+        "lng": 117.054365
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Batang Ai reservoir",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      },
+      {
+        "name": "Pulau Damai Beach",
+        "country": "Malaysia",
+        "lat": 2.024175,
+        "lng": 111.91705
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3467,7 +6581,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tabin Wildlife Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Danum Valley",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Deramakot Forest Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Labuk Bay Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia",
+        "lat": 5.020468,
+        "lng": 118.32694
+      },
+      {
+        "name": "Labuk Bay Sanctuary",
+        "country": "Malaysia",
+        "lat": 2.753089,
+        "lng": 101.82614
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3518,7 +6696,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Maludam",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Betong",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sibu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mukah",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Dalat",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Maludam",
+        "country": "Malaysia",
+        "lat": 1.659648,
+        "lng": 111.03689
+      },
+      {
+        "name": "Betong",
+        "country": "Malaysia",
+        "lat": 1.410821,
+        "lng": 111.528336
+      },
+      {
+        "name": "Sibu",
+        "country": "Malaysia",
+        "lat": 2.29125,
+        "lng": 111.827324
+      },
+      {
+        "name": "Mukah",
+        "country": "Malaysia",
+        "lat": 2.892479,
+        "lng": 112.090256
+      },
+      {
+        "name": "Dalat",
+        "country": "Malaysia",
+        "lat": 2.740578,
+        "lng": 111.93756
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3619,7 +6871,109 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batang Ai",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggoh Wildlife Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lower Kinabatangan Delta",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Abai",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sukau",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tabin Wildlife Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gaya Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Batang Ai",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      },
+      {
+        "name": "Lahad Datu",
+        "country": "Malaysia",
+        "lat": 5.020468,
+        "lng": 118.32694
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3715,7 +7069,95 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batang Ai Reservoir",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggoh Wildlife Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mulu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Deer Cave",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lang's Cave",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Wind Cave",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Clearwater Cave",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Damai Beach",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Singapore",
+        "country": "Singapore"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Batang Ai Reservoir",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Damai Beach",
+        "country": "Malaysia",
+        "lat": 3.949527,
+        "lng": 102.215324
+      },
+      {
+        "name": "Singapore",
+        "country": "Singapore",
+        "lat": 1.288799,
+        "lng": 103.84094
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3806,7 +7248,163 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Beliong Island",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kampung Hilir Maludam",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Maludam National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sarikei",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sibu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mukah",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Miri",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Niah National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bandar Seri Begawan",
+        "country": "Brunei"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Pulau Tiga Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Kampung Hilir Maludam",
+        "country": "Malaysia",
+        "lat": 1.659648,
+        "lng": 111.03689
+      },
+      {
+        "name": "Maludam National Park",
+        "country": "Malaysia",
+        "lat": 1.659648,
+        "lng": 111.03689
+      },
+      {
+        "name": "Sarikei",
+        "country": "Malaysia",
+        "lat": 2.131341,
+        "lng": 111.52152
+      },
+      {
+        "name": "Sibu",
+        "country": "Malaysia",
+        "lat": 2.29125,
+        "lng": 111.827324
+      },
+      {
+        "name": "Mukah",
+        "country": "Malaysia",
+        "lat": 2.892479,
+        "lng": 112.090256
+      },
+      {
+        "name": "Miri",
+        "country": "Malaysia",
+        "lat": 4.397556,
+        "lng": 113.987305
+      },
+      {
+        "name": "Niah National Park",
+        "country": "Malaysia",
+        "lat": 3.861812,
+        "lng": 113.71492
+      },
+      {
+        "name": "Bandar Seri Begawan",
+        "country": "Brunei",
+        "lat": 4.889977,
+        "lng": 114.94248
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Pulau Tiga Park",
+        "country": "Malaysia",
+        "lat": 2.024175,
+        "lng": 111.91705
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3907,7 +7505,135 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Damai Peninsula",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sarawak Cultural Village",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Iban Longhouse",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggok Orangutan Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bengoh Lake",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kampong Nyegol",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kampong Sting",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gaya Island",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tunku Abdul Rahman Marine Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Damai Peninsula",
+        "country": "Malaysia",
+        "lat": 3.949527,
+        "lng": 102.215324
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Sarawak Cultural Village",
+        "country": "Malaysia",
+        "lat": 1.557413,
+        "lng": 110.343986
+      },
+      {
+        "name": "Iban Longhouse",
+        "country": "Malaysia",
+        "lat": 2.821252,
+        "lng": 111.706311
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -3953,7 +7679,59 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggoh Wildlife Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Santubong",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Damai Peninsula",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Damai Peninsula",
+        "country": "Malaysia",
+        "lat": 3.949527,
+        "lng": 102.215324
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -4034,7 +7812,99 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tanjung Datu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sematan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batang Ai National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Nanga Sumpa",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Enseluai",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggoh Wildlife Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sabah",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Tanjung Datu National Park",
+        "country": "Malaysia",
+        "lat": 2.676009,
+        "lng": 111.532974
+      },
+      {
+        "name": "Sematan",
+        "country": "Malaysia",
+        "lat": 1.805272,
+        "lng": 109.778271
+      },
+      {
+        "name": "Batang Ai National Park",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      },
+      {
+        "name": "Nanga Sumpa",
+        "country": "Malaysia",
+        "lat": 6.789133,
+        "lng": 116.795172
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sabah",
+        "country": "Malaysia",
+        "lat": 5.978007,
+        "lng": 116.072899
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -4100,7 +7970,73 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggoh Nature Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Annah Rais Longhouse",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bengoh Dam",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Matang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Matang Wildlife Center",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Damai Beach",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Matang",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      },
+      {
+        "name": "Matang Wildlife Center",
+        "country": "Malaysia",
+        "lat": 4.819644,
+        "lng": 100.67198
+      },
+      {
+        "name": "Damai Beach",
+        "country": "Malaysia",
+        "lat": 3.949527,
+        "lng": 102.215324
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -4146,7 +8082,89 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Beliong Island",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kampong Maludam",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Maludam National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Betong",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sri Aman",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Banting",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Fort Lily",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Kampong Maludam",
+        "country": "Malaysia",
+        "lat": 1.659648,
+        "lng": 111.03689
+      },
+      {
+        "name": "Maludam National Park",
+        "country": "Malaysia",
+        "lat": 1.659648,
+        "lng": 111.03689
+      },
+      {
+        "name": "Betong",
+        "country": "Malaysia",
+        "lat": 1.410821,
+        "lng": 111.528336
+      },
+      {
+        "name": "Sri Aman",
+        "country": "Malaysia",
+        "lat": 1.236042,
+        "lng": 111.461205
+      },
+      {
+        "name": "Banting",
+        "country": "Malaysia",
+        "lat": 2.812804,
+        "lng": 101.499855
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -4222,7 +8240,69 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggoh Wildlife Centre",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Mulu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Labuan Island",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Labuan Island",
+        "country": "Malaysia",
+        "lat": 5.279835,
+        "lng": 115.242004
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -4288,7 +8368,105 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pangkalan Bun",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kumai",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Camp Leakey",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pondok Tangguy",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjung Harapan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sungai Buluh",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Nipa Palm",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Pangkalan Bun",
+        "country": "Indonesia",
+        "lat": -6.528812,
+        "lng": 107.179436
+      },
+      {
+        "name": "Kumai",
+        "country": "Indonesia",
+        "lat": -2.741472,
+        "lng": 111.7213
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia",
+        "lat": -6.874943,
+        "lng": 108.86812
+      },
+      {
+        "name": "Pondok Tangguy",
+        "country": "Indonesia",
+        "lat": -8.163155,
+        "lng": 113.4524
+      },
+      {
+        "name": "Tanjung Harapan",
+        "country": "Indonesia",
+        "lat": -0.791692,
+        "lng": 100.6577
+      },
+      {
+        "name": "Sungai Buluh",
+        "country": "Indonesia",
+        "lat": -7.723672,
+        "lng": 109.86894
+      },
+      {
+        "name": "Nipa Palm",
+        "country": "Indonesia",
+        "lat": -0.892638,
+        "lng": 119.872734
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -4349,7 +8527,83 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pangkalan Bun",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Camp Leakey",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Crocodile Lake",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pondok Tanggui",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjung Harapan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pesalat Plantation",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kumai",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Pangkalan Bun",
+        "country": "Indonesia",
+        "lat": -6.528812,
+        "lng": 107.179436
+      },
+      {
+        "name": "Pondok Tanggui",
+        "country": "Indonesia",
+        "lat": -8.163155,
+        "lng": 113.4524
+      },
+      {
+        "name": "Tanjung Harapan",
+        "country": "Indonesia",
+        "lat": -0.791692,
+        "lng": 100.6577
+      },
+      {
+        "name": "Kumai",
+        "country": "Indonesia",
+        "lat": -2.741472,
+        "lng": 111.7213
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -4390,7 +8644,41 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tawau",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tawau Hills National Park",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tawau",
+        "country": "Malaysia",
+        "lat": 4.24626,
+        "lng": 117.89054
+      },
+      {
+        "name": "Tawau Hills National Park",
+        "country": "Malaysia",
+        "lat": 4.24626,
+        "lng": 117.89054
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -4426,7 +8714,41 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tawau",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tawau Hills National Park",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tawau",
+        "country": "Malaysia",
+        "lat": 4.24626,
+        "lng": 117.89054
+      },
+      {
+        "name": "Tawau Hills National Park",
+        "country": "Malaysia",
+        "lat": 4.24626,
+        "lng": 117.89054
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -4527,7 +8849,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batu Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Malacca",
+        "country": "Malaysia"
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Pulau Dinawan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabalu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Gomantong Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Manukan Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Batu Caves",
+        "country": "Malaysia",
+        "lat": 3.235474,
+        "lng": 101.68435
+      },
+      {
+        "name": "Malacca",
+        "country": "Malaysia",
+        "lat": 2.196443,
+        "lng": 102.25013
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia",
+        "lat": 5.414162,
+        "lng": 100.328735
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia",
+        "lat": 5.41558,
+        "lng": 100.3314
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Pulau Dinawan",
+        "country": "Malaysia",
+        "lat": 2.024175,
+        "lng": 111.91705
+      }
+    ]
   },
   {
     "destination": "Borneo",
@@ -4588,6 +9014,56 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabalu National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bilit",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan River",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      },
+      {
+        "name": "Sandakan",
+        "country": "Malaysia",
+        "lat": 5.839194,
+        "lng": 118.11557
+      }
+    ]
   }
 ]

@@ -73,7 +73,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -144,7 +218,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "La Boca Beach",
+        "country": "Cuba"
+      },
+      {
+        "name": "Ancón Beach",
+        "country": "Cuba"
+      },
+      {
+        "name": "Casilda",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "José Martí Airport",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "La Boca Beach",
+        "country": "Cuba",
+        "lat": 21.799014,
+        "lng": -80.03396
+      },
+      {
+        "name": "Ancón Beach",
+        "country": "Cuba",
+        "lat": 22.54876,
+        "lng": -80.730455
+      },
+      {
+        "name": "Casilda",
+        "country": "Cuba",
+        "lat": 21.760434,
+        "lng": -79.990467
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "José Martí Airport",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -210,7 +378,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Sierra de Escambray",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Sierra de Escambray",
+        "country": "Cuba",
+        "lat": 22.603287,
+        "lng": -79.805044
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -286,7 +538,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales Valley",
+        "country": "Cuba"
+      },
+      {
+        "name": "Zapata Peninsula",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Varadero",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Viñales Valley",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Zapata Peninsula",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Varadero",
+        "country": "Cuba",
+        "lat": 23.149578,
+        "lng": -81.260025
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -372,7 +708,121 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Jutías",
+        "country": "Cuba"
+      },
+      {
+        "name": "Varadero",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Topes de Collantes",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Ancón",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Blanco",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Cayo Jutías",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      },
+      {
+        "name": "Varadero",
+        "country": "Cuba",
+        "lat": 23.149578,
+        "lng": -81.260025
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Topes de Collantes",
+        "country": "Cuba",
+        "lat": 21.915878,
+        "lng": -80.017715
+      },
+      {
+        "name": "Playa Ancón",
+        "country": "Cuba",
+        "lat": 23.092798,
+        "lng": -82.45408
+      },
+      {
+        "name": "Cayo Blanco",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba",
+        "lat": 22.284957,
+        "lng": -81.204239
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -448,7 +898,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Jibacoa",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Playa Jibacoa",
+        "country": "Cuba",
+        "lat": 23.14654,
+        "lng": -81.855111
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -499,7 +1013,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cojimar",
+        "country": "Cuba"
+      },
+      {
+        "name": "Finca Vigia",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales Valley",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Mercado San Jose",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Museo Nacional de Bellas Artes de La Habana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Miramar",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Cojimar",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Finca Vigia",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Viñales Valley",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Mercado San Jose",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Museo Nacional de Bellas Artes de La Habana",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Miramar",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -565,7 +1183,121 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Jibacoa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Matanzas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Topes de Collantes",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Ancon",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Old Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Playa Jibacoa",
+        "country": "Cuba",
+        "lat": 23.14654,
+        "lng": -81.855111
+      },
+      {
+        "name": "Matanzas",
+        "country": "Cuba",
+        "lat": 23.046925,
+        "lng": -81.578323
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Topes de Collantes",
+        "country": "Cuba",
+        "lat": 21.915878,
+        "lng": -80.017715
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Playa Ancon",
+        "country": "Cuba",
+        "lat": 23.092798,
+        "lng": -82.45408
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Old Havana",
+        "country": "Cuba",
+        "lat": 23.136372,
+        "lng": -82.34783
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -641,7 +1373,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas Biosphere Reserve",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Girón",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Las Terrazas Biosphere Reserve",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Playa Girón",
+        "country": "Cuba",
+        "lat": 22.069523,
+        "lng": -81.028139
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -697,7 +1503,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba",
+        "lat": 22.284957,
+        "lng": -81.204239
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -763,7 +1653,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -844,7 +1788,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Remedios",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Jaimanitas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Old Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Remedios",
+        "country": "Cuba",
+        "lat": 22.494566,
+        "lng": -79.54452
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba",
+        "lat": 22.793887,
+        "lng": -83.007835
+      },
+      {
+        "name": "Jaimanitas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Old Havana",
+        "country": "Cuba",
+        "lat": 23.136372,
+        "lng": -82.34783
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -910,7 +1968,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Ancón",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Playa Ancón",
+        "country": "Cuba",
+        "lat": 23.092798,
+        "lng": -82.45408
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1006,7 +2148,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba"
+      },
+      {
+        "name": "Holguin",
+        "country": "Cuba"
+      },
+      {
+        "name": "Baracoa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba"
+      },
+      {
+        "name": "Guantanamo",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba",
+        "lat": 21.381117,
+        "lng": -77.918175
+      },
+      {
+        "name": "Holguin",
+        "country": "Cuba",
+        "lat": 20.887094,
+        "lng": -76.259259
+      },
+      {
+        "name": "Baracoa",
+        "country": "Cuba",
+        "lat": 20.347614,
+        "lng": -74.49608
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba",
+        "lat": 20.021464,
+        "lng": -75.829493
+      },
+      {
+        "name": "Guantanamo",
+        "country": "Cuba",
+        "lat": 20.14318,
+        "lng": -75.203478
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1077,7 +2323,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Jaimanitas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Jaimanitas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1133,7 +2473,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Baracoa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Baracoa",
+        "country": "Cuba",
+        "lat": 20.347614,
+        "lng": -74.49608
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba",
+        "lat": 21.381117,
+        "lng": -77.918175
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1189,7 +2613,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Santa Maria",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Cayo Santa Maria",
+        "country": "Cuba",
+        "lat": 22.6577,
+        "lng": -79
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1255,7 +2763,141 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Levisa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santiago",
+        "country": "Cuba"
+      },
+      {
+        "name": "Baracoa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Pesquero",
+        "country": "Cuba"
+      },
+      {
+        "name": "Costa Verde",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cayo Levisa",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba",
+        "lat": 21.381117,
+        "lng": -77.918175
+      },
+      {
+        "name": "Santiago",
+        "country": "Cuba",
+        "lat": 20.021464,
+        "lng": -75.829493
+      },
+      {
+        "name": "Baracoa",
+        "country": "Cuba",
+        "lat": 20.347614,
+        "lng": -74.49608
+      },
+      {
+        "name": "Playa Pesquero",
+        "country": "Cuba",
+        "lat": 23.092798,
+        "lng": -82.45408
+      },
+      {
+        "name": "Costa Verde",
+        "country": "Cuba",
+        "lat": 20.827833,
+        "lng": -76.899065
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1356,7 +2998,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Giron",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba"
+      },
+      {
+        "name": "Guantanamo Bay",
+        "country": "Cuba"
+      },
+      {
+        "name": "Baracoa",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Playa Giron",
+        "country": "Cuba",
+        "lat": 22.069523,
+        "lng": -81.028139
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba",
+        "lat": 21.381117,
+        "lng": -77.918175
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba",
+        "lat": 20.021464,
+        "lng": -75.829493
+      },
+      {
+        "name": "Guantanamo Bay",
+        "country": "Cuba",
+        "lat": 20.14318,
+        "lng": -75.203478
+      },
+      {
+        "name": "Baracoa",
+        "country": "Cuba",
+        "lat": 20.347614,
+        "lng": -74.49608
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1502,7 +3258,161 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Giron",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Sierra Escambray",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba"
+      },
+      {
+        "name": "Baracoa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Levisa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cacao plantation",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Leguano",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba",
+        "lat": 22.793887,
+        "lng": -83.007835
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba",
+        "lat": 22.284957,
+        "lng": -81.204239
+      },
+      {
+        "name": "Playa Giron",
+        "country": "Cuba",
+        "lat": 22.069523,
+        "lng": -81.028139
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Sierra Escambray",
+        "country": "Cuba",
+        "lat": 22.603287,
+        "lng": -79.805044
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba",
+        "lat": 20.021464,
+        "lng": -75.829493
+      },
+      {
+        "name": "Baracoa",
+        "country": "Cuba",
+        "lat": 20.347614,
+        "lng": -74.49608
+      },
+      {
+        "name": "Cayo Levisa",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      },
+      {
+        "name": "Cacao plantation",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cayo Leguano",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1573,7 +3483,161 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Zapata National Park",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Giron",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Guanaroca Nature Reserve",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos Botanical Gardens",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Topes de Collantes National Park",
+        "country": "Cuba"
+      },
+      {
+        "name": "Río Guourabo",
+        "country": "Cuba"
+      },
+      {
+        "name": "Sancti Spiritus",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba",
+        "lat": 22.284957,
+        "lng": -81.204239
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Zapata National Park",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Playa Giron",
+        "country": "Cuba",
+        "lat": 22.069523,
+        "lng": -81.028139
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Guanaroca Nature Reserve",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cienfuegos Botanical Gardens",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Topes de Collantes National Park",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Río Guourabo",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Sancti Spiritus",
+        "country": "Cuba",
+        "lat": 21.927567,
+        "lng": -79.443179
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1644,7 +3708,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Zapata National Park",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Giron",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Zapata National Park",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Playa Giron",
+        "country": "Cuba",
+        "lat": 22.069523,
+        "lng": -81.028139
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1695,7 +3843,41 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1761,7 +3943,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales Valley",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Viñales Valley",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1827,7 +4093,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba",
+        "lat": 22.793887,
+        "lng": -83.007835
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1898,7 +4248,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba",
+        "lat": 22.284957,
+        "lng": -81.204239
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -1969,7 +4373,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Ancon",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba",
+        "lat": 22.793887,
+        "lng": -83.007835
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Playa Ancon",
+        "country": "Cuba",
+        "lat": 23.092798,
+        "lng": -82.45408
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -2045,7 +4543,161 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bayamo",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santo Domingo",
+        "country": "Cuba"
+      },
+      {
+        "name": "Turquino National Park",
+        "country": "Cuba"
+      },
+      {
+        "name": "La Comandancia de la Plata",
+        "country": "Cuba"
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Giron",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Old Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Museum of the Revolution",
+        "country": "Cuba"
+      },
+      {
+        "name": "El Morro castle",
+        "country": "Cuba"
+      },
+      {
+        "name": "Fidel's final resting place",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba",
+        "lat": 20.021464,
+        "lng": -75.829493
+      },
+      {
+        "name": "Bayamo",
+        "country": "Cuba",
+        "lat": 20.373928,
+        "lng": -76.64804
+      },
+      {
+        "name": "Santo Domingo",
+        "country": "Cuba",
+        "lat": 22.587366,
+        "lng": -80.242805
+      },
+      {
+        "name": "Turquino National Park",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "La Comandancia de la Plata",
+        "country": "Cuba",
+        "lat": 19.921276,
+        "lng": -76.899104
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba",
+        "lat": 21.381117,
+        "lng": -77.918175
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Playa Giron",
+        "country": "Cuba",
+        "lat": 22.069523,
+        "lng": -81.028139
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba",
+        "lat": 22.284957,
+        "lng": -81.204239
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Old Havana",
+        "country": "Cuba",
+        "lat": 23.136372,
+        "lng": -82.34783
+      },
+      {
+        "name": "Museum of the Revolution",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "El Morro castle",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Fidel's final resting place",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -2121,7 +4773,161 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Pinar de Rio",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Sierra del Rosario",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Sierra Escambray",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Ancon",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Che Guevara Mausoleum",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Levisa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Jutias",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Leguano",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Pinar de Rio",
+        "country": "Cuba",
+        "lat": 22.416742,
+        "lng": -83.700258
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba",
+        "lat": 22.793887,
+        "lng": -83.007835
+      },
+      {
+        "name": "Sierra del Rosario",
+        "country": "Cuba",
+        "lat": 22.766613,
+        "lng": -83.701585
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Sierra Escambray",
+        "country": "Cuba",
+        "lat": 22.603287,
+        "lng": -79.805044
+      },
+      {
+        "name": "Playa Ancon",
+        "country": "Cuba",
+        "lat": 23.092798,
+        "lng": -82.45408
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Che Guevara Mausoleum",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cayo Levisa",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      },
+      {
+        "name": "Cayo Jutias",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      },
+      {
+        "name": "Playa Leguano",
+        "country": "Cuba",
+        "lat": 23.092798,
+        "lng": -82.45408
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -2192,7 +4998,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Holguin",
+        "country": "Cuba"
+      },
+      {
+        "name": "Puerto Padre",
+        "country": "Cuba"
+      },
+      {
+        "name": "Gibara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Mayarí",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Saetía",
+        "country": "Cuba"
+      },
+      {
+        "name": "Biran",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Holguin",
+        "country": "Cuba",
+        "lat": 20.887094,
+        "lng": -76.259259
+      },
+      {
+        "name": "Puerto Padre",
+        "country": "Cuba",
+        "lat": 21.197493,
+        "lng": -76.60185
+      },
+      {
+        "name": "Gibara",
+        "country": "Cuba",
+        "lat": 21.109234,
+        "lng": -76.12705
+      },
+      {
+        "name": "Mayarí",
+        "country": "Cuba",
+        "lat": 20.655148,
+        "lng": -75.67716
+      },
+      {
+        "name": "Cayo Saetía",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      },
+      {
+        "name": "Biran",
+        "country": "Cuba",
+        "lat": 20.52909,
+        "lng": -75.895691
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -2263,7 +5143,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -2359,7 +5313,121 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Escambray Mountains",
+        "country": "Cuba"
+      },
+      {
+        "name": "Topes de Collante Nature Reserve",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Iguana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Santa Maria",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba",
+        "lat": 22.284957,
+        "lng": -81.204239
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Escambray Mountains",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Topes de Collante Nature Reserve",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cayo Iguana",
+        "country": "Cuba",
+        "lat": 22.205822,
+        "lng": -79.251601
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Cayo Santa Maria",
+        "country": "Cuba",
+        "lat": 22.6577,
+        "lng": -79
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -2460,7 +5528,151 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales Valley",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Levisa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Zapata Peninsula",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cueva de los Peces",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Giron",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Escambray Mountains",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Ancon",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Vinales Valley",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cayo Levisa",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba",
+        "lat": 22.793887,
+        "lng": -83.007835
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Zapata Peninsula",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cueva de los Peces",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Playa Giron",
+        "country": "Cuba",
+        "lat": 22.069523,
+        "lng": -81.028139
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Escambray Mountains",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Playa Ancon",
+        "country": "Cuba",
+        "lat": 23.092798,
+        "lng": -82.45408
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -2546,7 +5758,121 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Escambray Mountains",
+        "country": "Cuba"
+      },
+      {
+        "name": "Topes de Collantes",
+        "country": "Cuba"
+      },
+      {
+        "name": "Sancti Spíritus",
+        "country": "Cuba"
+      },
+      {
+        "name": "Camagüey",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba"
+      },
+      {
+        "name": "Baracoa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Alejandro de Humboldt National Park",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Escambray Mountains",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Topes de Collantes",
+        "country": "Cuba",
+        "lat": 21.915878,
+        "lng": -80.017715
+      },
+      {
+        "name": "Sancti Spíritus",
+        "country": "Cuba",
+        "lat": 21.927567,
+        "lng": -79.443179
+      },
+      {
+        "name": "Camagüey",
+        "country": "Cuba",
+        "lat": 21.381117,
+        "lng": -77.918175
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba",
+        "lat": 20.021464,
+        "lng": -75.829493
+      },
+      {
+        "name": "Baracoa",
+        "country": "Cuba",
+        "lat": 20.347614,
+        "lng": -74.49608
+      },
+      {
+        "name": "Alejandro de Humboldt National Park",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -2647,7 +5973,181 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Levisa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Sancti Spiritus",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bayamo",
+        "country": "Cuba"
+      },
+      {
+        "name": "Sierra Maestra Mountains",
+        "country": "Cuba"
+      },
+      {
+        "name": "La Comandancia de La Plata",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba"
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Valle de los Ingenios",
+        "country": "Cuba"
+      },
+      {
+        "name": "Torre de Manaca Iznaga",
+        "country": "Cuba"
+      },
+      {
+        "name": "Topes de Collantes Nature Reserve Park",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Zapata Peninsula",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Cayo Levisa",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Sancti Spiritus",
+        "country": "Cuba",
+        "lat": 21.927567,
+        "lng": -79.443179
+      },
+      {
+        "name": "Bayamo",
+        "country": "Cuba",
+        "lat": 20.373928,
+        "lng": -76.64804
+      },
+      {
+        "name": "Sierra Maestra Mountains",
+        "country": "Cuba",
+        "lat": 22.603287,
+        "lng": -79.805044
+      },
+      {
+        "name": "La Comandancia de La Plata",
+        "country": "Cuba",
+        "lat": 19.921276,
+        "lng": -76.899104
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba",
+        "lat": 20.021464,
+        "lng": -75.829493
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba",
+        "lat": 21.381117,
+        "lng": -77.918175
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Valle de los Ingenios",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Torre de Manaca Iznaga",
+        "country": "Cuba",
+        "lat": 20.211637,
+        "lng": -76.256741
+      },
+      {
+        "name": "Topes de Collantes Nature Reserve Park",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Zapata Peninsula",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -2708,7 +6208,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Regla",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playas del Este",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Regla",
+        "country": "Cuba",
+        "lat": 23.126593,
+        "lng": -82.33212
+      },
+      {
+        "name": "Playas del Este",
+        "country": "Cuba",
+        "lat": 23.092798,
+        "lng": -82.45408
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -2799,7 +6353,121 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Maria La Gorda",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Che Guevara Memorial",
+        "country": "Cuba"
+      },
+      {
+        "name": "Sierra Escambray",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Maria La Gorda",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba",
+        "lat": 22.793887,
+        "lng": -83.007835
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Che Guevara Memorial",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Sierra Escambray",
+        "country": "Cuba",
+        "lat": 22.603287,
+        "lng": -79.805044
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -2865,7 +6533,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -2956,7 +6678,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Segundo Frente",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba"
+      },
+      {
+        "name": "Camagüey",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Segundo Frente",
+        "country": "Cuba",
+        "lat": 20.415245,
+        "lng": -75.53359
+      },
+      {
+        "name": "Santiago de Cuba",
+        "country": "Cuba",
+        "lat": 20.021464,
+        "lng": -75.829493
+      },
+      {
+        "name": "Camagüey",
+        "country": "Cuba",
+        "lat": 21.381117,
+        "lng": -77.918175
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba",
+        "lat": 22.793887,
+        "lng": -83.007835
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3012,7 +6858,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Levisa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Jutias",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba",
+        "lat": 22.793887,
+        "lng": -83.007835
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Cayo Levisa",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      },
+      {
+        "name": "Cayo Jutias",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3093,7 +7013,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3189,7 +7173,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Maria La Gorda",
+        "country": "Cuba"
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Maria La Gorda",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Viñales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3255,7 +7333,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Pinar del Rio",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Pinar del Rio",
+        "country": "Cuba",
+        "lat": 22.416742,
+        "lng": -83.700258
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3321,7 +7453,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Varadero",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cardenas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Matanzas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cojimar",
+        "country": "Cuba"
+      },
+      {
+        "name": "Alamar",
+        "country": "Cuba"
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Varadero",
+        "country": "Cuba",
+        "lat": 23.149578,
+        "lng": -81.260025
+      },
+      {
+        "name": "Cardenas",
+        "country": "Cuba",
+        "lat": 23.03713,
+        "lng": -81.20209
+      },
+      {
+        "name": "Matanzas",
+        "country": "Cuba",
+        "lat": 23.046925,
+        "lng": -81.578323
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cojimar",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Alamar",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Camaguey",
+        "country": "Cuba",
+        "lat": 21.381117,
+        "lng": -77.918175
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3407,7 +7633,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Pinar del Rio",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cojimar",
+        "country": "Cuba"
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba"
+      },
+      {
+        "name": "Sierra del Rosario Reserve",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Sierra Escambray",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Leguano",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Pinar del Rio",
+        "country": "Cuba",
+        "lat": 22.416742,
+        "lng": -83.700258
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Cojimar",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Soroa",
+        "country": "Cuba",
+        "lat": 22.793887,
+        "lng": -83.007835
+      },
+      {
+        "name": "Sierra del Rosario Reserve",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Sierra Escambray",
+        "country": "Cuba",
+        "lat": 22.603287,
+        "lng": -79.805044
+      },
+      {
+        "name": "Cayo Leguano",
+        "country": "Cuba",
+        "lat": 20.205616,
+        "lng": -75.331346
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3468,7 +7818,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Macho",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Vinales",
+        "country": "Cuba",
+        "lat": 22.615545,
+        "lng": -83.71011
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Cayo Macho",
+        "country": "Cuba",
+        "lat": 19.890649,
+        "lng": -77.009916
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3534,7 +7958,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3610,7 +8088,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Guama",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienaga de Zapata",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales Valley",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Guama",
+        "country": "Cuba",
+        "lat": 19.970135,
+        "lng": -76.40708
+      },
+      {
+        "name": "Cienaga de Zapata",
+        "country": "Cuba",
+        "lat": 22.28487,
+        "lng": -81.20519
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Vinales Valley",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3676,7 +8248,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Pinar del Rio",
+        "country": "Cuba"
+      },
+      {
+        "name": "Vinales Valley",
+        "country": "Cuba"
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba"
+      },
+      {
+        "name": "San Francisco de Paula",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Pinar del Rio",
+        "country": "Cuba",
+        "lat": 22.416742,
+        "lng": -83.700258
+      },
+      {
+        "name": "Vinales Valley",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Las Terrazas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "San Francisco de Paula",
+        "country": "Cuba",
+        "lat": 22.95672,
+        "lng": -81.655158
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3747,7 +8383,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba"
+      },
+      {
+        "name": "Jaimanitas",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Bay of Pigs",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      },
+      {
+        "name": "Jaimanitas",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3813,7 +8513,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Playa Larga",
+        "country": "Cuba",
+        "lat": 22.284957,
+        "lng": -81.204239
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3879,7 +8633,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      },
+      {
+        "name": "Caibarien",
+        "country": "Cuba"
+      },
+      {
+        "name": "Remedios",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cayo Santa Maria",
+        "country": "Cuba"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      },
+      {
+        "name": "Caibarien",
+        "country": "Cuba",
+        "lat": 22.523863,
+        "lng": -79.47167
+      },
+      {
+        "name": "Remedios",
+        "country": "Cuba",
+        "lat": 22.494566,
+        "lng": -79.54452
+      },
+      {
+        "name": "Cayo Santa Maria",
+        "country": "Cuba",
+        "lat": 22.6577,
+        "lng": -79
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -3945,7 +8763,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cojímar",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Cojímar",
+        "country": "Cuba",
+        "lat": 22.834458,
+        "lng": -81.138147
+      }
+    ]
   },
   {
     "destination": "Cuba",
@@ -4011,6 +8883,60 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba"
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba"
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Havana",
+        "country": "Cuba",
+        "lat": 23.135305,
+        "lng": -82.358963
+      },
+      {
+        "name": "Cienfuegos",
+        "country": "Cuba",
+        "lat": 22.14575,
+        "lng": -80.452624
+      },
+      {
+        "name": "Trinidad",
+        "country": "Cuba",
+        "lat": 21.80412,
+        "lng": -79.98368
+      },
+      {
+        "name": "Santa Clara",
+        "country": "Cuba",
+        "lat": 22.407387,
+        "lng": -79.96493
+      }
+    ]
   }
 ]

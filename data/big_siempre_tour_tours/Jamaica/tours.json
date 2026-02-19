@@ -73,6 +73,118 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kingston",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Blue Mountains National Park",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Port Antonio",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Blue Lagoon",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Frenchman’s Cove",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Ocho Rios",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Montego Bay",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Negril",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Seven Mile Beach",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Appleton Estate",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Treasure Beach",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Cockpit Country",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Accompong",
+        "country": "Jamaica"
+      },
+      {
+        "name": "Y S Falls",
+        "country": "Jamaica"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kingston",
+        "country": "Jamaica",
+        "lat": 18.017589,
+        "lng": -76.80273
+      },
+      {
+        "name": "Port Antonio",
+        "country": "Jamaica",
+        "lat": 18.177352,
+        "lng": -76.444697
+      },
+      {
+        "name": "Ocho Rios",
+        "country": "Jamaica",
+        "lat": 18.40185,
+        "lng": -77.105927
+      },
+      {
+        "name": "Montego Bay",
+        "country": "Jamaica",
+        "lat": 18.487178,
+        "lng": -77.896954
+      },
+      {
+        "name": "Negril",
+        "country": "Jamaica",
+        "lat": 18.241579,
+        "lng": -78.351911
+      },
+      {
+        "name": "Treasure Beach",
+        "country": "Jamaica",
+        "lat": 17.86828,
+        "lng": -77.75017
+      },
+      {
+        "name": "Accompong",
+        "country": "Jamaica",
+        "lat": 18.227252,
+        "lng": -77.755521
+      }
+    ]
   }
 ]

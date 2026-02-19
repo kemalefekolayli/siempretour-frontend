@@ -88,7 +88,107 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Georgetown",
+        "country": "Guyana"
+      },
+      {
+        "name": "Kaieteur Falls",
+        "country": "Guyana"
+      },
+      {
+        "name": "Fair View",
+        "country": "Guyana"
+      },
+      {
+        "name": "Iwokrama Field Station",
+        "country": "Guyana"
+      },
+      {
+        "name": "Essequibo River",
+        "country": "Guyana"
+      },
+      {
+        "name": "Turtle Mountain",
+        "country": "Guyana"
+      },
+      {
+        "name": "Kurupukari Falls",
+        "country": "Guyana"
+      },
+      {
+        "name": "Atta Rainforest Lodge",
+        "country": "Guyana"
+      },
+      {
+        "name": "Surama",
+        "country": "Guyana"
+      },
+      {
+        "name": "Surama Mountain",
+        "country": "Guyana"
+      },
+      {
+        "name": "Rock View Lodge",
+        "country": "Guyana"
+      },
+      {
+        "name": "Karanambu Lodge",
+        "country": "Guyana"
+      },
+      {
+        "name": "Caiman House",
+        "country": "Guyana"
+      },
+      {
+        "name": "Georgetown",
+        "country": "Guyana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Georgetown",
+        "country": "Guyana",
+        "lat": 6.809843,
+        "lng": -58.159283
+      },
+      {
+        "name": "Surama",
+        "country": "Guyana",
+        "lat": 4.137861,
+        "lng": -59.070676
+      },
+      {
+        "name": "Surama Mountain",
+        "country": "Guyana",
+        "lat": 4.137861,
+        "lng": -59.070676
+      },
+      {
+        "name": "Karanambu Lodge",
+        "country": "Guyana",
+        "lat": 3.752901,
+        "lng": -59.310262
+      },
+      {
+        "name": "Georgetown",
+        "country": "Guyana",
+        "lat": 6.809843,
+        "lng": -58.159283
+      }
+    ]
   },
   {
     "destination": "Guyana",
@@ -179,7 +279,89 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Georgetown",
+        "country": "Guyana"
+      },
+      {
+        "name": "Kaieteur Falls",
+        "country": "Guyana"
+      },
+      {
+        "name": "Iwokrama",
+        "country": "Guyana"
+      },
+      {
+        "name": "Turtle Mountain",
+        "country": "Guyana"
+      },
+      {
+        "name": "Kurupukari Falls",
+        "country": "Guyana"
+      },
+      {
+        "name": "Surama",
+        "country": "Guyana"
+      },
+      {
+        "name": "Surama Mountain",
+        "country": "Guyana"
+      },
+      {
+        "name": "Rock View Lodge",
+        "country": "Guyana"
+      },
+      {
+        "name": "Karanambu Lodge",
+        "country": "Guyana"
+      },
+      {
+        "name": "Caiman House",
+        "country": "Guyana"
+      },
+      {
+        "name": "Lethem",
+        "country": "Guyana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Georgetown",
+        "country": "Guyana",
+        "lat": 6.809843,
+        "lng": -58.159283
+      },
+      {
+        "name": "Surama",
+        "country": "Guyana",
+        "lat": 4.137861,
+        "lng": -59.070676
+      },
+      {
+        "name": "Surama Mountain",
+        "country": "Guyana",
+        "lat": 4.137861,
+        "lng": -59.070676
+      },
+      {
+        "name": "Karanambu Lodge",
+        "country": "Guyana",
+        "lat": 3.752901,
+        "lng": -59.310262
+      }
+    ]
   },
   {
     "destination": "Guyana",
@@ -270,6 +452,90 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Georgetown",
+        "country": "Guyana"
+      },
+      {
+        "name": "Kaieteur Falls",
+        "country": "Guyana"
+      },
+      {
+        "name": "Iwokrama Rainforest",
+        "country": "Guyana"
+      },
+      {
+        "name": "Turtle Mountain",
+        "country": "Guyana"
+      },
+      {
+        "name": "Surama",
+        "country": "Guyana"
+      },
+      {
+        "name": "Surama Mountain",
+        "country": "Guyana"
+      },
+      {
+        "name": "Pakaraima Mountains",
+        "country": "Guyana"
+      },
+      {
+        "name": "Karanambu",
+        "country": "Guyana"
+      },
+      {
+        "name": "Yupukari",
+        "country": "Guyana"
+      },
+      {
+        "name": "Caiman House",
+        "country": "Guyana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Georgetown",
+        "country": "Guyana",
+        "lat": 6.809843,
+        "lng": -58.159283
+      },
+      {
+        "name": "Surama",
+        "country": "Guyana",
+        "lat": 4.137861,
+        "lng": -59.070676
+      },
+      {
+        "name": "Surama Mountain",
+        "country": "Guyana",
+        "lat": 4.137861,
+        "lng": -59.070676
+      },
+      {
+        "name": "Karanambu",
+        "country": "Guyana",
+        "lat": 3.752901,
+        "lng": -59.310262
+      },
+      {
+        "name": "Yupukari",
+        "country": "Guyana",
+        "lat": 3.662386,
+        "lng": -59.354584
+      }
+    ]
   }
 ]

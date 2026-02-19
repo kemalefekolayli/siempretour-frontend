@@ -83,7 +83,69 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dili",
+        "country": "East Timor"
+      },
+      {
+        "name": "Baucau",
+        "country": "East Timor"
+      },
+      {
+        "name": "Com",
+        "country": "East Timor"
+      },
+      {
+        "name": "Tutuala",
+        "country": "East Timor"
+      },
+      {
+        "name": "Jaco Island",
+        "country": "East Timor"
+      },
+      {
+        "name": "Venilale",
+        "country": "East Timor"
+      },
+      {
+        "name": "Laleia",
+        "country": "East Timor"
+      },
+      {
+        "name": "Maubisse",
+        "country": "East Timor"
+      },
+      {
+        "name": "Hatubuiliko",
+        "country": "East Timor"
+      },
+      {
+        "name": "Mount Ramelau",
+        "country": "East Timor"
+      },
+      {
+        "name": "Suai",
+        "country": "East Timor"
+      },
+      {
+        "name": "Balibo",
+        "country": "East Timor"
+      },
+      {
+        "name": "Maubara",
+        "country": "East Timor"
+      },
+      {
+        "name": "Atauro Island",
+        "country": "East Timor"
+      }
+    ]
   },
   {
     "destination": "East Timor",
@@ -179,6 +241,52 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dili",
+        "country": "East Timor"
+      },
+      {
+        "name": "Maubisse",
+        "country": "East Timor"
+      },
+      {
+        "name": "Mt Ramelau",
+        "country": "East Timor"
+      },
+      {
+        "name": "Atauro Island",
+        "country": "East Timor"
+      },
+      {
+        "name": "Baucau",
+        "country": "East Timor"
+      },
+      {
+        "name": "Venilale",
+        "country": "East Timor"
+      },
+      {
+        "name": "Laga",
+        "country": "East Timor"
+      },
+      {
+        "name": "Tutuala",
+        "country": "East Timor"
+      },
+      {
+        "name": "IIi Kere Kere caves",
+        "country": "East Timor"
+      },
+      {
+        "name": "Jaco Island",
+        "country": "East Timor"
+      }
+    ]
   }
 ]

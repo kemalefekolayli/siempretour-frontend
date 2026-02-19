@@ -63,7 +63,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lisbon",
+        "country": "Portugal"
+      },
+      {
+        "name": "Sintra",
+        "country": "Portugal"
+      },
+      {
+        "name": "Coimbra",
+        "country": "Portugal"
+      },
+      {
+        "name": "Douro Valley",
+        "country": "Portugal"
+      },
+      {
+        "name": "Pinhao",
+        "country": "Portugal"
+      },
+      {
+        "name": "Porto",
+        "country": "Portugal"
+      },
+      {
+        "name": "Vila Nova de Gaia",
+        "country": "Portugal"
+      },
+      {
+        "name": "Matosinhos",
+        "country": "Portugal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "lat": 38.7173,
+        "lng": -9.14305
+      },
+      {
+        "name": "Sintra",
+        "country": "Portugal",
+        "lat": 38.795944,
+        "lng": -9.38959
+      },
+      {
+        "name": "Coimbra",
+        "country": "Portugal",
+        "lat": 40.21042,
+        "lng": -8.429931
+      },
+      {
+        "name": "Douro Valley",
+        "country": "Portugal",
+        "lat": 41.65965,
+        "lng": -8.27033
+      },
+      {
+        "name": "Pinhao",
+        "country": "Portugal",
+        "lat": 41.190495,
+        "lng": -7.544525
+      },
+      {
+        "name": "Porto",
+        "country": "Portugal",
+        "lat": 41.14789,
+        "lng": -8.611286
+      },
+      {
+        "name": "Vila Nova de Gaia",
+        "country": "Portugal",
+        "lat": 41.13752,
+        "lng": -8.614042
+      },
+      {
+        "name": "Matosinhos",
+        "country": "Portugal",
+        "lat": 41.182964,
+        "lng": -8.693386
+      }
+    ]
   },
   {
     "destination": "Portugal",
@@ -129,7 +223,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Porto",
+        "country": "Portugal"
+      },
+      {
+        "name": "Douro Valley",
+        "country": "Portugal"
+      },
+      {
+        "name": "Coimbra",
+        "country": "Portugal"
+      },
+      {
+        "name": "Monastery of Batalha",
+        "country": "Portugal"
+      },
+      {
+        "name": "Óbidos",
+        "country": "Portugal"
+      },
+      {
+        "name": "Lisbon",
+        "country": "Portugal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Porto",
+        "country": "Portugal",
+        "lat": 41.14789,
+        "lng": -8.611286
+      },
+      {
+        "name": "Douro Valley",
+        "country": "Portugal",
+        "lat": 41.65965,
+        "lng": -8.27033
+      },
+      {
+        "name": "Coimbra",
+        "country": "Portugal",
+        "lat": 40.21042,
+        "lng": -8.429931
+      },
+      {
+        "name": "Monastery of Batalha",
+        "country": "Portugal",
+        "lat": 39.29099,
+        "lng": -7.43206
+      },
+      {
+        "name": "Óbidos",
+        "country": "Portugal",
+        "lat": 39.359604,
+        "lng": -9.157808
+      },
+      {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "lat": 38.7173,
+        "lng": -9.14305
+      }
+    ]
   },
   {
     "destination": "Portugal",
@@ -215,7 +383,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lisbon",
+        "country": "Portugal"
+      },
+      {
+        "name": "Alentejo",
+        "country": "Portugal"
+      },
+      {
+        "name": "Sintra",
+        "country": "Portugal"
+      },
+      {
+        "name": "Bussaco",
+        "country": "Portugal"
+      },
+      {
+        "name": "Schist Villages",
+        "country": "Portugal"
+      },
+      {
+        "name": "Tomar",
+        "country": "Portugal"
+      },
+      {
+        "name": "Douro Valley",
+        "country": "Portugal"
+      },
+      {
+        "name": "Amarante",
+        "country": "Portugal"
+      },
+      {
+        "name": "Porto",
+        "country": "Portugal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "lat": 38.7173,
+        "lng": -9.14305
+      },
+      {
+        "name": "Alentejo",
+        "country": "Portugal",
+        "lat": 39.29099,
+        "lng": -7.43206
+      },
+      {
+        "name": "Sintra",
+        "country": "Portugal",
+        "lat": 38.795944,
+        "lng": -9.38959
+      },
+      {
+        "name": "Bussaco",
+        "country": "Portugal",
+        "lat": 39.29099,
+        "lng": -7.43206
+      },
+      {
+        "name": "Schist Villages",
+        "country": "Portugal",
+        "lat": 39.29099,
+        "lng": -7.43206
+      },
+      {
+        "name": "Tomar",
+        "country": "Portugal",
+        "lat": 39.603817,
+        "lng": -8.414807
+      },
+      {
+        "name": "Douro Valley",
+        "country": "Portugal",
+        "lat": 41.65965,
+        "lng": -8.27033
+      },
+      {
+        "name": "Amarante",
+        "country": "Portugal",
+        "lat": 41.269012,
+        "lng": -8.07839
+      },
+      {
+        "name": "Porto",
+        "country": "Portugal",
+        "lat": 41.14789,
+        "lng": -8.611286
+      }
+    ]
   },
   {
     "destination": "Portugal",
@@ -326,6 +598,200 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lisbon",
+        "country": "Portugal"
+      },
+      {
+        "name": "Coimbra",
+        "country": "Portugal"
+      },
+      {
+        "name": "Óbidos",
+        "country": "Portugal"
+      },
+      {
+        "name": "Porto",
+        "country": "Portugal"
+      },
+      {
+        "name": "Braga",
+        "country": "Portugal"
+      },
+      {
+        "name": "Guimarães",
+        "country": "Portugal"
+      },
+      {
+        "name": "Douro Valley",
+        "country": "Portugal"
+      },
+      {
+        "name": "Amarante",
+        "country": "Portugal"
+      },
+      {
+        "name": "Lamego",
+        "country": "Portugal"
+      },
+      {
+        "name": "Tomar",
+        "country": "Portugal"
+      },
+      {
+        "name": "Évora",
+        "country": "Portugal"
+      },
+      {
+        "name": "Arrábida Natural Park",
+        "country": "Portugal"
+      },
+      {
+        "name": "Sintra",
+        "country": "Portugal"
+      },
+      {
+        "name": "Ponta Delgada",
+        "country": "Portugal"
+      },
+      {
+        "name": "São Miguel",
+        "country": "Portugal"
+      },
+      {
+        "name": "Sete Cidades",
+        "country": "Portugal"
+      },
+      {
+        "name": "Lagoa do Fogo",
+        "country": "Portugal"
+      },
+      {
+        "name": "Vale das Furnas",
+        "country": "Portugal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "lat": 38.7173,
+        "lng": -9.14305
+      },
+      {
+        "name": "Coimbra",
+        "country": "Portugal",
+        "lat": 40.21042,
+        "lng": -8.429931
+      },
+      {
+        "name": "Óbidos",
+        "country": "Portugal",
+        "lat": 39.359604,
+        "lng": -9.157808
+      },
+      {
+        "name": "Porto",
+        "country": "Portugal",
+        "lat": 41.14789,
+        "lng": -8.611286
+      },
+      {
+        "name": "Braga",
+        "country": "Portugal",
+        "lat": 41.55065,
+        "lng": -8.425402
+      },
+      {
+        "name": "Guimarães",
+        "country": "Portugal",
+        "lat": 41.442554,
+        "lng": -8.291792
+      },
+      {
+        "name": "Douro Valley",
+        "country": "Portugal",
+        "lat": 41.65965,
+        "lng": -8.27033
+      },
+      {
+        "name": "Amarante",
+        "country": "Portugal",
+        "lat": 41.269012,
+        "lng": -8.07839
+      },
+      {
+        "name": "Lamego",
+        "country": "Portugal",
+        "lat": 41.09605,
+        "lng": -7.808912
+      },
+      {
+        "name": "Tomar",
+        "country": "Portugal",
+        "lat": 39.603817,
+        "lng": -8.414807
+      },
+      {
+        "name": "Évora",
+        "country": "Portugal",
+        "lat": 38.57119,
+        "lng": -7.909684
+      },
+      {
+        "name": "Arrábida Natural Park",
+        "country": "Portugal",
+        "lat": 39.29099,
+        "lng": -7.43206
+      },
+      {
+        "name": "Sintra",
+        "country": "Portugal",
+        "lat": 38.795944,
+        "lng": -9.38959
+      },
+      {
+        "name": "Ponta Delgada",
+        "country": "Portugal",
+        "lat": 37.74021,
+        "lng": -25.668623
+      },
+      {
+        "name": "São Miguel",
+        "country": "Portugal",
+        "lat": 37.8,
+        "lng": -25.5
+      },
+      {
+        "name": "Sete Cidades",
+        "country": "Portugal",
+        "lat": 37.86307,
+        "lng": -25.796768
+      },
+      {
+        "name": "Lagoa do Fogo",
+        "country": "Portugal",
+        "lat": 37.134624,
+        "lng": -8.451255
+      },
+      {
+        "name": "Vale das Furnas",
+        "country": "Portugal",
+        "lat": 40.979675,
+        "lng": -8.441572
+      }
+    ]
   }
 ]

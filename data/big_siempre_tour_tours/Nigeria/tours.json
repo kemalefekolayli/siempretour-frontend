@@ -78,6 +78,140 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lagos",
+        "country": "Nigeria"
+      },
+      {
+        "name": "Badagry",
+        "country": "Nigeria"
+      },
+      {
+        "name": "Abeokuta",
+        "country": "Nigeria"
+      },
+      {
+        "name": "Idanre Hills",
+        "country": "Nigeria"
+      },
+      {
+        "name": "Oshogbo",
+        "country": "Nigeria"
+      },
+      {
+        "name": "Ilorin",
+        "country": "Nigeria"
+      },
+      {
+        "name": "Jebba",
+        "country": "Nigeria"
+      },
+      {
+        "name": "Kontagora",
+        "country": "Nigeria"
+      },
+      {
+        "name": "Kamberi lands",
+        "country": "Nigeria"
+      },
+      {
+        "name": "Gwari villages",
+        "country": "Nigeria"
+      },
+      {
+        "name": "Minna",
+        "country": "Nigeria"
+      },
+      {
+        "name": "Abuja",
+        "country": "Nigeria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.453928,
+        "lng": 3.38975
+      },
+      {
+        "name": "Badagry",
+        "country": "Nigeria",
+        "lat": 6.41847,
+        "lng": 2.884631
+      },
+      {
+        "name": "Abeokuta",
+        "country": "Nigeria",
+        "lat": 12.0338,
+        "lng": 8.52948
+      },
+      {
+        "name": "Idanre Hills",
+        "country": "Nigeria",
+        "lat": 7.111109,
+        "lng": 5.109759
+      },
+      {
+        "name": "Oshogbo",
+        "country": "Nigeria",
+        "lat": 7.774089,
+        "lng": 4.54428
+      },
+      {
+        "name": "Ilorin",
+        "country": "Nigeria",
+        "lat": 12.0338,
+        "lng": 8.52948
+      },
+      {
+        "name": "Jebba",
+        "country": "Nigeria",
+        "lat": 11.398242,
+        "lng": 13.764266
+      },
+      {
+        "name": "Kontagora",
+        "country": "Nigeria",
+        "lat": 10.401569,
+        "lng": 5.4724
+      },
+      {
+        "name": "Kamberi lands",
+        "country": "Nigeria",
+        "lat": 12.0338,
+        "lng": 8.52948
+      },
+      {
+        "name": "Gwari villages",
+        "country": "Nigeria",
+        "lat": 10.429046,
+        "lng": 12.013538
+      },
+      {
+        "name": "Minna",
+        "country": "Nigeria",
+        "lat": 12.0338,
+        "lng": 8.52948
+      },
+      {
+        "name": "Abuja",
+        "country": "Nigeria",
+        "lat": 9.073523,
+        "lng": 7.475731
+      }
+    ]
   }
 ]

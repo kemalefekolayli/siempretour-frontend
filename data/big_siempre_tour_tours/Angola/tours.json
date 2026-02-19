@@ -78,7 +78,105 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Luanda",
+        "country": "Angola"
+      },
+      {
+        "name": "Lubango",
+        "country": "Angola"
+      },
+      {
+        "name": "Chibia",
+        "country": "Angola"
+      },
+      {
+        "name": "Oncocua",
+        "country": "Angola"
+      },
+      {
+        "name": "Cahama",
+        "country": "Angola"
+      },
+      {
+        "name": "Namibe",
+        "country": "Angola"
+      },
+      {
+        "name": "Tchitundo Hulo",
+        "country": "Angola"
+      },
+      {
+        "name": "Virei",
+        "country": "Angola"
+      },
+      {
+        "name": "Kwanza River",
+        "country": "Angola"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Luanda",
+        "country": "Angola",
+        "lat": -8.81668,
+        "lng": 13.235822
+      },
+      {
+        "name": "Lubango",
+        "country": "Angola",
+        "lat": -14.919562,
+        "lng": 13.489751
+      },
+      {
+        "name": "Chibia",
+        "country": "Angola",
+        "lat": -15.189274,
+        "lng": 13.691478
+      },
+      {
+        "name": "Oncocua",
+        "country": "Angola",
+        "lat": -7.975421,
+        "lng": 15.851528
+      },
+      {
+        "name": "Cahama",
+        "country": "Angola",
+        "lat": -16.28564,
+        "lng": 14.307561
+      },
+      {
+        "name": "Namibe",
+        "country": "Angola",
+        "lat": -15.193975,
+        "lng": 12.147729
+      },
+      {
+        "name": "Tchitundo Hulo",
+        "country": "Angola",
+        "lat": -7.975421,
+        "lng": 15.851528
+      },
+      {
+        "name": "Virei",
+        "country": "Angola",
+        "lat": -15.725297,
+        "lng": 12.949193
+      }
+    ]
   },
   {
     "destination": "Angola",
@@ -169,7 +267,141 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Luanda",
+        "country": "Angola"
+      },
+      {
+        "name": "Lubango",
+        "country": "Angola"
+      },
+      {
+        "name": "Chibia",
+        "country": "Angola"
+      },
+      {
+        "name": "Namibe",
+        "country": "Angola"
+      },
+      {
+        "name": "Tundavala",
+        "country": "Angola"
+      },
+      {
+        "name": "Serra da Leba",
+        "country": "Angola"
+      },
+      {
+        "name": "Tchitundu Hulo",
+        "country": "Angola"
+      },
+      {
+        "name": "Calandula Falls",
+        "country": "Angola"
+      },
+      {
+        "name": "Pedras Negras de Pungo Andongo",
+        "country": "Angola"
+      },
+      {
+        "name": "Cabo Ledo",
+        "country": "Angola"
+      },
+      {
+        "name": "Kissama National Park",
+        "country": "Angola"
+      },
+      {
+        "name": "Mussulo Island",
+        "country": "Angola"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Luanda",
+        "country": "Angola",
+        "lat": -8.81668,
+        "lng": 13.235822
+      },
+      {
+        "name": "Lubango",
+        "country": "Angola",
+        "lat": -14.919562,
+        "lng": 13.489751
+      },
+      {
+        "name": "Chibia",
+        "country": "Angola",
+        "lat": -15.189274,
+        "lng": 13.691478
+      },
+      {
+        "name": "Namibe",
+        "country": "Angola",
+        "lat": -15.193975,
+        "lng": 12.147729
+      },
+      {
+        "name": "Tundavala",
+        "country": "Angola",
+        "lat": -7.975421,
+        "lng": 15.851528
+      },
+      {
+        "name": "Serra da Leba",
+        "country": "Angola",
+        "lat": -11.658056,
+        "lng": 20.44687
+      },
+      {
+        "name": "Tchitundu Hulo",
+        "country": "Angola",
+        "lat": -7.975421,
+        "lng": 15.851528
+      },
+      {
+        "name": "Calandula Falls",
+        "country": "Angola",
+        "lat": -9.09186,
+        "lng": 15.955365
+      },
+      {
+        "name": "Pedras Negras de Pungo Andongo",
+        "country": "Angola",
+        "lat": -11.836927,
+        "lng": 16.220982
+      },
+      {
+        "name": "Cabo Ledo",
+        "country": "Angola",
+        "lat": -7.975421,
+        "lng": 15.851528
+      },
+      {
+        "name": "Kissama National Park",
+        "country": "Angola",
+        "lat": -7.975421,
+        "lng": 15.851528
+      },
+      {
+        "name": "Mussulo Island",
+        "country": "Angola",
+        "lat": -7.975421,
+        "lng": 15.851528
+      }
+    ]
   },
   {
     "destination": "Angola",
@@ -350,7 +582,467 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Fes",
+        "country": "Morocco"
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco"
+      },
+      {
+        "name": "Western Sahara",
+        "country": "null"
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania"
+      },
+      {
+        "name": "St Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Tiwai Island Wildlife Sanctuary",
+        "country": "null"
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia"
+      },
+      {
+        "name": "Ziguinchor",
+        "country": "Senegal"
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Conakry",
+        "country": "Guinea"
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Côte d'Ivoire"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Côte d'Ivoire"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Limbe",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Lope National Park",
+        "country": "Gabon"
+      },
+      {
+        "name": "Dolisie",
+        "country": "Congo"
+      },
+      {
+        "name": "Pointe Noire",
+        "country": "Congo"
+      },
+      {
+        "name": "Mitadi",
+        "country": "Angola"
+      },
+      {
+        "name": "Lubango",
+        "country": "Angola"
+      },
+      {
+        "name": "Luanda",
+        "country": "Angola"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Lesotho",
+        "country": "Lesotho"
+      },
+      {
+        "name": "Eswatini",
+        "country": "Eswatini"
+      },
+      {
+        "name": "Maputo",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Vilanculos",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Okavango Delta",
+        "country": "Botswana"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Dar Es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Lake Turkana",
+        "country": "Kenya"
+      },
+      {
+        "name": "Marsabit",
+        "country": "Kenya"
+      },
+      {
+        "name": "Jinka",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Fes",
+        "country": "Morocco",
+        "lat": 34.034294,
+        "lng": -5.017115
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco",
+        "lat": 31.626928,
+        "lng": -7.988117
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "lat": 18.079238,
+        "lng": -15.978007
+      },
+      {
+        "name": "St Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Ziguinchor",
+        "country": "Senegal",
+        "lat": 12.563493,
+        "lng": -16.272461
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Conakry",
+        "country": "Guinea",
+        "lat": 9.51706,
+        "lng": -13.699843
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "lat": 8.462246,
+        "lng": -13.178415
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia",
+        "lat": 6.297724,
+        "lng": -10.779029
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Limbe",
+        "country": "Cameroon",
+        "lat": 4.018898,
+        "lng": 9.197624
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Mitadi",
+        "country": "Angola",
+        "lat": -7.975421,
+        "lng": 15.851528
+      },
+      {
+        "name": "Lubango",
+        "country": "Angola",
+        "lat": -14.919562,
+        "lng": 13.489751
+      },
+      {
+        "name": "Luanda",
+        "country": "Angola",
+        "lat": -8.81668,
+        "lng": 13.235822
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Eswatini",
+        "country": "Eswatini",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Maputo",
+        "country": "Mozambique",
+        "lat": -25.966213,
+        "lng": 32.56745
+      },
+      {
+        "name": "Vilanculos",
+        "country": "Mozambique",
+        "lat": -21.999647,
+        "lng": 35.31868
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabwe",
+        "lat": -20.15606,
+        "lng": 28.588706
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "lat": -13.987511,
+        "lng": 33.768144
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Dar Es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Lake Turkana",
+        "country": "Kenya",
+        "lat": 3.116609,
+        "lng": 35.600003
+      },
+      {
+        "name": "Marsabit",
+        "country": "Kenya",
+        "lat": 2.338061,
+        "lng": 37.991639
+      },
+      {
+        "name": "Jinka",
+        "country": "Ethiopia",
+        "lat": 5.785993,
+        "lng": 36.565182
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      }
+    ]
   },
   {
     "destination": "Angola",
@@ -426,6 +1118,354 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Fes",
+        "country": "Morocco"
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco"
+      },
+      {
+        "name": "Essaouira",
+        "country": "Morocco"
+      },
+      {
+        "name": "Western Sahara",
+        "country": "null"
+      },
+      {
+        "name": "Atar",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania"
+      },
+      {
+        "name": "St Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Lake Retba",
+        "country": "Senegal"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Banjul",
+        "country": "The Gambia"
+      },
+      {
+        "name": "Ziguinchor",
+        "country": "Senegal"
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Parque Nacional de Cantanhez",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Conakry",
+        "country": "Guinea"
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Tiwai Island Wildlife Sanctuary",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Limbe",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Ambam",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Lope National Park",
+        "country": "Gabon"
+      },
+      {
+        "name": "Dolisie",
+        "country": "Congo"
+      },
+      {
+        "name": "Pointe Noire",
+        "country": "Congo"
+      },
+      {
+        "name": "Mitadi",
+        "country": "Democratic Republic of the Congo"
+      },
+      {
+        "name": "Lubango",
+        "country": "Angola"
+      },
+      {
+        "name": "Luanda",
+        "country": "Angola"
+      },
+      {
+        "name": "Namibian border",
+        "country": "null"
+      },
+      {
+        "name": "Ondangwa",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Brandberg Mountains",
+        "country": "Namibia"
+      },
+      {
+        "name": "Spitzkoppe",
+        "country": "Namibia"
+      },
+      {
+        "name": "Cape Cross Seal Colony",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Fes",
+        "country": "Morocco",
+        "lat": 34.034294,
+        "lng": -5.017115
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco",
+        "lat": 31.626928,
+        "lng": -7.988117
+      },
+      {
+        "name": "Essaouira",
+        "country": "Morocco",
+        "lat": 31.513723,
+        "lng": -9.771017
+      },
+      {
+        "name": "Atar",
+        "country": "Mauritania",
+        "lat": 20.514017,
+        "lng": -13.050462
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "lat": 18.079238,
+        "lng": -15.978007
+      },
+      {
+        "name": "St Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Banjul",
+        "country": "The Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
+      },
+      {
+        "name": "Ziguinchor",
+        "country": "Senegal",
+        "lat": 12.563493,
+        "lng": -16.272461
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Parque Nacional de Cantanhez",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Conakry",
+        "country": "Guinea",
+        "lat": 9.51706,
+        "lng": -13.699843
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "lat": 8.462246,
+        "lng": -13.178415
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia",
+        "lat": 6.297724,
+        "lng": -10.779029
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Limbe",
+        "country": "Cameroon",
+        "lat": 4.018898,
+        "lng": 9.197624
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Ambam",
+        "country": "Cameroon",
+        "lat": 4.932334,
+        "lng": 12.898378
+      },
+      {
+        "name": "Mitadi",
+        "country": "Democratic Republic of the Congo",
+        "lat": -5.820845,
+        "lng": 13.460166
+      },
+      {
+        "name": "Lubango",
+        "country": "Angola",
+        "lat": -14.919562,
+        "lng": 13.489751
+      },
+      {
+        "name": "Luanda",
+        "country": "Angola",
+        "lat": -8.81668,
+        "lng": 13.235822
+      },
+      {
+        "name": "Ondangwa",
+        "country": "Namibia",
+        "lat": -17.909745,
+        "lng": 15.973463
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   }
 ]

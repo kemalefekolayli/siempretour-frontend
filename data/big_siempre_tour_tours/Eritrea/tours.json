@@ -63,7 +63,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Asmara",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Keren",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Massawa",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Qohaito",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Decemhare",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Adi Keyh",
+        "country": "Eritrea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Asmara",
+        "country": "Eritrea",
+        "lat": 15.348032,
+        "lng": 38.945567
+      },
+      {
+        "name": "Keren",
+        "country": "Eritrea",
+        "lat": 15.780477,
+        "lng": 38.453606
+      },
+      {
+        "name": "Massawa",
+        "country": "Eritrea",
+        "lat": 15.609232,
+        "lng": 39.455333
+      },
+      {
+        "name": "Decemhare",
+        "country": "Eritrea",
+        "lat": 15.068321,
+        "lng": 39.048169
+      },
+      {
+        "name": "Adi Keyh",
+        "country": "Eritrea",
+        "lat": 14.847566,
+        "lng": 39.372487
+      }
+    ]
   },
   {
     "destination": "Eritrea",
@@ -124,7 +192,55 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Asmara",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Keren",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Massawa",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Dahlak Islands",
+        "country": "Eritrea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Asmara",
+        "country": "Eritrea",
+        "lat": 15.348032,
+        "lng": 38.945567
+      },
+      {
+        "name": "Keren",
+        "country": "Eritrea",
+        "lat": 15.780477,
+        "lng": 38.453606
+      },
+      {
+        "name": "Massawa",
+        "country": "Eritrea",
+        "lat": 15.609232,
+        "lng": 39.455333
+      }
+    ]
   },
   {
     "destination": "Eritrea",
@@ -200,6 +316,72 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Asmara",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Keren",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Massawa",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Decamhare",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Senafe",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Adikeyih",
+        "country": "Eritrea"
+      },
+      {
+        "name": "Qohaito",
+        "country": "Eritrea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Asmara",
+        "country": "Eritrea",
+        "lat": 15.348032,
+        "lng": 38.945567
+      },
+      {
+        "name": "Keren",
+        "country": "Eritrea",
+        "lat": 15.780477,
+        "lng": 38.453606
+      },
+      {
+        "name": "Massawa",
+        "country": "Eritrea",
+        "lat": 15.609232,
+        "lng": 39.455333
+      },
+      {
+        "name": "Senafe",
+        "country": "Eritrea",
+        "lat": 14.701755,
+        "lng": 39.424382
+      }
+    ]
   }
 ]

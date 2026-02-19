@@ -58,7 +58,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Damascus",
+        "country": "Syria"
+      },
+      {
+        "name": "Maaloula",
+        "country": "Syria"
+      },
+      {
+        "name": "Homs",
+        "country": "Syria"
+      },
+      {
+        "name": "Aleppo",
+        "country": "Syria"
+      },
+      {
+        "name": "Apamea",
+        "country": "Syria"
+      },
+      {
+        "name": "Hama",
+        "country": "Syria"
+      },
+      {
+        "name": "Krak des Chevaliers",
+        "country": "Syria"
+      },
+      {
+        "name": "Palmyra",
+        "country": "Syria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Damascus",
+        "country": "Syria",
+        "lat": 33.51307,
+        "lng": 36.309581
+      },
+      {
+        "name": "Maaloula",
+        "country": "Syria",
+        "lat": 33.844129,
+        "lng": 36.546253
+      },
+      {
+        "name": "Homs",
+        "country": "Syria",
+        "lat": 34.733333,
+        "lng": 36.716667
+      },
+      {
+        "name": "Aleppo",
+        "country": "Syria",
+        "lat": 36.19924,
+        "lng": 37.163725
+      },
+      {
+        "name": "Apamea",
+        "country": "Syria",
+        "lat": 36.216839,
+        "lng": 37.14439
+      },
+      {
+        "name": "Hama",
+        "country": "Syria",
+        "lat": 35.134337,
+        "lng": 36.749628
+      },
+      {
+        "name": "Krak des Chevaliers",
+        "country": "Syria",
+        "lat": 37.133333,
+        "lng": 42.216667
+      },
+      {
+        "name": "Palmyra",
+        "country": "Syria",
+        "lat": 34.556016,
+        "lng": 38.280975
+      }
+    ]
   },
   {
     "destination": "Syria",
@@ -134,6 +228,150 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Damascus",
+        "country": "Syria"
+      },
+      {
+        "name": "Palmyra",
+        "country": "Syria"
+      },
+      {
+        "name": "Homs",
+        "country": "Syria"
+      },
+      {
+        "name": "Krak Des Chevaliers",
+        "country": "Syria"
+      },
+      {
+        "name": "Hama",
+        "country": "Syria"
+      },
+      {
+        "name": "Aleppo",
+        "country": "Syria"
+      },
+      {
+        "name": "Apamea",
+        "country": "Syria"
+      },
+      {
+        "name": "Saladin Castle",
+        "country": "Syria"
+      },
+      {
+        "name": "Latakia",
+        "country": "Syria"
+      },
+      {
+        "name": "Ugarit",
+        "country": "Syria"
+      },
+      {
+        "name": "Arwad Island",
+        "country": "Syria"
+      },
+      {
+        "name": "Maaloula",
+        "country": "Syria"
+      },
+      {
+        "name": "Bosra",
+        "country": "Syria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Damascus",
+        "country": "Syria",
+        "lat": 33.51307,
+        "lng": 36.309581
+      },
+      {
+        "name": "Palmyra",
+        "country": "Syria",
+        "lat": 34.556016,
+        "lng": 38.280975
+      },
+      {
+        "name": "Homs",
+        "country": "Syria",
+        "lat": 34.733333,
+        "lng": 36.716667
+      },
+      {
+        "name": "Krak Des Chevaliers",
+        "country": "Syria",
+        "lat": 37.133333,
+        "lng": 42.216667
+      },
+      {
+        "name": "Hama",
+        "country": "Syria",
+        "lat": 35.134337,
+        "lng": 36.749628
+      },
+      {
+        "name": "Aleppo",
+        "country": "Syria",
+        "lat": 36.19924,
+        "lng": 37.163725
+      },
+      {
+        "name": "Apamea",
+        "country": "Syria",
+        "lat": 36.216839,
+        "lng": 37.14439
+      },
+      {
+        "name": "Saladin Castle",
+        "country": "Syria",
+        "lat": 36.216839,
+        "lng": 37.14439
+      },
+      {
+        "name": "Latakia",
+        "country": "Syria",
+        "lat": 35.520019,
+        "lng": 35.778104
+      },
+      {
+        "name": "Ugarit",
+        "country": "Syria",
+        "lat": 35.582941,
+        "lng": 35.744242
+      },
+      {
+        "name": "Arwad Island",
+        "country": "Syria",
+        "lat": 34.856111,
+        "lng": 35.858333
+      },
+      {
+        "name": "Maaloula",
+        "country": "Syria",
+        "lat": 33.844129,
+        "lng": 36.546253
+      },
+      {
+        "name": "Bosra",
+        "country": "Syria",
+        "lat": 32.519138,
+        "lng": 36.480573
+      }
+    ]
   }
 ]

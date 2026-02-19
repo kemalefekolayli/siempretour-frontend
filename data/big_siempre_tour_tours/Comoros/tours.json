@@ -68,7 +68,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Moroni",
+        "country": "Comoros"
+      },
+      {
+        "name": "Grande Comore",
+        "country": "Comoros"
+      },
+      {
+        "name": "Anjouan",
+        "country": "Comoros"
+      },
+      {
+        "name": "Mutsamudu",
+        "country": "Comoros"
+      },
+      {
+        "name": "Mohéli",
+        "country": "Comoros"
+      },
+      {
+        "name": "Mt Karthala",
+        "country": "Comoros"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Moroni",
+        "country": "Comoros",
+        "lat": -11.702447,
+        "lng": 43.245591
+      },
+      {
+        "name": "Grande Comore",
+        "country": "Comoros",
+        "lat": -11.681483,
+        "lng": 43.332835
+      },
+      {
+        "name": "Anjouan",
+        "country": "Comoros",
+        "lat": -12.200861,
+        "lng": 44.370716
+      },
+      {
+        "name": "Mutsamudu",
+        "country": "Comoros",
+        "lat": -12.168846,
+        "lng": 44.394283
+      },
+      {
+        "name": "Mohéli",
+        "country": "Comoros",
+        "lat": -12.284054,
+        "lng": 43.742727
+      }
+    ]
   },
   {
     "destination": "Comoros",
@@ -134,6 +202,64 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Moroni",
+        "country": "Comoros"
+      },
+      {
+        "name": "Grande Comore Island",
+        "country": "Comoros"
+      },
+      {
+        "name": "Moheli Island",
+        "country": "Comoros"
+      },
+      {
+        "name": "Livingstone’s fruit bats",
+        "country": null
+      },
+      {
+        "name": "Anjouan Island",
+        "country": "Comoros"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Moroni",
+        "country": "Comoros",
+        "lat": -11.702447,
+        "lng": 43.245591
+      },
+      {
+        "name": "Grande Comore Island",
+        "country": "Comoros",
+        "lat": -11.681483,
+        "lng": 43.332835
+      },
+      {
+        "name": "Moheli Island",
+        "country": "Comoros",
+        "lat": -12.284054,
+        "lng": 43.742727
+      },
+      {
+        "name": "Anjouan Island",
+        "country": "Comoros",
+        "lat": -12.200861,
+        "lng": 44.370716
+      }
+    ]
   }
 ]

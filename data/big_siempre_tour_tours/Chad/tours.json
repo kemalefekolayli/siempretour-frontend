@@ -63,7 +63,171 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "N’Djamena",
+        "country": "Chad"
+      },
+      {
+        "name": "Abeche",
+        "country": "Chad"
+      },
+      {
+        "name": "Kalait",
+        "country": "Chad"
+      },
+      {
+        "name": "Ennedi Mountains",
+        "country": "Chad"
+      },
+      {
+        "name": "Guelta d’Archei",
+        "country": "Chad"
+      },
+      {
+        "name": "Fada",
+        "country": "Chad"
+      },
+      {
+        "name": "Mourdi Depression",
+        "country": "Chad"
+      },
+      {
+        "name": "Demi",
+        "country": "Chad"
+      },
+      {
+        "name": "Teguedei",
+        "country": "Chad"
+      },
+      {
+        "name": "Ounianga Lakes",
+        "country": "Chad"
+      },
+      {
+        "name": "Ounianga Serir",
+        "country": "Chad"
+      },
+      {
+        "name": "Ounianga Kebir",
+        "country": "Chad"
+      },
+      {
+        "name": "Kora",
+        "country": "Chad"
+      },
+      {
+        "name": "Salal",
+        "country": "Chad"
+      },
+      {
+        "name": "Moussoro",
+        "country": "Chad"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "N’Djamena",
+        "country": "Chad",
+        "lat": 12.119154,
+        "lng": 15.050276
+      },
+      {
+        "name": "Abeche",
+        "country": "Chad",
+        "lat": 13.836871,
+        "lng": 20.835439
+      },
+      {
+        "name": "Kalait",
+        "country": "Chad",
+        "lat": 15.84043,
+        "lng": 20.896116
+      },
+      {
+        "name": "Ennedi Mountains",
+        "country": "Chad",
+        "lat": 13.441772,
+        "lng": 16.050861
+      },
+      {
+        "name": "Guelta d’Archei",
+        "country": "Chad",
+        "lat": 16.904223,
+        "lng": 21.7738
+      },
+      {
+        "name": "Fada",
+        "country": "Chad",
+        "lat": 17.193058,
+        "lng": 21.581326
+      },
+      {
+        "name": "Mourdi Depression",
+        "country": "Chad",
+        "lat": 9.020617,
+        "lng": 19.079917
+      },
+      {
+        "name": "Demi",
+        "country": "Chad",
+        "lat": 18.76118,
+        "lng": 21.673064
+      },
+      {
+        "name": "Teguedei",
+        "country": "Chad",
+        "lat": 18.856547,
+        "lng": 21.382573
+      },
+      {
+        "name": "Ounianga Lakes",
+        "country": "Chad",
+        "lat": 13.441772,
+        "lng": 16.050861
+      },
+      {
+        "name": "Ounianga Serir",
+        "country": "Chad",
+        "lat": 18.910868,
+        "lng": 20.879845
+      },
+      {
+        "name": "Ounianga Kebir",
+        "country": "Chad",
+        "lat": 13.441772,
+        "lng": 16.050861
+      },
+      {
+        "name": "Kora",
+        "country": "Chad",
+        "lat": 14.488481,
+        "lng": 21.600426
+      },
+      {
+        "name": "Salal",
+        "country": "Chad",
+        "lat": 14.846512,
+        "lng": 17.218642
+      },
+      {
+        "name": "Moussoro",
+        "country": "Chad",
+        "lat": 8.452719,
+        "lng": 18.256936
+      }
+    ]
   },
   {
     "destination": "Chad",
@@ -144,7 +308,191 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "N'Djamena",
+        "country": "Chad"
+      },
+      {
+        "name": "Abeche",
+        "country": "Chad"
+      },
+      {
+        "name": "Kalait",
+        "country": "Chad"
+      },
+      {
+        "name": "Bichagara",
+        "country": "Chad"
+      },
+      {
+        "name": "Borkou",
+        "country": "Chad"
+      },
+      {
+        "name": "Emi Koussi",
+        "country": "Chad"
+      },
+      {
+        "name": "Birni Erde",
+        "country": "Chad"
+      },
+      {
+        "name": "Yebbi Bou",
+        "country": "Chad"
+      },
+      {
+        "name": "Zoumri",
+        "country": "Chad"
+      },
+      {
+        "name": "Bardai",
+        "country": "Chad"
+      },
+      {
+        "name": "Trou au Natron",
+        "country": "Chad"
+      },
+      {
+        "name": "Zouar",
+        "country": "Chad"
+      },
+      {
+        "name": "Marmar",
+        "country": "Chad"
+      },
+      {
+        "name": "Faya",
+        "country": "Chad"
+      },
+      {
+        "name": "Salal",
+        "country": "Chad"
+      },
+      {
+        "name": "Moussoro",
+        "country": "Chad"
+      },
+      {
+        "name": "N'Djamena",
+        "country": "Chad"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "N'Djamena",
+        "country": "Chad",
+        "lat": 12.119154,
+        "lng": 15.050276
+      },
+      {
+        "name": "Abeche",
+        "country": "Chad",
+        "lat": 13.836871,
+        "lng": 20.835439
+      },
+      {
+        "name": "Kalait",
+        "country": "Chad",
+        "lat": 15.84043,
+        "lng": 20.896116
+      },
+      {
+        "name": "Bichagara",
+        "country": "Chad",
+        "lat": 17.375501,
+        "lng": 21.142476
+      },
+      {
+        "name": "Borkou",
+        "country": "Chad",
+        "lat": 17.920932,
+        "lng": 19.09532
+      },
+      {
+        "name": "Emi Koussi",
+        "country": "Chad",
+        "lat": 13.55175,
+        "lng": 16.6145
+      },
+      {
+        "name": "Birni Erde",
+        "country": "Chad",
+        "lat": 13.441772,
+        "lng": 16.050861
+      },
+      {
+        "name": "Yebbi Bou",
+        "country": "Chad",
+        "lat": 20.927668,
+        "lng": 18.094191
+      },
+      {
+        "name": "Zoumri",
+        "country": "Chad",
+        "lat": 9.456184,
+        "lng": 14.770668
+      },
+      {
+        "name": "Bardai",
+        "country": "Chad",
+        "lat": 21.354951,
+        "lng": 17.000505
+      },
+      {
+        "name": "Trou au Natron",
+        "country": "Chad",
+        "lat": 20.97134,
+        "lng": 16.567163
+      },
+      {
+        "name": "Zouar",
+        "country": "Chad",
+        "lat": 20.454734,
+        "lng": 16.53365
+      },
+      {
+        "name": "Marmar",
+        "country": "Chad",
+        "lat": 20.033606,
+        "lng": 16.277972
+      },
+      {
+        "name": "Faya",
+        "country": "Chad",
+        "lat": 8.6524,
+        "lng": 18.337283
+      },
+      {
+        "name": "Salal",
+        "country": "Chad",
+        "lat": 14.846512,
+        "lng": 17.218642
+      },
+      {
+        "name": "Moussoro",
+        "country": "Chad",
+        "lat": 8.452719,
+        "lng": 18.256936
+      },
+      {
+        "name": "N'Djamena",
+        "country": "Chad",
+        "lat": 12.119154,
+        "lng": 15.050276
+      }
+    ]
   },
   {
     "destination": "Chad",
@@ -175,7 +523,51 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "N'Djamena",
+        "country": "Chad"
+      },
+      {
+        "name": "Zakouma National Park",
+        "country": "Chad"
+      },
+      {
+        "name": "Guera",
+        "country": "Chad"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "N'Djamena",
+        "country": "Chad",
+        "lat": 12.119154,
+        "lng": 15.050276
+      },
+      {
+        "name": "Zakouma National Park",
+        "country": "Chad",
+        "lat": 10.891737,
+        "lng": 19.820382
+      },
+      {
+        "name": "Guera",
+        "country": "Chad",
+        "lat": 12.184256,
+        "lng": 18.684209
+      }
+    ]
   },
   {
     "destination": "Chad",
@@ -221,7 +613,45 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "N’Djamena",
+        "country": "Chad"
+      },
+      {
+        "name": "Durbali",
+        "country": "Chad"
+      },
+      {
+        "name": "Sahel",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "N’Djamena",
+        "country": "Chad",
+        "lat": 12.119154,
+        "lng": 15.050276
+      },
+      {
+        "name": "Durbali",
+        "country": "Chad",
+        "lat": 8.341061,
+        "lng": 17.789992
+      }
+    ]
   },
   {
     "destination": "Chad",
@@ -277,6 +707,120 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "N'Djamena",
+        "country": "Chad"
+      },
+      {
+        "name": "Durbali",
+        "country": "Chad"
+      },
+      {
+        "name": "Abeche",
+        "country": "Chad"
+      },
+      {
+        "name": "Kalait",
+        "country": "Chad"
+      },
+      {
+        "name": "Ennedi Mountains",
+        "country": "Chad"
+      },
+      {
+        "name": "Guelta d’Archei",
+        "country": "Chad"
+      },
+      {
+        "name": "Mourdi Depression",
+        "country": "Chad"
+      },
+      {
+        "name": "Fada",
+        "country": "Chad"
+      },
+      {
+        "name": "Teguedei salt lake",
+        "country": "Chad"
+      },
+      {
+        "name": "Ounianga Lakes",
+        "country": "Chad"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "N'Djamena",
+        "country": "Chad",
+        "lat": 12.119154,
+        "lng": 15.050276
+      },
+      {
+        "name": "Durbali",
+        "country": "Chad",
+        "lat": 8.341061,
+        "lng": 17.789992
+      },
+      {
+        "name": "Abeche",
+        "country": "Chad",
+        "lat": 13.836871,
+        "lng": 20.835439
+      },
+      {
+        "name": "Kalait",
+        "country": "Chad",
+        "lat": 15.84043,
+        "lng": 20.896116
+      },
+      {
+        "name": "Ennedi Mountains",
+        "country": "Chad",
+        "lat": 13.441772,
+        "lng": 16.050861
+      },
+      {
+        "name": "Guelta d’Archei",
+        "country": "Chad",
+        "lat": 16.904223,
+        "lng": 21.7738
+      },
+      {
+        "name": "Mourdi Depression",
+        "country": "Chad",
+        "lat": 9.020617,
+        "lng": 19.079917
+      },
+      {
+        "name": "Fada",
+        "country": "Chad",
+        "lat": 17.193058,
+        "lng": 21.581326
+      },
+      {
+        "name": "Teguedei salt lake",
+        "country": "Chad",
+        "lat": 18.856547,
+        "lng": 21.382573
+      },
+      {
+        "name": "Ounianga Lakes",
+        "country": "Chad",
+        "lat": 13.441772,
+        "lng": 16.050861
+      }
+    ]
   }
 ]

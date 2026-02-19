@@ -88,7 +88,45 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Skukuza",
+        "country": "South Africa"
+      },
+      {
+        "name": "Mauritius",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      },
+      {
+        "name": "Skukuza",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      }
+    ]
   },
   {
     "destination": "Mauritius",
@@ -139,7 +177,85 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Greater Kruger",
+        "country": "South Africa"
+      },
+      {
+        "name": "Makalali Conservancy",
+        "country": "South Africa"
+      },
+      {
+        "name": "Le Morne Brabant",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Black River Gorges National Park",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Port Louis",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Mauritius",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      },
+      {
+        "name": "Greater Kruger",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Makalali Conservancy",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Le Morne Brabant",
+        "country": "Mauritius",
+        "lat": -20.444776,
+        "lng": 57.328796
+      },
+      {
+        "name": "Black River Gorges National Park",
+        "country": "Mauritius",
+        "lat": -20.326472,
+        "lng": 57.415835
+      },
+      {
+        "name": "Port Louis",
+        "country": "Mauritius",
+        "lat": -20.162452,
+        "lng": 57.502804
+      }
+    ]
   },
   {
     "destination": "Mauritius",
@@ -205,7 +321,73 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Tamarin Falls",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Le Morne Brabant",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Chamarel",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Le Pouce",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Amber Island",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Black River Gorges National Park",
+        "country": "Mauritius"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tamarin Falls",
+        "country": "Mauritius",
+        "lat": -20.279105,
+        "lng": 57.385941
+      },
+      {
+        "name": "Le Morne Brabant",
+        "country": "Mauritius",
+        "lat": -20.444776,
+        "lng": 57.328796
+      },
+      {
+        "name": "Chamarel",
+        "country": "Mauritius",
+        "lat": -20.42599,
+        "lng": 57.389487
+      },
+      {
+        "name": "Black River Gorges National Park",
+        "country": "Mauritius",
+        "lat": -20.326472,
+        "lng": 57.415835
+      }
+    ]
   },
   {
     "destination": "Mauritius",
@@ -306,7 +488,149 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Reunion Island",
+        "country": "France"
+      },
+      {
+        "name": "Saint-Gilles",
+        "country": "France"
+      },
+      {
+        "name": "Fleurs Jaunes",
+        "country": "France"
+      },
+      {
+        "name": "Grand-Bassin",
+        "country": "France"
+      },
+      {
+        "name": "Bois Court",
+        "country": "France"
+      },
+      {
+        "name": "Forest of Bébourg",
+        "country": "France"
+      },
+      {
+        "name": "Piton de la Fournaise",
+        "country": "France"
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Pointe d'Esny",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Ile Aux Aigrettes",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Chamarel",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Bel Ombre",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Riviere des Galets",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Le Morne",
+        "country": "Mauritius"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Reunion Island",
+        "country": "France",
+        "lat": 47.47098,
+        "lng": 3.846973
+      },
+      {
+        "name": "Saint-Gilles",
+        "country": "France",
+        "lat": 43.674366,
+        "lng": 4.432203
+      },
+      {
+        "name": "Fleurs Jaunes",
+        "country": "France",
+        "lat": 48.748775,
+        "lng": -0.5687
+      },
+      {
+        "name": "Grand-Bassin",
+        "country": "France",
+        "lat": 48.3848,
+        "lng": 5.486544
+      },
+      {
+        "name": "Bois Court",
+        "country": "France",
+        "lat": 45.488197,
+        "lng": -0.599171
+      },
+      {
+        "name": "Forest of Bébourg",
+        "country": "France",
+        "lat": 50.34332,
+        "lng": 3.644284
+      },
+      {
+        "name": "Piton de la Fournaise",
+        "country": "France",
+        "lat": 47.075123,
+        "lng": 1.512087
+      },
+      {
+        "name": "Pointe d'Esny",
+        "country": "Mauritius",
+        "lat": -20.431328,
+        "lng": 57.726946
+      },
+      {
+        "name": "Chamarel",
+        "country": "Mauritius",
+        "lat": -20.42599,
+        "lng": 57.389487
+      },
+      {
+        "name": "Bel Ombre",
+        "country": "Mauritius",
+        "lat": -20.502836,
+        "lng": 57.400884
+      },
+      {
+        "name": "Riviere des Galets",
+        "country": "Mauritius",
+        "lat": -20.505423,
+        "lng": 57.456572
+      },
+      {
+        "name": "Le Morne",
+        "country": "Mauritius",
+        "lat": -20.444776,
+        "lng": 57.328796
+      }
+    ]
   },
   {
     "destination": "Mauritius",
@@ -397,7 +721,143 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Le Morne",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Chamarel",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Black River Gorges",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Deux Bras",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Tamarin Falls",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Le Morne Brabant",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Pamplemousses",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Port-Louis",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Amber Island",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Rodrigues",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Mount Limon",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Riviere Banane",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Pointe Cotton",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Riviere Coco",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Ile aux Chats",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Ile l'Hermitage",
+        "country": "Mauritius"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Le Morne",
+        "country": "Mauritius",
+        "lat": -20.444776,
+        "lng": 57.328796
+      },
+      {
+        "name": "Chamarel",
+        "country": "Mauritius",
+        "lat": -20.42599,
+        "lng": 57.389487
+      },
+      {
+        "name": "Black River Gorges",
+        "country": "Mauritius",
+        "lat": -20.326472,
+        "lng": 57.415835
+      },
+      {
+        "name": "Tamarin Falls",
+        "country": "Mauritius",
+        "lat": -20.279105,
+        "lng": 57.385941
+      },
+      {
+        "name": "Le Morne Brabant",
+        "country": "Mauritius",
+        "lat": -20.444776,
+        "lng": 57.328796
+      },
+      {
+        "name": "Pamplemousses",
+        "country": "Mauritius",
+        "lat": -20.11072,
+        "lng": 57.576494
+      },
+      {
+        "name": "Port-Louis",
+        "country": "Mauritius",
+        "lat": -20.162452,
+        "lng": 57.502804
+      },
+      {
+        "name": "Rodrigues",
+        "country": "Mauritius",
+        "lat": -19.700247,
+        "lng": 63.404133
+      },
+      {
+        "name": "Ile l'Hermitage",
+        "country": "Mauritius",
+        "lat": -20.277064,
+        "lng": 57.5325
+      }
+    ]
   },
   {
     "destination": "Mauritius",
@@ -478,7 +938,61 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Wolmar Nature Reserve",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Ebony Forest Reserve",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Ile aux Cerfs",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Grand South East River",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Port-Louis",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Amber Island",
+        "country": "Mauritius"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Grand South East River",
+        "country": "Mauritius",
+        "lat": -20.290725,
+        "lng": 57.785193
+      },
+      {
+        "name": "Port-Louis",
+        "country": "Mauritius",
+        "lat": -20.162452,
+        "lng": 57.502804
+      }
+    ]
   },
   {
     "destination": "Mauritius",
@@ -574,7 +1088,103 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Ile Aux Aigrettes",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Chamarel",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Black River Gorges National Park",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Pamplemousses Botanical Garden",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Pereybere",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Poudre d'Or",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Ile aux Cerfs",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Grand South East River",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Mahébourg",
+        "country": "Mauritius"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Chamarel",
+        "country": "Mauritius",
+        "lat": -20.42599,
+        "lng": 57.389487
+      },
+      {
+        "name": "Black River Gorges National Park",
+        "country": "Mauritius",
+        "lat": -20.326472,
+        "lng": 57.415835
+      },
+      {
+        "name": "Pamplemousses Botanical Garden",
+        "country": "Mauritius",
+        "lat": -20.11072,
+        "lng": 57.576494
+      },
+      {
+        "name": "Pereybere",
+        "country": "Mauritius",
+        "lat": -19.994968,
+        "lng": 57.591091
+      },
+      {
+        "name": "Poudre d'Or",
+        "country": "Mauritius",
+        "lat": -20.061799,
+        "lng": 57.683813
+      },
+      {
+        "name": "Grand South East River",
+        "country": "Mauritius",
+        "lat": -20.290725,
+        "lng": 57.785193
+      },
+      {
+        "name": "Mahébourg",
+        "country": "Mauritius",
+        "lat": -20.411487,
+        "lng": 57.707765
+      }
+    ]
   },
   {
     "destination": "Mauritius",
@@ -660,7 +1270,149 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Palmar",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Flacq",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Grand River South East",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Cap Malheureux",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Port Louis",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Ilot Gabriel",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Chamarel",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Pamplemousses",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Curepipe",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Grand Bassin",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Plaine Champagne",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Black River Gorges",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Le Morne",
+        "country": "Mauritius"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Palmar",
+        "country": "Mauritius",
+        "lat": -20.220089,
+        "lng": 57.775517
+      },
+      {
+        "name": "Flacq",
+        "country": "Mauritius",
+        "lat": -20.202733,
+        "lng": 57.782064
+      },
+      {
+        "name": "Grand River South East",
+        "country": "Mauritius",
+        "lat": -20.290725,
+        "lng": 57.785193
+      },
+      {
+        "name": "Cap Malheureux",
+        "country": "Mauritius",
+        "lat": -19.985995,
+        "lng": 57.619612
+      },
+      {
+        "name": "Port Louis",
+        "country": "Mauritius",
+        "lat": -20.162452,
+        "lng": 57.502804
+      },
+      {
+        "name": "Ilot Gabriel",
+        "country": "Mauritius",
+        "lat": -20.130495,
+        "lng": 57.579177
+      },
+      {
+        "name": "Chamarel",
+        "country": "Mauritius",
+        "lat": -20.42599,
+        "lng": 57.389487
+      },
+      {
+        "name": "Pamplemousses",
+        "country": "Mauritius",
+        "lat": -20.11072,
+        "lng": 57.576494
+      },
+      {
+        "name": "Curepipe",
+        "country": "Mauritius",
+        "lat": -20.315051,
+        "lng": 57.52115
+      },
+      {
+        "name": "Grand Bassin",
+        "country": "Mauritius",
+        "lat": -20.295677,
+        "lng": 57.456074
+      },
+      {
+        "name": "Black River Gorges",
+        "country": "Mauritius",
+        "lat": -20.326472,
+        "lng": 57.415835
+      },
+      {
+        "name": "Le Morne",
+        "country": "Mauritius",
+        "lat": -20.444776,
+        "lng": 57.328796
+      }
+    ]
   },
   {
     "destination": "Mauritius",
@@ -736,7 +1488,93 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rodrigues",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Port Mathurin",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Francois Leguat Nature Reserve",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Chamarel",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Trou aux Cerfs",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Black River Gorges",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Chamarel Nature Reserve",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Port Louis",
+        "country": "Mauritius"
+      },
+      {
+        "name": "Grand Baie",
+        "country": "Mauritius"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rodrigues",
+        "country": "Mauritius",
+        "lat": -19.700247,
+        "lng": 63.404133
+      },
+      {
+        "name": "Chamarel",
+        "country": "Mauritius",
+        "lat": -20.42599,
+        "lng": 57.389487
+      },
+      {
+        "name": "Black River Gorges",
+        "country": "Mauritius",
+        "lat": -20.326472,
+        "lng": 57.415835
+      },
+      {
+        "name": "Chamarel Nature Reserve",
+        "country": "Mauritius",
+        "lat": -20.42599,
+        "lng": 57.389487
+      },
+      {
+        "name": "Port Louis",
+        "country": "Mauritius",
+        "lat": -20.162452,
+        "lng": 57.502804
+      },
+      {
+        "name": "Grand Baie",
+        "country": "Mauritius",
+        "lat": -20.01302,
+        "lng": 57.584627
+      }
+    ]
   },
   {
     "destination": "Mauritius",
@@ -822,7 +1660,55 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Sabi Sand Wildtuin",
+        "country": "South Africa"
+      },
+      {
+        "name": "Mauritius",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa",
+        "lat": -24.995052,
+        "lng": 31.592167
+      },
+      {
+        "name": "Sabi Sand Wildtuin",
+        "country": "South Africa",
+        "lat": -25.09813,
+        "lng": 30.779184
+      }
+    ]
   },
   {
     "destination": "Mauritius",
@@ -858,7 +1744,75 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Table Mountain",
+        "country": "South Africa"
+      },
+      {
+        "name": "Winelands",
+        "country": "South Africa"
+      },
+      {
+        "name": "Franschhoek",
+        "country": "South Africa"
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Table Mountain",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Winelands",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Franschhoek",
+        "country": "South Africa",
+        "lat": -33.91183,
+        "lng": 19.12048
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa",
+        "lat": -24.995052,
+        "lng": 31.592167
+      }
+    ]
   },
   {
     "destination": "Mauritius",
@@ -894,6 +1848,34 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa",
+        "lat": -24.995052,
+        "lng": 31.592167
+      }
+    ]
   }
 ]

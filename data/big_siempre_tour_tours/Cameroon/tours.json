@@ -63,7 +63,95 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Pygmy village",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Pongo Songo chimpanzee sanctuary",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Edea",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Douala",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon"
+      },
+      {
+        "name": "Port Gentil",
+        "country": "Gabon"
+      },
+      {
+        "name": "Loango National Park",
+        "country": "Gabon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Pongo Songo chimpanzee sanctuary",
+        "country": "Cameroon",
+        "lat": 3.609946,
+        "lng": 9.906232
+      },
+      {
+        "name": "Edea",
+        "country": "Cameroon",
+        "lat": 3.799013,
+        "lng": 10.126557
+      },
+      {
+        "name": "Douala",
+        "country": "Cameroon",
+        "lat": 4.0424,
+        "lng": 9.707925
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon",
+        "lat": 0.400015,
+        "lng": 9.456696
+      },
+      {
+        "name": "Port Gentil",
+        "country": "Gabon",
+        "lat": -0.704394,
+        "lng": 8.775819
+      },
+      {
+        "name": "Loango National Park",
+        "country": "Gabon",
+        "lat": -2.668959,
+        "lng": 10.818955
+      }
+    ]
   },
   {
     "destination": "Cameroon",
@@ -139,7 +227,139 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Douala",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Ekom Falls",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Melong",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Bandjoun",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Bappit",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Koutaba",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Foumban",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Yaoundé",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Ngaoundere",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Poli",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Alantika Mountains",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Mbe",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Okan",
+        "country": "Cameroon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Douala",
+        "country": "Cameroon",
+        "lat": 4.0424,
+        "lng": 9.707925
+      },
+      {
+        "name": "Ekom Falls",
+        "country": "Cameroon",
+        "lat": 3.14298,
+        "lng": 13.623519
+      },
+      {
+        "name": "Melong",
+        "country": "Cameroon",
+        "lat": 5.121582,
+        "lng": 9.949155
+      },
+      {
+        "name": "Bandjoun",
+        "country": "Cameroon",
+        "lat": 5.374857,
+        "lng": 10.412155
+      },
+      {
+        "name": "Koutaba",
+        "country": "Cameroon",
+        "lat": 5.651146,
+        "lng": 10.760917
+      },
+      {
+        "name": "Foumban",
+        "country": "Cameroon",
+        "lat": 5.723688,
+        "lng": 10.897818
+      },
+      {
+        "name": "Yaoundé",
+        "country": "Cameroon",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Ngaoundere",
+        "country": "Cameroon",
+        "lat": 7.32501,
+        "lng": 13.583527
+      },
+      {
+        "name": "Poli",
+        "country": "Cameroon",
+        "lat": 8.476075,
+        "lng": 13.240933
+      },
+      {
+        "name": "Mbe",
+        "country": "Cameroon",
+        "lat": 9.3183,
+        "lng": 13.672309
+      },
+      {
+        "name": "Okan",
+        "country": "Cameroon",
+        "lat": 5.155037,
+        "lng": 13.526438
+      }
+    ]
   },
   {
     "destination": "Cameroon",
@@ -225,7 +445,153 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Douala",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Ekom Waterfalls",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Baham",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Foumban",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Mectchie Waterfall",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Bafoussam",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Bamenda",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Bafut",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Okpwa Village",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Fon’s palace Babungo",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Foumban",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Yaoundé",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Dja Reserve",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Ba’Aka village of Matisson",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Kribi",
+        "country": "Cameroon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Douala",
+        "country": "Cameroon",
+        "lat": 4.0424,
+        "lng": 9.707925
+      },
+      {
+        "name": "Ekom Waterfalls",
+        "country": "Cameroon",
+        "lat": 3.14298,
+        "lng": 13.623519
+      },
+      {
+        "name": "Baham",
+        "country": "Cameroon",
+        "lat": 5.334612,
+        "lng": 10.368438
+      },
+      {
+        "name": "Foumban",
+        "country": "Cameroon",
+        "lat": 5.723688,
+        "lng": 10.897818
+      },
+      {
+        "name": "Bafoussam",
+        "country": "Cameroon",
+        "lat": 5.475808,
+        "lng": 10.421556
+      },
+      {
+        "name": "Bamenda",
+        "country": "Cameroon",
+        "lat": 5.963662,
+        "lng": 10.155619
+      },
+      {
+        "name": "Bafut",
+        "country": "Cameroon",
+        "lat": 6.090717,
+        "lng": 10.113954
+      },
+      {
+        "name": "Okpwa Village",
+        "country": "Cameroon",
+        "lat": 3.324961,
+        "lng": 10.513661
+      },
+      {
+        "name": "Fon’s palace Babungo",
+        "country": "Cameroon",
+        "lat": 6.067073,
+        "lng": 10.445864
+      },
+      {
+        "name": "Foumban",
+        "country": "Cameroon",
+        "lat": 5.723688,
+        "lng": 10.897818
+      },
+      {
+        "name": "Yaoundé",
+        "country": "Cameroon",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Kribi",
+        "country": "Cameroon",
+        "lat": 2.94341,
+        "lng": 9.912699
+      }
+    ]
   },
   {
     "destination": "Cameroon",
@@ -291,7 +657,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Yokadouma",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Dzanga-Sangha Reserve",
+        "country": "Central African Republic"
+      },
+      {
+        "name": "Dzanga Bai",
+        "country": "Central African Republic"
+      },
+      {
+        "name": "Ba’aka village",
+        "country": "Central African Republic"
+      },
+      {
+        "name": "Bertoua",
+        "country": "Cameroon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Yokadouma",
+        "country": "Cameroon",
+        "lat": 3.516912,
+        "lng": 15.052066
+      },
+      {
+        "name": "Dzanga-Sangha Reserve",
+        "country": "Central African Republic",
+        "lat": 5.21309,
+        "lng": 25.224701
+      },
+      {
+        "name": "Dzanga Bai",
+        "country": "Central African Republic",
+        "lat": 6.775785,
+        "lng": 16.129504
+      },
+      {
+        "name": "Ba’aka village",
+        "country": "Central African Republic",
+        "lat": 4.272608,
+        "lng": 16.370809
+      },
+      {
+        "name": "Bertoua",
+        "country": "Cameroon",
+        "lat": 4.577726,
+        "lng": 13.684441
+      }
+    ]
   },
   {
     "destination": "Cameroon",
@@ -337,6 +777,50 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Dzanga Bai",
+        "country": "Central African Republic"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Dzanga Bai",
+        "country": "Central African Republic",
+        "lat": 6.775785,
+        "lng": 16.129504
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon",
+        "lat": 3.864768,
+        "lng": 11.520526
+      }
+    ]
   }
 ]

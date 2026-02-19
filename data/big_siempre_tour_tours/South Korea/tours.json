@@ -48,7 +48,145 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gongju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Buyeo",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jeonju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gwangju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Suncheon",
+        "country": "South Korea"
+      },
+      {
+        "name": "Yeosu",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jinju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Pyeongchang",
+        "country": "South Korea"
+      },
+      {
+        "name": "Wonju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Mt. Seorak National Park",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Gongju",
+        "country": "South Korea",
+        "lat": 36.47287,
+        "lng": 127.08752
+      },
+      {
+        "name": "Buyeo",
+        "country": "South Korea",
+        "lat": 36.280674,
+        "lng": 126.91045
+      },
+      {
+        "name": "Jeonju",
+        "country": "South Korea",
+        "lat": 35.82238,
+        "lng": 127.147804
+      },
+      {
+        "name": "Gwangju",
+        "country": "South Korea",
+        "lat": 35.159465,
+        "lng": 126.851503
+      },
+      {
+        "name": "Suncheon",
+        "country": "South Korea",
+        "lat": 34.95103,
+        "lng": 127.48604
+      },
+      {
+        "name": "Yeosu",
+        "country": "South Korea",
+        "lat": 34.76,
+        "lng": 127.66625
+      },
+      {
+        "name": "Jinju",
+        "country": "South Korea",
+        "lat": 35.17953,
+        "lng": 128.10706
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      },
+      {
+        "name": "Pyeongchang",
+        "country": "South Korea",
+        "lat": 37.366093,
+        "lng": 128.39484
+      },
+      {
+        "name": "Wonju",
+        "country": "South Korea",
+        "lat": 37.34118,
+        "lng": 127.92112
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -134,7 +272,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Demilitarized Zone (DMZ)",
+        "country": "South Korea"
+      },
+      {
+        "name": "Andong",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Namsan Mountain",
+        "country": "South Korea"
+      },
+      {
+        "name": "Seokguram Grotto",
+        "country": "South Korea"
+      },
+      {
+        "name": "Bulguksa Temple",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gwangju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Mudeungsan National Park",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jeonju",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Andong",
+        "country": "South Korea",
+        "lat": 36.565434,
+        "lng": 128.72649
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      },
+      {
+        "name": "Gwangju",
+        "country": "South Korea",
+        "lat": 35.159465,
+        "lng": 126.851503
+      },
+      {
+        "name": "Jeonju",
+        "country": "South Korea",
+        "lat": 35.82238,
+        "lng": 127.147804
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -205,7 +437,51 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gwangju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Gwangju",
+        "country": "South Korea",
+        "lat": 35.159465,
+        "lng": 126.851503
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -281,7 +557,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jeju",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      },
+      {
+        "name": "Jeju",
+        "country": "South Korea",
+        "lat": 33.50286,
+        "lng": 126.52755
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -332,7 +662,51 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Namsan Mountain",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongbokgung Palace",
+        "country": "South Korea"
+      },
+      {
+        "name": "Demilitarized Zone",
+        "country": "South Korea"
+      },
+      {
+        "name": "Dora Observatory",
+        "country": "South Korea"
+      },
+      {
+        "name": "Geumsunsa Temple",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -393,7 +767,117 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Yongin",
+        "country": "South Korea"
+      },
+      {
+        "name": "Suwon",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Haedong Yonggungsa Temple",
+        "country": "South Korea"
+      },
+      {
+        "name": "Haeundae Beach",
+        "country": "South Korea"
+      },
+      {
+        "name": "Bulguksa Temple",
+        "country": "South Korea"
+      },
+      {
+        "name": "Seokguram Grotto",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gamcheon Culture Village",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jagalchi Fish Market",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gukje Market",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Yongin",
+        "country": "South Korea",
+        "lat": 37.240166,
+        "lng": 127.179825
+      },
+      {
+        "name": "Suwon",
+        "country": "South Korea",
+        "lat": 37.26491,
+        "lng": 127.028366
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      },
+      {
+        "name": "Haedong Yonggungsa Temple",
+        "country": "South Korea",
+        "lat": 35.07072,
+        "lng": 127.748055
+      },
+      {
+        "name": "Haeundae Beach",
+        "country": "South Korea",
+        "lat": 35.162243,
+        "lng": 129.16519
+      },
+      {
+        "name": "Gamcheon Culture Village",
+        "country": "South Korea",
+        "lat": 36.13946,
+        "lng": 128.11464
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -479,7 +963,93 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Panmunjom",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gangneung",
+        "country": "South Korea"
+      },
+      {
+        "name": "Sokcho",
+        "country": "South Korea"
+      },
+      {
+        "name": "Seoraksan National Park",
+        "country": "South Korea"
+      },
+      {
+        "name": "Andong",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Haeinsa Temple",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Gangneung",
+        "country": "South Korea",
+        "lat": 37.754814,
+        "lng": 128.87639
+      },
+      {
+        "name": "Sokcho",
+        "country": "South Korea",
+        "lat": 38.20137,
+        "lng": 128.5836
+      },
+      {
+        "name": "Andong",
+        "country": "South Korea",
+        "lat": 36.565434,
+        "lng": 128.72649
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -550,7 +1120,65 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jeonju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Golgulsa",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Jeonju",
+        "country": "South Korea",
+        "lat": 35.82238,
+        "lng": 127.147804
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -631,7 +1259,151 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Korean Folk Village",
+        "country": "South Korea"
+      },
+      {
+        "name": "Songnisan National Park",
+        "country": "South Korea"
+      },
+      {
+        "name": "Beopjusa Temple",
+        "country": "South Korea"
+      },
+      {
+        "name": "Daegu",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Bulguksa Temple",
+        "country": "South Korea"
+      },
+      {
+        "name": "Seokguram Grotto",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Mt Gayasan National Park",
+        "country": "South Korea"
+      },
+      {
+        "name": "Haeinsa Temple",
+        "country": "South Korea"
+      },
+      {
+        "name": "Andong",
+        "country": "South Korea"
+      },
+      {
+        "name": "Hahoe Village",
+        "country": "South Korea"
+      },
+      {
+        "name": "Chungju Lake",
+        "country": "South Korea"
+      },
+      {
+        "name": "Woljeongsa Temple",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gangneung",
+        "country": "South Korea"
+      },
+      {
+        "name": "Mt. Seorak National Park",
+        "country": "South Korea"
+      },
+      {
+        "name": "Yanggu",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gapyeong",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Daegu",
+        "country": "South Korea",
+        "lat": 35.8713,
+        "lng": 128.6018
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      },
+      {
+        "name": "Andong",
+        "country": "South Korea",
+        "lat": 36.565434,
+        "lng": 128.72649
+      },
+      {
+        "name": "Chungju Lake",
+        "country": "South Korea",
+        "lat": 36.990597,
+        "lng": 127.92695
+      },
+      {
+        "name": "Gangneung",
+        "country": "South Korea",
+        "lat": 37.754814,
+        "lng": 128.87639
+      },
+      {
+        "name": "Yanggu",
+        "country": "South Korea",
+        "lat": 38.106575,
+        "lng": 127.987076
+      },
+      {
+        "name": "Gapyeong",
+        "country": "South Korea",
+        "lat": 37.830948,
+        "lng": 127.5132
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -712,7 +1484,89 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jeju Island",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Daegu",
+        "country": "South Korea"
+      },
+      {
+        "name": "Pyeongchang",
+        "country": "South Korea"
+      },
+      {
+        "name": "Seoraksan National Park",
+        "country": "South Korea"
+      },
+      {
+        "name": "DMZ",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Jeju Island",
+        "country": "South Korea",
+        "lat": 33.50286,
+        "lng": 126.52755
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      },
+      {
+        "name": "Daegu",
+        "country": "South Korea",
+        "lat": 35.8713,
+        "lng": 128.6018
+      },
+      {
+        "name": "Pyeongchang",
+        "country": "South Korea",
+        "lat": 37.366093,
+        "lng": 128.39484
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -778,7 +1632,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Suwon",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jeonju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Suwon",
+        "country": "South Korea",
+        "lat": 37.26491,
+        "lng": 127.028366
+      },
+      {
+        "name": "Jeonju",
+        "country": "South Korea",
+        "lat": 35.82238,
+        "lng": 127.147804
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -864,7 +1772,97 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Geumsunsa Temple",
+        "country": "South Korea"
+      },
+      {
+        "name": "Sokcho",
+        "country": "South Korea"
+      },
+      {
+        "name": "Seoraksan National Park",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jeju Island",
+        "country": "South Korea"
+      },
+      {
+        "name": "Oedolgae Rock",
+        "country": "South Korea"
+      },
+      {
+        "name": "Seongsan Ilchulbong",
+        "country": "South Korea"
+      },
+      {
+        "name": "Daepo Jusangjeolli Cliffs",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Sokcho",
+        "country": "South Korea",
+        "lat": 38.20137,
+        "lng": 128.5836
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      },
+      {
+        "name": "Jeju Island",
+        "country": "South Korea",
+        "lat": 33.50286,
+        "lng": 126.52755
+      },
+      {
+        "name": "Seongsan Ilchulbong",
+        "country": "South Korea",
+        "lat": 35.199375,
+        "lng": 128.70218
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -935,7 +1933,73 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Demilitarised Zone",
+        "country": "South Korea"
+      },
+      {
+        "name": "Sokcho",
+        "country": "South Korea"
+      },
+      {
+        "name": "Seoraksan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Andong Hahoe Folk Village",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Ikidae",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Sokcho",
+        "country": "South Korea",
+        "lat": 38.20137,
+        "lng": 128.5836
+      },
+      {
+        "name": "Andong Hahoe Folk Village",
+        "country": "South Korea",
+        "lat": 36.565434,
+        "lng": 128.72649
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -1026,7 +2090,109 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Andong",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gayasan National Park",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju National Park",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jeonju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Mudeungsan National Park",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jeonju Hanok Village",
+        "country": "South Korea"
+      },
+      {
+        "name": "Hwaseong Fortress",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Andong",
+        "country": "South Korea",
+        "lat": 36.565434,
+        "lng": 128.72649
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      },
+      {
+        "name": "Gyeongju National Park",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      },
+      {
+        "name": "Jeonju",
+        "country": "South Korea",
+        "lat": 35.82238,
+        "lng": 127.147804
+      },
+      {
+        "name": "Jeonju Hanok Village",
+        "country": "South Korea",
+        "lat": 35.82238,
+        "lng": 127.147804
+      },
+      {
+        "name": "Hwaseong Fortress",
+        "country": "South Korea",
+        "lat": 37.199448,
+        "lng": 126.83067
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -1077,7 +2243,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Chuncheon",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Chuncheon",
+        "country": "South Korea",
+        "lat": 37.879623,
+        "lng": 127.72761
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -1153,7 +2373,79 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Suwon",
+        "country": "South Korea"
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jeju Island",
+        "country": "South Korea"
+      },
+      {
+        "name": "Hallasan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Seongsan Ilchulbong",
+        "country": "South Korea"
+      },
+      {
+        "name": "Manjanggul Lava Tube",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Suwon",
+        "country": "South Korea",
+        "lat": 37.26491,
+        "lng": 127.028366
+      },
+      {
+        "name": "Gyeongju",
+        "country": "South Korea",
+        "lat": 35.856644,
+        "lng": 129.22423
+      },
+      {
+        "name": "Jeju Island",
+        "country": "South Korea",
+        "lat": 33.50286,
+        "lng": 126.52755
+      },
+      {
+        "name": "Seongsan Ilchulbong",
+        "country": "South Korea",
+        "lat": 35.199375,
+        "lng": 128.70218
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -1219,7 +2511,31 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      }
+    ]
   },
   {
     "destination": "South Korea",
@@ -1315,6 +2631,50 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      {
+        "name": "Jeju Island",
+        "country": "South Korea"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": 37.566679,
+        "lng": 126.978291
+      },
+      {
+        "name": "Jeju Island",
+        "country": "South Korea",
+        "lat": 33.50286,
+        "lng": 126.52755
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea",
+        "lat": 35.179953,
+        "lng": 129.075236
+      }
+    ]
   }
 ]

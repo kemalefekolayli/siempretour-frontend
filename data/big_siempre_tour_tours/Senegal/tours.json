@@ -53,7 +53,113 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Goree Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Pink Lake",
+        "country": "Senegal"
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal"
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal"
+      },
+      {
+        "name": "Sine Ngayene",
+        "country": "Senegal"
+      },
+      {
+        "name": "Sine Saloum",
+        "country": "Senegal"
+      },
+      {
+        "name": "Ndagane",
+        "country": "Senegal"
+      },
+      {
+        "name": "Joal",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saly",
+        "country": "Senegal"
+      },
+      {
+        "name": "Fadiouth",
+        "country": "Senegal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal",
+        "lat": 13.821724,
+        "lng": -13.501252
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal",
+        "lat": 14.138815,
+        "lng": -16.076391
+      },
+      {
+        "name": "Sine Ngayene",
+        "country": "Senegal",
+        "lat": 13.701447,
+        "lng": -15.456652
+      },
+      {
+        "name": "Ndagane",
+        "country": "Senegal",
+        "lat": 14.076364,
+        "lng": -15.924662
+      },
+      {
+        "name": "Joal",
+        "country": "Senegal",
+        "lat": 14.162786,
+        "lng": -16.841689
+      },
+      {
+        "name": "Saly",
+        "country": "Senegal",
+        "lat": 14.441115,
+        "lng": -17.01483
+      },
+      {
+        "name": "Fadiouth",
+        "country": "Senegal",
+        "lat": 14.152081,
+        "lng": -16.82345
+      }
+    ]
   },
   {
     "destination": "Senegal",
@@ -119,7 +225,103 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Gorée Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Lac Rose",
+        "country": "Senegal"
+      },
+      {
+        "name": "Lompoul Desert",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saint-Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saloum Delta",
+        "country": "Senegal"
+      },
+      {
+        "name": "Palmarin",
+        "country": "Senegal"
+      },
+      {
+        "name": "Joal-Fadiouth",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saly",
+        "country": "Senegal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Lompoul Desert",
+        "country": "Senegal",
+        "lat": 15.442796,
+        "lng": -16.728723
+      },
+      {
+        "name": "Saint-Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal",
+        "lat": 14.138815,
+        "lng": -16.076391
+      },
+      {
+        "name": "Palmarin",
+        "country": "Senegal",
+        "lat": 14.013102,
+        "lng": -16.764462
+      },
+      {
+        "name": "Joal-Fadiouth",
+        "country": "Senegal",
+        "lat": 14.154629,
+        "lng": -16.832686
+      },
+      {
+        "name": "Saly",
+        "country": "Senegal",
+        "lat": 14.441115,
+        "lng": -17.01483
+      }
+    ]
   },
   {
     "destination": "Senegal",
@@ -190,7 +392,107 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Gorée",
+        "country": "Senegal"
+      },
+      {
+        "name": "Lac Rose",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Djoudj National Bird Sanctuary",
+        "country": "Senegal"
+      },
+      {
+        "name": "Ferlo Desert",
+        "country": "Senegal"
+      },
+      {
+        "name": "Tuba",
+        "country": "Senegal"
+      },
+      {
+        "name": "Sine Saloum",
+        "country": "Senegal"
+      },
+      {
+        "name": "Joal-Fadiouth",
+        "country": "Senegal"
+      },
+      {
+        "name": "Bandia Reserve",
+        "country": "Senegal"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Djoudj National Bird Sanctuary",
+        "country": "Senegal",
+        "lat": 13.435366,
+        "lng": -13.42683
+      },
+      {
+        "name": "Tuba",
+        "country": "Senegal",
+        "lat": 14.864559,
+        "lng": -15.876047
+      },
+      {
+        "name": "Joal-Fadiouth",
+        "country": "Senegal",
+        "lat": 14.154629,
+        "lng": -16.832686
+      },
+      {
+        "name": "Bandia Reserve",
+        "country": "Senegal",
+        "lat": 14.623721,
+        "lng": -17.027504
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      }
+    ]
   },
   {
     "destination": "Senegal",
@@ -256,7 +558,113 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Goree Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Pink Lake",
+        "country": "Senegal"
+      },
+      {
+        "name": "St. Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Djoudj National Bird Park",
+        "country": "Senegal"
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal"
+      },
+      {
+        "name": "Delta Du Saloum",
+        "country": "Senegal"
+      },
+      {
+        "name": "Joal Fadiouth",
+        "country": "Senegal"
+      },
+      {
+        "name": "Mbour",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saly",
+        "country": "Senegal"
+      },
+      {
+        "name": "Bandia National Park",
+        "country": "Senegal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "St. Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Djoudj National Bird Park",
+        "country": "Senegal",
+        "lat": 13.435366,
+        "lng": -13.42683
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal",
+        "lat": 13.821724,
+        "lng": -13.501252
+      },
+      {
+        "name": "Joal Fadiouth",
+        "country": "Senegal",
+        "lat": 14.154629,
+        "lng": -16.832686
+      },
+      {
+        "name": "Mbour",
+        "country": "Senegal",
+        "lat": 14.411794,
+        "lng": -16.965712
+      },
+      {
+        "name": "Saly",
+        "country": "Senegal",
+        "lat": 14.441115,
+        "lng": -17.01483
+      },
+      {
+        "name": "Bandia National Park",
+        "country": "Senegal",
+        "lat": 14.623721,
+        "lng": -17.027504
+      }
+    ]
   },
   {
     "destination": "Senegal",
@@ -317,7 +725,99 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Pink Lake",
+        "country": "Senegal"
+      },
+      {
+        "name": "Goree Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Thies",
+        "country": "Senegal"
+      },
+      {
+        "name": "Ngaye",
+        "country": "Senegal"
+      },
+      {
+        "name": "St Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Djoudj National Bird Park",
+        "country": "Senegal"
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saly",
+        "country": "Senegal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Thies",
+        "country": "Senegal",
+        "lat": 14.791461,
+        "lng": -16.925605
+      },
+      {
+        "name": "Ngaye",
+        "country": "Senegal",
+        "lat": 15.818642,
+        "lng": -16.066643
+      },
+      {
+        "name": "St Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Djoudj National Bird Park",
+        "country": "Senegal",
+        "lat": 13.435366,
+        "lng": -13.42683
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal",
+        "lat": 13.821724,
+        "lng": -13.501252
+      },
+      {
+        "name": "Saly",
+        "country": "Senegal",
+        "lat": 14.441115,
+        "lng": -17.01483
+      }
+    ]
   },
   {
     "destination": "Senegal",
@@ -378,7 +878,95 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Goree Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Langue de Barbarie National Park",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal"
+      },
+      {
+        "name": "Palmarin",
+        "country": "Senegal"
+      },
+      {
+        "name": "Mar Lodj",
+        "country": "Senegal"
+      },
+      {
+        "name": "Joal Fadiouth",
+        "country": "Senegal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Langue de Barbarie National Park",
+        "country": "Senegal",
+        "lat": 14.15468,
+        "lng": -15.37554
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal",
+        "lat": 13.821724,
+        "lng": -13.501252
+      },
+      {
+        "name": "Palmarin",
+        "country": "Senegal",
+        "lat": 14.013102,
+        "lng": -16.764462
+      },
+      {
+        "name": "Mar Lodj",
+        "country": "Senegal",
+        "lat": 14.046529,
+        "lng": -16.684053
+      },
+      {
+        "name": "Joal Fadiouth",
+        "country": "Senegal",
+        "lat": 14.154629,
+        "lng": -16.832686
+      }
+    ]
   },
   {
     "destination": "Senegal",
@@ -454,6 +1042,90 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Goree Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Lac Rose",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Djoudj National Park",
+        "country": "Senegal"
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal"
+      },
+      {
+        "name": "Sine Ngayene",
+        "country": "Senegal"
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia"
+      },
+      {
+        "name": "Casamance",
+        "country": "Senegal"
+      },
+      {
+        "name": "Ziguinchor",
+        "country": "Senegal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal",
+        "lat": 13.821724,
+        "lng": -13.501252
+      },
+      {
+        "name": "Sine Ngayene",
+        "country": "Senegal",
+        "lat": 13.701447,
+        "lng": -15.456652
+      },
+      {
+        "name": "Ziguinchor",
+        "country": "Senegal",
+        "lat": 12.563493,
+        "lng": -16.272461
+      }
+    ]
   }
 ]

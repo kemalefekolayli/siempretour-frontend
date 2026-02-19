@@ -63,7 +63,73 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sal",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Boa Vista",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Santiago",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Fogo",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "São Vicente",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Santo Antão",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Porto Novo",
+        "country": "Cape Verde"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sal",
+        "country": "Cape Verde",
+        "lat": 16.746923,
+        "lng": -22.931612
+      },
+      {
+        "name": "Boa Vista",
+        "country": "Cape Verde",
+        "lat": 16.117526,
+        "lng": -22.811233
+      },
+      {
+        "name": "São Vicente",
+        "country": "Cape Verde",
+        "lat": 16.849658,
+        "lng": -24.97233
+      },
+      {
+        "name": "Porto Novo",
+        "country": "Cape Verde",
+        "lat": 17.018978,
+        "lng": -25.065316
+      }
+    ]
   },
   {
     "destination": "Cape Verde Islands",
@@ -139,7 +205,99 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Mindelo",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Santo Antão",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Vale de Paul",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Calhau",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Monte Verde",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Praia",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Cidade Velha",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Tarrafal",
+        "country": "Cape Verde"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mindelo",
+        "country": "Cape Verde",
+        "lat": 16.871542,
+        "lng": -24.98767
+      },
+      {
+        "name": "Vale de Paul",
+        "country": "Cape Verde",
+        "lat": 17.119241,
+        "lng": -25.02312
+      },
+      {
+        "name": "Calhau",
+        "country": "Cape Verde",
+        "lat": 16.845344,
+        "lng": -24.868183
+      },
+      {
+        "name": "Monte Verde",
+        "country": "Cape Verde",
+        "lat": 16.881467,
+        "lng": -24.989004
+      },
+      {
+        "name": "Praia",
+        "country": "Cape Verde",
+        "lat": 14.916281,
+        "lng": -23.509509
+      },
+      {
+        "name": "Cidade Velha",
+        "country": "Cape Verde",
+        "lat": 14.920755,
+        "lng": -23.601234
+      },
+      {
+        "name": "Tarrafal",
+        "country": "Cape Verde",
+        "lat": 15.278416,
+        "lng": -23.752294
+      }
+    ]
   },
   {
     "destination": "Cape Verde Islands",
@@ -205,7 +363,109 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Palmeira",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Sal Rei",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Praia",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Sao Felipe",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Mindelo",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Sal",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Boa Vista",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Santiago",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Sao Vicente",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Santo Antao",
+        "country": "Cape Verde"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Palmeira",
+        "country": "Cape Verde",
+        "lat": 16.758476,
+        "lng": -22.98111
+      },
+      {
+        "name": "Sal Rei",
+        "country": "Cape Verde",
+        "lat": 16.165877,
+        "lng": -22.911299
+      },
+      {
+        "name": "Praia",
+        "country": "Cape Verde",
+        "lat": 14.916281,
+        "lng": -23.509509
+      },
+      {
+        "name": "Sao Felipe",
+        "country": "Cape Verde",
+        "lat": 14.895296,
+        "lng": -24.496936
+      },
+      {
+        "name": "Mindelo",
+        "country": "Cape Verde",
+        "lat": 16.871542,
+        "lng": -24.98767
+      },
+      {
+        "name": "Sal",
+        "country": "Cape Verde",
+        "lat": 16.746923,
+        "lng": -22.931612
+      },
+      {
+        "name": "Boa Vista",
+        "country": "Cape Verde",
+        "lat": 16.117526,
+        "lng": -22.811233
+      },
+      {
+        "name": "Sao Vicente",
+        "country": "Cape Verde",
+        "lat": 16.849658,
+        "lng": -24.97233
+      }
+    ]
   },
   {
     "destination": "Cape Verde Islands",
@@ -266,6 +526,74 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "São Vicente Island",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Santo Antão Island",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Ribeira Grande",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Cha das Pedras",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Ponta do Sol",
+        "country": "Cape Verde"
+      },
+      {
+        "name": "Mindelo",
+        "country": "Cape Verde"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "São Vicente Island",
+        "country": "Cape Verde",
+        "lat": 16.849658,
+        "lng": -24.97233
+      },
+      {
+        "name": "Ribeira Grande",
+        "country": "Cape Verde",
+        "lat": 17.183355,
+        "lng": -25.06438
+      },
+      {
+        "name": "Cha das Pedras",
+        "country": "Cape Verde",
+        "lat": 14.989139,
+        "lng": -23.550581
+      },
+      {
+        "name": "Ponta do Sol",
+        "country": "Cape Verde",
+        "lat": 17.169904,
+        "lng": -25.123848
+      },
+      {
+        "name": "Mindelo",
+        "country": "Cape Verde",
+        "lat": 16.871542,
+        "lng": -24.98767
+      }
+    ]
   }
 ]

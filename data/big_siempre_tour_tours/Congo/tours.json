@@ -73,6 +73,118 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kibuye",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Cyangugu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kahuzi-Biega National Park",
+        "country": "Democratic Republic of the Congo"
+      },
+      {
+        "name": "Bukavu",
+        "country": "Democratic Republic of the Congo"
+      },
+      {
+        "name": "Bujumbura",
+        "country": "Burundi"
+      },
+      {
+        "name": "Gitega",
+        "country": "Burundi"
+      },
+      {
+        "name": "Rutana",
+        "country": "Burundi"
+      },
+      {
+        "name": "Rutovu",
+        "country": "Burundi"
+      },
+      {
+        "name": "Rusizi National Park",
+        "country": "Burundi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Kibuye",
+        "country": "Rwanda",
+        "lat": -2.05872,
+        "lng": 29.351928
+      },
+      {
+        "name": "Cyangugu",
+        "country": "Rwanda",
+        "lat": -2.488777,
+        "lng": 28.895813
+      },
+      {
+        "name": "Kahuzi-Biega National Park",
+        "country": "Democratic Republic of the Congo",
+        "lat": -7.0695,
+        "lng": 29.734194
+      },
+      {
+        "name": "Bukavu",
+        "country": "Democratic Republic of the Congo",
+        "lat": -2.502264,
+        "lng": 28.857573
+      },
+      {
+        "name": "Bujumbura",
+        "country": "Burundi",
+        "lat": -3.365051,
+        "lng": 29.352243
+      },
+      {
+        "name": "Gitega",
+        "country": "Burundi",
+        "lat": -3.428495,
+        "lng": 29.924972
+      },
+      {
+        "name": "Rutana",
+        "country": "Burundi",
+        "lat": -3.926361,
+        "lng": 29.990574
+      },
+      {
+        "name": "Rutovu",
+        "country": "Burundi",
+        "lat": -3.881053,
+        "lng": 29.847355
+      }
+    ]
   }
 ]

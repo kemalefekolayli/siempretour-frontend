@@ -58,7 +58,31 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Scotland",
+        "country": "United Kingdom"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Scotland",
+        "country": "United Kingdom",
+        "lat": 56.734282,
+        "lng": -4.095892
+      }
+    ]
   },
   {
     "destination": "Scotland",
@@ -109,6 +133,20 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Oban",
+        "country": "Scotland"
+      },
+      {
+        "name": "Isle of Mull",
+        "country": "Scotland"
+      }
+    ]
   }
 ]

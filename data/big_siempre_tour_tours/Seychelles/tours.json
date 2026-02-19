@@ -63,7 +63,47 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seychelles",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Praslin",
+        "country": "Seychelles"
+      },
+      {
+        "name": "La Digue",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Mahe",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Denis Island",
+        "country": "Seychelles"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Digue",
+        "country": "Seychelles",
+        "lat": -4.359773,
+        "lng": 55.838233
+      }
+    ]
   },
   {
     "destination": "Seychelles",
@@ -129,7 +169,81 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mahe",
+        "country": "Seychelles"
+      },
+      {
+        "name": "St Anne Island",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Curieuse",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Cousin Island",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Anse Lazio",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Aride",
+        "country": "Seychelles"
+      },
+      {
+        "name": "St Pierre",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Baie St Anne",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Felicite",
+        "country": "Seychelles"
+      },
+      {
+        "name": "La Digue",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Anse Source d'Argent",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Moyenne Island",
+        "country": "Seychelles"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Baie St Anne",
+        "country": "Seychelles",
+        "lat": -4.321972,
+        "lng": 55.750249
+      },
+      {
+        "name": "La Digue",
+        "country": "Seychelles",
+        "lat": -4.359773,
+        "lng": 55.838233
+      }
+    ]
   },
   {
     "destination": "Seychelles",
@@ -200,7 +314,57 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mahe",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Praslin",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Vallee de Mai",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Anse Lazio",
+        "country": "Seychelles"
+      },
+      {
+        "name": "La Digue",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Victoria",
+        "country": "Seychelles"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Digue",
+        "country": "Seychelles",
+        "lat": -4.359773,
+        "lng": 55.838233
+      },
+      {
+        "name": "Victoria",
+        "country": "Seychelles",
+        "lat": -4.620366,
+        "lng": 55.454901
+      }
+    ]
   },
   {
     "destination": "Seychelles",
@@ -251,7 +415,59 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mahe",
+        "country": "Seychelles"
+      },
+      {
+        "name": "St. Anne",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Curieuse",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Cousin Island",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Anse Lazio",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Aride",
+        "country": "Seychelles"
+      },
+      {
+        "name": "St. Pierre",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Baie St. Anne",
+        "country": "Seychelles"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Baie St. Anne",
+        "country": "Seychelles",
+        "lat": -4.321972,
+        "lng": 55.750249
+      }
+    ]
   },
   {
     "destination": "Seychelles",
@@ -317,7 +533,81 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mahé",
+        "country": "Seychelles"
+      },
+      {
+        "name": "St Anne Island",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Curieuse Island",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Cousin Island",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Anse Lazio",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Aride Island",
+        "country": "Seychelles"
+      },
+      {
+        "name": "St Pierre Islet",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Baie Sainte Anne",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Felicité",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Grande Soeur",
+        "country": "Seychelles"
+      },
+      {
+        "name": "La Digue",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Moyenne Island",
+        "country": "Seychelles"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Baie Sainte Anne",
+        "country": "Seychelles",
+        "lat": -4.321972,
+        "lng": 55.750249
+      },
+      {
+        "name": "La Digue",
+        "country": "Seychelles",
+        "lat": -4.359773,
+        "lng": 55.838233
+      }
+    ]
   },
   {
     "destination": "Seychelles",
@@ -373,6 +663,70 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Prison Island",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Pemba Island",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Indian Ocean",
+        "country": null
+      },
+      {
+        "name": "Silhouette Island",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Denis Island",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Victoria",
+        "country": "Seychelles"
+      },
+      {
+        "name": "Mahé",
+        "country": "Seychelles"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Pemba Island",
+        "country": "Tanzania",
+        "lat": -5.999957,
+        "lng": 37.515777
+      },
+      {
+        "name": "Victoria",
+        "country": "Seychelles",
+        "lat": -4.620366,
+        "lng": 55.454901
+      }
+    ]
   }
 ]

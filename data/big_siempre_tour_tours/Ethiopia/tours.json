@@ -48,7 +48,111 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Semera",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Dodom",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Erta Ale",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Dallol",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Asebo",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Afdera",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Afdera",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Semera",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Semera",
+        "country": "Ethiopia",
+        "lat": 11.79231,
+        "lng": 41.008916
+      },
+      {
+        "name": "Dodom",
+        "country": "Ethiopia",
+        "lat": 5.05,
+        "lng": 39.23333
+      },
+      {
+        "name": "Erta Ale",
+        "country": "Ethiopia",
+        "lat": 9.52528,
+        "lng": 42.31889
+      },
+      {
+        "name": "Dallol",
+        "country": "Ethiopia",
+        "lat": 14.239424,
+        "lng": 40.293699
+      },
+      {
+        "name": "Asebo",
+        "country": "Ethiopia",
+        "lat": 9.78333,
+        "lng": 38.55
+      },
+      {
+        "name": "Afdera",
+        "country": "Ethiopia",
+        "lat": 13.207287,
+        "lng": 40.860443
+      },
+      {
+        "name": "Lake Afdera",
+        "country": "Ethiopia",
+        "lat": 13.207287,
+        "lng": 40.860443
+      },
+      {
+        "name": "Semera",
+        "country": "Ethiopia",
+        "lat": 11.79231,
+        "lng": 41.008916
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -99,7 +203,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Semera",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Hamedela",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Assale",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Afdera",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia",
+        "lat": 12.035836,
+        "lng": 39.055571
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Semera",
+        "country": "Ethiopia",
+        "lat": 11.79231,
+        "lng": 41.008916
+      },
+      {
+        "name": "Hamedela",
+        "country": "Ethiopia",
+        "lat": 7.264538,
+        "lng": 36.246053
+      },
+      {
+        "name": "Lake Assale",
+        "country": "Ethiopia",
+        "lat": 12.27333,
+        "lng": 42.04417
+      },
+      {
+        "name": "Afdera",
+        "country": "Ethiopia",
+        "lat": 13.207287,
+        "lng": 40.860443
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -195,7 +373,101 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Bahir Dar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Blue Nile gorge",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Tana",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Simien Mountains",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Aksum",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Bahir Dar",
+        "country": "Ethiopia",
+        "lat": 11.588551,
+        "lng": 37.384398
+      },
+      {
+        "name": "Blue Nile gorge",
+        "country": "Ethiopia",
+        "lat": 5.71075,
+        "lng": 35.965698
+      },
+      {
+        "name": "Lake Tana",
+        "country": "Ethiopia",
+        "lat": 6.266543,
+        "lng": 38.423816
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia",
+        "lat": 12.617401,
+        "lng": 37.465476
+      },
+      {
+        "name": "Simien Mountains",
+        "country": "Ethiopia",
+        "lat": 13.25,
+        "lng": 38.25
+      },
+      {
+        "name": "Aksum",
+        "country": "Ethiopia",
+        "lat": 14.122098,
+        "lng": 38.732175
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia",
+        "lat": 12.035836,
+        "lng": 39.055571
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -271,7 +543,105 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Bahir Dar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Blue Nile Falls",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Simien Mountains National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Langano",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Abjatta and Shalla Lakes",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Ziway",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Bahir Dar",
+        "country": "Ethiopia",
+        "lat": 11.588551,
+        "lng": 37.384398
+      },
+      {
+        "name": "Blue Nile Falls",
+        "country": "Ethiopia",
+        "lat": 5.71075,
+        "lng": 35.965698
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia",
+        "lat": 12.617401,
+        "lng": 37.465476
+      },
+      {
+        "name": "Simien Mountains National Park",
+        "country": "Ethiopia",
+        "lat": 6.75,
+        "lng": 39.75
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia",
+        "lat": 12.035836,
+        "lng": 39.055571
+      },
+      {
+        "name": "Langano",
+        "country": "Ethiopia",
+        "lat": 9.35,
+        "lng": 37.3
+      },
+      {
+        "name": "Lake Ziway",
+        "country": "Ethiopia",
+        "lat": 7.935806,
+        "lng": 38.716493
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -377,7 +747,185 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Aksum",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Bahir Dar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Blue Nile Falls",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Dorze villages",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Netch Sar National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Abaya",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Jinka",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Omo Valley",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Mursi",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Hamer",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Yabelo Wildlife Sanctuary",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Langano",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Wondo Genet",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Rift Valley lakes",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Aksum",
+        "country": "Ethiopia",
+        "lat": 14.122098,
+        "lng": 38.732175
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia",
+        "lat": 12.617401,
+        "lng": 37.465476
+      },
+      {
+        "name": "Bahir Dar",
+        "country": "Ethiopia",
+        "lat": 11.588551,
+        "lng": 37.384398
+      },
+      {
+        "name": "Blue Nile Falls",
+        "country": "Ethiopia",
+        "lat": 5.71075,
+        "lng": 35.965698
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia",
+        "lat": 12.035836,
+        "lng": 39.055571
+      },
+      {
+        "name": "Dorze villages",
+        "country": "Ethiopia",
+        "lat": 6.194857,
+        "lng": 37.574345
+      },
+      {
+        "name": "Netch Sar National Park",
+        "country": "Ethiopia",
+        "lat": 10.86667,
+        "lng": 35.3
+      },
+      {
+        "name": "Lake Abaya",
+        "country": "Ethiopia",
+        "lat": 7.105698,
+        "lng": 36.676417
+      },
+      {
+        "name": "Jinka",
+        "country": "Ethiopia",
+        "lat": 5.785993,
+        "lng": 36.565182
+      },
+      {
+        "name": "Mursi",
+        "country": "Ethiopia",
+        "lat": 7.264538,
+        "lng": 36.246053
+      },
+      {
+        "name": "Hamer",
+        "country": "Ethiopia",
+        "lat": 9.314501,
+        "lng": 42.118614
+      },
+      {
+        "name": "Yabelo Wildlife Sanctuary",
+        "country": "Ethiopia",
+        "lat": 4.892569,
+        "lng": 38.094989
+      },
+      {
+        "name": "Lake Langano",
+        "country": "Ethiopia",
+        "lat": 9.35,
+        "lng": 37.3
+      },
+      {
+        "name": "Wondo Genet",
+        "country": "Ethiopia",
+        "lat": 7.085476,
+        "lng": 38.614111
+      },
+      {
+        "name": "Rift Valley lakes",
+        "country": "Ethiopia",
+        "lat": 10.01667,
+        "lng": 39.71667
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -458,7 +1006,141 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Debre Libanos Gorge",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Awash National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Langano",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Bale Mountains",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Abiata-Shalla National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gobe",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Senkelle Sanctuary",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Awassa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Ziway",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Simien Mountains",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Debre Libanos Gorge",
+        "country": "Ethiopia",
+        "lat": 9.72957,
+        "lng": 38.816768
+      },
+      {
+        "name": "Awash National Park",
+        "country": "Ethiopia",
+        "lat": 11.58167,
+        "lng": 41.62861
+      },
+      {
+        "name": "Lake Langano",
+        "country": "Ethiopia",
+        "lat": 9.35,
+        "lng": 37.3
+      },
+      {
+        "name": "Bale Mountains",
+        "country": "Ethiopia",
+        "lat": 6.923933,
+        "lng": 37.232462
+      },
+      {
+        "name": "Abiata-Shalla National Park",
+        "country": "Ethiopia",
+        "lat": 7.264538,
+        "lng": 36.246053
+      },
+      {
+        "name": "Gobe",
+        "country": "Ethiopia",
+        "lat": 9.36389,
+        "lng": 42.02944
+      },
+      {
+        "name": "Senkelle Sanctuary",
+        "country": "Ethiopia",
+        "lat": 10.9,
+        "lng": 40.03333
+      },
+      {
+        "name": "Lake Awassa",
+        "country": "Ethiopia",
+        "lat": 7.065289,
+        "lng": 38.476398
+      },
+      {
+        "name": "Lake Ziway",
+        "country": "Ethiopia",
+        "lat": 7.935806,
+        "lng": 38.716493
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia",
+        "lat": 12.617401,
+        "lng": 37.465476
+      },
+      {
+        "name": "Simien Mountains",
+        "country": "Ethiopia",
+        "lat": 13.25,
+        "lng": 38.25
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -564,7 +1246,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Chamo",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Mago National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Langano",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Tana",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Blue Nile Falls",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Simien Mountains",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Axum",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Lake Chamo",
+        "country": "Ethiopia",
+        "lat": 8.65,
+        "lng": 34.66667
+      },
+      {
+        "name": "Mago National Park",
+        "country": "Ethiopia",
+        "lat": 5.670774,
+        "lng": 36.418714
+      },
+      {
+        "name": "Lake Langano",
+        "country": "Ethiopia",
+        "lat": 9.35,
+        "lng": 37.3
+      },
+      {
+        "name": "Lake Tana",
+        "country": "Ethiopia",
+        "lat": 6.266543,
+        "lng": 38.423816
+      },
+      {
+        "name": "Blue Nile Falls",
+        "country": "Ethiopia",
+        "lat": 5.71075,
+        "lng": 35.965698
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia",
+        "lat": 12.617401,
+        "lng": 37.465476
+      },
+      {
+        "name": "Simien Mountains",
+        "country": "Ethiopia",
+        "lat": 13.25,
+        "lng": 38.25
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia",
+        "lat": 12.035836,
+        "lng": 39.055571
+      },
+      {
+        "name": "Axum",
+        "country": "Ethiopia",
+        "lat": 14.122098,
+        "lng": 38.732175
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -645,7 +1441,141 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Debre Libanos Gorge",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Awash National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Langano",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Bale Mountains",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Abiata-Shalla National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gobe",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Senkelle Sanctuary",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Awassa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Ziway",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Simien Mountains",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Debre Libanos Gorge",
+        "country": "Ethiopia",
+        "lat": 9.72957,
+        "lng": 38.816768
+      },
+      {
+        "name": "Awash National Park",
+        "country": "Ethiopia",
+        "lat": 11.58167,
+        "lng": 41.62861
+      },
+      {
+        "name": "Lake Langano",
+        "country": "Ethiopia",
+        "lat": 9.35,
+        "lng": 37.3
+      },
+      {
+        "name": "Bale Mountains",
+        "country": "Ethiopia",
+        "lat": 6.923933,
+        "lng": 37.232462
+      },
+      {
+        "name": "Abiata-Shalla National Park",
+        "country": "Ethiopia",
+        "lat": 7.264538,
+        "lng": 36.246053
+      },
+      {
+        "name": "Gobe",
+        "country": "Ethiopia",
+        "lat": 9.36389,
+        "lng": 42.02944
+      },
+      {
+        "name": "Senkelle Sanctuary",
+        "country": "Ethiopia",
+        "lat": 10.9,
+        "lng": 40.03333
+      },
+      {
+        "name": "Lake Awassa",
+        "country": "Ethiopia",
+        "lat": 7.065289,
+        "lng": 38.476398
+      },
+      {
+        "name": "Lake Ziway",
+        "country": "Ethiopia",
+        "lat": 7.935806,
+        "lng": 38.716493
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia",
+        "lat": 12.617401,
+        "lng": 37.465476
+      },
+      {
+        "name": "Simien Mountains",
+        "country": "Ethiopia",
+        "lat": 13.25,
+        "lng": 38.25
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -711,7 +1641,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Jinka",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Turmi",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Omorate",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Mursi",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Semera",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Danakil Depression",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Dallol",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia",
+        "lat": 12.035836,
+        "lng": 39.055571
+      },
+      {
+        "name": "Jinka",
+        "country": "Ethiopia",
+        "lat": 5.785993,
+        "lng": 36.565182
+      },
+      {
+        "name": "Turmi",
+        "country": "Ethiopia",
+        "lat": 4.96835,
+        "lng": 36.487794
+      },
+      {
+        "name": "Omorate",
+        "country": "Ethiopia",
+        "lat": 4.803238,
+        "lng": 36.050438
+      },
+      {
+        "name": "Mursi",
+        "country": "Ethiopia",
+        "lat": 7.264538,
+        "lng": 36.246053
+      },
+      {
+        "name": "Semera",
+        "country": "Ethiopia",
+        "lat": 11.79231,
+        "lng": 41.008916
+      },
+      {
+        "name": "Danakil Depression",
+        "country": "Ethiopia",
+        "lat": 14,
+        "lng": 40.5
+      },
+      {
+        "name": "Dallol",
+        "country": "Ethiopia",
+        "lat": 14.239424,
+        "lng": 40.293699
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -787,7 +1821,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Simien Mountains National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Yemrehanna Kristos Church",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Langano",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Bale Mountain National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Sanetti Plateau",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Harenna Forest",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia",
+        "lat": 12.617401,
+        "lng": 37.465476
+      },
+      {
+        "name": "Simien Mountains National Park",
+        "country": "Ethiopia",
+        "lat": 6.75,
+        "lng": 39.75
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia",
+        "lat": 12.035836,
+        "lng": 39.055571
+      },
+      {
+        "name": "Yemrehanna Kristos Church",
+        "country": "Ethiopia",
+        "lat": 7.264538,
+        "lng": 36.246053
+      },
+      {
+        "name": "Langano",
+        "country": "Ethiopia",
+        "lat": 9.35,
+        "lng": 37.3
+      },
+      {
+        "name": "Bale Mountain National Park",
+        "country": "Ethiopia",
+        "lat": 6.75,
+        "lng": 39.75
+      },
+      {
+        "name": "Sanetti Plateau",
+        "country": "Ethiopia",
+        "lat": 8.1,
+        "lng": 37.53333
+      },
+      {
+        "name": "Harenna Forest",
+        "country": "Ethiopia",
+        "lat": 13.642163,
+        "lng": 39.187192
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -868,7 +2016,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Choke Mountains",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Bahir Dar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Tana",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Awura Amba",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Simien Mountains National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Mt. Abuna Yoseph Community Conservation Area",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Hudad",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Choke Mountains",
+        "country": "Ethiopia",
+        "lat": 8.13797,
+        "lng": 39.900797
+      },
+      {
+        "name": "Bahir Dar",
+        "country": "Ethiopia",
+        "lat": 11.588551,
+        "lng": 37.384398
+      },
+      {
+        "name": "Lake Tana",
+        "country": "Ethiopia",
+        "lat": 6.266543,
+        "lng": 38.423816
+      },
+      {
+        "name": "Awura Amba",
+        "country": "Ethiopia",
+        "lat": 11.919914,
+        "lng": 37.787091
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia",
+        "lat": 12.617401,
+        "lng": 37.465476
+      },
+      {
+        "name": "Simien Mountains National Park",
+        "country": "Ethiopia",
+        "lat": 6.75,
+        "lng": 39.75
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia",
+        "lat": 12.035836,
+        "lng": 39.055571
+      },
+      {
+        "name": "Mt. Abuna Yoseph Community Conservation Area",
+        "country": "Ethiopia",
+        "lat": 9.63833,
+        "lng": 42.04806
+      },
+      {
+        "name": "Hudad",
+        "country": "Ethiopia",
+        "lat": 12.28333,
+        "lng": 39.53333
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -944,7 +2206,161 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Ziway",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Langano",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Arba Minch",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Chamo",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Konso",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Turmi",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Kolcho Village",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Dimeka",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Arbore",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Yirgalem",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Awassa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Tiya",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Merkato Market",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Lake Ziway",
+        "country": "Ethiopia",
+        "lat": 7.935806,
+        "lng": 38.716493
+      },
+      {
+        "name": "Lake Langano",
+        "country": "Ethiopia",
+        "lat": 9.35,
+        "lng": 37.3
+      },
+      {
+        "name": "Arba Minch",
+        "country": "Ethiopia",
+        "lat": 6.021514,
+        "lng": 37.553981
+      },
+      {
+        "name": "Lake Chamo",
+        "country": "Ethiopia",
+        "lat": 8.65,
+        "lng": 34.66667
+      },
+      {
+        "name": "Konso",
+        "country": "Ethiopia",
+        "lat": 5.317457,
+        "lng": 37.445477
+      },
+      {
+        "name": "Turmi",
+        "country": "Ethiopia",
+        "lat": 4.96835,
+        "lng": 36.487794
+      },
+      {
+        "name": "Kolcho Village",
+        "country": "Ethiopia",
+        "lat": 11.520171,
+        "lng": 41.582607
+      },
+      {
+        "name": "Dimeka",
+        "country": "Ethiopia",
+        "lat": 5.174427,
+        "lng": 36.548488
+      },
+      {
+        "name": "Arbore",
+        "country": "Ethiopia",
+        "lat": 4.993236,
+        "lng": 36.850007
+      },
+      {
+        "name": "Yirgalem",
+        "country": "Ethiopia",
+        "lat": 6.746936,
+        "lng": 38.405763
+      },
+      {
+        "name": "Lake Awassa",
+        "country": "Ethiopia",
+        "lat": 7.065289,
+        "lng": 38.476398
+      },
+      {
+        "name": "Tiya",
+        "country": "Ethiopia",
+        "lat": 8.437331,
+        "lng": 38.609296
+      },
+      {
+        "name": "Merkato Market",
+        "country": "Ethiopia",
+        "lat": 7.264538,
+        "lng": 36.246053
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -1020,7 +2436,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Axum",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Yeha",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Negash",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Mekele",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Harar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Bahirdar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gonder",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia",
+        "lat": 12.035836,
+        "lng": 39.055571
+      },
+      {
+        "name": "Axum",
+        "country": "Ethiopia",
+        "lat": 14.122098,
+        "lng": 38.732175
+      },
+      {
+        "name": "Yeha",
+        "country": "Ethiopia",
+        "lat": 14.25,
+        "lng": 38.91667
+      },
+      {
+        "name": "Negash",
+        "country": "Ethiopia",
+        "lat": 13.879964,
+        "lng": 39.598074
+      },
+      {
+        "name": "Mekele",
+        "country": "Ethiopia",
+        "lat": 13.495387,
+        "lng": 39.47089
+      },
+      {
+        "name": "Harar",
+        "country": "Ethiopia",
+        "lat": 9.34316,
+        "lng": 36.265944
+      },
+      {
+        "name": "Bahirdar",
+        "country": "Ethiopia",
+        "lat": 11.588551,
+        "lng": 37.384398
+      },
+      {
+        "name": "Gonder",
+        "country": "Ethiopia",
+        "lat": 12.617401,
+        "lng": 37.465476
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -1136,7 +2656,201 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Simien Mountains National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Bahir Dar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Tana",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Yemrehanna Kristos Church",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Asheton Maryam Monastery",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Hawassa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Hawassa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Arba Minch",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Chamo",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "NechiSar National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Mago National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Omorate",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Key Afar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Konso",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Gondar",
+        "country": "Ethiopia",
+        "lat": 12.617401,
+        "lng": 37.465476
+      },
+      {
+        "name": "Simien Mountains National Park",
+        "country": "Ethiopia",
+        "lat": 6.75,
+        "lng": 39.75
+      },
+      {
+        "name": "Bahir Dar",
+        "country": "Ethiopia",
+        "lat": 11.588551,
+        "lng": 37.384398
+      },
+      {
+        "name": "Lake Tana",
+        "country": "Ethiopia",
+        "lat": 6.266543,
+        "lng": 38.423816
+      },
+      {
+        "name": "Lalibela",
+        "country": "Ethiopia",
+        "lat": 12.035836,
+        "lng": 39.055571
+      },
+      {
+        "name": "Yemrehanna Kristos Church",
+        "country": "Ethiopia",
+        "lat": 7.264538,
+        "lng": 36.246053
+      },
+      {
+        "name": "Asheton Maryam Monastery",
+        "country": "Ethiopia",
+        "lat": 7.264538,
+        "lng": 36.246053
+      },
+      {
+        "name": "Hawassa",
+        "country": "Ethiopia",
+        "lat": 7.065289,
+        "lng": 38.476398
+      },
+      {
+        "name": "Lake Hawassa",
+        "country": "Ethiopia",
+        "lat": 7.065289,
+        "lng": 38.476398
+      },
+      {
+        "name": "Arba Minch",
+        "country": "Ethiopia",
+        "lat": 6.021514,
+        "lng": 37.553981
+      },
+      {
+        "name": "Lake Chamo",
+        "country": "Ethiopia",
+        "lat": 8.65,
+        "lng": 34.66667
+      },
+      {
+        "name": "NechiSar National Park",
+        "country": "Ethiopia",
+        "lat": 7.264538,
+        "lng": 36.246053
+      },
+      {
+        "name": "Mago National Park",
+        "country": "Ethiopia",
+        "lat": 5.670774,
+        "lng": 36.418714
+      },
+      {
+        "name": "Omorate",
+        "country": "Ethiopia",
+        "lat": 4.803238,
+        "lng": 36.050438
+      },
+      {
+        "name": "Key Afar",
+        "country": "Ethiopia",
+        "lat": 12.13333,
+        "lng": 39.46667
+      },
+      {
+        "name": "Konso",
+        "country": "Ethiopia",
+        "lat": 5.317457,
+        "lng": 37.445477
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      }
+    ]
   },
   {
     "destination": "Ethiopia",
@@ -1227,6 +2941,160 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Dorze",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Netch-Sar National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Abaya",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Tchamo",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Konso",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Mago National Park",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Turmi",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Yabelo Wildlife Sanctuary",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Wondo Genet",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Lake Langano",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Harar",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Great Rift Valley",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Awash",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      },
+      {
+        "name": "Dorze",
+        "country": "Ethiopia",
+        "lat": 6.194857,
+        "lng": 37.574345
+      },
+      {
+        "name": "Netch-Sar National Park",
+        "country": "Ethiopia",
+        "lat": 10.86667,
+        "lng": 35.3
+      },
+      {
+        "name": "Lake Abaya",
+        "country": "Ethiopia",
+        "lat": 7.105698,
+        "lng": 36.676417
+      },
+      {
+        "name": "Lake Tchamo",
+        "country": "Ethiopia",
+        "lat": 8.65,
+        "lng": 34.66667
+      },
+      {
+        "name": "Konso",
+        "country": "Ethiopia",
+        "lat": 5.317457,
+        "lng": 37.445477
+      },
+      {
+        "name": "Mago National Park",
+        "country": "Ethiopia",
+        "lat": 5.670774,
+        "lng": 36.418714
+      },
+      {
+        "name": "Turmi",
+        "country": "Ethiopia",
+        "lat": 4.96835,
+        "lng": 36.487794
+      },
+      {
+        "name": "Yabelo Wildlife Sanctuary",
+        "country": "Ethiopia",
+        "lat": 4.892569,
+        "lng": 38.094989
+      },
+      {
+        "name": "Wondo Genet",
+        "country": "Ethiopia",
+        "lat": 7.085476,
+        "lng": 38.614111
+      },
+      {
+        "name": "Lake Langano",
+        "country": "Ethiopia",
+        "lat": 9.35,
+        "lng": 37.3
+      },
+      {
+        "name": "Harar",
+        "country": "Ethiopia",
+        "lat": 9.34316,
+        "lng": 36.265944
+      },
+      {
+        "name": "Great Rift Valley",
+        "country": "Ethiopia",
+        "lat": 10.01667,
+        "lng": 39.71667
+      },
+      {
+        "name": "Awash",
+        "country": "Ethiopia",
+        "lat": 11.58167,
+        "lng": 41.62861
+      }
+    ]
   }
 ]

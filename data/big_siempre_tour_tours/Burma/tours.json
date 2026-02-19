@@ -73,7 +73,35 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bagan",
+        "country": "Myanmar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar",
+        "lat": 16.776854,
+        "lng": 96.1589
+      }
+    ]
   },
   {
     "destination": "Burma",
@@ -134,7 +162,69 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Phnom Penh",
+        "country": "Cambodia"
+      },
+      {
+        "name": "Oudong",
+        "country": "Cambodia"
+      },
+      {
+        "name": "Siem Reap",
+        "country": "Cambodia"
+      },
+      {
+        "name": "Angkor Wat",
+        "country": "Cambodia"
+      },
+      {
+        "name": "Kulen Mountain",
+        "country": "Cambodia"
+      },
+      {
+        "name": "Banteay Srei",
+        "country": "Cambodia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Phnom Penh",
+        "country": "Cambodia",
+        "lat": 11.568271,
+        "lng": 104.922443
+      },
+      {
+        "name": "Siem Reap",
+        "country": "Cambodia",
+        "lat": 13.354503,
+        "lng": 103.85486
+      },
+      {
+        "name": "Angkor Wat",
+        "country": "Cambodia",
+        "lat": 11.504923,
+        "lng": 104.89187
+      },
+      {
+        "name": "Banteay Srei",
+        "country": "Cambodia",
+        "lat": 13.588972,
+        "lng": 103.96349
+      }
+    ]
   },
   {
     "destination": "Burma",
@@ -210,7 +300,79 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Amarapura",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bagan",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Heho",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Shwedagon Pagoda",
+        "country": "Myanmar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar",
+        "lat": 16.776854,
+        "lng": 96.1589
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar",
+        "lat": 21.961073,
+        "lng": 96.09469
+      },
+      {
+        "name": "Amarapura",
+        "country": "Myanmar",
+        "lat": 21.903685,
+        "lng": 96.04979
+      },
+      {
+        "name": "Heho",
+        "country": "Myanmar",
+        "lat": 20.718771,
+        "lng": 96.826922
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar",
+        "lat": 26.325338,
+        "lng": 95.44299
+      }
+    ]
   },
   {
     "destination": "Burma",
@@ -306,7 +468,159 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar"
+      },
+      {
+        "name": "U Bein Bridge",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mingun",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Sagaing",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Pyin Oo Lwin",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Gokteik Viaduct",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Hsipaw",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Lashio",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Nyaung Shwe",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Indein",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bagan",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Tamarind Lake Village",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Ngwe Saung Beach",
+        "country": "Myanmar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar",
+        "lat": 21.961073,
+        "lng": 96.09469
+      },
+      {
+        "name": "U Bein Bridge",
+        "country": "Myanmar",
+        "lat": 19.23092,
+        "lng": 95.54352
+      },
+      {
+        "name": "Mingun",
+        "country": "Myanmar",
+        "lat": 22.054592,
+        "lng": 96.01782
+      },
+      {
+        "name": "Sagaing",
+        "country": "Myanmar",
+        "lat": 21.877422,
+        "lng": 95.983996
+      },
+      {
+        "name": "Pyin Oo Lwin",
+        "country": "Myanmar",
+        "lat": 22.033137,
+        "lng": 96.466734
+      },
+      {
+        "name": "Hsipaw",
+        "country": "Myanmar",
+        "lat": 22.615404,
+        "lng": 97.29999
+      },
+      {
+        "name": "Lashio",
+        "country": "Myanmar",
+        "lat": 22.932556,
+        "lng": 97.749435
+      },
+      {
+        "name": "Nyaung Shwe",
+        "country": "Myanmar",
+        "lat": 21.835222,
+        "lng": 95.42443
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar",
+        "lat": 26.325338,
+        "lng": 95.44299
+      },
+      {
+        "name": "Indein",
+        "country": "Myanmar",
+        "lat": 20.460867,
+        "lng": 96.84238
+      },
+      {
+        "name": "Tamarind Lake Village",
+        "country": "Myanmar",
+        "lat": 26.325338,
+        "lng": 95.44299
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar",
+        "lat": 16.776854,
+        "lng": 96.1589
+      },
+      {
+        "name": "Ngwe Saung Beach",
+        "country": "Myanmar",
+        "lat": 16.6191,
+        "lng": 97.456116
+      }
+    ]
   },
   {
     "destination": "Burma",
@@ -402,7 +716,119 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bago",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Golden Rock",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar"
+      },
+      {
+        "name": "U Bein Bridge",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Monywa",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bagan",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mt Popa",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Kalaw",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Indein",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar",
+        "lat": 16.776854,
+        "lng": 96.1589
+      },
+      {
+        "name": "Bago",
+        "country": "Myanmar",
+        "lat": 17.336667,
+        "lng": 96.479722
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar",
+        "lat": 21.961073,
+        "lng": 96.09469
+      },
+      {
+        "name": "U Bein Bridge",
+        "country": "Myanmar",
+        "lat": 19.23092,
+        "lng": 95.54352
+      },
+      {
+        "name": "Monywa",
+        "country": "Myanmar",
+        "lat": 22.117216,
+        "lng": 95.13166
+      },
+      {
+        "name": "Mt Popa",
+        "country": "Myanmar",
+        "lat": 25.072719,
+        "lng": 96.354379
+      },
+      {
+        "name": "Kalaw",
+        "country": "Myanmar",
+        "lat": 20.636068,
+        "lng": 96.56641
+      },
+      {
+        "name": "Indein",
+        "country": "Myanmar",
+        "lat": 20.460867,
+        "lng": 96.84238
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar",
+        "lat": 26.325338,
+        "lng": 95.44299
+      }
+    ]
   },
   {
     "destination": "Burma",
@@ -453,7 +879,35 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bagan",
+        "country": "Myanmar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar",
+        "lat": 16.776854,
+        "lng": 96.1589
+      }
+    ]
   },
   {
     "destination": "Burma",
@@ -514,7 +968,139 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bagan",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Irrawaddy River",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mount Popa",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Amarapura",
+        "country": "Myanmar"
+      },
+      {
+        "name": "U Bein Bridge",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Innwa",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Sagaing",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mingun",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Pindaya",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Indein Village",
+        "country": "Myanmar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar",
+        "lat": 16.776854,
+        "lng": 96.1589
+      },
+      {
+        "name": "Mount Popa",
+        "country": "Myanmar",
+        "lat": 25.072719,
+        "lng": 96.354379
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar",
+        "lat": 21.961073,
+        "lng": 96.09469
+      },
+      {
+        "name": "Amarapura",
+        "country": "Myanmar",
+        "lat": 21.903685,
+        "lng": 96.04979
+      },
+      {
+        "name": "U Bein Bridge",
+        "country": "Myanmar",
+        "lat": 19.23092,
+        "lng": 95.54352
+      },
+      {
+        "name": "Innwa",
+        "country": "Myanmar",
+        "lat": 17.02532,
+        "lng": 96.46096
+      },
+      {
+        "name": "Sagaing",
+        "country": "Myanmar",
+        "lat": 21.877422,
+        "lng": 95.983996
+      },
+      {
+        "name": "Mingun",
+        "country": "Myanmar",
+        "lat": 22.054592,
+        "lng": 96.01782
+      },
+      {
+        "name": "Pindaya",
+        "country": "Myanmar",
+        "lat": 20.94162,
+        "lng": 96.66233
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar",
+        "lat": 26.325338,
+        "lng": 95.44299
+      },
+      {
+        "name": "Indein Village",
+        "country": "Myanmar",
+        "lat": 20.460867,
+        "lng": 96.84238
+      }
+    ]
   },
   {
     "destination": "Burma",
@@ -585,7 +1171,105 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mingun",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Amarapura",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Innwa",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bagan",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Nyaung Shwe",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Indein",
+        "country": "Myanmar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar",
+        "lat": 16.776854,
+        "lng": 96.1589
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar",
+        "lat": 21.961073,
+        "lng": 96.09469
+      },
+      {
+        "name": "Mingun",
+        "country": "Myanmar",
+        "lat": 22.054592,
+        "lng": 96.01782
+      },
+      {
+        "name": "Amarapura",
+        "country": "Myanmar",
+        "lat": 21.903685,
+        "lng": 96.04979
+      },
+      {
+        "name": "Innwa",
+        "country": "Myanmar",
+        "lat": 17.02532,
+        "lng": 96.46096
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar",
+        "lat": 26.325338,
+        "lng": 95.44299
+      },
+      {
+        "name": "Nyaung Shwe",
+        "country": "Myanmar",
+        "lat": 21.835222,
+        "lng": 95.42443
+      },
+      {
+        "name": "Indein",
+        "country": "Myanmar",
+        "lat": 20.460867,
+        "lng": 96.84238
+      }
+    ]
   },
   {
     "destination": "Burma",
@@ -681,7 +1365,119 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Golden Rock",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bago",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Amarapura",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bagan",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mt. Popa",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Kalaw",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Indein",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Nyaung Shwe",
+        "country": "Myanmar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar",
+        "lat": 16.776854,
+        "lng": 96.1589
+      },
+      {
+        "name": "Bago",
+        "country": "Myanmar",
+        "lat": 17.336667,
+        "lng": 96.479722
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar",
+        "lat": 21.961073,
+        "lng": 96.09469
+      },
+      {
+        "name": "Amarapura",
+        "country": "Myanmar",
+        "lat": 21.903685,
+        "lng": 96.04979
+      },
+      {
+        "name": "Mt. Popa",
+        "country": "Myanmar",
+        "lat": 25.072719,
+        "lng": 96.354379
+      },
+      {
+        "name": "Kalaw",
+        "country": "Myanmar",
+        "lat": 20.636068,
+        "lng": 96.56641
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar",
+        "lat": 26.325338,
+        "lng": 95.44299
+      },
+      {
+        "name": "Indein",
+        "country": "Myanmar",
+        "lat": 20.460867,
+        "lng": 96.84238
+      },
+      {
+        "name": "Nyaung Shwe",
+        "country": "Myanmar",
+        "lat": 21.835222,
+        "lng": 95.42443
+      }
+    ]
   },
   {
     "destination": "Burma",
@@ -782,7 +1578,65 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bagan",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Ngwe Saung Beach",
+        "country": "Myanmar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar",
+        "lat": 16.776854,
+        "lng": 96.1589
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar",
+        "lat": 21.961073,
+        "lng": 96.09469
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar",
+        "lat": 26.325338,
+        "lng": 95.44299
+      },
+      {
+        "name": "Ngwe Saung Beach",
+        "country": "Myanmar",
+        "lat": 16.6191,
+        "lng": 97.456116
+      }
+    ]
   },
   {
     "destination": "Burma",
@@ -873,6 +1727,78 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bagan",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Golden Triangle",
+        "country": "null"
+      },
+      {
+        "name": "Pakbeng",
+        "country": "Laos"
+      },
+      {
+        "name": "Luang Prabang",
+        "country": "Laos"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar",
+        "lat": 16.776854,
+        "lng": 96.1589
+      },
+      {
+        "name": "Mandalay",
+        "country": "Myanmar",
+        "lat": 21.961073,
+        "lng": 96.09469
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar",
+        "lat": 26.325338,
+        "lng": 95.44299
+      },
+      {
+        "name": "Pakbeng",
+        "country": "Laos",
+        "lat": 19.894573,
+        "lng": 101.129616
+      },
+      {
+        "name": "Luang Prabang",
+        "country": "Laos",
+        "lat": 19.888744,
+        "lng": 102.135898
+      }
+    ]
   }
 ]

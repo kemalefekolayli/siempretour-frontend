@@ -63,7 +63,119 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "North Cyprus",
+        "country": "Cyprus"
+      },
+      {
+        "name": "Karpasia",
+        "country": "Cyprus"
+      },
+      {
+        "name": "Bafra Beach",
+        "country": "Cyprus"
+      },
+      {
+        "name": "Famagusta",
+        "country": "Cyprus"
+      },
+      {
+        "name": "Walled City of Famagusta",
+        "country": "Cyprus"
+      },
+      {
+        "name": "Ghost Town of Varosha",
+        "country": "Cyprus"
+      },
+      {
+        "name": "Salamis Ruins",
+        "country": "Cyprus"
+      },
+      {
+        "name": "Kyrenia",
+        "country": "Cyprus"
+      },
+      {
+        "name": "Kyrenia Harbour",
+        "country": "Cyprus"
+      },
+      {
+        "name": "Bellapais Monastery",
+        "country": "Cyprus"
+      },
+      {
+        "name": "Kantara Castle",
+        "country": "Cyprus"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Karpasia",
+        "country": "Cyprus",
+        "lat": 35.297894,
+        "lng": 33.07052
+      },
+      {
+        "name": "Bafra Beach",
+        "country": "Cyprus",
+        "lat": 35.379518,
+        "lng": 34.071254
+      },
+      {
+        "name": "Famagusta",
+        "country": "Cyprus",
+        "lat": 35.124928,
+        "lng": 33.94233
+      },
+      {
+        "name": "Walled City of Famagusta",
+        "country": "Cyprus",
+        "lat": 35.124928,
+        "lng": 33.94233
+      },
+      {
+        "name": "Salamis Ruins",
+        "country": "Cyprus",
+        "lat": 34.841488,
+        "lng": 32.692127
+      },
+      {
+        "name": "Kyrenia",
+        "country": "Cyprus",
+        "lat": 35.341602,
+        "lng": 33.320698
+      },
+      {
+        "name": "Kyrenia Harbour",
+        "country": "Cyprus",
+        "lat": 35.341602,
+        "lng": 33.320698
+      },
+      {
+        "name": "Bellapais Monastery",
+        "country": "Cyprus",
+        "lat": 35.306755,
+        "lng": 33.354786
+      },
+      {
+        "name": "Kantara Castle",
+        "country": "Cyprus",
+        "lat": 35.387272,
+        "lng": 33.898476
+      }
+    ]
   },
   {
     "destination": "Cyprus",
@@ -109,6 +221,44 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kalopanayiotis",
+        "country": "Cyprus"
+      },
+      {
+        "name": "Marathasa Valley",
+        "country": "Cyprus"
+      },
+      {
+        "name": "Troodos Mountains",
+        "country": "Cyprus"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kalopanayiotis",
+        "country": "Cyprus",
+        "lat": 34.992756,
+        "lng": 32.82818
+      },
+      {
+        "name": "Troodos Mountains",
+        "country": "Cyprus",
+        "lat": 34.921993,
+        "lng": 32.88032
+      }
+    ]
   }
 ]

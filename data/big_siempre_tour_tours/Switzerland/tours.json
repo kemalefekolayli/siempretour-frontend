@@ -68,7 +68,113 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lucerne",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Interlaken",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Grindelwald",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Brunngasse",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Zermatt",
+        "country": "Switzerland"
+      },
+      {
+        "name": "5-Seenweg",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Matterhorn glacier",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Lake Geneva",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Montreux",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Lausanne",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Geneva",
+        "country": "Switzerland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lucerne",
+        "country": "Switzerland",
+        "lat": 47.05158,
+        "lng": 8.303875
+      },
+      {
+        "name": "Interlaken",
+        "country": "Switzerland",
+        "lat": 46.684875,
+        "lng": 7.85602
+      },
+      {
+        "name": "Grindelwald",
+        "country": "Switzerland",
+        "lat": 46.624184,
+        "lng": 8.035518
+      },
+      {
+        "name": "Zermatt",
+        "country": "Switzerland",
+        "lat": 46.020683,
+        "lng": 7.749103
+      },
+      {
+        "name": "Lake Geneva",
+        "country": "Switzerland",
+        "lat": 46.20477,
+        "lng": 6.146314
+      },
+      {
+        "name": "Montreux",
+        "country": "Switzerland",
+        "lat": 46.433422,
+        "lng": 6.910115
+      },
+      {
+        "name": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.520714,
+        "lng": 6.632528
+      },
+      {
+        "name": "Geneva",
+        "country": "Switzerland",
+        "lat": 46.20477,
+        "lng": 6.146314
+      }
+    ]
   },
   {
     "destination": "Switzerland",
@@ -134,7 +240,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Zurich",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Bern",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Grindelwald",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Lucerne",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Mount Rigi",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Lake Lucerne",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Lauterbrunnen",
+        "country": "Switzerland"
+      },
+      {
+        "name": "St. Gallen",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Bulle",
+        "country": "Switzerland"
+      },
+      {
+        "name": "La Gruyere",
+        "country": "Switzerland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Zurich",
+        "country": "Switzerland",
+        "lat": 47.369733,
+        "lng": 8.541096
+      },
+      {
+        "name": "Bern",
+        "country": "Switzerland",
+        "lat": 46.948715,
+        "lng": 7.443638
+      },
+      {
+        "name": "Grindelwald",
+        "country": "Switzerland",
+        "lat": 46.624184,
+        "lng": 8.035518
+      },
+      {
+        "name": "Lucerne",
+        "country": "Switzerland",
+        "lat": 47.05158,
+        "lng": 8.303875
+      },
+      {
+        "name": "Mount Rigi",
+        "country": "Switzerland",
+        "lat": 47.02666,
+        "lng": 8.519294
+      },
+      {
+        "name": "Lake Lucerne",
+        "country": "Switzerland",
+        "lat": 47.05158,
+        "lng": 8.303875
+      },
+      {
+        "name": "Lauterbrunnen",
+        "country": "Switzerland",
+        "lat": 46.597298,
+        "lng": 7.907516
+      },
+      {
+        "name": "St. Gallen",
+        "country": "Switzerland",
+        "lat": 47.42486,
+        "lng": 9.376546
+      },
+      {
+        "name": "Bulle",
+        "country": "Switzerland",
+        "lat": 46.619186,
+        "lng": 7.057572
+      },
+      {
+        "name": "La Gruyere",
+        "country": "Switzerland",
+        "lat": 46.583633,
+        "lng": 7.08153
+      }
+    ]
   },
   {
     "destination": "Switzerland",
@@ -240,7 +460,91 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Zurich",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Lucerne",
+        "country": "Switzerland"
+      },
+      {
+        "name": "St. Moritz",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Zermatt",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Grindelwald",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Montreux",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Geneva",
+        "country": "Switzerland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Zurich",
+        "country": "Switzerland",
+        "lat": 47.369733,
+        "lng": 8.541096
+      },
+      {
+        "name": "Lucerne",
+        "country": "Switzerland",
+        "lat": 47.05158,
+        "lng": 8.303875
+      },
+      {
+        "name": "St. Moritz",
+        "country": "Switzerland",
+        "lat": 46.498108,
+        "lng": 9.839414
+      },
+      {
+        "name": "Zermatt",
+        "country": "Switzerland",
+        "lat": 46.020683,
+        "lng": 7.749103
+      },
+      {
+        "name": "Grindelwald",
+        "country": "Switzerland",
+        "lat": 46.624184,
+        "lng": 8.035518
+      },
+      {
+        "name": "Montreux",
+        "country": "Switzerland",
+        "lat": 46.433422,
+        "lng": 6.910115
+      },
+      {
+        "name": "Geneva",
+        "country": "Switzerland",
+        "lat": 46.20477,
+        "lng": 6.146314
+      }
+    ]
   },
   {
     "destination": "Switzerland",
@@ -326,6 +630,178 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Zurich",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Lucerne",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Engelberg",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Mount Titlis",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Bellinzona",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Lugano",
+        "country": "Switzerland"
+      },
+      {
+        "name": "San Salvatore",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Zermatt",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Matterhorn",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Murren",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Bernese Oberland",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Gruyeres",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Lausanne",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Lake Geneva",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Avenches",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Murten",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Bern",
+        "country": "Switzerland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Zurich",
+        "country": "Switzerland",
+        "lat": 47.369733,
+        "lng": 8.541096
+      },
+      {
+        "name": "Lucerne",
+        "country": "Switzerland",
+        "lat": 47.05158,
+        "lng": 8.303875
+      },
+      {
+        "name": "Engelberg",
+        "country": "Switzerland",
+        "lat": 46.820249,
+        "lng": 8.407121
+      },
+      {
+        "name": "Mount Titlis",
+        "country": "Switzerland",
+        "lat": 46.556503,
+        "lng": 6.635374
+      },
+      {
+        "name": "Bellinzona",
+        "country": "Switzerland",
+        "lat": 46.189984,
+        "lng": 9.022511
+      },
+      {
+        "name": "Lugano",
+        "country": "Switzerland",
+        "lat": 46.005764,
+        "lng": 8.953648
+      },
+      {
+        "name": "San Salvatore",
+        "country": "Switzerland",
+        "lat": 46.48968,
+        "lng": 8.953061
+      },
+      {
+        "name": "Zermatt",
+        "country": "Switzerland",
+        "lat": 46.020683,
+        "lng": 7.749103
+      },
+      {
+        "name": "Murren",
+        "country": "Switzerland",
+        "lat": 46.55944,
+        "lng": 7.892641
+      },
+      {
+        "name": "Gruyeres",
+        "country": "Switzerland",
+        "lat": 46.583633,
+        "lng": 7.08153
+      },
+      {
+        "name": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.520714,
+        "lng": 6.632528
+      },
+      {
+        "name": "Lake Geneva",
+        "country": "Switzerland",
+        "lat": 46.20477,
+        "lng": 6.146314
+      },
+      {
+        "name": "Avenches",
+        "country": "Switzerland",
+        "lat": 46.87927,
+        "lng": 7.041435
+      },
+      {
+        "name": "Murten",
+        "country": "Switzerland",
+        "lat": 46.928284,
+        "lng": 7.117084
+      },
+      {
+        "name": "Bern",
+        "country": "Switzerland",
+        "lat": 46.948715,
+        "lng": 7.443638
+      }
+    ]
   }
 ]

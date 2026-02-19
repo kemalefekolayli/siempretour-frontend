@@ -58,7 +58,91 @@
       }
     ],
     "map": "",
-    "category": "Yoga&Wellness"
+    "category": "Yoga&Wellness",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Hohe Tauern National Park",
+        "country": "Austria"
+      },
+      {
+        "name": "Großglockner",
+        "country": "Austria"
+      },
+      {
+        "name": "Kals",
+        "country": "Austria"
+      },
+      {
+        "name": "Blauspitz",
+        "country": "Austria"
+      },
+      {
+        "name": "Lienz",
+        "country": "Austria"
+      },
+      {
+        "name": "Dorfer Lake",
+        "country": "Austria"
+      },
+      {
+        "name": "Isel",
+        "country": "Austria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Hohe Tauern National Park",
+        "country": "Austria",
+        "lat": 48.204399,
+        "lng": 15.622912
+      },
+      {
+        "name": "Großglockner",
+        "country": "Austria",
+        "lat": 48.204399,
+        "lng": 15.622912
+      },
+      {
+        "name": "Kals",
+        "country": "Austria",
+        "lat": 47.062424,
+        "lng": 11.500388
+      },
+      {
+        "name": "Blauspitz",
+        "country": "Austria",
+        "lat": 48.204399,
+        "lng": 15.622912
+      },
+      {
+        "name": "Lienz",
+        "country": "Austria",
+        "lat": 46.829525,
+        "lng": 12.768215
+      },
+      {
+        "name": "Dorfer Lake",
+        "country": "Austria",
+        "lat": 48.172886,
+        "lng": 15.729233
+      },
+      {
+        "name": "Isel",
+        "country": "Austria",
+        "lat": 48.204399,
+        "lng": 15.622912
+      }
+    ]
   },
   {
     "destination": "Austria",
@@ -124,7 +208,91 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Strobl",
+        "country": "Austria"
+      },
+      {
+        "name": "Bad Ischl",
+        "country": "Austria"
+      },
+      {
+        "name": "St Gilgen",
+        "country": "Austria"
+      },
+      {
+        "name": "St Wolfgang",
+        "country": "Austria"
+      },
+      {
+        "name": "Salzburg",
+        "country": "Austria"
+      },
+      {
+        "name": "Lake Nussensee",
+        "country": "Austria"
+      },
+      {
+        "name": "Lake Schwarzen",
+        "country": "Austria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Strobl",
+        "country": "Austria",
+        "lat": 47.718746,
+        "lng": 13.482199
+      },
+      {
+        "name": "Bad Ischl",
+        "country": "Austria",
+        "lat": 47.711193,
+        "lng": 13.622585
+      },
+      {
+        "name": "St Gilgen",
+        "country": "Austria",
+        "lat": 47.766705,
+        "lng": 13.365068
+      },
+      {
+        "name": "St Wolfgang",
+        "country": "Austria",
+        "lat": 48.674393,
+        "lng": 14.879841
+      },
+      {
+        "name": "Salzburg",
+        "country": "Austria",
+        "lat": 47.799973,
+        "lng": 13.045283
+      },
+      {
+        "name": "Lake Nussensee",
+        "country": "Austria",
+        "lat": 46.83802,
+        "lng": 15.503671
+      },
+      {
+        "name": "Lake Schwarzen",
+        "country": "Austria",
+        "lat": 46.73331,
+        "lng": 14.114443
+      }
+    ]
   },
   {
     "destination": "Austria",
@@ -205,7 +373,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bregenz",
+        "country": "Austria"
+      },
+      {
+        "name": "Innsbruck",
+        "country": "Austria"
+      },
+      {
+        "name": "Salzburg",
+        "country": "Austria"
+      },
+      {
+        "name": "Graz",
+        "country": "Austria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bregenz",
+        "country": "Austria",
+        "lat": 47.50415,
+        "lng": 9.746481
+      },
+      {
+        "name": "Innsbruck",
+        "country": "Austria",
+        "lat": 47.268234,
+        "lng": 11.395086
+      },
+      {
+        "name": "Salzburg",
+        "country": "Austria",
+        "lat": 47.799973,
+        "lng": 13.045283
+      },
+      {
+        "name": "Graz",
+        "country": "Austria",
+        "lat": 47.07052,
+        "lng": 15.437514
+      }
+    ]
   },
   {
     "destination": "Austria",
@@ -276,6 +498,50 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Vienna",
+        "country": "Austria"
+      },
+      {
+        "name": "Salzburg",
+        "country": "Austria"
+      },
+      {
+        "name": "Innsbruck",
+        "country": "Austria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Vienna",
+        "country": "Austria",
+        "lat": 48.208354,
+        "lng": 16.372504
+      },
+      {
+        "name": "Salzburg",
+        "country": "Austria",
+        "lat": 47.799973,
+        "lng": 13.045283
+      },
+      {
+        "name": "Innsbruck",
+        "country": "Austria",
+        "lat": 47.268234,
+        "lng": 11.395086
+      }
+    ]
   }
 ]

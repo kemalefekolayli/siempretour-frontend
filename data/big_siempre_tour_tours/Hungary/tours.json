@@ -73,7 +73,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Budapest",
+        "country": "Hungary"
+      },
+      {
+        "name": "Eger",
+        "country": "Hungary"
+      },
+      {
+        "name": "Maramures",
+        "country": "Romania"
+      },
+      {
+        "name": "Merry Cemetery",
+        "country": "Romania"
+      },
+      {
+        "name": "Sighetu",
+        "country": "Romania"
+      },
+      {
+        "name": "Sighisoara",
+        "country": "Romania"
+      },
+      {
+        "name": "Viscri",
+        "country": "Romania"
+      },
+      {
+        "name": "Brasov",
+        "country": "Romania"
+      },
+      {
+        "name": "Bucharest",
+        "country": "Romania"
+      },
+      {
+        "name": "Budapest",
+        "country": "Hungary"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Budapest",
+        "country": "Hungary",
+        "lat": 47.497994,
+        "lng": 19.040359
+      },
+      {
+        "name": "Eger",
+        "country": "Hungary",
+        "lat": 47.902092,
+        "lng": 20.376497
+      },
+      {
+        "name": "Maramures",
+        "country": "Romania",
+        "lat": 47.656558,
+        "lng": 23.571984
+      },
+      {
+        "name": "Merry Cemetery",
+        "country": "Romania",
+        "lat": 46.790855,
+        "lng": 26.690353
+      },
+      {
+        "name": "Sighetu",
+        "country": "Romania",
+        "lat": 46.790855,
+        "lng": 26.690353
+      },
+      {
+        "name": "Sighisoara",
+        "country": "Romania",
+        "lat": 46.21882,
+        "lng": 24.793247
+      },
+      {
+        "name": "Viscri",
+        "country": "Romania",
+        "lat": 46.056747,
+        "lng": 25.097378
+      },
+      {
+        "name": "Brasov",
+        "country": "Romania",
+        "lat": 45.651417,
+        "lng": 25.610168
+      },
+      {
+        "name": "Bucharest",
+        "country": "Romania",
+        "lat": 44.436141,
+        "lng": 26.10272
+      },
+      {
+        "name": "Budapest",
+        "country": "Hungary",
+        "lat": 47.497994,
+        "lng": 19.040359
+      }
+    ]
   },
   {
     "destination": "Hungary",
@@ -139,6 +253,74 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Krakow",
+        "country": "Poland"
+      },
+      {
+        "name": "Dunajec River Gorge",
+        "country": "Poland"
+      },
+      {
+        "name": "Tatra Mountains",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Banska Bystrica",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Banska Stiavnica",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Budapest",
+        "country": "Hungary"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Krakow",
+        "country": "Poland",
+        "lat": 50.062325,
+        "lng": 19.937975
+      },
+      {
+        "name": "Dunajec River Gorge",
+        "country": "Poland",
+        "lat": 49.694444,
+        "lng": 18.8325
+      },
+      {
+        "name": "Banska Bystrica",
+        "country": "Slovakia",
+        "lat": 48.735933,
+        "lng": 19.145852
+      },
+      {
+        "name": "Banska Stiavnica",
+        "country": "Slovakia",
+        "lat": 48.458714,
+        "lng": 18.89328
+      },
+      {
+        "name": "Budapest",
+        "country": "Hungary",
+        "lat": 47.497994,
+        "lng": 19.040359
+      }
+    ]
   }
 ]

@@ -63,7 +63,123 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Herceg Novi",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Ostrog Monastery",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Risan",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Boka Bay",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Kotor",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Perast",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Cetinje",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Skadar Lake",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Podgorica",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Bar",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Ulcinj",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Kolašin",
+        "country": "Montenegro"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Herceg Novi",
+        "country": "Montenegro",
+        "lat": 42.451762,
+        "lng": 18.536752
+      },
+      {
+        "name": "Risan",
+        "country": "Montenegro",
+        "lat": 42.51455,
+        "lng": 18.694431
+      },
+      {
+        "name": "Kotor",
+        "country": "Montenegro",
+        "lat": 42.424852,
+        "lng": 18.771044
+      },
+      {
+        "name": "Perast",
+        "country": "Montenegro",
+        "lat": 42.486267,
+        "lng": 18.698858
+      },
+      {
+        "name": "Cetinje",
+        "country": "Montenegro",
+        "lat": 42.389633,
+        "lng": 18.924609
+      },
+      {
+        "name": "Podgorica",
+        "country": "Montenegro",
+        "lat": 42.441524,
+        "lng": 19.262108
+      },
+      {
+        "name": "Bar",
+        "country": "Montenegro",
+        "lat": 42.097975,
+        "lng": 19.095453
+      },
+      {
+        "name": "Ulcinj",
+        "country": "Montenegro",
+        "lat": 41.926012,
+        "lng": 19.205556
+      },
+      {
+        "name": "Kolašin",
+        "country": "Montenegro",
+        "lat": 42.823846,
+        "lng": 19.521797
+      }
+    ]
   },
   {
     "destination": "Montenegro",
@@ -124,6 +240,68 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Montenegro",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Kotor",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Kotor Bay",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Hawaii Island",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Budva",
+        "country": "Montenegro"
+      },
+      {
+        "name": "Budva Old Town",
+        "country": "Montenegro"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kotor",
+        "country": "Montenegro",
+        "lat": 42.424852,
+        "lng": 18.771044
+      },
+      {
+        "name": "Kotor Bay",
+        "country": "Montenegro",
+        "lat": 42.424852,
+        "lng": 18.771044
+      },
+      {
+        "name": "Budva",
+        "country": "Montenegro",
+        "lat": 42.288566,
+        "lng": 18.841951
+      },
+      {
+        "name": "Budva Old Town",
+        "country": "Montenegro",
+        "lat": 42.288566,
+        "lng": 18.841951
+      }
+    ]
   }
 ]

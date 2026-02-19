@@ -58,7 +58,41 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Al Ula",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Al Ula",
+        "country": "Saudi Arabia",
+        "lat": 26.559532,
+        "lng": 37.9581
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      }
+    ]
   },
   {
     "destination": "Saudi Arabia",
@@ -104,7 +138,55 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "AlUla",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Hegra",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Dadan",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jabal Ikmah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "AlUla Old Town",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Elephant Rock",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      }
+    ]
   },
   {
     "destination": "Saudi Arabia",
@@ -160,7 +242,65 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Madinah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "AlUla",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Hegra",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Dadan",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jabal Ikmah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "AlUla Old Town",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Elephant Rock",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      },
+      {
+        "name": "Madinah",
+        "country": "Saudi Arabia",
+        "lat": 24.471037,
+        "lng": 39.61116
+      }
+    ]
   },
   {
     "destination": "Saudi Arabia",
@@ -231,7 +371,69 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Ad Diriyah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Masmak Fort",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Souk Al-Zal",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Al Balad",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.633333,
+        "lng": 46.716667
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      },
+      {
+        "name": "Ad Diriyah",
+        "country": "Saudi Arabia",
+        "lat": 24.748644,
+        "lng": 46.571396
+      },
+      {
+        "name": "Al Balad",
+        "country": "Saudi Arabia",
+        "lat": 21.483836,
+        "lng": 39.186951
+      }
+    ]
   },
   {
     "destination": "Saudi Arabia",
@@ -292,7 +494,105 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Diriyah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Edge of the World",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Red Sands",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Al Ula",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Elephant Rock",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Al Hegra",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Dadan",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Medina",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Obhur Creek",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jeddah Waterfront",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.633333,
+        "lng": 46.716667
+      },
+      {
+        "name": "Diriyah",
+        "country": "Saudi Arabia",
+        "lat": 24.715536,
+        "lng": 42.930847
+      },
+      {
+        "name": "Al Ula",
+        "country": "Saudi Arabia",
+        "lat": 26.559532,
+        "lng": 37.9581
+      },
+      {
+        "name": "Medina",
+        "country": "Saudi Arabia",
+        "lat": 24.471037,
+        "lng": 39.61116
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      },
+      {
+        "name": "Jeddah Waterfront",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      }
+    ]
   },
   {
     "destination": "Saudi Arabia",
@@ -353,7 +653,51 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.633333,
+        "lng": 46.716667
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      }
+    ]
   },
   {
     "destination": "Saudi Arabia",
@@ -444,7 +788,109 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Buraydah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Hail",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jubbah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "AlUla",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Madain Saleh (Hegra)",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Medina",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Al Bahah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Taif",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.633333,
+        "lng": 46.716667
+      },
+      {
+        "name": "Buraydah",
+        "country": "Saudi Arabia",
+        "lat": 26.32851,
+        "lng": 43.973053
+      },
+      {
+        "name": "Hail",
+        "country": "Saudi Arabia",
+        "lat": 27.521198,
+        "lng": 41.693638
+      },
+      {
+        "name": "Madain Saleh (Hegra)",
+        "country": "Saudi Arabia",
+        "lat": 27.666667,
+        "lng": 35.583333
+      },
+      {
+        "name": "Medina",
+        "country": "Saudi Arabia",
+        "lat": 24.471037,
+        "lng": 39.61116
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      },
+      {
+        "name": "Al Bahah",
+        "country": "Saudi Arabia",
+        "lat": 20.01191,
+        "lng": 41.464172
+      },
+      {
+        "name": "Taif",
+        "country": "Saudi Arabia",
+        "lat": 21.275766,
+        "lng": 40.41373
+      }
+    ]
   },
   {
     "destination": "Saudi Arabia",
@@ -510,7 +956,193 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Diriyah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Masmak Fort",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "National Museum",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Murabba Palace",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "AlUla",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Hegra",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Qasr Al-Farid",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jabal Al-Ahmar",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jabal Al-Banat",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Dadan",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jabal Ikmah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "AlUla Old Town",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Elephant Rock",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Madinah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Prophet’s Mosque",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Quba Mosque",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Souq Taiba",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Tayebat Museum",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jeddah Open Museum",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Floating Mosque",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "King Fahd’s Fountain",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Al-Balad",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Nasif House",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.633333,
+        "lng": 46.716667
+      },
+      {
+        "name": "Diriyah",
+        "country": "Saudi Arabia",
+        "lat": 24.715536,
+        "lng": 42.930847
+      },
+      {
+        "name": "Murabba Palace",
+        "country": "Saudi Arabia",
+        "lat": 24.659914,
+        "lng": 46.709771
+      },
+      {
+        "name": "Jabal Al-Ahmar",
+        "country": "Saudi Arabia",
+        "lat": 22.435812,
+        "lng": 46.192125
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      },
+      {
+        "name": "Madinah",
+        "country": "Saudi Arabia",
+        "lat": 24.471037,
+        "lng": 39.61116
+      },
+      {
+        "name": "Quba Mosque",
+        "country": "Saudi Arabia",
+        "lat": 24.441815,
+        "lng": 39.617609
+      },
+      {
+        "name": "Souq Taiba",
+        "country": "Saudi Arabia",
+        "lat": 21.275766,
+        "lng": 40.41373
+      },
+      {
+        "name": "Jeddah Open Museum",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      },
+      {
+        "name": "King Fahd’s Fountain",
+        "country": "Saudi Arabia",
+        "lat": 24.505723,
+        "lng": 39.695199
+      },
+      {
+        "name": "Al-Balad",
+        "country": "Saudi Arabia",
+        "lat": 21.483836,
+        "lng": 39.186951
+      },
+      {
+        "name": "Nasif House",
+        "country": "Saudi Arabia",
+        "lat": 24.765556,
+        "lng": 46.681389
+      }
+    ]
   },
   {
     "destination": "Saudi Arabia",
@@ -596,7 +1228,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "AlUla",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Medina",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.633333,
+        "lng": 46.716667
+      },
+      {
+        "name": "Medina",
+        "country": "Saudi Arabia",
+        "lat": 24.471037,
+        "lng": 39.61116
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.453524,
+        "lng": 54.377438
+      }
+    ]
   },
   {
     "destination": "Saudi Arabia",
@@ -662,7 +1362,63 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Ushaiqer",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Al Nafud",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "AlUla",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Madain Saleh (Hegra)",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.633333,
+        "lng": 46.716667
+      },
+      {
+        "name": "Madain Saleh (Hegra)",
+        "country": "Saudi Arabia",
+        "lat": 27.666667,
+        "lng": 35.583333
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      }
+    ]
   },
   {
     "destination": "Saudi Arabia",
@@ -743,7 +1499,117 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Medina",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "AlUla",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Ha'il",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jubbah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Hutaymah Crater",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Buraydah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Ushaiqer",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Diriyah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Nafud desert",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Dawmat Al Jandal",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      },
+      {
+        "name": "Medina",
+        "country": "Saudi Arabia",
+        "lat": 24.471037,
+        "lng": 39.61116
+      },
+      {
+        "name": "Ha'il",
+        "country": "Saudi Arabia",
+        "lat": 27.521198,
+        "lng": 41.693638
+      },
+      {
+        "name": "Hutaymah Crater",
+        "country": "Saudi Arabia",
+        "lat": 24.133333,
+        "lng": 50.083333
+      },
+      {
+        "name": "Buraydah",
+        "country": "Saudi Arabia",
+        "lat": 26.32851,
+        "lng": 43.973053
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.633333,
+        "lng": 46.716667
+      },
+      {
+        "name": "Diriyah",
+        "country": "Saudi Arabia",
+        "lat": 24.715536,
+        "lng": 42.930847
+      },
+      {
+        "name": "Dawmat Al Jandal",
+        "country": "Saudi Arabia",
+        "lat": 29.808582,
+        "lng": 39.86668
+      }
+    ]
   },
   {
     "destination": "Saudi Arabia",
@@ -839,7 +1705,115 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Diriyah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "The Edge of the World",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Ushaiqer",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Buraydah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jubbah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Hail",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "AlUla",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Madain Saleh",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Wadi Qaraqir",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Bajdah Desert",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Abha",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.633333,
+        "lng": 46.716667
+      },
+      {
+        "name": "Diriyah",
+        "country": "Saudi Arabia",
+        "lat": 24.715536,
+        "lng": 42.930847
+      },
+      {
+        "name": "Buraydah",
+        "country": "Saudi Arabia",
+        "lat": 26.32851,
+        "lng": 43.973053
+      },
+      {
+        "name": "Hail",
+        "country": "Saudi Arabia",
+        "lat": 27.521198,
+        "lng": 41.693638
+      },
+      {
+        "name": "Madain Saleh",
+        "country": "Saudi Arabia",
+        "lat": 27.666667,
+        "lng": 35.583333
+      },
+      {
+        "name": "Abha",
+        "country": "Saudi Arabia",
+        "lat": 18.213942,
+        "lng": 42.50018
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      }
+    ]
   },
   {
     "destination": "Saudi Arabia",
@@ -915,6 +1889,64 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "AlUla",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Tabuk",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Madinah",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.633333,
+        "lng": 46.716667
+      },
+      {
+        "name": "Tabuk",
+        "country": "Saudi Arabia",
+        "lat": 28.384047,
+        "lng": 36.566547
+      },
+      {
+        "name": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.581549,
+        "lng": 39.165348
+      },
+      {
+        "name": "Madinah",
+        "country": "Saudi Arabia",
+        "lat": 24.471037,
+        "lng": 39.61116
+      }
+    ]
   }
 ]

@@ -73,7 +73,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Salvador",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Suchitoto",
+        "country": "El Salvador"
+      },
+      {
+        "name": "El Boquerón National Park",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Cerro Verde National Park",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Santa Ana Volcano",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Joya de Cerén",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Tazumal",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Ataco",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Juayúa",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Apaneca",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Nahuizalco",
+        "country": "El Salvador"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Salvador",
+        "country": "El Salvador",
+        "lat": 13.698965,
+        "lng": -89.19143
+      },
+      {
+        "name": "Suchitoto",
+        "country": "El Salvador",
+        "lat": 13.936655,
+        "lng": -89.02643
+      },
+      {
+        "name": "El Boquerón National Park",
+        "country": "El Salvador",
+        "lat": 13.701306,
+        "lng": -89.07811
+      },
+      {
+        "name": "Cerro Verde National Park",
+        "country": "El Salvador",
+        "lat": 13.701306,
+        "lng": -89.07811
+      },
+      {
+        "name": "Santa Ana Volcano",
+        "country": "El Salvador",
+        "lat": 13.994529,
+        "lng": -89.557
+      },
+      {
+        "name": "Joya de Cerén",
+        "country": "El Salvador",
+        "lat": 13.749422,
+        "lng": -89.594602
+      },
+      {
+        "name": "Tazumal",
+        "country": "El Salvador",
+        "lat": 13.977334,
+        "lng": -89.673007
+      },
+      {
+        "name": "Ataco",
+        "country": "El Salvador",
+        "lat": 13.701306,
+        "lng": -89.07811
+      },
+      {
+        "name": "Juayúa",
+        "country": "El Salvador",
+        "lat": 13.843642,
+        "lng": -89.747154
+      },
+      {
+        "name": "Apaneca",
+        "country": "El Salvador",
+        "lat": 13.858798,
+        "lng": -89.80397
+      },
+      {
+        "name": "Nahuizalco",
+        "country": "El Salvador",
+        "lat": 13.77959,
+        "lng": -89.736855
+      }
+    ]
   },
   {
     "destination": "El Salvador",
@@ -149,7 +273,121 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Salvador",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Cerro Verde National Park",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Ataco",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Tazumal",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Santa Ana",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Joya de Cerén",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Suchitoto",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Gulf of Fonseca",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Perquin",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Jiquilisco Bay",
+        "country": "El Salvador"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Salvador",
+        "country": "El Salvador",
+        "lat": 13.698965,
+        "lng": -89.19143
+      },
+      {
+        "name": "Cerro Verde National Park",
+        "country": "El Salvador",
+        "lat": 13.701306,
+        "lng": -89.07811
+      },
+      {
+        "name": "Ataco",
+        "country": "El Salvador",
+        "lat": 13.701306,
+        "lng": -89.07811
+      },
+      {
+        "name": "Tazumal",
+        "country": "El Salvador",
+        "lat": 13.977334,
+        "lng": -89.673007
+      },
+      {
+        "name": "Santa Ana",
+        "country": "El Salvador",
+        "lat": 13.994529,
+        "lng": -89.557
+      },
+      {
+        "name": "Joya de Cerén",
+        "country": "El Salvador",
+        "lat": 13.749422,
+        "lng": -89.594602
+      },
+      {
+        "name": "Suchitoto",
+        "country": "El Salvador",
+        "lat": 13.936655,
+        "lng": -89.02643
+      },
+      {
+        "name": "Gulf of Fonseca",
+        "country": "El Salvador",
+        "lat": 13.701306,
+        "lng": -89.07811
+      },
+      {
+        "name": "Perquin",
+        "country": "El Salvador",
+        "lat": 13.95842,
+        "lng": -88.16113
+      },
+      {
+        "name": "Jiquilisco Bay",
+        "country": "El Salvador",
+        "lat": 13.327346,
+        "lng": -88.570854
+      }
+    ]
   },
   {
     "destination": "El Salvador",
@@ -230,7 +468,191 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Salvador",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Joya de Ceren",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Suchitoto",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Cinquera",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Laguna de Alegria",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Jiquilisco Bay",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Coatepeque",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Tazumal",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Ataco",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Ruta de las Flores",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Los Volcanoes National Park",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Santa Ana",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Izalco",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Coatepeque Lake",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Los Cobanos",
+        "country": "El Salvador"
+      },
+      {
+        "name": "La Libertad",
+        "country": "El Salvador"
+      },
+      {
+        "name": "San Antonio Waterfalls",
+        "country": "El Salvador"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Salvador",
+        "country": "El Salvador",
+        "lat": 13.698965,
+        "lng": -89.19143
+      },
+      {
+        "name": "Joya de Ceren",
+        "country": "El Salvador",
+        "lat": 13.749422,
+        "lng": -89.594602
+      },
+      {
+        "name": "Suchitoto",
+        "country": "El Salvador",
+        "lat": 13.936655,
+        "lng": -89.02643
+      },
+      {
+        "name": "Cinquera",
+        "country": "El Salvador",
+        "lat": 13.888186,
+        "lng": -88.95922
+      },
+      {
+        "name": "Laguna de Alegria",
+        "country": "El Salvador",
+        "lat": 13.508266,
+        "lng": -88.488434
+      },
+      {
+        "name": "Jiquilisco Bay",
+        "country": "El Salvador",
+        "lat": 13.327346,
+        "lng": -88.570854
+      },
+      {
+        "name": "Coatepeque",
+        "country": "El Salvador",
+        "lat": 13.926583,
+        "lng": -89.50392
+      },
+      {
+        "name": "Tazumal",
+        "country": "El Salvador",
+        "lat": 13.977334,
+        "lng": -89.673007
+      },
+      {
+        "name": "Ataco",
+        "country": "El Salvador",
+        "lat": 13.701306,
+        "lng": -89.07811
+      },
+      {
+        "name": "Ruta de las Flores",
+        "country": "El Salvador",
+        "lat": 14.049924,
+        "lng": -88.83761
+      },
+      {
+        "name": "Los Volcanoes National Park",
+        "country": "El Salvador",
+        "lat": 13.701306,
+        "lng": -89.07811
+      },
+      {
+        "name": "Santa Ana",
+        "country": "El Salvador",
+        "lat": 13.994529,
+        "lng": -89.557
+      },
+      {
+        "name": "Izalco",
+        "country": "El Salvador",
+        "lat": 13.74642,
+        "lng": -89.67509
+      },
+      {
+        "name": "Coatepeque Lake",
+        "country": "El Salvador",
+        "lat": 13.926583,
+        "lng": -89.50392
+      },
+      {
+        "name": "Los Cobanos",
+        "country": "El Salvador",
+        "lat": 14.083507,
+        "lng": -89.038522
+      },
+      {
+        "name": "La Libertad",
+        "country": "El Salvador",
+        "lat": 13.487277,
+        "lng": -89.32063
+      },
+      {
+        "name": "San Antonio Waterfalls",
+        "country": "El Salvador",
+        "lat": 13.701306,
+        "lng": -89.07811
+      }
+    ]
   },
   {
     "destination": "El Salvador",
@@ -351,6 +773,276 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Salvador",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Cerro Verde National Park",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Nahuizalco",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Ataco",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Joya de Ceren",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Suchitoto",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Cinquera",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Jiquilisco",
+        "country": "El Salvador"
+      },
+      {
+        "name": "La Union",
+        "country": "El Salvador"
+      },
+      {
+        "name": "Potosi",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Leon",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Cerro Negro",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Lechecuagos",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Juan Venado",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Masaya Volcano",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Catarina",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Juan de Oriente",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Islets of Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Mombacho Volcano",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Ometepe",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Solentiname",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Lake Nicaragua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Carlos",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "El Castillo",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Indio Maiz",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Carlos",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Salvador",
+        "country": "El Salvador",
+        "lat": 13.698965,
+        "lng": -89.19143
+      },
+      {
+        "name": "Cerro Verde National Park",
+        "country": "El Salvador",
+        "lat": 13.701306,
+        "lng": -89.07811
+      },
+      {
+        "name": "Nahuizalco",
+        "country": "El Salvador",
+        "lat": 13.77959,
+        "lng": -89.736855
+      },
+      {
+        "name": "Ataco",
+        "country": "El Salvador",
+        "lat": 13.701306,
+        "lng": -89.07811
+      },
+      {
+        "name": "Joya de Ceren",
+        "country": "El Salvador",
+        "lat": 13.749422,
+        "lng": -89.594602
+      },
+      {
+        "name": "Suchitoto",
+        "country": "El Salvador",
+        "lat": 13.936655,
+        "lng": -89.02643
+      },
+      {
+        "name": "Cinquera",
+        "country": "El Salvador",
+        "lat": 13.888186,
+        "lng": -88.95922
+      },
+      {
+        "name": "Jiquilisco",
+        "country": "El Salvador",
+        "lat": 13.327346,
+        "lng": -88.570854
+      },
+      {
+        "name": "La Union",
+        "country": "El Salvador",
+        "lat": 13.337588,
+        "lng": -87.84341
+      },
+      {
+        "name": "Potosi",
+        "country": "Nicaragua",
+        "lat": 11.492962,
+        "lng": -85.85533
+      },
+      {
+        "name": "Leon",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      },
+      {
+        "name": "Cerro Negro",
+        "country": "Nicaragua",
+        "lat": 14.047615,
+        "lng": -84.666256
+      },
+      {
+        "name": "Juan Venado",
+        "country": "Nicaragua",
+        "lat": 13.807315,
+        "lng": -84.736878
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "Masaya Volcano",
+        "country": "Nicaragua",
+        "lat": 11.974947,
+        "lng": -86.09437
+      },
+      {
+        "name": "Catarina",
+        "country": "Nicaragua",
+        "lat": 11.912358,
+        "lng": -86.07418
+      },
+      {
+        "name": "San Juan de Oriente",
+        "country": "Nicaragua",
+        "lat": 11.907402,
+        "lng": -86.07366
+      },
+      {
+        "name": "Islets of Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "Mombacho Volcano",
+        "country": "Nicaragua",
+        "lat": 11.786352,
+        "lng": -85.897081
+      },
+      {
+        "name": "San Carlos",
+        "country": "Nicaragua",
+        "lat": 13.344617,
+        "lng": -85.834542
+      },
+      {
+        "name": "El Castillo",
+        "country": "Nicaragua",
+        "lat": 11.043314,
+        "lng": -84.47286
+      },
+      {
+        "name": "Indio Maiz",
+        "country": "Nicaragua",
+        "lat": 11.968193,
+        "lng": -84.47554
+      },
+      {
+        "name": "San Carlos",
+        "country": "Nicaragua",
+        "lat": 13.344617,
+        "lng": -85.834542
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "lat": 12.14,
+        "lng": -86.274
+      }
+    ]
   }
 ]

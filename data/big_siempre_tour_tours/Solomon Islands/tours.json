@@ -103,6 +103,82 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Honiara",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Guadalcanal",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Munda",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Lola Island",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Skull Island",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Gizo",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Kennedy Island",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Njari Island",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Seghe",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Marovo Lagoon",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Uepi Island",
+        "country": "Solomon Islands"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Honiara",
+        "country": "Solomon Islands",
+        "lat": -9.431077,
+        "lng": 159.955255
+      },
+      {
+        "name": "Guadalcanal",
+        "country": "Solomon Islands",
+        "lat": -9.576086,
+        "lng": 160.194203
+      },
+      {
+        "name": "Gizo",
+        "country": "Solomon Islands",
+        "lat": -8.078264,
+        "lng": 156.83718
+      }
+    ]
   }
 ]

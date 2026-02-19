@@ -68,7 +68,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Athens",
+        "country": "Greece"
+      },
+      {
+        "name": "Paros",
+        "country": "Greece"
+      },
+      {
+        "name": "Antiparos",
+        "country": "Greece"
+      },
+      {
+        "name": "Naxos",
+        "country": "Greece"
+      },
+      {
+        "name": "Santorini",
+        "country": "Greece"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Athens",
+        "country": "Greece",
+        "lat": 37.97757,
+        "lng": 23.729275
+      },
+      {
+        "name": "Paros",
+        "country": "Greece",
+        "lat": 37.05,
+        "lng": 25.183333
+      },
+      {
+        "name": "Antiparos",
+        "country": "Greece",
+        "lat": 37,
+        "lng": 25.05
+      },
+      {
+        "name": "Naxos",
+        "country": "Greece",
+        "lat": 37.106358,
+        "lng": 25.374836
+      },
+      {
+        "name": "Santorini",
+        "country": "Greece",
+        "lat": 36.415,
+        "lng": 25.4325
+      }
+    ]
   },
   {
     "destination": "Greece",
@@ -114,7 +178,161 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Athens",
+        "country": "Greece"
+      },
+      {
+        "name": "Aegina",
+        "country": "Greece"
+      },
+      {
+        "name": "Perdika",
+        "country": "Greece"
+      },
+      {
+        "name": "Marathonas beach",
+        "country": "Greece"
+      },
+      {
+        "name": "Agios Nektarios",
+        "country": "Greece"
+      },
+      {
+        "name": "Agia Marina",
+        "country": "Greece"
+      },
+      {
+        "name": "Paleochora",
+        "country": "Greece"
+      },
+      {
+        "name": "Temple of Aphaia",
+        "country": "Greece"
+      },
+      {
+        "name": "Agistri",
+        "country": "Greece"
+      },
+      {
+        "name": "Moni",
+        "country": "Greece"
+      },
+      {
+        "name": "Methana",
+        "country": "Greece"
+      },
+      {
+        "name": "Peloponnese",
+        "country": "Greece"
+      },
+      {
+        "name": "Aegina town",
+        "country": "Greece"
+      },
+      {
+        "name": "Piraeus",
+        "country": "Greece"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Athens",
+        "country": "Greece",
+        "lat": 37.97757,
+        "lng": 23.729275
+      },
+      {
+        "name": "Aegina",
+        "country": "Greece",
+        "lat": 37.746017,
+        "lng": 23.429611
+      },
+      {
+        "name": "Perdika",
+        "country": "Greece",
+        "lat": 37.69099,
+        "lng": 23.454132
+      },
+      {
+        "name": "Marathonas beach",
+        "country": "Greece",
+        "lat": 38.15858,
+        "lng": 23.958847
+      },
+      {
+        "name": "Agios Nektarios",
+        "country": "Greece",
+        "lat": 38.25096,
+        "lng": 22.0842
+      },
+      {
+        "name": "Agia Marina",
+        "country": "Greece",
+        "lat": 35.519382,
+        "lng": 23.927296
+      },
+      {
+        "name": "Paleochora",
+        "country": "Greece",
+        "lat": 35.23055,
+        "lng": 23.682257
+      },
+      {
+        "name": "Temple of Aphaia",
+        "country": "Greece",
+        "lat": 38.246242,
+        "lng": 21.735085
+      },
+      {
+        "name": "Agistri",
+        "country": "Greece",
+        "lat": 37.691944,
+        "lng": 23.346667
+      },
+      {
+        "name": "Moni",
+        "country": "Greece",
+        "lat": 37.08188,
+        "lng": 25.497314
+      },
+      {
+        "name": "Methana",
+        "country": "Greece",
+        "lat": 38.246242,
+        "lng": 21.735085
+      },
+      {
+        "name": "Peloponnese",
+        "country": "Greece",
+        "lat": 37.510291,
+        "lng": 22.372424
+      },
+      {
+        "name": "Aegina town",
+        "country": "Greece",
+        "lat": 38.14947,
+        "lng": 22.35309
+      },
+      {
+        "name": "Piraeus",
+        "country": "Greece",
+        "lat": 37.94288,
+        "lng": 23.644064
+      }
+    ]
   },
   {
     "destination": "Greece",
@@ -185,7 +403,81 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santorini",
+        "country": "Greece"
+      },
+      {
+        "name": "Naxos",
+        "country": "Greece"
+      },
+      {
+        "name": "Delos",
+        "country": "Greece"
+      },
+      {
+        "name": "Paros",
+        "country": "Greece"
+      },
+      {
+        "name": "Mykonos",
+        "country": "Greece"
+      },
+      {
+        "name": "Milos",
+        "country": "Greece"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santorini",
+        "country": "Greece",
+        "lat": 36.415,
+        "lng": 25.4325
+      },
+      {
+        "name": "Naxos",
+        "country": "Greece",
+        "lat": 37.106358,
+        "lng": 25.374836
+      },
+      {
+        "name": "Delos",
+        "country": "Greece",
+        "lat": 37.393333,
+        "lng": 25.271111
+      },
+      {
+        "name": "Paros",
+        "country": "Greece",
+        "lat": 37.05,
+        "lng": 25.183333
+      },
+      {
+        "name": "Mykonos",
+        "country": "Greece",
+        "lat": 37.446503,
+        "lng": 25.326384
+      },
+      {
+        "name": "Milos",
+        "country": "Greece",
+        "lat": 36.744083,
+        "lng": 24.423168
+      }
+    ]
   },
   {
     "destination": "Greece",
@@ -261,6 +553,80 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santorini",
+        "country": "Greece"
+      },
+      {
+        "name": "Naxos",
+        "country": "Greece"
+      },
+      {
+        "name": "Paros",
+        "country": "Greece"
+      },
+      {
+        "name": "Ios",
+        "country": "Greece"
+      },
+      {
+        "name": "Mykonos",
+        "country": "Greece"
+      },
+      {
+        "name": "Milos",
+        "country": "Greece"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santorini",
+        "country": "Greece",
+        "lat": 36.415,
+        "lng": 25.4325
+      },
+      {
+        "name": "Naxos",
+        "country": "Greece",
+        "lat": 37.106358,
+        "lng": 25.374836
+      },
+      {
+        "name": "Paros",
+        "country": "Greece",
+        "lat": 37.05,
+        "lng": 25.183333
+      },
+      {
+        "name": "Ios",
+        "country": "Greece",
+        "lat": 36.716667,
+        "lng": 25.316667
+      },
+      {
+        "name": "Mykonos",
+        "country": "Greece",
+        "lat": 37.446503,
+        "lng": 25.326384
+      },
+      {
+        "name": "Milos",
+        "country": "Greece",
+        "lat": 36.744083,
+        "lng": 24.423168
+      }
+    ]
   }
 ]

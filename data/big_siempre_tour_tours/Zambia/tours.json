@@ -53,7 +53,51 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Mfuwe",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Mfuwe",
+        "country": "Zambia",
+        "lat": -13.110679,
+        "lng": 31.797816
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -99,7 +143,51 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia",
+        "lat": -15.744513,
+        "lng": 28.175516
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -200,7 +288,65 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -241,7 +387,59 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "Mfuwe",
+        "country": "Zambia"
+      },
+      {
+        "name": "North Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Tafika Camp",
+        "country": null
+      },
+      {
+        "name": "Takwela Camp",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "Mfuwe",
+        "country": "Zambia",
+        "lat": -13.110679,
+        "lng": 31.797816
+      },
+      {
+        "name": "North Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -302,7 +500,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "Kasanka National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Liuwa Plain National Park",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "Kasanka National Park",
+        "country": "Zambia",
+        "lat": -13.488455,
+        "lng": 23.451734
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia",
+        "lat": -15.744513,
+        "lng": 28.175516
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -358,7 +604,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Chiawa Game Management Area",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Chiawa Game Management Area",
+        "country": "Zambia",
+        "lat": -15.890164,
+        "lng": 29.041971
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -424,7 +724,85 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi"
+      },
+      {
+        "name": "Senga Bay",
+        "country": "Malawi"
+      },
+      {
+        "name": "Nankoma Island",
+        "country": "Malawi"
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lilongwe",
+        "country": "Malawi",
+        "lat": -13.987511,
+        "lng": 33.768144
+      },
+      {
+        "name": "Senga Bay",
+        "country": "Malawi",
+        "lat": -13.733168,
+        "lng": 34.60588
+      },
+      {
+        "name": "Nankoma Island",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -500,7 +878,125 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Kafue River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi",
+        "country": "Zambia"
+      },
+      {
+        "name": "Chinhoyi",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Nyanga National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Chimanimani National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Great Zimbabwe Monuments",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matobos National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Kafue River",
+        "country": "Zambia",
+        "lat": -15.744513,
+        "lng": 28.175516
+      },
+      {
+        "name": "Lower Zambezi",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Chinhoyi",
+        "country": "Zimbabwe",
+        "lat": -17.361531,
+        "lng": 30.192935
+      },
+      {
+        "name": "Nyanga National Park",
+        "country": "Zimbabwe",
+        "lat": -18.232705,
+        "lng": 32.737571
+      },
+      {
+        "name": "Chimanimani National Park",
+        "country": "Zimbabwe",
+        "lat": -19.804133,
+        "lng": 32.870727
+      },
+      {
+        "name": "Matobos National Park",
+        "country": "Zimbabwe",
+        "lat": -20.412101,
+        "lng": 28.471157
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -601,7 +1097,75 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia",
+        "lat": -15.744513,
+        "lng": 28.175516
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -647,7 +1211,65 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -708,7 +1330,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kafue",
+        "country": "Zambia"
+      },
+      {
+        "name": "Busanga Plains",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa Valley",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi Valley",
+        "country": "Zambia"
+      },
+      {
+        "name": "Chongwe River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kafue",
+        "country": "Zambia",
+        "lat": -15.744513,
+        "lng": 28.175516
+      },
+      {
+        "name": "South Luangwa Valley",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lower Zambezi Valley",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Chongwe River",
+        "country": "Zambia",
+        "lat": -15.327476,
+        "lng": 28.681337
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -764,7 +1464,69 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Mosi-oa-Tunya National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Mfuwe",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Mfuwe",
+        "country": "Zambia",
+        "lat": -13.110679,
+        "lng": 31.797816
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -825,7 +1587,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "Mfuwe",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "Mfuwe",
+        "country": "Zambia",
+        "lat": -13.110679,
+        "lng": 31.797816
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -911,7 +1741,51 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia",
+        "lat": -15.744513,
+        "lng": 28.175516
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -977,7 +1851,89 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Luangwa River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Mosi-oa-Tunya National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Luangwa River",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -1048,7 +2004,45 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Liuwa Plain National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia",
+        "lat": -15.744513,
+        "lng": 28.175516
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -1114,7 +2108,79 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      },
+      {
+        "name": "Mosi-oa-Tunya National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -1185,7 +2251,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Samburu National Reserve",
+        "country": "Kenya"
+      },
+      {
+        "name": "Masai Mara National Reserve",
+        "country": "Kenya"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Mosi Au Tunya National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Samburu National Reserve",
+        "country": "Kenya",
+        "lat": -2.131049,
+        "lng": 37.44916
+      },
+      {
+        "name": "Masai Mara National Reserve",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -1261,7 +2405,69 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Busanga Plains",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia",
+        "lat": -15.744513,
+        "lng": 28.175516
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -1327,7 +2533,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Luangwa River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Luangwa River",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -1423,7 +2697,69 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "null"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Okavango Delta",
+        "country": "Botswana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana",
+        "lat": -17.799239,
+        "lng": 25.156546
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -1494,7 +2830,73 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": null
+      },
+      {
+        "name": "Mosi-oa-Tunya National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": null
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana"
+      },
+      {
+        "name": "Linyanti Reserve",
+        "country": "Botswana"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana",
+        "lat": -17.799239,
+        "lng": 25.156546
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -1590,7 +2992,79 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Mosi Au Tunya National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "North Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Busanga Plains",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "North Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia",
+        "lat": -15.744513,
+        "lng": 28.175516
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -1656,7 +3130,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Luangwa River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Luangwa River",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Kafue National Park",
+        "country": "Zambia",
+        "lat": -15.744513,
+        "lng": 28.175516
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -1742,7 +3294,109 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Table Mountain",
+        "country": "South Africa"
+      },
+      {
+        "name": "Stellenbosch",
+        "country": "South Africa"
+      },
+      {
+        "name": "Franschhoek",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Winelands",
+        "country": "South Africa"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      },
+      {
+        "name": "Mosi Au Tunya National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Table Mountain",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Stellenbosch",
+        "country": "South Africa",
+        "lat": -33.93813,
+        "lng": 18.86002
+      },
+      {
+        "name": "Franschhoek",
+        "country": "South Africa",
+        "lat": -33.91183,
+        "lng": 19.12048
+      },
+      {
+        "name": "Cape Winelands",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      }
+    ]
   },
   {
     "destination": "Zambia",
@@ -1803,6 +3457,74 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Luangwa River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Luangwa River",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      }
+    ]
   }
 ]

@@ -63,7 +63,45 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon"
+      },
+      {
+        "name": "Lambarene",
+        "country": "Gabon"
+      },
+      {
+        "name": "Oguemoue Lake",
+        "country": "Gabon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon",
+        "lat": 0.400015,
+        "lng": 9.456696
+      },
+      {
+        "name": "Lambarene",
+        "country": "Gabon",
+        "lat": -0.695844,
+        "lng": 10.221596
+      }
+    ]
   },
   {
     "destination": "Gabon",
@@ -129,7 +167,99 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon"
+      },
+      {
+        "name": "Lope National Park",
+        "country": "Gabon"
+      },
+      {
+        "name": "Ndjole",
+        "country": "Gabon"
+      },
+      {
+        "name": "Lambarene",
+        "country": "Gabon"
+      },
+      {
+        "name": "Ogooue River",
+        "country": "Gabon"
+      },
+      {
+        "name": "Omboue",
+        "country": "Gabon"
+      },
+      {
+        "name": "Loango National Park",
+        "country": "Gabon"
+      },
+      {
+        "name": "Port Gentil",
+        "country": "Gabon"
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon",
+        "lat": 0.400015,
+        "lng": 9.456696
+      },
+      {
+        "name": "Ndjole",
+        "country": "Gabon",
+        "lat": -1.28301,
+        "lng": 12.290857
+      },
+      {
+        "name": "Lambarene",
+        "country": "Gabon",
+        "lat": -0.695844,
+        "lng": 10.221596
+      },
+      {
+        "name": "Omboue",
+        "country": "Gabon",
+        "lat": -1.572696,
+        "lng": 9.265303
+      },
+      {
+        "name": "Loango National Park",
+        "country": "Gabon",
+        "lat": -2.668959,
+        "lng": 10.818955
+      },
+      {
+        "name": "Port Gentil",
+        "country": "Gabon",
+        "lat": -0.704394,
+        "lng": 8.775819
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon",
+        "lat": 0.400015,
+        "lng": 9.456696
+      }
+    ]
   },
   {
     "destination": "Gabon",
@@ -195,6 +325,98 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon"
+      },
+      {
+        "name": "Lope National Park",
+        "country": "Gabon"
+      },
+      {
+        "name": "Ndjole",
+        "country": "Gabon"
+      },
+      {
+        "name": "Lambarene",
+        "country": "Gabon"
+      },
+      {
+        "name": "Ogooue River",
+        "country": "Gabon"
+      },
+      {
+        "name": "Omboue",
+        "country": "Gabon"
+      },
+      {
+        "name": "Loango National Park",
+        "country": "Gabon"
+      },
+      {
+        "name": "Port Gentil",
+        "country": "Gabon"
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon",
+        "lat": 0.400015,
+        "lng": 9.456696
+      },
+      {
+        "name": "Ndjole",
+        "country": "Gabon",
+        "lat": -1.28301,
+        "lng": 12.290857
+      },
+      {
+        "name": "Lambarene",
+        "country": "Gabon",
+        "lat": -0.695844,
+        "lng": 10.221596
+      },
+      {
+        "name": "Omboue",
+        "country": "Gabon",
+        "lat": -1.572696,
+        "lng": 9.265303
+      },
+      {
+        "name": "Loango National Park",
+        "country": "Gabon",
+        "lat": -2.668959,
+        "lng": 10.818955
+      },
+      {
+        "name": "Port Gentil",
+        "country": "Gabon",
+        "lat": -0.704394,
+        "lng": 8.775819
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon",
+        "lat": 0.400015,
+        "lng": 9.456696
+      }
+    ]
   }
 ]

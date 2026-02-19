@@ -78,7 +78,111 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States"
+      },
+      {
+        "name": "Seward",
+        "country": "United States"
+      },
+      {
+        "name": "Homer",
+        "country": "United States"
+      },
+      {
+        "name": "Hope",
+        "country": "United States"
+      },
+      {
+        "name": "Denali National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Maclaren Wilderness Camp",
+        "country": "United States"
+      },
+      {
+        "name": "Wrangell/St Elias National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Valdez",
+        "country": "United States"
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States",
+        "lat": 61.216563,
+        "lng": -149.893442
+      },
+      {
+        "name": "Seward",
+        "country": "United States",
+        "lat": 60.102839,
+        "lng": -149.442073
+      },
+      {
+        "name": "Homer",
+        "country": "United States",
+        "lat": 32.791964,
+        "lng": -93.055539
+      },
+      {
+        "name": "Hope",
+        "country": "United States",
+        "lat": 33.66703,
+        "lng": -93.591596
+      },
+      {
+        "name": "Denali National Park",
+        "country": "United States",
+        "lat": 63.73356,
+        "lng": -148.91658
+      },
+      {
+        "name": "Maclaren Wilderness Camp",
+        "country": "United States",
+        "lat": 36.413693,
+        "lng": -91.73444
+      },
+      {
+        "name": "Wrangell/St Elias National Park",
+        "country": "United States",
+        "lat": 61.51074,
+        "lng": -144.06999
+      },
+      {
+        "name": "Valdez",
+        "country": "United States",
+        "lat": 61.129868,
+        "lng": -146.356221
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States",
+        "lat": 61.216563,
+        "lng": -149.893442
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -144,7 +248,151 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Juneau",
+        "country": "United States"
+      },
+      {
+        "name": "Glacier Bay",
+        "country": "United States"
+      },
+      {
+        "name": "Glacier Bay National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Chatham Strait",
+        "country": "United States"
+      },
+      {
+        "name": "Kuiu Island",
+        "country": "United States"
+      },
+      {
+        "name": "Tongass National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Frederick Sound",
+        "country": "United States"
+      },
+      {
+        "name": "Endicott Arm",
+        "country": "United States"
+      },
+      {
+        "name": "Dawes Glacier",
+        "country": "United States"
+      },
+      {
+        "name": "Chichagof Island",
+        "country": "United States"
+      },
+      {
+        "name": "Keku Islands Park",
+        "country": "United States"
+      },
+      {
+        "name": "Tracy Arm",
+        "country": "United States"
+      },
+      {
+        "name": "Sawyer Glaciers",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Juneau",
+        "country": "United States",
+        "lat": 58.300351,
+        "lng": -134.408259
+      },
+      {
+        "name": "Glacier Bay",
+        "country": "United States",
+        "lat": 35.746384,
+        "lng": -90.56176
+      },
+      {
+        "name": "Glacier Bay National Park",
+        "country": "United States",
+        "lat": 58.45379,
+        "lng": -135.88142
+      },
+      {
+        "name": "Chatham Strait",
+        "country": "United States",
+        "lat": 36.824941,
+        "lng": -79.398164
+      },
+      {
+        "name": "Kuiu Island",
+        "country": "United States",
+        "lat": 37.445427,
+        "lng": -87.143894
+      },
+      {
+        "name": "Tongass National Park",
+        "country": "United States",
+        "lat": 39.865954,
+        "lng": -75.179756
+      },
+      {
+        "name": "Frederick Sound",
+        "country": "United States",
+        "lat": 39.414176,
+        "lng": -77.410983
+      },
+      {
+        "name": "Endicott Arm",
+        "country": "United States",
+        "lat": 42.10248,
+        "lng": -76.048192
+      },
+      {
+        "name": "Dawes Glacier",
+        "country": "United States",
+        "lat": 38.145283,
+        "lng": -81.449935
+      },
+      {
+        "name": "Chichagof Island",
+        "country": "United States",
+        "lat": 57.873611,
+        "lng": -135.776389
+      },
+      {
+        "name": "Keku Islands Park",
+        "country": "United States",
+        "lat": 40.601333,
+        "lng": -73.655879
+      },
+      {
+        "name": "Tracy Arm",
+        "country": "United States",
+        "lat": 37.739683,
+        "lng": -121.425964
+      },
+      {
+        "name": "Sawyer Glaciers",
+        "country": "United States",
+        "lat": 41.88548,
+        "lng": -86.592542
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -210,7 +458,81 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sitka",
+        "country": "United States"
+      },
+      {
+        "name": "Frederick Sound",
+        "country": "United States"
+      },
+      {
+        "name": "Kake",
+        "country": "United States"
+      },
+      {
+        "name": "Tracy Arm Fjord",
+        "country": "United States"
+      },
+      {
+        "name": "Glacier Bay National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Juneau",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sitka",
+        "country": "United States",
+        "lat": 57.050146,
+        "lng": -135.33502
+      },
+      {
+        "name": "Frederick Sound",
+        "country": "United States",
+        "lat": 39.414176,
+        "lng": -77.410983
+      },
+      {
+        "name": "Kake",
+        "country": "United States",
+        "lat": 56.975262,
+        "lng": -133.948475
+      },
+      {
+        "name": "Tracy Arm Fjord",
+        "country": "United States",
+        "lat": 37.739683,
+        "lng": -121.425964
+      },
+      {
+        "name": "Glacier Bay National Park",
+        "country": "United States",
+        "lat": 58.45379,
+        "lng": -135.88142
+      },
+      {
+        "name": "Juneau",
+        "country": "United States",
+        "lat": 58.300351,
+        "lng": -134.408259
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -271,7 +593,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States"
+      },
+      {
+        "name": "Denali National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Seward",
+        "country": "United States"
+      },
+      {
+        "name": "Kenai Fjords National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Resurrection Bay",
+        "country": "United States"
+      },
+      {
+        "name": "Exit Glacier",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States",
+        "lat": 61.216563,
+        "lng": -149.893442
+      },
+      {
+        "name": "Denali National Park",
+        "country": "United States",
+        "lat": 63.73356,
+        "lng": -148.91658
+      },
+      {
+        "name": "Seward",
+        "country": "United States",
+        "lat": 60.102839,
+        "lng": -149.442073
+      },
+      {
+        "name": "Kenai Fjords National Park",
+        "country": "United States",
+        "lat": 59.835735,
+        "lng": -150.20271
+      },
+      {
+        "name": "Resurrection Bay",
+        "country": "United States",
+        "lat": 35.746384,
+        "lng": -90.56176
+      },
+      {
+        "name": "Exit Glacier",
+        "country": "United States",
+        "lat": 48.88975,
+        "lng": -121.94586
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -337,7 +733,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Fairbanks",
+        "country": "United States"
+      },
+      {
+        "name": "Pioneer Park",
+        "country": "United States"
+      },
+      {
+        "name": "Trans-Alaska Pipeline",
+        "country": "United States"
+      },
+      {
+        "name": "Morris Thompson Cultural Center",
+        "country": "United States"
+      },
+      {
+        "name": "Museum of the North",
+        "country": "United States"
+      },
+      {
+        "name": "Chena Hot Springs",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Fairbanks",
+        "country": "United States",
+        "lat": 64.836325,
+        "lng": -147.718082
+      },
+      {
+        "name": "Pioneer Park",
+        "country": "United States",
+        "lat": 36.417589,
+        "lng": -84.31315
+      },
+      {
+        "name": "Trans-Alaska Pipeline",
+        "country": "United States",
+        "lat": 64.635868,
+        "lng": -153.180997
+      },
+      {
+        "name": "Morris Thompson Cultural Center",
+        "country": "United States",
+        "lat": 41.357329,
+        "lng": -88.423727
+      },
+      {
+        "name": "Museum of the North",
+        "country": "United States",
+        "lat": 44.948948,
+        "lng": -84.90135
+      },
+      {
+        "name": "Chena Hot Springs",
+        "country": "United States",
+        "lat": 34.51075,
+        "lng": -93.054003
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -393,7 +863,131 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sitka",
+        "country": "United States"
+      },
+      {
+        "name": "Hoonah Sound",
+        "country": "United States"
+      },
+      {
+        "name": "Eastern Baranof Island",
+        "country": "United States"
+      },
+      {
+        "name": "Tenakee Inlet",
+        "country": "United States"
+      },
+      {
+        "name": "Icy Strait",
+        "country": "United States"
+      },
+      {
+        "name": "Port Frederick",
+        "country": "United States"
+      },
+      {
+        "name": "Taku Inlet",
+        "country": "United States"
+      },
+      {
+        "name": "Taku Glacier",
+        "country": "United States"
+      },
+      {
+        "name": "Tracy Arm",
+        "country": "United States"
+      },
+      {
+        "name": "Frederick Sound",
+        "country": "United States"
+      },
+      {
+        "name": "Juneau",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sitka",
+        "country": "United States",
+        "lat": 57.050146,
+        "lng": -135.33502
+      },
+      {
+        "name": "Hoonah Sound",
+        "country": "United States",
+        "lat": 58.108734,
+        "lng": -135.444133
+      },
+      {
+        "name": "Eastern Baranof Island",
+        "country": "United States",
+        "lat": 56.951389,
+        "lng": -134.947778
+      },
+      {
+        "name": "Tenakee Inlet",
+        "country": "United States",
+        "lat": 43.751083,
+        "lng": -74.79433
+      },
+      {
+        "name": "Icy Strait",
+        "country": "United States",
+        "lat": 34.729027,
+        "lng": -76.57102
+      },
+      {
+        "name": "Port Frederick",
+        "country": "United States",
+        "lat": 39.414176,
+        "lng": -77.410983
+      },
+      {
+        "name": "Taku Inlet",
+        "country": "United States",
+        "lat": 43.751083,
+        "lng": -74.79433
+      },
+      {
+        "name": "Taku Glacier",
+        "country": "United States",
+        "lat": 48.88975,
+        "lng": -121.94586
+      },
+      {
+        "name": "Tracy Arm",
+        "country": "United States",
+        "lat": 37.739683,
+        "lng": -121.425964
+      },
+      {
+        "name": "Frederick Sound",
+        "country": "United States",
+        "lat": 39.414176,
+        "lng": -77.410983
+      },
+      {
+        "name": "Juneau",
+        "country": "United States",
+        "lat": 58.300351,
+        "lng": -134.408259
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -454,7 +1048,101 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States"
+      },
+      {
+        "name": "Seward",
+        "country": "United States"
+      },
+      {
+        "name": "Kenai Fjords National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Moose Pass",
+        "country": "United States"
+      },
+      {
+        "name": "Talkeetna",
+        "country": "United States"
+      },
+      {
+        "name": "Denali",
+        "country": "United States"
+      },
+      {
+        "name": "Maclaren Lodge",
+        "country": "United States"
+      },
+      {
+        "name": "Fairbanks",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States",
+        "lat": 61.216563,
+        "lng": -149.893442
+      },
+      {
+        "name": "Seward",
+        "country": "United States",
+        "lat": 60.102839,
+        "lng": -149.442073
+      },
+      {
+        "name": "Kenai Fjords National Park",
+        "country": "United States",
+        "lat": 59.835735,
+        "lng": -150.20271
+      },
+      {
+        "name": "Moose Pass",
+        "country": "United States",
+        "lat": 60.488452,
+        "lng": -149.370906
+      },
+      {
+        "name": "Talkeetna",
+        "country": "United States",
+        "lat": 62.323167,
+        "lng": -150.113077
+      },
+      {
+        "name": "Denali",
+        "country": "United States",
+        "lat": 29.78137,
+        "lng": -91.746994
+      },
+      {
+        "name": "Maclaren Lodge",
+        "country": "United States",
+        "lat": 40.105984,
+        "lng": -88.559971
+      },
+      {
+        "name": "Fairbanks",
+        "country": "United States",
+        "lat": 64.836325,
+        "lng": -147.718082
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -530,7 +1218,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States"
+      },
+      {
+        "name": "Homer",
+        "country": "United States"
+      },
+      {
+        "name": "Seward",
+        "country": "United States"
+      },
+      {
+        "name": "Kenai Fjords National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Talkeetna",
+        "country": "United States"
+      },
+      {
+        "name": "Denali National Park",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States",
+        "lat": 61.216563,
+        "lng": -149.893442
+      },
+      {
+        "name": "Homer",
+        "country": "United States",
+        "lat": 32.791964,
+        "lng": -93.055539
+      },
+      {
+        "name": "Seward",
+        "country": "United States",
+        "lat": 60.102839,
+        "lng": -149.442073
+      },
+      {
+        "name": "Kenai Fjords National Park",
+        "country": "United States",
+        "lat": 59.835735,
+        "lng": -150.20271
+      },
+      {
+        "name": "Talkeetna",
+        "country": "United States",
+        "lat": 62.323167,
+        "lng": -150.113077
+      },
+      {
+        "name": "Denali National Park",
+        "country": "United States",
+        "lat": 63.73356,
+        "lng": -148.91658
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -591,7 +1353,85 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Calgary",
+        "country": "Canada"
+      },
+      {
+        "name": "Banff",
+        "country": "Canada"
+      },
+      {
+        "name": "Banff National Park",
+        "country": "Canada"
+      },
+      {
+        "name": "Jasper",
+        "country": "Canada"
+      },
+      {
+        "name": "Kamloops",
+        "country": "Canada"
+      },
+      {
+        "name": "Vancouver",
+        "country": "Canada"
+      },
+      {
+        "name": "Inside Passage",
+        "country": "null"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Calgary",
+        "country": "Canada",
+        "lat": 51.0457,
+        "lng": -114.067955
+      },
+      {
+        "name": "Banff",
+        "country": "Canada",
+        "lat": 51.176613,
+        "lng": -115.57096
+      },
+      {
+        "name": "Banff National Park",
+        "country": "Canada",
+        "lat": 45.170155,
+        "lng": -64.743195
+      },
+      {
+        "name": "Jasper",
+        "country": "Canada",
+        "lat": 52.876007,
+        "lng": -118.08242
+      },
+      {
+        "name": "Kamloops",
+        "country": "Canada",
+        "lat": 50.676693,
+        "lng": -120.3344
+      },
+      {
+        "name": "Vancouver",
+        "country": "Canada",
+        "lat": 49.260975,
+        "lng": -123.11498
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -657,7 +1497,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Fairbanks",
+        "country": "United States"
+      },
+      {
+        "name": "Denali National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Talkeetna",
+        "country": "United States"
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Fairbanks",
+        "country": "United States",
+        "lat": 64.836325,
+        "lng": -147.718082
+      },
+      {
+        "name": "Denali National Park",
+        "country": "United States",
+        "lat": 63.73356,
+        "lng": -148.91658
+      },
+      {
+        "name": "Talkeetna",
+        "country": "United States",
+        "lat": 62.323167,
+        "lng": -150.113077
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States",
+        "lat": 61.216563,
+        "lng": -149.893442
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -713,7 +1607,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States"
+      },
+      {
+        "name": "Denali National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Maclaren Glacier",
+        "country": "United States"
+      },
+      {
+        "name": "Wrangell St Elias National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Valdez",
+        "country": "United States"
+      },
+      {
+        "name": "Matanuska Glacier",
+        "country": "United States"
+      },
+      {
+        "name": "Church Mountains",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States",
+        "lat": 61.216563,
+        "lng": -149.893442
+      },
+      {
+        "name": "Denali National Park",
+        "country": "United States",
+        "lat": 63.73356,
+        "lng": -148.91658
+      },
+      {
+        "name": "Maclaren Glacier",
+        "country": "United States",
+        "lat": 48.88975,
+        "lng": -121.94586
+      },
+      {
+        "name": "Wrangell St Elias National Park",
+        "country": "United States",
+        "lat": 61.51074,
+        "lng": -144.06999
+      },
+      {
+        "name": "Valdez",
+        "country": "United States",
+        "lat": 61.129868,
+        "lng": -146.356221
+      },
+      {
+        "name": "Matanuska Glacier",
+        "country": "United States",
+        "lat": 48.88975,
+        "lng": -121.94586
+      },
+      {
+        "name": "Church Mountains",
+        "country": "United States",
+        "lat": 43.352398,
+        "lng": -91.339775
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -779,7 +1757,111 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Juneau",
+        "country": "United States"
+      },
+      {
+        "name": "Endicott Arm",
+        "country": "United States"
+      },
+      {
+        "name": "Thomas Bay",
+        "country": "United States"
+      },
+      {
+        "name": "Wrangell Narrows",
+        "country": "United States"
+      },
+      {
+        "name": "Wrangell",
+        "country": "United States"
+      },
+      {
+        "name": "Behm Canal",
+        "country": "United States"
+      },
+      {
+        "name": "Tongass National Forest",
+        "country": "United States"
+      },
+      {
+        "name": "Misty Fjords National Monument",
+        "country": "United States"
+      },
+      {
+        "name": "Ketchikan",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Juneau",
+        "country": "United States",
+        "lat": 58.300351,
+        "lng": -134.408259
+      },
+      {
+        "name": "Endicott Arm",
+        "country": "United States",
+        "lat": 42.10248,
+        "lng": -76.048192
+      },
+      {
+        "name": "Thomas Bay",
+        "country": "United States",
+        "lat": 35.746384,
+        "lng": -90.56176
+      },
+      {
+        "name": "Wrangell Narrows",
+        "country": "United States",
+        "lat": 37.331535,
+        "lng": -80.811624
+      },
+      {
+        "name": "Wrangell",
+        "country": "United States",
+        "lat": 56.47164,
+        "lng": -132.384382
+      },
+      {
+        "name": "Behm Canal",
+        "country": "United States",
+        "lat": 36.58957,
+        "lng": -80.672151
+      },
+      {
+        "name": "Tongass National Forest",
+        "country": "United States",
+        "lat": 32.364092,
+        "lng": -89.474488
+      },
+      {
+        "name": "Misty Fjords National Monument",
+        "country": "United States",
+        "lat": 39.091517,
+        "lng": -104.872636
+      },
+      {
+        "name": "Ketchikan",
+        "country": "United States",
+        "lat": 55.341795,
+        "lng": -131.647548
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -845,7 +1927,241 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Juneau",
+        "country": "United States"
+      },
+      {
+        "name": "Icy Strait",
+        "country": "United States"
+      },
+      {
+        "name": "Cross Sound",
+        "country": "United States"
+      },
+      {
+        "name": "Glacier Bay",
+        "country": "United States"
+      },
+      {
+        "name": "Glacier Bay National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Tongass National Forest",
+        "country": "United States"
+      },
+      {
+        "name": "Lynn Canal",
+        "country": "United States"
+      },
+      {
+        "name": "Chatham Strait",
+        "country": "United States"
+      },
+      {
+        "name": "Haines",
+        "country": "United States"
+      },
+      {
+        "name": "LeConte Glacier",
+        "country": "United States"
+      },
+      {
+        "name": "Ideal Cove",
+        "country": "United States"
+      },
+      {
+        "name": "Cascade Creek",
+        "country": "United States"
+      },
+      {
+        "name": "Baird Glacier",
+        "country": "United States"
+      },
+      {
+        "name": "Patterson Bay",
+        "country": "United States"
+      },
+      {
+        "name": "South Baranof Wilderness Area",
+        "country": "United States"
+      },
+      {
+        "name": "Corner Bay",
+        "country": "United States"
+      },
+      {
+        "name": "Chichagof Island",
+        "country": "United States"
+      },
+      {
+        "name": "Glacier Bay National Park Outback",
+        "country": "United States"
+      },
+      {
+        "name": "Fern Harbor",
+        "country": "United States"
+      },
+      {
+        "name": "Dundas Bay",
+        "country": "United States"
+      },
+      {
+        "name": "No Name Cove",
+        "country": "United States"
+      },
+      {
+        "name": "Excursion Inlet",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Juneau",
+        "country": "United States",
+        "lat": 58.300351,
+        "lng": -134.408259
+      },
+      {
+        "name": "Icy Strait",
+        "country": "United States",
+        "lat": 34.729027,
+        "lng": -76.57102
+      },
+      {
+        "name": "Cross Sound",
+        "country": "United States",
+        "lat": 33.327376,
+        "lng": -80.148588
+      },
+      {
+        "name": "Glacier Bay",
+        "country": "United States",
+        "lat": 35.746384,
+        "lng": -90.56176
+      },
+      {
+        "name": "Glacier Bay National Park",
+        "country": "United States",
+        "lat": 58.45379,
+        "lng": -135.88142
+      },
+      {
+        "name": "Tongass National Forest",
+        "country": "United States",
+        "lat": 32.364092,
+        "lng": -89.474488
+      },
+      {
+        "name": "Lynn Canal",
+        "country": "United States",
+        "lat": 42.464235,
+        "lng": -70.946832
+      },
+      {
+        "name": "Chatham Strait",
+        "country": "United States",
+        "lat": 36.824941,
+        "lng": -79.398164
+      },
+      {
+        "name": "Haines",
+        "country": "United States",
+        "lat": 59.235006,
+        "lng": -135.445368
+      },
+      {
+        "name": "LeConte Glacier",
+        "country": "United States",
+        "lat": 48.88975,
+        "lng": -121.94586
+      },
+      {
+        "name": "Ideal Cove",
+        "country": "United States",
+        "lat": 29.805069,
+        "lng": -94.839982
+      },
+      {
+        "name": "Cascade Creek",
+        "country": "United States",
+        "lat": 38.896752,
+        "lng": -104.971331
+      },
+      {
+        "name": "Baird Glacier",
+        "country": "United States",
+        "lat": 32.394362,
+        "lng": -99.394304
+      },
+      {
+        "name": "Patterson Bay",
+        "country": "United States",
+        "lat": 37.471318,
+        "lng": -121.130487
+      },
+      {
+        "name": "South Baranof Wilderness Area",
+        "country": "United States",
+        "lat": 37.329338,
+        "lng": -86.36453
+      },
+      {
+        "name": "Corner Bay",
+        "country": "United States",
+        "lat": 35.746384,
+        "lng": -90.56176
+      },
+      {
+        "name": "Chichagof Island",
+        "country": "United States",
+        "lat": 57.873611,
+        "lng": -135.776389
+      },
+      {
+        "name": "Glacier Bay National Park Outback",
+        "country": "United States",
+        "lat": 58.45379,
+        "lng": -135.88142
+      },
+      {
+        "name": "Fern Harbor",
+        "country": "United States",
+        "lat": 42.04843,
+        "lng": -124.25748
+      },
+      {
+        "name": "Dundas Bay",
+        "country": "United States",
+        "lat": 35.746384,
+        "lng": -90.56176
+      },
+      {
+        "name": "No Name Cove",
+        "country": "United States",
+        "lat": 39.560448,
+        "lng": -107.29345
+      },
+      {
+        "name": "Excursion Inlet",
+        "country": "United States",
+        "lat": 58.418888,
+        "lng": -135.42667
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -936,7 +2252,151 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seattle",
+        "country": "United States"
+      },
+      {
+        "name": "San Juan Islands",
+        "country": "United States"
+      },
+      {
+        "name": "Canada’s Inside Passage",
+        "country": "Canada"
+      },
+      {
+        "name": "Great Bear Rainforest",
+        "country": "Canada"
+      },
+      {
+        "name": "Ketchikan",
+        "country": "United States"
+      },
+      {
+        "name": "Misty Fjords National Monument",
+        "country": "United States"
+      },
+      {
+        "name": "Behm Channel",
+        "country": "null"
+      },
+      {
+        "name": "Ernest Sound",
+        "country": "null"
+      },
+      {
+        "name": "Petersburg",
+        "country": "United States"
+      },
+      {
+        "name": "Frederick Sound",
+        "country": "null"
+      },
+      {
+        "name": "Chatham Strait",
+        "country": "null"
+      },
+      {
+        "name": "Chichagof Island",
+        "country": "United States"
+      },
+      {
+        "name": "Glacier Bay National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Icy Strait",
+        "country": "null"
+      },
+      {
+        "name": "Haines",
+        "country": "United States"
+      },
+      {
+        "name": "Juneau",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seattle",
+        "country": "United States",
+        "lat": 47.603243,
+        "lng": -122.330286
+      },
+      {
+        "name": "San Juan Islands",
+        "country": "United States",
+        "lat": 48.5333,
+        "lng": -123.083
+      },
+      {
+        "name": "Canada’s Inside Passage",
+        "country": "Canada",
+        "lat": 45.170155,
+        "lng": -64.743195
+      },
+      {
+        "name": "Great Bear Rainforest",
+        "country": "Canada",
+        "lat": 49.700044,
+        "lng": -119.744226
+      },
+      {
+        "name": "Ketchikan",
+        "country": "United States",
+        "lat": 55.341795,
+        "lng": -131.647548
+      },
+      {
+        "name": "Misty Fjords National Monument",
+        "country": "United States",
+        "lat": 39.091517,
+        "lng": -104.872636
+      },
+      {
+        "name": "Petersburg",
+        "country": "United States",
+        "lat": 37.23186,
+        "lng": -77.404736
+      },
+      {
+        "name": "Chichagof Island",
+        "country": "United States",
+        "lat": 57.873611,
+        "lng": -135.776389
+      },
+      {
+        "name": "Glacier Bay National Park",
+        "country": "United States",
+        "lat": 58.45379,
+        "lng": -135.88142
+      },
+      {
+        "name": "Haines",
+        "country": "United States",
+        "lat": 59.235006,
+        "lng": -135.445368
+      },
+      {
+        "name": "Juneau",
+        "country": "United States",
+        "lat": 58.300351,
+        "lng": -134.408259
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -992,7 +2452,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States"
+      },
+      {
+        "name": "Seward",
+        "country": "United States"
+      },
+      {
+        "name": "Homer",
+        "country": "United States"
+      },
+      {
+        "name": "Hope",
+        "country": "United States"
+      },
+      {
+        "name": "Beluga Point",
+        "country": "United States"
+      },
+      {
+        "name": "Kenai Fjords National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Cook Inlet",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States",
+        "lat": 61.216563,
+        "lng": -149.893442
+      },
+      {
+        "name": "Seward",
+        "country": "United States",
+        "lat": 60.102839,
+        "lng": -149.442073
+      },
+      {
+        "name": "Homer",
+        "country": "United States",
+        "lat": 32.791964,
+        "lng": -93.055539
+      },
+      {
+        "name": "Hope",
+        "country": "United States",
+        "lat": 33.66703,
+        "lng": -93.591596
+      },
+      {
+        "name": "Beluga Point",
+        "country": "United States",
+        "lat": 32.931986,
+        "lng": -95.872682
+      },
+      {
+        "name": "Kenai Fjords National Park",
+        "country": "United States",
+        "lat": 59.835735,
+        "lng": -150.20271
+      },
+      {
+        "name": "Cook Inlet",
+        "country": "United States",
+        "lat": 47.85248,
+        "lng": -92.688917
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -1058,7 +2602,67 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Whittier",
+        "country": "USA"
+      },
+      {
+        "name": "Icy Bay",
+        "country": "USA"
+      },
+      {
+        "name": "Prince William Sound",
+        "country": "USA"
+      },
+      {
+        "name": "Cordova",
+        "country": "USA"
+      },
+      {
+        "name": "Columbia Glacier",
+        "country": "USA"
+      },
+      {
+        "name": "Unakwik Inlet",
+        "country": "USA"
+      },
+      {
+        "name": "Meares Glacier",
+        "country": "USA"
+      },
+      {
+        "name": "College Fjord",
+        "country": "USA"
+      },
+      {
+        "name": "Barry Arm",
+        "country": "USA"
+      },
+      {
+        "name": "Anchorage",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Anchorage",
+        "country": "United States",
+        "lat": 61.216563,
+        "lng": -149.893442
+      }
+    ]
   },
   {
     "destination": "Alaska",
@@ -1124,6 +2728,120 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sitka",
+        "country": "United States"
+      },
+      {
+        "name": "Kake",
+        "country": "United States"
+      },
+      {
+        "name": "Frederick Sound",
+        "country": "United States"
+      },
+      {
+        "name": "Wrangell",
+        "country": "United States"
+      },
+      {
+        "name": "Petersburg",
+        "country": "United States"
+      },
+      {
+        "name": "Tracy Arm",
+        "country": "United States"
+      },
+      {
+        "name": "Glacier Bay National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Lisianski Inlet",
+        "country": "United States"
+      },
+      {
+        "name": "Juneau",
+        "country": "United States"
+      },
+      {
+        "name": "Ketchikan",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sitka",
+        "country": "United States",
+        "lat": 57.050146,
+        "lng": -135.33502
+      },
+      {
+        "name": "Kake",
+        "country": "United States",
+        "lat": 56.975262,
+        "lng": -133.948475
+      },
+      {
+        "name": "Frederick Sound",
+        "country": "United States",
+        "lat": 39.414176,
+        "lng": -77.410983
+      },
+      {
+        "name": "Wrangell",
+        "country": "United States",
+        "lat": 56.47164,
+        "lng": -132.384382
+      },
+      {
+        "name": "Petersburg",
+        "country": "United States",
+        "lat": 37.23186,
+        "lng": -77.404736
+      },
+      {
+        "name": "Tracy Arm",
+        "country": "United States",
+        "lat": 37.739683,
+        "lng": -121.425964
+      },
+      {
+        "name": "Glacier Bay National Park",
+        "country": "United States",
+        "lat": 58.45379,
+        "lng": -135.88142
+      },
+      {
+        "name": "Lisianski Inlet",
+        "country": "United States",
+        "lat": 43.751083,
+        "lng": -74.79433
+      },
+      {
+        "name": "Juneau",
+        "country": "United States",
+        "lat": 58.300351,
+        "lng": -134.408259
+      },
+      {
+        "name": "Ketchikan",
+        "country": "United States",
+        "lat": 55.341795,
+        "lng": -131.647548
+      }
+    ]
   }
 ]

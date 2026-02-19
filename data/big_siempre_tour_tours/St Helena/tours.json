@@ -58,7 +58,45 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Lüderitz",
+        "country": "Namibia"
+      },
+      {
+        "name": "St Helena",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Lüderitz",
+        "country": "Namibia",
+        "lat": -26.650009,
+        "lng": 15.157266
+      }
+    ]
   },
   {
     "destination": "St Helena",
@@ -114,7 +152,41 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Saint Helena",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Jamestown",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Deadwood Plain",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Plantation House",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Museum of Saint Helena",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "St James Church",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Longwood House",
+        "country": "Saint Helena"
+      }
+    ]
   },
   {
     "destination": "St Helena",
@@ -180,6 +252,60 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Saint Helena",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Jamestown",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Deadwood Plain",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Flagg Staff",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Levelwood",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Plantation House",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "St Paul’s Cathedral",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "High Knoll Fort",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Longwood House",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Millennium Forest",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Blue Point",
+        "country": "Saint Helena"
+      },
+      {
+        "name": "Sandy Bay",
+        "country": "Saint Helena"
+      }
+    ]
   }
 ]

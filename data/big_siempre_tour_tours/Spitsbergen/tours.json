@@ -53,6 +53,50 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Norway"
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Norway"
+      },
+      {
+        "name": "Ny-Ålesund",
+        "country": "Norway"
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Norway"
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Norway"
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Norway"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ny-Ålesund",
+        "country": "Norway",
+        "lat": 62.47293,
+        "lng": 6.156597
+      }
+    ]
   }
 ]

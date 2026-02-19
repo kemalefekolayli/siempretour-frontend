@@ -53,7 +53,41 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kajaani",
+        "country": "Finland"
+      },
+      {
+        "name": "Kuhmo",
+        "country": "Finland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kajaani",
+        "country": "Finland",
+        "lat": 64.22635,
+        "lng": 27.73044
+      },
+      {
+        "name": "Kuhmo",
+        "country": "Finland",
+        "lat": 64.1281,
+        "lng": 29.521852
+      }
+    ]
   },
   {
     "destination": "Finland",
@@ -114,7 +148,91 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Viiksimo",
+        "country": "Finland"
+      },
+      {
+        "name": "Elimyssalo Nature Park",
+        "country": "Finland"
+      },
+      {
+        "name": "Leiksa",
+        "country": "Finland"
+      },
+      {
+        "name": "Lieksa",
+        "country": "Finland"
+      },
+      {
+        "name": "Ruunaa Nature Reserve",
+        "country": "Finland"
+      },
+      {
+        "name": "Patvinsuo National Park",
+        "country": "Finland"
+      },
+      {
+        "name": "Kuopio",
+        "country": "Finland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Viiksimo",
+        "country": "Finland",
+        "lat": 60.451753,
+        "lng": 22.267052
+      },
+      {
+        "name": "Elimyssalo Nature Park",
+        "country": "Finland",
+        "lat": 60.451753,
+        "lng": 22.267052
+      },
+      {
+        "name": "Leiksa",
+        "country": "Finland",
+        "lat": 63.321564,
+        "lng": 30.022266
+      },
+      {
+        "name": "Lieksa",
+        "country": "Finland",
+        "lat": 63.321564,
+        "lng": 30.022266
+      },
+      {
+        "name": "Ruunaa Nature Reserve",
+        "country": "Finland",
+        "lat": 60.451753,
+        "lng": 22.267052
+      },
+      {
+        "name": "Patvinsuo National Park",
+        "country": "Finland",
+        "lat": 60.451753,
+        "lng": 22.267052
+      },
+      {
+        "name": "Kuopio",
+        "country": "Finland",
+        "lat": 62.891712,
+        "lng": 27.679853
+      }
+    ]
   },
   {
     "destination": "Finland",
@@ -185,7 +303,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lappeenranta",
+        "country": "Finland"
+      },
+      {
+        "name": "Imatra",
+        "country": "Finland"
+      },
+      {
+        "name": "Joensuu",
+        "country": "Finland"
+      },
+      {
+        "name": "Anttolanhovi",
+        "country": "Finland"
+      },
+      {
+        "name": "Koli National Park",
+        "country": "Finland"
+      },
+      {
+        "name": "Heinävesi",
+        "country": "Finland"
+      },
+      {
+        "name": "Mikkeli",
+        "country": "Finland"
+      },
+      {
+        "name": "Savonlinna",
+        "country": "Finland"
+      },
+      {
+        "name": "Helsinki",
+        "country": "Finland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lappeenranta",
+        "country": "Finland",
+        "lat": 61.0588,
+        "lng": 28.187237
+      },
+      {
+        "name": "Imatra",
+        "country": "Finland",
+        "lat": 61.17116,
+        "lng": 28.770048
+      },
+      {
+        "name": "Joensuu",
+        "country": "Finland",
+        "lat": 62.601418,
+        "lng": 29.76151
+      },
+      {
+        "name": "Anttolanhovi",
+        "country": "Finland",
+        "lat": 60.451753,
+        "lng": 22.267052
+      },
+      {
+        "name": "Koli National Park",
+        "country": "Finland",
+        "lat": 63.113693,
+        "lng": 29.777233
+      },
+      {
+        "name": "Heinävesi",
+        "country": "Finland",
+        "lat": 62.425537,
+        "lng": 28.631449
+      },
+      {
+        "name": "Mikkeli",
+        "country": "Finland",
+        "lat": 61.68734,
+        "lng": 27.271608
+      },
+      {
+        "name": "Savonlinna",
+        "country": "Finland",
+        "lat": 61.86843,
+        "lng": 28.885914
+      },
+      {
+        "name": "Helsinki",
+        "country": "Finland",
+        "lat": 60.167507,
+        "lng": 24.941822
+      }
+    ]
   },
   {
     "destination": "Finland",
@@ -246,6 +468,70 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kittila",
+        "country": "Finland"
+      },
+      {
+        "name": "Äkäslompolo",
+        "country": "Finland"
+      },
+      {
+        "name": "Finnish Lapland",
+        "country": "Finland"
+      },
+      {
+        "name": "Pallas-Yllas Nature Park",
+        "country": "Finland"
+      },
+      {
+        "name": "Levi",
+        "country": "Finland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kittila",
+        "country": "Finland",
+        "lat": 67.659706,
+        "lng": 24.904877
+      },
+      {
+        "name": "Äkäslompolo",
+        "country": "Finland",
+        "lat": 67.60383,
+        "lng": 24.162884
+      },
+      {
+        "name": "Finnish Lapland",
+        "country": "Finland",
+        "lat": 66.497621,
+        "lng": 25.71921
+      },
+      {
+        "name": "Pallas-Yllas Nature Park",
+        "country": "Finland",
+        "lat": 60.451753,
+        "lng": 22.267052
+      },
+      {
+        "name": "Levi",
+        "country": "Finland",
+        "lat": 60.451753,
+        "lng": 22.267052
+      }
+    ]
   }
 ]

@@ -78,7 +78,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali"
+      },
+      {
+        "name": "Djenné",
+        "country": "Mali"
+      },
+      {
+        "name": "Dogon Country",
+        "country": "Mali"
+      },
+      {
+        "name": "Mopti",
+        "country": "Mali"
+      },
+      {
+        "name": "Tombouctou",
+        "country": "Mali"
+      },
+      {
+        "name": "Ségou",
+        "country": "Mali"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.649319,
+        "lng": -8.000337
+      },
+      {
+        "name": "Djenné",
+        "country": "Mali",
+        "lat": 13.905163,
+        "lng": -4.554858
+      },
+      {
+        "name": "Dogon Country",
+        "country": "Mali",
+        "lat": 13.390119,
+        "lng": -3.803745
+      },
+      {
+        "name": "Mopti",
+        "country": "Mali",
+        "lat": 14.487728,
+        "lng": -4.189247
+      },
+      {
+        "name": "Tombouctou",
+        "country": "Mali",
+        "lat": 16.771909,
+        "lng": -3.008727
+      },
+      {
+        "name": "Ségou",
+        "country": "Mali",
+        "lat": 13.441518,
+        "lng": -6.268147
+      }
+    ]
   },
   {
     "destination": "Mali",
@@ -149,7 +223,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali"
+      },
+      {
+        "name": "Djenné",
+        "country": "Mali"
+      },
+      {
+        "name": "Mopti",
+        "country": "Mali"
+      },
+      {
+        "name": "Ségou",
+        "country": "Mali"
+      },
+      {
+        "name": "Siby",
+        "country": "Mali"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.649319,
+        "lng": -8.000337
+      },
+      {
+        "name": "Djenné",
+        "country": "Mali",
+        "lat": 13.905163,
+        "lng": -4.554858
+      },
+      {
+        "name": "Mopti",
+        "country": "Mali",
+        "lat": 14.487728,
+        "lng": -4.189247
+      },
+      {
+        "name": "Ségou",
+        "country": "Mali",
+        "lat": 13.441518,
+        "lng": -6.268147
+      },
+      {
+        "name": "Siby",
+        "country": "Mali",
+        "lat": 12.374673,
+        "lng": -8.336901
+      }
+    ]
   },
   {
     "destination": "Mali",
@@ -225,6 +363,80 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali"
+      },
+      {
+        "name": "Djenné",
+        "country": "Mali"
+      },
+      {
+        "name": "Mopti",
+        "country": "Mali"
+      },
+      {
+        "name": "Ségou",
+        "country": "Mali"
+      },
+      {
+        "name": "Tombouctou",
+        "country": "Mali"
+      },
+      {
+        "name": "Timbuktu",
+        "country": "Mali"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.649319,
+        "lng": -8.000337
+      },
+      {
+        "name": "Djenné",
+        "country": "Mali",
+        "lat": 13.905163,
+        "lng": -4.554858
+      },
+      {
+        "name": "Mopti",
+        "country": "Mali",
+        "lat": 14.487728,
+        "lng": -4.189247
+      },
+      {
+        "name": "Ségou",
+        "country": "Mali",
+        "lat": 13.441518,
+        "lng": -6.268147
+      },
+      {
+        "name": "Tombouctou",
+        "country": "Mali",
+        "lat": 16.771909,
+        "lng": -3.008727
+      },
+      {
+        "name": "Timbuktu",
+        "country": "Mali",
+        "lat": 16.771909,
+        "lng": -3.008727
+      }
+    ]
   }
 ]

@@ -43,7 +43,41 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ilulissat",
+        "country": "Greenland"
+      },
+      {
+        "name": "Uummannaq",
+        "country": "Greenland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ilulissat",
+        "country": "Greenland",
+        "lat": 69.219713,
+        "lng": -51.098638
+      },
+      {
+        "name": "Uummannaq",
+        "country": "Greenland",
+        "lat": 76.563963,
+        "lng": -68.7877
+      }
+    ]
   },
   {
     "destination": "Greenland",
@@ -114,6 +148,88 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bolungarvík",
+        "country": "Iceland"
+      },
+      {
+        "name": "Denmark Strait",
+        "country": null
+      },
+      {
+        "name": "Scoresby Sund",
+        "country": "Greenland"
+      },
+      {
+        "name": "Ittoqqortoormiit",
+        "country": "Greenland"
+      },
+      {
+        "name": "Dunholm",
+        "country": "Greenland"
+      },
+      {
+        "name": "Deichmann Fjord",
+        "country": "Greenland"
+      },
+      {
+        "name": "Turner Sund",
+        "country": "Greenland"
+      },
+      {
+        "name": "Storbræ Glacier",
+        "country": "Greenland"
+      },
+      {
+        "name": "Denmark Strait",
+        "country": null
+      },
+      {
+        "name": "Ísafjörður",
+        "country": "Iceland"
+      },
+      {
+        "name": "Reykjavik",
+        "country": "Iceland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bolungarvík",
+        "country": "Iceland",
+        "lat": 66.15755,
+        "lng": -23.250727
+      },
+      {
+        "name": "Ittoqqortoormiit",
+        "country": "Greenland",
+        "lat": 70.485059,
+        "lng": -21.964199
+      },
+      {
+        "name": "Ísafjörður",
+        "country": "Iceland",
+        "lat": 66.07282,
+        "lng": -23.119629
+      },
+      {
+        "name": "Reykjavik",
+        "country": "Iceland",
+        "lat": 64.145847,
+        "lng": -21.9436
+      }
+    ]
   }
 ]

@@ -68,7 +68,95 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bergen",
+        "country": "Norway"
+      },
+      {
+        "name": "Kalvåg",
+        "country": "Norway"
+      },
+      {
+        "name": "Nordfjordeid",
+        "country": "Norway"
+      },
+      {
+        "name": "Lodalen",
+        "country": "Norway"
+      },
+      {
+        "name": "Geiranger Fjord",
+        "country": "Norway"
+      },
+      {
+        "name": "Hellesylt",
+        "country": "Norway"
+      },
+      {
+        "name": "Norangsdalen",
+        "country": "Norway"
+      },
+      {
+        "name": "Ålesund",
+        "country": "Norway"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bergen",
+        "country": "Norway",
+        "lat": 60.39555,
+        "lng": 5.325952
+      },
+      {
+        "name": "Kalvåg",
+        "country": "Norway",
+        "lat": 61.76701,
+        "lng": 4.875406
+      },
+      {
+        "name": "Nordfjordeid",
+        "country": "Norway",
+        "lat": 61.907684,
+        "lng": 5.99145
+      },
+      {
+        "name": "Lodalen",
+        "country": "Norway",
+        "lat": 59.758858,
+        "lng": 10.459885
+      },
+      {
+        "name": "Geiranger Fjord",
+        "country": "Norway",
+        "lat": 62.101803,
+        "lng": 7.207343
+      },
+      {
+        "name": "Hellesylt",
+        "country": "Norway",
+        "lat": 62.08513,
+        "lng": 6.869594
+      },
+      {
+        "name": "Ålesund",
+        "country": "Norway",
+        "lat": 62.47293,
+        "lng": 6.156597
+      }
+    ]
   },
   {
     "destination": "Norway",
@@ -134,7 +222,63 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Oslo",
+        "country": "Norway"
+      },
+      {
+        "name": "Dalseter",
+        "country": "Norway"
+      },
+      {
+        "name": "Fefor",
+        "country": "Norway"
+      },
+      {
+        "name": "Gålå",
+        "country": "Norway"
+      },
+      {
+        "name": "Skeikampen",
+        "country": "Norway"
+      },
+      {
+        "name": "Lillehammer",
+        "country": "Norway"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Oslo",
+        "country": "Norway",
+        "lat": 59.91333,
+        "lng": 10.73897
+      },
+      {
+        "name": "Gålå",
+        "country": "Norway",
+        "lat": 61.505695,
+        "lng": 9.784771
+      },
+      {
+        "name": "Lillehammer",
+        "country": "Norway",
+        "lat": 61.114944,
+        "lng": 10.465181
+      }
+    ]
   },
   {
     "destination": "Norway",
@@ -200,7 +344,135 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bergen",
+        "country": "Norway"
+      },
+      {
+        "name": "Alesund",
+        "country": "Norway"
+      },
+      {
+        "name": "Geirangerfjord",
+        "country": "Norway"
+      },
+      {
+        "name": "Floro",
+        "country": "Norway"
+      },
+      {
+        "name": "Maloy",
+        "country": "Norway"
+      },
+      {
+        "name": "Torvik",
+        "country": "Norway"
+      },
+      {
+        "name": "Kristiansund",
+        "country": "Norway"
+      },
+      {
+        "name": "Trondheim",
+        "country": "Norway"
+      },
+      {
+        "name": "Stiftsgarden",
+        "country": "Norway"
+      },
+      {
+        "name": "Lofoten Islands",
+        "country": "Norway"
+      },
+      {
+        "name": "Bodo",
+        "country": "Norway"
+      },
+      {
+        "name": "Svolvaer",
+        "country": "Norway"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bergen",
+        "country": "Norway",
+        "lat": 60.39555,
+        "lng": 5.325952
+      },
+      {
+        "name": "Alesund",
+        "country": "Norway",
+        "lat": 62.47293,
+        "lng": 6.156597
+      },
+      {
+        "name": "Geirangerfjord",
+        "country": "Norway",
+        "lat": 62.101803,
+        "lng": 7.207343
+      },
+      {
+        "name": "Floro",
+        "country": "Norway",
+        "lat": 61.599537,
+        "lng": 5.031049
+      },
+      {
+        "name": "Maloy",
+        "country": "Norway",
+        "lat": 61.934456,
+        "lng": 5.111524
+      },
+      {
+        "name": "Torvik",
+        "country": "Norway",
+        "lat": 60.304919,
+        "lng": 6.152394
+      },
+      {
+        "name": "Kristiansund",
+        "country": "Norway",
+        "lat": 63.11105,
+        "lng": 7.731283
+      },
+      {
+        "name": "Trondheim",
+        "country": "Norway",
+        "lat": 63.432697,
+        "lng": 10.397414
+      },
+      {
+        "name": "Lofoten Islands",
+        "country": "Norway",
+        "lat": 68.333056,
+        "lng": 14.666389
+      },
+      {
+        "name": "Bodo",
+        "country": "Norway",
+        "lat": 67.28405,
+        "lng": 14.380707
+      },
+      {
+        "name": "Svolvaer",
+        "country": "Norway",
+        "lat": 68.23224,
+        "lng": 14.563745
+      }
+    ]
   },
   {
     "destination": "Norway",
@@ -266,6 +538,60 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Oslo",
+        "country": "Norway"
+      },
+      {
+        "name": "Flam",
+        "country": "Norway"
+      },
+      {
+        "name": "Bergen",
+        "country": "Norway"
+      },
+      {
+        "name": "Tromso",
+        "country": "Norway"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Oslo",
+        "country": "Norway",
+        "lat": 59.91333,
+        "lng": 10.73897
+      },
+      {
+        "name": "Flam",
+        "country": "Norway",
+        "lat": 60.86355,
+        "lng": 7.116472
+      },
+      {
+        "name": "Bergen",
+        "country": "Norway",
+        "lat": 60.39555,
+        "lng": 5.325952
+      },
+      {
+        "name": "Tromso",
+        "country": "Norway",
+        "lat": 69.649605,
+        "lng": 18.955875
+      }
+    ]
   }
 ]

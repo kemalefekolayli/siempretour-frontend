@@ -48,7 +48,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yerevan",
+        "country": "Armenia"
+      },
+      {
+        "name": "Garni",
+        "country": "Armenia"
+      },
+      {
+        "name": "Geghard",
+        "country": "Armenia"
+      },
+      {
+        "name": "Lake Sevan",
+        "country": "Armenia"
+      },
+      {
+        "name": "Khor Virap",
+        "country": "Armenia"
+      },
+      {
+        "name": "Ararat Valley",
+        "country": "Armenia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yerevan",
+        "country": "Armenia",
+        "lat": 40.177625,
+        "lng": 44.512617
+      },
+      {
+        "name": "Garni",
+        "country": "Armenia",
+        "lat": 40.113918,
+        "lng": 44.731685
+      },
+      {
+        "name": "Lake Sevan",
+        "country": "Armenia",
+        "lat": 40.557926,
+        "lng": 44.987358
+      },
+      {
+        "name": "Khor Virap",
+        "country": "Armenia",
+        "lat": 39.44443,
+        "lng": 46.336561
+      },
+      {
+        "name": "Ararat Valley",
+        "country": "Armenia",
+        "lat": 39.855333,
+        "lng": 44.694379
+      }
+    ]
   },
   {
     "destination": "Armenia",
@@ -114,6 +182,158 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Armavir",
+        "country": "Armenia"
+      },
+      {
+        "name": "Yerevan",
+        "country": "Armenia"
+      },
+      {
+        "name": "Khor Virap Monastery",
+        "country": "Armenia"
+      },
+      {
+        "name": "Mount Ararat",
+        "country": "Armenia"
+      },
+      {
+        "name": "Areni-1 Cave",
+        "country": "Armenia"
+      },
+      {
+        "name": "Noravank Monastery",
+        "country": "Armenia"
+      },
+      {
+        "name": "Selim Pass",
+        "country": "Armenia"
+      },
+      {
+        "name": "Dilijan",
+        "country": "Armenia"
+      },
+      {
+        "name": "Tavoush",
+        "country": "Armenia"
+      },
+      {
+        "name": "Makaravank Medieval Monastery",
+        "country": "Armenia"
+      },
+      {
+        "name": "Dilvados",
+        "country": "Armenia"
+      },
+      {
+        "name": "Tsaghkunk",
+        "country": "Armenia"
+      },
+      {
+        "name": "Geghard Monastery",
+        "country": "Armenia"
+      },
+      {
+        "name": "Garni Temple",
+        "country": "Armenia"
+      },
+      {
+        "name": "Levon’s Cave",
+        "country": "Armenia"
+      },
+      {
+        "name": "Vernissage market",
+        "country": "Armenia"
+      },
+      {
+        "name": "Lake Kari",
+        "country": "Armenia"
+      },
+      {
+        "name": "Mount Aragats",
+        "country": "Armenia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Armavir",
+        "country": "Armenia",
+        "lat": 40.155549,
+        "lng": 44.038757
+      },
+      {
+        "name": "Yerevan",
+        "country": "Armenia",
+        "lat": 40.177625,
+        "lng": 44.512617
+      },
+      {
+        "name": "Khor Virap Monastery",
+        "country": "Armenia",
+        "lat": 39.44443,
+        "lng": 46.336561
+      },
+      {
+        "name": "Mount Ararat",
+        "country": "Armenia",
+        "lat": 39.855333,
+        "lng": 44.694379
+      },
+      {
+        "name": "Areni-1 Cave",
+        "country": "Armenia",
+        "lat": 39.724638,
+        "lng": 45.186421
+      },
+      {
+        "name": "Noravank Monastery",
+        "country": "Armenia",
+        "lat": 39.523212,
+        "lng": 46.090658
+      },
+      {
+        "name": "Dilijan",
+        "country": "Armenia",
+        "lat": 40.797775,
+        "lng": 44.901653
+      },
+      {
+        "name": "Tavoush",
+        "country": "Armenia",
+        "lat": 40.918255,
+        "lng": 45.404682
+      },
+      {
+        "name": "Tsaghkunk",
+        "country": "Armenia",
+        "lat": 40.577838,
+        "lng": 44.877712
+      },
+      {
+        "name": "Garni Temple",
+        "country": "Armenia",
+        "lat": 40.113918,
+        "lng": 44.731685
+      },
+      {
+        "name": "Mount Aragats",
+        "country": "Armenia",
+        "lat": 40.487823,
+        "lng": 44.356977
+      }
+    ]
   }
 ]

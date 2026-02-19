@@ -58,6 +58,130 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "George Town",
+        "country": "Bahamas"
+      },
+      {
+        "name": "Great Exuma",
+        "country": "Bahamas"
+      },
+      {
+        "name": "Barraterre",
+        "country": "Bahamas"
+      },
+      {
+        "name": "Brigantine Cays",
+        "country": "Bahamas"
+      },
+      {
+        "name": "Long Cay",
+        "country": "Bahamas"
+      },
+      {
+        "name": "Brigantine Cay",
+        "country": "Bahamas"
+      },
+      {
+        "name": "Norman’s Pond Cay",
+        "country": "Bahamas"
+      },
+      {
+        "name": "Leaf Cay",
+        "country": "Bahamas"
+      },
+      {
+        "name": "Rat Cay",
+        "country": "Bahamas"
+      },
+      {
+        "name": "Square Rock Cay",
+        "country": "Bahamas"
+      },
+      {
+        "name": "Boysie Cay",
+        "country": "Bahamas"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "George Town",
+        "country": "Bahamas",
+        "lat": 23.47466,
+        "lng": -75.748587
+      },
+      {
+        "name": "Great Exuma",
+        "country": "Bahamas",
+        "lat": 23.5333,
+        "lng": -75.8333
+      },
+      {
+        "name": "Barraterre",
+        "country": "Bahamas",
+        "lat": 23.694697,
+        "lng": -76.046549
+      },
+      {
+        "name": "Brigantine Cays",
+        "country": "Bahamas",
+        "lat": 26.561832,
+        "lng": -78.833219
+      },
+      {
+        "name": "Long Cay",
+        "country": "Bahamas",
+        "lat": 24.67307,
+        "lng": -76.80834
+      },
+      {
+        "name": "Brigantine Cay",
+        "country": "Bahamas",
+        "lat": 26.561832,
+        "lng": -78.833219
+      },
+      {
+        "name": "Norman’s Pond Cay",
+        "country": "Bahamas",
+        "lat": 23.774587,
+        "lng": -76.129198
+      },
+      {
+        "name": "Leaf Cay",
+        "country": "Bahamas",
+        "lat": 26.561832,
+        "lng": -78.833219
+      },
+      {
+        "name": "Rat Cay",
+        "country": "Bahamas",
+        "lat": 24.227285,
+        "lng": -76.48946
+      },
+      {
+        "name": "Square Rock Cay",
+        "country": "Bahamas",
+        "lat": 23.808785,
+        "lng": -76.166111
+      },
+      {
+        "name": "Boysie Cay",
+        "country": "Bahamas",
+        "lat": 26.561832,
+        "lng": -78.833219
+      }
+    ]
   }
 ]

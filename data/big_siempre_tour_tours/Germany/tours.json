@@ -58,7 +58,155 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cologne",
+        "country": "Germany"
+      },
+      {
+        "name": "Koblenz",
+        "country": "Germany"
+      },
+      {
+        "name": "Frankfurt",
+        "country": "Germany"
+      },
+      {
+        "name": "Heidelberg",
+        "country": "Germany"
+      },
+      {
+        "name": "Stuttgart",
+        "country": "Germany"
+      },
+      {
+        "name": "Baden-Baden",
+        "country": "Germany"
+      },
+      {
+        "name": "Konstanz",
+        "country": "Germany"
+      },
+      {
+        "name": "Meersburg",
+        "country": "Germany"
+      },
+      {
+        "name": "Hohenschwangau",
+        "country": "Germany"
+      },
+      {
+        "name": "Neuschwanstein Castle",
+        "country": "Germany"
+      },
+      {
+        "name": "Oberammergau",
+        "country": "Germany"
+      },
+      {
+        "name": "Garmisch-Partenkirchen",
+        "country": "Germany"
+      },
+      {
+        "name": "Innsbruck",
+        "country": "Austria"
+      },
+      {
+        "name": "Munich",
+        "country": "Germany"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cologne",
+        "country": "Germany",
+        "lat": 50.93804,
+        "lng": 6.960162
+      },
+      {
+        "name": "Koblenz",
+        "country": "Germany",
+        "lat": 50.353121,
+        "lng": 7.594565
+      },
+      {
+        "name": "Frankfurt",
+        "country": "Germany",
+        "lat": 50.110596,
+        "lng": 8.683012
+      },
+      {
+        "name": "Heidelberg",
+        "country": "Germany",
+        "lat": 49.409136,
+        "lng": 8.694518
+      },
+      {
+        "name": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.77353,
+        "lng": 9.17742
+      },
+      {
+        "name": "Baden-Baden",
+        "country": "Germany",
+        "lat": 48.757971,
+        "lng": 8.241496
+      },
+      {
+        "name": "Konstanz",
+        "country": "Germany",
+        "lat": 47.660362,
+        "lng": 9.174806
+      },
+      {
+        "name": "Meersburg",
+        "country": "Germany",
+        "lat": 47.69379,
+        "lng": 9.272364
+      },
+      {
+        "name": "Hohenschwangau",
+        "country": "Germany",
+        "lat": 47.5567,
+        "lng": 10.740828
+      },
+      {
+        "name": "Oberammergau",
+        "country": "Germany",
+        "lat": 47.598564,
+        "lng": 11.063308
+      },
+      {
+        "name": "Garmisch-Partenkirchen",
+        "country": "Germany",
+        "lat": 47.492097,
+        "lng": 11.096207
+      },
+      {
+        "name": "Innsbruck",
+        "country": "Austria",
+        "lat": 47.268234,
+        "lng": 11.395086
+      },
+      {
+        "name": "Munich",
+        "country": "Germany",
+        "lat": 48.136973,
+        "lng": 11.575968
+      }
+    ]
   },
   {
     "destination": "Germany",
@@ -164,7 +312,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Berlin",
+        "country": "Germany"
+      },
+      {
+        "name": "Nuremberg",
+        "country": "Germany"
+      },
+      {
+        "name": "Munich",
+        "country": "Germany"
+      },
+      {
+        "name": "Garmisch",
+        "country": "Germany"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Berlin",
+        "country": "Germany",
+        "lat": 52.517037,
+        "lng": 13.38886
+      },
+      {
+        "name": "Nuremberg",
+        "country": "Germany",
+        "lat": 49.45418,
+        "lng": 11.077667
+      },
+      {
+        "name": "Munich",
+        "country": "Germany",
+        "lat": 48.136973,
+        "lng": 11.575968
+      },
+      {
+        "name": "Garmisch",
+        "country": "Germany",
+        "lat": 47.493842,
+        "lng": 11.0829
+      }
+    ]
   },
   {
     "destination": "Germany",
@@ -240,6 +442,90 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Berlin",
+        "country": "Germany"
+      },
+      {
+        "name": "Potsdam",
+        "country": "Germany"
+      },
+      {
+        "name": "Nuremberg",
+        "country": "Germany"
+      },
+      {
+        "name": "Munich",
+        "country": "Germany"
+      },
+      {
+        "name": "Berchtesgaden",
+        "country": "Germany"
+      },
+      {
+        "name": "Salzburg",
+        "country": "Austria"
+      },
+      {
+        "name": "Hallstatt",
+        "country": "Austria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Berlin",
+        "country": "Germany",
+        "lat": 52.517037,
+        "lng": 13.38886
+      },
+      {
+        "name": "Potsdam",
+        "country": "Germany",
+        "lat": 52.400646,
+        "lng": 13.056009
+      },
+      {
+        "name": "Nuremberg",
+        "country": "Germany",
+        "lat": 49.45418,
+        "lng": 11.077667
+      },
+      {
+        "name": "Munich",
+        "country": "Germany",
+        "lat": 48.136973,
+        "lng": 11.575968
+      },
+      {
+        "name": "Berchtesgaden",
+        "country": "Germany",
+        "lat": 47.63221,
+        "lng": 13.001009
+      },
+      {
+        "name": "Salzburg",
+        "country": "Austria",
+        "lat": 47.799973,
+        "lng": 13.045283
+      },
+      {
+        "name": "Hallstatt",
+        "country": "Austria",
+        "lat": 47.56231,
+        "lng": 13.648932
+      }
+    ]
   }
 ]

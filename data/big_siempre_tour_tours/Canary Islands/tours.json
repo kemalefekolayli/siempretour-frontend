@@ -53,7 +53,91 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tenerife",
+        "country": "Spain"
+      },
+      {
+        "name": "La Gomera",
+        "country": "Spain"
+      },
+      {
+        "name": "San Sebastian",
+        "country": "Spain"
+      },
+      {
+        "name": "Parque Nacional de Garajonay",
+        "country": "Spain"
+      },
+      {
+        "name": "Valle Gran Rey",
+        "country": "Spain"
+      },
+      {
+        "name": "Puerto Vueltas",
+        "country": "Spain"
+      },
+      {
+        "name": "El Hierro",
+        "country": "Spain"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tenerife",
+        "country": "Spain",
+        "lat": 42.201522,
+        "lng": -8.610716
+      },
+      {
+        "name": "La Gomera",
+        "country": "Spain",
+        "lat": 37.08448,
+        "lng": -5.279278
+      },
+      {
+        "name": "San Sebastian",
+        "country": "Spain",
+        "lat": 43.32282,
+        "lng": -1.984026
+      },
+      {
+        "name": "Parque Nacional de Garajonay",
+        "country": "Spain",
+        "lat": 42.201522,
+        "lng": -8.610716
+      },
+      {
+        "name": "Valle Gran Rey",
+        "country": "Spain",
+        "lat": 28.096579,
+        "lng": -17.333284
+      },
+      {
+        "name": "Puerto Vueltas",
+        "country": "Spain",
+        "lat": 28.651838,
+        "lng": -17.947634
+      },
+      {
+        "name": "El Hierro",
+        "country": "Spain",
+        "lat": 42.895996,
+        "lng": -3.351156
+      }
+    ]
   },
   {
     "destination": "Canary Islands",
@@ -129,6 +213,110 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tenerife",
+        "country": "Spain"
+      },
+      {
+        "name": "La Gomera",
+        "country": "Spain"
+      },
+      {
+        "name": "San Sebastián de La Gomera",
+        "country": "Spain"
+      },
+      {
+        "name": "Garajonay National Park",
+        "country": "Spain"
+      },
+      {
+        "name": "La Palma",
+        "country": "Spain"
+      },
+      {
+        "name": "Santa Cruz de La Palma",
+        "country": "Spain"
+      },
+      {
+        "name": "Valle Gran Rey",
+        "country": "Spain"
+      },
+      {
+        "name": "El Hierro",
+        "country": "Spain"
+      },
+      {
+        "name": "Puerto de la Estaca",
+        "country": "Spain"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tenerife",
+        "country": "Spain",
+        "lat": 42.201522,
+        "lng": -8.610716
+      },
+      {
+        "name": "La Gomera",
+        "country": "Spain",
+        "lat": 37.08448,
+        "lng": -5.279278
+      },
+      {
+        "name": "San Sebastián de La Gomera",
+        "country": "Spain",
+        "lat": 28.092503,
+        "lng": -17.111341
+      },
+      {
+        "name": "Garajonay National Park",
+        "country": "Spain",
+        "lat": 42.201522,
+        "lng": -8.610716
+      },
+      {
+        "name": "La Palma",
+        "country": "Spain",
+        "lat": 37.68895,
+        "lng": -0.962785
+      },
+      {
+        "name": "Santa Cruz de La Palma",
+        "country": "Spain",
+        "lat": 28.683449,
+        "lng": -17.76463
+      },
+      {
+        "name": "Valle Gran Rey",
+        "country": "Spain",
+        "lat": 28.096579,
+        "lng": -17.333284
+      },
+      {
+        "name": "El Hierro",
+        "country": "Spain",
+        "lat": 42.895996,
+        "lng": -3.351156
+      },
+      {
+        "name": "Puerto de la Estaca",
+        "country": "Spain",
+        "lat": 27.785952,
+        "lng": -17.900745
+      }
+    ]
   }
 ]

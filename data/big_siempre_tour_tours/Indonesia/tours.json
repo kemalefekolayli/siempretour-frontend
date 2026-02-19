@@ -68,7 +68,83 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sidemen",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lovina",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali Barat National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bedugul",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Banjar Hot Springs",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Sidemen",
+        "country": "Indonesia",
+        "lat": -8.46485,
+        "lng": 115.44781
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia",
+        "lat": -7.206964,
+        "lng": 109.82982
+      },
+      {
+        "name": "Bali Barat National Park",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Banjar Hot Springs",
+        "country": "Indonesia",
+        "lat": -3.410569,
+        "lng": 114.84929
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -164,7 +240,133 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Malang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Cemoro Lawang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Bromo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kalibaru",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ketapang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pemuteran",
+        "country": "Indonesia"
+      },
+      {
+        "name": "West Bali National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Munduk",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia",
+        "lat": -7.601826,
+        "lng": 110.201546
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia",
+        "lat": -7.795832,
+        "lng": 110.49378
+      },
+      {
+        "name": "Malang",
+        "country": "Indonesia",
+        "lat": -7.976468,
+        "lng": 112.62813
+      },
+      {
+        "name": "Cemoro Lawang",
+        "country": "Indonesia",
+        "lat": -7.831579,
+        "lng": 112.69564
+      },
+      {
+        "name": "Kalibaru",
+        "country": "Indonesia",
+        "lat": -8.289056,
+        "lng": 113.986145
+      },
+      {
+        "name": "Ketapang",
+        "country": "Indonesia",
+        "lat": -1.846346,
+        "lng": 109.973785
+      },
+      {
+        "name": "West Bali National Park",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Munduk",
+        "country": "Indonesia",
+        "lat": -6.756394,
+        "lng": 108.59349
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -255,7 +457,77 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Belimbing",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jatiluwih",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Batakuru",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali Barat National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Menjangan Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Nusa Dua",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia",
+        "lat": -7.206964,
+        "lng": 109.82982
+      },
+      {
+        "name": "Belimbing",
+        "country": "Indonesia",
+        "lat": -3.429147,
+        "lng": 103.98883
+      },
+      {
+        "name": "Bali Barat National Park",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -356,7 +628,61 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seminyak",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Uluwatu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Canggu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lovina",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili T",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Nusa Lembongan",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Nusa Lembongan",
+        "country": "Indonesia",
+        "lat": -8.681767,
+        "lng": 115.451117
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -422,7 +748,53 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Candidasa",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Amed",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Seminyak",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Amed",
+        "country": "Indonesia",
+        "lat": -3.123087,
+        "lng": 102.206375
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -508,7 +880,99 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Belimbing",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanah Lot",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bajawa",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Flores",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jimbaran",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Belimbing",
+        "country": "Indonesia",
+        "lat": -3.429147,
+        "lng": 103.98883
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Bajawa",
+        "country": "Indonesia",
+        "lat": -8.787306,
+        "lng": 120.973305
+      },
+      {
+        "name": "Flores",
+        "country": "Indonesia",
+        "lat": -8.674722,
+        "lng": 121.384444
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -584,7 +1048,63 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Batur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Candidasa",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Padangbai",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Trawangan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Seminyak",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Batur",
+        "country": "Indonesia",
+        "lat": -7.206964,
+        "lng": 109.82982
+      },
+      {
+        "name": "Gili Trawangan",
+        "country": "Indonesia",
+        "lat": -8.350886,
+        "lng": 116.036389
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -650,7 +1170,55 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Agung",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Mount Agung",
+        "country": "Indonesia",
+        "lat": -8.245877,
+        "lng": 113.6535
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia",
+        "lat": -8.669399,
+        "lng": 115.21312
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -726,7 +1294,113 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Candi Kuning",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Beratan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Brahmavihara-Arama",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Singaraja",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Subak Guliang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Manggis",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tenganan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mengwi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanah Lot Temple",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Candi Kuning",
+        "country": "Indonesia",
+        "lat": -7.477868,
+        "lng": 112.71212
+      },
+      {
+        "name": "Subak Guliang",
+        "country": "Indonesia",
+        "lat": -6.97067,
+        "lng": 109.8729
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia",
+        "lat": -7.206964,
+        "lng": 109.82982
+      },
+      {
+        "name": "Manggis",
+        "country": "Indonesia",
+        "lat": -8.489176,
+        "lng": 115.52442
+      },
+      {
+        "name": "Tenganan",
+        "country": "Indonesia",
+        "lat": -7.420341,
+        "lng": 110.52187
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Mengwi",
+        "country": "Indonesia",
+        "lat": -8.546827,
+        "lng": 115.16818
+      },
+      {
+        "name": "Tanah Lot Temple",
+        "country": "Indonesia",
+        "lat": -4.118547,
+        "lng": 120.01521
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -812,7 +1486,51 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Canggu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lovina",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili T",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Monkey Forest",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Active Volcano",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -858,7 +1576,57 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kumai",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sekonyer River",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Crocodile River",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Camp Leakey",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pesalat Reforestation Camp",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kumai",
+        "country": "Indonesia",
+        "lat": -2.741472,
+        "lng": 111.7213
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia",
+        "lat": -6.874943,
+        "lng": 108.86812
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -934,7 +1702,89 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sorong",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Misool",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tomolol Bay",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Batanta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Wayag",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Waigeo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Wofoh",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Aljui Bay",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Penemu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Aborek Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Doom Island",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sorong",
+        "country": "Indonesia",
+        "lat": -0.863667,
+        "lng": 131.25421
+      },
+      {
+        "name": "Misool",
+        "country": "Indonesia",
+        "lat": -1.828296,
+        "lng": 129.82858
+      },
+      {
+        "name": "Batanta",
+        "country": "Indonesia",
+        "lat": -0.8376,
+        "lng": 130.89406
+      },
+      {
+        "name": "Doom Island",
+        "country": "Indonesia",
+        "lat": -1.638611,
+        "lng": 135.64124
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -1035,7 +1885,67 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Makassar",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanah Toraja",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sengkang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Malino",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tangkoko Batuangas Reserve",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mahawu Volcano",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bunaken Island",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Makassar",
+        "country": "Indonesia",
+        "lat": -5.146212,
+        "lng": 119.42148
+      },
+      {
+        "name": "Tanah Toraja",
+        "country": "Indonesia",
+        "lat": -3.104078,
+        "lng": 119.85298
+      },
+      {
+        "name": "Bunaken Island",
+        "country": "Indonesia",
+        "lat": 1.528121,
+        "lng": 124.846504
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -1151,7 +2061,127 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Seture Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pungu Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rinca",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Manta Point",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sebayor Kecil",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kanawa",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Cunca Wulang Waterfalls",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Cecer Village",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Amed",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Pungu Island",
+        "country": "Indonesia",
+        "lat": -7.686602,
+        "lng": 111.61315
+      },
+      {
+        "name": "Rinca",
+        "country": "Indonesia",
+        "lat": -8.696667,
+        "lng": 119.691942
+      },
+      {
+        "name": "Sebayor Kecil",
+        "country": "Indonesia",
+        "lat": -7.518427,
+        "lng": 110.00342
+      },
+      {
+        "name": "Cecer Village",
+        "country": "Indonesia",
+        "lat": -7.67331,
+        "lng": 110.67784
+      },
+      {
+        "name": "Amed",
+        "country": "Indonesia",
+        "lat": -3.123087,
+        "lng": 102.206375
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia",
+        "lat": -8.669399,
+        "lng": 115.21312
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -1252,7 +2282,167 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Maumere",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Moni",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kelimutu Lake",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ende",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bajawa",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Wawomuda volcano",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bena",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Luba",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Soa",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rana Mese Lake",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ruteng",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Denge",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Waerebo Village",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kelor Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rinca Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pink Beach",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Laba",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bidadari Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Moni",
+        "country": "Indonesia",
+        "lat": 0.433051,
+        "lng": 127.40147
+      },
+      {
+        "name": "Kelimutu Lake",
+        "country": "Indonesia",
+        "lat": -8.713571,
+        "lng": 121.83079
+      },
+      {
+        "name": "Ende",
+        "country": "Indonesia",
+        "lat": -8.848161,
+        "lng": 121.65652
+      },
+      {
+        "name": "Bajawa",
+        "country": "Indonesia",
+        "lat": -8.787306,
+        "lng": 120.973305
+      },
+      {
+        "name": "Soa",
+        "country": "Indonesia",
+        "lat": -8.720113,
+        "lng": 121.04568
+      },
+      {
+        "name": "Rana Mese Lake",
+        "country": "Indonesia",
+        "lat": -8.809191,
+        "lng": 120.54014
+      },
+      {
+        "name": "Ruteng",
+        "country": "Indonesia",
+        "lat": -8.591754,
+        "lng": 120.37607
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      },
+      {
+        "name": "Rinca Island",
+        "country": "Indonesia",
+        "lat": -8.696667,
+        "lng": 119.691942
+      },
+      {
+        "name": "Pink Beach",
+        "country": "Indonesia",
+        "lat": -4.377366,
+        "lng": 102.95506
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -1298,7 +2488,49 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuha",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kusu Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Halmahera",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Halmahera",
+        "country": "Indonesia",
+        "lat": 0.65,
+        "lng": 127.9
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -1394,7 +2626,139 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kalimantan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sekonyer River",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Camp Leakey",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pondok Tanggui",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pesalat Reforestation Camp",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Semarang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gedong Songo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bromo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Penanjakan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Makassar",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Batur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ayung River",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Seminyak",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia",
+        "lat": -6.874943,
+        "lng": 108.86812
+      },
+      {
+        "name": "Pondok Tanggui",
+        "country": "Indonesia",
+        "lat": -8.163155,
+        "lng": 113.4524
+      },
+      {
+        "name": "Semarang",
+        "country": "Indonesia",
+        "lat": -6.985629,
+        "lng": 110.419586
+      },
+      {
+        "name": "Gedong Songo",
+        "country": "Indonesia",
+        "lat": -7.021459,
+        "lng": 110.76972
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Makassar",
+        "country": "Indonesia",
+        "lat": -5.146212,
+        "lng": 119.42148
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Lake Batur",
+        "country": "Indonesia",
+        "lat": -7.206964,
+        "lng": 109.82982
+      },
+      {
+        "name": "Ayung River",
+        "country": "Indonesia",
+        "lat": -6.947728,
+        "lng": 110.51335
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -1535,7 +2899,167 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bukit Lawang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gunung Leuser National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sibayak Volcano",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Berastagi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Toba",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Java",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pangandaran",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Candi Borobudur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Seloliman Nature Reserve",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Bromo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kalibaru",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pemuteran",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia",
+        "lat": 3.584651,
+        "lng": 98.680595
+      },
+      {
+        "name": "Bukit Lawang",
+        "country": "Indonesia",
+        "lat": -7.831579,
+        "lng": 112.69564
+      },
+      {
+        "name": "Gunung Leuser National Park",
+        "country": "Indonesia",
+        "lat": 3.153931,
+        "lng": 97.95167
+      },
+      {
+        "name": "Berastagi",
+        "country": "Indonesia",
+        "lat": 3.194521,
+        "lng": 98.50894
+      },
+      {
+        "name": "Lake Toba",
+        "country": "Indonesia",
+        "lat": 2.334392,
+        "lng": 99.066246
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Java",
+        "country": "Indonesia",
+        "lat": 5.084484,
+        "lng": 95.36279
+      },
+      {
+        "name": "Pangandaran",
+        "country": "Indonesia",
+        "lat": -7.69427,
+        "lng": 108.6579
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Candi Borobudur",
+        "country": "Indonesia",
+        "lat": -7.477868,
+        "lng": 112.71212
+      },
+      {
+        "name": "Kalibaru",
+        "country": "Indonesia",
+        "lat": -8.289056,
+        "lng": 113.986145
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -1596,7 +3120,69 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Darwin",
+        "country": "Australia"
+      },
+      {
+        "name": "Kei Islands",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Raja Ampat Islands",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kitikiti Waterfall",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Banda Neira",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Darwin",
+        "country": "Australia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Darwin",
+        "country": "Australia",
+        "lat": -12.464953,
+        "lng": 130.8417
+      },
+      {
+        "name": "Raja Ampat Islands",
+        "country": "Indonesia",
+        "lat": -0.424922,
+        "lng": 130.82092
+      },
+      {
+        "name": "Banda Neira",
+        "country": "Indonesia",
+        "lat": -4.512219,
+        "lng": 129.903
+      },
+      {
+        "name": "Darwin",
+        "country": "Australia",
+        "lat": -12.464953,
+        "lng": 130.8417
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -1707,7 +3293,221 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kalimantan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kumai",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Camp Leakey",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pondok Tanguy",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pasalat Rainforest",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjung Harapan Camp",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pangkalanbun",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Semarang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mendut",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pawon",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bromo-Tengger National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Bromo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bedugul",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ulun Danu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jatiluwih",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pura Taman Ayun",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sebayur",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia",
+        "lat": -6.874943,
+        "lng": 108.86812
+      },
+      {
+        "name": "Kumai",
+        "country": "Indonesia",
+        "lat": -2.741472,
+        "lng": 111.7213
+      },
+      {
+        "name": "Tanjung Harapan Camp",
+        "country": "Indonesia",
+        "lat": -0.791692,
+        "lng": 100.6577
+      },
+      {
+        "name": "Semarang",
+        "country": "Indonesia",
+        "lat": -6.985629,
+        "lng": 110.419586
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia",
+        "lat": -7.601826,
+        "lng": 110.201546
+      },
+      {
+        "name": "Pawon",
+        "country": "Indonesia",
+        "lat": -7.439978,
+        "lng": 111.38958
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia",
+        "lat": -7.795832,
+        "lng": 110.49378
+      },
+      {
+        "name": "Bromo-Tengger National Park",
+        "country": "Indonesia",
+        "lat": -7.76889,
+        "lng": 112.19652
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Ulun Danu",
+        "country": "Indonesia",
+        "lat": 2.431556,
+        "lng": 99.11635
+      },
+      {
+        "name": "Pura Taman Ayun",
+        "country": "Indonesia",
+        "lat": -7.351527,
+        "lng": 112.69934
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -1808,7 +3608,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sidemen",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mt Batur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lovina",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bedugul",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tetebatu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Pandan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Senaru",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Air",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Sidemen",
+        "country": "Indonesia",
+        "lat": -8.46485,
+        "lng": 115.44781
+      },
+      {
+        "name": "Mt Batur",
+        "country": "Indonesia",
+        "lat": -7.206964,
+        "lng": 109.82982
+      },
+      {
+        "name": "Labuan Pandan",
+        "country": "Indonesia",
+        "lat": 1.680852,
+        "lng": 98.82318
+      },
+      {
+        "name": "Senaru",
+        "country": "Indonesia",
+        "lat": -8.12909,
+        "lng": 131.11372
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -1914,7 +3798,99 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kalimantan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Surabaya",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Candidasa",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia",
+        "lat": -7.601826,
+        "lng": 110.201546
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia",
+        "lat": -7.795832,
+        "lng": 110.49378
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia",
+        "lat": -6.874943,
+        "lng": 108.86812
+      },
+      {
+        "name": "Surabaya",
+        "country": "Indonesia",
+        "lat": -7.262669,
+        "lng": 112.740746
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -2005,7 +3981,55 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Candidasa",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia",
+        "lat": -7.206964,
+        "lng": 109.82982
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia",
+        "lat": -8.669399,
+        "lng": 115.21312
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -2076,7 +4100,145 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pangkalan Bun",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Camp Leakey",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Crocodile Lake",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pesalat",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rinca Village",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kaaba",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kambing Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Padar Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pink Beach",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Manta Point",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Taka Makassar",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Pangkalan Bun",
+        "country": "Indonesia",
+        "lat": -6.528812,
+        "lng": 107.179436
+      },
+      {
+        "name": "Tanjung Puting National Park",
+        "country": "Indonesia",
+        "lat": -6.874943,
+        "lng": 108.86812
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      },
+      {
+        "name": "Rinca Village",
+        "country": "Indonesia",
+        "lat": -8.696667,
+        "lng": 119.691942
+      },
+      {
+        "name": "Padar Island",
+        "country": "Indonesia",
+        "lat": -8.656389,
+        "lng": 119.571942
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Pink Beach",
+        "country": "Indonesia",
+        "lat": -4.377366,
+        "lng": 102.95506
+      },
+      {
+        "name": "Taka Makassar",
+        "country": "Indonesia",
+        "lat": -5.146212,
+        "lng": 119.42148
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -2207,7 +4369,279 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Borobodur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Candirejo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mt Bromo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Surabaya",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Manado",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tangkoko National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tomohon",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Linow",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pulutan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Woloan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mahawu Volcano",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Makassar",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Maros",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sengkang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Tempe",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanah Toraja",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rantepao",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ende",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Moni",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kelimutu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bajawa",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tololela",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ruteng",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rinca",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Borobodur",
+        "country": "Indonesia",
+        "lat": -7.601826,
+        "lng": 110.201546
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia",
+        "lat": -7.795832,
+        "lng": 110.49378
+      },
+      {
+        "name": "Surabaya",
+        "country": "Indonesia",
+        "lat": -7.262669,
+        "lng": 112.740746
+      },
+      {
+        "name": "Manado",
+        "country": "Indonesia",
+        "lat": 1.488366,
+        "lng": 124.840744
+      },
+      {
+        "name": "Tangkoko National Park",
+        "country": "Indonesia",
+        "lat": -7.76889,
+        "lng": 112.19652
+      },
+      {
+        "name": "Tomohon",
+        "country": "Indonesia",
+        "lat": 1.325672,
+        "lng": 124.837814
+      },
+      {
+        "name": "Pulutan",
+        "country": "Indonesia",
+        "lat": 4.123039,
+        "lng": 126.77691
+      },
+      {
+        "name": "Makassar",
+        "country": "Indonesia",
+        "lat": -5.146212,
+        "lng": 119.42148
+      },
+      {
+        "name": "Maros",
+        "country": "Indonesia",
+        "lat": -5.015006,
+        "lng": 119.575905
+      },
+      {
+        "name": "Lake Tempe",
+        "country": "Indonesia",
+        "lat": -4.118547,
+        "lng": 120.01521
+      },
+      {
+        "name": "Tanah Toraja",
+        "country": "Indonesia",
+        "lat": -3.104078,
+        "lng": 119.85298
+      },
+      {
+        "name": "Rantepao",
+        "country": "Indonesia",
+        "lat": -2.970448,
+        "lng": 119.89862
+      },
+      {
+        "name": "Ende",
+        "country": "Indonesia",
+        "lat": -8.848161,
+        "lng": 121.65652
+      },
+      {
+        "name": "Moni",
+        "country": "Indonesia",
+        "lat": 0.433051,
+        "lng": 127.40147
+      },
+      {
+        "name": "Kelimutu",
+        "country": "Indonesia",
+        "lat": -8.713571,
+        "lng": 121.83079
+      },
+      {
+        "name": "Bajawa",
+        "country": "Indonesia",
+        "lat": -8.787306,
+        "lng": 120.973305
+      },
+      {
+        "name": "Ruteng",
+        "country": "Indonesia",
+        "lat": -8.591754,
+        "lng": 120.37607
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Rinca",
+        "country": "Indonesia",
+        "lat": -8.696667,
+        "lng": 119.691942
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -2328,7 +4762,95 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lovina",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Trawangan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lombok",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Flores",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Gili Trawangan",
+        "country": "Indonesia",
+        "lat": -8.350886,
+        "lng": 116.036389
+      },
+      {
+        "name": "Lombok",
+        "country": "Indonesia",
+        "lat": -8.565,
+        "lng": 116.351
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Flores",
+        "country": "Indonesia",
+        "lat": -8.674722,
+        "lng": 121.384444
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -2409,7 +4931,117 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjung Putting National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sekonyet River",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pondok Tanggui",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Camp Leakey",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pesalat Camp",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanjun Harapan Camp",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "South Kuta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tanah Lot",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lahuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Tanjung Putting National Park",
+        "country": "Indonesia",
+        "lat": -6.874943,
+        "lng": 108.86812
+      },
+      {
+        "name": "Pondok Tanggui",
+        "country": "Indonesia",
+        "lat": -8.163155,
+        "lng": 113.4524
+      },
+      {
+        "name": "Tanjun Harapan Camp",
+        "country": "Indonesia",
+        "lat": -0.791692,
+        "lng": 100.6577
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "South Kuta",
+        "country": "Indonesia",
+        "lat": -8.727787,
+        "lng": 115.17325
+      },
+      {
+        "name": "Lahuan Bajo",
+        "country": "Indonesia",
+        "lat": -3.369565,
+        "lng": 120.3005
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -2450,7 +5082,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Cibodas",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gunung Gede Pangrango National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Garot",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ujong Kulon National Park",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Cibodas",
+        "country": "Indonesia",
+        "lat": -6.193608,
+        "lng": 106.605934
+      },
+      {
+        "name": "Gunung Gede Pangrango National Park",
+        "country": "Indonesia",
+        "lat": -8.137615,
+        "lng": 111.01619
+      },
+      {
+        "name": "Garot",
+        "country": "Indonesia",
+        "lat": -7.215746,
+        "lng": 107.90209
+      },
+      {
+        "name": "Ujong Kulon National Park",
+        "country": "Indonesia",
+        "lat": -4.012791,
+        "lng": 119.62626
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -2541,7 +5237,185 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gunung Leuser National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bukit Lawang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rinca Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Padar",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pink Beach",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Laba Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gunung Kawi Temple",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tirta Empul Temple",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tegalalang",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia",
+        "lat": 3.584651,
+        "lng": 98.680595
+      },
+      {
+        "name": "Gunung Leuser National Park",
+        "country": "Indonesia",
+        "lat": 3.153931,
+        "lng": 97.95167
+      },
+      {
+        "name": "Bukit Lawang",
+        "country": "Indonesia",
+        "lat": -7.831579,
+        "lng": 112.69564
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Rinca Island",
+        "country": "Indonesia",
+        "lat": -8.696667,
+        "lng": 119.691942
+      },
+      {
+        "name": "Padar",
+        "country": "Indonesia",
+        "lat": -8.656389,
+        "lng": 119.571942
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Pink Beach",
+        "country": "Indonesia",
+        "lat": -4.377366,
+        "lng": 102.95506
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia",
+        "lat": -8.669399,
+        "lng": 115.21312
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Mount Batur",
+        "country": "Indonesia",
+        "lat": -7.206964,
+        "lng": 109.82982
+      },
+      {
+        "name": "Gunung Kawi Temple",
+        "country": "Indonesia",
+        "lat": -4.118547,
+        "lng": 120.01521
+      },
+      {
+        "name": "Tirta Empul Temple",
+        "country": "Indonesia",
+        "lat": -4.118547,
+        "lng": 120.01521
+      },
+      {
+        "name": "Tegalalang",
+        "country": "Indonesia",
+        "lat": -8.449728,
+        "lng": 115.28027
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -2607,7 +5481,93 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rinca Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sabita Bay",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sebayur Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kanawa Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Flores",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      },
+      {
+        "name": "Rinca Island",
+        "country": "Indonesia",
+        "lat": -8.696667,
+        "lng": 119.691942
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Flores",
+        "country": "Indonesia",
+        "lat": -8.674722,
+        "lng": 121.384444
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -2673,7 +5633,91 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gunung Leuser National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rinca Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Flores",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Way Kambas National Park",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Gunung Leuser National Park",
+        "country": "Indonesia",
+        "lat": 3.153931,
+        "lng": 97.95167
+      },
+      {
+        "name": "Rinca Island",
+        "country": "Indonesia",
+        "lat": -8.696667,
+        "lng": 119.691942
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Flores",
+        "country": "Indonesia",
+        "lat": -8.674722,
+        "lng": 121.384444
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Way Kambas National Park",
+        "country": "Indonesia",
+        "lat": 1.361727,
+        "lng": 109.3084
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -2764,7 +5808,113 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Malang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Bromo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kalibaru",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ijen",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ketapang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pemuteran",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia",
+        "lat": -7.795832,
+        "lng": 110.49378
+      },
+      {
+        "name": "Malang",
+        "country": "Indonesia",
+        "lat": -7.976468,
+        "lng": 112.62813
+      },
+      {
+        "name": "Kalibaru",
+        "country": "Indonesia",
+        "lat": -8.289056,
+        "lng": 113.986145
+      },
+      {
+        "name": "Ijen",
+        "country": "Indonesia",
+        "lat": -7.997434,
+        "lng": 114.15227
+      },
+      {
+        "name": "Ketapang",
+        "country": "Indonesia",
+        "lat": -1.846346,
+        "lng": 109.973785
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -2855,7 +6005,119 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mendut",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pawon",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Solo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sukuh Temple",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Malang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Bromo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ijen",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Surabaya",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia",
+        "lat": -7.601826,
+        "lng": 110.201546
+      },
+      {
+        "name": "Pawon",
+        "country": "Indonesia",
+        "lat": -7.439978,
+        "lng": 111.38958
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia",
+        "lat": -7.795832,
+        "lng": 110.49378
+      },
+      {
+        "name": "Solo",
+        "country": "Indonesia",
+        "lat": -0.79036,
+        "lng": 100.65531
+      },
+      {
+        "name": "Sukuh Temple",
+        "country": "Indonesia",
+        "lat": -4.118547,
+        "lng": 120.01521
+      },
+      {
+        "name": "Malang",
+        "country": "Indonesia",
+        "lat": -7.976468,
+        "lng": 112.62813
+      },
+      {
+        "name": "Ijen",
+        "country": "Indonesia",
+        "lat": -7.997434,
+        "lng": 114.15227
+      },
+      {
+        "name": "Surabaya",
+        "country": "Indonesia",
+        "lat": -7.262669,
+        "lng": 112.740746
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -2931,7 +6193,145 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Magelang Region",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Surabaya",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Bromo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kintamani",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Batur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tegalalang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gunung Agung",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gunung Lebah Temple",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Magelang Region",
+        "country": "Indonesia",
+        "lat": -7.481828,
+        "lng": 110.216576
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia",
+        "lat": -7.601826,
+        "lng": 110.201546
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia",
+        "lat": -7.795832,
+        "lng": 110.49378
+      },
+      {
+        "name": "Surabaya",
+        "country": "Indonesia",
+        "lat": -7.262669,
+        "lng": 112.740746
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Kintamani",
+        "country": "Indonesia",
+        "lat": -8.250999,
+        "lng": 115.32966
+      },
+      {
+        "name": "Lake Batur",
+        "country": "Indonesia",
+        "lat": -7.206964,
+        "lng": 109.82982
+      },
+      {
+        "name": "Tegalalang",
+        "country": "Indonesia",
+        "lat": -8.449728,
+        "lng": 115.28027
+      },
+      {
+        "name": "Gunung Agung",
+        "country": "Indonesia",
+        "lat": -4.26011,
+        "lng": 105.10912
+      },
+      {
+        "name": "Gunung Lebah Temple",
+        "country": "Indonesia",
+        "lat": -4.118547,
+        "lng": 120.01521
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3027,7 +6427,137 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Semerang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gedong Songo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jombang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Trowulan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bromo-Tengger National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Bromo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ijen",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Banyuwangi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gilimanuk",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pemuteran",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Menjangan Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Semerang",
+        "country": "Indonesia",
+        "lat": -6.985629,
+        "lng": 110.419586
+      },
+      {
+        "name": "Gedong Songo",
+        "country": "Indonesia",
+        "lat": -7.021459,
+        "lng": 110.76972
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia",
+        "lat": -7.601826,
+        "lng": 110.201546
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Jombang",
+        "country": "Indonesia",
+        "lat": -7.553634,
+        "lng": 112.23549
+      },
+      {
+        "name": "Trowulan",
+        "country": "Indonesia",
+        "lat": -7.532552,
+        "lng": 112.40703
+      },
+      {
+        "name": "Bromo-Tengger National Park",
+        "country": "Indonesia",
+        "lat": -7.76889,
+        "lng": 112.19652
+      },
+      {
+        "name": "Ijen",
+        "country": "Indonesia",
+        "lat": -7.997434,
+        "lng": 114.15227
+      },
+      {
+        "name": "Banyuwangi",
+        "country": "Indonesia",
+        "lat": -8.218824,
+        "lng": 114.36915
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia",
+        "lat": -8.669399,
+        "lng": 115.21312
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3093,7 +6623,139 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mendut",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pawon",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gunung Merapi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jombang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Trowulan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bromo-Tengger National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Bromo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Malang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Surabaya",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lombok",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia",
+        "lat": -7.601826,
+        "lng": 110.201546
+      },
+      {
+        "name": "Pawon",
+        "country": "Indonesia",
+        "lat": -7.439978,
+        "lng": 111.38958
+      },
+      {
+        "name": "Gunung Merapi",
+        "country": "Indonesia",
+        "lat": -8.137615,
+        "lng": 111.01619
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia",
+        "lat": -7.795832,
+        "lng": 110.49378
+      },
+      {
+        "name": "Jombang",
+        "country": "Indonesia",
+        "lat": -7.553634,
+        "lng": 112.23549
+      },
+      {
+        "name": "Trowulan",
+        "country": "Indonesia",
+        "lat": -7.532552,
+        "lng": 112.40703
+      },
+      {
+        "name": "Bromo-Tengger National Park",
+        "country": "Indonesia",
+        "lat": -7.76889,
+        "lng": 112.19652
+      },
+      {
+        "name": "Malang",
+        "country": "Indonesia",
+        "lat": -7.976468,
+        "lng": 112.62813
+      },
+      {
+        "name": "Surabaya",
+        "country": "Indonesia",
+        "lat": -7.262669,
+        "lng": 112.740746
+      },
+      {
+        "name": "Lombok",
+        "country": "Indonesia",
+        "lat": -8.565,
+        "lng": 116.351
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3204,7 +6866,179 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bandung",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tangkuban Perahu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Solo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jombang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bromo-Tengger National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kalibaru",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kawah Ijen",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Baluran National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gilimanuk",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Menjangan National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Bratan",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Bandung",
+        "country": "Indonesia",
+        "lat": -6.913611,
+        "lng": 107.61036
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia",
+        "lat": -7.795832,
+        "lng": 110.49378
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia",
+        "lat": -7.601826,
+        "lng": 110.201546
+      },
+      {
+        "name": "Solo",
+        "country": "Indonesia",
+        "lat": -0.79036,
+        "lng": 100.65531
+      },
+      {
+        "name": "Jombang",
+        "country": "Indonesia",
+        "lat": -7.553634,
+        "lng": 112.23549
+      },
+      {
+        "name": "Bromo-Tengger National Park",
+        "country": "Indonesia",
+        "lat": -7.76889,
+        "lng": 112.19652
+      },
+      {
+        "name": "Kalibaru",
+        "country": "Indonesia",
+        "lat": -8.289056,
+        "lng": 113.986145
+      },
+      {
+        "name": "Kawah Ijen",
+        "country": "Indonesia",
+        "lat": -7.997434,
+        "lng": 114.15227
+      },
+      {
+        "name": "Baluran National Park",
+        "country": "Indonesia",
+        "lat": -7.76889,
+        "lng": 112.19652
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Menjangan National Park",
+        "country": "Indonesia",
+        "lat": -7.76889,
+        "lng": 112.19652
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Lake Bratan",
+        "country": "Indonesia",
+        "lat": 1.641162,
+        "lng": 118.08117
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3290,7 +7124,145 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Solo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Malang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bromo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Probolinggo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kalibaru",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Alas Purwo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ketapang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pemuteran",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Borobudur",
+        "country": "Indonesia",
+        "lat": -7.601826,
+        "lng": 110.201546
+      },
+      {
+        "name": "Prambanan",
+        "country": "Indonesia",
+        "lat": -7.795832,
+        "lng": 110.49378
+      },
+      {
+        "name": "Solo",
+        "country": "Indonesia",
+        "lat": -0.79036,
+        "lng": 100.65531
+      },
+      {
+        "name": "Malang",
+        "country": "Indonesia",
+        "lat": -7.976468,
+        "lng": 112.62813
+      },
+      {
+        "name": "Bromo National Park",
+        "country": "Indonesia",
+        "lat": -7.76889,
+        "lng": 112.19652
+      },
+      {
+        "name": "Probolinggo",
+        "country": "Indonesia",
+        "lat": -7.749571,
+        "lng": 113.21386
+      },
+      {
+        "name": "Kalibaru",
+        "country": "Indonesia",
+        "lat": -8.289056,
+        "lng": 113.986145
+      },
+      {
+        "name": "Alas Purwo National Park",
+        "country": "Indonesia",
+        "lat": -8.517454,
+        "lng": 116.99498
+      },
+      {
+        "name": "Ketapang",
+        "country": "Indonesia",
+        "lat": -1.846346,
+        "lng": 109.973785
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia",
+        "lat": -8.669399,
+        "lng": 115.21312
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3331,7 +7303,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ujong Kulon National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Carita",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Handeleum Island",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Ujong Kulon National Park",
+        "country": "Indonesia",
+        "lat": -4.012791,
+        "lng": 119.62626
+      },
+      {
+        "name": "Carita",
+        "country": "Indonesia",
+        "lat": -6.313123,
+        "lng": 105.84569
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3372,7 +7392,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ujong Kulon National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Carita",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Handeleum Island",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Ujong Kulon National Park",
+        "country": "Indonesia",
+        "lat": -4.012791,
+        "lng": 119.62626
+      },
+      {
+        "name": "Carita",
+        "country": "Indonesia",
+        "lat": -6.313123,
+        "lng": 105.84569
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3488,7 +7556,95 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rinca Village",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sebayor Kecil",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Cunca Wulang Waterfalls",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Amed",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Rinca Village",
+        "country": "Indonesia",
+        "lat": -8.696667,
+        "lng": 119.691942
+      },
+      {
+        "name": "Sebayor Kecil",
+        "country": "Indonesia",
+        "lat": -7.518427,
+        "lng": 110.00342
+      },
+      {
+        "name": "Amed",
+        "country": "Indonesia",
+        "lat": -3.123087,
+        "lng": 102.206375
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia",
+        "lat": -8.669399,
+        "lng": 115.21312
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3589,7 +7745,125 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Flores Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rinca",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ruteng",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bajawa",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Moni",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kelimutu crater lakes",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur beach",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia",
+        "lat": -8.669399,
+        "lng": 115.21312
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      },
+      {
+        "name": "Flores Island",
+        "country": "Indonesia",
+        "lat": -8.674722,
+        "lng": 121.384444
+      },
+      {
+        "name": "Komodo",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Rinca",
+        "country": "Indonesia",
+        "lat": -8.696667,
+        "lng": 119.691942
+      },
+      {
+        "name": "Ruteng",
+        "country": "Indonesia",
+        "lat": -8.591754,
+        "lng": 120.37607
+      },
+      {
+        "name": "Bajawa",
+        "country": "Indonesia",
+        "lat": -8.787306,
+        "lng": 120.973305
+      },
+      {
+        "name": "Moni",
+        "country": "Indonesia",
+        "lat": 0.433051,
+        "lng": 127.40147
+      },
+      {
+        "name": "Kelimutu crater lakes",
+        "country": "Indonesia",
+        "lat": -8.713571,
+        "lng": 121.83079
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3640,7 +7914,75 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Moyo Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rinca Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Melo Village",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Rinca Island",
+        "country": "Indonesia",
+        "lat": -8.696667,
+        "lng": 119.691942
+      },
+      {
+        "name": "Melo Village",
+        "country": "Indonesia",
+        "lat": -7.501368,
+        "lng": 110.46005
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3686,7 +8028,77 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Labuhan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rinca Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kalong Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pantai Merah",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Laba",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kanawa Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sebayur Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bidadari Island",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Labuhan Bajo",
+        "country": "Indonesia",
+        "lat": -3.369565,
+        "lng": 120.3005
+      },
+      {
+        "name": "Rinca Island",
+        "country": "Indonesia",
+        "lat": -8.696667,
+        "lng": 119.691942
+      },
+      {
+        "name": "Kalong Island",
+        "country": "Indonesia",
+        "lat": -7.957632,
+        "lng": 111.437225
+      },
+      {
+        "name": "Pantai Merah",
+        "country": "Indonesia",
+        "lat": 0.362702,
+        "lng": 100.058304
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3757,7 +8169,109 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mawan Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Lawaut",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Wae Rebo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ruteng",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Liang Galang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Liang Bua",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      },
+      {
+        "name": "Komodo National Park",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Komodo Island",
+        "country": "Indonesia",
+        "lat": -8.537565,
+        "lng": 119.572105
+      },
+      {
+        "name": "Wae Rebo",
+        "country": "Indonesia",
+        "lat": -1.481108,
+        "lng": 102.44196
+      },
+      {
+        "name": "Ruteng",
+        "country": "Indonesia",
+        "lat": -8.591754,
+        "lng": 120.37607
+      },
+      {
+        "name": "Liang Galang",
+        "country": "Indonesia",
+        "lat": 3.427867,
+        "lng": 98.902245
+      },
+      {
+        "name": "Liang Bua",
+        "country": "Indonesia",
+        "lat": -3.070684,
+        "lng": 120.23031
+      },
+      {
+        "name": "Labuan Bajo",
+        "country": "Indonesia",
+        "lat": -6.379411,
+        "lng": 105.82744
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3823,7 +8337,53 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tetebatu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Senaru",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Islands",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Senggigi",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Senaru",
+        "country": "Indonesia",
+        "lat": -8.12909,
+        "lng": 131.11372
+      },
+      {
+        "name": "Gili Islands",
+        "country": "Indonesia",
+        "lat": -8.35,
+        "lng": 116.06
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3879,7 +8439,85 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Manado",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Siladen Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bunaken National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Manado City",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sorong",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Fam Islands",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Manado",
+        "country": "Indonesia",
+        "lat": 1.488366,
+        "lng": 124.840744
+      },
+      {
+        "name": "Siladen Island",
+        "country": "Indonesia",
+        "lat": 2.396803,
+        "lng": 99.21952
+      },
+      {
+        "name": "Bunaken National Park",
+        "country": "Indonesia",
+        "lat": 1.528121,
+        "lng": 124.846504
+      },
+      {
+        "name": "Manado City",
+        "country": "Indonesia",
+        "lat": 1.488366,
+        "lng": 124.840744
+      },
+      {
+        "name": "Sorong",
+        "country": "Indonesia",
+        "lat": -0.863667,
+        "lng": 131.25421
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -3935,7 +8573,49 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pulau Rote",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ndao Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Do'o",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kupang",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Pulau Rote",
+        "country": "Indonesia",
+        "lat": -10.743611,
+        "lng": 123.118331
+      },
+      {
+        "name": "Kupang",
+        "country": "Indonesia",
+        "lat": -10.163787,
+        "lng": 123.602844
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4026,7 +8706,151 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Darwin",
+        "country": "Australia"
+      },
+      {
+        "name": "Timor Sea",
+        "country": null
+      },
+      {
+        "name": "Yamdena Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Saumlaki",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Banda Neira",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Molana Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Saparua Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sawai",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Misool",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kofiau Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Wayag Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Amsterdam Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Roon Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Auri Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Cenderawasih Bay",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kwatisore Village",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Num Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Manokwari",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sorong",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Darwin",
+        "country": "Australia",
+        "lat": -12.464953,
+        "lng": 130.8417
+      },
+      {
+        "name": "Banda Neira",
+        "country": "Indonesia",
+        "lat": -4.512219,
+        "lng": 129.903
+      },
+      {
+        "name": "Saparua Island",
+        "country": "Indonesia",
+        "lat": -3.571752,
+        "lng": 128.65591
+      },
+      {
+        "name": "Sawai",
+        "country": "Indonesia",
+        "lat": -1.862486,
+        "lng": 137.08942
+      },
+      {
+        "name": "Misool",
+        "country": "Indonesia",
+        "lat": -1.828296,
+        "lng": 129.82858
+      },
+      {
+        "name": "Kofiau Island",
+        "country": "Indonesia",
+        "lat": -1.15376,
+        "lng": 129.84543
+      },
+      {
+        "name": "Roon Island",
+        "country": "Indonesia",
+        "lat": -2.034042,
+        "lng": 134.73648
+      },
+      {
+        "name": "Manokwari",
+        "country": "Indonesia",
+        "lat": -0.86147,
+        "lng": 134.06201
+      },
+      {
+        "name": "Sorong",
+        "country": "Indonesia",
+        "lat": -0.863667,
+        "lng": 131.25421
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4092,7 +8916,75 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sorong",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Misool",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sanur",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Wakatobi",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Sorong",
+        "country": "Indonesia",
+        "lat": -0.863667,
+        "lng": 131.25421
+      },
+      {
+        "name": "Misool",
+        "country": "Indonesia",
+        "lat": -1.828296,
+        "lng": 129.82858
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Wakatobi",
+        "country": "Indonesia",
+        "lat": -5.329402,
+        "lng": 123.53791
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4158,7 +9050,55 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Singapore",
+        "country": "Singapore"
+      },
+      {
+        "name": "Lombok",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Rinjani",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gili Islands",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Singapore",
+        "country": "Singapore",
+        "lat": 1.288799,
+        "lng": 103.84094
+      },
+      {
+        "name": "Lombok",
+        "country": "Indonesia",
+        "lat": -8.565,
+        "lng": 116.351
+      },
+      {
+        "name": "Gili Islands",
+        "country": "Indonesia",
+        "lat": -8.35,
+        "lng": 116.06
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4214,7 +9154,69 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kaimana",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Triton Bay",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sorong",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Raja Ampat",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Fam Islands",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Kaimana",
+        "country": "Indonesia",
+        "lat": -3.641309,
+        "lng": 133.74023
+      },
+      {
+        "name": "Sorong",
+        "country": "Indonesia",
+        "lat": -0.863667,
+        "lng": 131.25421
+      },
+      {
+        "name": "Raja Ampat",
+        "country": "Indonesia",
+        "lat": -0.424922,
+        "lng": 130.82092
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4280,7 +9282,51 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sorong",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Misool",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Sorong",
+        "country": "Indonesia",
+        "lat": -0.863667,
+        "lng": 131.25421
+      },
+      {
+        "name": "Misool",
+        "country": "Indonesia",
+        "lat": -1.828296,
+        "lng": 129.82858
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4371,7 +9417,105 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Makassar",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Maros Pangkep Karst region",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sengkang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Tempe",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tana Toraja",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Rantepao",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tangkoko National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bunaken Marine Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Manado",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Makassar",
+        "country": "Indonesia",
+        "lat": -5.146212,
+        "lng": 119.42148
+      },
+      {
+        "name": "Maros Pangkep Karst region",
+        "country": "Indonesia",
+        "lat": -5.015006,
+        "lng": 119.575905
+      },
+      {
+        "name": "Lake Tempe",
+        "country": "Indonesia",
+        "lat": -4.118547,
+        "lng": 120.01521
+      },
+      {
+        "name": "Tana Toraja",
+        "country": "Indonesia",
+        "lat": -3.104078,
+        "lng": 119.85298
+      },
+      {
+        "name": "Rantepao",
+        "country": "Indonesia",
+        "lat": -2.970448,
+        "lng": 119.89862
+      },
+      {
+        "name": "Tangkoko National Park",
+        "country": "Indonesia",
+        "lat": -7.76889,
+        "lng": 112.19652
+      },
+      {
+        "name": "Bunaken Marine Park",
+        "country": "Indonesia",
+        "lat": 1.528121,
+        "lng": 124.846504
+      },
+      {
+        "name": "Manado",
+        "country": "Indonesia",
+        "lat": 1.488366,
+        "lng": 124.840744
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4432,7 +9576,123 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Manado",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tangkoko Forest Reserve",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gorontalo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Wonosari",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Nantu Forest",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Dumoga Bone National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Makassar",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Karaenta Forest",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bantimurung-Bulusaraung National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Palu",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lore Lindu National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Manado",
+        "country": "Indonesia",
+        "lat": 1.488366,
+        "lng": 124.840744
+      },
+      {
+        "name": "Gorontalo",
+        "country": "Indonesia",
+        "lat": 0.533591,
+        "lng": 123.06793
+      },
+      {
+        "name": "Wonosari",
+        "country": "Indonesia",
+        "lat": -7.96596,
+        "lng": 110.60077
+      },
+      {
+        "name": "Dumoga Bone National Park",
+        "country": "Indonesia",
+        "lat": -4.782814,
+        "lng": 120.042786
+      },
+      {
+        "name": "Makassar",
+        "country": "Indonesia",
+        "lat": -5.146212,
+        "lng": 119.42148
+      },
+      {
+        "name": "Bantimurung-Bulusaraung National Park",
+        "country": "Indonesia",
+        "lat": -5.015601,
+        "lng": 119.65493
+      },
+      {
+        "name": "Palu",
+        "country": "Indonesia",
+        "lat": -0.892638,
+        "lng": 119.872734
+      },
+      {
+        "name": "Lore Lindu National Park",
+        "country": "Indonesia",
+        "lat": -1.329472,
+        "lng": 120.05031
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4518,7 +9778,133 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Padang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sangkar",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bukittinggi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ngarai Sianok",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sihepeng Botanical Garden",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sijornih Waterfall",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Toba",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Samosir Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tomok",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Brastagi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Orangutan Rehabilitation Centre",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Banda Aceh",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pulau Weh",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Padang",
+        "country": "Indonesia",
+        "lat": -0.925777,
+        "lng": 100.3629
+      },
+      {
+        "name": "Sangkar",
+        "country": "Indonesia",
+        "lat": -7.718851,
+        "lng": 114.20847
+      },
+      {
+        "name": "Bukittinggi",
+        "country": "Indonesia",
+        "lat": -0.306385,
+        "lng": 100.37044
+      },
+      {
+        "name": "Ngarai Sianok",
+        "country": "Indonesia",
+        "lat": -5.482736,
+        "lng": 104.230156
+      },
+      {
+        "name": "Lake Toba",
+        "country": "Indonesia",
+        "lat": 2.334392,
+        "lng": 99.066246
+      },
+      {
+        "name": "Samosir Island",
+        "country": "Indonesia",
+        "lat": 2.607455,
+        "lng": 98.70069
+      },
+      {
+        "name": "Tomok",
+        "country": "Indonesia",
+        "lat": -6.77154,
+        "lng": 108.12857
+      },
+      {
+        "name": "Brastagi",
+        "country": "Indonesia",
+        "lat": 3.194521,
+        "lng": 98.50894
+      },
+      {
+        "name": "Banda Aceh",
+        "country": "Indonesia",
+        "lat": 5.55102,
+        "lng": 95.31782
+      },
+      {
+        "name": "Pulau Weh",
+        "country": "Indonesia",
+        "lat": 5.834853,
+        "lng": 95.313267
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4584,7 +9970,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Batu Ronring",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bukit Lawang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Leuser Ecosystem",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia",
+        "lat": 3.584651,
+        "lng": 98.680595
+      },
+      {
+        "name": "Batu Ronring",
+        "country": "Indonesia",
+        "lat": -7.873082,
+        "lng": 112.52883
+      },
+      {
+        "name": "Bukit Lawang",
+        "country": "Indonesia",
+        "lat": -7.831579,
+        "lng": 112.69564
+      },
+      {
+        "name": "Leuser Ecosystem",
+        "country": "Indonesia",
+        "lat": 3.153931,
+        "lng": 97.95167
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4660,7 +10100,89 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bukit Lawang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gunung Leuser National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Berastagi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Sibayak Volcano",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Toba",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Samosir Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Dokan Village",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia",
+        "lat": 3.584651,
+        "lng": 98.680595
+      },
+      {
+        "name": "Bukit Lawang",
+        "country": "Indonesia",
+        "lat": -7.831579,
+        "lng": 112.69564
+      },
+      {
+        "name": "Gunung Leuser National Park",
+        "country": "Indonesia",
+        "lat": 3.153931,
+        "lng": 97.95167
+      },
+      {
+        "name": "Berastagi",
+        "country": "Indonesia",
+        "lat": 3.194521,
+        "lng": 98.50894
+      },
+      {
+        "name": "Lake Toba",
+        "country": "Indonesia",
+        "lat": 2.334392,
+        "lng": 99.066246
+      },
+      {
+        "name": "Samosir Island",
+        "country": "Indonesia",
+        "lat": 2.607455,
+        "lng": 98.70069
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4776,7 +10298,179 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bukit Lawang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Berastagi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Toba",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Samosir Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Solo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Malang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bromo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bromo Volcano",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Probolinggo",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Kalibaru",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Alas Purwo National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ketapang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Pemuteran",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia",
+        "lat": 3.584651,
+        "lng": 98.680595
+      },
+      {
+        "name": "Bukit Lawang",
+        "country": "Indonesia",
+        "lat": -7.831579,
+        "lng": 112.69564
+      },
+      {
+        "name": "Berastagi",
+        "country": "Indonesia",
+        "lat": 3.194521,
+        "lng": 98.50894
+      },
+      {
+        "name": "Lake Toba",
+        "country": "Indonesia",
+        "lat": 2.334392,
+        "lng": 99.066246
+      },
+      {
+        "name": "Samosir Island",
+        "country": "Indonesia",
+        "lat": 2.607455,
+        "lng": 98.70069
+      },
+      {
+        "name": "Yogyakarta",
+        "country": "Indonesia",
+        "lat": -7.796369,
+        "lng": 110.36541
+      },
+      {
+        "name": "Solo",
+        "country": "Indonesia",
+        "lat": -0.79036,
+        "lng": 100.65531
+      },
+      {
+        "name": "Malang",
+        "country": "Indonesia",
+        "lat": -7.976468,
+        "lng": 112.62813
+      },
+      {
+        "name": "Bromo National Park",
+        "country": "Indonesia",
+        "lat": -7.76889,
+        "lng": 112.19652
+      },
+      {
+        "name": "Probolinggo",
+        "country": "Indonesia",
+        "lat": -7.749571,
+        "lng": 113.21386
+      },
+      {
+        "name": "Kalibaru",
+        "country": "Indonesia",
+        "lat": -8.289056,
+        "lng": 113.986145
+      },
+      {
+        "name": "Alas Purwo National Park",
+        "country": "Indonesia",
+        "lat": -8.517454,
+        "lng": 116.99498
+      },
+      {
+        "name": "Ketapang",
+        "country": "Indonesia",
+        "lat": -1.846346,
+        "lng": 109.973785
+      },
+      {
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      },
+      {
+        "name": "Denpasar",
+        "country": "Indonesia",
+        "lat": -8.669399,
+        "lng": 115.21312
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4837,7 +10531,85 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bukit Lawang",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gunung Leuser National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Berastagi",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Toba",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Samosir Island",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Tuk-Tuk Village",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia",
+        "lat": 3.584651,
+        "lng": 98.680595
+      },
+      {
+        "name": "Bukit Lawang",
+        "country": "Indonesia",
+        "lat": -7.831579,
+        "lng": 112.69564
+      },
+      {
+        "name": "Gunung Leuser National Park",
+        "country": "Indonesia",
+        "lat": 3.153931,
+        "lng": 97.95167
+      },
+      {
+        "name": "Berastagi",
+        "country": "Indonesia",
+        "lat": 3.194521,
+        "lng": 98.50894
+      },
+      {
+        "name": "Lake Toba",
+        "country": "Indonesia",
+        "lat": 2.334392,
+        "lng": 99.066246
+      },
+      {
+        "name": "Samosir Island",
+        "country": "Indonesia",
+        "lat": 2.607455,
+        "lng": 98.70069
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4888,7 +10660,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Gunung Leuser National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bandar Lampung",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Way Kambas National Park",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Gunung Leuser National Park",
+        "country": "Indonesia",
+        "lat": 3.153931,
+        "lng": 97.95167
+      },
+      {
+        "name": "Medan",
+        "country": "Indonesia",
+        "lat": 3.584651,
+        "lng": 98.680595
+      },
+      {
+        "name": "Bandar Lampung",
+        "country": "Indonesia",
+        "lat": -5.446273,
+        "lng": 105.26493
+      },
+      {
+        "name": "Way Kambas National Park",
+        "country": "Indonesia",
+        "lat": 1.361727,
+        "lng": 109.3084
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -4964,7 +10800,99 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Mount Batukaru",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bukit Sari Temple",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Monkey Forest",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Ulun Danu Temple",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Bratan",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Munduk",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Bali Barat National Park",
+        "country": "Indonesia"
+      },
+      {
+        "name": "GitGit Waterfalls",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ubud",
+        "country": "Indonesia",
+        "lat": -8.506872,
+        "lng": 115.262474
+      },
+      {
+        "name": "Mount Batukaru",
+        "country": "Indonesia",
+        "lat": -4.806752,
+        "lng": 122.85665
+      },
+      {
+        "name": "Bukit Sari Temple",
+        "country": "Indonesia",
+        "lat": 4.719438,
+        "lng": 96.872055
+      },
+      {
+        "name": "Ulun Danu Temple",
+        "country": "Indonesia",
+        "lat": -4.118547,
+        "lng": 120.01521
+      },
+      {
+        "name": "Lake Bratan",
+        "country": "Indonesia",
+        "lat": 1.641162,
+        "lng": 118.08117
+      },
+      {
+        "name": "Munduk",
+        "country": "Indonesia",
+        "lat": -6.756394,
+        "lng": 108.59349
+      },
+      {
+        "name": "Bali Barat National Park",
+        "country": "Indonesia",
+        "lat": -8.652497,
+        "lng": 115.219118
+      }
+    ]
   },
   {
     "destination": "Indonesia",
@@ -5040,6 +10968,74 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Biak",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Jayapura",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Lake Sentani",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Wamena",
+        "country": "Indonesia"
+      },
+      {
+        "name": "Baliem Valley",
+        "country": "Indonesia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "lat": -6.175394,
+        "lng": 106.827183
+      },
+      {
+        "name": "Biak",
+        "country": "Indonesia",
+        "lat": -0.945033,
+        "lng": 135.936142
+      },
+      {
+        "name": "Jayapura",
+        "country": "Indonesia",
+        "lat": -2.540311,
+        "lng": 140.70496
+      },
+      {
+        "name": "Lake Sentani",
+        "country": "Indonesia",
+        "lat": -2.564799,
+        "lng": 140.50562
+      },
+      {
+        "name": "Wamena",
+        "country": "Indonesia",
+        "lat": -4.095139,
+        "lng": 138.94766
+      }
+    ]
   }
 ]

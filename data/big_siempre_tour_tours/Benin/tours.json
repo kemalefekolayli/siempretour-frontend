@@ -93,7 +93,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Tafi Atome",
+        "country": "Ghana"
+      },
+      {
+        "name": "Ho",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin",
+        "lat": 6.373391,
+        "lng": 2.4401
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Tafi Atome",
+        "country": "Ghana",
+        "lat": 6.907586,
+        "lng": 0.377816
+      },
+      {
+        "name": "Ho",
+        "country": "Ghana",
+        "lat": 6.608083,
+        "lng": 0.46726
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -244,7 +368,201 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Wli Waterfalls",
+        "country": "Ghana"
+      },
+      {
+        "name": "Mount Afajato",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Ankasa Reserve",
+        "country": "Ghana"
+      },
+      {
+        "name": "Brenu Akyinim",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin"
+      },
+      {
+        "name": "Porto-Novo",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin"
+      },
+      {
+        "name": "Natitingou",
+        "country": "Benin"
+      },
+      {
+        "name": "Behicon",
+        "country": "Benin"
+      },
+      {
+        "name": "Kpalime",
+        "country": "Togo"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Wli Waterfalls",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Mount Afajato",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Ankasa Reserve",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Brenu Akyinim",
+        "country": "Ghana",
+        "lat": 5.067447,
+        "lng": -1.42729
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin",
+        "lat": 6.373391,
+        "lng": 2.4401
+      },
+      {
+        "name": "Porto-Novo",
+        "country": "Benin",
+        "lat": 6.487424,
+        "lng": 2.621176
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin",
+        "lat": 7.182001,
+        "lng": 1.993632
+      },
+      {
+        "name": "Natitingou",
+        "country": "Benin",
+        "lat": 10.305151,
+        "lng": 1.380855
+      },
+      {
+        "name": "Behicon",
+        "country": "Benin",
+        "lat": 7.181633,
+        "lng": 2.069568
+      },
+      {
+        "name": "Kpalime",
+        "country": "Togo",
+        "lat": 6.910657,
+        "lng": 0.632398
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -340,7 +658,181 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Lomé",
+        "country": "Togo"
+      },
+      {
+        "name": "Aneho",
+        "country": "Togo"
+      },
+      {
+        "name": "Togoville",
+        "country": "Togo"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin"
+      },
+      {
+        "name": "Porto-Novo",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin"
+      },
+      {
+        "name": "Wli",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Fort Amsterdam",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Lomé",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Aneho",
+        "country": "Togo",
+        "lat": 6.228877,
+        "lng": 1.593807
+      },
+      {
+        "name": "Togoville",
+        "country": "Togo",
+        "lat": 6.234521,
+        "lng": 1.479926
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin",
+        "lat": 6.373391,
+        "lng": 2.4401
+      },
+      {
+        "name": "Porto-Novo",
+        "country": "Benin",
+        "lat": 6.487424,
+        "lng": 2.621176
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin",
+        "lat": 7.182001,
+        "lng": 1.993632
+      },
+      {
+        "name": "Wli",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Fort Amsterdam",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -441,7 +933,165 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lomé",
+        "country": "Togo"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvié",
+        "country": "Benin"
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin"
+      },
+      {
+        "name": "Kara",
+        "country": "Togo"
+      },
+      {
+        "name": "Tamberma Valley",
+        "country": "Togo"
+      },
+      {
+        "name": "Sokodé",
+        "country": "Togo"
+      },
+      {
+        "name": "Atakpamé",
+        "country": "Togo"
+      },
+      {
+        "name": "Kpalimé",
+        "country": "Togo"
+      },
+      {
+        "name": "Koforidua",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Obuasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina Castle",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lomé",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Ganvié",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin",
+        "lat": 7.182001,
+        "lng": 1.993632
+      },
+      {
+        "name": "Kara",
+        "country": "Togo",
+        "lat": 9.548875,
+        "lng": 1.197745
+      },
+      {
+        "name": "Sokodé",
+        "country": "Togo",
+        "lat": 8.98332,
+        "lng": 1.143815
+      },
+      {
+        "name": "Atakpamé",
+        "country": "Togo",
+        "lat": 7.53206,
+        "lng": 1.121948
+      },
+      {
+        "name": "Kpalimé",
+        "country": "Togo",
+        "lat": 6.910657,
+        "lng": 0.632398
+      },
+      {
+        "name": "Koforidua",
+        "country": "Ghana",
+        "lat": 6.103858,
+        "lng": -0.265503
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Obuasi",
+        "country": "Ghana",
+        "lat": 6.211542,
+        "lng": -1.689404
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Elmina Castle",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -537,7 +1187,189 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Lac Togo",
+        "country": "Togo"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin"
+      },
+      {
+        "name": "Savalou",
+        "country": "Benin"
+      },
+      {
+        "name": "Tamberma villages",
+        "country": "Togo"
+      },
+      {
+        "name": "Kara",
+        "country": "Togo"
+      },
+      {
+        "name": "Defale",
+        "country": "Togo"
+      },
+      {
+        "name": "Sokode",
+        "country": "Togo"
+      },
+      {
+        "name": "Kloto",
+        "country": "Togo"
+      },
+      {
+        "name": "Krobo",
+        "country": "Ghana"
+      },
+      {
+        "name": "Koforidua",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum Forest",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Lac Togo",
+        "country": "Togo",
+        "lat": 6.213934,
+        "lng": 1.423069
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin",
+        "lat": 7.182001,
+        "lng": 1.993632
+      },
+      {
+        "name": "Savalou",
+        "country": "Benin",
+        "lat": 7.929732,
+        "lng": 1.978095
+      },
+      {
+        "name": "Kara",
+        "country": "Togo",
+        "lat": 9.548875,
+        "lng": 1.197745
+      },
+      {
+        "name": "Sokode",
+        "country": "Togo",
+        "lat": 8.98332,
+        "lng": 1.143815
+      },
+      {
+        "name": "Kloto",
+        "country": "Togo",
+        "lat": 6.947935,
+        "lng": 0.579546
+      },
+      {
+        "name": "Krobo",
+        "country": "Ghana",
+        "lat": 6.129948,
+        "lng": 0.001242
+      },
+      {
+        "name": "Koforidua",
+        "country": "Ghana",
+        "lat": 6.103858,
+        "lng": -0.265503
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kakum Forest",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -643,7 +1475,195 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin"
+      },
+      {
+        "name": "Adjarra",
+        "country": "Benin"
+      },
+      {
+        "name": "Porto-Novo",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin"
+      },
+      {
+        "name": "Dassa",
+        "country": "Benin"
+      },
+      {
+        "name": "Natitingou",
+        "country": "Benin"
+      },
+      {
+        "name": "Koutammakou",
+        "country": "Togo"
+      },
+      {
+        "name": "Kara",
+        "country": "Togo"
+      },
+      {
+        "name": "Kpalime",
+        "country": "Togo"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Akosombo",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin",
+        "lat": 6.373391,
+        "lng": 2.4401
+      },
+      {
+        "name": "Adjarra",
+        "country": "Benin",
+        "lat": 6.528247,
+        "lng": 2.662946
+      },
+      {
+        "name": "Porto-Novo",
+        "country": "Benin",
+        "lat": 6.487424,
+        "lng": 2.621176
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin",
+        "lat": 7.182001,
+        "lng": 1.993632
+      },
+      {
+        "name": "Natitingou",
+        "country": "Benin",
+        "lat": 10.305151,
+        "lng": 1.380855
+      },
+      {
+        "name": "Koutammakou",
+        "country": "Togo",
+        "lat": 6.213934,
+        "lng": 1.423069
+      },
+      {
+        "name": "Kara",
+        "country": "Togo",
+        "lat": 9.548875,
+        "lng": 1.197745
+      },
+      {
+        "name": "Kpalime",
+        "country": "Togo",
+        "lat": 6.910657,
+        "lng": 0.632398
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Akosombo",
+        "country": "Ghana",
+        "lat": 6.269799,
+        "lng": 0.050899
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -739,7 +1759,165 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin"
+      },
+      {
+        "name": "Savalou",
+        "country": "Benin"
+      },
+      {
+        "name": "Naititingou",
+        "country": "Benin"
+      },
+      {
+        "name": "Tamberma Villages",
+        "country": "Togo"
+      },
+      {
+        "name": "Sokode",
+        "country": "Togo"
+      },
+      {
+        "name": "Kloto",
+        "country": "Togo"
+      },
+      {
+        "name": "Tafi Atome",
+        "country": "Ghana"
+      },
+      {
+        "name": "Akosombo",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Anomabu",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin",
+        "lat": 7.182001,
+        "lng": 1.993632
+      },
+      {
+        "name": "Savalou",
+        "country": "Benin",
+        "lat": 7.929732,
+        "lng": 1.978095
+      },
+      {
+        "name": "Naititingou",
+        "country": "Benin",
+        "lat": 10.305151,
+        "lng": 1.380855
+      },
+      {
+        "name": "Sokode",
+        "country": "Togo",
+        "lat": 8.98332,
+        "lng": 1.143815
+      },
+      {
+        "name": "Kloto",
+        "country": "Togo",
+        "lat": 6.947935,
+        "lng": 0.579546
+      },
+      {
+        "name": "Tafi Atome",
+        "country": "Ghana",
+        "lat": 6.907586,
+        "lng": 0.377816
+      },
+      {
+        "name": "Akosombo",
+        "country": "Ghana",
+        "lat": 6.269799,
+        "lng": 0.050899
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Anomabu",
+        "country": "Ghana",
+        "lat": 5.178346,
+        "lng": -1.121541
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -820,7 +1998,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin"
+      },
+      {
+        "name": "Porto-Novo",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin"
+      },
+      {
+        "name": "Natitingou",
+        "country": "Benin"
+      },
+      {
+        "name": "Parakou",
+        "country": "Benin"
+      },
+      {
+        "name": "Behicon",
+        "country": "Benin"
+      },
+      {
+        "name": "Kpalime",
+        "country": "Togo"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin",
+        "lat": 6.373391,
+        "lng": 2.4401
+      },
+      {
+        "name": "Porto-Novo",
+        "country": "Benin",
+        "lat": 6.487424,
+        "lng": 2.621176
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin",
+        "lat": 7.182001,
+        "lng": 1.993632
+      },
+      {
+        "name": "Natitingou",
+        "country": "Benin",
+        "lat": 10.305151,
+        "lng": 1.380855
+      },
+      {
+        "name": "Parakou",
+        "country": "Benin",
+        "lat": 9.340016,
+        "lng": 2.627826
+      },
+      {
+        "name": "Behicon",
+        "country": "Benin",
+        "lat": 7.181633,
+        "lng": 2.069568
+      },
+      {
+        "name": "Kpalime",
+        "country": "Togo",
+        "lat": 6.910657,
+        "lng": 0.632398
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -916,7 +2208,125 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lomé",
+        "country": "Togo"
+      },
+      {
+        "name": "Kpalime",
+        "country": "Togo"
+      },
+      {
+        "name": "Sokode",
+        "country": "Togo"
+      },
+      {
+        "name": "Kara",
+        "country": "Togo"
+      },
+      {
+        "name": "Dassa",
+        "country": "Benin"
+      },
+      {
+        "name": "Ketou",
+        "country": "Benin"
+      },
+      {
+        "name": "Porto Novo",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Agbodrafo",
+        "country": "Togo"
+      },
+      {
+        "name": "Lomé",
+        "country": "Togo"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lomé",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Kpalime",
+        "country": "Togo",
+        "lat": 6.910657,
+        "lng": 0.632398
+      },
+      {
+        "name": "Sokode",
+        "country": "Togo",
+        "lat": 8.98332,
+        "lng": 1.143815
+      },
+      {
+        "name": "Kara",
+        "country": "Togo",
+        "lat": 9.548875,
+        "lng": 1.197745
+      },
+      {
+        "name": "Ketou",
+        "country": "Benin",
+        "lat": 7.360419,
+        "lng": 2.602422
+      },
+      {
+        "name": "Porto Novo",
+        "country": "Benin",
+        "lat": 6.487424,
+        "lng": 2.621176
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Agbodrafo",
+        "country": "Togo",
+        "lat": 6.20839,
+        "lng": 1.477411
+      },
+      {
+        "name": "Lomé",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -1012,7 +2422,141 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin"
+      },
+      {
+        "name": "Porto Novo",
+        "country": "Benin"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Davedi",
+        "country": "Togo"
+      },
+      {
+        "name": "Atakpame",
+        "country": "Togo"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin",
+        "lat": 6.373391,
+        "lng": 2.4401
+      },
+      {
+        "name": "Porto Novo",
+        "country": "Benin",
+        "lat": 6.487424,
+        "lng": 2.621176
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin",
+        "lat": 7.182001,
+        "lng": 1.993632
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Davedi",
+        "country": "Togo",
+        "lat": 6.43546,
+        "lng": 1.270235
+      },
+      {
+        "name": "Atakpame",
+        "country": "Togo",
+        "lat": 7.53206,
+        "lng": 1.121948
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -1308,7 +2852,439 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco"
+      },
+      {
+        "name": "High Atlas",
+        "country": "Morocco"
+      },
+      {
+        "name": "Ouarzazate",
+        "country": "Morocco"
+      },
+      {
+        "name": "Mhamid",
+        "country": "Morocco"
+      },
+      {
+        "name": "Foum Zguid",
+        "country": "Morocco"
+      },
+      {
+        "name": "Assa",
+        "country": "Morocco"
+      },
+      {
+        "name": "Guelmim",
+        "country": "Morocco"
+      },
+      {
+        "name": "Dra estuary",
+        "country": "Morocco"
+      },
+      {
+        "name": "Naila salt lagoon",
+        "country": "Morocco"
+      },
+      {
+        "name": "Dakhla Peninsula",
+        "country": "Morocco"
+      },
+      {
+        "name": "Nouadhibou",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Chinguetti",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Ouadane",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Terjit oasis",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Gorée Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal"
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia"
+      },
+      {
+        "name": "Ziguinchor",
+        "country": "Senegal"
+      },
+      {
+        "name": "Bijagos Archipelago",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Bubaque Island",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Gabu",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Fouta Djalon",
+        "country": "Guinea"
+      },
+      {
+        "name": "Labe",
+        "country": "Guinea"
+      },
+      {
+        "name": "Dalaba",
+        "country": "Guinea"
+      },
+      {
+        "name": "Kindia",
+        "country": "Guinea"
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Banana Island",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia"
+      },
+      {
+        "name": "Ganta",
+        "country": "Liberia"
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Daloa",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Axim",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Grand Popo",
+        "country": "Benin"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvié",
+        "country": "Benin"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco",
+        "lat": 31.626928,
+        "lng": -7.988117
+      },
+      {
+        "name": "Ouarzazate",
+        "country": "Morocco",
+        "lat": 30.921404,
+        "lng": -6.914479
+      },
+      {
+        "name": "Mhamid",
+        "country": "Morocco",
+        "lat": 29.808015,
+        "lng": -5.737016
+      },
+      {
+        "name": "Foum Zguid",
+        "country": "Morocco",
+        "lat": 30.085873,
+        "lng": -6.873537
+      },
+      {
+        "name": "Assa",
+        "country": "Morocco",
+        "lat": 28.612022,
+        "lng": -9.431838
+      },
+      {
+        "name": "Guelmim",
+        "country": "Morocco",
+        "lat": 28.987638,
+        "lng": -10.057652
+      },
+      {
+        "name": "Naila salt lagoon",
+        "country": "Morocco",
+        "lat": 34.604786,
+        "lng": -2.219892
+      },
+      {
+        "name": "Nouadhibou",
+        "country": "Mauritania",
+        "lat": 20.912705,
+        "lng": -17.050309
+      },
+      {
+        "name": "Chinguetti",
+        "country": "Mauritania",
+        "lat": 20.440359,
+        "lng": -12.262204
+      },
+      {
+        "name": "Ouadane",
+        "country": "Mauritania",
+        "lat": 20.930898,
+        "lng": -11.620795
+      },
+      {
+        "name": "Terjit oasis",
+        "country": "Mauritania",
+        "lat": 20.258163,
+        "lng": -13.096455
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "lat": 18.079238,
+        "lng": -15.978007
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal",
+        "lat": 14.138815,
+        "lng": -16.076391
+      },
+      {
+        "name": "Ziguinchor",
+        "country": "Senegal",
+        "lat": 12.563493,
+        "lng": -16.272461
+      },
+      {
+        "name": "Bijagos Archipelago",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Bubaque Island",
+        "country": "Guinea-Bissau",
+        "lat": 11.300053,
+        "lng": -15.830978
+      },
+      {
+        "name": "Gabu",
+        "country": "Guinea-Bissau",
+        "lat": 12.281952,
+        "lng": -14.226082
+      },
+      {
+        "name": "Labe",
+        "country": "Guinea",
+        "lat": 11.323003,
+        "lng": -12.282253
+      },
+      {
+        "name": "Dalaba",
+        "country": "Guinea",
+        "lat": 10.691185,
+        "lng": -12.251624
+      },
+      {
+        "name": "Kindia",
+        "country": "Guinea",
+        "lat": 10.049248,
+        "lng": -12.8578
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "lat": 8.462246,
+        "lng": -13.178415
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia",
+        "lat": 6.297724,
+        "lng": -10.779029
+      },
+      {
+        "name": "Ganta",
+        "country": "Liberia",
+        "lat": 7.228208,
+        "lng": -8.989572
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast",
+        "lat": 7.409081,
+        "lng": -7.55017
+      },
+      {
+        "name": "Daloa",
+        "country": "Ivory Coast",
+        "lat": 6.87669,
+        "lng": -6.45161
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast",
+        "lat": 5.212884,
+        "lng": -3.743226
+      },
+      {
+        "name": "Axim",
+        "country": "Ghana",
+        "lat": 4.86589,
+        "lng": -2.239788
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Grand Popo",
+        "country": "Benin",
+        "lat": 6.276375,
+        "lng": 1.80672
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Ganvié",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -1554,7 +3530,435 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco"
+      },
+      {
+        "name": "Ait Ben Haddou",
+        "country": "Morocco"
+      },
+      {
+        "name": "Draa Valley",
+        "country": "Morocco"
+      },
+      {
+        "name": "Erg Chegaga",
+        "country": "Morocco"
+      },
+      {
+        "name": "Iriqui",
+        "country": "Morocco"
+      },
+      {
+        "name": "Guelmime",
+        "country": "Morocco"
+      },
+      {
+        "name": "Tarfaya",
+        "country": "Morocco"
+      },
+      {
+        "name": "Laayoune",
+        "country": "Western Sahara"
+      },
+      {
+        "name": "Dakhla",
+        "country": "Western Sahara"
+      },
+      {
+        "name": "Nouadhibou",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Chinguetti",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Ouadane",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Terjit",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Djoudj National Park",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Lac Rose",
+        "country": "Senegal"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Goree Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal"
+      },
+      {
+        "name": "Sine Ngayene",
+        "country": "Senegal"
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia"
+      },
+      {
+        "name": "Casamance",
+        "country": "Senegal"
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Bijagos Islands",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Malinke region",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Fouta Djalon",
+        "country": "Guinea"
+      },
+      {
+        "name": "Kindia",
+        "country": "Guinea"
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Banana Islands",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Bo",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia"
+      },
+      {
+        "name": "Ganta",
+        "country": "Liberia"
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Daloa",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Axim",
+        "country": "Ghana"
+      },
+      {
+        "name": "Anomabu",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Grand Popo",
+        "country": "Benin"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco",
+        "lat": 31.626928,
+        "lng": -7.988117
+      },
+      {
+        "name": "Guelmime",
+        "country": "Morocco",
+        "lat": 28.987638,
+        "lng": -10.057652
+      },
+      {
+        "name": "Tarfaya",
+        "country": "Morocco",
+        "lat": 27.938314,
+        "lng": -12.923756
+      },
+      {
+        "name": "Laayoune",
+        "country": "Western Sahara",
+        "lat": 27.153843,
+        "lng": -13.196871
+      },
+      {
+        "name": "Dakhla",
+        "country": "Western Sahara",
+        "lat": 23.692513,
+        "lng": -15.942004
+      },
+      {
+        "name": "Nouadhibou",
+        "country": "Mauritania",
+        "lat": 20.912705,
+        "lng": -17.050309
+      },
+      {
+        "name": "Chinguetti",
+        "country": "Mauritania",
+        "lat": 20.440359,
+        "lng": -12.262204
+      },
+      {
+        "name": "Ouadane",
+        "country": "Mauritania",
+        "lat": 20.930898,
+        "lng": -11.620795
+      },
+      {
+        "name": "Terjit",
+        "country": "Mauritania",
+        "lat": 20.258163,
+        "lng": -13.096455
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "lat": 18.079238,
+        "lng": -15.978007
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal",
+        "lat": 14.138815,
+        "lng": -16.076391
+      },
+      {
+        "name": "Sine Ngayene",
+        "country": "Senegal",
+        "lat": 13.701447,
+        "lng": -15.456652
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Bijagos Islands",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Malinke region",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Kindia",
+        "country": "Guinea",
+        "lat": 10.049248,
+        "lng": -12.8578
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "lat": 8.462246,
+        "lng": -13.178415
+      },
+      {
+        "name": "Bo",
+        "country": "Sierra Leone",
+        "lat": 7.960019,
+        "lng": -11.733027
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia",
+        "lat": 6.297724,
+        "lng": -10.779029
+      },
+      {
+        "name": "Ganta",
+        "country": "Liberia",
+        "lat": 7.228208,
+        "lng": -8.989572
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast",
+        "lat": 7.409081,
+        "lng": -7.55017
+      },
+      {
+        "name": "Daloa",
+        "country": "Ivory Coast",
+        "lat": 6.87669,
+        "lng": -6.45161
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast",
+        "lat": 5.212884,
+        "lng": -3.743226
+      },
+      {
+        "name": "Axim",
+        "country": "Ghana",
+        "lat": 4.86589,
+        "lng": -2.239788
+      },
+      {
+        "name": "Anomabu",
+        "country": "Ghana",
+        "lat": 5.178346,
+        "lng": -1.121541
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Grand Popo",
+        "country": "Benin",
+        "lat": 6.276375,
+        "lng": 1.80672
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin",
+        "lat": 6.373391,
+        "lng": 2.4401
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -1680,7 +4084,225 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Bijagos Islands",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Malinke region",
+        "country": "Guinea"
+      },
+      {
+        "name": "Kindia",
+        "country": "Guinea"
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia"
+      },
+      {
+        "name": "Ganta",
+        "country": "Liberia"
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Daloa",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Axim",
+        "country": "Ghana"
+      },
+      {
+        "name": "Anomabu",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Grand Popo",
+        "country": "Benin"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Bijagos Islands",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Kindia",
+        "country": "Guinea",
+        "lat": 10.049248,
+        "lng": -12.8578
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia",
+        "lat": 6.297724,
+        "lng": -10.779029
+      },
+      {
+        "name": "Ganta",
+        "country": "Liberia",
+        "lat": 7.228208,
+        "lng": -8.989572
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast",
+        "lat": 7.409081,
+        "lng": -7.55017
+      },
+      {
+        "name": "Daloa",
+        "country": "Ivory Coast",
+        "lat": 6.87669,
+        "lng": -6.45161
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast",
+        "lat": 5.212884,
+        "lng": -3.743226
+      },
+      {
+        "name": "Axim",
+        "country": "Ghana",
+        "lat": 4.86589,
+        "lng": -2.239788
+      },
+      {
+        "name": "Anomabu",
+        "country": "Ghana",
+        "lat": 5.178346,
+        "lng": -1.121541
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Grand Popo",
+        "country": "Benin",
+        "lat": 6.276375,
+        "lng": 1.80672
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin",
+        "lat": 6.373391,
+        "lng": 2.4401
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -1776,7 +4398,155 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      },
+      {
+        "name": "Kpalime",
+        "country": "Togo"
+      },
+      {
+        "name": "Sokode",
+        "country": "Togo"
+      },
+      {
+        "name": "Kara",
+        "country": "Togo"
+      },
+      {
+        "name": "Natitingou",
+        "country": "Benin"
+      },
+      {
+        "name": "Dassa",
+        "country": "Benin"
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin"
+      },
+      {
+        "name": "Cove",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Grand Popo",
+        "country": "Benin"
+      },
+      {
+        "name": "Aneho",
+        "country": "Togo"
+      },
+      {
+        "name": "Lome",
+        "country": "Togo"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Kpalime",
+        "country": "Togo",
+        "lat": 6.910657,
+        "lng": 0.632398
+      },
+      {
+        "name": "Sokode",
+        "country": "Togo",
+        "lat": 8.98332,
+        "lng": 1.143815
+      },
+      {
+        "name": "Kara",
+        "country": "Togo",
+        "lat": 9.548875,
+        "lng": 1.197745
+      },
+      {
+        "name": "Natitingou",
+        "country": "Benin",
+        "lat": 10.305151,
+        "lng": 1.380855
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin",
+        "lat": 7.182001,
+        "lng": 1.993632
+      },
+      {
+        "name": "Cove",
+        "country": "Benin",
+        "lat": 7.219535,
+        "lng": 2.339962
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin",
+        "lat": 6.373391,
+        "lng": 2.4401
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Grand Popo",
+        "country": "Benin",
+        "lat": 6.276375,
+        "lng": 1.80672
+      },
+      {
+        "name": "Aneho",
+        "country": "Togo",
+        "lat": 6.228877,
+        "lng": 1.593807
+      },
+      {
+        "name": "Lome",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      }
+    ]
   },
   {
     "destination": "Benin",
@@ -1872,6 +4642,150 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Lomé",
+        "country": "Togo"
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin"
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin"
+      },
+      {
+        "name": "Porto-Novo",
+        "country": "Benin"
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin"
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin"
+      },
+      {
+        "name": "Wli",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Abandze",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Lomé",
+        "country": "Togo",
+        "lat": 6.132853,
+        "lng": 1.230922
+      },
+      {
+        "name": "Ouidah",
+        "country": "Benin",
+        "lat": 6.366615,
+        "lng": 2.08536
+      },
+      {
+        "name": "Cotonou",
+        "country": "Benin",
+        "lat": 6.373391,
+        "lng": 2.4401
+      },
+      {
+        "name": "Porto-Novo",
+        "country": "Benin",
+        "lat": 6.487424,
+        "lng": 2.621176
+      },
+      {
+        "name": "Ganvie",
+        "country": "Benin",
+        "lat": 6.468112,
+        "lng": 2.389967
+      },
+      {
+        "name": "Abomey",
+        "country": "Benin",
+        "lat": 7.182001,
+        "lng": 1.993632
+      },
+      {
+        "name": "Wli",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Abandze",
+        "country": "Ghana",
+        "lat": 5.194671,
+        "lng": -1.094166
+      }
+    ]
   }
 ]

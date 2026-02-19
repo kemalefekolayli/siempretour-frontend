@@ -63,7 +63,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -129,7 +187,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -185,7 +311,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Seronera Airstrip",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania",
+        "lat": -3.32343,
+        "lng": 35.671901
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Seronera Airstrip",
+        "country": "Tanzania",
+        "lat": -2.445883,
+        "lng": 34.818147
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -271,7 +475,95 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar Beach",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Zanzibar Beach",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -352,7 +644,79 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kogatende Airstrip",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -418,7 +782,99 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Victoria",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Speke Bay",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mwanza",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Speke Bay",
+        "country": "Tanzania",
+        "lat": -3.342256,
+        "lng": 33.51129
+      },
+      {
+        "name": "Mwanza",
+        "country": "Tanzania",
+        "lat": -2.519691,
+        "lng": 32.901442
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -474,7 +930,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -540,7 +1054,135 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Highlands",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Central Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Southern Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ndutu Airstrip",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Arusha National Park",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Ngorongoro Highlands",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Central Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Southern Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ndutu Airstrip",
+        "country": "Tanzania",
+        "lat": -4.163296,
+        "lng": 37.919367
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -616,7 +1258,65 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Selous Game Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Jozani Forest",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Jozani Forest",
+        "country": "Tanzania",
+        "lat": -6.26715,
+        "lng": 39.428431
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -682,7 +1382,55 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Rubondo Island National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Rubondo Island National Park",
+        "country": "Tanzania",
+        "lat": -2.607086,
+        "lng": 31.319891
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -758,7 +1506,129 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Manyara Airstrip",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Sasakwa Airstrip",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Singita Sabora",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Singita Grumeti Game Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha Airport",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Arusha National Park",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Manyara Airstrip",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Singita Sabora",
+        "country": "Tanzania",
+        "lat": -3.835498,
+        "lng": 33.280661
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Singita Grumeti Game Reserve",
+        "country": "Tanzania",
+        "lat": -3.835498,
+        "lng": 33.280661
+      },
+      {
+        "name": "Arusha Airport",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -814,7 +1684,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Nungwi",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Nungwi",
+        "country": "Tanzania",
+        "lat": -5.7358,
+        "lng": 39.311987
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -880,7 +1818,85 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -941,7 +1957,109 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Olduvai Gorge",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Arusha Airport",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1007,7 +2125,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1068,7 +2254,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Nyerere National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania",
+        "lat": -10.096791,
+        "lng": 39.571773
+      },
+      {
+        "name": "Nyerere National Park",
+        "country": "Tanzania",
+        "lat": -11.264635,
+        "lng": 37.370468
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1134,7 +2374,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Nyerere National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mafia Island",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Chole Island",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Nyerere National Park",
+        "country": "Tanzania",
+        "lat": -11.264635,
+        "lng": 37.370468
+      },
+      {
+        "name": "Chole Island",
+        "country": "Tanzania",
+        "lat": -7.361968,
+        "lng": 38.65098
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1195,7 +2483,85 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Arusha National Park",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1261,7 +2627,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Highlands",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Highlands",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1352,7 +2776,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tembo Lodge",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Enduimet Wildlife Management Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mkomazi National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kizimkazi",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Tembo Lodge",
+        "country": "Tanzania",
+        "lat": -9.394683,
+        "lng": 33.086548
+      },
+      {
+        "name": "Mkomazi National Park",
+        "country": "Tanzania",
+        "lat": -4.656765,
+        "lng": 38.068349
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Kizimkazi",
+        "country": "Tanzania",
+        "lat": -6.437412,
+        "lng": 39.46641
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1413,7 +2915,39 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Selous Game Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mafia Island",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1469,7 +3003,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Southern Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Central Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mafia Island",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Southern Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Central Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1520,7 +3132,83 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Olduvai Gorge",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mafia Islands",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1581,7 +3269,93 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tanzania",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mafia Islands",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1657,7 +3431,45 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Selous Game Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania",
+        "lat": -10.096791,
+        "lng": 39.571773
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1713,7 +3525,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1779,7 +3659,109 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Selous Game Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mikumi National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Dar Es Salaam",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Mikumi National Park",
+        "country": "Tanzania",
+        "lat": -7.397705,
+        "lng": 36.973422
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania",
+        "lat": -10.096791,
+        "lng": 39.571773
+      },
+      {
+        "name": "Dar Es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1855,7 +3837,103 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Olduvai Gorge",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Eyasi",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -1971,7 +4049,79 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mwanza",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Juma Island",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Geita",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Saanane Island National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mwanza",
+        "country": "Tanzania",
+        "lat": -2.519691,
+        "lng": 32.901442
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Geita",
+        "country": "Tanzania",
+        "lat": -2.870757,
+        "lng": 32.234083
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2047,7 +4197,73 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Selous Game Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Tagalala",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Morogoro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Udzungwa Mountain National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mikumi National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Morogoro",
+        "country": "Tanzania",
+        "lat": -6.816163,
+        "lng": 37.669389
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania",
+        "lat": -10.096791,
+        "lng": 39.571773
+      },
+      {
+        "name": "Mikumi National Park",
+        "country": "Tanzania",
+        "lat": -7.397705,
+        "lng": 36.973422
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2113,7 +4329,55 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2169,7 +4433,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ndutu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ndutu",
+        "country": "Tanzania",
+        "lat": -4.163296,
+        "lng": 37.919367
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2235,7 +4563,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ndutu",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ndutu",
+        "country": "Tanzania",
+        "lat": -4.163296,
+        "lng": 37.919367
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2296,7 +4702,79 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mount Meru",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mto Wa Umbu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Mto Wa Umbu",
+        "country": "Tanzania",
+        "lat": -3.37671,
+        "lng": 35.8558
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2332,7 +4810,51 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2368,7 +4890,55 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Selous Game Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Rufiji River",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rufiji River",
+        "country": "Tanzania",
+        "lat": -7.838297,
+        "lng": 38.347679
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2438,7 +5008,89 @@
         "description": "After breakfast, transfer to the airstrip for your internal flight to Arusha airport (Included in the safari price). Transfer either to a city hotel or to the Kilimanjaro International Airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Olduvai Gorge",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2519,7 +5171,65 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2600,7 +5310,103 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Enduimet Wildlife Management Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mkomazi National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Natron",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro Airport",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha National Park",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Mkomazi National Park",
+        "country": "Tanzania",
+        "lat": -4.656765,
+        "lng": 38.068349
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania",
+        "lat": -3.32343,
+        "lng": 35.671901
+      },
+      {
+        "name": "Kilimanjaro Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2671,7 +5477,105 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro International",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Kilimanjaro International",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2722,7 +5626,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Nyerere National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Jozani Forest",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mafia Island",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Pemba Island",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Nyerere National Park",
+        "country": "Tanzania",
+        "lat": -11.264635,
+        "lng": 37.370468
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Jozani Forest",
+        "country": "Tanzania",
+        "lat": -6.26715,
+        "lng": 39.428431
+      },
+      {
+        "name": "Pemba Island",
+        "country": "Tanzania",
+        "lat": -5.999957,
+        "lng": 37.515777
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2768,7 +5750,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2819,7 +5859,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Seronera Airstrip",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania",
+        "lat": -3.32343,
+        "lng": 35.671901
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Seronera Airstrip",
+        "country": "Tanzania",
+        "lat": -2.445883,
+        "lng": 34.818147
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2880,7 +5988,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ndutu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania",
+        "lat": -3.32343,
+        "lng": 35.671901
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ndutu",
+        "country": "Tanzania",
+        "lat": -4.163296,
+        "lng": 37.919367
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -2941,7 +6127,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3002,7 +6242,69 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Olduvai Gorge",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3053,7 +6355,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3134,7 +6504,69 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Natron",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3210,7 +6642,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti Grumeti",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania",
+        "lat": -3.32343,
+        "lng": 35.671901
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Serengeti Grumeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3296,7 +6796,115 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Mto Wa Mbu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Marangu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Usambara Mountains",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Northern beaches",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Mto Wa Mbu",
+        "country": "Tanzania",
+        "lat": -3.37671,
+        "lng": 35.8558
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Marangu",
+        "country": "Tanzania",
+        "lat": -3.114725,
+        "lng": 37.63421
+      },
+      {
+        "name": "Usambara Mountains",
+        "country": "Tanzania",
+        "lat": -4.463536,
+        "lng": 38.076434
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3372,7 +6980,131 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Bagamoyo",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Nungwi",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania",
+        "lat": -3.32343,
+        "lng": 35.671901
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzania",
+        "lat": -3.342779,
+        "lng": 37.329261
+      },
+      {
+        "name": "Bagamoyo",
+        "country": "Tanzania",
+        "lat": -6.447658,
+        "lng": 38.896381
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Nungwi",
+        "country": "Tanzania",
+        "lat": -5.7358,
+        "lng": 39.311987
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3448,7 +7180,79 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mto Wa Mbu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Empakaai Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha National Park",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Mto Wa Mbu",
+        "country": "Tanzania",
+        "lat": -3.37671,
+        "lng": 35.8558
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3514,7 +7318,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3580,7 +7442,89 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Central Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Natron",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Engare Sero Waterfall",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Central Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Engare Sero Waterfall",
+        "country": "Tanzania",
+        "lat": -2.61522,
+        "lng": 35.879356
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3631,7 +7575,69 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorogoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Olduvai Gorge",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro Airport",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorogoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Kilimanjaro Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3717,7 +7723,95 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Mgahinga National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Mgahinga National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3758,7 +7852,41 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3819,7 +7947,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Great Rift Valley",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3885,7 +8061,59 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Eyasi",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -3956,7 +8184,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4027,7 +8303,49 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Grumeti Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Western Corridor",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Namiri Plains",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Western Corridor",
+        "country": "Tanzania",
+        "lat": -3.393237,
+        "lng": 36.701816
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4108,7 +8426,61 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ngorongoro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Bwejuu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ngorongoro",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Bwejuu",
+        "country": "Tanzania",
+        "lat": -6.237238,
+        "lng": 39.532315
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4169,7 +8541,45 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Grumeti Reserve",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4255,7 +8665,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Dongwe",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Dongwe",
+        "country": "Tanzania",
+        "lat": -6.191182,
+        "lng": 39.531743
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4321,7 +8795,99 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Olduvai Gorge",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Bwejuu – Paje Beach",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Bwejuu – Paje Beach",
+        "country": "Tanzania",
+        "lat": -6.266745,
+        "lng": 39.534072
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4432,7 +8998,113 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mto Wa Mbu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Olduvai Gorge",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Zanzibar"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kendwa",
+        "country": "Zanzibar"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzania",
+        "lat": -3.342779,
+        "lng": 37.329261
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Mto Wa Mbu",
+        "country": "Tanzania",
+        "lat": -3.37671,
+        "lng": 35.8558
+      },
+      {
+        "name": "Serengeti National Reserve",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4518,7 +9190,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kibale Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4589,7 +9329,69 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Natron",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Pemba Island",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Pemba Island",
+        "country": "Tanzania",
+        "lat": -5.999957,
+        "lng": 37.515777
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4645,7 +9447,45 @@
       }
     ],
     "map": "",
-    "category": "Horse Riding"
+    "category": "Horse Riding",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Grumeti Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4721,7 +9561,95 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Rufiji River",
+        "country": "Tanzania"
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "North Luangwa National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania",
+        "lat": -10.096791,
+        "lng": 39.571773
+      },
+      {
+        "name": "Rufiji River",
+        "country": "Tanzania",
+        "lat": -7.838297,
+        "lng": 38.347679
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "North Luangwa National Park",
+        "country": "Zambia",
+        "lat": -15.622586,
+        "lng": 30.400955
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4787,7 +9715,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Selous Game Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania",
+        "lat": -10.096791,
+        "lng": 39.571773
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4858,7 +9834,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -4939,7 +9963,79 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Amboseli National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Olduvai Gorge",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Masai Mara National Reserve",
+        "country": "Kenya"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Masai Mara National Reserve",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5005,7 +10101,59 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Grumeti Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Katavi National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mahale Mountains National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Katavi National Park",
+        "country": "Tanzania",
+        "lat": -6.342952,
+        "lng": 31.072987
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5076,7 +10224,75 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Park National des Volcans",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Maasai Mara",
+        "country": "Kenya"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Maasai Mara",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5147,7 +10363,99 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Highlands",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Grumeti Game Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mguma Village",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Ngorongoro Highlands",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Mguma Village",
+        "country": "Tanzania",
+        "lat": -9.341713,
+        "lng": 39.569054
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5218,7 +10526,81 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar Island",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Bwejuu-Paje Beach",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzania",
+        "lat": -3.342779,
+        "lng": 37.329261
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Zanzibar Island",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Bwejuu-Paje Beach",
+        "country": "Tanzania",
+        "lat": -6.266745,
+        "lng": 39.534072
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5299,7 +10681,95 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Olduvai Gorge",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Lake Naivasha",
+        "country": "Kenya"
+      },
+      {
+        "name": "Hell's Gate National Park",
+        "country": "Kenya"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Lake Naivasha",
+        "country": "Kenya",
+        "lat": -0.719343,
+        "lng": 36.433064
+      },
+      {
+        "name": "Hell's Gate National Park",
+        "country": "Kenya",
+        "lat": -2.141762,
+        "lng": 40.998166
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5370,7 +10840,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Grumeti Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Loliondo Concession",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Loliondo Concession",
+        "country": "Tanzania",
+        "lat": -2.05136,
+        "lng": 35.617403
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5451,7 +10969,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pingwe",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Pemba",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Pingwe",
+        "country": "Tanzania",
+        "lat": -6.149981,
+        "lng": 39.51659
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Pemba",
+        "country": "Tanzania",
+        "lat": -5.999957,
+        "lng": 37.515777
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5517,7 +11089,45 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Central Serengeti",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Central Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5583,7 +11193,59 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mount Meru",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Selous Game Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5659,7 +11321,109 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ndutu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Central Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Grumeti Game Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Maasai Mara",
+        "country": "null"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Ndutu",
+        "country": "Tanzania",
+        "lat": -4.163296,
+        "lng": 37.919367
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Central Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5745,7 +11509,83 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mikumi National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mkata Floodplain",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Udzungwa Mountain",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Isimila",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Iringa",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Selous Game Reserve",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Mikumi National Park",
+        "country": "Tanzania",
+        "lat": -7.397705,
+        "lng": 36.973422
+      },
+      {
+        "name": "Mkata Floodplain",
+        "country": "Tanzania",
+        "lat": -5.787041,
+        "lng": 38.291652
+      },
+      {
+        "name": "Iringa",
+        "country": "Tanzania",
+        "lat": -7.779097,
+        "lng": 35.697053
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania",
+        "lat": -10.096791,
+        "lng": 39.571773
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5821,7 +11661,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Selous Game Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzania",
+        "lat": -3.342779,
+        "lng": 37.329261
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania",
+        "lat": -10.096791,
+        "lng": 39.571773
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5892,7 +11810,41 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Matemwe",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ruaha National Park",
+        "country": "Tanzania",
+        "lat": -10.096791,
+        "lng": 39.571773
+      },
+      {
+        "name": "Matemwe",
+        "country": "Tanzania",
+        "lat": -10.628436,
+        "lng": 38.119303
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -5973,7 +11925,59 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Okavango Delta",
+        "country": "Botswana"
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana",
+        "lat": -17.799239,
+        "lng": 25.156546
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6039,7 +12043,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mount Kilimanjaro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Selous Game Reserve",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Mount Kilimanjaro",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6105,7 +12167,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ndutu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Ndutu",
+        "country": "Tanzania",
+        "lat": -4.163296,
+        "lng": 37.919367
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania",
+        "lat": -3.32343,
+        "lng": 35.671901
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6166,7 +12282,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Maasai Mara",
+        "country": "Kenya"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Maasai Mara",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6227,7 +12417,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Karatu",
+        "country": "Tanzania",
+        "lat": -3.32343,
+        "lng": 35.671901
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6303,7 +12551,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Maasai Mara",
+        "country": "Kenya"
+      },
+      {
+        "name": "Amboseli National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Maasai Mara",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6364,7 +12670,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6450,7 +12810,89 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Empakaai Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Arusha National Park",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6546,7 +12988,99 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Natron",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Seronera",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kiwengwa",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Seronera",
+        "country": "Tanzania",
+        "lat": -2.445883,
+        "lng": 34.818147
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Kiwengwa",
+        "country": "Tanzania",
+        "lat": -5.990104,
+        "lng": 39.376077
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6622,7 +13156,55 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lamai Serengeti",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Lamai Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6703,7 +13285,49 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mount Meru",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater Conservation Area",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6759,7 +13383,75 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Singita Grumeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mnemba Island",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Singita Grumeti",
+        "country": "Tanzania",
+        "lat": -3.835498,
+        "lng": 33.280661
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Mnemba Island",
+        "country": "Tanzania",
+        "lat": -10.571074,
+        "lng": 38.953711
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6830,7 +13522,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6891,7 +13641,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Grumeti Reserve",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Eastern Serengeti",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Eastern Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -6967,7 +13765,79 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -7038,7 +13908,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -7104,7 +14032,75 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Olduvai Gorge",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Hell’s Gate National Park",
+        "country": "Kenya"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Hell’s Gate National Park",
+        "country": "Kenya",
+        "lat": -2.141762,
+        "lng": 40.998166
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -7170,7 +14166,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzania",
+        "lat": -3.342779,
+        "lng": 37.329261
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Crater Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -7241,7 +14295,55 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -7347,7 +14449,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Lewa Conservancy",
+        "country": "Kenya"
+      },
+      {
+        "name": "Masai Mara",
+        "country": "Kenya"
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Lewa Conservancy",
+        "country": "Kenya",
+        "lat": -1.3333,
+        "lng": 39.8333
+      },
+      {
+        "name": "Masai Mara",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Tanzania",
@@ -7428,6 +14608,90 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Masai Mara",
+        "country": "Kenya"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Masai Mara",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   }
 ]

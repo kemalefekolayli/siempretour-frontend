@@ -58,7 +58,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Guernsey",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Sark",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Jersey",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Herm",
+        "country": "United Kingdom"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Guernsey",
+        "country": "United Kingdom",
+        "lat": 49.458284,
+        "lng": -2.573365
+      },
+      {
+        "name": "Sark",
+        "country": "United Kingdom",
+        "lat": 51.53907,
+        "lng": -3.583427
+      },
+      {
+        "name": "Jersey",
+        "country": "United Kingdom",
+        "lat": 52.059067,
+        "lng": 0.916949
+      },
+      {
+        "name": "Herm",
+        "country": "United Kingdom",
+        "lat": 49.472419,
+        "lng": -2.449265
+      }
+    ]
   },
   {
     "destination": "Channel Islands",
@@ -134,7 +188,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Guernsey",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Herm",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Sark",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Alderney",
+        "country": "United Kingdom"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Guernsey",
+        "country": "United Kingdom",
+        "lat": 49.458284,
+        "lng": -2.573365
+      },
+      {
+        "name": "Herm",
+        "country": "United Kingdom",
+        "lat": 49.472419,
+        "lng": -2.449265
+      },
+      {
+        "name": "Sark",
+        "country": "United Kingdom",
+        "lat": 51.53907,
+        "lng": -3.583427
+      },
+      {
+        "name": "Alderney",
+        "country": "United Kingdom",
+        "lat": 51.615646,
+        "lng": -2.334831
+      }
+    ]
   },
   {
     "destination": "Channel Islands",
@@ -180,6 +288,92 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jersey",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Écréhous Islands",
+        "country": "null"
+      },
+      {
+        "name": "Greve de Lecq",
+        "country": "Jersey"
+      },
+      {
+        "name": "Portelet Bay",
+        "country": "Jersey"
+      },
+      {
+        "name": "Janvirin’s Tomb",
+        "country": "Jersey"
+      },
+      {
+        "name": "Beauport",
+        "country": "Jersey"
+      },
+      {
+        "name": "St Brelade’s Bay",
+        "country": "Jersey"
+      },
+      {
+        "name": "Archirondel",
+        "country": "Jersey"
+      },
+      {
+        "name": "Belcroute Bay",
+        "country": "Jersey"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jersey",
+        "country": "United Kingdom",
+        "lat": 52.059067,
+        "lng": 0.916949
+      },
+      {
+        "name": "Écréhous Islands",
+        "country": "null",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Greve de Lecq",
+        "country": "Jersey",
+        "lat": 49.246826,
+        "lng": -2.201815
+      },
+      {
+        "name": "Portelet Bay",
+        "country": "Jersey",
+        "lat": 49.171999,
+        "lng": -2.176782
+      },
+      {
+        "name": "St Brelade’s Bay",
+        "country": "Jersey",
+        "lat": 49.193024,
+        "lng": -2.199614
+      },
+      {
+        "name": "Archirondel",
+        "country": "Jersey",
+        "lat": 49.212394,
+        "lng": -2.020904
+      }
+    ]
   }
 ]

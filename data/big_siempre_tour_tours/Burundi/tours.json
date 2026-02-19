@@ -63,6 +63,80 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bujumbura",
+        "country": "Burundi"
+      },
+      {
+        "name": "Rusizi National Park",
+        "country": "Burundi"
+      },
+      {
+        "name": "Ijenda tea plantations",
+        "country": "Burundi"
+      },
+      {
+        "name": "Rumonge",
+        "country": "Burundi"
+      },
+      {
+        "name": "Lake Tanganyika",
+        "country": "Burundi"
+      },
+      {
+        "name": "Nyakuza",
+        "country": "Burundi"
+      },
+      {
+        "name": "Kalera waterfalls",
+        "country": "Burundi"
+      },
+      {
+        "name": "Gitega",
+        "country": "Burundi"
+      },
+      {
+        "name": "Lake Rwihinda National Reserve",
+        "country": "Burundi"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bujumbura",
+        "country": "Burundi",
+        "lat": -3.365051,
+        "lng": 29.352243
+      },
+      {
+        "name": "Ijenda tea plantations",
+        "country": "Burundi",
+        "lat": -3.480397,
+        "lng": 29.56365
+      },
+      {
+        "name": "Rumonge",
+        "country": "Burundi",
+        "lat": -3.946026,
+        "lng": 29.449966
+      },
+      {
+        "name": "Gitega",
+        "country": "Burundi",
+        "lat": -3.428495,
+        "lng": 29.924972
+      }
+    ]
   }
 ]

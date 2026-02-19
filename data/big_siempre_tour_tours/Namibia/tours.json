@@ -78,7 +78,113 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Point Nature Reserve",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cederberg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Gariep River",
+        "country": "Namibia"
+      },
+      {
+        "name": "Fish River Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Cape Cross seal colony",
+        "country": "Namibia"
+      },
+      {
+        "name": "Spitzkoppe",
+        "country": "Namibia"
+      },
+      {
+        "name": "Ugab wilderness",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okaukuejo flood-lit waterhole",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Cape Point Nature Reserve",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Cederberg",
+        "country": "South Africa",
+        "lat": -32.501175,
+        "lng": 19.258291
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Okaukuejo flood-lit waterhole",
+        "country": "Namibia",
+        "lat": -19.18951,
+        "lng": 15.91865
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -154,7 +260,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cederberg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Gariep River",
+        "country": "Namibia"
+      },
+      {
+        "name": "Fish River Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Cederberg",
+        "country": "South Africa",
+        "lat": -32.501175,
+        "lng": 19.258291
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -250,7 +434,107 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Lambert’s Bay",
+        "country": "South Africa"
+      },
+      {
+        "name": "Orange River",
+        "country": "Namibia"
+      },
+      {
+        "name": "Fish River Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Dead Vlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Petrified Forest",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Lambert’s Bay",
+        "country": "South Africa",
+        "lat": -32.093227,
+        "lng": 18.30428
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -346,7 +630,77 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Mariental",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Otjiwarongo",
+        "country": "Namibia"
+      },
+      {
+        "name": "Hosea Kutako International Airport",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Mariental",
+        "country": "Namibia",
+        "lat": -24.624644,
+        "lng": 17.96267
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Otjiwarongo",
+        "country": "Namibia",
+        "lat": -20.460409,
+        "lng": 16.641649
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -432,7 +786,115 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib-Naukluft Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei Dunes",
+        "country": "Namibia"
+      },
+      {
+        "name": "Hiddenvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Brandberg",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "‘White Lady’ rock painting",
+        "country": "Namibia"
+      },
+      {
+        "name": "Vingerklip",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Otjiwarongwe",
+        "country": "Namibia"
+      },
+      {
+        "name": "Waterberg Plateau",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -528,7 +990,125 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Palmwag",
+        "country": "Namibia"
+      },
+      {
+        "name": "Opuwo",
+        "country": "Namibia"
+      },
+      {
+        "name": "Epupa Falls",
+        "country": "Namibia"
+      },
+      {
+        "name": "Uukwaluudhi Conservancy",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okahandja",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      },
+      {
+        "name": "Opuwo",
+        "country": "Namibia",
+        "lat": -18.055038,
+        "lng": 13.838736
+      },
+      {
+        "name": "Epupa Falls",
+        "country": "Namibia",
+        "lat": -17.002778,
+        "lng": 13.247277
+      },
+      {
+        "name": "Okahandja",
+        "country": "Namibia",
+        "lat": -21.976638,
+        "lng": 16.91284
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -584,7 +1164,67 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Skeleton Coast National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okapuka Game Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -655,7 +1295,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kalahari Region",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima Nature Reserve",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -731,7 +1429,119 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Caprivi Strip",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kavango River",
+        "country": "Namibia"
+      },
+      {
+        "name": "Rundu",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Ugab Wilderness",
+        "country": "Namibia"
+      },
+      {
+        "name": "Brandberg",
+        "country": "Namibia"
+      },
+      {
+        "name": "Spitzkoppe",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Caprivi Strip",
+        "country": "Namibia",
+        "lat": -17.507314,
+        "lng": 24.279352
+      },
+      {
+        "name": "Rundu",
+        "country": "Namibia",
+        "lat": -17.912821,
+        "lng": 19.770192
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -802,7 +1612,115 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Zambezi",
+        "country": null
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Caprivi Strip",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kavango River",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Brandberg Mountain",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein rock art",
+        "country": "Namibia"
+      },
+      {
+        "name": "Cape Cross seal colony",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Naukluft National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Caprivi Strip",
+        "country": "Namibia",
+        "lat": -17.507314,
+        "lng": 24.279352
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -863,7 +1781,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Ongava Game Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima Nature Reserve",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -934,7 +1916,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kulala Wilderness Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Skeleton Coast",
+        "country": "Namibia"
+      },
+      {
+        "name": "Hoanib Skeleton Coast",
+        "country": "Namibia"
+      },
+      {
+        "name": "Serra Cafema",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -1020,7 +2070,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib-Naukluft Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Brandberg",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Khorixas",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Otjiwa Safari Lodge",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      },
+      {
+        "name": "Khorixas",
+        "country": "Namibia",
+        "lat": -20.37384,
+        "lng": 14.960421
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -1096,7 +2224,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib-Naukluft National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima Nature Reserve",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -1192,7 +2378,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Mariental",
+        "country": "Namibia"
+      },
+      {
+        "name": "Fish River Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Aus Mountains",
+        "country": "Namibia"
+      },
+      {
+        "name": "Lüderitz",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kolmanskop",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Mariental",
+        "country": "Namibia",
+        "lat": -24.624644,
+        "lng": 17.96267
+      },
+      {
+        "name": "Aus Mountains",
+        "country": "Namibia",
+        "lat": -26.664342,
+        "lng": 16.259429
+      },
+      {
+        "name": "Lüderitz",
+        "country": "Namibia",
+        "lat": -26.650009,
+        "lng": 15.157266
+      },
+      {
+        "name": "Kolmanskop",
+        "country": "Namibia",
+        "lat": -26.69919,
+        "lng": 15.242464
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -1278,7 +2568,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib-Naukluft National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Cape Cross Seal Colony",
+        "country": "Namibia"
+      },
+      {
+        "name": "Brandberg Mountain",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Otjiwarongo",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Otjiwarongo",
+        "country": "Namibia",
+        "lat": -20.460409,
+        "lng": 16.641649
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -1359,7 +2723,99 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kalahari",
+        "country": "Namibia"
+      },
+      {
+        "name": "Solitaire",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sandwich Harbour",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Waterberg",
+        "country": "Namibia"
+      },
+      {
+        "name": "Ohahandja",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Solitaire",
+        "country": "Namibia",
+        "lat": -23.893881,
+        "lng": 16.005009
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Ohahandja",
+        "country": "Namibia",
+        "lat": -21.976638,
+        "lng": 16.91284
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -1435,7 +2891,95 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Keetmanshoop",
+        "country": "Namibia"
+      },
+      {
+        "name": "Quiver Tree Forest",
+        "country": "Namibia"
+      },
+      {
+        "name": "Fish River Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Luderitz",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kolmanskop",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib-Naukluft National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Dead Vlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Spitzkoppe",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Keetmanshoop",
+        "country": "Namibia",
+        "lat": -26.560354,
+        "lng": 18.160388
+      },
+      {
+        "name": "Luderitz",
+        "country": "Namibia",
+        "lat": -26.650009,
+        "lng": 15.157266
+      },
+      {
+        "name": "Kolmanskop",
+        "country": "Namibia",
+        "lat": -26.69919,
+        "lng": 15.242464
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -1516,7 +3060,95 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Ruacana Falls",
+        "country": "Namibia"
+      },
+      {
+        "name": "Epupa Falls",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kunene River",
+        "country": "Namibia"
+      },
+      {
+        "name": "Purros",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Brandberg Mountains",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sandwich Harbour",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Skeleton Coast",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Ruacana Falls",
+        "country": "Namibia",
+        "lat": -17.439083,
+        "lng": 14.362524
+      },
+      {
+        "name": "Epupa Falls",
+        "country": "Namibia",
+        "lat": -17.002778,
+        "lng": 13.247277
+      },
+      {
+        "name": "Kunene River",
+        "country": "Namibia",
+        "lat": -18.055038,
+        "lng": 13.838737
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -1602,7 +3234,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Waterberg Plateau",
+        "country": "Namibia"
+      },
+      {
+        "name": "Africat Foundation",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -1708,7 +3394,75 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kalahari Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Fish River Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kolmanskop",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima Nature Reserve",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Kolmanskop",
+        "country": "Namibia",
+        "lat": -26.69919,
+        "lng": 15.242464
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -1804,7 +3558,93 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Otjiwa Game Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Cape Cross",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib–Naukluft",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -1905,7 +3745,57 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesreim Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Big cats reserve",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Sesreim Canyon",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2011,7 +3901,109 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Otjiwarongo",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Spitzkoppe",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sandwich Harbour",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Helmeringhausen",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kalahari Desert",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Otjiwarongo",
+        "country": "Namibia",
+        "lat": -20.460409,
+        "lng": 16.641649
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibia",
+        "lat": -19.628408,
+        "lng": 14.843358
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Helmeringhausen",
+        "country": "Namibia",
+        "lat": -25.885187,
+        "lng": 16.822942
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2087,7 +4079,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kalahari Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima Nature Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2178,7 +4238,83 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Western Kalahari Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Fish River Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Aus",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kolmanskop",
+        "country": "Namibia"
+      },
+      {
+        "name": "Luderitz",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Aus",
+        "country": "Namibia",
+        "lat": -26.664342,
+        "lng": 16.259429
+      },
+      {
+        "name": "Kolmanskop",
+        "country": "Namibia",
+        "lat": -26.69919,
+        "lng": 15.242464
+      },
+      {
+        "name": "Luderitz",
+        "country": "Namibia",
+        "lat": -26.650009,
+        "lng": 15.157266
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2259,7 +4395,93 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Naukluft National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2340,7 +4562,117 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Mariental",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Solitaire",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Khorixas",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okaukuejo",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Mariental",
+        "country": "Namibia",
+        "lat": -24.624644,
+        "lng": 17.96267
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Solitaire",
+        "country": "Namibia",
+        "lat": -23.893881,
+        "lng": 16.005009
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Khorixas",
+        "country": "Namibia",
+        "lat": -20.37384,
+        "lng": 14.960421
+      },
+      {
+        "name": "Okaukuejo",
+        "country": "Namibia",
+        "lat": -19.18951,
+        "lng": 15.91865
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2421,7 +4753,73 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Ongava Game Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Tsaris Conservancy",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Naukluft National Park",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2497,7 +4895,63 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2558,7 +5012,67 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Skeleton Coast National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Naankuse Wildlife Sanctuary",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2629,7 +5143,53 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2675,7 +5235,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima Wildlife Reserve",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2751,7 +5365,57 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima Nature Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2827,7 +5491,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein Heritage Site",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -2913,7 +5651,79 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Khomas Hochland highlands",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Naukluft National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Brandberg Mountain",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Lake Otjikoto",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Khomas Hochland highlands",
+        "country": "Namibia",
+        "lat": -22.57761,
+        "lng": 17.077274
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3014,7 +5824,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib Desert",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Skeleton Coast",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Big cats reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Sesriem Canyon",
+        "country": "Namibia",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3115,7 +6003,109 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Tswalu Kalahari Private Game Reserve",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Victoria and Alfred Waterfront",
+        "country": "South Africa"
+      },
+      {
+        "name": "Table Mountain",
+        "country": "South Africa"
+      },
+      {
+        "name": "Stellenbosch",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape of Good Hope National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Chobe River",
+        "country": "null"
+      },
+      {
+        "name": "Namibia",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      },
+      {
+        "name": "Tswalu Kalahari Private Game Reserve",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Victoria and Alfred Waterfront",
+        "country": "South Africa",
+        "lat": -33.903056,
+        "lng": 18.421667
+      },
+      {
+        "name": "Table Mountain",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Stellenbosch",
+        "country": "South Africa",
+        "lat": -33.93813,
+        "lng": 18.86002
+      },
+      {
+        "name": "Cape of Good Hope National Park",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3196,7 +6186,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Dune 7",
+        "country": "Namibia"
+      },
+      {
+        "name": "Skeleton Coast",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib-Naukluft National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3272,7 +6316,93 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia"
+      },
+      {
+        "name": "Skeleton Coast",
+        "country": "Namibia"
+      },
+      {
+        "name": "Dune 7",
+        "country": "Namibia"
+      },
+      {
+        "name": "Namib-Naukluft National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Palmwag Concession",
+        "country": "Namibia"
+      },
+      {
+        "name": "Grootfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Central Highlands",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Walvis Bay",
+        "country": "Namibia",
+        "lat": -22.935852,
+        "lng": 14.500493
+      },
+      {
+        "name": "Grootfontein",
+        "country": "Namibia",
+        "lat": -19.56442,
+        "lng": 18.104089
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3333,7 +6463,53 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3394,7 +6570,47 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Palmwag Concession",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3460,7 +6676,55 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima Game Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Mudumu National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Mahangu Game Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Bwabwatu National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3546,7 +6810,57 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Onguma",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3612,7 +6926,95 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Ugab Terrace",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Anderson Gate",
+        "country": "Namibia"
+      },
+      {
+        "name": "Halali",
+        "country": "Namibia"
+      },
+      {
+        "name": "Dolomite Camp",
+        "country": "Namibia"
+      },
+      {
+        "name": "Grootfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Tsumeb",
+        "country": "Namibia"
+      },
+      {
+        "name": "Central Highlands",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibia",
+        "lat": -19.628408,
+        "lng": 14.843358
+      },
+      {
+        "name": "Halali",
+        "country": "Namibia",
+        "lat": -19.035634,
+        "lng": 16.471097
+      },
+      {
+        "name": "Grootfontein",
+        "country": "Namibia",
+        "lat": -19.56442,
+        "lng": 18.104089
+      },
+      {
+        "name": "Tsumeb",
+        "country": "Namibia",
+        "lat": -19.24356,
+        "lng": 17.714976
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3683,7 +7085,75 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima",
+        "country": "Namibia"
+      },
+      {
+        "name": "Southern Kalahari",
+        "country": "Namibia"
+      },
+      {
+        "name": "Luderitz",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Dune 7",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Skeleton Coast",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Luderitz",
+        "country": "Namibia",
+        "lat": -26.650009,
+        "lng": 15.157266
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3749,7 +7219,43 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okavango Delta",
+        "country": "null"
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa",
+        "lat": -24.995052,
+        "lng": 31.592167
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3800,7 +7306,43 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima Private Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Ongava Game Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ]
   },
   {
     "destination": "Namibia",
@@ -3876,6 +7418,60 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Okonjima Game Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Ongava Game Reserve",
+        "country": "Namibia"
+      },
+      {
+        "name": "Damaraland",
+        "country": "Namibia"
+      },
+      {
+        "name": "Twyfelfontein",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia",
+        "lat": -22.696565,
+        "lng": 14.539054
+      }
+    ]
   }
 ]

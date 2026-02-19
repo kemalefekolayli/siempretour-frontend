@@ -118,7 +118,97 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Gallipoli",
+        "country": "Turkey"
+      },
+      {
+        "name": "Troy",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pergamum",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kusadasi",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ephesus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sirince",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pamukkale",
+        "country": "Turkey"
+      },
+      {
+        "name": "Fethiye",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antalya",
+        "country": "Turkey"
+      },
+      {
+        "name": "Perge",
+        "country": "Turkey"
+      },
+      {
+        "name": "Aspendos",
+        "country": "Turkey"
+      },
+      {
+        "name": "Konya",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ankara",
+        "country": "Turkey"
+      },
+      {
+        "name": "Van",
+        "country": "Turkey"
+      },
+      {
+        "name": "Akdamar Island",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dogubayazit",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mount Ararat",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kars",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ani",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -219,7 +309,93 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ankara",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Goreme",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kaymakli",
+        "country": "Turkey"
+      },
+      {
+        "name": "Uchisar",
+        "country": "Turkey"
+      },
+      {
+        "name": "Konya",
+        "country": "Turkey"
+      },
+      {
+        "name": "Egiridir Lake",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sagalassos",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kas",
+        "country": "Turkey"
+      },
+      {
+        "name": "Patara",
+        "country": "Turkey"
+      },
+      {
+        "name": "Koycegiz",
+        "country": "Turkey"
+      },
+      {
+        "name": "Aphrodisias",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pamukkale",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ephesus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Birgi",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sardis",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pergamon",
+        "country": "Turkey"
+      },
+      {
+        "name": "Troy",
+        "country": "Turkey"
+      },
+      {
+        "name": "Gallipoli",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -295,7 +471,33 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ephesus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kusadasi",
+        "country": "Turkey"
+      },
+      {
+        "name": "Izmir",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -371,7 +573,73 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ephesus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Izmir",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kusadasi",
+        "country": "Turkey"
+      },
+      {
+        "name": "Didyma",
+        "country": "Turkey"
+      },
+      {
+        "name": "Iasos",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bargylia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Myndos",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cnidus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bodrum",
+        "country": "Turkey"
+      },
+      {
+        "name": "Halicarnassus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Hagia Sophia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bosphorus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Miletus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Priene",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -452,7 +720,25 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dalaman",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -538,7 +824,57 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Adana",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antakya",
+        "country": "Turkey"
+      },
+      {
+        "name": "Gaziantep",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sanliurfa",
+        "country": "Turkey"
+      },
+      {
+        "name": "Harran",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mount Nemrut",
+        "country": "Turkey"
+      },
+      {
+        "name": "Gobekli Tepe",
+        "country": "Turkey"
+      },
+      {
+        "name": "Hasankeyf",
+        "country": "Turkey"
+      },
+      {
+        "name": "Akdamar Island",
+        "country": "Turkey"
+      },
+      {
+        "name": "Van",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -624,7 +960,37 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bursa",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sirince",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kusadasi",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antalya",
+        "country": "Turkey"
+      },
+      {
+        "name": "Gaziantep",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -690,7 +1056,29 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ephesus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kusadasi",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -786,7 +1174,77 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Gallipoli",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dardanelles",
+        "country": "Turkey"
+      },
+      {
+        "name": "Canakkale",
+        "country": "Turkey"
+      },
+      {
+        "name": "Troy",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pergamum",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kusadasi",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ephesus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pamukkale",
+        "country": "Turkey"
+      },
+      {
+        "name": "Hierapolis",
+        "country": "Turkey"
+      },
+      {
+        "name": "Perge",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antalya",
+        "country": "Turkey"
+      },
+      {
+        "name": "Aspendos",
+        "country": "Turkey"
+      },
+      {
+        "name": "Konya",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ankara",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -882,7 +1340,57 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Canakkale",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kusadasi",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pamukkale",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rhodes",
+        "country": "Greece"
+      },
+      {
+        "name": "Athens",
+        "country": "Greece"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rhodes",
+        "country": "Greece",
+        "lat": 36.44352,
+        "lng": 28.227915
+      },
+      {
+        "name": "Athens",
+        "country": "Greece",
+        "lat": 37.97757,
+        "lng": 23.729275
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -973,7 +1481,29 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ephesus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kusadasi",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -1054,7 +1584,65 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ankara",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Konya",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pamukkale",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kusadasi",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ephesus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Canakkale",
+        "country": "Turkey"
+      },
+      {
+        "name": "Avanos",
+        "country": "Turkey"
+      },
+      {
+        "name": "Hierapolis",
+        "country": "Turkey"
+      },
+      {
+        "name": "Aphrodisias",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pergamum",
+        "country": "Turkey"
+      },
+      {
+        "name": "Troy",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -1115,7 +1703,33 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Avanos",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kaymakli Underground City",
+        "country": "Turkey"
+      },
+      {
+        "name": "Soganli Village",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -1181,7 +1795,29 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kusadasi",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ephesus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -1272,7 +1908,105 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Hagia Sophia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bosphorus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Goreme",
+        "country": "Turkey"
+      },
+      {
+        "name": "Red Valley",
+        "country": "Turkey"
+      },
+      {
+        "name": "Izmir",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ephesus",
+        "country": "Turkey"
+      },
+      {
+        "name": "Aphrodisias",
+        "country": "Turkey"
+      },
+      {
+        "name": "Marmaris",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ekincik",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lydea",
+        "country": "Turkey"
+      },
+      {
+        "name": "Gocek Lagoon",
+        "country": "Turkey"
+      },
+      {
+        "name": "Gemiler Island",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kalkan",
+        "country": "Turkey"
+      },
+      {
+        "name": "Xanthos",
+        "country": "Turkey"
+      },
+      {
+        "name": "Patara",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kas",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kekova",
+        "country": "Turkey"
+      },
+      {
+        "name": "Skyrock Bay",
+        "country": "Turkey"
+      },
+      {
+        "name": "Myra",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulupinar",
+        "country": "Turkey"
+      },
+      {
+        "name": "Olympos",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -1353,7 +2087,37 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sapanca",
+        "country": "Turkey"
+      },
+      {
+        "name": "Duzce",
+        "country": "Turkey"
+      },
+      {
+        "name": "Abant",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ankara",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -1429,7 +2193,29 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Antalya",
+        "country": "Turkey"
+      },
+      {
+        "name": "Turquoise Coast",
+        "country": "Turkey"
+      }
+    ]
   },
   {
     "destination": "Turkey",
@@ -1500,6 +2286,28 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cappadocia",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pamukkale",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ephesus",
+        "country": "Turkey"
+      }
+    ]
   }
 ]

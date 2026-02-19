@@ -63,7 +63,77 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Modriki Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Soso Bay",
+        "country": "Fiji"
+      },
+      {
+        "name": "Naukacuva Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Narara Islands",
+        "country": "Fiji"
+      },
+      {
+        "name": "Sacred Islands",
+        "country": "Fiji"
+      },
+      {
+        "name": "Nanuya Lailai",
+        "country": "Fiji"
+      },
+      {
+        "name": "Sawa i Lau Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Tamasua Bay",
+        "country": "Fiji"
+      },
+      {
+        "name": "Yasawa Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Blue Lagoon",
+        "country": "Fiji"
+      },
+      {
+        "name": "Drawaqa Island",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Soso Bay",
+        "country": "Fiji",
+        "lat": -17.127644,
+        "lng": 177.223336
+      },
+      {
+        "name": "Tamasua Bay",
+        "country": "Fiji",
+        "lat": -18.110378,
+        "lng": 178.441249
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -149,7 +219,43 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      },
+      {
+        "name": "Mamanuca Islands",
+        "country": "Fiji"
+      },
+      {
+        "name": "Taveuni",
+        "country": "Fiji"
+      },
+      {
+        "name": "Viti Levu",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -210,7 +316,41 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Fiji",
+        "country": "Fiji"
+      },
+      {
+        "name": "Taveuni Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Vuna Reef",
+        "country": "Fiji"
+      },
+      {
+        "name": "Rainbow Reef",
+        "country": "Fiji"
+      },
+      {
+        "name": "Levu",
+        "country": "Fiji"
+      },
+      {
+        "name": "Dolphin Bay",
+        "country": "Fiji"
+      },
+      {
+        "name": "Bouma National Park",
+        "country": "Fiji"
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -316,7 +456,105 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lautoka",
+        "country": "Fiji"
+      },
+      {
+        "name": "Ambrym Island",
+        "country": "Vanuatu"
+      },
+      {
+        "name": "Santa Ana Island",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Roderick Bay",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Njari Island",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Bougainville",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Rabaul",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Chuuk",
+        "country": "Micronesia"
+      },
+      {
+        "name": "Pulap Island",
+        "country": "Micronesia"
+      },
+      {
+        "name": "Lamotrek Atoll",
+        "country": "Micronesia"
+      },
+      {
+        "name": "Ifalik Atoll",
+        "country": "Micronesia"
+      },
+      {
+        "name": "Guam",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lautoka",
+        "country": "Fiji",
+        "lat": -17.598539,
+        "lng": 177.465672
+      },
+      {
+        "name": "Ambrym Island",
+        "country": "Vanuatu",
+        "lat": -17.687331,
+        "lng": 168.304937
+      },
+      {
+        "name": "Bougainville",
+        "country": "Papua New Guinea",
+        "lat": -5.432418,
+        "lng": 154.670184
+      },
+      {
+        "name": "Rabaul",
+        "country": "Papua New Guinea",
+        "lat": -4.213787,
+        "lng": 152.17622
+      },
+      {
+        "name": "Chuuk",
+        "country": "Micronesia",
+        "lat": 7.442526,
+        "lng": 151.858495
+      },
+      {
+        "name": "Guam",
+        "country": "United States",
+        "lat": 36.902172,
+        "lng": -89.82569
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -467,7 +705,167 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      },
+      {
+        "name": "Wallis & Futuna",
+        "country": null
+      },
+      {
+        "name": "Noumea",
+        "country": "New Caledonia"
+      },
+      {
+        "name": "Port Vila",
+        "country": "Vanuatu"
+      },
+      {
+        "name": "Tanna Island",
+        "country": "Vanuatu"
+      },
+      {
+        "name": "Blue Cave",
+        "country": null
+      },
+      {
+        "name": "Honiara",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Guadalcanal Island",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Kosrae",
+        "country": "Micronesia"
+      },
+      {
+        "name": "North Tarawa",
+        "country": "Kiribati"
+      },
+      {
+        "name": "South Tarawa",
+        "country": "Kiribati"
+      },
+      {
+        "name": "Upolu",
+        "country": "Samoa"
+      },
+      {
+        "name": "Apia",
+        "country": "Samoa"
+      },
+      {
+        "name": "Savaii",
+        "country": "Samoa"
+      },
+      {
+        "name": "Port Vila",
+        "country": "Vanuatu"
+      },
+      {
+        "name": "Honiara",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Mount Hagen",
+        "country": "Papua New Guinea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      },
+      {
+        "name": "Noumea",
+        "country": "New Caledonia",
+        "lat": -22.275595,
+        "lng": 166.439931
+      },
+      {
+        "name": "Port Vila",
+        "country": "Vanuatu",
+        "lat": -17.731392,
+        "lng": 168.306222
+      },
+      {
+        "name": "Tanna Island",
+        "country": "Vanuatu",
+        "lat": -17.687331,
+        "lng": 168.304937
+      },
+      {
+        "name": "Honiara",
+        "country": "Solomon Islands",
+        "lat": -9.431077,
+        "lng": 159.955255
+      },
+      {
+        "name": "Guadalcanal Island",
+        "country": "Solomon Islands",
+        "lat": -9.576086,
+        "lng": 160.194203
+      },
+      {
+        "name": "Kosrae",
+        "country": "Micronesia",
+        "lat": 5.326022,
+        "lng": 163.008719
+      },
+      {
+        "name": "North Tarawa",
+        "country": "Kiribati",
+        "lat": 1.360374,
+        "lng": 173.155174
+      },
+      {
+        "name": "South Tarawa",
+        "country": "Kiribati",
+        "lat": 1.360374,
+        "lng": 173.155174
+      },
+      {
+        "name": "Apia",
+        "country": "Samoa",
+        "lat": -13.836945,
+        "lng": -171.802879
+      },
+      {
+        "name": "Port Vila",
+        "country": "Vanuatu",
+        "lat": -17.731392,
+        "lng": 168.306222
+      },
+      {
+        "name": "Honiara",
+        "country": "Solomon Islands",
+        "lat": -9.431077,
+        "lng": 159.955255
+      },
+      {
+        "name": "Mount Hagen",
+        "country": "Papua New Guinea",
+        "lat": -5.855876,
+        "lng": 144.229508
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -558,7 +956,47 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      },
+      {
+        "name": "Denarau Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Mamanuca Islands",
+        "country": "Fiji"
+      },
+      {
+        "name": "Yasawa Islands",
+        "country": "Fiji"
+      },
+      {
+        "name": "Taveuni",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -629,7 +1067,43 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      },
+      {
+        "name": "Mamanuca Islands",
+        "country": "Fiji"
+      },
+      {
+        "name": "Yasawa Islands",
+        "country": "Fiji"
+      },
+      {
+        "name": "Taveuni",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -725,7 +1199,115 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sonaisali Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Tivua Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Auckland",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Rotorua",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Wellington",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Sydney",
+        "country": "Australia"
+      },
+      {
+        "name": "Cairns",
+        "country": "Australia"
+      },
+      {
+        "name": "Great Barrier Reef",
+        "country": "Australia"
+      },
+      {
+        "name": "Australian Outback",
+        "country": "Australia"
+      },
+      {
+        "name": "Blue Mountains",
+        "country": "Australia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tivua Island",
+        "country": "Fiji",
+        "lat": -17.296085,
+        "lng": 179.362955
+      },
+      {
+        "name": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.846996,
+        "lng": 174.76591
+      },
+      {
+        "name": "Rotorua",
+        "country": "New Zealand",
+        "lat": -38.136875,
+        "lng": 176.2534
+      },
+      {
+        "name": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.28559,
+        "lng": 174.77672
+      },
+      {
+        "name": "Sydney",
+        "country": "Australia",
+        "lat": -33.86873,
+        "lng": 151.20695
+      },
+      {
+        "name": "Cairns",
+        "country": "Australia",
+        "lat": -16.92133,
+        "lng": 145.77678
+      },
+      {
+        "name": "Great Barrier Reef",
+        "country": "Australia",
+        "lat": -34.873413,
+        "lng": 150.45938
+      },
+      {
+        "name": "Australian Outback",
+        "country": "Australia",
+        "lat": -35.525673,
+        "lng": 148.965548
+      },
+      {
+        "name": "Blue Mountains",
+        "country": "Australia",
+        "lat": -33.714375,
+        "lng": 150.31123
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -821,7 +1403,63 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      },
+      {
+        "name": "Kula Eco Park",
+        "country": "Fiji"
+      },
+      {
+        "name": "Suva",
+        "country": "Fiji"
+      },
+      {
+        "name": "Taveuni",
+        "country": "Fiji"
+      },
+      {
+        "name": "Savusavu",
+        "country": "Fiji"
+      },
+      {
+        "name": "Coral Coast",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      },
+      {
+        "name": "Suva",
+        "country": "Fiji",
+        "lat": -18.135982,
+        "lng": 178.442814
+      },
+      {
+        "name": "Savusavu",
+        "country": "Fiji",
+        "lat": -16.780218,
+        "lng": 179.332896
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -887,7 +1525,73 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Viti Levu",
+        "country": "Fiji"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      },
+      {
+        "name": "Sigatoka",
+        "country": "Fiji"
+      },
+      {
+        "name": "Navala",
+        "country": "Fiji"
+      },
+      {
+        "name": "Beqa Lagoon",
+        "country": "Fiji"
+      },
+      {
+        "name": "Lautoka",
+        "country": "Fiji"
+      },
+      {
+        "name": "Mamanuca Islands",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      },
+      {
+        "name": "Sigatoka",
+        "country": "Fiji",
+        "lat": -18.155639,
+        "lng": 177.512364
+      },
+      {
+        "name": "Navala",
+        "country": "Fiji",
+        "lat": -17.659446,
+        "lng": 177.812799
+      },
+      {
+        "name": "Lautoka",
+        "country": "Fiji",
+        "lat": -17.598539,
+        "lng": 177.465672
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -953,7 +1657,63 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Vanua Levu",
+        "country": "Fiji"
+      },
+      {
+        "name": "Savusavu",
+        "country": "Fiji"
+      },
+      {
+        "name": "Namena Marine Reserve",
+        "country": "Fiji"
+      },
+      {
+        "name": "Namenalala",
+        "country": "Fiji"
+      },
+      {
+        "name": "Kioa",
+        "country": "Fiji"
+      },
+      {
+        "name": "Naag Mandir Temple",
+        "country": "Fiji"
+      },
+      {
+        "name": "Des Voeux Peak",
+        "country": "Fiji"
+      },
+      {
+        "name": "Lake Tagimaucia",
+        "country": "Fiji"
+      },
+      {
+        "name": "Koro Bay",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Savusavu",
+        "country": "Fiji",
+        "lat": -16.780218,
+        "lng": 179.332896
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -1019,7 +1779,59 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Viti Levu",
+        "country": "Fiji"
+      },
+      {
+        "name": "Nadi Town",
+        "country": "Fiji"
+      },
+      {
+        "name": "Pacific Harbour",
+        "country": "Fiji"
+      },
+      {
+        "name": "Suva",
+        "country": "Fiji"
+      },
+      {
+        "name": "Rakiraki",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi Town",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      },
+      {
+        "name": "Suva",
+        "country": "Fiji",
+        "lat": -18.135982,
+        "lng": 178.442814
+      },
+      {
+        "name": "Rakiraki",
+        "country": "Fiji",
+        "lat": -17.386518,
+        "lng": 178.156723
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -1100,7 +1912,43 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      },
+      {
+        "name": "Denarau Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Mamanuca Islands",
+        "country": "Fiji"
+      },
+      {
+        "name": "Yasawa Islands",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -1166,7 +2014,45 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      },
+      {
+        "name": "Sigatoka",
+        "country": "Fiji"
+      },
+      {
+        "name": "Tokoriki Island",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      },
+      {
+        "name": "Sigatoka",
+        "country": "Fiji",
+        "lat": -18.155639,
+        "lng": 177.512364
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -1252,7 +2138,53 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Viti Levu",
+        "country": "Fiji"
+      },
+      {
+        "name": "Davui Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Mamanuca Islands",
+        "country": "Fiji"
+      },
+      {
+        "name": "Sydney",
+        "country": "Australia"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sydney",
+        "country": "Australia",
+        "lat": -33.86873,
+        "lng": 151.20695
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -1318,7 +2250,57 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      },
+      {
+        "name": "Savusavu",
+        "country": "Fiji"
+      },
+      {
+        "name": "Rabi Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Cobia",
+        "country": "Fiji"
+      },
+      {
+        "name": "Taveuni Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Qamea Island",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      },
+      {
+        "name": "Savusavu",
+        "country": "Fiji",
+        "lat": -16.780218,
+        "lng": 179.332896
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -1399,7 +2381,69 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Malolo Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Mamanuca Islands",
+        "country": "Fiji"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      },
+      {
+        "name": "Waiheke Island",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Auckland",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Queenstown",
+        "country": "New Zealand"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      },
+      {
+        "name": "Waiheke Island",
+        "country": "New Zealand",
+        "lat": -36.781643,
+        "lng": 175.00844
+      },
+      {
+        "name": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.846996,
+        "lng": 174.76591
+      },
+      {
+        "name": "Queenstown",
+        "country": "New Zealand",
+        "lat": -45.032063,
+        "lng": 168.66133
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -1495,7 +2539,73 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      },
+      {
+        "name": "Coral Coast",
+        "country": "Fiji"
+      },
+      {
+        "name": "Suva",
+        "country": "Fiji"
+      },
+      {
+        "name": "Levuka",
+        "country": "Fiji"
+      },
+      {
+        "name": "Taveuni",
+        "country": "Fiji"
+      },
+      {
+        "name": "Savusavu",
+        "country": "Fiji"
+      },
+      {
+        "name": "Mamanucas Islands",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      },
+      {
+        "name": "Suva",
+        "country": "Fiji",
+        "lat": -18.135982,
+        "lng": 178.442814
+      },
+      {
+        "name": "Levuka",
+        "country": "Fiji",
+        "lat": -18.062402,
+        "lng": 179.30786
+      },
+      {
+        "name": "Savusavu",
+        "country": "Fiji",
+        "lat": -16.780218,
+        "lng": 179.332896
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -1581,7 +2691,89 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Matangi Island",
+        "country": "Fiji"
+      },
+      {
+        "name": "Viti Levu",
+        "country": "Fiji"
+      },
+      {
+        "name": "Christchurch",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Greymouth",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Franz Josef Glacier",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Queenstown",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Otago Wine Region",
+        "country": "New Zealand"
+      },
+      {
+        "name": "Milford Sound",
+        "country": "New Zealand"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Christchurch",
+        "country": "New Zealand",
+        "lat": -43.533516,
+        "lng": 172.63503
+      },
+      {
+        "name": "Greymouth",
+        "country": "New Zealand",
+        "lat": -42.44795,
+        "lng": 171.20966
+      },
+      {
+        "name": "Franz Josef Glacier",
+        "country": "New Zealand",
+        "lat": -43.38727,
+        "lng": 170.18184
+      },
+      {
+        "name": "Queenstown",
+        "country": "New Zealand",
+        "lat": -45.032063,
+        "lng": 168.66133
+      },
+      {
+        "name": "Otago Wine Region",
+        "country": "New Zealand",
+        "lat": -45.874098,
+        "lng": 170.503576
+      },
+      {
+        "name": "Milford Sound",
+        "country": "New Zealand",
+        "lat": -44.669468,
+        "lng": 167.92795
+      }
+    ]
   },
   {
     "destination": "Fiji",
@@ -1647,6 +2839,42 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Viti Levu",
+        "country": "Fiji"
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji"
+      },
+      {
+        "name": "Yasawa Islands",
+        "country": "Fiji"
+      },
+      {
+        "name": "Mamanuca Islands",
+        "country": "Fiji"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nadi",
+        "country": "Fiji",
+        "lat": -17.773534,
+        "lng": 177.412786
+      }
+    ]
   }
 ]

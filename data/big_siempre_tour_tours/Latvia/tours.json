@@ -83,7 +83,157 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tallinn",
+        "country": "Estonia"
+      },
+      {
+        "name": "Lahemaa National Park",
+        "country": "Estonia"
+      },
+      {
+        "name": "Tartu",
+        "country": "Estonia"
+      },
+      {
+        "name": "Cesis",
+        "country": "Latvia"
+      },
+      {
+        "name": "Gauja National Park",
+        "country": "Latvia"
+      },
+      {
+        "name": "Riga",
+        "country": "Latvia"
+      },
+      {
+        "name": "Jurmala",
+        "country": "Latvia"
+      },
+      {
+        "name": "Rundale Palace",
+        "country": "Latvia"
+      },
+      {
+        "name": "Hill of Crosses",
+        "country": "Lithuania"
+      },
+      {
+        "name": "Klaipeda",
+        "country": "Lithuania"
+      },
+      {
+        "name": "Curonian Spit",
+        "country": "Lithuania"
+      },
+      {
+        "name": "Nida Great Dune",
+        "country": "Lithuania"
+      },
+      {
+        "name": "Plokstine Cold War Museum",
+        "country": "Lithuania"
+      },
+      {
+        "name": "Kaunas",
+        "country": "Lithuania"
+      },
+      {
+        "name": "Trakai",
+        "country": "Lithuania"
+      },
+      {
+        "name": "Vilnius",
+        "country": "Lithuania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tallinn",
+        "country": "Estonia",
+        "lat": 59.436745,
+        "lng": 24.746462
+      },
+      {
+        "name": "Lahemaa National Park",
+        "country": "Estonia",
+        "lat": 58.449528,
+        "lng": 27.074558
+      },
+      {
+        "name": "Tartu",
+        "country": "Estonia",
+        "lat": 58.379997,
+        "lng": 26.722664
+      },
+      {
+        "name": "Cesis",
+        "country": "Latvia",
+        "lat": 57.312626,
+        "lng": 25.27427
+      },
+      {
+        "name": "Riga",
+        "country": "Latvia",
+        "lat": 56.949398,
+        "lng": 24.105185
+      },
+      {
+        "name": "Jurmala",
+        "country": "Latvia",
+        "lat": 56.972716,
+        "lng": 23.788698
+      },
+      {
+        "name": "Rundale Palace",
+        "country": "Latvia",
+        "lat": 56.419937,
+        "lng": 24.0098
+      },
+      {
+        "name": "Klaipeda",
+        "country": "Lithuania",
+        "lat": 55.73688,
+        "lng": 21.192858
+      },
+      {
+        "name": "Nida Great Dune",
+        "country": "Lithuania",
+        "lat": 55.303606,
+        "lng": 21.003847
+      },
+      {
+        "name": "Kaunas",
+        "country": "Lithuania",
+        "lat": 54.898214,
+        "lng": 23.904482
+      },
+      {
+        "name": "Trakai",
+        "country": "Lithuania",
+        "lat": 54.642105,
+        "lng": 24.932621
+      },
+      {
+        "name": "Vilnius",
+        "country": "Lithuania",
+        "lat": 54.687046,
+        "lng": 25.282911
+      }
+    ]
   },
   {
     "destination": "Latvia",
@@ -179,6 +329,144 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Helsinki",
+        "country": "Finland"
+      },
+      {
+        "name": "Tallinn",
+        "country": "Estonia"
+      },
+      {
+        "name": "Lahemaa National Park",
+        "country": "Estonia"
+      },
+      {
+        "name": "Parnu",
+        "country": "Estonia"
+      },
+      {
+        "name": "Sigulda",
+        "country": "Latvia"
+      },
+      {
+        "name": "Riga",
+        "country": "Latvia"
+      },
+      {
+        "name": "Gauja National Park",
+        "country": "Latvia"
+      },
+      {
+        "name": "Jurmala",
+        "country": "Latvia"
+      },
+      {
+        "name": "Klaipeda",
+        "country": "Lithuania"
+      },
+      {
+        "name": "Nida Curonian Spit",
+        "country": "Lithuania"
+      },
+      {
+        "name": "Palanga",
+        "country": "Lithuania"
+      },
+      {
+        "name": "Vilnius",
+        "country": "Lithuania"
+      },
+      {
+        "name": "Trakai Castle",
+        "country": "Lithuania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Helsinki",
+        "country": "Finland",
+        "lat": 60.167507,
+        "lng": 24.941822
+      },
+      {
+        "name": "Tallinn",
+        "country": "Estonia",
+        "lat": 59.436745,
+        "lng": 24.746462
+      },
+      {
+        "name": "Lahemaa National Park",
+        "country": "Estonia",
+        "lat": 58.449528,
+        "lng": 27.074558
+      },
+      {
+        "name": "Parnu",
+        "country": "Estonia",
+        "lat": 58.384663,
+        "lng": 24.501303
+      },
+      {
+        "name": "Sigulda",
+        "country": "Latvia",
+        "lat": 57.153194,
+        "lng": 24.85084
+      },
+      {
+        "name": "Riga",
+        "country": "Latvia",
+        "lat": 56.949398,
+        "lng": 24.105185
+      },
+      {
+        "name": "Jurmala",
+        "country": "Latvia",
+        "lat": 56.972716,
+        "lng": 23.788698
+      },
+      {
+        "name": "Klaipeda",
+        "country": "Lithuania",
+        "lat": 55.73688,
+        "lng": 21.192858
+      },
+      {
+        "name": "Nida Curonian Spit",
+        "country": "Lithuania",
+        "lat": 55.303606,
+        "lng": 21.003847
+      },
+      {
+        "name": "Palanga",
+        "country": "Lithuania",
+        "lat": 55.922982,
+        "lng": 21.068266
+      },
+      {
+        "name": "Vilnius",
+        "country": "Lithuania",
+        "lat": 54.687046,
+        "lng": 25.282911
+      },
+      {
+        "name": "Trakai Castle",
+        "country": "Lithuania",
+        "lat": 54.642105,
+        "lng": 24.932621
+      }
+    ]
   }
 ]

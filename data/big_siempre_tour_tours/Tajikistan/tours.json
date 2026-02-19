@@ -98,6 +98,148 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Konye-Urgench",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Mary",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Merv",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Gijduvan",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Termez",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Lake Iskander Kul",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Istravshan",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Khudjand",
+        "country": "Tajikistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan",
+        "lat": 37.940465,
+        "lng": 58.382349
+      },
+      {
+        "name": "Mary",
+        "country": "Turkmenistan",
+        "lat": 37.593174,
+        "lng": 61.841187
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Gijduvan",
+        "country": "Uzbekistan",
+        "lat": 40.66768,
+        "lng": 64.48598
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Termez",
+        "country": "Uzbekistan",
+        "lat": 37.247517,
+        "lng": 67.28265
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan",
+        "lat": 38.576271,
+        "lng": 68.786357
+      },
+      {
+        "name": "Lake Iskander Kul",
+        "country": "Tajikistan",
+        "lat": 37.968349,
+        "lng": 69.986547
+      },
+      {
+        "name": "Istravshan",
+        "country": "Tajikistan",
+        "lat": 39.908015,
+        "lng": 68.995635
+      },
+      {
+        "name": "Khudjand",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      }
+    ]
   }
 ]

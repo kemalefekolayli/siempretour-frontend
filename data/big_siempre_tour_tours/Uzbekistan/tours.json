@@ -108,7 +108,155 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Issyk-Kul Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kyzyl Tuu",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Song-Kol Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kyzyl-Oi",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Toktogul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Margilan",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Rishton",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kokand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khujand",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Panjakent",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Issyk-Kul Lake",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Kyzyl Tuu",
+        "country": "Kyrgyzstan",
+        "lat": 42.184306,
+        "lng": 76.673316
+      },
+      {
+        "name": "Kyzyl-Oi",
+        "country": "Kyrgyzstan",
+        "lat": 41.950474,
+        "lng": 74.164234
+      },
+      {
+        "name": "Toktogul",
+        "country": "Kyrgyzstan",
+        "lat": 40.825075,
+        "lng": 73.400659
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan",
+        "lat": 40.53619,
+        "lng": 72.803362
+      },
+      {
+        "name": "Margilan",
+        "country": "Uzbekistan",
+        "lat": 40.4776,
+        "lng": 71.72356
+      },
+      {
+        "name": "Rishton",
+        "country": "Uzbekistan",
+        "lat": 40.35961,
+        "lng": 71.27925
+      },
+      {
+        "name": "Kokand",
+        "country": "Uzbekistan",
+        "lat": 40.539074,
+        "lng": 70.95155
+      },
+      {
+        "name": "Khujand",
+        "country": "Tajikistan",
+        "lat": 40.285713,
+        "lng": 69.619375
+      },
+      {
+        "name": "Panjakent",
+        "country": "Tajikistan",
+        "lat": 39.496169,
+        "lng": 67.614146
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -189,7 +337,83 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Urgench",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Aydarkul",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Majrum village",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Ukhum village",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Urgench",
+        "country": "Uzbekistan",
+        "lat": 41.558277,
+        "lng": 60.621258
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -260,7 +484,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Gijduvan",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nuratau Mountains",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Gijduvan",
+        "country": "Uzbekistan",
+        "lat": 40.66768,
+        "lng": 64.48598
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan",
+        "lat": 40.560116,
+        "lng": 65.68777
+      },
+      {
+        "name": "Nuratau Mountains",
+        "country": "Uzbekistan",
+        "lat": 40.560116,
+        "lng": 65.68777
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -361,7 +669,89 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Chimgan Mountains",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Urgench",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Ayaz Kala",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Shakhrisabz",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Urgench",
+        "country": "Uzbekistan",
+        "lat": 41.558277,
+        "lng": 60.621258
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Shakhrisabz",
+        "country": "Uzbekistan",
+        "lat": 39.0539,
+        "lng": 66.82753
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -452,7 +842,111 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Ustyurt Plateau",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Sudoshye Lake",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Aral Lake",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Muynak",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Mizdakhan",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Gaur Kala",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Shakhrisabz",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan",
+        "lat": 42.46143,
+        "lng": 59.616844
+      },
+      {
+        "name": "Muynak",
+        "country": "Uzbekistan",
+        "lat": 43.765003,
+        "lng": 59.03123
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Shakhrisabz",
+        "country": "Uzbekistan",
+        "lat": 39.0539,
+        "lng": 66.82753
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -528,7 +1022,79 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Gijduvan",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Aydarkul Lake",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Uhum",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Gijduvan",
+        "country": "Uzbekistan",
+        "lat": 40.66768,
+        "lng": 64.48598
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan",
+        "lat": 40.560116,
+        "lng": 65.68777
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -624,7 +1190,153 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kokand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Rishtan",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Fergana",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Margilan",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Muynak",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Ayaz Kala",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Toprak Kala",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Aydarkul Lake",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Shakhrisabz",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Kokand",
+        "country": "Uzbekistan",
+        "lat": 40.539074,
+        "lng": 70.95155
+      },
+      {
+        "name": "Rishtan",
+        "country": "Uzbekistan",
+        "lat": 40.35961,
+        "lng": 71.27925
+      },
+      {
+        "name": "Fergana",
+        "country": "Uzbekistan",
+        "lat": 40.386223,
+        "lng": 71.786835
+      },
+      {
+        "name": "Margilan",
+        "country": "Uzbekistan",
+        "lat": 40.4776,
+        "lng": 71.72356
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan",
+        "lat": 42.46143,
+        "lng": 59.616844
+      },
+      {
+        "name": "Muynak",
+        "country": "Uzbekistan",
+        "lat": 43.765003,
+        "lng": 59.03123
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan",
+        "lat": 40.560116,
+        "lng": 65.68777
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Shakhrisabz",
+        "country": "Uzbekistan",
+        "lat": 39.0539,
+        "lng": 66.82753
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -725,7 +1437,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Muynak",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khujand",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Rishton",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Fergana",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Margilan",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kokand",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan",
+        "lat": 42.46143,
+        "lng": 59.616844
+      },
+      {
+        "name": "Muynak",
+        "country": "Uzbekistan",
+        "lat": 43.765003,
+        "lng": 59.03123
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Khujand",
+        "country": "Tajikistan",
+        "lat": 40.285713,
+        "lng": 69.619375
+      },
+      {
+        "name": "Rishton",
+        "country": "Uzbekistan",
+        "lat": 40.35961,
+        "lng": 71.27925
+      },
+      {
+        "name": "Fergana",
+        "country": "Uzbekistan",
+        "lat": 40.386223,
+        "lng": 71.786835
+      },
+      {
+        "name": "Margilan",
+        "country": "Uzbekistan",
+        "lat": 40.4776,
+        "lng": 71.72356
+      },
+      {
+        "name": "Kokand",
+        "country": "Uzbekistan",
+        "lat": 40.539074,
+        "lng": 70.95155
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -806,7 +1642,69 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kyzyl-Kum Desert",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Aydarkul",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -912,7 +1810,101 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Beldersay",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Aydarkul Lake",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Sentob",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Hayat",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Uhum",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Ashraf",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan",
+        "lat": 40.560116,
+        "lng": 65.68777
+      },
+      {
+        "name": "Hayat",
+        "country": "Uzbekistan",
+        "lat": 39.002527,
+        "lng": 67.267357
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -983,7 +1975,85 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Gijduvan",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Aydarkul Lake",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Gijduvan",
+        "country": "Uzbekistan",
+        "lat": 40.66768,
+        "lng": 64.48598
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan",
+        "lat": 40.560116,
+        "lng": 65.68777
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -1089,7 +2159,129 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Karshi",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Termez",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Fayaz Tepe",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Baysun",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Shakhrisabz",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kyzlkum Desert",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Karshi",
+        "country": "Uzbekistan",
+        "lat": 38.853874,
+        "lng": 65.7962
+      },
+      {
+        "name": "Termez",
+        "country": "Uzbekistan",
+        "lat": 37.247517,
+        "lng": 67.28265
+      },
+      {
+        "name": "Baysun",
+        "country": "Uzbekistan",
+        "lat": 38.20811,
+        "lng": 67.20689
+      },
+      {
+        "name": "Shakhrisabz",
+        "country": "Uzbekistan",
+        "lat": 39.0539,
+        "lng": 66.82753
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan",
+        "lat": 40.560116,
+        "lng": 65.68777
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan",
+        "lat": 42.46143,
+        "lng": 59.616844
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -1170,7 +2362,95 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kyzylkum Desert",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Yangikishlak",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nuratau Mountains",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan",
+        "lat": 42.46143,
+        "lng": 59.616844
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Yangikishlak",
+        "country": "Uzbekistan",
+        "lat": 40.343876,
+        "lng": 70.712051
+      },
+      {
+        "name": "Nuratau Mountains",
+        "country": "Uzbekistan",
+        "lat": 40.560116,
+        "lng": 65.68777
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -1251,7 +2531,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Urgench",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Yangikishlak",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Urgench",
+        "country": "Uzbekistan",
+        "lat": 41.558277,
+        "lng": 60.621258
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan",
+        "lat": 40.560116,
+        "lng": 65.68777
+      },
+      {
+        "name": "Yangikishlak",
+        "country": "Uzbekistan",
+        "lat": 40.343876,
+        "lng": 70.712051
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -1332,7 +2696,105 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kizil Kum Desert",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kokand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Margilan",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan",
+        "lat": 42.46143,
+        "lng": 59.616844
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Nurata",
+        "country": "Uzbekistan",
+        "lat": 40.560116,
+        "lng": 65.68777
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Kokand",
+        "country": "Uzbekistan",
+        "lat": 40.539074,
+        "lng": 70.95155
+      },
+      {
+        "name": "Margilan",
+        "country": "Uzbekistan",
+        "lat": 40.4776,
+        "lng": 71.72356
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -1408,7 +2870,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -1509,7 +3025,119 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nurata Mountains",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kyzylkum Desert",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Aydarkul",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kungrad",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Moynaq",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Ugam-Chatkal National Park",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Nurata Mountains",
+        "country": "Uzbekistan",
+        "lat": 40.560116,
+        "lng": 65.68777
+      },
+      {
+        "name": "Kungrad",
+        "country": "Uzbekistan",
+        "lat": 40.295532,
+        "lng": 65.885566
+      },
+      {
+        "name": "Moynaq",
+        "country": "Uzbekistan",
+        "lat": 43.765003,
+        "lng": 59.03123
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan",
+        "lat": 42.46143,
+        "lng": 59.616844
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Ugam-Chatkal National Park",
+        "country": "Uzbekistan",
+        "lat": 40.231106,
+        "lng": 67.282854
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -1575,7 +3203,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -1656,7 +3338,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Urgench",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bokhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Yangikasgan desert camp",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Urgench",
+        "country": "Uzbekistan",
+        "lat": 41.558277,
+        "lng": 60.621258
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bokhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -1717,7 +3467,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kyzyl Kum desert",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Shakhrisabz",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Shakhrisabz",
+        "country": "Uzbekistan",
+        "lat": 39.0539,
+        "lng": 66.82753
+      }
+    ]
   },
   {
     "destination": "Uzbekistan",
@@ -1793,6 +3611,70 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan",
+        "lat": 42.46143,
+        "lng": 59.616844
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   }
 ]

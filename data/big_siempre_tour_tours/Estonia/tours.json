@@ -58,7 +58,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tallinn",
+        "country": "Estonia"
+      },
+      {
+        "name": "Haapsalu",
+        "country": "Estonia"
+      },
+      {
+        "name": "Matsalu National Park",
+        "country": "Estonia"
+      },
+      {
+        "name": "Kõveri",
+        "country": "Estonia"
+      },
+      {
+        "name": "Alutaguse",
+        "country": "Estonia"
+      },
+      {
+        "name": "Lahemaa National Park",
+        "country": "Estonia"
+      },
+      {
+        "name": "Tallinn",
+        "country": "Estonia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tallinn",
+        "country": "Estonia",
+        "lat": 59.436745,
+        "lng": 24.746462
+      },
+      {
+        "name": "Haapsalu",
+        "country": "Estonia",
+        "lat": 58.93931,
+        "lng": 23.54131
+      },
+      {
+        "name": "Matsalu National Park",
+        "country": "Estonia",
+        "lat": 58.737434,
+        "lng": 23.687971
+      },
+      {
+        "name": "Kõveri",
+        "country": "Estonia",
+        "lat": 58.160954,
+        "lng": 24.73061
+      },
+      {
+        "name": "Alutaguse",
+        "country": "Estonia",
+        "lat": 59.04988,
+        "lng": 26.567688
+      },
+      {
+        "name": "Lahemaa National Park",
+        "country": "Estonia",
+        "lat": 58.449528,
+        "lng": 27.074558
+      },
+      {
+        "name": "Tallinn",
+        "country": "Estonia",
+        "lat": 59.436745,
+        "lng": 24.746462
+      }
+    ]
   },
   {
     "destination": "Estonia",
@@ -109,6 +193,50 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tallinn",
+        "country": "Estonia"
+      },
+      {
+        "name": "Lahemaa National Park",
+        "country": "Estonia"
+      },
+      {
+        "name": "Lake Peipsi",
+        "country": "Estonia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tallinn",
+        "country": "Estonia",
+        "lat": 59.436745,
+        "lng": 24.746462
+      },
+      {
+        "name": "Lahemaa National Park",
+        "country": "Estonia",
+        "lat": 58.449528,
+        "lng": 27.074558
+      },
+      {
+        "name": "Lake Peipsi",
+        "country": "Estonia",
+        "lat": 58.298714,
+        "lng": 26.764372
+      }
+    ]
   }
 ]

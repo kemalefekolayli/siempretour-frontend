@@ -43,7 +43,85 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Saint Anna Archipelago",
+        "country": "Sweden"
+      },
+      {
+        "name": "Aspöja",
+        "country": "Sweden"
+      },
+      {
+        "name": "Uggelholmarna Nature Reserve",
+        "country": "Sweden"
+      },
+      {
+        "name": "Lammskär",
+        "country": "Sweden"
+      },
+      {
+        "name": "Kalvskär",
+        "country": "Sweden"
+      },
+      {
+        "name": "Äspskär",
+        "country": "Sweden"
+      },
+      {
+        "name": "Norrbådarna",
+        "country": "Sweden"
+      },
+      {
+        "name": "Ådskär",
+        "country": "Sweden"
+      },
+      {
+        "name": "Kupa Klint",
+        "country": "Sweden"
+      },
+      {
+        "name": "Missjö",
+        "country": "Sweden"
+      },
+      {
+        "name": "Harstena",
+        "country": "Sweden"
+      },
+      {
+        "name": "Torrön",
+        "country": "Sweden"
+      },
+      {
+        "name": "Tyrislöt",
+        "country": "Sweden"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Saint Anna Archipelago",
+        "country": "Sweden",
+        "lat": 58.34454,
+        "lng": 16.703955
+      },
+      {
+        "name": "Tyrislöt",
+        "country": "Sweden",
+        "lat": 58.325246,
+        "lng": 16.895625
+      }
+    ]
   },
   {
     "destination": "Sweden",
@@ -94,7 +172,63 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Navar",
+        "country": "Sweden"
+      },
+      {
+        "name": "Dalarna",
+        "country": "Sweden"
+      },
+      {
+        "name": "Rännkölen",
+        "country": "Sweden"
+      },
+      {
+        "name": "Anjosvarden Nature Reserve",
+        "country": "Sweden"
+      },
+      {
+        "name": "Fulufjället National Park",
+        "country": "Sweden"
+      },
+      {
+        "name": "Mora",
+        "country": "Sweden"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Navar",
+        "country": "Sweden",
+        "lat": 63.90065,
+        "lng": 20.550846
+      },
+      {
+        "name": "Dalarna",
+        "country": "Sweden",
+        "lat": 60.607007,
+        "lng": 15.632306
+      },
+      {
+        "name": "Mora",
+        "country": "Sweden",
+        "lat": 61.005283,
+        "lng": 14.538816
+      }
+    ]
   },
   {
     "destination": "Sweden",
@@ -160,7 +294,35 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Stockholm",
+        "country": "Sweden"
+      },
+      {
+        "name": "Lapland",
+        "country": "Sweden"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.324337,
+        "lng": 18.06902
+      }
+    ]
   },
   {
     "destination": "Sweden",
@@ -226,6 +388,58 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Stockholm",
+        "country": "Sweden"
+      },
+      {
+        "name": "Slussfors",
+        "country": "Sweden"
+      },
+      {
+        "name": "Swedish Lapland",
+        "country": "Sweden"
+      },
+      {
+        "name": "Vindelfjallens Nature Reserve",
+        "country": "Sweden"
+      },
+      {
+        "name": "Vilhelmina",
+        "country": "Sweden"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.324337,
+        "lng": 18.06902
+      },
+      {
+        "name": "Slussfors",
+        "country": "Sweden",
+        "lat": 65.43101,
+        "lng": 16.239866
+      },
+      {
+        "name": "Vilhelmina",
+        "country": "Sweden",
+        "lat": 64.625175,
+        "lng": 16.654099
+      }
+    ]
   }
 ]

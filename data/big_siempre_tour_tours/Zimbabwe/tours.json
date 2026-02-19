@@ -43,7 +43,41 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -94,7 +128,49 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Deteema Springs",
+        "country": null
+      },
+      {
+        "name": "Verney's Camp",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -155,7 +231,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Mana Pools National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe",
+        "lat": -17.831773,
+        "lng": 31.045686
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -241,7 +365,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Mana Pools",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe",
+        "lat": -16.527274,
+        "lng": 28.775548
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe",
+        "lat": -17.831773,
+        "lng": 31.045686
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -287,7 +469,51 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Matobo Hills",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Matobo Hills",
+        "country": "Zimbabwe",
+        "lat": -20.412101,
+        "lng": 28.471157
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -373,7 +599,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Great Zimbabwe",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matopo Hills",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Eastern Highlands",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe",
+        "lat": -17.831773,
+        "lng": 31.045686
+      },
+      {
+        "name": "Matopo Hills",
+        "country": "Zimbabwe",
+        "lat": -20.412101,
+        "lng": 28.471157
+      },
+      {
+        "name": "Hwange",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Eastern Highlands",
+        "country": "Zimbabwe",
+        "lat": -17.798104,
+        "lng": 31.090195
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -439,7 +733,41 @@
       }
     ],
     "map": "",
-    "category": "Horse Riding"
+    "category": "Horse Riding",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -475,7 +803,77 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Linkwasha Concession",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matusadona National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Great African Rift Valley",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Mana Pools National Park",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Linkwasha Concession",
+        "country": "Zimbabwe",
+        "lat": -17.372672,
+        "lng": 30.952824
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe",
+        "lat": -16.527274,
+        "lng": 28.775548
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -521,7 +919,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matobo Hills",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabwe",
+        "lat": -20.15606,
+        "lng": 28.588706
+      },
+      {
+        "name": "Matobo Hills",
+        "country": "Zimbabwe",
+        "lat": -20.412101,
+        "lng": 28.471157
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -557,7 +1009,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matusadona National Park",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe",
+        "lat": -16.527274,
+        "lng": 28.775548
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -623,7 +1123,69 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matusadona National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Mana Pools National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe",
+        "lat": -16.527274,
+        "lng": 28.775548
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe",
+        "lat": -17.831773,
+        "lng": 31.045686
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -674,7 +1236,49 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matusadona National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Mana Pools",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -750,7 +1354,45 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "null"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -841,7 +1483,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matusadona National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matobo Hills National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Malilangwe Wildlife Reserve",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Gonarezhou National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "The Great Limpopo Transfrontier Park",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe",
+        "lat": -16.527274,
+        "lng": 28.775548
+      },
+      {
+        "name": "Matobo Hills National Park",
+        "country": "Zimbabwe",
+        "lat": -20.412101,
+        "lng": 28.471157
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -927,7 +1643,39 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Mana Pools National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Malilangwe Wildlife Reserve",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -983,7 +1731,69 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Mutusadona National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matobo Hills",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Malilangwe Wildlife Reserve",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe",
+        "lat": -16.527274,
+        "lng": 28.775548
+      },
+      {
+        "name": "Matobo Hills",
+        "country": "Zimbabwe",
+        "lat": -20.412101,
+        "lng": 28.471157
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -1054,7 +1864,59 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matusadona National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Mana Pools National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Chirundu",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Chirundu",
+        "country": "Zimbabwe",
+        "lat": -16.048134,
+        "lng": 28.862976
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -1125,7 +1987,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Malilangwe Wildlife Reserve",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "The Great Limpopo Transfrontier Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Gonarezhou National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Mana Pools National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Makalolo Concession",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Makalolo Concession",
+        "country": "Zimbabwe",
+        "lat": -17.372672,
+        "lng": 30.952824
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -1201,7 +2127,99 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matusadona National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": null
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe",
+        "lat": -17.831773,
+        "lng": 31.045686
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe",
+        "lat": -16.527274,
+        "lng": 28.775548
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia",
+        "lat": -15.419,
+        "lng": 28.282
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -1277,7 +2295,57 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Chizarira National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matusadona National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Mana Pools National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Nyanga National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Malilangwe Wildlife Reserve",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Nyanga National Park",
+        "country": "Zimbabwe",
+        "lat": -18.232705,
+        "lng": 32.737571
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -1348,7 +2416,87 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matusadona National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Malilangwe Game Reserve",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Gonarezhou National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Bazaruto Archipelago",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Benguerra Island",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Mozambique",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Harare",
+        "country": "Zimbabwe",
+        "lat": -17.831773,
+        "lng": 31.045686
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe",
+        "lat": -16.527274,
+        "lng": 28.775548
+      },
+      {
+        "name": "Bazaruto Archipelago",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Benguerra Island",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -1414,7 +2562,49 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Mana Pools National Park",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -1490,7 +2680,67 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Zambezi National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Mana Pools National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matusadona National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Lake Kariba",
+        "country": "Zimbabwe",
+        "lat": -16.527274,
+        "lng": 28.775548
+      }
+    ]
   },
   {
     "destination": "Zimbabwe",
@@ -1556,6 +2806,68 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Ngamo Plains",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Matobo Hills National Park",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabwe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
+        "lat": -18.372772,
+        "lng": 26.50795
+      },
+      {
+        "name": "Matobo Hills National Park",
+        "country": "Zimbabwe",
+        "lat": -20.412101,
+        "lng": 28.471157
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabwe",
+        "lat": -20.15606,
+        "lng": 28.588706
+      }
+    ]
   }
 ]

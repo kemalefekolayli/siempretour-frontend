@@ -63,7 +63,73 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Morzine",
+        "country": "France"
+      },
+      {
+        "name": "Geneva",
+        "country": "Switzerland"
+      },
+      {
+        "name": "Col de Joux Plane",
+        "country": "France"
+      },
+      {
+        "name": "Alpine Lake",
+        "country": null
+      },
+      {
+        "name": "Alpine Botanical Garden",
+        "country": "France"
+      },
+      {
+        "name": "High-Wire Adventure Park",
+        "country": null
+      },
+      {
+        "name": "Local Market",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Morzine",
+        "country": "France",
+        "lat": 46.181156,
+        "lng": 6.705044
+      },
+      {
+        "name": "Geneva",
+        "country": "Switzerland",
+        "lat": 46.20477,
+        "lng": 6.146314
+      },
+      {
+        "name": "Col de Joux Plane",
+        "country": "France",
+        "lat": 45.887684,
+        "lng": 4.372961
+      },
+      {
+        "name": "Alpine Botanical Garden",
+        "country": "France",
+        "lat": 44.06471,
+        "lng": 0.428474
+      }
+    ]
   },
   {
     "destination": "France",
@@ -129,7 +195,91 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Samoens",
+        "country": "France"
+      },
+      {
+        "name": "Lac Bleu",
+        "country": "France"
+      },
+      {
+        "name": "Sixt-Fer-à-Cheval",
+        "country": "France"
+      },
+      {
+        "name": "Mont Blanc",
+        "country": "France"
+      },
+      {
+        "name": "Annecy",
+        "country": "France"
+      },
+      {
+        "name": "Fer-à-Cheval Nature Reserve",
+        "country": "France"
+      },
+      {
+        "name": "Alps",
+        "country": "France"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Samoens",
+        "country": "France",
+        "lat": 46.083347,
+        "lng": 6.726125
+      },
+      {
+        "name": "Lac Bleu",
+        "country": "France",
+        "lat": 43.41264,
+        "lng": -0.61776
+      },
+      {
+        "name": "Sixt-Fer-à-Cheval",
+        "country": "France",
+        "lat": 46.05529,
+        "lng": 6.775663
+      },
+      {
+        "name": "Mont Blanc",
+        "country": "France",
+        "lat": 46.625523,
+        "lng": 3.830342
+      },
+      {
+        "name": "Annecy",
+        "country": "France",
+        "lat": 45.899185,
+        "lng": 6.123801
+      },
+      {
+        "name": "Fer-à-Cheval Nature Reserve",
+        "country": "France",
+        "lat": 46.05529,
+        "lng": 6.775663
+      },
+      {
+        "name": "Alps",
+        "country": "France",
+        "lat": 44.123802,
+        "lng": 4.080568
+      }
+    ]
   },
   {
     "destination": "France",
@@ -225,7 +375,181 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paris",
+        "country": "France"
+      },
+      {
+        "name": "Versailles",
+        "country": "France"
+      },
+      {
+        "name": "Giverny",
+        "country": "France"
+      },
+      {
+        "name": "Bordeaux",
+        "country": "France"
+      },
+      {
+        "name": "Aix en Provence",
+        "country": "France"
+      },
+      {
+        "name": "Avignon",
+        "country": "France"
+      },
+      {
+        "name": "Monaco",
+        "country": "Monaco"
+      },
+      {
+        "name": "Nice",
+        "country": "France"
+      },
+      {
+        "name": "Sarlat",
+        "country": "France"
+      },
+      {
+        "name": "Lascaux Caves",
+        "country": "France"
+      },
+      {
+        "name": "Vence",
+        "country": "France"
+      },
+      {
+        "name": "Menerbes",
+        "country": "France"
+      },
+      {
+        "name": "Gordes",
+        "country": "France"
+      },
+      {
+        "name": "Marseille",
+        "country": "France"
+      },
+      {
+        "name": "Saint Emilion",
+        "country": "France"
+      },
+      {
+        "name": "Tremolat",
+        "country": "France"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paris",
+        "country": "France",
+        "lat": 48.853495,
+        "lng": 2.348392
+      },
+      {
+        "name": "Versailles",
+        "country": "France",
+        "lat": 48.8066,
+        "lng": 2.132033
+      },
+      {
+        "name": "Giverny",
+        "country": "France",
+        "lat": 49.075626,
+        "lng": 1.532312
+      },
+      {
+        "name": "Bordeaux",
+        "country": "France",
+        "lat": 44.840115,
+        "lng": -0.570681
+      },
+      {
+        "name": "Aix en Provence",
+        "country": "France",
+        "lat": 43.528618,
+        "lng": 5.447729
+      },
+      {
+        "name": "Avignon",
+        "country": "France",
+        "lat": 43.948715,
+        "lng": 4.808611
+      },
+      {
+        "name": "Monaco",
+        "country": "Monaco",
+        "lat": 43.73171,
+        "lng": 7.420765
+      },
+      {
+        "name": "Nice",
+        "country": "France",
+        "lat": 43.710082,
+        "lng": 7.261844
+      },
+      {
+        "name": "Sarlat",
+        "country": "France",
+        "lat": 44.889046,
+        "lng": 2.565934
+      },
+      {
+        "name": "Lascaux Caves",
+        "country": "France",
+        "lat": 42.931267,
+        "lng": 2.976407
+      },
+      {
+        "name": "Vence",
+        "country": "France",
+        "lat": 43.722218,
+        "lng": 7.113373
+      },
+      {
+        "name": "Menerbes",
+        "country": "France",
+        "lat": 43.83239,
+        "lng": 5.206501
+      },
+      {
+        "name": "Gordes",
+        "country": "France",
+        "lat": 43.91075,
+        "lng": 5.200029
+      },
+      {
+        "name": "Marseille",
+        "country": "France",
+        "lat": 43.294235,
+        "lng": 5.377085
+      },
+      {
+        "name": "Saint Emilion",
+        "country": "France",
+        "lat": 44.893864,
+        "lng": -0.155836
+      },
+      {
+        "name": "Tremolat",
+        "country": "France",
+        "lat": 44.876087,
+        "lng": 0.830734
+      }
+    ]
   },
   {
     "destination": "France",
@@ -306,6 +630,100 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paris",
+        "country": "France"
+      },
+      {
+        "name": "Versailles",
+        "country": "France"
+      },
+      {
+        "name": "Monaco",
+        "country": "Monaco"
+      },
+      {
+        "name": "Provence",
+        "country": "France"
+      },
+      {
+        "name": "Nice",
+        "country": "France"
+      },
+      {
+        "name": "Villefranche-sur-Mer",
+        "country": "France"
+      },
+      {
+        "name": "Côte d’Azur",
+        "country": "France"
+      },
+      {
+        "name": "Saint Paul-de-Vence",
+        "country": "France"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paris",
+        "country": "France",
+        "lat": 48.853495,
+        "lng": 2.348392
+      },
+      {
+        "name": "Versailles",
+        "country": "France",
+        "lat": 48.8066,
+        "lng": 2.132033
+      },
+      {
+        "name": "Monaco",
+        "country": "Monaco",
+        "lat": 43.73171,
+        "lng": 7.420765
+      },
+      {
+        "name": "Provence",
+        "country": "France",
+        "lat": 47.546955,
+        "lng": 3.954401
+      },
+      {
+        "name": "Nice",
+        "country": "France",
+        "lat": 43.710082,
+        "lng": 7.261844
+      },
+      {
+        "name": "Villefranche-sur-Mer",
+        "country": "France",
+        "lat": 43.703175,
+        "lng": 7.311004
+      },
+      {
+        "name": "Côte d’Azur",
+        "country": "France",
+        "lat": 43.79907,
+        "lng": -1.302756
+      },
+      {
+        "name": "Saint Paul-de-Vence",
+        "country": "France",
+        "lat": 43.69703,
+        "lng": 7.122066
+      }
+    ]
   }
 ]

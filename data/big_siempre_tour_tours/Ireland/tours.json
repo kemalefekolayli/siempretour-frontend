@@ -58,7 +58,161 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dublin",
+        "country": "Ireland"
+      },
+      {
+        "name": "Cobh",
+        "country": "Ireland"
+      },
+      {
+        "name": "Rock of Cashel",
+        "country": "Ireland"
+      },
+      {
+        "name": "Kerry",
+        "country": "Ireland"
+      },
+      {
+        "name": "Skellig Michael",
+        "country": "Ireland"
+      },
+      {
+        "name": "Killarney National Park",
+        "country": "Ireland"
+      },
+      {
+        "name": "Inch Beach",
+        "country": "Ireland"
+      },
+      {
+        "name": "Dingle",
+        "country": "Ireland"
+      },
+      {
+        "name": "Cliffs of Moher",
+        "country": "Ireland"
+      },
+      {
+        "name": "Burren National Park",
+        "country": "Ireland"
+      },
+      {
+        "name": "Inishmore",
+        "country": "Ireland"
+      },
+      {
+        "name": "Clifden",
+        "country": "Ireland"
+      },
+      {
+        "name": "Connemara National Park",
+        "country": "Ireland"
+      },
+      {
+        "name": "Galway City",
+        "country": "Ireland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dublin",
+        "country": "Ireland",
+        "lat": 53.349801,
+        "lng": -6.260296
+      },
+      {
+        "name": "Cobh",
+        "country": "Ireland",
+        "lat": 51.85019,
+        "lng": -8.294903
+      },
+      {
+        "name": "Rock of Cashel",
+        "country": "Ireland",
+        "lat": 53.40434,
+        "lng": -6.063342
+      },
+      {
+        "name": "Kerry",
+        "country": "Ireland",
+        "lat": 52.14001,
+        "lng": -9.516791
+      },
+      {
+        "name": "Skellig Michael",
+        "country": "Ireland",
+        "lat": 51.771111,
+        "lng": -10.540556
+      },
+      {
+        "name": "Killarney National Park",
+        "country": "Ireland",
+        "lat": 53.40434,
+        "lng": -6.063342
+      },
+      {
+        "name": "Inch Beach",
+        "country": "Ireland",
+        "lat": 52.142796,
+        "lng": -9.98077
+      },
+      {
+        "name": "Dingle",
+        "country": "Ireland",
+        "lat": 52.140907,
+        "lng": -10.267086
+      },
+      {
+        "name": "Cliffs of Moher",
+        "country": "Ireland",
+        "lat": 52.11175,
+        "lng": -9.048501
+      },
+      {
+        "name": "Burren National Park",
+        "country": "Ireland",
+        "lat": 53.40434,
+        "lng": -6.063342
+      },
+      {
+        "name": "Inishmore",
+        "country": "Ireland",
+        "lat": 53.119324,
+        "lng": -9.669381
+      },
+      {
+        "name": "Clifden",
+        "country": "Ireland",
+        "lat": 53.489178,
+        "lng": -10.020158
+      },
+      {
+        "name": "Connemara National Park",
+        "country": "Ireland",
+        "lat": 53.40434,
+        "lng": -6.063342
+      },
+      {
+        "name": "Galway City",
+        "country": "Ireland",
+        "lat": 53.042152,
+        "lng": -8.352137
+      }
+    ]
   },
   {
     "destination": "Ireland",
@@ -129,7 +283,115 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Belfast",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Giant's Causeway",
+        "country": "null"
+      },
+      {
+        "name": "Derry",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Galway",
+        "country": "Ireland"
+      },
+      {
+        "name": "Aran Islands",
+        "country": "Ireland"
+      },
+      {
+        "name": "Cliffs of Moher",
+        "country": "Ireland"
+      },
+      {
+        "name": "Adare",
+        "country": "Ireland"
+      },
+      {
+        "name": "Killarney",
+        "country": "Ireland"
+      },
+      {
+        "name": "Ring of Kerry",
+        "country": "Ireland"
+      },
+      {
+        "name": "Dublin",
+        "country": "Ireland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Belfast",
+        "country": "United Kingdom",
+        "lat": 54.596441,
+        "lng": -5.930276
+      },
+      {
+        "name": "Derry",
+        "country": "United Kingdom",
+        "lat": 54.99708,
+        "lng": -7.3217
+      },
+      {
+        "name": "Galway",
+        "country": "Ireland",
+        "lat": 53.30027,
+        "lng": -9.102344
+      },
+      {
+        "name": "Aran Islands",
+        "country": "Ireland",
+        "lat": 53.116667,
+        "lng": -9.7
+      },
+      {
+        "name": "Cliffs of Moher",
+        "country": "Ireland",
+        "lat": 52.11175,
+        "lng": -9.048501
+      },
+      {
+        "name": "Adare",
+        "country": "Ireland",
+        "lat": 52.564156,
+        "lng": -8.790634
+      },
+      {
+        "name": "Killarney",
+        "country": "Ireland",
+        "lat": 52.058426,
+        "lng": -9.509054
+      },
+      {
+        "name": "Ring of Kerry",
+        "country": "Ireland",
+        "lat": 52.14001,
+        "lng": -9.516791
+      },
+      {
+        "name": "Dublin",
+        "country": "Ireland",
+        "lat": 53.349801,
+        "lng": -6.260296
+      }
+    ]
   },
   {
     "destination": "Ireland",
@@ -205,7 +467,141 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dublin",
+        "country": "Ireland"
+      },
+      {
+        "name": "Waterford",
+        "country": "Ireland"
+      },
+      {
+        "name": "Kilkenny",
+        "country": "Ireland"
+      },
+      {
+        "name": "Kenmare",
+        "country": "Ireland"
+      },
+      {
+        "name": "Cobh",
+        "country": "Ireland"
+      },
+      {
+        "name": "Cork",
+        "country": "Ireland"
+      },
+      {
+        "name": "The Ring of Kerry",
+        "country": "Ireland"
+      },
+      {
+        "name": "Connemara",
+        "country": "Ireland"
+      },
+      {
+        "name": "Burren",
+        "country": "Ireland"
+      },
+      {
+        "name": "Cliffs of Moher",
+        "country": "Ireland"
+      },
+      {
+        "name": "Galway",
+        "country": "Ireland"
+      },
+      {
+        "name": "Cong",
+        "country": "Ireland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dublin",
+        "country": "Ireland",
+        "lat": 53.349801,
+        "lng": -6.260296
+      },
+      {
+        "name": "Waterford",
+        "country": "Ireland",
+        "lat": 52.261,
+        "lng": -7.111908
+      },
+      {
+        "name": "Kilkenny",
+        "country": "Ireland",
+        "lat": 52.651814,
+        "lng": -7.250667
+      },
+      {
+        "name": "Kenmare",
+        "country": "Ireland",
+        "lat": 51.880077,
+        "lng": -9.58352
+      },
+      {
+        "name": "Cobh",
+        "country": "Ireland",
+        "lat": 51.85019,
+        "lng": -8.294903
+      },
+      {
+        "name": "Cork",
+        "country": "Ireland",
+        "lat": 51.897077,
+        "lng": -8.465467
+      },
+      {
+        "name": "The Ring of Kerry",
+        "country": "Ireland",
+        "lat": 52.14001,
+        "lng": -9.516791
+      },
+      {
+        "name": "Connemara",
+        "country": "Ireland",
+        "lat": 53.40434,
+        "lng": -6.063342
+      },
+      {
+        "name": "Burren",
+        "country": "Ireland",
+        "lat": 53.913612,
+        "lng": -9.304942
+      },
+      {
+        "name": "Cliffs of Moher",
+        "country": "Ireland",
+        "lat": 52.11175,
+        "lng": -9.048501
+      },
+      {
+        "name": "Galway",
+        "country": "Ireland",
+        "lat": 53.30027,
+        "lng": -9.102344
+      },
+      {
+        "name": "Cong",
+        "country": "Ireland",
+        "lat": 53.54076,
+        "lng": -9.285965
+      }
+    ]
   },
   {
     "destination": "Ireland",
@@ -286,7 +682,111 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dublin",
+        "country": "Ireland"
+      },
+      {
+        "name": "County Wicklow",
+        "country": "Ireland"
+      },
+      {
+        "name": "Cork City",
+        "country": "Ireland"
+      },
+      {
+        "name": "Killarney National Park",
+        "country": "Ireland"
+      },
+      {
+        "name": "Dingle Peninsula",
+        "country": "Ireland"
+      },
+      {
+        "name": "Slea Head",
+        "country": "Ireland"
+      },
+      {
+        "name": "Aran Islands",
+        "country": "Ireland"
+      },
+      {
+        "name": "Galway",
+        "country": "Ireland"
+      },
+      {
+        "name": "Connemara",
+        "country": "Ireland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dublin",
+        "country": "Ireland",
+        "lat": 53.349801,
+        "lng": -6.260296
+      },
+      {
+        "name": "County Wicklow",
+        "country": "Ireland",
+        "lat": 52.980238,
+        "lng": -6.041418
+      },
+      {
+        "name": "Cork City",
+        "country": "Ireland",
+        "lat": 51.897077,
+        "lng": -8.465467
+      },
+      {
+        "name": "Killarney National Park",
+        "country": "Ireland",
+        "lat": 53.40434,
+        "lng": -6.063342
+      },
+      {
+        "name": "Dingle Peninsula",
+        "country": "Ireland",
+        "lat": 52.140907,
+        "lng": -10.267086
+      },
+      {
+        "name": "Slea Head",
+        "country": "Ireland",
+        "lat": 53.53125,
+        "lng": -8.637025
+      },
+      {
+        "name": "Aran Islands",
+        "country": "Ireland",
+        "lat": 53.116667,
+        "lng": -9.7
+      },
+      {
+        "name": "Galway",
+        "country": "Ireland",
+        "lat": 53.30027,
+        "lng": -9.102344
+      },
+      {
+        "name": "Connemara",
+        "country": "Ireland",
+        "lat": 53.40434,
+        "lng": -6.063342
+      }
+    ]
   },
   {
     "destination": "Ireland",
@@ -342,6 +842,36 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Belfast",
+        "country": "Northern Ireland"
+      },
+      {
+        "name": "Causeway Coast",
+        "country": "Northern Ireland"
+      },
+      {
+        "name": "Bushmills",
+        "country": "Northern Ireland"
+      },
+      {
+        "name": "Giant’s Causeway",
+        "country": "Northern Ireland"
+      },
+      {
+        "name": "Dunluce Castle",
+        "country": "Northern Ireland"
+      },
+      {
+        "name": "Carrick-a-Rede",
+        "country": "Northern Ireland"
+      }
+    ]
   }
 ]

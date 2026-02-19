@@ -53,7 +53,81 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Madikwe Game Reserve",
+        "country": "South Africa"
+      },
+      {
+        "name": "Marico River",
+        "country": "South Africa"
+      },
+      {
+        "name": "Mozambique",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Bazaruto Island",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Indigo Bay",
+        "country": "Mozambique"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      },
+      {
+        "name": "Madikwe Game Reserve",
+        "country": "South Africa",
+        "lat": -25.354525,
+        "lng": 26.529415
+      },
+      {
+        "name": "Marico River",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Mozambique",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Bazaruto Island",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Indigo Bay",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      }
+    ]
   },
   {
     "destination": "Mozambique",
@@ -189,7 +263,185 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Hlane Royal National Park",
+        "country": "Eswatini"
+      },
+      {
+        "name": "St Lucia Estuary",
+        "country": "South Africa"
+      },
+      {
+        "name": "Zululand",
+        "country": "South Africa"
+      },
+      {
+        "name": "Durban",
+        "country": "South Africa"
+      },
+      {
+        "name": "Drakensberg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Lesotho Highlands",
+        "country": "Lesotho"
+      },
+      {
+        "name": "Wild Coast",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cintsa",
+        "country": "South Africa"
+      },
+      {
+        "name": "Addo Elephant National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Garden Route",
+        "country": "South Africa"
+      },
+      {
+        "name": "Tsitsikamma National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Oudtshoorn",
+        "country": "South Africa"
+      },
+      {
+        "name": "Swellendam",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Agulhas",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa",
+        "lat": -24.995052,
+        "lng": 31.592167
+      },
+      {
+        "name": "Hlane Royal National Park",
+        "country": "Eswatini",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "St Lucia Estuary",
+        "country": "South Africa",
+        "lat": -28.374832,
+        "lng": 32.411842
+      },
+      {
+        "name": "Zululand",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Durban",
+        "country": "South Africa",
+        "lat": -29.858688,
+        "lng": 31.021832
+      },
+      {
+        "name": "Drakensberg",
+        "country": "South Africa",
+        "lat": -28.612917,
+        "lng": 29.126863
+      },
+      {
+        "name": "Wild Coast",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Cintsa",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Addo Elephant National Park",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Garden Route",
+        "country": "South Africa",
+        "lat": -27.855745,
+        "lng": 28.965069
+      },
+      {
+        "name": "Tsitsikamma National Park",
+        "country": "South Africa",
+        "lat": -33.967354,
+        "lng": 23.93007
+      },
+      {
+        "name": "Oudtshoorn",
+        "country": "South Africa",
+        "lat": -33.59061,
+        "lng": 22.202936
+      },
+      {
+        "name": "Swellendam",
+        "country": "South Africa",
+        "lat": -34.019894,
+        "lng": 20.44437
+      },
+      {
+        "name": "Cape Agulhas",
+        "country": "South Africa",
+        "lat": -34.83145,
+        "lng": 20.00673
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      }
+    ]
   },
   {
     "destination": "Mozambique",
@@ -265,7 +517,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Maputo",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Gorongosa National Park",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Beira",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Nampula",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Ilha de Mozambique",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Coral Lodge",
+        "country": "Mozambique"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Maputo",
+        "country": "Mozambique",
+        "lat": -25.966213,
+        "lng": 32.56745
+      },
+      {
+        "name": "Gorongosa National Park",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Beira",
+        "country": "Mozambique",
+        "lat": -19.83412,
+        "lng": 34.83595
+      },
+      {
+        "name": "Nampula",
+        "country": "Mozambique",
+        "lat": -15.117289,
+        "lng": 39.26405
+      },
+      {
+        "name": "Ilha de Mozambique",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Coral Lodge",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      }
+    ]
   },
   {
     "destination": "Mozambique",
@@ -301,7 +627,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mozambique",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Tofo",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Barra",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Vilanculos",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Inhambane",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mozambique",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Tofo",
+        "country": "Mozambique",
+        "lat": -23.853844,
+        "lng": 35.546716
+      },
+      {
+        "name": "Barra",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Vilanculos",
+        "country": "Mozambique",
+        "lat": -21.999647,
+        "lng": 35.31868
+      },
+      {
+        "name": "Inhambane",
+        "country": "Mozambique",
+        "lat": -23.865437,
+        "lng": 35.385563
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      }
+    ]
   },
   {
     "destination": "Mozambique",
@@ -382,7 +782,121 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Maputo",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Chidenguele",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Inhampavala",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Praia do Tofo",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Inhambane",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Inhassoro",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Bazaruto National Park",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Vilanculos",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Ponta Membene",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Maputo",
+        "country": "Mozambique"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Maputo",
+        "country": "Mozambique",
+        "lat": -25.966213,
+        "lng": 32.56745
+      },
+      {
+        "name": "Chidenguele",
+        "country": "Mozambique",
+        "lat": -24.908656,
+        "lng": 34.190163
+      },
+      {
+        "name": "Inhampavala",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Praia do Tofo",
+        "country": "Mozambique",
+        "lat": -23.853844,
+        "lng": 35.546716
+      },
+      {
+        "name": "Inhambane",
+        "country": "Mozambique",
+        "lat": -23.865437,
+        "lng": 35.385563
+      },
+      {
+        "name": "Inhassoro",
+        "country": "Mozambique",
+        "lat": -21.534868,
+        "lng": 35.20099
+      },
+      {
+        "name": "Bazaruto National Park",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Vilanculos",
+        "country": "Mozambique",
+        "lat": -21.999647,
+        "lng": 35.31868
+      },
+      {
+        "name": "Ponta Membene",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Maputo",
+        "country": "Mozambique",
+        "lat": -25.966213,
+        "lng": 32.56745
+      }
+    ]
   },
   {
     "destination": "Mozambique",
@@ -438,7 +952,139 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Johannesburgh",
+        "country": "South Africa"
+      },
+      {
+        "name": "KwaZulu Natal",
+        "country": "South Africa"
+      },
+      {
+        "name": "Mkuzi Game Reserve",
+        "country": "South Africa"
+      },
+      {
+        "name": "Greater iSimangaliso Wetland Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Kosi Bay Nature Reserve",
+        "country": "South Africa"
+      },
+      {
+        "name": "Swaziland",
+        "country": null
+      },
+      {
+        "name": "Hlane Game Reserve",
+        "country": null
+      },
+      {
+        "name": "Mozambique",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Maputo",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Inhambane",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Bilene",
+        "country": "Mozambique"
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Johannesburgh",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      },
+      {
+        "name": "KwaZulu Natal",
+        "country": "South Africa",
+        "lat": -29.6,
+        "lng": 30.378889
+      },
+      {
+        "name": "Mkuzi Game Reserve",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Greater iSimangaliso Wetland Park",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Kosi Bay Nature Reserve",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Mozambique",
+        "country": "Mozambique",
+        "lat": -15.033279,
+        "lng": 40.737503
+      },
+      {
+        "name": "Maputo",
+        "country": "Mozambique",
+        "lat": -25.966213,
+        "lng": 32.56745
+      },
+      {
+        "name": "Inhambane",
+        "country": "Mozambique",
+        "lat": -23.865437,
+        "lng": 35.385563
+      },
+      {
+        "name": "Bilene",
+        "country": "Mozambique",
+        "lat": -25.025051,
+        "lng": 33.10212
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa",
+        "lat": -24.995052,
+        "lng": 31.592167
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      }
+    ]
   },
   {
     "destination": "Mozambique",
@@ -494,6 +1140,70 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Franschhoek",
+        "country": "South Africa"
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Vilankulo",
+        "country": "Mozambique"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Franschhoek",
+        "country": "South Africa",
+        "lat": -33.91183,
+        "lng": 19.12048
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa",
+        "lat": -24.995052,
+        "lng": 31.592167
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      },
+      {
+        "name": "Vilankulo",
+        "country": "Mozambique",
+        "lat": -21.999647,
+        "lng": 35.31868
+      }
+    ]
   }
 ]

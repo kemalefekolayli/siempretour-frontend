@@ -63,6 +63,80 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Colonia del Sacramento",
+        "country": "Uruguay"
+      },
+      {
+        "name": "Carmelo",
+        "country": "Uruguay"
+      },
+      {
+        "name": "Uruguay’s Atlantic coast",
+        "country": "Uruguay"
+      },
+      {
+        "name": "Jose Ignacio",
+        "country": "Uruguay"
+      },
+      {
+        "name": "Punta del Este",
+        "country": "Uruguay"
+      },
+      {
+        "name": "Montevideo",
+        "country": "Uruguay"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Colonia del Sacramento",
+        "country": "Uruguay",
+        "lat": -34.47106,
+        "lng": -57.851894
+      },
+      {
+        "name": "Carmelo",
+        "country": "Uruguay",
+        "lat": -33.99733,
+        "lng": -58.284714
+      },
+      {
+        "name": "Uruguay’s Atlantic coast",
+        "country": "Uruguay",
+        "lat": -32.504939,
+        "lng": -53.504112
+      },
+      {
+        "name": "Jose Ignacio",
+        "country": "Uruguay",
+        "lat": -32.504939,
+        "lng": -53.504112
+      },
+      {
+        "name": "Punta del Este",
+        "country": "Uruguay",
+        "lat": -34.961597,
+        "lng": -54.942978
+      },
+      {
+        "name": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.906334,
+        "lng": -56.20423
+      }
+    ]
   }
 ]

@@ -68,7 +68,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tbilisi",
+        "country": "Georgia"
+      },
+      {
+        "name": "Mtskheta",
+        "country": "Georgia"
+      },
+      {
+        "name": "Kutaisi",
+        "country": "Georgia"
+      },
+      {
+        "name": "Mestia",
+        "country": "Georgia"
+      },
+      {
+        "name": "Ushguli",
+        "country": "Georgia"
+      },
+      {
+        "name": "Batumi",
+        "country": "Georgia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tbilisi",
+        "country": "Georgia",
+        "lat": 41.693459,
+        "lng": 44.80145
+      },
+      {
+        "name": "Mtskheta",
+        "country": "Georgia",
+        "lat": 41.847634,
+        "lng": 44.70913
+      },
+      {
+        "name": "Kutaisi",
+        "country": "Georgia",
+        "lat": 42.271537,
+        "lng": 42.70546
+      },
+      {
+        "name": "Mestia",
+        "country": "Georgia",
+        "lat": 43.058414,
+        "lng": 42.741215
+      },
+      {
+        "name": "Ushguli",
+        "country": "Georgia",
+        "lat": 42.915166,
+        "lng": 43.011475
+      },
+      {
+        "name": "Batumi",
+        "country": "Georgia",
+        "lat": 41.65059,
+        "lng": 41.635985
+      }
+    ]
   },
   {
     "destination": "Georgia",
@@ -119,6 +193,90 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tbilisi",
+        "country": "Georgia"
+      },
+      {
+        "name": "Kakheti",
+        "country": "Georgia"
+      },
+      {
+        "name": "Sighnaghi",
+        "country": "Georgia"
+      },
+      {
+        "name": "Alaverdi Cathedral",
+        "country": "Georgia"
+      },
+      {
+        "name": "Ananauri",
+        "country": "Georgia"
+      },
+      {
+        "name": "Gergeti Trinity Church",
+        "country": "Georgia"
+      },
+      {
+        "name": "Mtskheta",
+        "country": "Georgia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tbilisi",
+        "country": "Georgia",
+        "lat": 41.693459,
+        "lng": 44.80145
+      },
+      {
+        "name": "Kakheti",
+        "country": "Georgia",
+        "lat": 41.918292,
+        "lng": 45.474649
+      },
+      {
+        "name": "Sighnaghi",
+        "country": "Georgia",
+        "lat": 41.618456,
+        "lng": 45.922096
+      },
+      {
+        "name": "Alaverdi Cathedral",
+        "country": "Georgia",
+        "lat": 42.035815,
+        "lng": 45.370958
+      },
+      {
+        "name": "Ananauri",
+        "country": "Georgia",
+        "lat": 42.163784,
+        "lng": 44.711207
+      },
+      {
+        "name": "Gergeti Trinity Church",
+        "country": "Georgia",
+        "lat": 42.662658,
+        "lng": 44.631291
+      },
+      {
+        "name": "Mtskheta",
+        "country": "Georgia",
+        "lat": 41.847634,
+        "lng": 44.70913
+      }
+    ]
   }
 ]

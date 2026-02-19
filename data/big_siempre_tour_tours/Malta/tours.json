@@ -63,7 +63,137 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Malta",
+        "country": "Malta"
+      },
+      {
+        "name": "Gozo",
+        "country": "Malta"
+      },
+      {
+        "name": "Xlendi",
+        "country": "Malta"
+      },
+      {
+        "name": "Victoria",
+        "country": "Malta"
+      },
+      {
+        "name": "Ggantija",
+        "country": "Malta"
+      },
+      {
+        "name": "Calypso’s Cave",
+        "country": "Malta"
+      },
+      {
+        "name": "Dwejra",
+        "country": "Malta"
+      },
+      {
+        "name": "Fungus Rock",
+        "country": "Malta"
+      },
+      {
+        "name": "Ta Pinu Basilica",
+        "country": "Malta"
+      },
+      {
+        "name": "Valletta Old City",
+        "country": "Malta"
+      },
+      {
+        "name": "Three Cities",
+        "country": "Malta"
+      },
+      {
+        "name": "Grand Harbour",
+        "country": "Malta"
+      },
+      {
+        "name": "Sliema",
+        "country": "Malta"
+      },
+      {
+        "name": "Hagar Qim",
+        "country": "Malta"
+      },
+      {
+        "name": "Mnajdra",
+        "country": "Malta"
+      },
+      {
+        "name": "Blue Grotto",
+        "country": "Malta"
+      },
+      {
+        "name": "Domus Romana",
+        "country": "Malta"
+      },
+      {
+        "name": "Mdina",
+        "country": "Malta"
+      },
+      {
+        "name": "Mosta Dome",
+        "country": "Malta"
+      },
+      {
+        "name": "San Anton Botanic Gardens",
+        "country": "Malta"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Xlendi",
+        "country": "Malta",
+        "lat": 36.031198,
+        "lng": 14.218266
+      },
+      {
+        "name": "Victoria",
+        "country": "Malta",
+        "lat": 36.042891,
+        "lng": 14.239848
+      },
+      {
+        "name": "Valletta Old City",
+        "country": "Malta",
+        "lat": 35.898982,
+        "lng": 14.513676
+      },
+      {
+        "name": "Sliema",
+        "country": "Malta",
+        "lat": 35.912761,
+        "lng": 14.502071
+      },
+      {
+        "name": "Mdina",
+        "country": "Malta",
+        "lat": 35.885955,
+        "lng": 14.402568
+      },
+      {
+        "name": "Mosta Dome",
+        "country": "Malta",
+        "lat": 35.907918,
+        "lng": 14.424151
+      }
+    ]
   },
   {
     "destination": "Malta",
@@ -129,6 +259,102 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Valletta",
+        "country": "Malta"
+      },
+      {
+        "name": "Sliema",
+        "country": "Malta"
+      },
+      {
+        "name": "Gozo",
+        "country": "Malta"
+      },
+      {
+        "name": "Vittoriosa",
+        "country": "Malta"
+      },
+      {
+        "name": "Marsaxlokk",
+        "country": "Malta"
+      },
+      {
+        "name": "Mdina",
+        "country": "Malta"
+      },
+      {
+        "name": "Paolo",
+        "country": "Malta"
+      },
+      {
+        "name": "Hal Saflieni Hypogeum",
+        "country": "Malta"
+      },
+      {
+        "name": "Hal Tarxien Prehistoric Complex",
+        "country": "Malta"
+      },
+      {
+        "name": "Comino Island",
+        "country": "Malta"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Valletta",
+        "country": "Malta",
+        "lat": 35.898982,
+        "lng": 14.513676
+      },
+      {
+        "name": "Sliema",
+        "country": "Malta",
+        "lat": 35.912761,
+        "lng": 14.502071
+      },
+      {
+        "name": "Vittoriosa",
+        "country": "Malta",
+        "lat": 35.888112,
+        "lng": 14.523845
+      },
+      {
+        "name": "Marsaxlokk",
+        "country": "Malta",
+        "lat": 35.841766,
+        "lng": 14.544835
+      },
+      {
+        "name": "Mdina",
+        "country": "Malta",
+        "lat": 35.885955,
+        "lng": 14.402568
+      },
+      {
+        "name": "Paolo",
+        "country": "Malta",
+        "lat": 35.871799,
+        "lng": 14.507375
+      },
+      {
+        "name": "Hal Tarxien Prehistoric Complex",
+        "country": "Malta",
+        "lat": 35.864886,
+        "lng": 14.511488
+      }
+    ]
   }
 ]

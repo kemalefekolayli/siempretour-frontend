@@ -63,6 +63,80 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Philipsburg",
+        "country": "Saint Maarten"
+      },
+      {
+        "name": "Terre-de-Haut",
+        "country": "France"
+      },
+      {
+        "name": "Soufrière",
+        "country": "Saint Lucia"
+      },
+      {
+        "name": "Chatham Bay",
+        "country": "Saint Vincent and the Grenadines"
+      },
+      {
+        "name": "Gustavia",
+        "country": "Saint Barthelemy"
+      },
+      {
+        "name": "Philipsburg",
+        "country": "Saint Maarten"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Philipsburg",
+        "country": "Saint Maarten",
+        "lat": 18.011549,
+        "lng": -63.039896
+      },
+      {
+        "name": "Terre-de-Haut",
+        "country": "France",
+        "lat": 50.360363,
+        "lng": 3.318279
+      },
+      {
+        "name": "Soufrière",
+        "country": "Saint Lucia",
+        "lat": 13.85412,
+        "lng": -61.058266
+      },
+      {
+        "name": "Chatham Bay",
+        "country": "Saint Vincent and the Grenadines",
+        "lat": 13.01129,
+        "lng": -61.235154
+      },
+      {
+        "name": "Gustavia",
+        "country": "Saint Barthelemy",
+        "lat": 17.896217,
+        "lng": -62.852216
+      },
+      {
+        "name": "Philipsburg",
+        "country": "Saint Maarten",
+        "lat": 18.011549,
+        "lng": -63.039896
+      }
+    ]
   }
 ]

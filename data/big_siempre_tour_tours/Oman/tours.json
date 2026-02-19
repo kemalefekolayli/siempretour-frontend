@@ -68,7 +68,111 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras Al Junayz",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras Ar Ruways",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Jaalouni",
+        "country": "Oman"
+      },
+      {
+        "name": "Arabian Oryx Sanctuary",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras al Madrakah",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Shuwaymiah",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Kahil",
+        "country": "Oman"
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman"
+      },
+      {
+        "name": "Qara Mountains",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Ras Ar Ruways",
+        "country": "Oman",
+        "lat": 22.18,
+        "lng": 59.76
+      },
+      {
+        "name": "Wadi Shuwaymiah",
+        "country": "Oman",
+        "lat": 24.37557,
+        "lng": 56.316567
+      },
+      {
+        "name": "Al Kahil",
+        "country": "Oman",
+        "lat": 22.613827,
+        "lng": 58.674477
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman",
+        "lat": 17.016405,
+        "lng": 54.09644
+      },
+      {
+        "name": "Qara Mountains",
+        "country": "Oman",
+        "lat": 23.42001,
+        "lng": 58.100472
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -149,7 +253,41 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman",
+        "lat": 17.016405,
+        "lng": 54.09644
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -225,7 +363,103 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Misfah",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabrin Fort",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras Al Jinz turtle reserve",
+        "country": "Oman"
+      },
+      {
+        "name": "Bimmah Sinkhole",
+        "country": "Oman"
+      },
+      {
+        "name": "Beach",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman",
+        "lat": 23.887693,
+        "lng": 56.539408
+      },
+      {
+        "name": "Misfah",
+        "country": "Oman",
+        "lat": 23.519655,
+        "lng": 57.479681
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Jabrin Fort",
+        "country": "Oman",
+        "lat": 22.92,
+        "lng": 57.25
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Bimmah Sinkhole",
+        "country": "Oman",
+        "lat": 22.990788,
+        "lng": 59.135083
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -295,7 +529,171 @@
         "description": "DAY 9 - Ma’a as-Salama! Today it is time to say goodbye to a fantastic journey with exciting experiences, colourful impressions and new friendships. Enjoy your last day in Muscat before your transfer back to the airport. Crowne Plaza Muscat (Breakfast)"
       }
     ],
-    "map": ""
+    "map": "",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Grand Mosque",
+        "country": "Oman"
+      },
+      {
+        "name": "Muttrah souk",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Alam Palace",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Al Akhdar",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabreen castle",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hamra village",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Bilad Sayt village",
+        "country": "Oman"
+      },
+      {
+        "name": "Nakhl",
+        "country": "Oman"
+      },
+      {
+        "name": "Hajar Mountains",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hoota caves",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Auf",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras Al Jinz",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Muttrah souk",
+        "country": "Oman",
+        "lat": 23.614176,
+        "lng": 58.560238
+      },
+      {
+        "name": "Al Alam Palace",
+        "country": "Oman",
+        "lat": 23.08,
+        "lng": 57.61
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Jebel Al Akhdar",
+        "country": "Oman",
+        "lat": 23.2227,
+        "lng": 56.46209
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Al Hamra village",
+        "country": "Oman",
+        "lat": 23.116352,
+        "lng": 57.284805
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman",
+        "lat": 23.887693,
+        "lng": 56.539408
+      },
+      {
+        "name": "Bilad Sayt village",
+        "country": "Oman",
+        "lat": 23.190467,
+        "lng": 57.389111
+      },
+      {
+        "name": "Nakhl",
+        "country": "Oman",
+        "lat": 23.396166,
+        "lng": 57.829853
+      },
+      {
+        "name": "Hajar Mountains",
+        "country": "Oman",
+        "lat": 23.462659,
+        "lng": 57.669672
+      },
+      {
+        "name": "Wadi Bani Auf",
+        "country": "Oman",
+        "lat": 23.36,
+        "lng": 58.05
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -381,7 +779,99 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Rub al Khali – the Empty Quarter",
+        "country": "Oman"
+      },
+      {
+        "name": "Qara Mountains – Jabal Al Qamar",
+        "country": "Oman"
+      },
+      {
+        "name": "Khaluf",
+        "country": "Oman"
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman"
+      },
+      {
+        "name": "Hajar Mountains",
+        "country": "Oman"
+      },
+      {
+        "name": "Ruins of Ubar",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Rub al Khali – the Empty Quarter",
+        "country": "Oman",
+        "lat": 23.899371,
+        "lng": 57.269922
+      },
+      {
+        "name": "Qara Mountains – Jabal Al Qamar",
+        "country": "Oman",
+        "lat": 23.43,
+        "lng": 57.44
+      },
+      {
+        "name": "Khaluf",
+        "country": "Oman",
+        "lat": 17.353472,
+        "lng": 53.965348
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman",
+        "lat": 17.016405,
+        "lng": 54.09644
+      },
+      {
+        "name": "Hajar Mountains",
+        "country": "Oman",
+        "lat": 23.462659,
+        "lng": 57.669672
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -451,7 +941,61 @@
         "description": "You will be transferred by private car to the airport in time to catch your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Jozani Forest",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Jozani Forest",
+        "country": "Tanzania",
+        "lat": -6.26715,
+        "lng": 39.428431
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -517,7 +1061,85 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Sinaw Market",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Misfah",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Sinaw Market",
+        "country": "Oman",
+        "lat": 22.500414,
+        "lng": 58.030008
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Misfah",
+        "country": "Oman",
+        "lat": 23.519655,
+        "lng": 57.479681
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman",
+        "lat": 23.116352,
+        "lng": 57.284805
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -608,7 +1230,157 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Grand Mosque",
+        "country": "Oman"
+      },
+      {
+        "name": "Bait Al Zubair Museum",
+        "country": "Oman"
+      },
+      {
+        "name": "Nakhl",
+        "country": "Oman"
+      },
+      {
+        "name": "Rustaq",
+        "country": "Oman"
+      },
+      {
+        "name": "Wakan Village",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Abyadh",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Auf",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Al Akhdar mountains",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Masirah Island",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras al Jinz",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Fin’s beach",
+        "country": "Oman"
+      },
+      {
+        "name": "Bimah Sinkhole",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Arbayeen",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Nakhl",
+        "country": "Oman",
+        "lat": 23.396166,
+        "lng": 57.829853
+      },
+      {
+        "name": "Rustaq",
+        "country": "Oman",
+        "lat": 23.43148,
+        "lng": 57.42419
+      },
+      {
+        "name": "Wakan Village",
+        "country": "Oman",
+        "lat": 23.143484,
+        "lng": 57.734611
+      },
+      {
+        "name": "Wadi Abyadh",
+        "country": "Oman",
+        "lat": 23.36,
+        "lng": 58.05
+      },
+      {
+        "name": "Wadi Bani Auf",
+        "country": "Oman",
+        "lat": 23.36,
+        "lng": 58.05
+      },
+      {
+        "name": "Jebel Al Akhdar mountains",
+        "country": "Oman",
+        "lat": 23.2227,
+        "lng": 56.46209
+      },
+      {
+        "name": "Masirah Island",
+        "country": "Oman",
+        "lat": 20.660072,
+        "lng": 58.872982
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Fin’s beach",
+        "country": "Oman",
+        "lat": 22.92704,
+        "lng": 59.207551
+      },
+      {
+        "name": "Bimah Sinkhole",
+        "country": "Oman",
+        "lat": 23.21,
+        "lng": 57.38
+      },
+      {
+        "name": "Wadi Arbayeen",
+        "country": "Oman",
+        "lat": 23.36,
+        "lng": 58.05
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -694,7 +1466,123 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Musandam",
+        "country": "Oman"
+      },
+      {
+        "name": "Telegraph Island",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabrin Fort",
+        "country": "Oman"
+      },
+      {
+        "name": "Oman’s Grand Canyon",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khaled",
+        "country": "Oman"
+      },
+      {
+        "name": "Khor Rori Creek",
+        "country": "Oman"
+      },
+      {
+        "name": "Qara Mountains",
+        "country": "Oman"
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Musandam",
+        "country": "Oman",
+        "lat": 26.180182,
+        "lng": 56.249618
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman",
+        "lat": 23.116352,
+        "lng": 57.284805
+      },
+      {
+        "name": "Jabrin Fort",
+        "country": "Oman",
+        "lat": 22.92,
+        "lng": 57.25
+      },
+      {
+        "name": "Wadi Bani Khaled",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Khor Rori Creek",
+        "country": "Oman",
+        "lat": 23.078983,
+        "lng": 57.942328
+      },
+      {
+        "name": "Qara Mountains",
+        "country": "Oman",
+        "lat": 23.42001,
+        "lng": 58.100472
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman",
+        "lat": 17.016405,
+        "lng": 54.09644
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -775,7 +1663,113 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Awf",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Sinaw",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Munisfeh",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Duqm",
+        "country": "Oman"
+      },
+      {
+        "name": "Haima",
+        "country": "Oman"
+      },
+      {
+        "name": "The Empty Quarter",
+        "country": "Oman"
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Wadi Bani Awf",
+        "country": "Oman",
+        "lat": 22.99122,
+        "lng": 58.49509
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman",
+        "lat": 23.887693,
+        "lng": 56.539408
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Sinaw",
+        "country": "Oman",
+        "lat": 22.500414,
+        "lng": 58.030008
+      },
+      {
+        "name": "Duqm",
+        "country": "Oman",
+        "lat": 19.622566,
+        "lng": 57.633675
+      },
+      {
+        "name": "Haima",
+        "country": "Oman",
+        "lat": 19.956882,
+        "lng": 56.276188
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman",
+        "lat": 17.016405,
+        "lng": 54.09644
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -841,7 +1835,109 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman"
+      },
+      {
+        "name": "Misfah",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khaled",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Raz Al Jinz",
+        "country": "Oman"
+      },
+      {
+        "name": "Bimah Sinkhole",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Arbayeen",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman",
+        "lat": 23.116352,
+        "lng": 57.284805
+      },
+      {
+        "name": "Misfah",
+        "country": "Oman",
+        "lat": 23.519655,
+        "lng": 57.479681
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Wadi Bani Khaled",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Bimah Sinkhole",
+        "country": "Oman",
+        "lat": 23.21,
+        "lng": 57.38
+      },
+      {
+        "name": "Wadi Arbayeen",
+        "country": "Oman",
+        "lat": 23.36,
+        "lng": 58.05
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -912,7 +2008,133 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Port of Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Fins Beach",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman"
+      },
+      {
+        "name": "Birkat Al Mouz",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa Fort",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabreen Castle",
+        "country": "Oman"
+      },
+      {
+        "name": "Sidab",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Port of Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Fins Beach",
+        "country": "Oman",
+        "lat": 22.92704,
+        "lng": 59.207551
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman",
+        "lat": 23.2227,
+        "lng": 56.46209
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman",
+        "lat": 23.887693,
+        "lng": 56.539408
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman",
+        "lat": 23.116352,
+        "lng": 57.284805
+      },
+      {
+        "name": "Nizwa Fort",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Sidab",
+        "country": "Oman",
+        "lat": 23.601562,
+        "lng": 58.599132
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -978,7 +2200,149 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras Al Jinz",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Ibra",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabrin Castle",
+        "country": "Oman"
+      },
+      {
+        "name": "Bahla",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Awf",
+        "country": "Oman"
+      },
+      {
+        "name": "Nakhl",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Ibra",
+        "country": "Oman",
+        "lat": 22.690067,
+        "lng": 58.54655
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman",
+        "lat": 23.2227,
+        "lng": 56.46209
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Jabrin Castle",
+        "country": "Oman",
+        "lat": 22.92,
+        "lng": 57.25
+      },
+      {
+        "name": "Bahla",
+        "country": "Oman",
+        "lat": 22.963884,
+        "lng": 57.299473
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman",
+        "lat": 23.887693,
+        "lng": 56.539408
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman",
+        "lat": 23.116352,
+        "lng": 57.284805
+      },
+      {
+        "name": "Wadi Bani Awf",
+        "country": "Oman",
+        "lat": 22.99122,
+        "lng": 58.49509
+      },
+      {
+        "name": "Nakhl",
+        "country": "Oman",
+        "lat": 23.396166,
+        "lng": 57.829853
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -1029,7 +2393,45 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -1095,7 +2497,119 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras al Jinz Turtle Reserve",
+        "country": "Oman"
+      },
+      {
+        "name": "Hawiyat Najim Park",
+        "country": "Oman"
+      },
+      {
+        "name": "Bimmah Sinkhole",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Shab",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Hajar Mountains",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Hawiyat Najim Park",
+        "country": "Oman",
+        "lat": 22.392812,
+        "lng": 58.852629
+      },
+      {
+        "name": "Bimmah Sinkhole",
+        "country": "Oman",
+        "lat": 22.990788,
+        "lng": 59.135083
+      },
+      {
+        "name": "Wadi Shab",
+        "country": "Oman",
+        "lat": 23.36,
+        "lng": 58.05
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman",
+        "lat": 23.887693,
+        "lng": 56.539408
+      },
+      {
+        "name": "Hajar Mountains",
+        "country": "Oman",
+        "lat": 23.462659,
+        "lng": 57.669672
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -1171,7 +2685,109 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabal Al Akhdar",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabal Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras al Jinz",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Tiwi",
+        "country": "Oman"
+      },
+      {
+        "name": "Bimmah Sinkhole",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Jabal Al Akhdar",
+        "country": "Oman",
+        "lat": 23.2227,
+        "lng": 56.46209
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Jabal Shams",
+        "country": "Oman",
+        "lat": 23.43,
+        "lng": 57.44
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Wadi Tiwi",
+        "country": "Oman",
+        "lat": 22.827198,
+        "lng": 59.258177
+      },
+      {
+        "name": "Bimmah Sinkhole",
+        "country": "Oman",
+        "lat": 22.990788,
+        "lng": 59.135083
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -1237,7 +2853,139 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras Al Jinz",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Ibra",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabrin Castle",
+        "country": "Oman"
+      },
+      {
+        "name": "Bahla",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Awf",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Ibra",
+        "country": "Oman",
+        "lat": 22.690067,
+        "lng": 58.54655
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman",
+        "lat": 23.2227,
+        "lng": 56.46209
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Jabrin Castle",
+        "country": "Oman",
+        "lat": 22.92,
+        "lng": 57.25
+      },
+      {
+        "name": "Bahla",
+        "country": "Oman",
+        "lat": 22.963884,
+        "lng": 57.299473
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman",
+        "lat": 23.887693,
+        "lng": 56.539408
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman",
+        "lat": 23.116352,
+        "lng": 57.284805
+      },
+      {
+        "name": "Wadi Bani Awf",
+        "country": "Oman",
+        "lat": 22.99122,
+        "lng": 58.49509
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -1303,7 +3051,41 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman",
+        "lat": 23.2227,
+        "lng": 56.46209
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -1374,7 +3156,129 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Shaab",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Khaluf",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Misfat Al Abryeen",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Auf",
+        "country": "Oman"
+      },
+      {
+        "name": "Bilad Sait",
+        "country": "Oman"
+      },
+      {
+        "name": "Daymaniyat Islands",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Wadi Shaab",
+        "country": "Oman",
+        "lat": 23.36,
+        "lng": 58.05
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Al Khaluf",
+        "country": "Oman",
+        "lat": 17.353472,
+        "lng": 53.965348
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman",
+        "lat": 23.887693,
+        "lng": 56.539408
+      },
+      {
+        "name": "Misfat Al Abryeen",
+        "country": "Oman",
+        "lat": 23.519655,
+        "lng": 57.479681
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman",
+        "lat": 23.116352,
+        "lng": 57.284805
+      },
+      {
+        "name": "Wadi Bani Auf",
+        "country": "Oman",
+        "lat": 23.36,
+        "lng": 58.05
+      },
+      {
+        "name": "Bilad Sait",
+        "country": "Oman",
+        "lat": 23.190467,
+        "lng": 57.389111
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -1455,7 +3359,203 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Khasab",
+        "country": "Oman"
+      },
+      {
+        "name": "Musandam",
+        "country": "Oman"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras Al Jinz",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Ibra",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabrin Castle",
+        "country": "Oman"
+      },
+      {
+        "name": "Bahla",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Awf",
+        "country": "Oman"
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman"
+      },
+      {
+        "name": "Taqa",
+        "country": "Oman"
+      },
+      {
+        "name": "Mirbat",
+        "country": "Oman"
+      },
+      {
+        "name": "Al-Mughsail Beach",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Balid Archaeological Park",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Khasab",
+        "country": "Oman",
+        "lat": 26.179089,
+        "lng": 56.24933
+      },
+      {
+        "name": "Musandam",
+        "country": "Oman",
+        "lat": 26.180182,
+        "lng": 56.249618
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Ibra",
+        "country": "Oman",
+        "lat": 22.690067,
+        "lng": 58.54655
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman",
+        "lat": 23.2227,
+        "lng": 56.46209
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Jabrin Castle",
+        "country": "Oman",
+        "lat": 22.92,
+        "lng": 57.25
+      },
+      {
+        "name": "Bahla",
+        "country": "Oman",
+        "lat": 22.963884,
+        "lng": 57.299473
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman",
+        "lat": 23.887693,
+        "lng": 56.539408
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman",
+        "lat": 23.116352,
+        "lng": 57.284805
+      },
+      {
+        "name": "Wadi Bani Awf",
+        "country": "Oman",
+        "lat": 22.99122,
+        "lng": 58.49509
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman",
+        "lat": 17.016405,
+        "lng": 54.09644
+      },
+      {
+        "name": "Taqa",
+        "country": "Oman",
+        "lat": 17.037813,
+        "lng": 54.39511
+      },
+      {
+        "name": "Mirbat",
+        "country": "Oman",
+        "lat": 16.992405,
+        "lng": 54.702423
+      },
+      {
+        "name": "Al-Mughsail Beach",
+        "country": "Oman",
+        "lat": 16.883347,
+        "lng": 53.787565
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -1516,7 +3616,183 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Mutrah Souq",
+        "country": "Oman"
+      },
+      {
+        "name": "Sultan Qaboos Grand Mosque",
+        "country": "Oman"
+      },
+      {
+        "name": "Bimah Sinkhole",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Tiwi",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras Al Jinz Turtle Reserve",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Birkat Al Mouz",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabrin",
+        "country": "Oman"
+      },
+      {
+        "name": "Bahla Fort",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Nakhr",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Misfat Al Arbayeen",
+        "country": "Oman"
+      },
+      {
+        "name": "Bilad Sayt",
+        "country": "Oman"
+      },
+      {
+        "name": "Nakhal Fort",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Mutrah Souq",
+        "country": "Oman",
+        "lat": 23.614176,
+        "lng": 58.560238
+      },
+      {
+        "name": "Sultan Qaboos Grand Mosque",
+        "country": "Oman",
+        "lat": 25.793783,
+        "lng": 56.205605
+      },
+      {
+        "name": "Bimah Sinkhole",
+        "country": "Oman",
+        "lat": 23.21,
+        "lng": 57.38
+      },
+      {
+        "name": "Wadi Tiwi",
+        "country": "Oman",
+        "lat": 22.827198,
+        "lng": 59.258177
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Jabrin",
+        "country": "Oman",
+        "lat": 22.92,
+        "lng": 57.25
+      },
+      {
+        "name": "Bahla Fort",
+        "country": "Oman",
+        "lat": 22.963884,
+        "lng": 57.299473
+      },
+      {
+        "name": "Wadi Nakhr",
+        "country": "Oman",
+        "lat": 23.36,
+        "lng": 58.05
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman",
+        "lat": 23.887693,
+        "lng": 56.539408
+      },
+      {
+        "name": "Misfat Al Arbayeen",
+        "country": "Oman",
+        "lat": 23.519655,
+        "lng": 57.479681
+      },
+      {
+        "name": "Bilad Sayt",
+        "country": "Oman",
+        "lat": 23.190467,
+        "lng": 57.389111
+      },
+      {
+        "name": "Nakhal Fort",
+        "country": "Oman",
+        "lat": 23.396166,
+        "lng": 57.829853
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -1587,7 +3863,129 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Ashkarah",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Khaluf",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Misfat Al Abryeen",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Auf",
+        "country": "Oman"
+      },
+      {
+        "name": "Bilad Sait",
+        "country": "Oman"
+      },
+      {
+        "name": "Daymaniyat Islands",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Al Ashkarah",
+        "country": "Oman",
+        "lat": 21.85,
+        "lng": 59.57
+      },
+      {
+        "name": "Al Khaluf",
+        "country": "Oman",
+        "lat": 17.353472,
+        "lng": 53.965348
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman",
+        "lat": 23.887693,
+        "lng": 56.539408
+      },
+      {
+        "name": "Misfat Al Abryeen",
+        "country": "Oman",
+        "lat": 23.519655,
+        "lng": 57.479681
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman",
+        "lat": 23.116352,
+        "lng": 57.284805
+      },
+      {
+        "name": "Wadi Bani Auf",
+        "country": "Oman",
+        "lat": 23.36,
+        "lng": 58.05
+      },
+      {
+        "name": "Bilad Sait",
+        "country": "Oman",
+        "lat": 23.190467,
+        "lng": 57.389111
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -1668,7 +4066,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman",
+        "lat": 23.116352,
+        "lng": 57.284805
+      },
+      {
+        "name": "Jebel Shams",
+        "country": "Oman",
+        "lat": 23.887693,
+        "lng": 56.539408
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman",
+        "lat": 23.2227,
+        "lng": 56.46209
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania",
+        "lat": -6.197813,
+        "lng": 39.199436
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -1759,7 +4241,179 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Sultan Qaboos Mosque",
+        "country": "Oman"
+      },
+      {
+        "name": "Natural History Museum",
+        "country": "Oman"
+      },
+      {
+        "name": "Omani Museum",
+        "country": "Oman"
+      },
+      {
+        "name": "Quriyat beaches",
+        "country": "Oman"
+      },
+      {
+        "name": "Ras-al-Jinz",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hoota Caves",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabel Akhdar",
+        "country": "Oman"
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman"
+      },
+      {
+        "name": "Misfah",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman"
+      },
+      {
+        "name": "Marneef Caves",
+        "country": "Oman"
+      },
+      {
+        "name": "Sumhuram",
+        "country": "Oman"
+      },
+      {
+        "name": "Mirbat",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabal Samhan",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Darbat",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Sultan Qaboos Mosque",
+        "country": "Oman",
+        "lat": 25.793783,
+        "lng": 56.205605
+      },
+      {
+        "name": "Omani Museum",
+        "country": "Oman",
+        "lat": 24.759243,
+        "lng": 56.457784
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Jabel Akhdar",
+        "country": "Oman",
+        "lat": 23.2227,
+        "lng": 56.46209
+      },
+      {
+        "name": "Al Hamra",
+        "country": "Oman",
+        "lat": 23.116352,
+        "lng": 57.284805
+      },
+      {
+        "name": "Misfah",
+        "country": "Oman",
+        "lat": 23.519655,
+        "lng": 57.479681
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman",
+        "lat": 17.016405,
+        "lng": 54.09644
+      },
+      {
+        "name": "Mirbat",
+        "country": "Oman",
+        "lat": 16.992405,
+        "lng": 54.702423
+      },
+      {
+        "name": "Jabal Samhan",
+        "country": "Oman",
+        "lat": 22.99,
+        "lng": 58.56
+      },
+      {
+        "name": "Wadi Darbat",
+        "country": "Oman",
+        "lat": 16.992405,
+        "lng": 54.702423
+      }
+    ]
   },
   {
     "destination": "Oman",
@@ -1850,6 +4504,138 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Bahla",
+        "country": "Oman"
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Auf",
+        "country": "Oman"
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman"
+      },
+      {
+        "name": "Taqa",
+        "country": "Oman"
+      },
+      {
+        "name": "Khor Rori",
+        "country": "Oman"
+      },
+      {
+        "name": "Musandam",
+        "country": "Oman"
+      },
+      {
+        "name": "Telegraph Island",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Bahla",
+        "country": "Oman",
+        "lat": 22.963884,
+        "lng": 57.299473
+      },
+      {
+        "name": "Jebel Akhdar",
+        "country": "Oman",
+        "lat": 23.2227,
+        "lng": 56.46209
+      },
+      {
+        "name": "Wadi Bani Auf",
+        "country": "Oman",
+        "lat": 23.36,
+        "lng": 58.05
+      },
+      {
+        "name": "Salalah",
+        "country": "Oman",
+        "lat": 17.016405,
+        "lng": 54.09644
+      },
+      {
+        "name": "Taqa",
+        "country": "Oman",
+        "lat": 17.037813,
+        "lng": 54.39511
+      },
+      {
+        "name": "Khor Rori",
+        "country": "Oman",
+        "lat": 23.078983,
+        "lng": 57.942328
+      },
+      {
+        "name": "Musandam",
+        "country": "Oman",
+        "lat": 26.180182,
+        "lng": 56.249618
+      }
+    ]
   }
 ]

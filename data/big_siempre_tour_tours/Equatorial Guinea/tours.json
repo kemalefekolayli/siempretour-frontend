@@ -73,6 +73,116 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Malabo",
+        "country": "Equatorial Guinea"
+      },
+      {
+        "name": "Batete",
+        "country": "Equatorial Guinea"
+      },
+      {
+        "name": "Luba",
+        "country": "Equatorial Guinea"
+      },
+      {
+        "name": "Pico Basile",
+        "country": "Equatorial Guinea"
+      },
+      {
+        "name": "Bata",
+        "country": "Equatorial Guinea"
+      },
+      {
+        "name": "Mongomo",
+        "country": "Equatorial Guinea"
+      },
+      {
+        "name": "Oyala",
+        "country": "Equatorial Guinea"
+      },
+      {
+        "name": "Monte Alen National Park",
+        "country": "Equatorial Guinea"
+      },
+      {
+        "name": "Ndjanmanguila",
+        "country": "Equatorial Guinea"
+      },
+      {
+        "name": "Ureka",
+        "country": "Equatorial Guinea"
+      },
+      {
+        "name": "Moaba",
+        "country": "Equatorial Guinea"
+      },
+      {
+        "name": "Moka",
+        "country": "Equatorial Guinea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Malabo",
+        "country": "Equatorial Guinea",
+        "lat": 3.725428,
+        "lng": 8.757188
+      },
+      {
+        "name": "Batete",
+        "country": "Equatorial Guinea",
+        "lat": 3.445957,
+        "lng": 8.50563
+      },
+      {
+        "name": "Luba",
+        "country": "Equatorial Guinea",
+        "lat": 3.459841,
+        "lng": 8.554448
+      },
+      {
+        "name": "Pico Basile",
+        "country": "Equatorial Guinea",
+        "lat": 3.700628,
+        "lng": 8.806001
+      },
+      {
+        "name": "Bata",
+        "country": "Equatorial Guinea",
+        "lat": 1.855077,
+        "lng": 9.79347
+      },
+      {
+        "name": "Mongomo",
+        "country": "Equatorial Guinea",
+        "lat": 1.628009,
+        "lng": 11.311932
+      },
+      {
+        "name": "Oyala",
+        "country": "Equatorial Guinea",
+        "lat": 1.599454,
+        "lng": 10.826828
+      },
+      {
+        "name": "Moka",
+        "country": "Equatorial Guinea",
+        "lat": 3.351541,
+        "lng": 8.660867
+      }
+    ]
   }
 ]

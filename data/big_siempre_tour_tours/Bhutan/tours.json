@@ -98,7 +98,99 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kolkata",
+        "country": "India"
+      },
+      {
+        "name": "Siliguri",
+        "country": "India"
+      },
+      {
+        "name": "Darjeeling",
+        "country": "India"
+      },
+      {
+        "name": "Gorumara National Park",
+        "country": "India"
+      },
+      {
+        "name": "Phuentsholing",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochula Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kolkata",
+        "country": "India",
+        "lat": 22.556843,
+        "lng": 88.35465
+      },
+      {
+        "name": "Siliguri",
+        "country": "India",
+        "lat": 26.716146,
+        "lng": 88.42635
+      },
+      {
+        "name": "Darjeeling",
+        "country": "India",
+        "lat": 27.041847,
+        "lng": 88.26513
+      },
+      {
+        "name": "Gorumara National Park",
+        "country": "India",
+        "lat": 28.602232,
+        "lng": 77.229385
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -194,7 +286,107 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Poon Hill",
+        "country": "Nepal"
+      },
+      {
+        "name": "Ghandruk",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangduephodrang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Drukgyel Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Kyichu Lhakhang",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Poon Hill",
+        "country": "Nepal",
+        "lat": 27.046624,
+        "lng": 87.912787
+      },
+      {
+        "name": "Ghandruk",
+        "country": "Nepal",
+        "lat": 28.376865,
+        "lng": 83.80779
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -275,7 +467,103 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taksang Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tang Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Haa Valley",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Trongsa Dzong",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      },
+      {
+        "name": "Punakha Valley",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Haa Valley",
+        "country": "Bhutan",
+        "lat": 27.370058,
+        "lng": 89.291748
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -366,7 +654,77 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Chokhor Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tang Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -437,7 +795,99 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kirtipur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger’s Nest",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Kirtipur",
+        "country": "Nepal",
+        "lat": 27.674793,
+        "lng": 85.277756
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -513,7 +963,97 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangdue",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Drukgyel Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktsang Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -564,7 +1104,73 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangdiphodrang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktsang Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Drukgyel Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Kyichu Lhakhang",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Wangdiphodrang",
+        "country": "Bhutan",
+        "lat": 27.544634,
+        "lng": 89.955581
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -630,7 +1236,67 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochula Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Chimi Lhakhang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktsang Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -671,7 +1337,65 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger’s Nest Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Dromchoe Festival",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Punakha Dromchoe Festival",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -732,7 +1456,99 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochu La",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangdiphodrang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bhutan's National Museum",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Rinpung Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Drukgyel Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taksang (Tiger’s Nest Monastery)",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Wangdiphodrang",
+        "country": "Bhutan",
+        "lat": 27.544634,
+        "lng": 89.955581
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -813,7 +1629,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangduephodrang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangdue Dzong ruins",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Chumey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Choekhor",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Ura",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Chamkhar",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktsang Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -899,7 +1809,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -960,7 +1938,69 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gasa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochula Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktsang Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Gasa",
+        "country": "Bhutan",
+        "lat": 27.905759,
+        "lng": 89.729357
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -1041,7 +2081,149 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Drukgyal Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Mt. Jhomolhari",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Kichu Lhakhang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktsang Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "National Memorial Chorten",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochula Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Khamsung Yulley Namgyal Choling Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangdiphodrang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Black Necked Cranes",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Jakar Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Lamey Goemba",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Jambay Lhakhang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Chakhar Lhakhang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Kurjey Lhakhang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tamshing Lhakhang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Mebarstho",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Simtokha Dzong",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Wangdiphodrang",
+        "country": "Bhutan",
+        "lat": 27.544634,
+        "lng": 89.955581
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -1132,7 +2314,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tang Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangdi",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -1208,7 +2474,113 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tashichhodzong Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Zorig Chusum traditional arts and crafts school",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangduephodrang local market",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Simtokha Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Ta Dzong National Museum",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Rinpung Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Drukgyel Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktsang Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -1309,7 +2681,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Simtokha Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey Village",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjika Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Jakar",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro Valley",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha Valley",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Paro Valley",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -1370,7 +2846,117 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Drukgyal Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Mt. Jhomolhari",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Kichu Lhakhang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktsang Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "National Memorial Chorten",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochula Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Khamsung Yulley Namgyal Choling Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangdiphodrang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Black Necked Cranes",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Wangdiphodrang",
+        "country": "Bhutan",
+        "lat": 27.544634,
+        "lng": 89.955581
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -1476,7 +3062,115 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gasa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phuentsholing",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtok",
+        "country": "India"
+      },
+      {
+        "name": "Pelling",
+        "country": "India"
+      },
+      {
+        "name": "Darjeeling",
+        "country": "India"
+      },
+      {
+        "name": "Bagdogra",
+        "country": "India"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Gasa",
+        "country": "Bhutan",
+        "lat": 27.905759,
+        "lng": 89.729357
+      },
+      {
+        "name": "Gangtok",
+        "country": "India",
+        "lat": 27.330612,
+        "lng": 88.61322
+      },
+      {
+        "name": "Pelling",
+        "country": "India",
+        "lat": 29.135096,
+        "lng": 94.978806
+      },
+      {
+        "name": "Darjeeling",
+        "country": "India",
+        "lat": 27.041847,
+        "lng": 88.26513
+      },
+      {
+        "name": "Bagdogra",
+        "country": "India",
+        "lat": 26.698818,
+        "lng": 88.32016
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -1562,7 +3256,105 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktshang (Tiger's Nest)",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Taktshang (Tiger's Nest)",
+        "country": "Bhutan",
+        "lat": 27.494435,
+        "lng": 89.361684
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -1653,7 +3445,109 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Ramthangkha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -1719,7 +3613,103 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Ta Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Chimi Lhakhang Temple",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangduephodrang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger’s Nest Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Drukgyel Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Kyichu Lhakhang",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Paro Dzong",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Punakha Valley",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -1810,7 +3800,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochula Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Black Mountains",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Pele La Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang Valleys",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Bumthang Valleys",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -1896,7 +3970,107 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochula Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Jakar",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang Valleys",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Bumthang Valleys",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -1947,7 +4121,65 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2018,7 +4250,79 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2099,7 +4403,89 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Buddha Point",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochula Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Simtokha Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Kyichu Lhakhang",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2190,7 +4576,107 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktsang Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Haa Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Kila Gompa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangduephodrang Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dogar Dobji Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tango Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Lamperi",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tang Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Ura Valley",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Haa Valley",
+        "country": "Bhutan",
+        "lat": 27.370058,
+        "lng": 89.291748
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2261,7 +4747,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Haa Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro International Airport",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Haa Valley",
+        "country": "Bhutan",
+        "lat": 27.370058,
+        "lng": 89.291748
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Paro International Airport",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2312,7 +4866,65 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2393,7 +5005,95 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochula Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangdue Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Memorial Chorten",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tashichho Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro Festival",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Paro Festival",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2484,7 +5184,163 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Old Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pashupatinath Temple",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bodhnath",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey village",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey Gompa Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjika Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangduephodrang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktsang Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Ta Dzong National Museum",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Rinpung Dzong",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Old Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Pashupatinath Temple",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Bodhnath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      },
+      {
+        "name": "Trongsa Dzong",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2585,7 +5441,189 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taschichoedzong Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Zorig Chusum traditional school of arts and crafts",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktsang Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Old Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bodhnath",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lhasa City",
+        "country": "Tibet"
+      },
+      {
+        "name": "Potala Palace",
+        "country": "Tibet"
+      },
+      {
+        "name": "Drepung Monastery",
+        "country": "Tibet"
+      },
+      {
+        "name": "Jolkhang Temple",
+        "country": "Tibet"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bindabashini Temple",
+        "country": "Nepal"
+      },
+      {
+        "name": "Fewa Lake",
+        "country": "Nepal"
+      },
+      {
+        "name": "Tibetan Refuge Camp",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Old Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bodhnath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal",
+        "lat": 28.245338,
+        "lng": 83.947556
+      },
+      {
+        "name": "Bindabashini Temple",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Fewa Lake",
+        "country": "Nepal",
+        "lat": 27.605689,
+        "lng": 86.643081
+      },
+      {
+        "name": "Tibetan Refuge Camp",
+        "country": "Nepal",
+        "lat": 28.738474,
+        "lng": 83.683302
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2671,7 +5709,97 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taktsang (Tiger's Nest) monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Jambay Lhakhang Temple",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Paro Valley",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2722,7 +5850,65 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2823,7 +6009,79 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2884,7 +6142,95 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kirtipur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Kirtipur",
+        "country": "Nepal",
+        "lat": 27.674793,
+        "lng": 85.277756
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -2980,7 +6326,89 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Ghandruk",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumdra",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Ghandruk",
+        "country": "Nepal",
+        "lat": 28.376865,
+        "lng": 83.80779
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimpu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -3051,7 +6479,87 @@
       }
     ],
     "map": "",
-    "category": "Yoga&Wellness"
+    "category": "Yoga&Wellness",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kichu Lhakhang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "National Museum",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Rinpung Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -3162,7 +6670,95 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -3263,7 +6859,161 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pashupatinath",
+        "country": "Nepal"
+      },
+      {
+        "name": "Boudhanath",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Ta Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochu La Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Chimi Lhakhang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Delhi",
+        "country": "India"
+      },
+      {
+        "name": "Agra",
+        "country": "India"
+      },
+      {
+        "name": "Taj Mahal",
+        "country": "India"
+      },
+      {
+        "name": "Agra Fort",
+        "country": "India"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Pashupatinath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Boudhanath",
+        "country": "Nepal",
+        "lat": 28.066923,
+        "lng": 81.62625
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Paro Dzong",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Delhi",
+        "country": "India",
+        "lat": 28.613895,
+        "lng": 77.209006
+      },
+      {
+        "name": "Agra",
+        "country": "India",
+        "lat": 27.17493,
+        "lng": 78.00882
+      },
+      {
+        "name": "Taj Mahal",
+        "country": "India",
+        "lat": 21.143774,
+        "lng": 79.11085
+      },
+      {
+        "name": "Agra Fort",
+        "country": "India",
+        "lat": 28.602232,
+        "lng": 77.229385
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -3369,7 +7119,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Dhulikhel",
+        "country": "Nepal"
+      },
+      {
+        "name": "Balthali Village",
+        "country": "Nepal"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet"
+      },
+      {
+        "name": "Potala Palace",
+        "country": "Tibet"
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet"
+      },
+      {
+        "name": "Gyantse",
+        "country": "Tibet"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Nagarkot",
+        "country": "Nepal",
+        "lat": 27.718443,
+        "lng": 85.519104
+      },
+      {
+        "name": "Dhulikhel",
+        "country": "Nepal",
+        "lat": 27.620441,
+        "lng": 85.552956
+      },
+      {
+        "name": "Balthali Village",
+        "country": "Nepal",
+        "lat": 27.554371,
+        "lng": 85.544234
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -3495,7 +7349,101 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Kerung",
+        "country": "Tibet"
+      },
+      {
+        "name": "Tingri",
+        "country": "Tibet"
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet"
+      },
+      {
+        "name": "Gyantse",
+        "country": "Tibet"
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Chitwan National Park",
+        "country": "Nepal",
+        "lat": 27.574362,
+        "lng": 84.49334
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -3611,7 +7559,115 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet"
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet"
+      },
+      {
+        "name": "Everest Base Camp",
+        "country": "Tibet"
+      },
+      {
+        "name": "Rongbuk Monastery",
+        "country": "Tibet"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Mount Jumolhari",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Taksang (Tiger’s Nest Monastery)",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Bhaktapur",
+        "country": "Nepal",
+        "lat": 27.672186,
+        "lng": 85.42902
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal",
+        "lat": 28.245338,
+        "lng": 83.947556
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -3717,7 +7773,137 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal"
+      },
+      {
+        "name": "Bungamati",
+        "country": "Nepal"
+      },
+      {
+        "name": "Khokana",
+        "country": "Nepal"
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal"
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangdiphodrang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Drukgyel Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Patan",
+        "country": "Nepal",
+        "lat": 27.67394,
+        "lng": 85.32453
+      },
+      {
+        "name": "Bungamati",
+        "country": "Nepal",
+        "lat": 27.628517,
+        "lng": 85.3039
+      },
+      {
+        "name": "Khokana",
+        "country": "Nepal",
+        "lat": 27.635317,
+        "lng": 85.305565
+      },
+      {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "lat": 28.20881,
+        "lng": 83.99279
+      },
+      {
+        "name": "Sarangkot",
+        "country": "Nepal",
+        "lat": 28.245338,
+        "lng": 83.947556
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Wangdiphodrang",
+        "country": "Bhutan",
+        "lat": 27.544634,
+        "lng": 89.955581
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -3813,7 +7999,171 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "New Delhi",
+        "country": "India"
+      },
+      {
+        "name": "Agra",
+        "country": "India"
+      },
+      {
+        "name": "Jaipur",
+        "country": "India"
+      },
+      {
+        "name": "Cochin",
+        "country": "India"
+      },
+      {
+        "name": "Alappuzha",
+        "country": "India"
+      },
+      {
+        "name": "Colombo",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Habarana",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Polonnaruwa",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Kandy",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Nuwara Eliya",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Horton Plains National Park",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Bentota",
+        "country": "Sri Lanka"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "New Delhi",
+        "country": "India",
+        "lat": 28.613928,
+        "lng": 77.20877
+      },
+      {
+        "name": "Agra",
+        "country": "India",
+        "lat": 27.17493,
+        "lng": 78.00882
+      },
+      {
+        "name": "Jaipur",
+        "country": "India",
+        "lat": 26.920341,
+        "lng": 75.81248
+      },
+      {
+        "name": "Cochin",
+        "country": "India",
+        "lat": 9.966457,
+        "lng": 76.2428
+      },
+      {
+        "name": "Alappuzha",
+        "country": "India",
+        "lat": 9.500566,
+        "lng": 76.34208
+      },
+      {
+        "name": "Colombo",
+        "country": "Sri Lanka",
+        "lat": 6.938747,
+        "lng": 79.854113
+      },
+      {
+        "name": "Habarana",
+        "country": "Sri Lanka",
+        "lat": 8.039888,
+        "lng": 80.7555
+      },
+      {
+        "name": "Polonnaruwa",
+        "country": "Sri Lanka",
+        "lat": 7.939536,
+        "lng": 81.000339
+      },
+      {
+        "name": "Kandy",
+        "country": "Sri Lanka",
+        "lat": 7.293121,
+        "lng": 80.635036
+      },
+      {
+        "name": "Nuwara Eliya",
+        "country": "Sri Lanka",
+        "lat": 6.973886,
+        "lng": 80.767127
+      },
+      {
+        "name": "Horton Plains National Park",
+        "country": "Sri Lanka",
+        "lat": 6.802063,
+        "lng": 80.807328
+      },
+      {
+        "name": "Bentota",
+        "country": "Sri Lanka",
+        "lat": 6.421528,
+        "lng": 79.997854
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -3944,7 +8294,99 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kolkata",
+        "country": "India"
+      },
+      {
+        "name": "Sundarbans",
+        "country": "India"
+      },
+      {
+        "name": "Darjeeling",
+        "country": "India"
+      },
+      {
+        "name": "Gangtok",
+        "country": "India"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tashichho Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kolkata",
+        "country": "India",
+        "lat": 22.556843,
+        "lng": 88.35465
+      },
+      {
+        "name": "Sundarbans",
+        "country": "India",
+        "lat": 33.048412,
+        "lng": 74.488464
+      },
+      {
+        "name": "Darjeeling",
+        "country": "India",
+        "lat": 27.041847,
+        "lng": 88.26513
+      },
+      {
+        "name": "Gangtok",
+        "country": "India",
+        "lat": 27.330612,
+        "lng": 88.61322
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Kathmandu",
+        "country": "Nepal",
+        "lat": 27.714186,
+        "lng": 85.31094
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -4005,7 +8447,73 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochula Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Chimi Lhakhang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger's Nest Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Punakha Dzong",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -4076,7 +8584,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Dochula Pass",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Chimi Lhakang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tiger’s Nest Monastery",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -4147,7 +8719,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      },
+      {
+        "name": "Bumthang",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Bumthang Valley",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -4238,7 +8884,89 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bagan",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar"
+      },
+      {
+        "name": "Bangkok",
+        "country": "Thailand"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Gangtey",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yangon",
+        "country": "Myanmar",
+        "lat": 16.776854,
+        "lng": 96.1589
+      },
+      {
+        "name": "Inle Lake",
+        "country": "Myanmar",
+        "lat": 26.325338,
+        "lng": 95.44299
+      },
+      {
+        "name": "Bangkok",
+        "country": "Thailand",
+        "lat": 13.752494,
+        "lng": 100.493509
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -4304,7 +9032,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Wangdiphodrang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Haa",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha Valley",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Wangdiphodrang",
+        "country": "Bhutan",
+        "lat": 27.544634,
+        "lng": 89.955581
+      },
+      {
+        "name": "Haa",
+        "country": "Bhutan",
+        "lat": 27.370058,
+        "lng": 89.291748
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -4390,7 +9182,85 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Jakar",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Mongar",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Tashigang",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Samdrup Jongkhar",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Mongar",
+        "country": "Bhutan",
+        "lat": 27.276301,
+        "lng": 91.237536
+      },
+      {
+        "name": "Tashigang",
+        "country": "Bhutan",
+        "lat": 27.165199,
+        "lng": 89.055629
+      },
+      {
+        "name": "Samdrup Jongkhar",
+        "country": "Bhutan",
+        "lat": 26.79799,
+        "lng": 91.504226
+      }
+    ]
   },
   {
     "destination": "Bhutan",
@@ -4476,6 +9346,84 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Punakha Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Bumthang Valley",
+        "country": "Bhutan"
+      },
+      {
+        "name": "Phobjikha Valley",
+        "country": "Bhutan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paro",
+        "country": "Bhutan",
+        "lat": 27.430767,
+        "lng": 89.412987
+      },
+      {
+        "name": "Thimphu",
+        "country": "Bhutan",
+        "lat": 27.471355,
+        "lng": 89.633673
+      },
+      {
+        "name": "Punakha",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Punakha Valley",
+        "country": "Bhutan",
+        "lat": 27.584286,
+        "lng": 89.859309
+      },
+      {
+        "name": "Trongsa",
+        "country": "Bhutan",
+        "lat": 27.498249,
+        "lng": 90.469147
+      },
+      {
+        "name": "Bumthang Valley",
+        "country": "Bhutan",
+        "lat": 27.704364,
+        "lng": 90.681641
+      }
+    ]
   }
 ]

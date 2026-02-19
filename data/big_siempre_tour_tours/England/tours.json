@@ -73,7 +73,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "London",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Bath",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Exeter",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Charlestown",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "St Austell",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "St Ives",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Penzance",
+        "country": "United Kingdom"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "London",
+        "country": "United Kingdom",
+        "lat": 51.5073,
+        "lng": -0.127647
+      },
+      {
+        "name": "Bath",
+        "country": "United Kingdom",
+        "lat": 51.381386,
+        "lng": -2.359696
+      },
+      {
+        "name": "Exeter",
+        "country": "United Kingdom",
+        "lat": 50.725562,
+        "lng": -3.526911
+      },
+      {
+        "name": "Charlestown",
+        "country": "United Kingdom",
+        "lat": 50.332726,
+        "lng": -4.757643
+      },
+      {
+        "name": "St Austell",
+        "country": "United Kingdom",
+        "lat": 50.338375,
+        "lng": -4.795187
+      },
+      {
+        "name": "St Ives",
+        "country": "United Kingdom",
+        "lat": 50.212463,
+        "lng": -5.480471
+      },
+      {
+        "name": "Penzance",
+        "country": "United Kingdom",
+        "lat": 50.11891,
+        "lng": -5.537729
+      }
+    ]
   },
   {
     "destination": "England",
@@ -184,6 +268,92 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "London",
+        "country": "England"
+      },
+      {
+        "name": "East Sussex",
+        "country": "England"
+      },
+      {
+        "name": "Seven Sisters",
+        "country": "England"
+      },
+      {
+        "name": "Battle of Hastings",
+        "country": "England"
+      },
+      {
+        "name": "Rye",
+        "country": "England"
+      },
+      {
+        "name": "West Sussex",
+        "country": "England"
+      },
+      {
+        "name": "Lewes",
+        "country": "England"
+      },
+      {
+        "name": "Arundel Castle",
+        "country": "England"
+      },
+      {
+        "name": "Petworth House",
+        "country": "England"
+      },
+      {
+        "name": "Portsmouth",
+        "country": "England"
+      },
+      {
+        "name": "Jurassic Coast",
+        "country": "England"
+      },
+      {
+        "name": "Lulworth Cove",
+        "country": "England"
+      },
+      {
+        "name": "Durdle Door",
+        "country": "England"
+      },
+      {
+        "name": "Corfe Castle",
+        "country": "England"
+      },
+      {
+        "name": "Lyme Regis",
+        "country": "England"
+      },
+      {
+        "name": "Bath",
+        "country": "England"
+      },
+      {
+        "name": "Cotswolds",
+        "country": "England"
+      },
+      {
+        "name": "Broadway",
+        "country": "England"
+      },
+      {
+        "name": "Blenheim Palace",
+        "country": "England"
+      },
+      {
+        "name": "Henley-on-Thames",
+        "country": "England"
+      }
+    ]
   }
 ]

@@ -83,6 +83,130 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali"
+      },
+      {
+        "name": "Djenné",
+        "country": "Mali"
+      },
+      {
+        "name": "Dogon Country",
+        "country": "Mali"
+      },
+      {
+        "name": "Mopti",
+        "country": "Mali"
+      },
+      {
+        "name": "Sikasso",
+        "country": "Mali"
+      },
+      {
+        "name": "Bobo Dioulasso",
+        "country": "Burkina Faso"
+      },
+      {
+        "name": "Gaoua",
+        "country": "Burkina Faso"
+      },
+      {
+        "name": "Ouagadougou",
+        "country": "Burkina Faso"
+      },
+      {
+        "name": "San",
+        "country": "Mali"
+      },
+      {
+        "name": "Segou",
+        "country": "Mali"
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.649319,
+        "lng": -8.000337
+      },
+      {
+        "name": "Djenné",
+        "country": "Mali",
+        "lat": 13.905163,
+        "lng": -4.554858
+      },
+      {
+        "name": "Dogon Country",
+        "country": "Mali",
+        "lat": 13.390119,
+        "lng": -3.803745
+      },
+      {
+        "name": "Mopti",
+        "country": "Mali",
+        "lat": 14.487728,
+        "lng": -4.189247
+      },
+      {
+        "name": "Sikasso",
+        "country": "Mali",
+        "lat": 11.316498,
+        "lng": -5.67775
+      },
+      {
+        "name": "Bobo Dioulasso",
+        "country": "Burkina Faso",
+        "lat": 11.187327,
+        "lng": -4.301808
+      },
+      {
+        "name": "Gaoua",
+        "country": "Burkina Faso",
+        "lat": 10.330334,
+        "lng": -3.179568
+      },
+      {
+        "name": "Ouagadougou",
+        "country": "Burkina Faso",
+        "lat": 12.363142,
+        "lng": -1.529773
+      },
+      {
+        "name": "San",
+        "country": "Mali",
+        "lat": 13.304307,
+        "lng": -4.895727
+      },
+      {
+        "name": "Segou",
+        "country": "Mali",
+        "lat": 13.441518,
+        "lng": -6.268147
+      },
+      {
+        "name": "Bamako",
+        "country": "Mali",
+        "lat": 12.649319,
+        "lng": -8.000337
+      }
+    ]
   }
 ]

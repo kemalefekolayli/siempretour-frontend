@@ -68,7 +68,79 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Bunce Island",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Kabala Town",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Robgbonko Village",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Kent Village",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Banana Islands",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Tokeh Beach",
+        "country": "Sierra Leone"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "lat": 8.462246,
+        "lng": -13.178415
+      },
+      {
+        "name": "Kabala Town",
+        "country": "Sierra Leone",
+        "lat": 9.587653,
+        "lng": -11.550064
+      },
+      {
+        "name": "Robgbonko Village",
+        "country": "Sierra Leone",
+        "lat": 8.786204,
+        "lng": -12.005815
+      },
+      {
+        "name": "Kent Village",
+        "country": "Sierra Leone",
+        "lat": 8.173843,
+        "lng": -13.160005
+      },
+      {
+        "name": "Tokeh Beach",
+        "country": "Sierra Leone",
+        "lat": 8.308539,
+        "lng": -13.190787
+      }
+    ]
   },
   {
     "destination": "Sierra Leone",
@@ -134,7 +206,47 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Bunce Island",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Tacugama Chimpanzee Sanctuary",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Banana Islands",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Tiwai Island Wildlife Sanctuary",
+        "country": "Sierra Leone"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "lat": 8.462246,
+        "lng": -13.178415
+      }
+    ]
   },
   {
     "destination": "Sierra Leone",
@@ -215,6 +327,126 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Bunce Island",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Tasso Island",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Sugar Loaf Mountain",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Tacugama Chimpanzee Sanctuary",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Makeni",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Rogbonko",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Wara Wara Mountains",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Kabala",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Boma",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Nainiahun",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Tiwai Island",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Banana Island",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "River No. 2",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Lungi Airport",
+        "country": "Sierra Leone"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "lat": 8.462246,
+        "lng": -13.178415
+      },
+      {
+        "name": "Tasso Island",
+        "country": "Sierra Leone",
+        "lat": 8.994215,
+        "lng": -13.075069
+      },
+      {
+        "name": "Makeni",
+        "country": "Sierra Leone",
+        "lat": 8.882811,
+        "lng": -12.046163
+      },
+      {
+        "name": "Rogbonko",
+        "country": "Sierra Leone",
+        "lat": 8.786204,
+        "lng": -12.005815
+      },
+      {
+        "name": "Kabala",
+        "country": "Sierra Leone",
+        "lat": 9.587653,
+        "lng": -11.550064
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "lat": 8.462246,
+        "lng": -13.178415
+      },
+      {
+        "name": "Lungi Airport",
+        "country": "Sierra Leone",
+        "lat": 7.90549,
+        "lng": -11.544008
+      }
+    ]
   }
 ]

@@ -73,7 +73,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tipaza",
+        "country": "Algeria"
+      },
+      {
+        "name": "Cherchell",
+        "country": "Algeria"
+      },
+      {
+        "name": "Ghardaia",
+        "country": "Algeria"
+      },
+      {
+        "name": "M'sila",
+        "country": "Algeria"
+      },
+      {
+        "name": "Batna",
+        "country": "Algeria"
+      },
+      {
+        "name": "Timgad",
+        "country": "Algeria"
+      },
+      {
+        "name": "Constantine",
+        "country": "Algeria"
+      },
+      {
+        "name": "Djemila",
+        "country": "Algeria"
+      },
+      {
+        "name": "Setif",
+        "country": "Algeria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Tipaza",
+        "country": "Algeria",
+        "lat": 36.591133,
+        "lng": 2.446095
+      },
+      {
+        "name": "Cherchell",
+        "country": "Algeria",
+        "lat": 36.60755,
+        "lng": 2.189967
+      },
+      {
+        "name": "Ghardaia",
+        "country": "Algeria",
+        "lat": 32.4944,
+        "lng": 3.644479
+      },
+      {
+        "name": "M'sila",
+        "country": "Algeria",
+        "lat": 35.708755,
+        "lng": 4.537155
+      },
+      {
+        "name": "Batna",
+        "country": "Algeria",
+        "lat": 35.553337,
+        "lng": 6.177554
+      },
+      {
+        "name": "Timgad",
+        "country": "Algeria",
+        "lat": 35.4935,
+        "lng": 6.468986
+      },
+      {
+        "name": "Constantine",
+        "country": "Algeria",
+        "lat": 36.364346,
+        "lng": 6.608244
+      },
+      {
+        "name": "Djemila",
+        "country": "Algeria",
+        "lat": 36.314487,
+        "lng": 5.736217
+      },
+      {
+        "name": "Setif",
+        "country": "Algeria",
+        "lat": 36.189857,
+        "lng": 5.410658
+      }
+    ]
   },
   {
     "destination": "Algeria",
@@ -164,7 +278,151 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria"
+      },
+      {
+        "name": "Sétif",
+        "country": "Algeria"
+      },
+      {
+        "name": "Djemila",
+        "country": "Algeria"
+      },
+      {
+        "name": "Constantine",
+        "country": "Algeria"
+      },
+      {
+        "name": "Timgad",
+        "country": "Algeria"
+      },
+      {
+        "name": "Biskra",
+        "country": "Algeria"
+      },
+      {
+        "name": "El Oued",
+        "country": "Algeria"
+      },
+      {
+        "name": "Ghardaia",
+        "country": "Algeria"
+      },
+      {
+        "name": "El Menia",
+        "country": "Algeria"
+      },
+      {
+        "name": "Timimoun",
+        "country": "Algeria"
+      },
+      {
+        "name": "Oran",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tipasa",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tomb of the Christian",
+        "country": "Algeria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Sétif",
+        "country": "Algeria",
+        "lat": 36.189857,
+        "lng": 5.410658
+      },
+      {
+        "name": "Djemila",
+        "country": "Algeria",
+        "lat": 36.314487,
+        "lng": 5.736217
+      },
+      {
+        "name": "Constantine",
+        "country": "Algeria",
+        "lat": 36.364346,
+        "lng": 6.608244
+      },
+      {
+        "name": "Timgad",
+        "country": "Algeria",
+        "lat": 35.4935,
+        "lng": 6.468986
+      },
+      {
+        "name": "Biskra",
+        "country": "Algeria",
+        "lat": 34.85369,
+        "lng": 5.727728
+      },
+      {
+        "name": "El Oued",
+        "country": "Algeria",
+        "lat": 33.361176,
+        "lng": 6.860573
+      },
+      {
+        "name": "Ghardaia",
+        "country": "Algeria",
+        "lat": 32.4944,
+        "lng": 3.644479
+      },
+      {
+        "name": "El Menia",
+        "country": "Algeria",
+        "lat": 30.583326,
+        "lng": 2.883603
+      },
+      {
+        "name": "Timimoun",
+        "country": "Algeria",
+        "lat": 29.260512,
+        "lng": 0.228592
+      },
+      {
+        "name": "Oran",
+        "country": "Algeria",
+        "lat": 35.701992,
+        "lng": -0.642955
+      },
+      {
+        "name": "Tipasa",
+        "country": "Algeria",
+        "lat": 36.591818,
+        "lng": 2.448251
+      },
+      {
+        "name": "Tomb of the Christian",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      }
+    ]
   },
   {
     "destination": "Algeria",
@@ -235,7 +493,151 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria"
+      },
+      {
+        "name": "Djanet",
+        "country": "Algeria"
+      },
+      {
+        "name": "Oued El Biredj",
+        "country": "Algeria"
+      },
+      {
+        "name": "Markawandi",
+        "country": "Algeria"
+      },
+      {
+        "name": "Moul El Naga",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tin Koukak",
+        "country": "Algeria"
+      },
+      {
+        "name": "Oued Tlafzo",
+        "country": "Algeria"
+      },
+      {
+        "name": "Djaren Canyon",
+        "country": "Algeria"
+      },
+      {
+        "name": "Timrass",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tekoubaouine",
+        "country": "Algeria"
+      },
+      {
+        "name": "Erg Admer",
+        "country": "Algeria"
+      },
+      {
+        "name": "Djanet",
+        "country": "Algeria"
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Djanet",
+        "country": "Algeria",
+        "lat": 24.554165,
+        "lng": 9.484582
+      },
+      {
+        "name": "Oued El Biredj",
+        "country": "Algeria",
+        "lat": 36.10503,
+        "lng": 2.713554
+      },
+      {
+        "name": "Markawandi",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Moul El Naga",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Tin Koukak",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Oued Tlafzo",
+        "country": "Algeria",
+        "lat": 36.10503,
+        "lng": 2.713554
+      },
+      {
+        "name": "Djaren Canyon",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Timrass",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Tekoubaouine",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Erg Admer",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Djanet",
+        "country": "Algeria",
+        "lat": 24.554165,
+        "lng": 9.484582
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      }
+    ]
   },
   {
     "destination": "Algeria",
@@ -286,7 +688,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tipasa",
+        "country": "Algeria"
+      },
+      {
+        "name": "Bejaia",
+        "country": "Algeria"
+      },
+      {
+        "name": "Gouraya National Park",
+        "country": "Algeria"
+      },
+      {
+        "name": "Setif",
+        "country": "Algeria"
+      },
+      {
+        "name": "Djemila",
+        "country": "Algeria"
+      },
+      {
+        "name": "Constantine",
+        "country": "Algeria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Tipasa",
+        "country": "Algeria",
+        "lat": 36.591818,
+        "lng": 2.448251
+      },
+      {
+        "name": "Bejaia",
+        "country": "Algeria",
+        "lat": 36.751873,
+        "lng": 5.055746
+      },
+      {
+        "name": "Gouraya National Park",
+        "country": "Algeria",
+        "lat": 36.571968,
+        "lng": 1.903061
+      },
+      {
+        "name": "Setif",
+        "country": "Algeria",
+        "lat": 36.189857,
+        "lng": 5.410658
+      },
+      {
+        "name": "Djemila",
+        "country": "Algeria",
+        "lat": 36.314487,
+        "lng": 5.736217
+      },
+      {
+        "name": "Constantine",
+        "country": "Algeria",
+        "lat": 36.364346,
+        "lng": 6.608244
+      }
+    ]
   },
   {
     "destination": "Algeria",
@@ -382,7 +868,151 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria"
+      },
+      {
+        "name": "Cherchell",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tipasa",
+        "country": "Algeria"
+      },
+      {
+        "name": "Djemila",
+        "country": "Algeria"
+      },
+      {
+        "name": "Constantine",
+        "country": "Algeria"
+      },
+      {
+        "name": "Timgad",
+        "country": "Algeria"
+      },
+      {
+        "name": "Biskra",
+        "country": "Algeria"
+      },
+      {
+        "name": "El Oued",
+        "country": "Algeria"
+      },
+      {
+        "name": "Ghardaia",
+        "country": "Algeria"
+      },
+      {
+        "name": "El Golea",
+        "country": "Algeria"
+      },
+      {
+        "name": "Timimoun",
+        "country": "Algeria"
+      },
+      {
+        "name": "Oran",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tlemcen",
+        "country": "Algeria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Cherchell",
+        "country": "Algeria",
+        "lat": 36.60755,
+        "lng": 2.189967
+      },
+      {
+        "name": "Tipasa",
+        "country": "Algeria",
+        "lat": 36.591818,
+        "lng": 2.448251
+      },
+      {
+        "name": "Djemila",
+        "country": "Algeria",
+        "lat": 36.314487,
+        "lng": 5.736217
+      },
+      {
+        "name": "Constantine",
+        "country": "Algeria",
+        "lat": 36.364346,
+        "lng": 6.608244
+      },
+      {
+        "name": "Timgad",
+        "country": "Algeria",
+        "lat": 35.4935,
+        "lng": 6.468986
+      },
+      {
+        "name": "Biskra",
+        "country": "Algeria",
+        "lat": 34.85369,
+        "lng": 5.727728
+      },
+      {
+        "name": "El Oued",
+        "country": "Algeria",
+        "lat": 33.361176,
+        "lng": 6.860573
+      },
+      {
+        "name": "Ghardaia",
+        "country": "Algeria",
+        "lat": 32.4944,
+        "lng": 3.644479
+      },
+      {
+        "name": "El Golea",
+        "country": "Algeria",
+        "lat": 30.583326,
+        "lng": 2.883603
+      },
+      {
+        "name": "Timimoun",
+        "country": "Algeria",
+        "lat": 29.260512,
+        "lng": 0.228592
+      },
+      {
+        "name": "Oran",
+        "country": "Algeria",
+        "lat": 35.701992,
+        "lng": -0.642955
+      },
+      {
+        "name": "Tlemcen",
+        "country": "Algeria",
+        "lat": 34.88326,
+        "lng": -1.310686
+      }
+    ]
   },
   {
     "destination": "Algeria",
@@ -473,7 +1103,151 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria"
+      },
+      {
+        "name": "Djanet",
+        "country": "Algeria"
+      },
+      {
+        "name": "Iherir",
+        "country": "Algeria"
+      },
+      {
+        "name": "Idaren Gorge",
+        "country": "Algeria"
+      },
+      {
+        "name": "Dider",
+        "country": "Algeria"
+      },
+      {
+        "name": "Erg Admer",
+        "country": "Algeria"
+      },
+      {
+        "name": "Essendilene",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tikoubaouine",
+        "country": "Algeria"
+      },
+      {
+        "name": "Moul Enaga",
+        "country": "Algeria"
+      },
+      {
+        "name": "In Djaren",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tin Merzouga",
+        "country": "Algeria"
+      },
+      {
+        "name": "In Tehaq",
+        "country": "Algeria"
+      },
+      {
+        "name": "The Black Dunes",
+        "country": "Algeria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Djanet",
+        "country": "Algeria",
+        "lat": 24.554165,
+        "lng": 9.484582
+      },
+      {
+        "name": "Iherir",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Idaren Gorge",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Dider",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Erg Admer",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Essendilene",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Tikoubaouine",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Moul Enaga",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "In Djaren",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Tin Merzouga",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "In Tehaq",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "The Black Dunes",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      }
+    ]
   },
   {
     "destination": "Algeria",
@@ -579,6 +1353,190 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tipaza",
+        "country": "Algeria"
+      },
+      {
+        "name": "Cherchell",
+        "country": "Algeria"
+      },
+      {
+        "name": "Ghardaia",
+        "country": "Algeria"
+      },
+      {
+        "name": "M'sila",
+        "country": "Algeria"
+      },
+      {
+        "name": "Batna",
+        "country": "Algeria"
+      },
+      {
+        "name": "Timgad",
+        "country": "Algeria"
+      },
+      {
+        "name": "Constantine",
+        "country": "Algeria"
+      },
+      {
+        "name": "Djemila",
+        "country": "Algeria"
+      },
+      {
+        "name": "Setif",
+        "country": "Algeria"
+      },
+      {
+        "name": "Djanet",
+        "country": "Algeria"
+      },
+      {
+        "name": "Oued El Biredj",
+        "country": "Algeria"
+      },
+      {
+        "name": "Markawandi",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tin Koukak",
+        "country": "Algeria"
+      },
+      {
+        "name": "Djaren canyon",
+        "country": "Algeria"
+      },
+      {
+        "name": "Timrass",
+        "country": "Algeria"
+      },
+      {
+        "name": "Tekoubaouine",
+        "country": "Algeria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Algiers",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Tipaza",
+        "country": "Algeria",
+        "lat": 36.591133,
+        "lng": 2.446095
+      },
+      {
+        "name": "Cherchell",
+        "country": "Algeria",
+        "lat": 36.60755,
+        "lng": 2.189967
+      },
+      {
+        "name": "Ghardaia",
+        "country": "Algeria",
+        "lat": 32.4944,
+        "lng": 3.644479
+      },
+      {
+        "name": "M'sila",
+        "country": "Algeria",
+        "lat": 35.708755,
+        "lng": 4.537155
+      },
+      {
+        "name": "Batna",
+        "country": "Algeria",
+        "lat": 35.553337,
+        "lng": 6.177554
+      },
+      {
+        "name": "Timgad",
+        "country": "Algeria",
+        "lat": 35.4935,
+        "lng": 6.468986
+      },
+      {
+        "name": "Constantine",
+        "country": "Algeria",
+        "lat": 36.364346,
+        "lng": 6.608244
+      },
+      {
+        "name": "Djemila",
+        "country": "Algeria",
+        "lat": 36.314487,
+        "lng": 5.736217
+      },
+      {
+        "name": "Setif",
+        "country": "Algeria",
+        "lat": 36.189857,
+        "lng": 5.410658
+      },
+      {
+        "name": "Djanet",
+        "country": "Algeria",
+        "lat": 24.554165,
+        "lng": 9.484582
+      },
+      {
+        "name": "Oued El Biredj",
+        "country": "Algeria",
+        "lat": 36.10503,
+        "lng": 2.713554
+      },
+      {
+        "name": "Markawandi",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Tin Koukak",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Djaren canyon",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Timrass",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
+        "name": "Tekoubaouine",
+        "country": "Algeria",
+        "lat": 36.775361,
+        "lng": 3.060188
+      }
+    ]
   }
 ]

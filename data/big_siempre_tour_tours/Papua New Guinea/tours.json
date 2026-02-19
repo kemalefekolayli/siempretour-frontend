@@ -73,7 +73,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Goroka",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Asaro Village",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Mt Hagen",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Simbai",
+        "country": "Papua New Guinea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea",
+        "lat": -9.47433,
+        "lng": 147.15995
+      },
+      {
+        "name": "Goroka",
+        "country": "Papua New Guinea",
+        "lat": -6.073003,
+        "lng": 145.393289
+      },
+      {
+        "name": "Asaro Village",
+        "country": "Papua New Guinea",
+        "lat": -6.008602,
+        "lng": 145.309856
+      },
+      {
+        "name": "Mt Hagen",
+        "country": "Papua New Guinea",
+        "lat": -5.858784,
+        "lng": 144.231637
+      },
+      {
+        "name": "Simbai",
+        "country": "Papua New Guinea",
+        "lat": -5.273743,
+        "lng": 144.543831
+      }
+    ]
   },
   {
     "destination": "Papua New Guinea",
@@ -189,7 +253,191 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairns",
+        "country": "Australia"
+      },
+      {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Doini Island",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Cape Nelson",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Tufi Island",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "D’Entrecasteaux Islands",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Trobriand Islands",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Rabaul",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Nissan Island",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Bougainville Island",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Kolombangara Island",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Tetepare Island",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Nggela Sule & Tulagi Islands",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Santa Ana Island",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Nendö Island",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Vanikoro Island",
+        "country": "Solomon Islands"
+      },
+      {
+        "name": "Espiritu Santo",
+        "country": "Vanuatu"
+      },
+      {
+        "name": "Ambrym Island",
+        "country": "Vanuatu"
+      },
+      {
+        "name": "Efate Island",
+        "country": "Vanuatu"
+      },
+      {
+        "name": "Port Vila",
+        "country": "Vanuatu"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairns",
+        "country": "Australia",
+        "lat": -16.92133,
+        "lng": 145.77678
+      },
+      {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea",
+        "lat": -9.47433,
+        "lng": 147.15995
+      },
+      {
+        "name": "Doini Island",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Cape Nelson",
+        "country": "Papua New Guinea",
+        "lat": -6.22055,
+        "lng": 147.206293
+      },
+      {
+        "name": "Tufi Island",
+        "country": "Papua New Guinea",
+        "lat": -9.079176,
+        "lng": 149.317615
+      },
+      {
+        "name": "D’Entrecasteaux Islands",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Trobriand Islands",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Rabaul",
+        "country": "Papua New Guinea",
+        "lat": -4.213787,
+        "lng": 152.17622
+      },
+      {
+        "name": "Nissan Island",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Bougainville Island",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Nggela Sule & Tulagi Islands",
+        "country": "Solomon Islands",
+        "lat": -9.10152,
+        "lng": 160.15014
+      },
+      {
+        "name": "Espiritu Santo",
+        "country": "Vanuatu",
+        "lat": -17.687331,
+        "lng": 168.304937
+      },
+      {
+        "name": "Ambrym Island",
+        "country": "Vanuatu",
+        "lat": -17.687331,
+        "lng": 168.304937
+      },
+      {
+        "name": "Efate Island",
+        "country": "Vanuatu",
+        "lat": -17.687331,
+        "lng": 168.304937
+      },
+      {
+        "name": "Port Vila",
+        "country": "Vanuatu",
+        "lat": -17.731392,
+        "lng": 168.306222
+      }
+    ]
   },
   {
     "destination": "Papua New Guinea",
@@ -265,7 +513,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Wewak",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Mount Hagen",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Paiya",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Mindima Village",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Goroka",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Asaro Village",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Varirata National Park",
+        "country": "Papua New Guinea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea",
+        "lat": -9.47433,
+        "lng": 147.15995
+      },
+      {
+        "name": "Wewak",
+        "country": "Papua New Guinea",
+        "lat": -3.55422,
+        "lng": 143.62709
+      },
+      {
+        "name": "Mount Hagen",
+        "country": "Papua New Guinea",
+        "lat": -5.855876,
+        "lng": 144.229508
+      },
+      {
+        "name": "Paiya",
+        "country": "Papua New Guinea",
+        "lat": -5.819492,
+        "lng": 144.105058
+      },
+      {
+        "name": "Mindima Village",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Goroka",
+        "country": "Papua New Guinea",
+        "lat": -6.073003,
+        "lng": 145.393289
+      },
+      {
+        "name": "Asaro Village",
+        "country": "Papua New Guinea",
+        "lat": -6.008602,
+        "lng": 145.309856
+      },
+      {
+        "name": "Varirata National Park",
+        "country": "Papua New Guinea",
+        "lat": -4.776265,
+        "lng": 152.352498
+      }
+    ]
   },
   {
     "destination": "Papua New Guinea",
@@ -336,7 +678,151 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Kavieng",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Nusa Island Retreat",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Nago Island",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Enuk Island",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Kabotteron Island",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Nusaum",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Lemus Island",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Nusakelo",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Lamalangit",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Tsoilik",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Tsoiliks Lagoon",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Bird Island",
+        "country": "Papua New Guinea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea",
+        "lat": -9.47433,
+        "lng": 147.15995
+      },
+      {
+        "name": "Kavieng",
+        "country": "Papua New Guinea",
+        "lat": -2.576154,
+        "lng": 150.791234
+      },
+      {
+        "name": "Nusa Island Retreat",
+        "country": "Papua New Guinea",
+        "lat": -2.425265,
+        "lng": 150.331437
+      },
+      {
+        "name": "Nago Island",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Enuk Island",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Kabotteron Island",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Nusaum",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Lemus Island",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Nusakelo",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Lamalangit",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Tsoilik",
+        "country": "Papua New Guinea",
+        "lat": -2.418637,
+        "lng": 150.415149
+      },
+      {
+        "name": "Tsoiliks Lagoon",
+        "country": "Papua New Guinea",
+        "lat": -2.418637,
+        "lng": 150.415149
+      },
+      {
+        "name": "Bird Island",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      }
+    ]
   },
   {
     "destination": "Papua New Guinea",
@@ -427,6 +913,110 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Wewak",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Sepik River",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Mount Hagen",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Simbai Village",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Goroka",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Rabaul",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "East New Britain",
+        "country": "Papua New Guinea"
+      },
+      {
+        "name": "Duke of York Islands",
+        "country": "Papua New Guinea"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Port Moresby",
+        "country": "Papua New Guinea",
+        "lat": -9.47433,
+        "lng": 147.15995
+      },
+      {
+        "name": "Wewak",
+        "country": "Papua New Guinea",
+        "lat": -3.55422,
+        "lng": 143.62709
+      },
+      {
+        "name": "Sepik River",
+        "country": "Papua New Guinea",
+        "lat": -2.808543,
+        "lng": 151.994348
+      },
+      {
+        "name": "Mount Hagen",
+        "country": "Papua New Guinea",
+        "lat": -5.855876,
+        "lng": 144.229508
+      },
+      {
+        "name": "Simbai Village",
+        "country": "Papua New Guinea",
+        "lat": -5.273743,
+        "lng": 144.543831
+      },
+      {
+        "name": "Goroka",
+        "country": "Papua New Guinea",
+        "lat": -6.073003,
+        "lng": 145.393289
+      },
+      {
+        "name": "Rabaul",
+        "country": "Papua New Guinea",
+        "lat": -4.213787,
+        "lng": 152.17622
+      },
+      {
+        "name": "East New Britain",
+        "country": "Papua New Guinea",
+        "lat": -4.343217,
+        "lng": 152.268674
+      },
+      {
+        "name": "Duke of York Islands",
+        "country": "Papua New Guinea",
+        "lat": -5.235413,
+        "lng": 151.480405
+      }
+    ]
   }
 ]

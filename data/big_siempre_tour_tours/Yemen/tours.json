@@ -63,7 +63,165 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Socotra",
+        "country": "Yemen"
+      },
+      {
+        "name": "Hadibo",
+        "country": "Yemen"
+      },
+      {
+        "name": "Delisha",
+        "country": "Yemen"
+      },
+      {
+        "name": "Homhil",
+        "country": "Yemen"
+      },
+      {
+        "name": "Arher",
+        "country": "Yemen"
+      },
+      {
+        "name": "Ayhaft Canyon National Park",
+        "country": "Yemen"
+      },
+      {
+        "name": "Momi Plateau",
+        "country": "Yemen"
+      },
+      {
+        "name": "Diksam Plateau",
+        "country": "Yemen"
+      },
+      {
+        "name": "Shebahon Viewpoint",
+        "country": "Yemen"
+      },
+      {
+        "name": "Wadi Dirhur",
+        "country": "Yemen"
+      },
+      {
+        "name": "Hoq Cave",
+        "country": "Yemen"
+      },
+      {
+        "name": "Dihamri Bay",
+        "country": "Yemen"
+      },
+      {
+        "name": "Qalansiya",
+        "country": "Yemen"
+      },
+      {
+        "name": "Detwah Lagoon",
+        "country": "Yemen"
+      },
+      {
+        "name": "Shuaab",
+        "country": "Yemen"
+      },
+      {
+        "name": "Zahek Sand Dunes",
+        "country": "Yemen"
+      },
+      {
+        "name": "Omak",
+        "country": "Yemen"
+      },
+      {
+        "name": "Digub Cave",
+        "country": "Yemen"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Socotra",
+        "country": "Yemen",
+        "lat": 12.651236,
+        "lng": 54.02366
+      },
+      {
+        "name": "Hadibo",
+        "country": "Yemen",
+        "lat": 12.648225,
+        "lng": 54.004492
+      },
+      {
+        "name": "Arher",
+        "country": "Yemen",
+        "lat": 13.366891,
+        "lng": 44.415267
+      },
+      {
+        "name": "Ayhaft Canyon National Park",
+        "country": "Yemen",
+        "lat": 14.257012,
+        "lng": 43.651269
+      },
+      {
+        "name": "Momi Plateau",
+        "country": "Yemen",
+        "lat": 12.631526,
+        "lng": 53.89473
+      },
+      {
+        "name": "Diksam Plateau",
+        "country": "Yemen",
+        "lat": 14.060156,
+        "lng": 44.065592
+      },
+      {
+        "name": "Wadi Dirhur",
+        "country": "Yemen",
+        "lat": 14.388316,
+        "lng": 44.822464
+      },
+      {
+        "name": "Qalansiya",
+        "country": "Yemen",
+        "lat": 12.693597,
+        "lng": 53.484392
+      },
+      {
+        "name": "Shuaab",
+        "country": "Yemen",
+        "lat": 12.506472,
+        "lng": 54.257812
+      },
+      {
+        "name": "Zahek Sand Dunes",
+        "country": "Yemen",
+        "lat": 15.730012,
+        "lng": 48.317099
+      },
+      {
+        "name": "Omak",
+        "country": "Yemen",
+        "lat": 13.615221,
+        "lng": 44.895867
+      },
+      {
+        "name": "Digub Cave",
+        "country": "Yemen",
+        "lat": 16.021247,
+        "lng": 43.491999
+      }
+    ]
   },
   {
     "destination": "Yemen",
@@ -144,6 +302,120 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Hadiboh",
+        "country": "Yemen"
+      },
+      {
+        "name": "Delisha Beach",
+        "country": "Yemen"
+      },
+      {
+        "name": "Qalansyia",
+        "country": "Yemen"
+      },
+      {
+        "name": "Detwah Lagoon",
+        "country": "Yemen"
+      },
+      {
+        "name": "Shu’ab Beach",
+        "country": "Yemen"
+      },
+      {
+        "name": "Dixam Plateau",
+        "country": "Yemen"
+      },
+      {
+        "name": "Durhur Canyon",
+        "country": "Yemen"
+      },
+      {
+        "name": "Firmhin",
+        "country": "Yemen"
+      },
+      {
+        "name": "Skand Mountain",
+        "country": "Yemen"
+      },
+      {
+        "name": "Homhil Protected Area",
+        "country": "Yemen"
+      },
+      {
+        "name": "Arher Beach",
+        "country": "Yemen"
+      },
+      {
+        "name": "Ras Irisseyl",
+        "country": "Yemen"
+      },
+      {
+        "name": "Socotra Island",
+        "country": "Yemen"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Hadiboh",
+        "country": "Yemen",
+        "lat": 12.648225,
+        "lng": 54.004492
+      },
+      {
+        "name": "Shu’ab Beach",
+        "country": "Yemen",
+        "lat": 15.881219,
+        "lng": 44.105911
+      },
+      {
+        "name": "Dixam Plateau",
+        "country": "Yemen",
+        "lat": 13.801191,
+        "lng": 44.060392
+      },
+      {
+        "name": "Durhur Canyon",
+        "country": "Yemen",
+        "lat": 13.197046,
+        "lng": 44.242658
+      },
+      {
+        "name": "Homhil Protected Area",
+        "country": "Yemen",
+        "lat": 16.165466,
+        "lng": 49.296995
+      },
+      {
+        "name": "Arher Beach",
+        "country": "Yemen",
+        "lat": 13.366891,
+        "lng": 44.415267
+      },
+      {
+        "name": "Ras Irisseyl",
+        "country": "Yemen",
+        "lat": 13.95634,
+        "lng": 44.258369
+      },
+      {
+        "name": "Socotra Island",
+        "country": "Yemen",
+        "lat": 12.651236,
+        "lng": 54.02366
+      }
+    ]
   }
 ]

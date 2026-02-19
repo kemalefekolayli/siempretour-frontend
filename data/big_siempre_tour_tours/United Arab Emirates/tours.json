@@ -63,7 +63,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Fujairah",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Sharjah",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Ajman",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.453524,
+        "lng": 54.377438
+      },
+      {
+        "name": "Fujairah",
+        "country": "United Arab Emirates",
+        "lat": 25.122963,
+        "lng": 56.338078
+      },
+      {
+        "name": "Sharjah",
+        "country": "United Arab Emirates",
+        "lat": 25.34614,
+        "lng": 55.42093
+      },
+      {
+        "name": "Ajman",
+        "country": "United Arab Emirates",
+        "lat": 25.409328,
+        "lng": 55.44359
+      }
+    ]
   },
   {
     "destination": "United Arab Emirates",
@@ -124,7 +188,41 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.453524,
+        "lng": 54.377438
+      }
+    ]
   },
   {
     "destination": "United Arab Emirates",
@@ -185,7 +283,41 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.453524,
+        "lng": 54.377438
+      }
+    ]
   },
   {
     "destination": "United Arab Emirates",
@@ -236,7 +368,151 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Lahbab Desert",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Bluewaters Island",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Burj Khalifa",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Dubai Marina",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Palm Jumeirah",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Madinat Jumeirah",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Atlantis The Palm",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Jumeirah Beach",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Al Bastakiya",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Dubai Creek",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Gold Souk",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Spice Souk",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Lahbab Desert",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      },
+      {
+        "name": "Bluewaters Island",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      },
+      {
+        "name": "Burj Khalifa",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      },
+      {
+        "name": "Dubai Marina",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Palm Jumeirah",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      },
+      {
+        "name": "Madinat Jumeirah",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      },
+      {
+        "name": "Atlantis The Palm",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      },
+      {
+        "name": "Jumeirah Beach",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      },
+      {
+        "name": "Al Bastakiya",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      },
+      {
+        "name": "Dubai Creek",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Gold Souk",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      },
+      {
+        "name": "Spice Souk",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      }
+    ]
   },
   {
     "destination": "United Arab Emirates",
@@ -302,7 +578,85 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Burj Khalifa",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Desert",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Musandam Peninsula",
+        "country": "null"
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Louvre Museum",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Sheikh Zayed Grand Mosque",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Burj Khalifa",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      },
+      {
+        "name": "Desert",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.453524,
+        "lng": 54.377438
+      },
+      {
+        "name": "Louvre Museum",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      },
+      {
+        "name": "Sheikh Zayed Grand Mosque",
+        "country": "United Arab Emirates",
+        "lat": 25.774899,
+        "lng": 55.937153
+      }
+    ]
   },
   {
     "destination": "United Arab Emirates",
@@ -373,7 +727,51 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Sharjah",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.453524,
+        "lng": 54.377438
+      },
+      {
+        "name": "Sharjah",
+        "country": "United Arab Emirates",
+        "lat": 25.34614,
+        "lng": 55.42093
+      }
+    ]
   },
   {
     "destination": "United Arab Emirates",
@@ -429,7 +827,41 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Musandam Peninsula",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Musandam Peninsula",
+        "country": "Oman",
+        "lat": 26.180182,
+        "lng": 56.249618
+      }
+    ]
   },
   {
     "destination": "United Arab Emirates",
@@ -510,7 +942,115 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Sharjah",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Ajman",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman"
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman"
+      },
+      {
+        "name": "Jabal Shams",
+        "country": "Oman"
+      },
+      {
+        "name": "Wahiba Sands",
+        "country": "Oman"
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman"
+      },
+      {
+        "name": "Sur",
+        "country": "Oman"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Sharjah",
+        "country": "United Arab Emirates",
+        "lat": 25.34614,
+        "lng": 55.42093
+      },
+      {
+        "name": "Ajman",
+        "country": "United Arab Emirates",
+        "lat": 25.409328,
+        "lng": 55.44359
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.453524,
+        "lng": 54.377438
+      },
+      {
+        "name": "Muscat",
+        "country": "Oman",
+        "lat": 23.587278,
+        "lng": 58.38213
+      },
+      {
+        "name": "Nizwa",
+        "country": "Oman",
+        "lat": 22.933258,
+        "lng": 57.531506
+      },
+      {
+        "name": "Jabal Shams",
+        "country": "Oman",
+        "lat": 23.43,
+        "lng": 57.44
+      },
+      {
+        "name": "Wadi Bani Khalid",
+        "country": "Oman",
+        "lat": 22.571344,
+        "lng": 59.09816
+      },
+      {
+        "name": "Sur",
+        "country": "Oman",
+        "lat": 22.568766,
+        "lng": 59.528824
+      }
+    ]
   },
   {
     "destination": "United Arab Emirates",
@@ -576,6 +1116,70 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Fujairah",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Sharjah",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Ajman",
+        "country": "United Arab Emirates"
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.25809,
+        "lng": 55.297558
+      },
+      {
+        "name": "Fujairah",
+        "country": "United Arab Emirates",
+        "lat": 25.122963,
+        "lng": 56.338078
+      },
+      {
+        "name": "Sharjah",
+        "country": "United Arab Emirates",
+        "lat": 25.34614,
+        "lng": 55.42093
+      },
+      {
+        "name": "Ajman",
+        "country": "United Arab Emirates",
+        "lat": 25.409328,
+        "lng": 55.44359
+      },
+      {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.453524,
+        "lng": 54.377438
+      }
+    ]
   }
 ]

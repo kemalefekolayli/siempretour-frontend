@@ -48,7 +48,71 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio Negro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Anavilhanas Archipelago",
+        "country": "Brazil"
+      },
+      {
+        "name": "Encontra das Aguas",
+        "country": "Brazil"
+      },
+      {
+        "name": "Amazon River",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil",
+        "lat": -3.133046,
+        "lng": -59.982918
+      },
+      {
+        "name": "Rio Negro",
+        "country": "Brazil",
+        "lat": -26.107933,
+        "lng": -49.801407
+      },
+      {
+        "name": "Anavilhanas Archipelago",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Encontra das Aguas",
+        "country": "Brazil",
+        "lat": -22.05796,
+        "lng": -46.977875
+      },
+      {
+        "name": "Amazon River",
+        "country": "Brazil",
+        "lat": -20.757513,
+        "lng": -41.45868
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -99,7 +163,71 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil"
+      },
+      {
+        "name": "Amazon Jungle",
+        "country": "Brazil"
+      },
+      {
+        "name": "Paraná do Mamori",
+        "country": "Brazil"
+      },
+      {
+        "name": "Juma Lake",
+        "country": "Brazil"
+      },
+      {
+        "name": "Caboclo Family Home",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil",
+        "lat": -3.133046,
+        "lng": -59.982918
+      },
+      {
+        "name": "Amazon Jungle",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Paraná do Mamori",
+        "country": "Brazil",
+        "lat": -24.431337,
+        "lng": -51.631761
+      },
+      {
+        "name": "Juma Lake",
+        "country": "Brazil",
+        "lat": -13.182883,
+        "lng": -39.422234
+      },
+      {
+        "name": "Caboclo Family Home",
+        "country": "Brazil",
+        "lat": -5.130504,
+        "lng": -37.932148
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -160,7 +288,71 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio Negro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio Jaueperi",
+        "country": "Brazil"
+      },
+      {
+        "name": "Encontra das Aguas",
+        "country": "Brazil"
+      },
+      {
+        "name": "Amazon River",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil",
+        "lat": -3.133046,
+        "lng": -59.982918
+      },
+      {
+        "name": "Rio Negro",
+        "country": "Brazil",
+        "lat": -26.107933,
+        "lng": -49.801407
+      },
+      {
+        "name": "Rio Jaueperi",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Encontra das Aguas",
+        "country": "Brazil",
+        "lat": -22.05796,
+        "lng": -46.977875
+      },
+      {
+        "name": "Amazon River",
+        "country": "Brazil",
+        "lat": -20.757513,
+        "lng": -41.45868
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -271,7 +463,131 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Tijuca National Park",
+        "country": "Brazil"
+      },
+      {
+        "name": "Niterói",
+        "country": "Brazil"
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pousada Piuval",
+        "country": "Brazil"
+      },
+      {
+        "name": "Nobres",
+        "country": "Brazil"
+      },
+      {
+        "name": "Amazon Basin",
+        "country": "Brazil"
+      },
+      {
+        "name": "Jardim da Amazonia",
+        "country": "Brazil"
+      },
+      {
+        "name": "Chapada dos Guimarães",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Tijuca National Park",
+        "country": "Brazil",
+        "lat": -1.207155,
+        "lng": -46.720493
+      },
+      {
+        "name": "Niterói",
+        "country": "Brazil",
+        "lat": -22.893564,
+        "lng": -43.11968
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil",
+        "lat": -23.532907,
+        "lng": -47.763275
+      },
+      {
+        "name": "Pousada Piuval",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Nobres",
+        "country": "Brazil",
+        "lat": -14.718511,
+        "lng": -56.33533
+      },
+      {
+        "name": "Amazon Basin",
+        "country": "Brazil",
+        "lat": -4.184378,
+        "lng": -64.71858
+      },
+      {
+        "name": "Jardim da Amazonia",
+        "country": "Brazil",
+        "lat": -21.481997,
+        "lng": -56.141705
+      },
+      {
+        "name": "Chapada dos Guimarães",
+        "country": "Brazil",
+        "lat": -15.458651,
+        "lng": -55.747887
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -352,7 +668,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil"
+      },
+      {
+        "name": "Juma Amazon Lodge",
+        "country": null
+      },
+      {
+        "name": "Fortim",
+        "country": "Brazil"
+      },
+      {
+        "name": "Canoa Quebrada",
+        "country": "Brazil"
+      },
+      {
+        "name": "Fortaleza",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil",
+        "lat": -3.133046,
+        "lng": -59.982918
+      },
+      {
+        "name": "Fortim",
+        "country": "Brazil",
+        "lat": -4.451138,
+        "lng": -37.795025
+      },
+      {
+        "name": "Canoa Quebrada",
+        "country": "Brazil",
+        "lat": -27.940702,
+        "lng": -53.208748
+      },
+      {
+        "name": "Fortaleza",
+        "country": "Brazil",
+        "lat": -3.736231,
+        "lng": -38.49831
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -418,7 +802,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil"
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Araras Eco Lodge",
+        "country": "Brazil"
+      },
+      {
+        "name": "Alta Floresta",
+        "country": "Brazil"
+      },
+      {
+        "name": "Cristalino Jungle Lodge",
+        "country": "Brazil"
+      },
+      {
+        "name": "Amazon",
+        "country": "Brazil"
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil",
+        "lat": -23.532907,
+        "lng": -47.763275
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Araras Eco Lodge",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Alta Floresta",
+        "country": "Brazil",
+        "lat": -9.880041,
+        "lng": -56.085762
+      },
+      {
+        "name": "Cristalino Jungle Lodge",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Amazon",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -459,7 +937,51 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil"
+      },
+      {
+        "name": "Ilha Grande",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil",
+        "lat": -23.21939,
+        "lng": -44.714108
+      },
+      {
+        "name": "Ilha Grande",
+        "country": "Brazil",
+        "lat": -2.852773,
+        "lng": -41.818306
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -525,7 +1047,161 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Iquitos",
+        "country": "Brazil"
+      },
+      {
+        "name": "Amazon River",
+        "country": "Brazil"
+      },
+      {
+        "name": "Yarapa River",
+        "country": "Brazil"
+      },
+      {
+        "name": "Nauta Caño",
+        "country": "Brazil"
+      },
+      {
+        "name": "Marañon River",
+        "country": "Brazil"
+      },
+      {
+        "name": "Yanayacu-Pucate River",
+        "country": "Brazil"
+      },
+      {
+        "name": "Nauta Town",
+        "country": "Brazil"
+      },
+      {
+        "name": "Yanallpa River",
+        "country": "Brazil"
+      },
+      {
+        "name": "Dorado River",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pacaya River",
+        "country": "Brazil"
+      },
+      {
+        "name": "Ucayali River",
+        "country": "Brazil"
+      },
+      {
+        "name": "Tapiche River",
+        "country": "Brazil"
+      },
+      {
+        "name": "Clavero River",
+        "country": "Brazil"
+      },
+      {
+        "name": "Manatee Rescue Center",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Iquitos",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Amazon River",
+        "country": "Brazil",
+        "lat": -20.757513,
+        "lng": -41.45868
+      },
+      {
+        "name": "Yarapa River",
+        "country": "Brazil",
+        "lat": -3.623328,
+        "lng": -40.905407
+      },
+      {
+        "name": "Nauta Caño",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Marañon River",
+        "country": "Brazil",
+        "lat": -20.757513,
+        "lng": -41.45868
+      },
+      {
+        "name": "Yanayacu-Pucate River",
+        "country": "Brazil",
+        "lat": -20.757513,
+        "lng": -41.45868
+      },
+      {
+        "name": "Nauta Town",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Yanallpa River",
+        "country": "Brazil",
+        "lat": -20.757513,
+        "lng": -41.45868
+      },
+      {
+        "name": "Dorado River",
+        "country": "Brazil",
+        "lat": -22.115177,
+        "lng": -48.316525
+      },
+      {
+        "name": "Pacaya River",
+        "country": "Brazil",
+        "lat": -3.834868,
+        "lng": -50.637302
+      },
+      {
+        "name": "Ucayali River",
+        "country": "Brazil",
+        "lat": -20.757513,
+        "lng": -41.45868
+      },
+      {
+        "name": "Tapiche River",
+        "country": "Brazil",
+        "lat": -20.757513,
+        "lng": -41.45868
+      },
+      {
+        "name": "Clavero River",
+        "country": "Brazil",
+        "lat": -20.757513,
+        "lng": -41.45868
+      },
+      {
+        "name": "Manatee Rescue Center",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -651,7 +1327,121 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "North Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil"
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil"
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil"
+      },
+      {
+        "name": "Brasília",
+        "country": "Brazil"
+      },
+      {
+        "name": "Salvador da Bahia",
+        "country": "Brazil"
+      },
+      {
+        "name": "Lençóis",
+        "country": "Brazil"
+      },
+      {
+        "name": "Chapada Diamantina",
+        "country": "Brazil"
+      },
+      {
+        "name": "Imbassaí",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "North Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil",
+        "lat": -23.532907,
+        "lng": -47.763275
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil",
+        "lat": -3.133046,
+        "lng": -59.982918
+      },
+      {
+        "name": "Brasília",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Salvador da Bahia",
+        "country": "Brazil",
+        "lat": -12.982129,
+        "lng": -38.482414
+      },
+      {
+        "name": "Lençóis",
+        "country": "Brazil",
+        "lat": -12.562203,
+        "lng": -41.38983
+      },
+      {
+        "name": "Chapada Diamantina",
+        "country": "Brazil",
+        "lat": -18.24488,
+        "lng": -43.59686
+      },
+      {
+        "name": "Imbassaí",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -777,7 +1567,151 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Salvador da Bahia",
+        "country": "Brazil"
+      },
+      {
+        "name": "Lencois",
+        "country": "Brazil"
+      },
+      {
+        "name": "Chapada Diamantina",
+        "country": "Brazil"
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil"
+      },
+      {
+        "name": "Amazon Rainforest",
+        "country": "Brazil"
+      },
+      {
+        "name": "Bonito",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil"
+      },
+      {
+        "name": "Ilha Grande",
+        "country": "Brazil"
+      },
+      {
+        "name": "Itatiaia National Park",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Salvador da Bahia",
+        "country": "Brazil",
+        "lat": -12.982129,
+        "lng": -38.482414
+      },
+      {
+        "name": "Lencois",
+        "country": "Brazil",
+        "lat": -12.562203,
+        "lng": -41.38983
+      },
+      {
+        "name": "Chapada Diamantina",
+        "country": "Brazil",
+        "lat": -18.24488,
+        "lng": -43.59686
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil",
+        "lat": -3.133046,
+        "lng": -59.982918
+      },
+      {
+        "name": "Amazon Rainforest",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Bonito",
+        "country": "Brazil",
+        "lat": -8.473279,
+        "lng": -35.729282
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil",
+        "lat": -20.46396,
+        "lng": -54.61709
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil",
+        "lat": -6.361937,
+        "lng": -39.29758
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil",
+        "lat": -23.21939,
+        "lng": -44.714108
+      },
+      {
+        "name": "Ilha Grande",
+        "country": "Brazil",
+        "lat": -2.852773,
+        "lng": -41.818306
+      },
+      {
+        "name": "Itatiaia National Park",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -828,7 +1762,71 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Chapada dos Guimarães",
+        "country": "Brazil"
+      },
+      {
+        "name": "Amazon",
+        "country": "Brazil"
+      },
+      {
+        "name": "Green Coast",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Chapada dos Guimarães",
+        "country": "Brazil",
+        "lat": -15.458651,
+        "lng": -55.747887
+      },
+      {
+        "name": "Amazon",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Green Coast",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -979,7 +1977,131 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Brasilia",
+        "country": "Brazil"
+      },
+      {
+        "name": "Cerrado",
+        "country": "Brazil"
+      },
+      {
+        "name": "Chapada Diamantina",
+        "country": "Brazil"
+      },
+      {
+        "name": "Lençóis",
+        "country": "Brazil"
+      },
+      {
+        "name": "Salvador",
+        "country": "Brazil"
+      },
+      {
+        "name": "Sao Luis",
+        "country": "Brazil"
+      },
+      {
+        "name": "Atins",
+        "country": "Brazil"
+      },
+      {
+        "name": "Lençóis Maranhenses",
+        "country": "Brazil"
+      },
+      {
+        "name": "Parnaíba Delta",
+        "country": "Brazil"
+      },
+      {
+        "name": "Camocim",
+        "country": "Brazil"
+      },
+      {
+        "name": "Jericoacoara",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Brasilia",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Cerrado",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Chapada Diamantina",
+        "country": "Brazil",
+        "lat": -18.24488,
+        "lng": -43.59686
+      },
+      {
+        "name": "Lençóis",
+        "country": "Brazil",
+        "lat": -12.562203,
+        "lng": -41.38983
+      },
+      {
+        "name": "Salvador",
+        "country": "Brazil",
+        "lat": -12.982129,
+        "lng": -38.482414
+      },
+      {
+        "name": "Sao Luis",
+        "country": "Brazil",
+        "lat": -2.529764,
+        "lng": -44.300262
+      },
+      {
+        "name": "Atins",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Lençóis Maranhenses",
+        "country": "Brazil",
+        "lat": -12.562203,
+        "lng": -41.38983
+      },
+      {
+        "name": "Parnaíba Delta",
+        "country": "Brazil",
+        "lat": -2.914495,
+        "lng": -41.767075
+      },
+      {
+        "name": "Camocim",
+        "country": "Brazil",
+        "lat": -2.899402,
+        "lng": -40.84271
+      },
+      {
+        "name": "Jericoacoara",
+        "country": "Brazil",
+        "lat": -2.898799,
+        "lng": -40.451107
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1045,7 +2167,111 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pousada do Rio Mutum",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Cuiabá Mirim",
+        "country": "Brazil"
+      },
+      {
+        "name": "Capoeirinha",
+        "country": "Brazil"
+      },
+      {
+        "name": "Sia Mariana Bay",
+        "country": "Brazil"
+      },
+      {
+        "name": "Chacororé Bay",
+        "country": "Brazil"
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil"
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Pousada do Rio Mutum",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Cuiabá Mirim",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Capoeirinha",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Sia Mariana Bay",
+        "country": "Brazil",
+        "lat": -23.146133,
+        "lng": -50.517757
+      },
+      {
+        "name": "Chacororé Bay",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil",
+        "lat": -23.532907,
+        "lng": -47.763275
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1161,7 +2387,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Salvador",
+        "country": "Brazil"
+      },
+      {
+        "name": "Chapada Diamantina",
+        "country": "Brazil"
+      },
+      {
+        "name": "Lencois",
+        "country": "Brazil"
+      },
+      {
+        "name": "Ouro Preto",
+        "country": "Brazil"
+      },
+      {
+        "name": "Mariana",
+        "country": "Brazil"
+      },
+      {
+        "name": "Congonhas",
+        "country": "Brazil"
+      },
+      {
+        "name": "Belo Horizonte",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil"
+      },
+      {
+        "name": "Tefe",
+        "country": "Brazil"
+      },
+      {
+        "name": "Mamiraua Reserve",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Salvador",
+        "country": "Brazil",
+        "lat": -12.982129,
+        "lng": -38.482414
+      },
+      {
+        "name": "Chapada Diamantina",
+        "country": "Brazil",
+        "lat": -18.24488,
+        "lng": -43.59686
+      },
+      {
+        "name": "Lencois",
+        "country": "Brazil",
+        "lat": -12.562203,
+        "lng": -41.38983
+      },
+      {
+        "name": "Ouro Preto",
+        "country": "Brazil",
+        "lat": -20.38486,
+        "lng": -43.50365
+      },
+      {
+        "name": "Mariana",
+        "country": "Brazil",
+        "lat": -20.376534,
+        "lng": -43.417137
+      },
+      {
+        "name": "Congonhas",
+        "country": "Brazil",
+        "lat": -20.50267,
+        "lng": -43.859707
+      },
+      {
+        "name": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.926767,
+        "lng": -43.93934
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil",
+        "lat": -3.133046,
+        "lng": -59.982918
+      },
+      {
+        "name": "Tefe",
+        "country": "Brazil",
+        "lat": -3.347259,
+        "lng": -64.70958
+      },
+      {
+        "name": "Mamiraua Reserve",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1262,7 +2612,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Christ the Redeemer",
+        "country": "Brazil"
+      },
+      {
+        "name": "Atlantic rainforest",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Bonito",
+        "country": "Brazil"
+      },
+      {
+        "name": "São Paulo",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Christ the Redeemer",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Atlantic rainforest",
+        "country": "Brazil",
+        "lat": -33.65948,
+        "lng": -53.271305
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Bonito",
+        "country": "Brazil",
+        "lat": -8.473279,
+        "lng": -35.729282
+      },
+      {
+        "name": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.55214,
+        "lng": -46.647198
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1343,7 +2767,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Iguacu Falls",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "The Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil"
+      },
+      {
+        "name": "Mamirauá Reserve",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Iguacu Falls",
+        "country": "Brazil",
+        "lat": -4.657845,
+        "lng": -39.407352
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "The Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil",
+        "lat": -3.133046,
+        "lng": -59.982918
+      },
+      {
+        "name": "Mamirauá Reserve",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1394,7 +2882,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Bonito",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil"
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Bonito",
+        "country": "Brazil",
+        "lat": -8.473279,
+        "lng": -35.729282
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil",
+        "lat": -6.361937,
+        "lng": -39.29758
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil",
+        "lat": -23.21939,
+        "lng": -44.714108
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1500,7 +3052,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Foz do Iguaçu",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Foz do Iguaçu",
+        "country": "Brazil",
+        "lat": -25.542088,
+        "lng": -54.58742
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil",
+        "lat": -6.361937,
+        "lng": -39.29758
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1596,7 +3212,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Belem",
+        "country": "Brazil"
+      },
+      {
+        "name": "Marajo Island",
+        "country": "Brazil"
+      },
+      {
+        "name": "Santarem",
+        "country": "Brazil"
+      },
+      {
+        "name": "Alter do Chao",
+        "country": "Brazil"
+      },
+      {
+        "name": "National Forest Reserve",
+        "country": "Brazil"
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Belem",
+        "country": "Brazil",
+        "lat": -1.45056,
+        "lng": -48.4682
+      },
+      {
+        "name": "Marajo Island",
+        "country": "Brazil",
+        "lat": -24.384153,
+        "lng": -53.19357
+      },
+      {
+        "name": "Santarem",
+        "country": "Brazil",
+        "lat": -2.438668,
+        "lng": -54.69904
+      },
+      {
+        "name": "Alter do Chao",
+        "country": "Brazil",
+        "lat": -2.516434,
+        "lng": -54.950085
+      },
+      {
+        "name": "National Forest Reserve",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil",
+        "lat": -3.133046,
+        "lng": -59.982918
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1692,7 +3382,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Puerto Iguazu",
+        "country": "Argentina"
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil"
+      },
+      {
+        "name": "Sao Paulo",
+        "country": "Brazil"
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil"
+      },
+      {
+        "name": "Angra dos Reis",
+        "country": "Brazil"
+      },
+      {
+        "name": "Ilha Grande",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Puerto Iguazu",
+        "country": "Argentina",
+        "lat": -25.609903,
+        "lng": -54.57735
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil",
+        "lat": -6.361937,
+        "lng": -39.29758
+      },
+      {
+        "name": "Sao Paulo",
+        "country": "Brazil",
+        "lat": -23.55214,
+        "lng": -46.647198
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil",
+        "lat": -23.21939,
+        "lng": -44.714108
+      },
+      {
+        "name": "Angra dos Reis",
+        "country": "Brazil",
+        "lat": -23.008528,
+        "lng": -44.31863
+      },
+      {
+        "name": "Ilha Grande",
+        "country": "Brazil",
+        "lat": -2.852773,
+        "lng": -41.818306
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1738,7 +3522,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil"
+      },
+      {
+        "name": "Poconé",
+        "country": "Brazil"
+      },
+      {
+        "name": "Transpantaneira Park Road",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pixaim River",
+        "country": "Brazil"
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil"
+      },
+      {
+        "name": "Aguapé Hotel Boat",
+        "country": null
+      },
+      {
+        "name": "Encontro das Águas National Park",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Poconé",
+        "country": "Brazil",
+        "lat": -16.263577,
+        "lng": -56.628845
+      },
+      {
+        "name": "Transpantaneira Park Road",
+        "country": "Brazil",
+        "lat": -4.046128,
+        "lng": -53.138286
+      },
+      {
+        "name": "Pixaim River",
+        "country": "Brazil",
+        "lat": -20.757513,
+        "lng": -41.45868
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil",
+        "lat": -23.532907,
+        "lng": -47.763275
+      },
+      {
+        "name": "Encontro das Águas National Park",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1784,7 +3646,51 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil"
+      },
+      {
+        "name": "Transpantaneira Road",
+        "country": "Brazil"
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Transpantaneira Road",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil",
+        "lat": -23.532907,
+        "lng": -47.763275
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1840,7 +3746,69 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil"
+      },
+      {
+        "name": "Paraguay River",
+        "country": null
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Cáceres",
+        "country": "Brazil"
+      },
+      {
+        "name": "Poconé",
+        "country": "Brazil"
+      },
+      {
+        "name": "Araras Lodge",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cuiabá",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Cáceres",
+        "country": "Brazil",
+        "lat": -16.06642,
+        "lng": -57.684452
+      },
+      {
+        "name": "Poconé",
+        "country": "Brazil",
+        "lat": -16.263577,
+        "lng": -56.628845
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1886,7 +3854,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil"
+      },
+      {
+        "name": "Transpantaniera Highway",
+        "country": "Brazil"
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal Wetlands",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Transpantaniera Highway",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil",
+        "lat": -23.532907,
+        "lng": -47.763275
+      },
+      {
+        "name": "Pantanal Wetlands",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -1962,7 +3984,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil"
+      },
+      {
+        "name": "Barranco Alto",
+        "country": "Brazil"
+      },
+      {
+        "name": "Cristalino Lodge",
+        "country": "Brazil"
+      },
+      {
+        "name": "Alta Floresta",
+        "country": "Brazil"
+      },
+      {
+        "name": "Chapodao do Ceu",
+        "country": "Brazil"
+      },
+      {
+        "name": "Emas National Park",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil",
+        "lat": -20.46396,
+        "lng": -54.61709
+      },
+      {
+        "name": "Barranco Alto",
+        "country": "Brazil",
+        "lat": -21.18446,
+        "lng": -45.960094
+      },
+      {
+        "name": "Cristalino Lodge",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Alta Floresta",
+        "country": "Brazil",
+        "lat": -9.880041,
+        "lng": -56.085762
+      },
+      {
+        "name": "Chapodao do Ceu",
+        "country": "Brazil",
+        "lat": -18.394587,
+        "lng": -52.667458
+      },
+      {
+        "name": "Emas National Park",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2023,7 +4139,81 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil"
+      },
+      {
+        "name": "Chapodao do Ceu",
+        "country": "Brazil"
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil"
+      },
+      {
+        "name": "Belo Horizonte",
+        "country": "Brazil"
+      },
+      {
+        "name": "Caraca Park",
+        "country": "Brazil"
+      },
+      {
+        "name": "Belo Horizonte",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Chapodao do Ceu",
+        "country": "Brazil",
+        "lat": -18.394587,
+        "lng": -52.667458
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.926767,
+        "lng": -43.93934
+      },
+      {
+        "name": "Caraca Park",
+        "country": "Brazil",
+        "lat": -29.79227,
+        "lng": -50.435024
+      },
+      {
+        "name": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.926767,
+        "lng": -43.93934
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2094,7 +4284,75 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Bonito",
+        "country": "Brazil"
+      },
+      {
+        "name": "Foz do Iguacu",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "null"
+      },
+      {
+        "name": "Iguazu National Park",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil",
+        "lat": -20.46396,
+        "lng": -54.61709
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Bonito",
+        "country": "Brazil",
+        "lat": -8.473279,
+        "lng": -35.729282
+      },
+      {
+        "name": "Foz do Iguacu",
+        "country": "Brazil",
+        "lat": -25.542088,
+        "lng": -54.58742
+      },
+      {
+        "name": "Iguazu National Park",
+        "country": "Argentina",
+        "lat": -29.53495,
+        "lng": -62.26615
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2145,7 +4403,51 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil"
+      },
+      {
+        "name": "Transpantaneira Road",
+        "country": "Brazil"
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Transpantaneira Road",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil",
+        "lat": -20.46396,
+        "lng": -54.61709
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2206,7 +4508,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil"
+      },
+      {
+        "name": "Bonito",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio da Prata",
+        "country": "Brazil"
+      },
+      {
+        "name": "Buraco das Araras",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio Salobra",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio Miranda",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil",
+        "lat": -20.46396,
+        "lng": -54.61709
+      },
+      {
+        "name": "Bonito",
+        "country": "Brazil",
+        "lat": -8.473279,
+        "lng": -35.729282
+      },
+      {
+        "name": "Rio da Prata",
+        "country": "Brazil",
+        "lat": -25.151352,
+        "lng": -52.46046
+      },
+      {
+        "name": "Buraco das Araras",
+        "country": "Brazil",
+        "lat": -15.50583,
+        "lng": -45.395607
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Rio Salobra",
+        "country": "Brazil",
+        "lat": -8.611421,
+        "lng": -36.692276
+      },
+      {
+        "name": "Rio Miranda",
+        "country": "Brazil",
+        "lat": -20.238276,
+        "lng": -56.38407
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2262,7 +4648,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil"
+      },
+      {
+        "name": "Transpantaneira Road",
+        "country": "Brazil"
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil"
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil"
+      },
+      {
+        "name": "Fazenda Barranco Alto",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Transpantaneira Road",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil",
+        "lat": -23.532907,
+        "lng": -47.763275
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil",
+        "lat": -20.46396,
+        "lng": -54.61709
+      },
+      {
+        "name": "Fazenda Barranco Alto",
+        "country": "Brazil",
+        "lat": -21.18446,
+        "lng": -45.960094
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2318,7 +4768,161 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Lapa",
+        "country": "Brazil"
+      },
+      {
+        "name": "Tijuca National Park",
+        "country": "Brazil"
+      },
+      {
+        "name": "Corcovado",
+        "country": "Brazil"
+      },
+      {
+        "name": "Santa Teresa",
+        "country": "Brazil"
+      },
+      {
+        "name": "Steps of Selaron",
+        "country": "Brazil"
+      },
+      {
+        "name": "Sugarloaf Mountain",
+        "country": "Brazil"
+      },
+      {
+        "name": "Guanabara Bay",
+        "country": "Brazil"
+      },
+      {
+        "name": "Ipanema Beach",
+        "country": "Brazil"
+      },
+      {
+        "name": "Marina da Gloria",
+        "country": "Brazil"
+      },
+      {
+        "name": "Copacabana Beach",
+        "country": "Brazil"
+      },
+      {
+        "name": "Dois Irmãos",
+        "country": "Brazil"
+      },
+      {
+        "name": "Arpoador Rock",
+        "country": "Brazil"
+      },
+      {
+        "name": "Favela",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Lapa",
+        "country": "Brazil",
+        "lat": -23.522665,
+        "lng": -46.704166
+      },
+      {
+        "name": "Tijuca National Park",
+        "country": "Brazil",
+        "lat": -1.207155,
+        "lng": -46.720493
+      },
+      {
+        "name": "Corcovado",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Santa Teresa",
+        "country": "Brazil",
+        "lat": -19.93207,
+        "lng": -40.599957
+      },
+      {
+        "name": "Steps of Selaron",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Sugarloaf Mountain",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Guanabara Bay",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Ipanema Beach",
+        "country": "Brazil",
+        "lat": -19.800465,
+        "lng": -41.714127
+      },
+      {
+        "name": "Marina da Gloria",
+        "country": "Brazil",
+        "lat": -18.454021,
+        "lng": -44.17464
+      },
+      {
+        "name": "Copacabana Beach",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Dois Irmãos",
+        "country": "Brazil",
+        "lat": -29.586903,
+        "lng": -51.08746
+      },
+      {
+        "name": "Arpoador Rock",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Favela",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2384,7 +4988,71 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil"
+      },
+      {
+        "name": "Brasilia",
+        "country": "Brazil"
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil",
+        "lat": -6.361937,
+        "lng": -39.29758
+      },
+      {
+        "name": "Brasilia",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Campo Grande",
+        "country": "Brazil",
+        "lat": -20.46396,
+        "lng": -54.61709
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2460,7 +5128,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Foz do Iguaçu",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguaçu Falls",
+        "country": "Brazil"
+      },
+      {
+        "name": "Salvador",
+        "country": "Brazil"
+      },
+      {
+        "name": "Praia do Forte",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Foz do Iguaçu",
+        "country": "Brazil",
+        "lat": -25.542088,
+        "lng": -54.58742
+      },
+      {
+        "name": "Iguaçu Falls",
+        "country": "Brazil",
+        "lat": -4.657845,
+        "lng": -39.407352
+      },
+      {
+        "name": "Salvador",
+        "country": "Brazil",
+        "lat": -12.982129,
+        "lng": -38.482414
+      },
+      {
+        "name": "Praia do Forte",
+        "country": "Brazil",
+        "lat": -14.310458,
+        "lng": -47.28874
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2556,7 +5288,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Salvador",
+        "country": "Brazil"
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil"
+      },
+      {
+        "name": "Amazon rainforest",
+        "country": null
+      },
+      {
+        "name": "Pantanal Wildlife Reserve",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Salvador",
+        "country": "Brazil",
+        "lat": -12.982129,
+        "lng": -38.482414
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil",
+        "lat": -3.133046,
+        "lng": -59.982918
+      },
+      {
+        "name": "Amazon rainforest",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Pantanal Wildlife Reserve",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil",
+        "lat": -6.361937,
+        "lng": -39.29758
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2587,7 +5393,31 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ilha do Mel",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ilha do Mel",
+        "country": "Brazil",
+        "lat": -25.511667,
+        "lng": -48.338889
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2683,7 +5513,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil"
+      },
+      {
+        "name": "Sao Paulo",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguaçu Falls",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil",
+        "lat": -23.21939,
+        "lng": -44.714108
+      },
+      {
+        "name": "Sao Paulo",
+        "country": "Brazil",
+        "lat": -23.55214,
+        "lng": -46.647198
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Iguaçu Falls",
+        "country": "Brazil",
+        "lat": -4.657845,
+        "lng": -39.407352
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2759,7 +5653,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amazon",
+        "country": "Brazil"
+      },
+      {
+        "name": "Alta Floresta",
+        "country": "Brazil"
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil"
+      },
+      {
+        "name": "Miranda",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amazon",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Alta Floresta",
+        "country": "Brazil",
+        "lat": -9.880041,
+        "lng": -56.085762
+      },
+      {
+        "name": "Porto Jofre",
+        "country": "Brazil",
+        "lat": -23.532907,
+        "lng": -47.763275
+      },
+      {
+        "name": "Miranda",
+        "country": "Brazil",
+        "lat": -20.238276,
+        "lng": -56.38407
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2835,7 +5783,51 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil"
+      },
+      {
+        "name": "Ilha Grande",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil",
+        "lat": -23.21939,
+        "lng": -44.714108
+      },
+      {
+        "name": "Ilha Grande",
+        "country": "Brazil",
+        "lat": -2.852773,
+        "lng": -41.818306
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2901,7 +5893,51 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguaçu Falls",
+        "country": "Brazil"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Iguaçu Falls",
+        "country": "Brazil",
+        "lat": -4.657845,
+        "lng": -39.407352
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -2992,7 +6028,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil"
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil"
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Cuiaba",
+        "country": "Brazil",
+        "lat": -15.598071,
+        "lng": -56.09518
+      },
+      {
+        "name": "Pantanal",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil",
+        "lat": -3.133046,
+        "lng": -59.982918
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -3073,7 +6163,55 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguaçu Falls",
+        "country": "null"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Manaus",
+        "country": "Brazil",
+        "lat": -3.133046,
+        "lng": -59.982918
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil",
+        "lat": -6.361937,
+        "lng": -39.29758
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -3164,7 +6302,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Foz do Iguaçu",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil"
+      },
+      {
+        "name": "Salvador",
+        "country": "Brazil"
+      },
+      {
+        "name": "Ilhéus",
+        "country": "Brazil"
+      },
+      {
+        "name": "Itacaré",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Foz do Iguaçu",
+        "country": "Brazil",
+        "lat": -25.542088,
+        "lng": -54.58742
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil",
+        "lat": -6.361937,
+        "lng": -39.29758
+      },
+      {
+        "name": "Salvador",
+        "country": "Brazil",
+        "lat": -12.982129,
+        "lng": -38.482414
+      },
+      {
+        "name": "Ilhéus",
+        "country": "Brazil",
+        "lat": -14.798844,
+        "lng": -39.033638
+      },
+      {
+        "name": "Itacaré",
+        "country": "Brazil",
+        "lat": -14.279225,
+        "lng": -38.99327
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -3250,7 +6462,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Brasilia",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil"
+      },
+      {
+        "name": "Sao Paulo",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Brasilia",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil",
+        "lat": -23.21939,
+        "lng": -44.714108
+      },
+      {
+        "name": "Sao Paulo",
+        "country": "Brazil",
+        "lat": -23.55214,
+        "lng": -46.647198
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -3316,7 +6582,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Belo Horizonte",
+        "country": "Brazil"
+      },
+      {
+        "name": "Ouro Preto",
+        "country": "Brazil"
+      },
+      {
+        "name": "Congonhas",
+        "country": "Brazil"
+      },
+      {
+        "name": "Tiradentes",
+        "country": "Brazil"
+      },
+      {
+        "name": "Ibitipoca",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.926767,
+        "lng": -43.93934
+      },
+      {
+        "name": "Ouro Preto",
+        "country": "Brazil",
+        "lat": -20.38486,
+        "lng": -43.50365
+      },
+      {
+        "name": "Congonhas",
+        "country": "Brazil",
+        "lat": -20.50267,
+        "lng": -43.859707
+      },
+      {
+        "name": "Tiradentes",
+        "country": "Brazil",
+        "lat": -21.109592,
+        "lng": -44.175175
+      },
+      {
+        "name": "Ibitipoca",
+        "country": "Brazil",
+        "lat": -21.821848,
+        "lng": -41.471172
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -3417,7 +6747,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lima",
+        "country": "Peru"
+      },
+      {
+        "name": "Sacred Valley",
+        "country": "Peru"
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru"
+      },
+      {
+        "name": "Puno",
+        "country": "Peru"
+      },
+      {
+        "name": "Iguazu",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lima",
+        "country": "Peru",
+        "lat": -12.06973,
+        "lng": -77.03542
+      },
+      {
+        "name": "Sacred Valley",
+        "country": "Peru",
+        "lat": -13.691881,
+        "lng": -76.02463
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "lat": -13.174207,
+        "lng": -72.5615
+      },
+      {
+        "name": "Puno",
+        "country": "Peru",
+        "lat": -15.837973,
+        "lng": -70.02774
+      },
+      {
+        "name": "Iguazu",
+        "country": "Brazil",
+        "lat": -6.361937,
+        "lng": -39.29758
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -3508,7 +6912,71 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil"
+      },
+      {
+        "name": "Olinda",
+        "country": "Brazil"
+      },
+      {
+        "name": "Recife",
+        "country": "Brazil"
+      },
+      {
+        "name": "Fernando de Noronha",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Paraty",
+        "country": "Brazil",
+        "lat": -23.21939,
+        "lng": -44.714108
+      },
+      {
+        "name": "Olinda",
+        "country": "Brazil",
+        "lat": -8.000085,
+        "lng": -34.846294
+      },
+      {
+        "name": "Recife",
+        "country": "Brazil",
+        "lat": -8.062725,
+        "lng": -34.88047
+      },
+      {
+        "name": "Fernando de Noronha",
+        "country": "Brazil",
+        "lat": -3.844061,
+        "lng": -32.410713
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -3609,7 +7077,141 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Puerto Madryn",
+        "country": "Argentina"
+      },
+      {
+        "name": "Valdes Peninsula",
+        "country": "Argentina"
+      },
+      {
+        "name": "Punta Tombo",
+        "country": "Argentina"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Tierra del Fuego National Park",
+        "country": "Argentina"
+      },
+      {
+        "name": "El Calafate",
+        "country": "Argentina"
+      },
+      {
+        "name": "Los Glaciares National Park",
+        "country": "Argentina"
+      },
+      {
+        "name": "Iguazú Falls",
+        "country": "Argentina"
+      },
+      {
+        "name": "Iguazu National Park",
+        "country": "Argentina"
+      },
+      {
+        "name": "Iguazu",
+        "country": "Argentina"
+      },
+      {
+        "name": "Iguazu National Park",
+        "country": "Brazil"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Puerto Madryn",
+        "country": "Argentina",
+        "lat": -42.7676,
+        "lng": -65.03564
+      },
+      {
+        "name": "Valdes Peninsula",
+        "country": "Argentina",
+        "lat": -35.647793,
+        "lng": -60.464813
+      },
+      {
+        "name": "Punta Tombo",
+        "country": "Argentina",
+        "lat": -27.798054,
+        "lng": -62.522439
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Tierra del Fuego National Park",
+        "country": "Argentina",
+        "lat": -29.53495,
+        "lng": -62.26615
+      },
+      {
+        "name": "El Calafate",
+        "country": "Argentina",
+        "lat": -50.337997,
+        "lng": -72.26468
+      },
+      {
+        "name": "Los Glaciares National Park",
+        "country": "Argentina",
+        "lat": -29.53495,
+        "lng": -62.26615
+      },
+      {
+        "name": "Iguazú Falls",
+        "country": "Argentina",
+        "lat": -29.53495,
+        "lng": -62.26615
+      },
+      {
+        "name": "Iguazu National Park",
+        "country": "Argentina",
+        "lat": -29.53495,
+        "lng": -62.26615
+      },
+      {
+        "name": "Iguazu",
+        "country": "Argentina",
+        "lat": -29.53495,
+        "lng": -62.26615
+      },
+      {
+        "name": "Iguazu National Park",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      }
+    ]
   },
   {
     "destination": "Brazil",
@@ -3700,6 +7302,90 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Bariloche",
+        "country": "Argentina"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Colonia del Sacramento",
+        "country": "Uruguay"
+      },
+      {
+        "name": "Montevideo",
+        "country": "Uruguay"
+      },
+      {
+        "name": "Iguazú Falls",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Bariloche",
+        "country": "Argentina",
+        "lat": -41.13463,
+        "lng": -71.30961
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Colonia del Sacramento",
+        "country": "Uruguay",
+        "lat": -34.47106,
+        "lng": -57.851894
+      },
+      {
+        "name": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.906334,
+        "lng": -56.20423
+      },
+      {
+        "name": "Iguazú Falls",
+        "country": "Argentina",
+        "lat": -29.53495,
+        "lng": -62.26615
+      }
+    ]
   }
 ]

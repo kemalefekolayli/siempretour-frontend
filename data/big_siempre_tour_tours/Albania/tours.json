@@ -73,7 +73,143 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tirana",
+        "country": "Albania"
+      },
+      {
+        "name": "Elbasan",
+        "country": "Albania"
+      },
+      {
+        "name": "Pogradec",
+        "country": "Albania"
+      },
+      {
+        "name": "Voskopojë",
+        "country": "Albania"
+      },
+      {
+        "name": "Korçë",
+        "country": "Albania"
+      },
+      {
+        "name": "Ersekë",
+        "country": "Albania"
+      },
+      {
+        "name": "Përmet",
+        "country": "Albania"
+      },
+      {
+        "name": "Gjirokastër",
+        "country": "Albania"
+      },
+      {
+        "name": "Butrint National Park",
+        "country": "Albania"
+      },
+      {
+        "name": "Llogora National Park",
+        "country": "Albania"
+      },
+      {
+        "name": "Apollonia",
+        "country": "Albania"
+      },
+      {
+        "name": "Berat",
+        "country": "Albania"
+      },
+      {
+        "name": "Durrës",
+        "country": "Albania"
+      },
+      {
+        "name": "Krujë",
+        "country": "Albania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tirana",
+        "country": "Albania",
+        "lat": 41.320507,
+        "lng": 19.81611
+      },
+      {
+        "name": "Elbasan",
+        "country": "Albania",
+        "lat": 41.113426,
+        "lng": 20.083868
+      },
+      {
+        "name": "Pogradec",
+        "country": "Albania",
+        "lat": 40.90219,
+        "lng": 20.658688
+      },
+      {
+        "name": "Voskopojë",
+        "country": "Albania",
+        "lat": 40.633201,
+        "lng": 20.590614
+      },
+      {
+        "name": "Korçë",
+        "country": "Albania",
+        "lat": 40.617767,
+        "lng": 20.778238
+      },
+      {
+        "name": "Ersekë",
+        "country": "Albania",
+        "lat": 40.338437,
+        "lng": 20.681002
+      },
+      {
+        "name": "Përmet",
+        "country": "Albania",
+        "lat": 40.23313,
+        "lng": 20.353647
+      },
+      {
+        "name": "Gjirokastër",
+        "country": "Albania",
+        "lat": 40.077087,
+        "lng": 20.139336
+      },
+      {
+        "name": "Berat",
+        "country": "Albania",
+        "lat": 40.705067,
+        "lng": 19.952581
+      },
+      {
+        "name": "Durrës",
+        "country": "Albania",
+        "lat": 41.314884,
+        "lng": 19.446318
+      },
+      {
+        "name": "Krujë",
+        "country": "Albania",
+        "lat": 41.510838,
+        "lng": 19.791945
+      }
+    ]
   },
   {
     "destination": "Albania",
@@ -139,6 +275,98 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tirana",
+        "country": "Albania"
+      },
+      {
+        "name": "Gjirokaster",
+        "country": "Albania"
+      },
+      {
+        "name": "Vjosa River",
+        "country": "Albania"
+      },
+      {
+        "name": "Kelcyra",
+        "country": "Albania"
+      },
+      {
+        "name": "Porto Palermo",
+        "country": "Albania"
+      },
+      {
+        "name": "Himara",
+        "country": "Albania"
+      },
+      {
+        "name": "Vlora",
+        "country": "Albania"
+      },
+      {
+        "name": "Apollonia",
+        "country": "Albania"
+      },
+      {
+        "name": "Mt Dajti",
+        "country": "Albania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tirana",
+        "country": "Albania",
+        "lat": 41.320507,
+        "lng": 19.81611
+      },
+      {
+        "name": "Gjirokaster",
+        "country": "Albania",
+        "lat": 40.077087,
+        "lng": 20.139336
+      },
+      {
+        "name": "Vjosa River",
+        "country": "Albania",
+        "lat": 40.612413,
+        "lng": 19.562983
+      },
+      {
+        "name": "Kelcyra",
+        "country": "Albania",
+        "lat": 40.313465,
+        "lng": 20.192205
+      },
+      {
+        "name": "Himara",
+        "country": "Albania",
+        "lat": 40.101887,
+        "lng": 19.746206
+      },
+      {
+        "name": "Vlora",
+        "country": "Albania",
+        "lat": 40.457493,
+        "lng": 19.48748
+      },
+      {
+        "name": "Mt Dajti",
+        "country": "Albania",
+        "lat": 41.388356,
+        "lng": 19.908698
+      }
+    ]
   }
 ]

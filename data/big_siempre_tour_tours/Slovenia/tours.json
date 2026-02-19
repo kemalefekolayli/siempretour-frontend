@@ -63,7 +63,155 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ljubljana International Airport",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Bled",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Sava River",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Julian Alps",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Triglav National Park",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Pericnik Falls",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Kranjska Gora",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Špik Mountain Range",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Zelenci Springs",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Lake Predil",
+        "country": "null"
+      },
+      {
+        "name": "Soca Valley",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Great Gorge of Soca",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Vršic Pass",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Jasna Lake",
+        "country": "Slovenia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ljubljana International Airport",
+        "country": "Slovenia",
+        "lat": 46.441612,
+        "lng": 15.811829
+      },
+      {
+        "name": "Bled",
+        "country": "Slovenia",
+        "lat": 46.36842,
+        "lng": 14.11006
+      },
+      {
+        "name": "Sava River",
+        "country": "Slovenia",
+        "lat": 46.0888,
+        "lng": 14.892422
+      },
+      {
+        "name": "Julian Alps",
+        "country": "Slovenia",
+        "lat": 46.441612,
+        "lng": 15.811829
+      },
+      {
+        "name": "Triglav National Park",
+        "country": "Slovenia",
+        "lat": 46.441612,
+        "lng": 15.811829
+      },
+      {
+        "name": "Pericnik Falls",
+        "country": "Slovenia",
+        "lat": 46.441612,
+        "lng": 15.811829
+      },
+      {
+        "name": "Kranjska Gora",
+        "country": "Slovenia",
+        "lat": 46.485132,
+        "lng": 13.784396
+      },
+      {
+        "name": "Špik Mountain Range",
+        "country": "Slovenia",
+        "lat": 46.46835,
+        "lng": 15.607573
+      },
+      {
+        "name": "Zelenci Springs",
+        "country": "Slovenia",
+        "lat": 46.441612,
+        "lng": 15.811829
+      },
+      {
+        "name": "Soca Valley",
+        "country": "Slovenia",
+        "lat": 46.342304,
+        "lng": 13.668359
+      },
+      {
+        "name": "Great Gorge of Soca",
+        "country": "Slovenia",
+        "lat": 46.441612,
+        "lng": 15.811829
+      },
+      {
+        "name": "Vršic Pass",
+        "country": "Slovenia",
+        "lat": 46.25098,
+        "lng": 14.6205
+      },
+      {
+        "name": "Jasna Lake",
+        "country": "Slovenia",
+        "lat": 46.56414,
+        "lng": 16.02356
+      }
+    ]
   },
   {
     "destination": "Slovenia",
@@ -129,7 +277,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ljubljana",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Skocjan Caves",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Bled",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Triglav National Park",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Bohinj Lake",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Piran",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Slovenian Coast",
+        "country": "Slovenia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ljubljana",
+        "country": "Slovenia",
+        "lat": 46.050027,
+        "lng": 14.506929
+      },
+      {
+        "name": "Skocjan Caves",
+        "country": "Slovenia",
+        "lat": 46.441612,
+        "lng": 15.811829
+      },
+      {
+        "name": "Bled",
+        "country": "Slovenia",
+        "lat": 46.36842,
+        "lng": 14.11006
+      },
+      {
+        "name": "Triglav National Park",
+        "country": "Slovenia",
+        "lat": 46.441612,
+        "lng": 15.811829
+      },
+      {
+        "name": "Bohinj Lake",
+        "country": "Slovenia",
+        "lat": 46.301931,
+        "lng": 13.908915
+      },
+      {
+        "name": "Piran",
+        "country": "Slovenia",
+        "lat": 45.528492,
+        "lng": 13.568411
+      },
+      {
+        "name": "Slovenian Coast",
+        "country": "Slovenia",
+        "lat": 46.441612,
+        "lng": 15.811829
+      }
+    ]
   },
   {
     "destination": "Slovenia",
@@ -225,7 +457,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dubrovnik",
+        "country": "Croatia"
+      },
+      {
+        "name": "Mostar",
+        "country": "Bosnia and Herzegovina"
+      },
+      {
+        "name": "Sarajevo",
+        "country": "Bosnia and Herzegovina"
+      },
+      {
+        "name": "Split",
+        "country": "Croatia"
+      },
+      {
+        "name": "Zadar",
+        "country": "Croatia"
+      },
+      {
+        "name": "Plitvice Lakes National Park",
+        "country": "Croatia"
+      },
+      {
+        "name": "Zagreb",
+        "country": "Croatia"
+      },
+      {
+        "name": "Ljubljana",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Vienna",
+        "country": "Austria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dubrovnik",
+        "country": "Croatia",
+        "lat": 42.648808,
+        "lng": 18.093882
+      },
+      {
+        "name": "Mostar",
+        "country": "Bosnia and Herzegovina",
+        "lat": 43.33694,
+        "lng": 17.813868
+      },
+      {
+        "name": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "lat": 43.85251,
+        "lng": 18.38529
+      },
+      {
+        "name": "Split",
+        "country": "Croatia",
+        "lat": 43.508186,
+        "lng": 16.438787
+      },
+      {
+        "name": "Zadar",
+        "country": "Croatia",
+        "lat": 44.121859,
+        "lng": 15.234303
+      },
+      {
+        "name": "Plitvice Lakes National Park",
+        "country": "Croatia",
+        "lat": 44.013877,
+        "lng": 16.240924
+      },
+      {
+        "name": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.813778,
+        "lng": 15.976789
+      },
+      {
+        "name": "Ljubljana",
+        "country": "Slovenia",
+        "lat": 46.050027,
+        "lng": 14.506929
+      },
+      {
+        "name": "Vienna",
+        "country": "Austria",
+        "lat": 48.208354,
+        "lng": 16.372504
+      }
+    ]
   },
   {
     "destination": "Slovenia",
@@ -311,6 +647,70 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ljubljana",
+        "country": "Slovenia"
+      },
+      {
+        "name": "Rovinj",
+        "country": "Croatia"
+      },
+      {
+        "name": "Split",
+        "country": "Croatia"
+      },
+      {
+        "name": "Hvar",
+        "country": "Croatia"
+      },
+      {
+        "name": "Dubrovnik",
+        "country": "Croatia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ljubljana",
+        "country": "Slovenia",
+        "lat": 46.050027,
+        "lng": 14.506929
+      },
+      {
+        "name": "Rovinj",
+        "country": "Croatia",
+        "lat": 45.08182,
+        "lng": 13.634194
+      },
+      {
+        "name": "Split",
+        "country": "Croatia",
+        "lat": 43.508186,
+        "lng": 16.438787
+      },
+      {
+        "name": "Hvar",
+        "country": "Croatia",
+        "lat": 43.151389,
+        "lng": 16.656944
+      },
+      {
+        "name": "Dubrovnik",
+        "country": "Croatia",
+        "lat": 42.648808,
+        "lng": 18.093882
+      }
+    ]
   }
 ]

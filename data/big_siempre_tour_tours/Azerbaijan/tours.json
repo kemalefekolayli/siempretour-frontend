@@ -73,7 +73,169 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Qobustan",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Shamakhi",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Lahij",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Nij",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Sheki",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Kish",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Lagodekhi",
+        "country": "Georgia"
+      },
+      {
+        "name": "Gremi",
+        "country": "Georgia"
+      },
+      {
+        "name": "Telavi",
+        "country": "Georgia"
+      },
+      {
+        "name": "Tsinandali",
+        "country": "Georgia"
+      },
+      {
+        "name": "Alaverdi Cathedral",
+        "country": "Georgia"
+      },
+      {
+        "name": "Gudauri",
+        "country": "Georgia"
+      },
+      {
+        "name": "Stepantsminda",
+        "country": "Georgia"
+      },
+      {
+        "name": "Gergeti Trinity Church",
+        "country": "Georgia"
+      },
+      {
+        "name": "Tbilisi",
+        "country": "Georgia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan",
+        "lat": 40.375589,
+        "lng": 49.832801
+      },
+      {
+        "name": "Qobustan",
+        "country": "Azerbaijan",
+        "lat": 40.532409,
+        "lng": 48.927596
+      },
+      {
+        "name": "Shamakhi",
+        "country": "Azerbaijan",
+        "lat": 40.634609,
+        "lng": 48.636411
+      },
+      {
+        "name": "Lahij",
+        "country": "Azerbaijan",
+        "lat": 40.854721,
+        "lng": 48.388226
+      },
+      {
+        "name": "Sheki",
+        "country": "Azerbaijan",
+        "lat": 41.203361,
+        "lng": 47.180262
+      },
+      {
+        "name": "Lagodekhi",
+        "country": "Georgia",
+        "lat": 41.824278,
+        "lng": 46.273823
+      },
+      {
+        "name": "Gremi",
+        "country": "Georgia",
+        "lat": 42.013065,
+        "lng": 45.673353
+      },
+      {
+        "name": "Telavi",
+        "country": "Georgia",
+        "lat": 41.92424,
+        "lng": 45.465275
+      },
+      {
+        "name": "Tsinandali",
+        "country": "Georgia",
+        "lat": 41.89414,
+        "lng": 45.572542
+      },
+      {
+        "name": "Alaverdi Cathedral",
+        "country": "Georgia",
+        "lat": 42.035815,
+        "lng": 45.370958
+      },
+      {
+        "name": "Gudauri",
+        "country": "Georgia",
+        "lat": 42.476558,
+        "lng": 44.477029
+      },
+      {
+        "name": "Stepantsminda",
+        "country": "Georgia",
+        "lat": 42.658548,
+        "lng": 44.646866
+      },
+      {
+        "name": "Gergeti Trinity Church",
+        "country": "Georgia",
+        "lat": 42.662658,
+        "lng": 44.631291
+      },
+      {
+        "name": "Tbilisi",
+        "country": "Georgia",
+        "lat": 41.693459,
+        "lng": 44.80145
+      }
+    ]
   },
   {
     "destination": "Azerbaijan",
@@ -149,7 +311,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Absheron Peninsula",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Yanardag",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Ateshgah",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Lahic",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Sheki",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Kish",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Ganja",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Naftalan",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Gobustan",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Mud Volcanoes",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Nakhchivan",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Alinja Fortress",
+        "country": "Azerbaijan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan",
+        "lat": 40.375589,
+        "lng": 49.832801
+      },
+      {
+        "name": "Absheron Peninsula",
+        "country": "Azerbaijan",
+        "lat": 40.451056,
+        "lng": 49.753408
+      },
+      {
+        "name": "Lahic",
+        "country": "Azerbaijan",
+        "lat": 40.854721,
+        "lng": 48.388226
+      },
+      {
+        "name": "Sheki",
+        "country": "Azerbaijan",
+        "lat": 41.203361,
+        "lng": 47.180262
+      },
+      {
+        "name": "Ganja",
+        "country": "Azerbaijan",
+        "lat": 40.679808,
+        "lng": 46.359718
+      },
+      {
+        "name": "Naftalan",
+        "country": "Azerbaijan",
+        "lat": 40.504702,
+        "lng": 46.82266
+      },
+      {
+        "name": "Gobustan",
+        "country": "Azerbaijan",
+        "lat": 40.532409,
+        "lng": 48.927596
+      },
+      {
+        "name": "Nakhchivan",
+        "country": "Azerbaijan",
+        "lat": 39.217497,
+        "lng": 45.406967
+      }
+    ]
   },
   {
     "destination": "Azerbaijan",
@@ -225,7 +501,119 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Shamakhi",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Sheki",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Ismayilly",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Lahic",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Ganja",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Gobustan National Park",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Guba",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Ramana",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Mardakan",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Gala",
+        "country": "Azerbaijan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan",
+        "lat": 40.375589,
+        "lng": 49.832801
+      },
+      {
+        "name": "Shamakhi",
+        "country": "Azerbaijan",
+        "lat": 40.634609,
+        "lng": 48.636411
+      },
+      {
+        "name": "Sheki",
+        "country": "Azerbaijan",
+        "lat": 41.203361,
+        "lng": 47.180262
+      },
+      {
+        "name": "Ismayilly",
+        "country": "Azerbaijan",
+        "lat": 40.788056,
+        "lng": 48.148565
+      },
+      {
+        "name": "Lahic",
+        "country": "Azerbaijan",
+        "lat": 40.854721,
+        "lng": 48.388226
+      },
+      {
+        "name": "Ganja",
+        "country": "Azerbaijan",
+        "lat": 40.679808,
+        "lng": 46.359718
+      },
+      {
+        "name": "Gobustan National Park",
+        "country": "Azerbaijan",
+        "lat": 40.532409,
+        "lng": 48.927596
+      },
+      {
+        "name": "Guba",
+        "country": "Azerbaijan",
+        "lat": 41.361427,
+        "lng": 48.513766
+      },
+      {
+        "name": "Mardakan",
+        "country": "Azerbaijan",
+        "lat": 40.488607,
+        "lng": 50.147307
+      }
+    ]
   },
   {
     "destination": "Azerbaijan",
@@ -281,7 +669,89 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Icheri Sheher",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Sheki",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Shemakha",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Gabala",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Gobustan",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Absheron",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Surakhani",
+        "country": "Azerbaijan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan",
+        "lat": 40.375589,
+        "lng": 49.832801
+      },
+      {
+        "name": "Icheri Sheher",
+        "country": "Azerbaijan",
+        "lat": 39.649309,
+        "lng": 46.97826
+      },
+      {
+        "name": "Sheki",
+        "country": "Azerbaijan",
+        "lat": 41.203361,
+        "lng": 47.180262
+      },
+      {
+        "name": "Gabala",
+        "country": "Azerbaijan",
+        "lat": 40.978593,
+        "lng": 47.848909
+      },
+      {
+        "name": "Gobustan",
+        "country": "Azerbaijan",
+        "lat": 40.532409,
+        "lng": 48.927596
+      },
+      {
+        "name": "Absheron",
+        "country": "Azerbaijan",
+        "lat": 40.451056,
+        "lng": 49.753408
+      }
+    ]
   },
   {
     "destination": "Azerbaijan",
@@ -337,7 +807,73 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Gala",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Gobustan National Park",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Sheki",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Gabala",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Maraza",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Kish",
+        "country": "Azerbaijan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan",
+        "lat": 40.375589,
+        "lng": 49.832801
+      },
+      {
+        "name": "Gobustan National Park",
+        "country": "Azerbaijan",
+        "lat": 40.532409,
+        "lng": 48.927596
+      },
+      {
+        "name": "Sheki",
+        "country": "Azerbaijan",
+        "lat": 41.203361,
+        "lng": 47.180262
+      },
+      {
+        "name": "Gabala",
+        "country": "Azerbaijan",
+        "lat": 40.978593,
+        "lng": 47.848909
+      }
+    ]
   },
   {
     "destination": "Azerbaijan",
@@ -523,7 +1059,197 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Istanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ankara",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kars",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tbilisi",
+        "country": "Georgia"
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Caspian Sea",
+        "country": null
+      },
+      {
+        "name": "Aktau",
+        "country": "Kazakhstan"
+      },
+      {
+        "name": "Mangyshlak Peninsula",
+        "country": "Kazakhstan"
+      },
+      {
+        "name": "Urgench",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Almaty",
+        "country": "Kazakhstan"
+      },
+      {
+        "name": "Charyn Canyon",
+        "country": "Kazakhstan"
+      },
+      {
+        "name": "Zharkent",
+        "country": "Kazakhstan"
+      },
+      {
+        "name": "Urumqi",
+        "country": "China"
+      },
+      {
+        "name": "Jiayuguan",
+        "country": "China"
+      },
+      {
+        "name": "Xian",
+        "country": "China"
+      },
+      {
+        "name": "Guangzhou",
+        "country": "China"
+      },
+      {
+        "name": "Hong Kong",
+        "country": "China"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tbilisi",
+        "country": "Georgia",
+        "lat": 41.693459,
+        "lng": 44.80145
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan",
+        "lat": 40.375589,
+        "lng": 49.832801
+      },
+      {
+        "name": "Aktau",
+        "country": "Kazakhstan",
+        "lat": 43.551627,
+        "lng": 51.347682
+      },
+      {
+        "name": "Mangyshlak Peninsula",
+        "country": "Kazakhstan",
+        "lat": 49.948444,
+        "lng": 82.627479
+      },
+      {
+        "name": "Urgench",
+        "country": "Uzbekistan",
+        "lat": 41.558277,
+        "lng": 60.621258
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Almaty",
+        "country": "Kazakhstan",
+        "lat": 43.236392,
+        "lng": 76.945728
+      },
+      {
+        "name": "Charyn Canyon",
+        "country": "Kazakhstan",
+        "lat": 49.948444,
+        "lng": 82.627479
+      },
+      {
+        "name": "Zharkent",
+        "country": "Kazakhstan",
+        "lat": 44.165665,
+        "lng": 80.002739
+      },
+      {
+        "name": "Urumqi",
+        "country": "China",
+        "lat": 43.82548,
+        "lng": 87.61383
+      },
+      {
+        "name": "Jiayuguan",
+        "country": "China",
+        "lat": 39.786938,
+        "lng": 98.27982
+      },
+      {
+        "name": "Xian",
+        "country": "China",
+        "lat": 34.261143,
+        "lng": 108.95584
+      },
+      {
+        "name": "Guangzhou",
+        "country": "China",
+        "lat": 23.125345,
+        "lng": 113.27006
+      },
+      {
+        "name": "Hong Kong",
+        "country": "China",
+        "lat": 36.250507,
+        "lng": 111.66723
+      }
+    ]
   },
   {
     "destination": "Azerbaijan",
@@ -589,6 +1315,108 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Absheron Peninsula",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Gobustan",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Guba",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Krasnaya Sloboda",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Shamakha",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Lahic",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Qabala",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Shekhi",
+        "country": "Azerbaijan"
+      },
+      {
+        "name": "Kish",
+        "country": "Azerbaijan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Baku",
+        "country": "Azerbaijan",
+        "lat": 40.375589,
+        "lng": 49.832801
+      },
+      {
+        "name": "Absheron Peninsula",
+        "country": "Azerbaijan",
+        "lat": 40.451056,
+        "lng": 49.753408
+      },
+      {
+        "name": "Gobustan",
+        "country": "Azerbaijan",
+        "lat": 40.532409,
+        "lng": 48.927596
+      },
+      {
+        "name": "Guba",
+        "country": "Azerbaijan",
+        "lat": 41.361427,
+        "lng": 48.513766
+      },
+      {
+        "name": "Shamakha",
+        "country": "Azerbaijan",
+        "lat": 40.634609,
+        "lng": 48.636411
+      },
+      {
+        "name": "Lahic",
+        "country": "Azerbaijan",
+        "lat": 40.854721,
+        "lng": 48.388226
+      },
+      {
+        "name": "Qabala",
+        "country": "Azerbaijan",
+        "lat": 40.978593,
+        "lng": 47.848909
+      },
+      {
+        "name": "Shekhi",
+        "country": "Azerbaijan",
+        "lat": 41.203361,
+        "lng": 47.180262
+      }
+    ]
   }
 ]

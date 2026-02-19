@@ -68,7 +68,97 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "King’s Highway",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Red Sea",
+        "country": "null"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -139,7 +229,55 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Red Sea",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -200,7 +338,107 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "As-Salt",
+        "country": "Jordan"
+      },
+      {
+        "name": "Bethany",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "As-Salt",
+        "country": "Jordan",
+        "lat": 32.039143,
+        "lng": 35.725742
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -276,7 +514,97 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Bethany",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak Crusaders castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum desert",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak Crusaders castle",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -337,7 +665,117 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajloun",
+        "country": "Jordan"
+      },
+      {
+        "name": "Orjan",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Ajloun",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan",
+        "lat": 31.184722,
+        "lng": 35.704722
+      },
+      {
+        "name": "Shobak",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -408,7 +846,93 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajlun",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Red Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Ajlun",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -474,7 +998,93 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mt. Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -540,7 +1150,113 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajloun Forest Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Village",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Red Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Ajloun Forest Reserve",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Dana Village",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -606,7 +1322,103 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mt. Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan",
+        "lat": 31.184722,
+        "lng": 35.704722
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -672,7 +1484,93 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mt. Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan",
+        "lat": 31.184722,
+        "lng": 35.704722
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -753,7 +1651,101 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Azraq Wetlands Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajloun Forest Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Feynan Eco Lodge",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi al Mujib",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Ajloun Forest Reserve",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -809,7 +1801,77 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Mujib",
+        "country": "Jordan"
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Red Sea",
+        "country": "null"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -905,7 +1967,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Mujib",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Umm Qais",
+        "country": "Jordan"
+      },
+      {
+        "name": "Hisma Desert",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Wadi Disah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Dadan",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Jabal Ikmah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Hegra",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "AlUla Oasis",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Elephant Rock",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Umm Qais",
+        "country": "Jordan",
+        "lat": 32.654033,
+        "lng": 35.68446
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -971,7 +2137,105 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "As-Salt",
+        "country": "Jordan"
+      },
+      {
+        "name": "Bethany",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqraq Wetland Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shaumari Wildlife Reserve",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "As-Salt",
+        "country": "Jordan",
+        "lat": 32.039143,
+        "lng": 35.725742
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1047,7 +2311,123 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajloun",
+        "country": "Jordan"
+      },
+      {
+        "name": "As-Salt",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Ajloun",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "As-Salt",
+        "country": "Jordan",
+        "lat": 32.039143,
+        "lng": 35.725742
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1113,7 +2493,73 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan",
+        "lat": 31.184722,
+        "lng": 35.704722
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1184,7 +2630,103 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Siq al-Barid",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Musa",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Wadi Musa",
+        "country": "Jordan",
+        "lat": 30.321657,
+        "lng": 35.480089
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1265,7 +2807,83 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1341,7 +2959,107 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Azraq",
+        "country": "Jordan"
+      },
+      {
+        "name": "Umm al-Jimaal",
+        "country": "Jordan"
+      },
+      {
+        "name": "Al-Qatrana",
+        "country": "Jordan"
+      },
+      {
+        "name": "Tafila",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobek",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Al-Qatrana",
+        "country": "Jordan",
+        "lat": 31.248037,
+        "lng": 36.05288
+      },
+      {
+        "name": "Tafila",
+        "country": "Jordan",
+        "lat": 30.832848,
+        "lng": 35.599823
+      },
+      {
+        "name": "Shobek",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      },
+      {
+        "name": "Kerak Castle",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1417,7 +3135,227 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Seer",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajlun Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Qasr Al Abd",
+        "country": "Jordan"
+      },
+      {
+        "name": "Qasr Al Hallabat",
+        "country": "Jordan"
+      },
+      {
+        "name": "Qasr Hammam As-Sarh",
+        "country": "Jordan"
+      },
+      {
+        "name": "Qasr Al Azraq",
+        "country": "Jordan"
+      },
+      {
+        "name": "Qasr Asaykhim",
+        "country": "Jordan"
+      },
+      {
+        "name": "Azraq Wetland Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Qasr Al Uwaynid",
+        "country": "Jordan"
+      },
+      {
+        "name": "Qasr Amra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Qasr Kharanah",
+        "country": "Jordan"
+      },
+      {
+        "name": "Qasr Al Mushatta",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mt. Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Karak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Wadi Seer",
+        "country": "Jordan",
+        "lat": 31.955439,
+        "lng": 35.830048
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Ajlun Castle",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "Qasr Al Abd",
+        "country": "Jordan",
+        "lat": 31.310932,
+        "lng": 35.743465
+      },
+      {
+        "name": "Qasr Al Hallabat",
+        "country": "Jordan",
+        "lat": 31.310932,
+        "lng": 35.743465
+      },
+      {
+        "name": "Qasr Hammam As-Sarh",
+        "country": "Jordan",
+        "lat": 31.310932,
+        "lng": 35.743465
+      },
+      {
+        "name": "Qasr Al Azraq",
+        "country": "Jordan",
+        "lat": 31.310932,
+        "lng": 35.743465
+      },
+      {
+        "name": "Qasr Asaykhim",
+        "country": "Jordan",
+        "lat": 31.310932,
+        "lng": 35.743465
+      },
+      {
+        "name": "Qasr Al Uwaynid",
+        "country": "Jordan",
+        "lat": 31.310932,
+        "lng": 35.743465
+      },
+      {
+        "name": "Qasr Amra",
+        "country": "Jordan",
+        "lat": 31.351667,
+        "lng": 35.685
+      },
+      {
+        "name": "Qasr Kharanah",
+        "country": "Jordan",
+        "lat": 31.310932,
+        "lng": 35.743465
+      },
+      {
+        "name": "Qasr Al Mushatta",
+        "country": "Jordan",
+        "lat": 31.310932,
+        "lng": 35.743465
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Karak Castle",
+        "country": "Jordan",
+        "lat": 31.184722,
+        "lng": 35.704722
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1483,7 +3421,69 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1564,7 +3564,165 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "As Salt",
+        "country": "Jordan"
+      },
+      {
+        "name": "Pella",
+        "country": "Jordan"
+      },
+      {
+        "name": "Umm Qais",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajloun",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Azraq",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Village",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Umm ar-Rasas",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "As Salt",
+        "country": "Jordan",
+        "lat": 32.039143,
+        "lng": 35.725742
+      },
+      {
+        "name": "Umm Qais",
+        "country": "Jordan",
+        "lat": 32.654033,
+        "lng": 35.68446
+      },
+      {
+        "name": "Ajloun",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Dana Village",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1660,7 +3818,127 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Azraq Wetlands Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajloun Forest Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mt. Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Biosphere Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Dana",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum Desert",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Ajloun Forest Reserve",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Dana Biosphere Reserve",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Wadi Dana",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1716,7 +3994,83 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mt Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak Castle",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1782,7 +4136,83 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1848,7 +4278,93 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1924,7 +4440,103 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan",
+        "lat": 31.184722,
+        "lng": 35.704722
+      },
+      {
+        "name": "Dana",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -1990,7 +4602,73 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jabal Umm Ad-Dami",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2051,7 +4729,83 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2117,7 +4871,97 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Mujib",
+        "country": "Jordan"
+      },
+      {
+        "name": "Queen Alia International Airport",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan",
+        "lat": 31.184722,
+        "lng": 35.704722
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Little Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2193,7 +5037,107 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Karak Crusaders castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Red Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Araba desert",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Karak Crusaders castle",
+        "country": "Jordan",
+        "lat": 31.184722,
+        "lng": 35.704722
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      },
+      {
+        "name": "Wadi Araba desert",
+        "country": "Jordan",
+        "lat": 29.526648,
+        "lng": 35.007543
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2269,7 +5213,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Pella",
+        "country": "Jordan"
+      },
+      {
+        "name": "Umm Qais",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajloun",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Feynan",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Umm Qais",
+        "country": "Jordan",
+        "lat": 32.654033,
+        "lng": 35.68446
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Ajloun",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2335,7 +5383,73 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Red Sea",
+        "country": "null"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2396,7 +5510,89 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Dana",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2462,7 +5658,73 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Shobak",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2513,7 +5775,45 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2604,7 +5904,121 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Azraq Wetland Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajloun Forest Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mujib Biosphere Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mt. Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Biosphere Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Feynan Ecolodge",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Ajloun Forest Reserve",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Dana Biosphere Reserve",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2685,7 +6099,197 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi al-Mujib",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Beirut",
+        "country": "Lebanon"
+      },
+      {
+        "name": "Jeita Grotto",
+        "country": "Lebanon"
+      },
+      {
+        "name": "Harissa",
+        "country": "Lebanon"
+      },
+      {
+        "name": "Baatara Gorge",
+        "country": "Lebanon"
+      },
+      {
+        "name": "Qadisha Valley",
+        "country": "Lebanon"
+      },
+      {
+        "name": "Becharre",
+        "country": "Lebanon"
+      },
+      {
+        "name": "Cedars of God",
+        "country": "Lebanon"
+      },
+      {
+        "name": "Byblos",
+        "country": "Lebanon"
+      },
+      {
+        "name": "Zahle",
+        "country": "Lebanon"
+      },
+      {
+        "name": "Baalbek",
+        "country": "Lebanon"
+      },
+      {
+        "name": "Anjar",
+        "country": "Lebanon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Shobak Castle",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Beirut",
+        "country": "Lebanon",
+        "lat": 33.89625,
+        "lng": 35.477367
+      },
+      {
+        "name": "Jeita Grotto",
+        "country": "Lebanon",
+        "lat": 33.950794,
+        "lng": 35.644154
+      },
+      {
+        "name": "Harissa",
+        "country": "Lebanon",
+        "lat": 33.98171,
+        "lng": 35.65356
+      },
+      {
+        "name": "Baatara Gorge",
+        "country": "Lebanon",
+        "lat": 33.833898,
+        "lng": 35.54437
+      },
+      {
+        "name": "Qadisha Valley",
+        "country": "Lebanon",
+        "lat": 33.833898,
+        "lng": 35.54437
+      },
+      {
+        "name": "Becharre",
+        "country": "Lebanon",
+        "lat": 34.251827,
+        "lng": 36.01019
+      },
+      {
+        "name": "Cedars of God",
+        "country": "Lebanon",
+        "lat": 33.833898,
+        "lng": 35.54437
+      },
+      {
+        "name": "Byblos",
+        "country": "Lebanon",
+        "lat": 34.121517,
+        "lng": 35.64806
+      },
+      {
+        "name": "Zahle",
+        "country": "Lebanon",
+        "lat": 33.848286,
+        "lng": 35.89863
+      },
+      {
+        "name": "Baalbek",
+        "country": "Lebanon",
+        "lat": 34.00961,
+        "lng": 36.212162
+      },
+      {
+        "name": "Anjar",
+        "country": "Lebanon",
+        "lat": 33.728172,
+        "lng": 35.929756
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2766,7 +6370,157 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Azraq Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Umm al-Jimaal",
+        "country": "Jordan"
+      },
+      {
+        "name": "Al-Qatrana",
+        "country": "Jordan"
+      },
+      {
+        "name": "Hijaz Railway",
+        "country": "Jordan"
+      },
+      {
+        "name": "Tafila",
+        "country": "Jordan"
+      },
+      {
+        "name": "Shobak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Abu al-Lissan",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kithara",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mudawwara",
+        "country": "Jordan"
+      },
+      {
+        "name": "Seven Pillars of Wisdom",
+        "country": "Jordan"
+      },
+      {
+        "name": "Tooth Hill Camp",
+        "country": "Jordan"
+      },
+      {
+        "name": "Tell Shahm Fort",
+        "country": "Jordan"
+      },
+      {
+        "name": "Siddons Ridge",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Machaerus",
+        "country": "Jordan"
+      },
+      {
+        "name": "Zealot Stronghold",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Al-Qatrana",
+        "country": "Jordan",
+        "lat": 31.248037,
+        "lng": 36.05288
+      },
+      {
+        "name": "Tafila",
+        "country": "Jordan",
+        "lat": 30.832848,
+        "lng": 35.599823
+      },
+      {
+        "name": "Shobak",
+        "country": "Jordan",
+        "lat": 30.518513,
+        "lng": 35.539623
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      },
+      {
+        "name": "Aqaba Castle",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2867,7 +6621,157 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt"
+      },
+      {
+        "name": "Mount Sinai",
+        "country": "Egypt"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Valley of the Kings",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Karnak",
+        "country": "Egypt"
+      },
+      {
+        "name": "Temple of Hatshepsut",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt",
+        "lat": 28.499113,
+        "lng": 34.519817
+      },
+      {
+        "name": "Mount Sinai",
+        "country": "Egypt",
+        "lat": 25.490704,
+        "lng": 28.986103
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": 29.986868,
+        "lng": 31.213396
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Temple of Karnak",
+        "country": "Egypt",
+        "lat": 25.729404,
+        "lng": 32.658947
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2918,7 +6822,73 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mt. Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -2989,7 +6959,103 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "As-Salt",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Biosphere Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Mujib",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "As-Salt",
+        "country": "Jordan",
+        "lat": 32.039143,
+        "lng": 35.725742
+      },
+      {
+        "name": "Dana Biosphere Reserve",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -3040,7 +7106,55 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -3116,7 +7230,97 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajloun National Park",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan"
+      },
+      {
+        "name": "Sea of Galilee",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Ajloun National Park",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Kerak",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Dana Nature Reserve",
+        "country": "Jordan",
+        "lat": 30.675192,
+        "lng": 35.610282
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -3187,7 +7391,103 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Ajloun",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Kerak Castle",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Ajloun",
+        "country": "Jordan",
+        "lat": 32.33252,
+        "lng": 35.751705
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Kerak Castle",
+        "country": "Jordan",
+        "lat": 31.18498,
+        "lng": 35.70423
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -3253,7 +7553,77 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Ghwair",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Aqaba",
+        "country": "Jordan",
+        "lat": 29.530264,
+        "lng": 35.004093
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -3349,7 +7719,95 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Negev",
+        "country": "Israel"
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Safed",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Negev",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel",
+        "lat": 29.554464,
+        "lng": 34.954563
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Safed",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -3445,7 +7903,105 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "El Quseir",
+        "country": "Egypt"
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Edfu",
+        "country": "Egypt",
+        "lat": 24.979378,
+        "lng": 32.875317
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "El Quseir",
+        "country": "Egypt",
+        "lat": 26.10447,
+        "lng": 34.27993
+      },
+      {
+        "name": "Hurghada",
+        "country": "Egypt",
+        "lat": 27.22021,
+        "lng": 33.837734
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -3536,7 +8092,99 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Sinai",
+        "country": "Egypt"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Dahab",
+        "country": "Egypt",
+        "lat": 28.499113,
+        "lng": 34.519817
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Mount Sinai",
+        "country": "Egypt",
+        "lat": 25.490704,
+        "lng": 28.986103
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -3622,7 +8270,85 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt"
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt"
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt"
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": 30.047558,
+        "lng": 31.241106
+      },
+      {
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": 25.704048,
+        "lng": 32.634228
+      },
+      {
+        "name": "Aswan",
+        "country": "Egypt",
+        "lat": 24.099846,
+        "lng": 32.899284
+      },
+      {
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": 22.345987,
+        "lng": 31.615765
+      },
+      {
+        "name": "Amman",
+        "country": "Jordan",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   },
   {
     "destination": "Jordan",
@@ -3708,6 +8434,90 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Caesarea",
+        "country": "Israel"
+      },
+      {
+        "name": "Acre",
+        "country": "Israel"
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Caesarea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Acre",
+        "country": "Israel",
+        "lat": 32.923775,
+        "lng": 35.071865
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel",
+        "lat": 29.554464,
+        "lng": 34.954563
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan",
+        "lat": 30.321444,
+        "lng": 35.480034
+      }
+    ]
   }
 ]

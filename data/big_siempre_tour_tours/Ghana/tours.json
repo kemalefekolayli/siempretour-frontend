@@ -58,7 +58,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Assin Manso",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Assin Manso",
+        "country": "Ghana",
+        "lat": 5.522605,
+        "lng": -1.16542
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -124,7 +188,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -210,7 +328,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Tamale",
+        "country": "Ghana"
+      },
+      {
+        "name": "Mole National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Tamale",
+        "country": "Ghana",
+        "lat": 9.440933,
+        "lng": -0.837541
+      },
+      {
+        "name": "Mole National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -306,7 +498,171 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Wli",
+        "country": "Ghana"
+      },
+      {
+        "name": "Mount Afajato",
+        "country": "Ghana"
+      },
+      {
+        "name": "Tafi Atome",
+        "country": "Ghana"
+      },
+      {
+        "name": "Akosombo",
+        "country": "Ghana"
+      },
+      {
+        "name": "Aburi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Koforidua",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Bonkro",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Brenu Akyinim",
+        "country": "Ghana"
+      },
+      {
+        "name": "Ankasa Reserve",
+        "country": "Ghana"
+      },
+      {
+        "name": "Nzulezu",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Winneba",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Wli",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Mount Afajato",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Tafi Atome",
+        "country": "Ghana",
+        "lat": 6.907586,
+        "lng": 0.377816
+      },
+      {
+        "name": "Akosombo",
+        "country": "Ghana",
+        "lat": 6.269799,
+        "lng": 0.050899
+      },
+      {
+        "name": "Aburi",
+        "country": "Ghana",
+        "lat": 5.849729,
+        "lng": -0.177665
+      },
+      {
+        "name": "Koforidua",
+        "country": "Ghana",
+        "lat": 6.103858,
+        "lng": -0.265503
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Bonkro",
+        "country": "Ghana",
+        "lat": 6.971401,
+        "lng": -0.574457
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Brenu Akyinim",
+        "country": "Ghana",
+        "lat": 5.067447,
+        "lng": -1.42729
+      },
+      {
+        "name": "Ankasa Reserve",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Nzulezu",
+        "country": "Ghana",
+        "lat": 5.021,
+        "lng": -2.59801
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Winneba",
+        "country": "Ghana",
+        "lat": 5.363477,
+        "lng": -0.633706
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -377,7 +733,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Winneba",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Axim",
+        "country": "Ghana"
+      },
+      {
+        "name": "Nzulezo",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Akossombo",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Winneba",
+        "country": "Ghana",
+        "lat": 5.363477,
+        "lng": -0.633706
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Axim",
+        "country": "Ghana",
+        "lat": 4.86589,
+        "lng": -2.239788
+      },
+      {
+        "name": "Nzulezo",
+        "country": "Ghana",
+        "lat": 5.021,
+        "lng": -2.59801
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Akossombo",
+        "country": "Ghana",
+        "lat": 6.269799,
+        "lng": 0.050899
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -453,7 +893,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Hohoe",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Hohoe",
+        "country": "Ghana",
+        "lat": 7.153187,
+        "lng": 0.477735
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -574,7 +1088,181 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Anomabu",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Wa",
+        "country": "Ghana"
+      },
+      {
+        "name": "Bolgatanga",
+        "country": "Ghana"
+      },
+      {
+        "name": "Dagomba hut villages",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kokomba 'witches' villages",
+        "country": "Ghana"
+      },
+      {
+        "name": "Wli waterfalls",
+        "country": "Ghana"
+      },
+      {
+        "name": "Mount Afajato",
+        "country": "Ghana"
+      },
+      {
+        "name": "Tafi Atome",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Nzulezu Stilt Village",
+        "country": "Ghana"
+      },
+      {
+        "name": "Ankasa Reserve",
+        "country": "Ghana"
+      },
+      {
+        "name": "Brenu Akyinim",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Anomabu",
+        "country": "Ghana",
+        "lat": 5.178346,
+        "lng": -1.121541
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Wa",
+        "country": "Ghana",
+        "lat": 10.062248,
+        "lng": -2.509322
+      },
+      {
+        "name": "Bolgatanga",
+        "country": "Ghana",
+        "lat": 10.777072,
+        "lng": -0.855612
+      },
+      {
+        "name": "Dagomba hut villages",
+        "country": "Ghana",
+        "lat": 6.165014,
+        "lng": -3.006975
+      },
+      {
+        "name": "Kokomba 'witches' villages",
+        "country": "Ghana",
+        "lat": 6.165014,
+        "lng": -3.006975
+      },
+      {
+        "name": "Wli waterfalls",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Mount Afajato",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Tafi Atome",
+        "country": "Ghana",
+        "lat": 6.907586,
+        "lng": 0.377816
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Nzulezu Stilt Village",
+        "country": "Ghana",
+        "lat": 6.165014,
+        "lng": -3.006975
+      },
+      {
+        "name": "Ankasa Reserve",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Brenu Akyinim",
+        "country": "Ghana",
+        "lat": 5.067447,
+        "lng": -1.42729
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -675,7 +1363,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Manhyia Palace",
+        "country": "Ghana"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Côte d'Ivoire"
+      },
+      {
+        "name": "Abengourou",
+        "country": "Côte d'Ivoire"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Côte d'Ivoire"
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Côte d'Ivoire"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Manhyia Palace",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Abengourou",
+        "country": "Ivory Coast",
+        "lat": 6.726904,
+        "lng": -3.496843
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast",
+        "lat": 5.212884,
+        "lng": -3.743226
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -751,7 +1553,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Akosombo",
+        "country": "Ghana"
+      },
+      {
+        "name": "Tafi Atome",
+        "country": "Ghana"
+      },
+      {
+        "name": "Wli Falls",
+        "country": "Ghana"
+      },
+      {
+        "name": "Krobo",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Bonkro",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast Castle",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Akosombo",
+        "country": "Ghana",
+        "lat": 6.269799,
+        "lng": 0.050899
+      },
+      {
+        "name": "Tafi Atome",
+        "country": "Ghana",
+        "lat": 6.907586,
+        "lng": 0.377816
+      },
+      {
+        "name": "Wli Falls",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Krobo",
+        "country": "Ghana",
+        "lat": 6.129948,
+        "lng": 0.001242
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Bonkro",
+        "country": "Ghana",
+        "lat": 6.971401,
+        "lng": -0.574457
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Cape Coast Castle",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -837,7 +1763,141 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Soweto",
+        "country": "South Africa"
+      },
+      {
+        "name": "Pilanesberg National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Robben Island",
+        "country": "South Africa"
+      },
+      {
+        "name": "Table Mountain",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Winelands",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Peninsula",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape of Good Hope",
+        "country": "South Africa"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      },
+      {
+        "name": "Soweto",
+        "country": "South Africa",
+        "lat": -26.245667,
+        "lng": 27.924866
+      },
+      {
+        "name": "Pilanesberg National Park",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Robben Island",
+        "country": "South Africa",
+        "lat": -33.811634,
+        "lng": 18.379477
+      },
+      {
+        "name": "Table Mountain",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Cape Winelands",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Cape Peninsula",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Cape of Good Hope",
+        "country": "South Africa",
+        "lat": -28.259304,
+        "lng": 30.706787
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -938,7 +1998,161 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Volta River",
+        "country": "Ghana"
+      },
+      {
+        "name": "Akosombo Dam",
+        "country": "Ghana"
+      },
+      {
+        "name": "Aburi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Koforidua",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Mole National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kintampo",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Ankasa Reserve",
+        "country": "Ghana"
+      },
+      {
+        "name": "Nzulezu Stilt Village",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Beyin",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Volta River",
+        "country": "Ghana",
+        "lat": 6.61266,
+        "lng": 0.468893
+      },
+      {
+        "name": "Akosombo Dam",
+        "country": "Ghana",
+        "lat": 6.269799,
+        "lng": 0.050899
+      },
+      {
+        "name": "Aburi",
+        "country": "Ghana",
+        "lat": 5.849729,
+        "lng": -0.177665
+      },
+      {
+        "name": "Koforidua",
+        "country": "Ghana",
+        "lat": 6.103858,
+        "lng": -0.265503
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Mole National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kintampo",
+        "country": "Ghana",
+        "lat": 8.044017,
+        "lng": -1.726064
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Ankasa Reserve",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Nzulezu Stilt Village",
+        "country": "Ghana",
+        "lat": 6.165014,
+        "lng": -3.006975
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Beyin",
+        "country": "Ghana",
+        "lat": 4.987364,
+        "lng": -2.589498
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -989,7 +2203,111 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Mole National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Mognori Eco Village",
+        "country": "Ghana"
+      },
+      {
+        "name": "Larabanga Mosque",
+        "country": "Ghana"
+      },
+      {
+        "name": "Tamale",
+        "country": "Ghana"
+      },
+      {
+        "name": "Ghana National Museum",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kwame Nkrumah Memorial Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Independence Square",
+        "country": "Ghana"
+      },
+      {
+        "name": "Makola Market",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Mole National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Mognori Eco Village",
+        "country": "Ghana",
+        "lat": 9.290346,
+        "lng": -1.776229
+      },
+      {
+        "name": "Larabanga Mosque",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Tamale",
+        "country": "Ghana",
+        "lat": 9.440933,
+        "lng": -0.837541
+      },
+      {
+        "name": "Ghana National Museum",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kwame Nkrumah Memorial Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Independence Square",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Makola Market",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -1080,7 +2398,141 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Techiman",
+        "country": "Ghana"
+      },
+      {
+        "name": "Tamale",
+        "country": "Ghana"
+      },
+      {
+        "name": "Bolgatanga",
+        "country": "Ghana"
+      },
+      {
+        "name": "Sirigu",
+        "country": "Ghana"
+      },
+      {
+        "name": "Salaga",
+        "country": "Ghana"
+      },
+      {
+        "name": "Mole National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kintampo",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Techiman",
+        "country": "Ghana",
+        "lat": 7.560758,
+        "lng": -1.945094
+      },
+      {
+        "name": "Tamale",
+        "country": "Ghana",
+        "lat": 9.440933,
+        "lng": -0.837541
+      },
+      {
+        "name": "Bolgatanga",
+        "country": "Ghana",
+        "lat": 10.777072,
+        "lng": -0.855612
+      },
+      {
+        "name": "Sirigu",
+        "country": "Ghana",
+        "lat": 10.952208,
+        "lng": -0.933629
+      },
+      {
+        "name": "Salaga",
+        "country": "Ghana",
+        "lat": 8.550609,
+        "lng": -0.519653
+      },
+      {
+        "name": "Mole National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kintampo",
+        "country": "Ghana",
+        "lat": 8.044017,
+        "lng": -1.726064
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -1166,7 +2618,105 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Goree Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saly",
+        "country": "Senegal"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Assin Manso",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Saly",
+        "country": "Senegal",
+        "lat": 14.441115,
+        "lng": -17.01483
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Assin Manso",
+        "country": "Ghana",
+        "lat": 5.522605,
+        "lng": -1.16542
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -1232,7 +2782,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Assin Manso",
+        "country": "Ghana"
+      },
+      {
+        "name": "Beyin",
+        "country": "Ghana"
+      },
+      {
+        "name": "Axim",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Assin Manso",
+        "country": "Ghana",
+        "lat": 5.522605,
+        "lng": -1.16542
+      },
+      {
+        "name": "Beyin",
+        "country": "Ghana",
+        "lat": 4.987364,
+        "lng": -2.589498
+      },
+      {
+        "name": "Axim",
+        "country": "Ghana",
+        "lat": 4.86589,
+        "lng": -2.239788
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      }
+    ]
   },
   {
     "destination": "Ghana",
@@ -1298,6 +2932,70 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      }
+    ]
   }
 ]

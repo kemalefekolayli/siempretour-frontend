@@ -103,7 +103,233 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bucharest",
+        "country": "Romania"
+      },
+      {
+        "name": "Sinaia",
+        "country": "Romania"
+      },
+      {
+        "name": "Bran",
+        "country": "Romania"
+      },
+      {
+        "name": "Moieciu",
+        "country": "Romania"
+      },
+      {
+        "name": "Brasov",
+        "country": "Romania"
+      },
+      {
+        "name": "Sibiu",
+        "country": "Romania"
+      },
+      {
+        "name": "Corvin Castle",
+        "country": "Romania"
+      },
+      {
+        "name": "Orsova",
+        "country": "Romania"
+      },
+      {
+        "name": "Viminacium",
+        "country": "Serbia"
+      },
+      {
+        "name": "Belgrade",
+        "country": "Serbia"
+      },
+      {
+        "name": "Novi Sad",
+        "country": "Serbia"
+      },
+      {
+        "name": "Devil's Town",
+        "country": "Serbia"
+      },
+      {
+        "name": "Nis",
+        "country": "Serbia"
+      },
+      {
+        "name": "Sofia",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Rila Monastery",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Plovdiv",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Kazanlak",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Shipka Memorial Church",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Varna",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Balchik",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Kaliakra Fortress",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Bucharest",
+        "country": "Romania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bucharest",
+        "country": "Romania",
+        "lat": 44.436141,
+        "lng": 26.10272
+      },
+      {
+        "name": "Sinaia",
+        "country": "Romania",
+        "lat": 45.35055,
+        "lng": 25.549294
+      },
+      {
+        "name": "Bran",
+        "country": "Romania",
+        "lat": 45.51626,
+        "lng": 25.368921
+      },
+      {
+        "name": "Moieciu",
+        "country": "Romania",
+        "lat": 45.504845,
+        "lng": 25.338617
+      },
+      {
+        "name": "Brasov",
+        "country": "Romania",
+        "lat": 45.651417,
+        "lng": 25.610168
+      },
+      {
+        "name": "Sibiu",
+        "country": "Romania",
+        "lat": 45.797806,
+        "lng": 24.151264
+      },
+      {
+        "name": "Corvin Castle",
+        "country": "Romania",
+        "lat": 46.790855,
+        "lng": 26.690353
+      },
+      {
+        "name": "Orsova",
+        "country": "Romania",
+        "lat": 44.723583,
+        "lng": 22.397928
+      },
+      {
+        "name": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.817813,
+        "lng": 20.456897
+      },
+      {
+        "name": "Novi Sad",
+        "country": "Serbia",
+        "lat": 45.25558,
+        "lng": 19.845444
+      },
+      {
+        "name": "Nis",
+        "country": "Serbia",
+        "lat": 43.318123,
+        "lng": 21.894835
+      },
+      {
+        "name": "Sofia",
+        "country": "Bulgaria",
+        "lat": 42.69489,
+        "lng": 23.320782
+      },
+      {
+        "name": "Rila Monastery",
+        "country": "Bulgaria",
+        "lat": 42.122112,
+        "lng": 23.127926
+      },
+      {
+        "name": "Plovdiv",
+        "country": "Bulgaria",
+        "lat": 42.148224,
+        "lng": 24.748371
+      },
+      {
+        "name": "Kazanlak",
+        "country": "Bulgaria",
+        "lat": 42.618717,
+        "lng": 25.393099
+      },
+      {
+        "name": "Shipka Memorial Church",
+        "country": "Bulgaria",
+        "lat": 42.71266,
+        "lng": 25.333652
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "country": "Bulgaria",
+        "lat": 43.083744,
+        "lng": 25.63566
+      },
+      {
+        "name": "Varna",
+        "country": "Bulgaria",
+        "lat": 43.206253,
+        "lng": 27.914743
+      },
+      {
+        "name": "Balchik",
+        "country": "Bulgaria",
+        "lat": 43.425755,
+        "lng": 28.159506
+      },
+      {
+        "name": "Bucharest",
+        "country": "Romania",
+        "lat": 44.436141,
+        "lng": 26.10272
+      }
+    ]
   },
   {
     "destination": "Serbia",
@@ -169,6 +395,74 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Belgrade",
+        "country": "Serbia"
+      },
+      {
+        "name": "Trešnjica",
+        "country": "Serbia"
+      },
+      {
+        "name": "Tara National Park",
+        "country": "Serbia"
+      },
+      {
+        "name": "Bajna Bašta",
+        "country": "Serbia"
+      },
+      {
+        "name": "Mokra Gora",
+        "country": "Serbia"
+      },
+      {
+        "name": "Šargan-Vitasi",
+        "country": "Serbia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.817813,
+        "lng": 20.456897
+      },
+      {
+        "name": "Trešnjica",
+        "country": "Serbia",
+        "lat": 43.173481,
+        "lng": 20.862886
+      },
+      {
+        "name": "Bajna Bašta",
+        "country": "Serbia",
+        "lat": 43.97119,
+        "lng": 19.566036
+      },
+      {
+        "name": "Mokra Gora",
+        "country": "Serbia",
+        "lat": 43.78929,
+        "lng": 19.503996
+      },
+      {
+        "name": "Šargan-Vitasi",
+        "country": "Serbia",
+        "lat": 43.83179,
+        "lng": 19.554572
+      }
+    ]
   }
 ]

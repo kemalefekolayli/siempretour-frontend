@@ -63,7 +63,143 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Underberg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Sani Pass",
+        "country": "null"
+      },
+      {
+        "name": "Tsehlanyane National Park",
+        "country": "Lesotho"
+      },
+      {
+        "name": "Thaba Bosiu",
+        "country": "Lesotho"
+      },
+      {
+        "name": "Semonkong",
+        "country": "Lesotho"
+      },
+      {
+        "name": "Maletsunyane Falls",
+        "country": "Lesotho"
+      },
+      {
+        "name": "Mateka",
+        "country": "Lesotho"
+      },
+      {
+        "name": "Leribe",
+        "country": "Lesotho"
+      },
+      {
+        "name": "Clarens",
+        "country": "South Africa"
+      },
+      {
+        "name": "Golden Gate Reserve",
+        "country": "South Africa"
+      },
+      {
+        "name": "Ladysmith",
+        "country": "South Africa"
+      },
+      {
+        "name": "Ezulwini Valley",
+        "country": "Eswatini"
+      },
+      {
+        "name": "Mkhaya Game Reserve",
+        "country": "Eswatini"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Johannesburg",
+        "country": "South Africa",
+        "lat": -26.204678,
+        "lng": 28.042114
+      },
+      {
+        "name": "Underberg",
+        "country": "South Africa",
+        "lat": -29.79362,
+        "lng": 29.494995
+      },
+      {
+        "name": "Thaba Bosiu",
+        "country": "Lesotho",
+        "lat": -29.345103,
+        "lng": 27.671342
+      },
+      {
+        "name": "Semonkong",
+        "country": "Lesotho",
+        "lat": -29.839971,
+        "lng": 28.05113
+      },
+      {
+        "name": "Mateka",
+        "country": "Lesotho",
+        "lat": -29.239746,
+        "lng": 27.860413
+      },
+      {
+        "name": "Leribe",
+        "country": "Lesotho",
+        "lat": -29.018268,
+        "lng": 28.2637
+      },
+      {
+        "name": "Clarens",
+        "country": "South Africa",
+        "lat": -28.515364,
+        "lng": 28.42062
+      },
+      {
+        "name": "Golden Gate Reserve",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Ladysmith",
+        "country": "South Africa",
+        "lat": -28.559689,
+        "lng": 29.78082
+      },
+      {
+        "name": "Ezulwini Valley",
+        "country": "Eswatini",
+        "lat": -26.401819,
+        "lng": 31.178316
+      },
+      {
+        "name": "Mkhaya Game Reserve",
+        "country": "Eswatini",
+        "lat": -26.314901,
+        "lng": 31.13396
+      }
+    ]
   },
   {
     "destination": "Swaziland",
@@ -149,6 +285,100 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mlilwane Wildlife Sanctuary",
+        "country": "Eswatini"
+      },
+      {
+        "name": "Malolotja Nature Reserve",
+        "country": "Eswatini"
+      },
+      {
+        "name": "Ngwenya Mine",
+        "country": "Eswatini"
+      },
+      {
+        "name": "Mkhaya Game Reserve",
+        "country": "Eswatini"
+      },
+      {
+        "name": "Hlane Royal National Park",
+        "country": "Eswatini"
+      },
+      {
+        "name": "Nsangwini Rock Shelter",
+        "country": "Eswatini"
+      },
+      {
+        "name": "Mbuluzi Game Reserve",
+        "country": "Eswatini"
+      },
+      {
+        "name": "Shewula Mountain Camp",
+        "country": "Eswatini"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mlilwane Wildlife Sanctuary",
+        "country": "Eswatini",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Malolotja Nature Reserve",
+        "country": "Eswatini",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Ngwenya Mine",
+        "country": "Eswatini",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Mkhaya Game Reserve",
+        "country": "Eswatini",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Hlane Royal National Park",
+        "country": "Eswatini",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Nsangwini Rock Shelter",
+        "country": "Eswatini",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Mbuluzi Game Reserve",
+        "country": "Eswatini",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Shewula Mountain Camp",
+        "country": "Eswatini",
+        "lat": -26.314901,
+        "lng": 31.13396
+      }
+    ]
   }
 ]

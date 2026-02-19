@@ -78,7 +78,151 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Dhamrai",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Bogra",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Mahastangarh",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Chars of the Jamuna River",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Paharpur",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Rajshahi",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Jessore",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Otter fishing village",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Khulna",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Sundarbans",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Mongla",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Sylhet",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Jaflong",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Khasia village",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Srimongal",
+        "country": "Bangladesh"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh",
+        "lat": 23.764288,
+        "lng": 90.38896
+      },
+      {
+        "name": "Dhamrai",
+        "country": "Bangladesh",
+        "lat": 23.919937,
+        "lng": 90.21122
+      },
+      {
+        "name": "Bogra",
+        "country": "Bangladesh",
+        "lat": 24.847963,
+        "lng": 89.37292
+      },
+      {
+        "name": "Paharpur",
+        "country": "Bangladesh",
+        "lat": 23.987146,
+        "lng": 91.273
+      },
+      {
+        "name": "Rajshahi",
+        "country": "Bangladesh",
+        "lat": 24.36638,
+        "lng": 88.60024
+      },
+      {
+        "name": "Jessore",
+        "country": "Bangladesh",
+        "lat": 23.166573,
+        "lng": 89.20951
+      },
+      {
+        "name": "Khulna",
+        "country": "Bangladesh",
+        "lat": 22.816042,
+        "lng": 89.56425
+      },
+      {
+        "name": "Sundarbans",
+        "country": "Bangladesh",
+        "lat": 22.444813,
+        "lng": 89.6585
+      },
+      {
+        "name": "Mongla",
+        "country": "Bangladesh",
+        "lat": 22.4718,
+        "lng": 89.60427
+      },
+      {
+        "name": "Sylhet",
+        "country": "Bangladesh",
+        "lat": 24.894918,
+        "lng": 91.868706
+      },
+      {
+        "name": "Srimongal",
+        "country": "Bangladesh",
+        "lat": 24.309465,
+        "lng": 91.73143
+      }
+    ]
   },
   {
     "destination": "Bangladesh",
@@ -169,7 +313,135 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Paharpur",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Rajshahi",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Khulna",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Sundarbans",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Srimongal",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Lawachara National Park",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Chittagong",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Kaptai Lake",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Rangamati",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Bandarban",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Sangu River",
+        "country": "Bangladesh"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh",
+        "lat": 23.764288,
+        "lng": 90.38896
+      },
+      {
+        "name": "Paharpur",
+        "country": "Bangladesh",
+        "lat": 23.987146,
+        "lng": 91.273
+      },
+      {
+        "name": "Rajshahi",
+        "country": "Bangladesh",
+        "lat": 24.36638,
+        "lng": 88.60024
+      },
+      {
+        "name": "Khulna",
+        "country": "Bangladesh",
+        "lat": 22.816042,
+        "lng": 89.56425
+      },
+      {
+        "name": "Sundarbans",
+        "country": "Bangladesh",
+        "lat": 22.444813,
+        "lng": 89.6585
+      },
+      {
+        "name": "Srimongal",
+        "country": "Bangladesh",
+        "lat": 24.309465,
+        "lng": 91.73143
+      },
+      {
+        "name": "Lawachara National Park",
+        "country": "Bangladesh",
+        "lat": 24.399265,
+        "lng": 90.085396
+      },
+      {
+        "name": "Chittagong",
+        "country": "Bangladesh",
+        "lat": 22.334938,
+        "lng": 91.833405
+      },
+      {
+        "name": "Kaptai Lake",
+        "country": "Bangladesh",
+        "lat": 22.503235,
+        "lng": 92.21093
+      },
+      {
+        "name": "Rangamati",
+        "country": "Bangladesh",
+        "lat": 22.653725,
+        "lng": 92.17828
+      },
+      {
+        "name": "Bandarban",
+        "country": "Bangladesh",
+        "lat": 22.196148,
+        "lng": 92.2176
+      }
+    ]
   },
   {
     "destination": "Bangladesh",
@@ -270,7 +542,147 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Bogra",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Rajshahi",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Jashore",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Lalon Shah Complex",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Kotka",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Sundarbans National Park",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Sonargaon",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Srimangal",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Garo Tribal Village",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Lawachara National Park",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Khasi and Tripura Villages",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Chittagong",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Rangamati",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Bandarban",
+        "country": "Bangladesh"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh",
+        "lat": 23.764288,
+        "lng": 90.38896
+      },
+      {
+        "name": "Bogra",
+        "country": "Bangladesh",
+        "lat": 24.847963,
+        "lng": 89.37292
+      },
+      {
+        "name": "Rajshahi",
+        "country": "Bangladesh",
+        "lat": 24.36638,
+        "lng": 88.60024
+      },
+      {
+        "name": "Jashore",
+        "country": "Bangladesh",
+        "lat": 23.166573,
+        "lng": 89.20951
+      },
+      {
+        "name": "Sundarbans National Park",
+        "country": "Bangladesh",
+        "lat": 22.444813,
+        "lng": 89.6585
+      },
+      {
+        "name": "Sonargaon",
+        "country": "Bangladesh",
+        "lat": 23.640491,
+        "lng": 90.60453
+      },
+      {
+        "name": "Srimangal",
+        "country": "Bangladesh",
+        "lat": 24.309465,
+        "lng": 91.73143
+      },
+      {
+        "name": "Lawachara National Park",
+        "country": "Bangladesh",
+        "lat": 24.399265,
+        "lng": 90.085396
+      },
+      {
+        "name": "Chittagong",
+        "country": "Bangladesh",
+        "lat": 22.334938,
+        "lng": 91.833405
+      },
+      {
+        "name": "Rangamati",
+        "country": "Bangladesh",
+        "lat": 22.653725,
+        "lng": 92.17828
+      },
+      {
+        "name": "Bandarban",
+        "country": "Bangladesh",
+        "lat": 22.196148,
+        "lng": 92.2176
+      }
+    ]
   },
   {
     "destination": "Bangladesh",
@@ -316,7 +728,71 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Bagerhat Mosque",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Sundarbans National Park",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Mongla",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Jessore",
+        "country": "Bangladesh"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh",
+        "lat": 23.764288,
+        "lng": 90.38896
+      },
+      {
+        "name": "Bagerhat Mosque",
+        "country": "Bangladesh",
+        "lat": 22.658327,
+        "lng": 89.79586
+      },
+      {
+        "name": "Sundarbans National Park",
+        "country": "Bangladesh",
+        "lat": 22.444813,
+        "lng": 89.6585
+      },
+      {
+        "name": "Mongla",
+        "country": "Bangladesh",
+        "lat": 22.4718,
+        "lng": 89.60427
+      },
+      {
+        "name": "Jessore",
+        "country": "Bangladesh",
+        "lat": 23.166573,
+        "lng": 89.20951
+      }
+    ]
   },
   {
     "destination": "Bangladesh",
@@ -387,7 +863,135 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Khulna",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Sundarbans",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Puthia",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Rajshahi",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Paharpur",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Bogra",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Mahastangarh",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Chittagong",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Rangamati",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Chittagong Hill Tracts",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Srimongal",
+        "country": "Bangladesh"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh",
+        "lat": 23.764288,
+        "lng": 90.38896
+      },
+      {
+        "name": "Khulna",
+        "country": "Bangladesh",
+        "lat": 22.816042,
+        "lng": 89.56425
+      },
+      {
+        "name": "Sundarbans",
+        "country": "Bangladesh",
+        "lat": 22.444813,
+        "lng": 89.6585
+      },
+      {
+        "name": "Puthia",
+        "country": "Bangladesh",
+        "lat": 24.36374,
+        "lng": 88.836716
+      },
+      {
+        "name": "Rajshahi",
+        "country": "Bangladesh",
+        "lat": 24.36638,
+        "lng": 88.60024
+      },
+      {
+        "name": "Paharpur",
+        "country": "Bangladesh",
+        "lat": 23.987146,
+        "lng": 91.273
+      },
+      {
+        "name": "Bogra",
+        "country": "Bangladesh",
+        "lat": 24.847963,
+        "lng": 89.37292
+      },
+      {
+        "name": "Chittagong",
+        "country": "Bangladesh",
+        "lat": 22.334938,
+        "lng": 91.833405
+      },
+      {
+        "name": "Rangamati",
+        "country": "Bangladesh",
+        "lat": 22.653725,
+        "lng": 92.17828
+      },
+      {
+        "name": "Chittagong Hill Tracts",
+        "country": "Bangladesh",
+        "lat": 22.334938,
+        "lng": 91.833405
+      },
+      {
+        "name": "Srimongal",
+        "country": "Bangladesh",
+        "lat": 24.309465,
+        "lng": 91.73143
+      }
+    ]
   },
   {
     "destination": "Bangladesh",
@@ -458,6 +1062,80 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Srimangal",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Lawachara National Park",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Satchari National Park",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Rema Kalenga Wildlife Sanctuary",
+        "country": "Bangladesh"
+      },
+      {
+        "name": "Sundarbans National Park",
+        "country": "Bangladesh"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dhaka",
+        "country": "Bangladesh",
+        "lat": 23.764288,
+        "lng": 90.38896
+      },
+      {
+        "name": "Srimangal",
+        "country": "Bangladesh",
+        "lat": 24.309465,
+        "lng": 91.73143
+      },
+      {
+        "name": "Lawachara National Park",
+        "country": "Bangladesh",
+        "lat": 24.399265,
+        "lng": 90.085396
+      },
+      {
+        "name": "Satchari National Park",
+        "country": "Bangladesh",
+        "lat": 24.399265,
+        "lng": 90.085396
+      },
+      {
+        "name": "Rema Kalenga Wildlife Sanctuary",
+        "country": "Bangladesh",
+        "lat": 22.049587,
+        "lng": 92.40952
+      },
+      {
+        "name": "Sundarbans National Park",
+        "country": "Bangladesh",
+        "lat": 22.444813,
+        "lng": 89.6585
+      }
+    ]
   }
 ]

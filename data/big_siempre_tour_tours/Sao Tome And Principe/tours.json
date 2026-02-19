@@ -63,7 +63,49 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "São Tomé Town",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Lake Amelia",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Porto Alegre",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Praia Piscina",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "São João dos Angolares",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Fernão Dias",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Boa Entrada",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Agostinho Neto",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Monte Café plantation",
+        "country": "São Tomé and Príncipe"
+      }
+    ]
   },
   {
     "destination": "Sao Tome And Principe",
@@ -124,7 +166,41 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sao Tome Island",
+        "country": "Sao Tome and Principe"
+      },
+      {
+        "name": "Principe Island",
+        "country": "Sao Tome and Principe"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sao Tome Island",
+        "country": "Sao Tome and Principe",
+        "lat": 1.638153,
+        "lng": 7.419777
+      },
+      {
+        "name": "Principe Island",
+        "country": "Sao Tome and Principe",
+        "lat": 1.638153,
+        "lng": 7.419777
+      }
+    ]
   },
   {
     "destination": "Sao Tome And Principe",
@@ -190,6 +266,48 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "São Tomé",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "São João dos Angolares",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Ribeira Afonse",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Porto Alegre",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Praia Inhame",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Rolas Island",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Mucumbli",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Obo National Park",
+        "country": "São Tomé and Príncipe"
+      },
+      {
+        "name": "Trinidad",
+        "country": "São Tomé and Príncipe"
+      }
+    ]
   }
 ]

@@ -58,7 +58,111 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Caracas",
+        "country": "Venezuela"
+      },
+      {
+        "name": "Canaima National Park",
+        "country": "Venezuela"
+      },
+      {
+        "name": "Angel Falls",
+        "country": "Venezuela"
+      },
+      {
+        "name": "Merida",
+        "country": "Venezuela"
+      },
+      {
+        "name": "Jaji",
+        "country": "Venezuela"
+      },
+      {
+        "name": "Laguna Negra",
+        "country": "Venezuela"
+      },
+      {
+        "name": "Pico El Aguila",
+        "country": "Venezuela"
+      },
+      {
+        "name": "Hato El Cedral",
+        "country": "Venezuela"
+      },
+      {
+        "name": "Los Roques",
+        "country": "Venezuela"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Caracas",
+        "country": "Venezuela",
+        "lat": 10.506539,
+        "lng": -66.91498
+      },
+      {
+        "name": "Canaima National Park",
+        "country": "Venezuela",
+        "lat": 10.626845,
+        "lng": -63.179465
+      },
+      {
+        "name": "Angel Falls",
+        "country": "Venezuela",
+        "lat": 8.74879,
+        "lng": -70.92041
+      },
+      {
+        "name": "Merida",
+        "country": "Venezuela",
+        "lat": 8.581696,
+        "lng": -71.165807
+      },
+      {
+        "name": "Jaji",
+        "country": "Venezuela",
+        "lat": 8.57228,
+        "lng": -71.341264
+      },
+      {
+        "name": "Laguna Negra",
+        "country": "Venezuela",
+        "lat": 7.819125,
+        "lng": -67.529826
+      },
+      {
+        "name": "Pico El Aguila",
+        "country": "Venezuela",
+        "lat": 10.916954,
+        "lng": -64.070049
+      },
+      {
+        "name": "Hato El Cedral",
+        "country": "Venezuela",
+        "lat": 9.385059,
+        "lng": -63.607482
+      },
+      {
+        "name": "Los Roques",
+        "country": "Venezuela",
+        "lat": 11.8575,
+        "lng": -66.7575
+      }
+    ]
   },
   {
     "destination": "Venezuela",
@@ -99,6 +203,50 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Caracas",
+        "country": "Venezuela"
+      },
+      {
+        "name": "Los Llanos",
+        "country": "Venezuela"
+      },
+      {
+        "name": "Caracas",
+        "country": "Venezuela"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Caracas",
+        "country": "Venezuela",
+        "lat": 10.506539,
+        "lng": -66.91498
+      },
+      {
+        "name": "Los Llanos",
+        "country": "Venezuela",
+        "lat": 10.629585,
+        "lng": -62.673264
+      },
+      {
+        "name": "Caracas",
+        "country": "Venezuela",
+        "lat": 10.506539,
+        "lng": -66.91498
+      }
+    ]
   }
 ]

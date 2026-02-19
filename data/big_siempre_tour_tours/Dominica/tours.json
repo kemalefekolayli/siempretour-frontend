@@ -83,7 +83,169 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dominica",
+        "country": "Dominica"
+      },
+      {
+        "name": "Soufriere",
+        "country": "Dominica"
+      },
+      {
+        "name": "Gallion",
+        "country": "Dominica"
+      },
+      {
+        "name": "Champagne Beach",
+        "country": "Dominica"
+      },
+      {
+        "name": "Roseau",
+        "country": "Dominica"
+      },
+      {
+        "name": "Morne Trois Pitons National Park",
+        "country": "Dominica"
+      },
+      {
+        "name": "Middleham Falls",
+        "country": "Dominica"
+      },
+      {
+        "name": "Fresh Water Lake",
+        "country": "Dominica"
+      },
+      {
+        "name": "Titou Gorge",
+        "country": "Dominica"
+      },
+      {
+        "name": "Morne Anglais",
+        "country": "Dominica"
+      },
+      {
+        "name": "Soufriere – Scotts Head Marine Reserve",
+        "country": "Dominica"
+      },
+      {
+        "name": "Boiling Lake",
+        "country": "Dominica"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Dominica"
+      },
+      {
+        "name": "Sari Sari Waterfall",
+        "country": "Dominica"
+      },
+      {
+        "name": "Kalinago Territory",
+        "country": "Dominica"
+      },
+      {
+        "name": "Cabrits National Park",
+        "country": "Dominica"
+      },
+      {
+        "name": "Waitukubuli National Trail",
+        "country": "Dominica"
+      },
+      {
+        "name": "Ros Castle",
+        "country": "Dominica"
+      },
+      {
+        "name": "Picard River",
+        "country": "Dominica"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Soufriere",
+        "country": "Dominica",
+        "lat": 15.233153,
+        "lng": -61.360369
+      },
+      {
+        "name": "Gallion",
+        "country": "Dominica",
+        "lat": 15.22367,
+        "lng": -61.357606
+      },
+      {
+        "name": "Champagne Beach",
+        "country": "Dominica",
+        "lat": 15.564566,
+        "lng": -61.335199
+      },
+      {
+        "name": "Roseau",
+        "country": "Dominica",
+        "lat": 15.299192,
+        "lng": -61.387287
+      },
+      {
+        "name": "Morne Trois Pitons National Park",
+        "country": "Dominica",
+        "lat": 15.489862,
+        "lng": -61.430617
+      },
+      {
+        "name": "Titou Gorge",
+        "country": "Dominica",
+        "lat": 15.329299,
+        "lng": -61.324316
+      },
+      {
+        "name": "Morne Anglais",
+        "country": "Dominica",
+        "lat": 15.57951,
+        "lng": -61.421251
+      },
+      {
+        "name": "Soufriere – Scotts Head Marine Reserve",
+        "country": "Dominica",
+        "lat": 15.233153,
+        "lng": -61.360369
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Dominica",
+        "lat": 15.290216,
+        "lng": -61.269263
+      },
+      {
+        "name": "Cabrits National Park",
+        "country": "Dominica",
+        "lat": 15.488961,
+        "lng": -61.451858
+      },
+      {
+        "name": "Ros Castle",
+        "country": "Dominica",
+        "lat": 15.544378,
+        "lng": -61.431253
+      },
+      {
+        "name": "Picard River",
+        "country": "Dominica",
+        "lat": 15.556282,
+        "lng": -61.457613
+      }
+    ]
   },
   {
     "destination": "Dominica",
@@ -164,6 +326,160 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dominica",
+        "country": "Dominica"
+      },
+      {
+        "name": "Soufriere",
+        "country": "Dominica"
+      },
+      {
+        "name": "Gallion",
+        "country": "Dominica"
+      },
+      {
+        "name": "Champagne Beach",
+        "country": "Dominica"
+      },
+      {
+        "name": "Roseau Valley",
+        "country": "Dominica"
+      },
+      {
+        "name": "Laudat",
+        "country": "Dominica"
+      },
+      {
+        "name": "Fresh Water Lake",
+        "country": "Dominica"
+      },
+      {
+        "name": "Titou Gorge",
+        "country": "Dominica"
+      },
+      {
+        "name": "Emerald Pool",
+        "country": "Dominica"
+      },
+      {
+        "name": "Castle Bruce",
+        "country": "Dominica"
+      },
+      {
+        "name": "Petite Soufriere",
+        "country": "Dominica"
+      },
+      {
+        "name": "Zion Valley",
+        "country": "Dominica"
+      },
+      {
+        "name": "Kalinago Territory",
+        "country": "Dominica"
+      },
+      {
+        "name": "Cabrits National Park",
+        "country": "Dominica"
+      },
+      {
+        "name": "Capuchin",
+        "country": "Dominica"
+      },
+      {
+        "name": "Indian River",
+        "country": "Dominica"
+      },
+      {
+        "name": "Morne Aux Diables",
+        "country": "Dominica"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Soufriere",
+        "country": "Dominica",
+        "lat": 15.233153,
+        "lng": -61.360369
+      },
+      {
+        "name": "Gallion",
+        "country": "Dominica",
+        "lat": 15.22367,
+        "lng": -61.357606
+      },
+      {
+        "name": "Champagne Beach",
+        "country": "Dominica",
+        "lat": 15.564566,
+        "lng": -61.335199
+      },
+      {
+        "name": "Roseau Valley",
+        "country": "Dominica",
+        "lat": 15.299192,
+        "lng": -61.387287
+      },
+      {
+        "name": "Laudat",
+        "country": "Dominica",
+        "lat": 15.335229,
+        "lng": -61.333042
+      },
+      {
+        "name": "Titou Gorge",
+        "country": "Dominica",
+        "lat": 15.329299,
+        "lng": -61.324316
+      },
+      {
+        "name": "Emerald Pool",
+        "country": "Dominica",
+        "lat": 15.397784,
+        "lng": -61.312138
+      },
+      {
+        "name": "Castle Bruce",
+        "country": "Dominica",
+        "lat": 15.442128,
+        "lng": -61.257184
+      },
+      {
+        "name": "Petite Soufriere",
+        "country": "Dominica",
+        "lat": 15.391003,
+        "lng": -61.256242
+      },
+      {
+        "name": "Cabrits National Park",
+        "country": "Dominica",
+        "lat": 15.488961,
+        "lng": -61.451858
+      },
+      {
+        "name": "Capuchin",
+        "country": "Dominica",
+        "lat": 15.630834,
+        "lng": -61.461403
+      },
+      {
+        "name": "Morne Aux Diables",
+        "country": "Dominica",
+        "lat": 15.57951,
+        "lng": -61.421251
+      }
+    ]
   }
 ]

@@ -88,7 +88,89 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Singapore",
+        "country": "Singapore"
+      },
+      {
+        "name": "Malacca",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batu Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Chenderoh Lake",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Cameron Highlands",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Langkawi Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Singapore",
+        "country": "Singapore",
+        "lat": 1.288799,
+        "lng": 103.84094
+      },
+      {
+        "name": "Malacca",
+        "country": "Malaysia",
+        "lat": 2.196443,
+        "lng": 102.25013
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Batu Caves",
+        "country": "Malaysia",
+        "lat": 3.235474,
+        "lng": 101.68435
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia",
+        "lat": 5.41558,
+        "lng": 100.3314
+      },
+      {
+        "name": "Langkawi Island",
+        "country": "Malaysia",
+        "lat": 6.320134,
+        "lng": 99.84938
+      }
+    ]
   },
   {
     "destination": "Malaysia",
@@ -174,7 +256,73 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sepilok",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kinabatangan",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Cameron Highlands",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Ipoh",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Singapore",
+        "country": "Singapore"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Ipoh",
+        "country": "Malaysia",
+        "lat": 4.596848,
+        "lng": 101.08405
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia",
+        "lat": 5.41558,
+        "lng": 100.3314
+      },
+      {
+        "name": "Singapore",
+        "country": "Singapore",
+        "lat": 1.288799,
+        "lng": 103.84094
+      }
+    ]
   },
   {
     "destination": "Malaysia",
@@ -265,7 +413,131 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batu Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Ipoh",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kellie’s Castle",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Sam Poh Tong",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Chinatown",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang Hill",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lake Temenggor",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Belum Forest",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Perhentian Islands",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Bharu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Batu Caves",
+        "country": "Malaysia",
+        "lat": 3.235474,
+        "lng": 101.68435
+      },
+      {
+        "name": "Ipoh",
+        "country": "Malaysia",
+        "lat": 4.596848,
+        "lng": 101.08405
+      },
+      {
+        "name": "Sam Poh Tong",
+        "country": "Malaysia",
+        "lat": 4.710159,
+        "lng": 100.71974
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia",
+        "lat": 5.41558,
+        "lng": 100.3314
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia",
+        "lat": 5.414162,
+        "lng": 100.328735
+      },
+      {
+        "name": "Penang Hill",
+        "country": "Malaysia",
+        "lat": 5.424822,
+        "lng": 100.26899
+      },
+      {
+        "name": "Kota Bharu",
+        "country": "Malaysia",
+        "lat": 6.129144,
+        "lng": 102.237495
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      }
+    ]
   },
   {
     "destination": "Malaysia",
@@ -316,7 +588,59 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Taman Negara National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Cameron Highlands",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Langkawi",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia",
+        "lat": 5.41558,
+        "lng": 100.3314
+      },
+      {
+        "name": "Langkawi",
+        "country": "Malaysia",
+        "lat": 6.320134,
+        "lng": 99.84938
+      }
+    ]
   },
   {
     "destination": "Malaysia",
@@ -417,7 +741,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Singapore",
+        "country": "Singapore"
+      },
+      {
+        "name": "Malacca",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Ipoh",
+        "country": "Malaysia"
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Singapore",
+        "country": "Singapore",
+        "lat": 1.288799,
+        "lng": 103.84094
+      },
+      {
+        "name": "Malacca",
+        "country": "Malaysia",
+        "lat": 2.196443,
+        "lng": 102.25013
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Ipoh",
+        "country": "Malaysia",
+        "lat": 4.596848,
+        "lng": 101.08405
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia",
+        "lat": 5.414162,
+        "lng": 100.328735
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia",
+        "lat": 5.41558,
+        "lng": 100.3314
+      }
+    ]
   },
   {
     "destination": "Malaysia",
@@ -488,7 +886,41 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tioman Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Tioman Island",
+        "country": "Malaysia",
+        "lat": 2.816667,
+        "lng": 104.183333
+      }
+    ]
   },
   {
     "destination": "Malaysia",
@@ -554,7 +986,115 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Batu Caves",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Melaka",
+        "country": "Malaysia"
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang Hill",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Langkawi",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Perhentian Islands",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Batu Caves",
+        "country": "Malaysia",
+        "lat": 3.235474,
+        "lng": 101.68435
+      },
+      {
+        "name": "Melaka",
+        "country": "Malaysia",
+        "lat": 2.196443,
+        "lng": 102.25013
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia",
+        "lat": 5.414162,
+        "lng": 100.328735
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia",
+        "lat": 5.41558,
+        "lng": 100.3314
+      },
+      {
+        "name": "Penang Hill",
+        "country": "Malaysia",
+        "lat": 5.424822,
+        "lng": 100.26899
+      },
+      {
+        "name": "Penang National Park",
+        "country": "Malaysia",
+        "lat": 5.41558,
+        "lng": 100.3314
+      },
+      {
+        "name": "Langkawi",
+        "country": "Malaysia",
+        "lat": 6.320134,
+        "lng": 99.84938
+      },
+      {
+        "name": "Kota Kinabalu",
+        "country": "Malaysia",
+        "lat": 5.978924,
+        "lng": 116.07284
+      }
+    ]
   },
   {
     "destination": "Malaysia",
@@ -650,7 +1190,69 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lemanak River",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Semenggok Orangutan Sanctuary",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Tioman Island",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuching",
+        "country": "Malaysia",
+        "lat": 1.556249,
+        "lng": 110.350624
+      },
+      {
+        "name": "Bako National Park",
+        "country": "Malaysia",
+        "lat": 1.222887,
+        "lng": 110.511002
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Tioman Island",
+        "country": "Malaysia",
+        "lat": 2.816667,
+        "lng": 104.183333
+      }
+    ]
   },
   {
     "destination": "Malaysia",
@@ -721,7 +1323,63 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kuala Tembeling",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Taman Negara",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Bukit Teresek",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Lata Berkoh",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Langkawi",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Kuala Tembeling",
+        "country": "Malaysia",
+        "lat": 4.074607,
+        "lng": 102.323
+      },
+      {
+        "name": "Langkawi",
+        "country": "Malaysia",
+        "lat": 6.320134,
+        "lng": 99.84938
+      }
+    ]
   },
   {
     "destination": "Malaysia",
@@ -812,7 +1470,89 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Melaka",
+        "country": "Malaysia"
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Penang Island",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Ipoh",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Cameron Highlands",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Langkawi",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Perhentian Islands",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "Melaka",
+        "country": "Malaysia",
+        "lat": 2.196443,
+        "lng": 102.25013
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia",
+        "lat": 5.414162,
+        "lng": 100.328735
+      },
+      {
+        "name": "Penang Island",
+        "country": "Malaysia",
+        "lat": 5.41558,
+        "lng": 100.3314
+      },
+      {
+        "name": "Ipoh",
+        "country": "Malaysia",
+        "lat": 4.596848,
+        "lng": 101.08405
+      },
+      {
+        "name": "Langkawi",
+        "country": "Malaysia",
+        "lat": 6.320134,
+        "lng": 99.84938
+      }
+    ]
   },
   {
     "destination": "Malaysia",
@@ -888,7 +1628,65 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia"
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Teluk Bahang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Ulu Muda Forest Reserve",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Cameron Highlands",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kuala Lumpur",
+        "country": "Malaysia",
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      {
+        "name": "George Town",
+        "country": "Malaysia",
+        "lat": 5.414162,
+        "lng": 100.328735
+      },
+      {
+        "name": "Teluk Bahang",
+        "country": "Malaysia",
+        "lat": 3.798564,
+        "lng": 103.32199
+      },
+      {
+        "name": "Ulu Muda Forest Reserve",
+        "country": "Malaysia",
+        "lat": 2.892479,
+        "lng": 112.090256
+      }
+    ]
   },
   {
     "destination": "Malaysia",
@@ -974,6 +1772,64 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kuala Kangsar",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Banding Island",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Kota Bharu",
+        "country": "Malaysia"
+      },
+      {
+        "name": "Perhentian Islands",
+        "country": "Malaysia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Penang",
+        "country": "Malaysia",
+        "lat": 5.41558,
+        "lng": 100.3314
+      },
+      {
+        "name": "Kuala Kangsar",
+        "country": "Malaysia",
+        "lat": 4.77261,
+        "lng": 100.9412
+      },
+      {
+        "name": "Banding Island",
+        "country": "Malaysia",
+        "lat": 2.812804,
+        "lng": 101.499855
+      },
+      {
+        "name": "Kota Bharu",
+        "country": "Malaysia",
+        "lat": 6.129144,
+        "lng": 102.237495
+      }
+    ]
   }
 ]

@@ -58,7 +58,35 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Chicago",
+        "country": "USA"
+      },
+      {
+        "name": "Oak Park",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Chicago",
+        "country": "United States",
+        "lat": 41.881953,
+        "lng": -87.632362
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -154,7 +182,83 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Phoenix",
+        "country": "USA"
+      },
+      {
+        "name": "Scottsdale",
+        "country": "USA"
+      },
+      {
+        "name": "Tucson",
+        "country": "USA"
+      },
+      {
+        "name": "Saguaro National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Silver City",
+        "country": "USA"
+      },
+      {
+        "name": "Gila National Forest",
+        "country": "USA"
+      },
+      {
+        "name": "Gila Cliff Dwellings National Monument",
+        "country": "USA"
+      },
+      {
+        "name": "Albuquerque",
+        "country": "USA"
+      },
+      {
+        "name": "Santa Fe",
+        "country": "USA"
+      },
+      {
+        "name": "Taos",
+        "country": "USA"
+      },
+      {
+        "name": "Chimayo",
+        "country": "USA"
+      },
+      {
+        "name": "Cumbres & Toltec Scenic Railway",
+        "country": null
+      },
+      {
+        "name": "Alamosa",
+        "country": "USA"
+      },
+      {
+        "name": "Denver",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Denver",
+        "country": "United States",
+        "lat": 39.741681,
+        "lng": -104.986109
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -230,7 +334,45 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Grand Canyon National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Page",
+        "country": "USA"
+      },
+      {
+        "name": "Lower Antelope Canyon",
+        "country": "USA"
+      },
+      {
+        "name": "Lake Powell",
+        "country": "USA"
+      },
+      {
+        "name": "Sedona",
+        "country": "USA"
+      },
+      {
+        "name": "Tucson",
+        "country": "USA"
+      },
+      {
+        "name": "Saguaro National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Phoenix",
+        "country": "USA"
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -291,7 +433,55 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Seattle",
+        "country": "USA"
+      },
+      {
+        "name": "Bainbridge Island",
+        "country": "USA"
+      },
+      {
+        "name": "Olympic National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Freshwater Bay",
+        "country": "USA"
+      },
+      {
+        "name": "Hoh Rainforest",
+        "country": "USA"
+      },
+      {
+        "name": "Tahoma",
+        "country": "USA"
+      },
+      {
+        "name": "Mount Rainier",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Seattle",
+        "country": "United States",
+        "lat": 47.603243,
+        "lng": -122.330286
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -372,7 +562,75 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Francisco",
+        "country": "USA"
+      },
+      {
+        "name": "Alcatraz Island",
+        "country": "USA"
+      },
+      {
+        "name": "Sausalito",
+        "country": "USA"
+      },
+      {
+        "name": "Monterey",
+        "country": "USA"
+      },
+      {
+        "name": "Carmel",
+        "country": "USA"
+      },
+      {
+        "name": "Pismo Beach",
+        "country": "USA"
+      },
+      {
+        "name": "Santa Barbara",
+        "country": "USA"
+      },
+      {
+        "name": "Los Angeles",
+        "country": "USA"
+      },
+      {
+        "name": "Hollywood",
+        "country": "USA"
+      },
+      {
+        "name": "Beverly Hills",
+        "country": "USA"
+      },
+      {
+        "name": "Santa Monica",
+        "country": "USA"
+      },
+      {
+        "name": "Warner Brothers Studios",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Francisco",
+        "country": "United States",
+        "lat": 37.779238,
+        "lng": -122.419359
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -488,7 +746,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Denver",
+        "country": "United States"
+      },
+      {
+        "name": "Rocky Mountain National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Grand Junction",
+        "country": "United States"
+      },
+      {
+        "name": "Moab",
+        "country": "United States"
+      },
+      {
+        "name": "Arches National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Monument Valley Navajo Tribal Park",
+        "country": "United States"
+      },
+      {
+        "name": "Mesa Verde National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Durango",
+        "country": "United States"
+      },
+      {
+        "name": "Silverton",
+        "country": "United States"
+      },
+      {
+        "name": "Crested Butte",
+        "country": "United States"
+      },
+      {
+        "name": "Vail",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Denver",
+        "country": "United States",
+        "lat": 39.741681,
+        "lng": -104.986109
+      },
+      {
+        "name": "Rocky Mountain National Park",
+        "country": "United States",
+        "lat": 40.36249,
+        "lng": -105.563286
+      },
+      {
+        "name": "Grand Junction",
+        "country": "United States",
+        "lat": 39.068314,
+        "lng": -108.564442
+      },
+      {
+        "name": "Moab",
+        "country": "United States",
+        "lat": 38.57327,
+        "lng": -109.550789
+      },
+      {
+        "name": "Arches National Park",
+        "country": "United States",
+        "lat": 38.616512,
+        "lng": -109.61789
+      },
+      {
+        "name": "Monument Valley Navajo Tribal Park",
+        "country": "United States",
+        "lat": 37.001062,
+        "lng": -110.174569
+      },
+      {
+        "name": "Mesa Verde National Park",
+        "country": "United States",
+        "lat": 37.34054,
+        "lng": -108.407715
+      },
+      {
+        "name": "Durango",
+        "country": "United States",
+        "lat": 37.273388,
+        "lng": -107.880723
+      },
+      {
+        "name": "Silverton",
+        "country": "United States",
+        "lat": 45.006102,
+        "lng": -122.782477
+      },
+      {
+        "name": "Crested Butte",
+        "country": "United States",
+        "lat": 38.869758,
+        "lng": -106.987488
+      },
+      {
+        "name": "Vail",
+        "country": "United States",
+        "lat": 39.641002,
+        "lng": -106.374365
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -564,7 +946,41 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Atlanta",
+        "country": "USA"
+      },
+      {
+        "name": "Birmingham",
+        "country": "USA"
+      },
+      {
+        "name": "New Orleans",
+        "country": "USA"
+      },
+      {
+        "name": "Natchez",
+        "country": "USA"
+      },
+      {
+        "name": "Clarksdale",
+        "country": "USA"
+      },
+      {
+        "name": "Memphis",
+        "country": "USA"
+      },
+      {
+        "name": "Nashville",
+        "country": "USA"
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -625,7 +1041,107 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lewiston",
+        "country": "USA"
+      },
+      {
+        "name": "Whitebird",
+        "country": "USA"
+      },
+      {
+        "name": "Nez Perce National Historical Park",
+        "country": "USA"
+      },
+      {
+        "name": "Lapwai",
+        "country": "USA"
+      },
+      {
+        "name": "Salmon River",
+        "country": "USA"
+      },
+      {
+        "name": "Green Canyon",
+        "country": "USA"
+      },
+      {
+        "name": "Cougar Canyon",
+        "country": "USA"
+      },
+      {
+        "name": "Snowhole Canyon",
+        "country": "USA"
+      },
+      {
+        "name": "Blue Canyon",
+        "country": "USA"
+      },
+      {
+        "name": "Salmon River",
+        "country": "USA"
+      },
+      {
+        "name": "Snake River",
+        "country": "USA"
+      },
+      {
+        "name": "Hells Canyon",
+        "country": "USA"
+      },
+      {
+        "name": "Wallowa Mountains",
+        "country": "USA"
+      },
+      {
+        "name": "Spokane",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lewiston",
+        "country": "United States",
+        "lat": 44.097602,
+        "lng": -70.216911
+      },
+      {
+        "name": "Salmon River",
+        "country": "United States",
+        "lat": 45.175918,
+        "lng": -113.894696
+      },
+      {
+        "name": "Salmon River",
+        "country": "United States",
+        "lat": 45.175918,
+        "lng": -113.894696
+      },
+      {
+        "name": "Snake River",
+        "country": "United States",
+        "lat": 37.860369,
+        "lng": -82.725972
+      },
+      {
+        "name": "Hells Canyon",
+        "country": "United States",
+        "lat": 34.979885,
+        "lng": -101.928821
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -686,7 +1202,55 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Las Vegas",
+        "country": "USA"
+      },
+      {
+        "name": "Sequoia National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Yosemite National Park",
+        "country": "USA"
+      },
+      {
+        "name": "San Francisco",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Las Vegas",
+        "country": "United States",
+        "lat": 36.169213,
+        "lng": -115.14062
+      },
+      {
+        "name": "Yosemite National Park",
+        "country": "United States",
+        "lat": 37.749375,
+        "lng": -119.588651
+      },
+      {
+        "name": "San Francisco",
+        "country": "United States",
+        "lat": 37.779238,
+        "lng": -122.419359
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -752,7 +1316,79 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Las Vegas",
+        "country": "USA"
+      },
+      {
+        "name": "Kingman",
+        "country": "USA"
+      },
+      {
+        "name": "Seligman",
+        "country": "USA"
+      },
+      {
+        "name": "Williams",
+        "country": "USA"
+      },
+      {
+        "name": "Grand Canyon",
+        "country": "USA"
+      },
+      {
+        "name": "Santa Monica",
+        "country": "USA"
+      },
+      {
+        "name": "Los Angeles",
+        "country": "USA"
+      },
+      {
+        "name": "San Francisco",
+        "country": "USA"
+      },
+      {
+        "name": "Yosemite National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Alcatraz Island",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Las Vegas",
+        "country": "United States",
+        "lat": 36.169213,
+        "lng": -115.14062
+      },
+      {
+        "name": "San Francisco",
+        "country": "United States",
+        "lat": 37.779238,
+        "lng": -122.419359
+      },
+      {
+        "name": "Yosemite National Park",
+        "country": "United States",
+        "lat": 37.749375,
+        "lng": -119.588651
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -833,7 +1469,59 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Boston",
+        "country": "USA"
+      },
+      {
+        "name": "Kennebunkport",
+        "country": "USA"
+      },
+      {
+        "name": "Portland",
+        "country": "USA"
+      },
+      {
+        "name": "Lincolnville",
+        "country": "USA"
+      },
+      {
+        "name": "Bar Harbor",
+        "country": "USA"
+      },
+      {
+        "name": "Acadia National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Mount Desert Island",
+        "country": "USA"
+      },
+      {
+        "name": "Bangor",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Portland",
+        "country": "United States",
+        "lat": 45.515197,
+        "lng": -122.678367
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -904,7 +1592,55 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bar Harbor",
+        "country": "USA"
+      },
+      {
+        "name": "Acadia National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Cadillac Mountain",
+        "country": "USA"
+      },
+      {
+        "name": "Boothbay Harbor",
+        "country": "USA"
+      },
+      {
+        "name": "Coastal Maine Botanical Gardens",
+        "country": "USA"
+      },
+      {
+        "name": "Portland",
+        "country": "USA"
+      },
+      {
+        "name": "Cape Elizabeth",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Portland",
+        "country": "United States",
+        "lat": 45.515197,
+        "lng": -122.678367
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1000,7 +1736,53 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "New York City",
+        "country": "USA"
+      },
+      {
+        "name": "Niagara Falls",
+        "country": "USA"
+      },
+      {
+        "name": "Finger Lakes region",
+        "country": "USA"
+      },
+      {
+        "name": "Ithaca",
+        "country": "USA"
+      },
+      {
+        "name": "Clayton",
+        "country": "USA"
+      },
+      {
+        "name": "Adirondack Park",
+        "country": "USA"
+      },
+      {
+        "name": "North River",
+        "country": "USA"
+      },
+      {
+        "name": "Lake Placid",
+        "country": "USA"
+      },
+      {
+        "name": "Albany",
+        "country": "USA"
+      },
+      {
+        "name": "New York City",
+        "country": "USA"
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1056,7 +1838,29 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Boston",
+        "country": "USA"
+      },
+      {
+        "name": "New York City",
+        "country": "USA"
+      },
+      {
+        "name": "Philadelphia",
+        "country": "USA"
+      },
+      {
+        "name": "Washington D.C.",
+        "country": "USA"
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1147,7 +1951,105 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cape Cod",
+        "country": "USA"
+      },
+      {
+        "name": "Cambridge",
+        "country": "USA"
+      },
+      {
+        "name": "Boston",
+        "country": "USA"
+      },
+      {
+        "name": "New York City",
+        "country": "USA"
+      },
+      {
+        "name": "Brooklyn",
+        "country": "USA"
+      },
+      {
+        "name": "Washington, D.C.",
+        "country": "USA"
+      },
+      {
+        "name": "Las Vegas",
+        "country": "USA"
+      },
+      {
+        "name": "Kingman",
+        "country": "USA"
+      },
+      {
+        "name": "Seligman",
+        "country": "USA"
+      },
+      {
+        "name": "Grand Canyon",
+        "country": "USA"
+      },
+      {
+        "name": "Santa Monica",
+        "country": "USA"
+      },
+      {
+        "name": "Los Angeles",
+        "country": "USA"
+      },
+      {
+        "name": "San Francisco",
+        "country": "USA"
+      },
+      {
+        "name": "Yosemite National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Alcatraz Island",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cambridge",
+        "country": "United States",
+        "lat": 42.365588,
+        "lng": -71.104
+      },
+      {
+        "name": "Las Vegas",
+        "country": "United States",
+        "lat": 36.169213,
+        "lng": -115.14062
+      },
+      {
+        "name": "San Francisco",
+        "country": "United States",
+        "lat": 37.779238,
+        "lng": -122.419359
+      },
+      {
+        "name": "Yosemite National Park",
+        "country": "United States",
+        "lat": 37.749375,
+        "lng": -119.588651
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1218,7 +2120,111 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Portland",
+        "country": "United States"
+      },
+      {
+        "name": "Cannon Beach",
+        "country": "United States"
+      },
+      {
+        "name": "Willamette Valley",
+        "country": "United States"
+      },
+      {
+        "name": "Bend",
+        "country": "United States"
+      },
+      {
+        "name": "Smith Rock State Park",
+        "country": "United States"
+      },
+      {
+        "name": "Crater Lake",
+        "country": "United States"
+      },
+      {
+        "name": "Columbia River Gorge",
+        "country": "United States"
+      },
+      {
+        "name": "Mount Hood",
+        "country": "United States"
+      },
+      {
+        "name": "Hood River",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Portland",
+        "country": "United States",
+        "lat": 45.515197,
+        "lng": -122.678367
+      },
+      {
+        "name": "Cannon Beach",
+        "country": "United States",
+        "lat": 45.898312,
+        "lng": -123.960898
+      },
+      {
+        "name": "Willamette Valley",
+        "country": "United States",
+        "lat": 32.816607,
+        "lng": -85.174494
+      },
+      {
+        "name": "Bend",
+        "country": "United States",
+        "lat": 44.059025,
+        "lng": -121.31226
+      },
+      {
+        "name": "Smith Rock State Park",
+        "country": "United States",
+        "lat": 42.64305,
+        "lng": -89.04103
+      },
+      {
+        "name": "Crater Lake",
+        "country": "United States",
+        "lat": 41.284943,
+        "lng": -95.918025
+      },
+      {
+        "name": "Columbia River Gorge",
+        "country": "United States",
+        "lat": 34.001312,
+        "lng": -81.033552
+      },
+      {
+        "name": "Mount Hood",
+        "country": "United States",
+        "lat": 45.53879,
+        "lng": -121.56797
+      },
+      {
+        "name": "Hood River",
+        "country": "United States",
+        "lat": 45.709573,
+        "lng": -121.51229
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1269,7 +2275,83 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Medford",
+        "country": "United States"
+      },
+      {
+        "name": "Merlin",
+        "country": "United States"
+      },
+      {
+        "name": "Rogue River",
+        "country": "United States"
+      },
+      {
+        "name": "Black Bar Lodge",
+        "country": null
+      },
+      {
+        "name": "Rogue River Ranch",
+        "country": "United States"
+      },
+      {
+        "name": "Marial Lodge",
+        "country": null
+      },
+      {
+        "name": "Half Moon Bar Lodge",
+        "country": null
+      },
+      {
+        "name": "Foster Bar",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Medford",
+        "country": "United States",
+        "lat": 42.418226,
+        "lng": -71.10976
+      },
+      {
+        "name": "Merlin",
+        "country": "United States",
+        "lat": 42.517163,
+        "lng": -123.423532
+      },
+      {
+        "name": "Rogue River",
+        "country": "United States",
+        "lat": 42.43316,
+        "lng": -123.168994
+      },
+      {
+        "name": "Rogue River Ranch",
+        "country": "United States",
+        "lat": 42.43316,
+        "lng": -123.168994
+      },
+      {
+        "name": "Foster Bar",
+        "country": "United States",
+        "lat": 38.801406,
+        "lng": -84.213655
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1335,7 +2417,161 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Boise",
+        "country": "United States"
+      },
+      {
+        "name": "Stanley",
+        "country": "United States"
+      },
+      {
+        "name": "Boundary Creek",
+        "country": "United States"
+      },
+      {
+        "name": "Middle Fork of the Salmon River",
+        "country": "United States"
+      },
+      {
+        "name": "Sunflower Flat Hot Springs",
+        "country": "United States"
+      },
+      {
+        "name": "Loon Creek",
+        "country": "United States"
+      },
+      {
+        "name": "Hospital Bar",
+        "country": "United States"
+      },
+      {
+        "name": "Iimpassable Canyon",
+        "country": "United States"
+      },
+      {
+        "name": "Waterfall Creek",
+        "country": "United States"
+      },
+      {
+        "name": "Bighorn Crags",
+        "country": "United States"
+      },
+      {
+        "name": "Veil Falls",
+        "country": "United States"
+      },
+      {
+        "name": "Salmon",
+        "country": "United States"
+      },
+      {
+        "name": "Glacier National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Yellowstone National Park",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Boise",
+        "country": "United States",
+        "lat": 43.615045,
+        "lng": -116.202327
+      },
+      {
+        "name": "Stanley",
+        "country": "United States",
+        "lat": 35.359358,
+        "lng": -81.095331
+      },
+      {
+        "name": "Boundary Creek",
+        "country": "United States",
+        "lat": 33.812973,
+        "lng": -86.99428
+      },
+      {
+        "name": "Middle Fork of the Salmon River",
+        "country": "United States",
+        "lat": 39.062042,
+        "lng": -80.046745
+      },
+      {
+        "name": "Sunflower Flat Hot Springs",
+        "country": "United States",
+        "lat": 34.51075,
+        "lng": -93.054003
+      },
+      {
+        "name": "Loon Creek",
+        "country": "United States",
+        "lat": 33.831253,
+        "lng": -87.028465
+      },
+      {
+        "name": "Hospital Bar",
+        "country": "United States",
+        "lat": 29.78137,
+        "lng": -91.746994
+      },
+      {
+        "name": "Iimpassable Canyon",
+        "country": "United States",
+        "lat": 34.979885,
+        "lng": -101.928821
+      },
+      {
+        "name": "Waterfall Creek",
+        "country": "United States",
+        "lat": 40.126955,
+        "lng": -78.06144
+      },
+      {
+        "name": "Bighorn Crags",
+        "country": "United States",
+        "lat": 46.163578,
+        "lng": -107.445785
+      },
+      {
+        "name": "Veil Falls",
+        "country": "United States",
+        "lat": 41.460429,
+        "lng": -75.855976
+      },
+      {
+        "name": "Salmon",
+        "country": "United States",
+        "lat": 45.175918,
+        "lng": -113.894696
+      },
+      {
+        "name": "Glacier National Park",
+        "country": "United States",
+        "lat": 48.499508,
+        "lng": -113.98294
+      },
+      {
+        "name": "Yellowstone National Park",
+        "country": "United States",
+        "lat": 44.548992,
+        "lng": -110.80627
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1426,7 +2662,95 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Francisco",
+        "country": "USA"
+      },
+      {
+        "name": "Yosemite National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Bishop",
+        "country": "USA"
+      },
+      {
+        "name": "Las Vegas",
+        "country": "USA"
+      },
+      {
+        "name": "Zion National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Bryce Canyon National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Grand Canyon National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Seligman",
+        "country": "USA"
+      },
+      {
+        "name": "Joshua Tree",
+        "country": "USA"
+      },
+      {
+        "name": "Lake Havasu",
+        "country": "USA"
+      },
+      {
+        "name": "Los Angeles",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Francisco",
+        "country": "United States",
+        "lat": 37.779238,
+        "lng": -122.419359
+      },
+      {
+        "name": "Yosemite National Park",
+        "country": "United States",
+        "lat": 37.749375,
+        "lng": -119.588651
+      },
+      {
+        "name": "Las Vegas",
+        "country": "United States",
+        "lat": 36.169213,
+        "lng": -115.14062
+      },
+      {
+        "name": "Zion National Park",
+        "country": "United States",
+        "lat": 37.20612,
+        "lng": -112.98344
+      },
+      {
+        "name": "Bryce Canyon National Park",
+        "country": "United States",
+        "lat": 37.630013,
+        "lng": -112.16645
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1572,7 +2896,155 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Denver",
+        "country": "USA"
+      },
+      {
+        "name": "Cheyenne",
+        "country": "USA"
+      },
+      {
+        "name": "Thunder Basin National Grassland",
+        "country": "USA"
+      },
+      {
+        "name": "Custer State Park",
+        "country": "USA"
+      },
+      {
+        "name": "Jewel Cave National Monument",
+        "country": "USA"
+      },
+      {
+        "name": "Mount Rushmore",
+        "country": "USA"
+      },
+      {
+        "name": "Crazy Horse National Monument",
+        "country": "USA"
+      },
+      {
+        "name": "Sheridan",
+        "country": "USA"
+      },
+      {
+        "name": "Bighorn National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Cody",
+        "country": "USA"
+      },
+      {
+        "name": "Yellowstone National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Grand Teton National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Jackson",
+        "country": "USA"
+      },
+      {
+        "name": "Salt Lake City",
+        "country": "USA"
+      },
+      {
+        "name": "Fishlake National Forest",
+        "country": "USA"
+      },
+      {
+        "name": "Bryce Canyon National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Zion National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Lake Powell",
+        "country": "USA"
+      },
+      {
+        "name": "Monument Valley Navajo Tribal Park",
+        "country": "USA"
+      },
+      {
+        "name": "Mesa Verde National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Rio Grande National Forest",
+        "country": "USA"
+      },
+      {
+        "name": "Alamosa",
+        "country": "USA"
+      },
+      {
+        "name": "Colorado Springs",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Denver",
+        "country": "United States",
+        "lat": 39.741681,
+        "lng": -104.986109
+      },
+      {
+        "name": "Yellowstone National Park",
+        "country": "United States",
+        "lat": 44.548992,
+        "lng": -110.80627
+      },
+      {
+        "name": "Salt Lake City",
+        "country": "United States",
+        "lat": 40.762759,
+        "lng": -111.889779
+      },
+      {
+        "name": "Bryce Canyon National Park",
+        "country": "United States",
+        "lat": 37.630013,
+        "lng": -112.16645
+      },
+      {
+        "name": "Zion National Park",
+        "country": "United States",
+        "lat": 37.20612,
+        "lng": -112.98344
+      },
+      {
+        "name": "Monument Valley Navajo Tribal Park",
+        "country": "United States",
+        "lat": 37.001062,
+        "lng": -110.174569
+      },
+      {
+        "name": "Mesa Verde National Park",
+        "country": "United States",
+        "lat": 37.34054,
+        "lng": -108.407715
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1638,7 +3110,111 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Boise",
+        "country": "United States"
+      },
+      {
+        "name": "Cambridge",
+        "country": "United States"
+      },
+      {
+        "name": "Hells Canyon",
+        "country": "United States"
+      },
+      {
+        "name": "Snake River",
+        "country": "United States"
+      },
+      {
+        "name": "Salt Creek",
+        "country": "United States"
+      },
+      {
+        "name": "Pittsburg Landing",
+        "country": "United States"
+      },
+      {
+        "name": "Eureka Bar",
+        "country": "United States"
+      },
+      {
+        "name": "Salmon River",
+        "country": "United States"
+      },
+      {
+        "name": "Lewiston",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Boise",
+        "country": "United States",
+        "lat": 43.615045,
+        "lng": -116.202327
+      },
+      {
+        "name": "Cambridge",
+        "country": "United States",
+        "lat": 42.365588,
+        "lng": -71.104
+      },
+      {
+        "name": "Hells Canyon",
+        "country": "United States",
+        "lat": 34.979885,
+        "lng": -101.928821
+      },
+      {
+        "name": "Snake River",
+        "country": "United States",
+        "lat": 37.860369,
+        "lng": -82.725972
+      },
+      {
+        "name": "Salt Creek",
+        "country": "United States",
+        "lat": 37.506805,
+        "lng": -79.22114
+      },
+      {
+        "name": "Pittsburg Landing",
+        "country": "United States",
+        "lat": 45.397392,
+        "lng": -84.644295
+      },
+      {
+        "name": "Eureka Bar",
+        "country": "United States",
+        "lat": 40.791423,
+        "lng": -124.167888
+      },
+      {
+        "name": "Salmon River",
+        "country": "United States",
+        "lat": 45.175918,
+        "lng": -113.894696
+      },
+      {
+        "name": "Lewiston",
+        "country": "United States",
+        "lat": 44.097602,
+        "lng": -70.216911
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1724,7 +3300,41 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Charleston",
+        "country": "USA"
+      },
+      {
+        "name": "Bluffton",
+        "country": "USA"
+      },
+      {
+        "name": "Hilton Head Island",
+        "country": "USA"
+      },
+      {
+        "name": "Pickney Island National Wildlife Refuge",
+        "country": "USA"
+      },
+      {
+        "name": "Coastal Discovery Museum",
+        "country": "USA"
+      },
+      {
+        "name": "Harbor Town Lighthouse",
+        "country": "USA"
+      },
+      {
+        "name": "Sea Pines Forest Preserve",
+        "country": "USA"
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1805,7 +3415,45 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Charlotte",
+        "country": "USA"
+      },
+      {
+        "name": "Chimney Rock State Park",
+        "country": "USA"
+      },
+      {
+        "name": "Asheville",
+        "country": "USA"
+      },
+      {
+        "name": "Great Smoky Mountains National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Nashville",
+        "country": "USA"
+      },
+      {
+        "name": "Memphis",
+        "country": "USA"
+      },
+      {
+        "name": "Clarksdale",
+        "country": "USA"
+      },
+      {
+        "name": "New Orleans",
+        "country": "USA"
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1881,7 +3529,141 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Las Vegas",
+        "country": "United States"
+      },
+      {
+        "name": "Salt Lake City",
+        "country": "United States"
+      },
+      {
+        "name": "Springdale",
+        "country": "United States"
+      },
+      {
+        "name": "Zion National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Bryce Canyon National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Torrey",
+        "country": "United States"
+      },
+      {
+        "name": "Capitol Reef National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Moab",
+        "country": "United States"
+      },
+      {
+        "name": "Arches National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Canyonlands National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Dead Horse Point",
+        "country": "United States"
+      },
+      {
+        "name": "Grand Junction",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Las Vegas",
+        "country": "United States",
+        "lat": 36.169213,
+        "lng": -115.14062
+      },
+      {
+        "name": "Salt Lake City",
+        "country": "United States",
+        "lat": 40.762759,
+        "lng": -111.889779
+      },
+      {
+        "name": "Springdale",
+        "country": "United States",
+        "lat": 36.185057,
+        "lng": -94.130002
+      },
+      {
+        "name": "Zion National Park",
+        "country": "United States",
+        "lat": 37.20612,
+        "lng": -112.98344
+      },
+      {
+        "name": "Bryce Canyon National Park",
+        "country": "United States",
+        "lat": 37.630013,
+        "lng": -112.16645
+      },
+      {
+        "name": "Torrey",
+        "country": "United States",
+        "lat": 38.299045,
+        "lng": -111.421069
+      },
+      {
+        "name": "Capitol Reef National Park",
+        "country": "United States",
+        "lat": 38.291588,
+        "lng": -111.261215
+      },
+      {
+        "name": "Moab",
+        "country": "United States",
+        "lat": 38.57327,
+        "lng": -109.550789
+      },
+      {
+        "name": "Arches National Park",
+        "country": "United States",
+        "lat": 38.616512,
+        "lng": -109.61789
+      },
+      {
+        "name": "Canyonlands National Park",
+        "country": "United States",
+        "lat": 38.154995,
+        "lng": -109.75413
+      },
+      {
+        "name": "Dead Horse Point",
+        "country": "United States",
+        "lat": 32.931986,
+        "lng": -95.872682
+      },
+      {
+        "name": "Grand Junction",
+        "country": "United States",
+        "lat": 39.068314,
+        "lng": -108.564442
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -1937,7 +3719,55 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Moab",
+        "country": "USA"
+      },
+      {
+        "name": "Arches National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Canyonlands National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Colorado River",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Moab",
+        "country": "United States",
+        "lat": 38.57327,
+        "lng": -109.550789
+      },
+      {
+        "name": "Arches National Park",
+        "country": "United States",
+        "lat": 38.616512,
+        "lng": -109.61789
+      },
+      {
+        "name": "Canyonlands National Park",
+        "country": "United States",
+        "lat": 38.154995,
+        "lng": -109.75413
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -2033,7 +3863,107 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Francisco",
+        "country": "USA"
+      },
+      {
+        "name": "Yosemite Valley",
+        "country": "USA"
+      },
+      {
+        "name": "Yosemite National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Tuolumne Meadows",
+        "country": "USA"
+      },
+      {
+        "name": "Death Valley National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Grand Canyon",
+        "country": "USA"
+      },
+      {
+        "name": "Route 66",
+        "country": "USA"
+      },
+      {
+        "name": "Painted Desert",
+        "country": "USA"
+      },
+      {
+        "name": "Monument Valley",
+        "country": "USA"
+      },
+      {
+        "name": "Lake Powell",
+        "country": "USA"
+      },
+      {
+        "name": "Bryce Canyon",
+        "country": "USA"
+      },
+      {
+        "name": "Zion National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Emerald Pools",
+        "country": "USA"
+      },
+      {
+        "name": "Las Vegas",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Francisco",
+        "country": "United States",
+        "lat": 37.779238,
+        "lng": -122.419359
+      },
+      {
+        "name": "Yosemite Valley",
+        "country": "United States",
+        "lat": 37.74655,
+        "lng": -119.59058
+      },
+      {
+        "name": "Yosemite National Park",
+        "country": "United States",
+        "lat": 37.749375,
+        "lng": -119.588651
+      },
+      {
+        "name": "Zion National Park",
+        "country": "United States",
+        "lat": 37.20612,
+        "lng": -112.98344
+      },
+      {
+        "name": "Las Vegas",
+        "country": "United States",
+        "lat": 36.169213,
+        "lng": -115.14062
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -2079,7 +4009,39 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bozeman",
+        "country": "USA"
+      },
+      {
+        "name": "Yellowstone National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Gardiner",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yellowstone National Park",
+        "country": "United States",
+        "lat": 44.548992,
+        "lng": -110.80627
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -2120,7 +4082,47 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bozeman",
+        "country": "USA"
+      },
+      {
+        "name": "Yellowstone National Park",
+        "country": "USA"
+      },
+      {
+        "name": "Gardiner",
+        "country": "USA"
+      },
+      {
+        "name": "Mammoth",
+        "country": "USA"
+      },
+      {
+        "name": "Old Faithful",
+        "country": "USA"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yellowstone National Park",
+        "country": "United States",
+        "lat": 44.548992,
+        "lng": -110.80627
+      }
+    ]
   },
   {
     "destination": "Usa",
@@ -2181,6 +4183,110 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Francisco",
+        "country": "United States"
+      },
+      {
+        "name": "Yosemite National Park",
+        "country": "United States"
+      },
+      {
+        "name": "Yosemite Valley",
+        "country": "United States"
+      },
+      {
+        "name": "Half Dome",
+        "country": "United States"
+      },
+      {
+        "name": "El Capitan",
+        "country": "United States"
+      },
+      {
+        "name": "Yosemite Falls",
+        "country": "United States"
+      },
+      {
+        "name": "Wawona Meadow",
+        "country": "United States"
+      },
+      {
+        "name": "Merced River",
+        "country": "United States"
+      },
+      {
+        "name": "California",
+        "country": "United States"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Francisco",
+        "country": "United States",
+        "lat": 37.779238,
+        "lng": -122.419359
+      },
+      {
+        "name": "Yosemite National Park",
+        "country": "United States",
+        "lat": 37.749375,
+        "lng": -119.588651
+      },
+      {
+        "name": "Yosemite Valley",
+        "country": "United States",
+        "lat": 37.74655,
+        "lng": -119.59058
+      },
+      {
+        "name": "Half Dome",
+        "country": "United States",
+        "lat": 32.758453,
+        "lng": -114.365944
+      },
+      {
+        "name": "El Capitan",
+        "country": "United States",
+        "lat": 33.23669,
+        "lng": -110.77673
+      },
+      {
+        "name": "Yosemite Falls",
+        "country": "United States",
+        "lat": 41.460429,
+        "lng": -75.855976
+      },
+      {
+        "name": "Wawona Meadow",
+        "country": "United States",
+        "lat": 33.336668,
+        "lng": -102.205519
+      },
+      {
+        "name": "Merced River",
+        "country": "United States",
+        "lat": 37.303979,
+        "lng": -120.48371
+      },
+      {
+        "name": "California",
+        "country": "United States",
+        "lat": 37.07436,
+        "lng": -119.699375
+      }
+    ]
   }
 ]

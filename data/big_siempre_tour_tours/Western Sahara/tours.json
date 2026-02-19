@@ -38,6 +38,30 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakhla",
+        "country": "Western Sahara"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakhla",
+        "country": "Western Sahara",
+        "lat": 23.692513,
+        "lng": -15.942004
+      }
+    ]
   }
 ]

@@ -33,6 +33,10 @@ function renderDayInfo(dayInfo) {
 }
 
 function renderTour(tour) {
+  if (tour.routeCoordinates) {
+    renderRouteMap(tour.routeCoordinates);
+}
+
   // document.getElementById('currentDestination').textContent = tour.destination || "";
   document.getElementById('tourTitle').textContent = tour.tourName || "";
   document.getElementById('tourTitle2').textContent = tour.tourName || "";
@@ -49,10 +53,7 @@ function renderTour(tour) {
   document.getElementById('durationDays').innerHTML =
     `<i class="fa fa-clock-o pink mr-1"></i>${tour.durationDays ?? ""} gün`;
 
-  const mapEl = document.getElementById('mappp');
-  mapEl.innerHTML = tour.map
-    ? `<iframe src="${tour.map}" width="600" height="450" style="border:0" loading="lazy"></iframe>`
-    : "";
+  
 
   /* ✅ IMG FIX (innerHTML YOK) */
   const setImg = (id, url) => {

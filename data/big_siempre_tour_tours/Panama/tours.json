@@ -83,7 +83,101 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Santa Fe",
+        "country": "Panama"
+      },
+      {
+        "name": "Santa Fe National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Golfo de Chiriquí",
+        "country": "Panama"
+      },
+      {
+        "name": "Golfo de Chiriquí National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "Barú Volcano National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Santa Fe",
+        "country": "Panama",
+        "lat": 8.658517,
+        "lng": -78.1563
+      },
+      {
+        "name": "Santa Fe National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Golfo de Chiriquí",
+        "country": "Panama",
+        "lat": 8.437147,
+        "lng": -82.428628
+      },
+      {
+        "name": "Golfo de Chiriquí National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "Barú Volcano National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -134,7 +228,39 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Island",
+        "country": null
+      },
+      {
+        "name": "Mar Y Oro",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -220,7 +346,171 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Panamá Viejo",
+        "country": "Panama"
+      },
+      {
+        "name": "Casco Viejo",
+        "country": "Panama"
+      },
+      {
+        "name": "Panama Canal",
+        "country": "Panama"
+      },
+      {
+        "name": "Gatun River",
+        "country": "Panama"
+      },
+      {
+        "name": "Fort San Lorenzo",
+        "country": "Panama"
+      },
+      {
+        "name": "Chiriquí",
+        "country": "Panama"
+      },
+      {
+        "name": "Gulf of Chiriquí National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "La Amistad International Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Colón",
+        "country": "Panama"
+      },
+      {
+        "name": "Bastimentos Marine National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Soberanía National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Amador Causeway",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Panamá Viejo",
+        "country": "Panama",
+        "lat": 9.008003,
+        "lng": -79.494038
+      },
+      {
+        "name": "Casco Viejo",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Panama Canal",
+        "country": "Panama",
+        "lat": 8.924427,
+        "lng": -79.591259
+      },
+      {
+        "name": "Gatun River",
+        "country": "Panama",
+        "lat": 8.278086,
+        "lng": -81.009321
+      },
+      {
+        "name": "Fort San Lorenzo",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Chiriquí",
+        "country": "Panama",
+        "lat": 8.437147,
+        "lng": -82.428628
+      },
+      {
+        "name": "Gulf of Chiriquí National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "La Amistad International Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      },
+      {
+        "name": "Isla Colón",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bastimentos Marine National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Soberanía National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Amador Causeway",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -311,7 +601,91 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Santa Fé",
+        "country": "Panama"
+      },
+      {
+        "name": "Santa Fe National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Golfo de Chiriquí",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Bastimentos",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Santa Fé",
+        "country": "Panama",
+        "lat": 8.658517,
+        "lng": -78.1563
+      },
+      {
+        "name": "Santa Fe National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Golfo de Chiriquí",
+        "country": "Panama",
+        "lat": 8.437147,
+        "lng": -82.428628
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "Isla Bastimentos",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -417,7 +791,191 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Parque Metropolitano",
+        "country": "Panama"
+      },
+      {
+        "name": "Miraflores Locks",
+        "country": "Panama"
+      },
+      {
+        "name": "Amador Causeway",
+        "country": "Panama"
+      },
+      {
+        "name": "Lake Alajuela",
+        "country": "Panama"
+      },
+      {
+        "name": "Chagres National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Gatun Lake",
+        "country": "Panama"
+      },
+      {
+        "name": "Gamboa",
+        "country": "Panama"
+      },
+      {
+        "name": "David",
+        "country": "Panama"
+      },
+      {
+        "name": "Boca Chica",
+        "country": "Panama"
+      },
+      {
+        "name": "Boca Chica Archipelago",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "Hacienda Mamecillo",
+        "country": "Panama"
+      },
+      {
+        "name": "Almirante",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas Town",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Colon",
+        "country": "Panama"
+      },
+      {
+        "name": "Bastimentos National Park",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Parque Metropolitano",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Miraflores Locks",
+        "country": "Panama",
+        "lat": 8.327187,
+        "lng": -78.125932
+      },
+      {
+        "name": "Amador Causeway",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Lake Alajuela",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Chagres National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Gatun Lake",
+        "country": "Panama",
+        "lat": 8.278086,
+        "lng": -81.009321
+      },
+      {
+        "name": "Gamboa",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "David",
+        "country": "Panama",
+        "lat": 8.429157,
+        "lng": -82.428925
+      },
+      {
+        "name": "Boca Chica",
+        "country": "Panama",
+        "lat": 9.189019,
+        "lng": -79.276742
+      },
+      {
+        "name": "Boca Chica Archipelago",
+        "country": "Panama",
+        "lat": 9.189019,
+        "lng": -79.276742
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "Hacienda Mamecillo",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Almirante",
+        "country": "Panama",
+        "lat": 9.29287,
+        "lng": -82.39812
+      },
+      {
+        "name": "Bocas Town",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Isla Colon",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bastimentos National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -503,7 +1061,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Azuero Peninsula",
+        "country": "Panama"
+      },
+      {
+        "name": "Santa Fe National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "La Amistad National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      },
+      {
+        "name": "Almirante",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Azuero Peninsula",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Santa Fe National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "La Amistad National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      },
+      {
+        "name": "Almirante",
+        "country": "Panama",
+        "lat": 9.29287,
+        "lng": -82.39812
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -559,7 +1201,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "Golfo de Chiriquí Marine National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Pedasi",
+        "country": "Panama"
+      },
+      {
+        "name": "El Valle de Anton",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "Golfo de Chiriquí Marine National Park",
+        "country": "Panama",
+        "lat": 8.437147,
+        "lng": -82.428628
+      },
+      {
+        "name": "Pedasi",
+        "country": "Panama",
+        "lat": 7.529205,
+        "lng": -80.02725
+      },
+      {
+        "name": "El Valle de Anton",
+        "country": "Panama",
+        "lat": 9.290182,
+        "lng": -79.141365
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -650,7 +1366,141 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Pedasí",
+        "country": "Panama"
+      },
+      {
+        "name": "Playa Venao",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Iguana",
+        "country": "Panama"
+      },
+      {
+        "name": "Santa Catalina",
+        "country": "Panama"
+      },
+      {
+        "name": "Coiba National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      },
+      {
+        "name": "Coral Cay",
+        "country": "Panama"
+      },
+      {
+        "name": "Red Frog Island",
+        "country": "Panama"
+      },
+      {
+        "name": "Dolphin Bay",
+        "country": "Panama"
+      },
+      {
+        "name": "Zapatilla Cays",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Pedasí",
+        "country": "Panama",
+        "lat": 7.529205,
+        "lng": -80.02725
+      },
+      {
+        "name": "Playa Venao",
+        "country": "Panama",
+        "lat": 7.905871,
+        "lng": -77.403314
+      },
+      {
+        "name": "Isla Iguana",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Santa Catalina",
+        "country": "Panama",
+        "lat": 8.782985,
+        "lng": -81.310139
+      },
+      {
+        "name": "Coiba National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      },
+      {
+        "name": "Coral Cay",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Red Frog Island",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Dolphin Bay",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Zapatilla Cays",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -726,7 +1576,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Panama Canal",
+        "country": "Panama"
+      },
+      {
+        "name": "Soberanía National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "Volcan Baru",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Colón",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Panama Canal",
+        "country": "Panama",
+        "lat": 8.924427,
+        "lng": -79.591259
+      },
+      {
+        "name": "Soberanía National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "Volcan Baru",
+        "country": "Panama",
+        "lat": 8.273848,
+        "lng": -82.860466
+      },
+      {
+        "name": "Isla Colón",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -772,7 +1706,41 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "San Blas Islands",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "San Blas Islands",
+        "country": "Panama",
+        "lat": 9.57,
+        "lng": -78.82
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -863,7 +1831,111 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Jose",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "La Fortuna",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Arenal Volcano National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Monteverde",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Casco Viejo",
+        "country": "Panama"
+      },
+      {
+        "name": "Miraflores Locks",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Bastimentos",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Jose",
+        "country": "Costa Rica",
+        "lat": 9.932607,
+        "lng": -84.07486
+      },
+      {
+        "name": "La Fortuna",
+        "country": "Costa Rica",
+        "lat": 10.471361,
+        "lng": -84.64452
+      },
+      {
+        "name": "Arenal Volcano National Park",
+        "country": "Costa Rica",
+        "lat": 10.544717,
+        "lng": -84.89545
+      },
+      {
+        "name": "Monteverde",
+        "country": "Costa Rica",
+        "lat": 10.317069,
+        "lng": -84.82451
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Casco Viejo",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Miraflores Locks",
+        "country": "Panama",
+        "lat": 8.327187,
+        "lng": -78.125932
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      },
+      {
+        "name": "Isla Bastimentos",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -934,7 +2006,71 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Colon",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Bastimentos",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "Isla Colon",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      },
+      {
+        "name": "Isla Bastimentos",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -1000,7 +2136,51 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Colón",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      },
+      {
+        "name": "Isla Colón",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -1066,7 +2246,71 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Monkey Island",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "Boca Chica",
+        "country": "Panama"
+      },
+      {
+        "name": "Gulf of Chiriqui",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Monkey Island",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "Boca Chica",
+        "country": "Panama",
+        "lat": 9.189019,
+        "lng": -79.276742
+      },
+      {
+        "name": "Gulf of Chiriqui",
+        "country": "Panama",
+        "lat": 8.437147,
+        "lng": -82.428628
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -1132,7 +2376,61 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Gulf of Chiriqui",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Palenque",
+        "country": "Panama"
+      },
+      {
+        "name": "Monkey Island",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Gulf of Chiriqui",
+        "country": "Panama",
+        "lat": 8.437147,
+        "lng": -82.428628
+      },
+      {
+        "name": "Isla Palenque",
+        "country": "Panama",
+        "lat": 9.208655,
+        "lng": -79.677339
+      },
+      {
+        "name": "Monkey Island",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      }
+    ]
   },
   {
     "destination": "Panama",
@@ -1213,6 +2511,80 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Monkey Island",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Colon",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Bastimentos",
+        "country": "Panama"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Monkey Island",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "Isla Colon",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      },
+      {
+        "name": "Isla Bastimentos",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      }
+    ]
   }
 ]

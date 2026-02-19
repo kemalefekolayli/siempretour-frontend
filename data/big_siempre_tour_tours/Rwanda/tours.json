@@ -43,7 +43,45 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Ruhengeri",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Ruhengeri",
+        "country": "Rwanda",
+        "lat": -1.50405,
+        "lng": 29.63631
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -84,7 +122,59 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Gisozi",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Ruhengeri",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Virunga Mountains",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Gisozi",
+        "country": "Rwanda",
+        "lat": -1.916418,
+        "lng": 30.087968
+      },
+      {
+        "name": "Ruhengeri",
+        "country": "Rwanda",
+        "lat": -1.50405,
+        "lng": 29.63631
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -135,7 +225,45 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Ruhengeri",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Ruhengeri",
+        "country": "Rwanda",
+        "lat": -1.50405,
+        "lng": 29.63631
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -181,7 +309,39 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "River Mukungwa",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -267,7 +427,53 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Akagera National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -328,7 +534,79 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kibuye",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Musanze",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Virunga Volcanoes",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Kibuye",
+        "country": "Rwanda",
+        "lat": -2.05872,
+        "lng": 29.351928
+      },
+      {
+        "name": "Musanze",
+        "country": "Rwanda",
+        "lat": -1.50405,
+        "lng": 29.63631
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -369,7 +647,39 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Gorilla Guardians Village",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -450,7 +760,73 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Butare",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kivu Lake",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Gisenyi",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Karisoke",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Butare",
+        "country": "Rwanda",
+        "lat": -2.590529,
+        "lng": 29.735193
+      },
+      {
+        "name": "Kivu Lake",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Gisenyi",
+        "country": "Rwanda",
+        "lat": -1.694222,
+        "lng": 29.253841
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -546,7 +922,95 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ziwa Rhino Sanctuary",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Queen Elizabeth National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -627,7 +1091,69 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali Genocide Memorial Centre",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable Forest National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kigali Genocide Memorial Centre",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -708,7 +1234,109 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Ruhengeri",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Tarangire National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Ruhengeri",
+        "country": "Rwanda",
+        "lat": -1.50405,
+        "lng": 29.63631
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -779,7 +1407,39 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Akagera National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -830,7 +1490,53 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Akagera National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Ihema",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Gorilla Guardians Village",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lake Ihema",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -891,7 +1597,49 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -952,7 +1700,59 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Parc National des Volcans",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali Genocide Memorial",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Kigali Genocide Memorial",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1028,7 +1828,107 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Umusambi Village",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali Genocide Memorial",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kibuye",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Amohoro Island",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Ruhondo Lake",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Burera Lake",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kinigi",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Kigali Genocide Memorial",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Kibuye",
+        "country": "Rwanda",
+        "lat": -2.05872,
+        "lng": 29.351928
+      },
+      {
+        "name": "Ruhondo Lake",
+        "country": "Rwanda",
+        "lat": -1.53129,
+        "lng": 29.721263
+      },
+      {
+        "name": "Burera Lake",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Kinigi",
+        "country": "Rwanda",
+        "lat": -1.448886,
+        "lng": 29.589117
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1104,7 +2004,101 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Gisakura",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Cyamudongo Forest",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kibuye",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Bishayu Island",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Cyimbili",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Gisenyi",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Musanze",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Gisakura",
+        "country": "Rwanda",
+        "lat": -2.436095,
+        "lng": 29.09111
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Kibuye",
+        "country": "Rwanda",
+        "lat": -2.05872,
+        "lng": 29.351928
+      },
+      {
+        "name": "Gisenyi",
+        "country": "Rwanda",
+        "lat": -1.694222,
+        "lng": 29.253841
+      },
+      {
+        "name": "Musanze",
+        "country": "Rwanda",
+        "lat": -1.50405,
+        "lng": 29.63631
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1150,7 +2144,39 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Iby'lwacu Cultural Village",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1206,7 +2232,39 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1272,7 +2330,39 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1328,7 +2418,39 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Akagera National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1389,7 +2511,49 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mafia Island",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania",
+        "lat": -6.816084,
+        "lng": 39.280358
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1465,7 +2629,79 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kibuye",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Gisenyi",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Musanze",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Kibuye",
+        "country": "Rwanda",
+        "lat": -2.05872,
+        "lng": 29.351928
+      },
+      {
+        "name": "Gisenyi",
+        "country": "Rwanda",
+        "lat": -1.694222,
+        "lng": 29.253841
+      },
+      {
+        "name": "Musanze",
+        "country": "Rwanda",
+        "lat": -1.50405,
+        "lng": 29.63631
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1541,7 +2777,63 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Akagera National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Ihema",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Lake Ihema",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1587,7 +2879,41 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Entebbe",
+        "country": "Uganda",
+        "lat": 1.365158,
+        "lng": 34.45654
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1668,7 +2994,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Muhanga",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Cyamudongo Forest",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Rubavu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Musanze",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Mukungwa River",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kinigi",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Muhanga",
+        "country": "Rwanda",
+        "lat": -2.07636,
+        "lng": 29.763016
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Musanze",
+        "country": "Rwanda",
+        "lat": -1.50405,
+        "lng": 29.63631
+      },
+      {
+        "name": "Kinigi",
+        "country": "Rwanda",
+        "lat": -1.448886,
+        "lng": 29.589117
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1724,7 +3134,65 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Ntarama",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyamata",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda"
+      },
+      {
+        "name": "Virunga Mountains",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Ntarama",
+        "country": "Rwanda",
+        "lat": -2.113406,
+        "lng": 30.049923
+      },
+      {
+        "name": "Nyamata",
+        "country": "Rwanda",
+        "lat": -2.143098,
+        "lng": 30.089455
+      },
+      {
+        "name": "Bwindi Impenetrable Forest",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1790,7 +3258,43 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Akagera National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1866,7 +3370,65 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda"
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kampala",
+        "country": "Uganda",
+        "lat": 0.317714,
+        "lng": 32.581354
+      },
+      {
+        "name": "Lake Mburo National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1952,7 +3514,75 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Murchison Falls National Park",
+        "country": "Uganda",
+        "lat": 2.390052,
+        "lng": 31.662116
+      },
+      {
+        "name": "Kibale National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Bwindi Impenetrable National Park",
+        "country": "Uganda",
+        "lat": 2.23169,
+        "lng": 32.897323
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -1993,7 +3623,59 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Gisozi genocide memorial site",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Gisozi genocide memorial site",
+        "country": "Rwanda",
+        "lat": -1.916418,
+        "lng": 30.087968
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2029,7 +3711,45 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Akagera National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Ihema",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Lake Ihema",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2100,7 +3820,69 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Butare",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kinigi",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Butare",
+        "country": "Rwanda",
+        "lat": -2.590529,
+        "lng": 29.735193
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      },
+      {
+        "name": "Kinigi",
+        "country": "Rwanda",
+        "lat": -1.448886,
+        "lng": 29.589117
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2186,7 +3968,115 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Table Mountain",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Winelands",
+        "country": "South Africa"
+      },
+      {
+        "name": "Stellenbosch",
+        "country": "South Africa"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Ol Pejeta Conservancy",
+        "country": "Kenya"
+      },
+      {
+        "name": "Masai Mara National Reserve",
+        "country": "Kenya"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Gishwati-Mukura National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Table Mountain",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Cape Winelands",
+        "country": "South Africa",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Stellenbosch",
+        "country": "South Africa",
+        "lat": -33.93813,
+        "lng": 18.86002
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Ol Pejeta Conservancy",
+        "country": "Kenya",
+        "lat": -2.131049,
+        "lng": 37.44916
+      },
+      {
+        "name": "Masai Mara National Reserve",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Gishwati-Mukura National Park",
+        "country": "Rwanda",
+        "lat": -2.05115,
+        "lng": 29.445829
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2262,7 +4152,85 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Ol Pejeta Conservancy",
+        "country": "Kenya"
+      },
+      {
+        "name": "Samburu National Reserve",
+        "country": "Kenya"
+      },
+      {
+        "name": "Masai Mara National Reserve",
+        "country": "Kenya"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kigali Genocide Memorial Centre",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Ol Pejeta Conservancy",
+        "country": "Kenya",
+        "lat": -2.131049,
+        "lng": 37.44916
+      },
+      {
+        "name": "Samburu National Reserve",
+        "country": "Kenya",
+        "lat": -2.131049,
+        "lng": 37.44916
+      },
+      {
+        "name": "Masai Mara National Reserve",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Kigali Genocide Memorial Centre",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2333,7 +4301,79 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "National Genocide Memorial",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2414,7 +4454,109 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kimilonko Market",
+        "country": "Rwanda"
+      },
+      {
+        "name": "National Genocide Centre",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyamata Church Genocide Memorial",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Murambi Genocide Memorial Site",
+        "country": "Rwanda"
+      },
+      {
+        "name": "King’s Palace Museum",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Butare",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Rwanda Ethnographic Museum",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Karisoke Research Center",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Akagera National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Kimilonko Market",
+        "country": "Rwanda",
+        "lat": -1.942618,
+        "lng": 30.138202
+      },
+      {
+        "name": "Nyamata Church Genocide Memorial",
+        "country": "Rwanda",
+        "lat": -2.143098,
+        "lng": 30.089455
+      },
+      {
+        "name": "Murambi Genocide Memorial Site",
+        "country": "Rwanda",
+        "lat": -1.856229,
+        "lng": 30.440044
+      },
+      {
+        "name": "Butare",
+        "country": "Rwanda",
+        "lat": -2.590529,
+        "lng": 29.735193
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2480,7 +4622,49 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Lake Kivu",
+        "country": "Rwanda",
+        "lat": -2.218856,
+        "lng": 30.384933
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2551,7 +4735,49 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Kinigi",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Kinigi",
+        "country": "Rwanda",
+        "lat": -1.448886,
+        "lng": 29.589117
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2617,7 +4843,55 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Masai Mara National Reserve",
+        "country": "Kenya"
+      },
+      {
+        "name": "Mara North Conservancy",
+        "country": "Kenya"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Masai Mara National Reserve",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      },
+      {
+        "name": "Mara North Conservancy",
+        "country": "Kenya",
+        "lat": -2.131049,
+        "lng": 37.44916
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2698,7 +4972,47 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "National Genocide Memorial",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Akagera National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2814,7 +5128,161 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mount Kilimanjaro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "National Genocide Memorial",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia"
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia"
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana"
+      },
+      {
+        "name": "Okavango Delta",
+        "country": "Botswana"
+      },
+      {
+        "name": "Moremi Game Reserve",
+        "country": "Botswana"
+      },
+      {
+        "name": "Linyanti",
+        "country": "Botswana"
+      },
+      {
+        "name": "Maun",
+        "country": "Botswana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arusha",
+        "country": "Tanzania",
+        "lat": -3.369683,
+        "lng": 36.688079
+      },
+      {
+        "name": "Mount Kilimanjaro",
+        "country": "Tanzania",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
+        "lat": -4.210064,
+        "lng": 35.749149
+      },
+      {
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zambia",
+        "lat": -13.550083,
+        "lng": 23.115208
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana",
+        "lat": -17.799239,
+        "lng": 25.156546
+      },
+      {
+        "name": "Moremi Game Reserve",
+        "country": "Botswana",
+        "lat": -22.571274,
+        "lng": 27.447813
+      },
+      {
+        "name": "Maun",
+        "country": "Botswana",
+        "lat": -19.988626,
+        "lng": 23.42207
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2890,7 +5358,57 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Akagera National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "National Genocide Memorial",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Butare",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Nyungwe Forest National Park",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      },
+      {
+        "name": "Butare",
+        "country": "Rwanda",
+        "lat": -2.590529,
+        "lng": 29.735193
+      }
+    ]
   },
   {
     "destination": "Rwanda",
@@ -2996,6 +5514,84 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      {
+        "name": "Lewa Conservancy",
+        "country": "Kenya"
+      },
+      {
+        "name": "Masai Mara",
+        "country": "Kenya"
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda"
+      },
+      {
+        "name": "Volcanoes National Park",
+        "country": "Rwanda"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "lat": -1.283253,
+        "lng": 36.817245
+      },
+      {
+        "name": "Lewa Conservancy",
+        "country": "Kenya",
+        "lat": -1.3333,
+        "lng": 39.8333
+      },
+      {
+        "name": "Masai Mara",
+        "country": "Kenya",
+        "lat": -0.940234,
+        "lng": 35.42232
+      },
+      {
+        "name": "Northern Serengeti",
+        "country": "Tanzania",
+        "lat": -2.191953,
+        "lng": 33.869237
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
+        "lat": -8.545507,
+        "lng": 39.084682
+      },
+      {
+        "name": "Kigali",
+        "country": "Rwanda",
+        "lat": -1.950894,
+        "lng": 30.058876
+      }
+    ]
   }
 ]

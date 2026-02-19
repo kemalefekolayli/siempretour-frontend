@@ -63,6 +63,78 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Juba",
+        "country": "South Sudan"
+      },
+      {
+        "name": "Torit",
+        "country": "South Sudan"
+      },
+      {
+        "name": "Toposa villages",
+        "country": "South Sudan"
+      },
+      {
+        "name": "Boya villages",
+        "country": "South Sudan"
+      },
+      {
+        "name": "Lotuko village",
+        "country": "South Sudan"
+      },
+      {
+        "name": "Mundari villages",
+        "country": "South Sudan"
+      },
+      {
+        "name": "Imatong hills",
+        "country": "South Sudan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Juba",
+        "country": "South Sudan",
+        "lat": 4.845925,
+        "lng": 31.595917
+      },
+      {
+        "name": "Torit",
+        "country": "South Sudan",
+        "lat": 4.413447,
+        "lng": 32.568224
+      },
+      {
+        "name": "Toposa villages",
+        "country": "South Sudan",
+        "lat": 5.741795,
+        "lng": 31.788671
+      },
+      {
+        "name": "Mundari villages",
+        "country": "South Sudan",
+        "lat": 5.348394,
+        "lng": 30.322714
+      },
+      {
+        "name": "Imatong hills",
+        "country": "South Sudan",
+        "lat": 5.741795,
+        "lng": 31.788671
+      }
+    ]
   }
 ]

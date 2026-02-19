@@ -63,7 +63,69 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Prague",
+        "country": "Czech Republic"
+      },
+      {
+        "name": "Tatra Mountains",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Tatranska Lomnica",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Spissky Castle",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Pieniny National Park",
+        "country": "Poland"
+      },
+      {
+        "name": "Krakow",
+        "country": "Poland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Prague",
+        "country": "Czech Republic",
+        "lat": 50.08584,
+        "lng": 14.422954
+      },
+      {
+        "name": "Tatranska Lomnica",
+        "country": "Slovakia",
+        "lat": 49.165867,
+        "lng": 20.279314
+      },
+      {
+        "name": "Pieniny National Park",
+        "country": "Poland",
+        "lat": 49.694444,
+        "lng": 18.8325
+      },
+      {
+        "name": "Krakow",
+        "country": "Poland",
+        "lat": 50.062325,
+        "lng": 19.937975
+      }
+    ]
   },
   {
     "destination": "Czech Republic",
@@ -164,7 +226,115 @@
       }
     ],
     "map": "images/tour-photos/Czech-republic/03/01.webp",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Krakow",
+        "country": "Poland"
+      },
+      {
+        "name": "Dunajec Gorge",
+        "country": "Poland"
+      },
+      {
+        "name": "High Tatra",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Banska Bystrica",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Banska Stiavnica",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Budapest",
+        "country": "Hungary"
+      },
+      {
+        "name": "Bratislava",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Vienna",
+        "country": "Austria"
+      },
+      {
+        "name": "Mikulov",
+        "country": "Czech Republic"
+      },
+      {
+        "name": "Prague",
+        "country": "Czech Republic"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Krakow",
+        "country": "Poland",
+        "lat": 50.062325,
+        "lng": 19.937975
+      },
+      {
+        "name": "Dunajec Gorge",
+        "country": "Poland",
+        "lat": 54.026917,
+        "lng": 22.298943
+      },
+      {
+        "name": "Banska Bystrica",
+        "country": "Slovakia",
+        "lat": 48.735933,
+        "lng": 19.145852
+      },
+      {
+        "name": "Banska Stiavnica",
+        "country": "Slovakia",
+        "lat": 48.458714,
+        "lng": 18.89328
+      },
+      {
+        "name": "Budapest",
+        "country": "Hungary",
+        "lat": 47.497994,
+        "lng": 19.040359
+      },
+      {
+        "name": "Bratislava",
+        "country": "Slovakia",
+        "lat": 48.1438,
+        "lng": 17.108387
+      },
+      {
+        "name": "Vienna",
+        "country": "Austria",
+        "lat": 48.208354,
+        "lng": 16.372504
+      },
+      {
+        "name": "Mikulov",
+        "country": "Czech Republic",
+        "lat": 48.806953,
+        "lng": 16.638157
+      },
+      {
+        "name": "Prague",
+        "country": "Czech Republic",
+        "lat": 50.08584,
+        "lng": 14.422954
+      }
+    ]
   },
   {
     "destination": "Czech Republic",
@@ -230,7 +400,41 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Prague",
+        "country": "Czech Republic"
+      },
+      {
+        "name": "Budapest",
+        "country": "Hungary"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Prague",
+        "country": "Czech Republic",
+        "lat": 50.08584,
+        "lng": 14.422954
+      },
+      {
+        "name": "Budapest",
+        "country": "Hungary",
+        "lat": 47.497994,
+        "lng": 19.040359
+      }
+    ]
   },
   {
     "destination": "Czech Republic",
@@ -306,6 +510,70 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Prague",
+        "country": "Czech Republic"
+      },
+      {
+        "name": "Cesky Krumlov",
+        "country": "Czech Republic"
+      },
+      {
+        "name": "Dubrovnik",
+        "country": "Croatia"
+      },
+      {
+        "name": "Hvar",
+        "country": "Croatia"
+      },
+      {
+        "name": "Split",
+        "country": "Croatia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Prague",
+        "country": "Czech Republic",
+        "lat": 50.08584,
+        "lng": 14.422954
+      },
+      {
+        "name": "Cesky Krumlov",
+        "country": "Czech Republic",
+        "lat": 48.81049,
+        "lng": 14.315851
+      },
+      {
+        "name": "Dubrovnik",
+        "country": "Croatia",
+        "lat": 42.648808,
+        "lng": 18.093882
+      },
+      {
+        "name": "Hvar",
+        "country": "Croatia",
+        "lat": 43.151389,
+        "lng": 16.656944
+      },
+      {
+        "name": "Split",
+        "country": "Croatia",
+        "lat": 43.508186,
+        "lng": 16.438787
+      }
+    ]
   }
 ]

@@ -83,7 +83,85 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "El Calafate",
+        "country": "Argentina"
+      },
+      {
+        "name": "Perito Moreno Glacier",
+        "country": "Argentina"
+      },
+      {
+        "name": "El Chaltén",
+        "country": "Argentina"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Tierra del Fuego National Park",
+        "country": "Argentina"
+      },
+      {
+        "name": "Beagle Channel",
+        "country": "null"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "El Calafate",
+        "country": "Argentina",
+        "lat": -50.337997,
+        "lng": -72.26468
+      },
+      {
+        "name": "Perito Moreno Glacier",
+        "country": "Argentina",
+        "lat": -29.53495,
+        "lng": -62.26615
+      },
+      {
+        "name": "El Chaltén",
+        "country": "Argentina",
+        "lat": -49.331,
+        "lng": -72.88523
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Tierra del Fuego National Park",
+        "country": "Argentina",
+        "lat": -29.53495,
+        "lng": -62.26615
+      }
+    ]
   },
   {
     "destination": "Patagonia",
@@ -149,6 +227,100 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "San Martin de Los Andes",
+        "country": "Argentina"
+      },
+      {
+        "name": "Bariloche",
+        "country": "Argentina"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      },
+      {
+        "name": "El Calafate",
+        "country": "Argentina"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "San Martin de Los Andes",
+        "country": "Argentina",
+        "lat": -40.15696,
+        "lng": -71.35098
+      },
+      {
+        "name": "Bariloche",
+        "country": "Argentina",
+        "lat": -41.13463,
+        "lng": -71.30961
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile",
+        "lat": -51.259224,
+        "lng": -72.34537
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      },
+      {
+        "name": "El Calafate",
+        "country": "Argentina",
+        "lat": -50.337997,
+        "lng": -72.26468
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      }
+    ]
   }
 ]

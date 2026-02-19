@@ -73,7 +73,79 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Djibouti",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Lac Abbe",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Lac Assal",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Tadjourah",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Borama",
+        "country": "Somaliland"
+      },
+      {
+        "name": "Dhagax Khoure",
+        "country": "Somaliland"
+      },
+      {
+        "name": "Hargeisa",
+        "country": "Somaliland"
+      },
+      {
+        "name": "Las Geel",
+        "country": "Somaliland"
+      },
+      {
+        "name": "Berbera",
+        "country": "Somaliland"
+      },
+      {
+        "name": "Sheikh",
+        "country": "Somaliland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Djibouti",
+        "country": "Djibouti",
+        "lat": 11.59369,
+        "lng": 43.147272
+      },
+      {
+        "name": "Lac Abbe",
+        "country": "Djibouti",
+        "lat": 11.59369,
+        "lng": 43.147272
+      },
+      {
+        "name": "Tadjourah",
+        "country": "Djibouti",
+        "lat": 11.733157,
+        "lng": 42.681588
+      }
+    ]
   },
   {
     "destination": "Djibouti",
@@ -144,7 +216,105 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Djibouti",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Lac Assal",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Lac Abbe",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Lake Afrera",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Frachetti Island",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Afar Desert",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Mount Erta Ale",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Dallol",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Djibouti",
+        "country": "Djibouti",
+        "lat": 11.59369,
+        "lng": 43.147272
+      },
+      {
+        "name": "Lac Abbe",
+        "country": "Djibouti",
+        "lat": 11.59369,
+        "lng": 43.147272
+      },
+      {
+        "name": "Lake Afrera",
+        "country": "Ethiopia",
+        "lat": 13.207287,
+        "lng": 40.860443
+      },
+      {
+        "name": "Frachetti Island",
+        "country": "Ethiopia",
+        "lat": 13.232538,
+        "lng": 40.903059
+      },
+      {
+        "name": "Afar Desert",
+        "country": "Ethiopia",
+        "lat": 11.79231,
+        "lng": 41.008916
+      },
+      {
+        "name": "Mount Erta Ale",
+        "country": "Ethiopia",
+        "lat": 9.52528,
+        "lng": 42.31889
+      },
+      {
+        "name": "Dallol",
+        "country": "Ethiopia",
+        "lat": 14.239424,
+        "lng": 40.293699
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      }
+    ]
   },
   {
     "destination": "Djibouti",
@@ -220,7 +390,71 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Djibouti City",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Lake Abbé",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Lake Assal",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Tadjourah",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Borama",
+        "country": "Somaliland"
+      },
+      {
+        "name": "Hargeisa",
+        "country": "Somaliland"
+      },
+      {
+        "name": "Laas Geel",
+        "country": "Somaliland"
+      },
+      {
+        "name": "Berbera",
+        "country": "Somaliland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Djibouti City",
+        "country": "Djibouti",
+        "lat": 11.59369,
+        "lng": 43.147272
+      },
+      {
+        "name": "Lake Abbé",
+        "country": "Djibouti",
+        "lat": 11.59369,
+        "lng": 43.147272
+      },
+      {
+        "name": "Tadjourah",
+        "country": "Djibouti",
+        "lat": 11.733157,
+        "lng": 42.681588
+      }
+    ]
   },
   {
     "destination": "Djibouti",
@@ -336,6 +570,120 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Djibouti",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Lac Assal",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Lac Abbe",
+        "country": "Djibouti"
+      },
+      {
+        "name": "Lake Afrera",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Afar Desert",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Erta Ale lava lake",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Ahmedela salt mines",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Dallol",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia"
+      },
+      {
+        "name": "Hargeisa",
+        "country": "Somaliland"
+      },
+      {
+        "name": "Las Geel",
+        "country": "Somaliland"
+      },
+      {
+        "name": "Dhagax Khoure",
+        "country": "Somaliland"
+      },
+      {
+        "name": "Berbera",
+        "country": "Somaliland"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Djibouti",
+        "country": "Djibouti",
+        "lat": 11.59369,
+        "lng": 43.147272
+      },
+      {
+        "name": "Lac Abbe",
+        "country": "Djibouti",
+        "lat": 11.59369,
+        "lng": 43.147272
+      },
+      {
+        "name": "Lake Afrera",
+        "country": "Ethiopia",
+        "lat": 13.207287,
+        "lng": 40.860443
+      },
+      {
+        "name": "Afar Desert",
+        "country": "Ethiopia",
+        "lat": 11.79231,
+        "lng": 41.008916
+      },
+      {
+        "name": "Erta Ale lava lake",
+        "country": "Ethiopia",
+        "lat": 9.52528,
+        "lng": 42.31889
+      },
+      {
+        "name": "Ahmedela salt mines",
+        "country": "Ethiopia",
+        "lat": 9.66667,
+        "lng": 37.76667
+      },
+      {
+        "name": "Dallol",
+        "country": "Ethiopia",
+        "lat": 14.239424,
+        "lng": 40.293699
+      },
+      {
+        "name": "Addis Ababa",
+        "country": "Ethiopia",
+        "lat": 9.010793,
+        "lng": 38.761253
+      }
+    ]
   }
 ]

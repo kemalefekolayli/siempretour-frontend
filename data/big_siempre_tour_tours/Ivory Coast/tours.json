@@ -78,7 +78,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Daloa",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Odienne",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Korhogo",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Kong",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Bouake",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Daloa",
+        "country": "Ivory Coast",
+        "lat": 6.87669,
+        "lng": -6.45161
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast",
+        "lat": 7.409081,
+        "lng": -7.55017
+      },
+      {
+        "name": "Odienne",
+        "country": "Ivory Coast",
+        "lat": 9.504431,
+        "lng": -7.561942
+      },
+      {
+        "name": "Korhogo",
+        "country": "Ivory Coast",
+        "lat": 9.457472,
+        "lng": -5.634247
+      },
+      {
+        "name": "Kong",
+        "country": "Ivory Coast",
+        "lat": 9.148681,
+        "lng": -4.610648
+      },
+      {
+        "name": "Bouake",
+        "country": "Ivory Coast",
+        "lat": 7.690606,
+        "lng": -5.029841
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast",
+        "lat": 5.212884,
+        "lng": -3.743226
+      }
+    ]
   },
   {
     "destination": "Ivory Coast",
@@ -169,7 +273,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Abenguru",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Bouake",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Korhogo",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Boundiali",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Odienne",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Danani region",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Abenguru",
+        "country": "Ivory Coast",
+        "lat": 6.726904,
+        "lng": -3.496843
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Bouake",
+        "country": "Ivory Coast",
+        "lat": 7.690606,
+        "lng": -5.029841
+      },
+      {
+        "name": "Korhogo",
+        "country": "Ivory Coast",
+        "lat": 9.457472,
+        "lng": -5.634247
+      },
+      {
+        "name": "Boundiali",
+        "country": "Ivory Coast",
+        "lat": 9.525579,
+        "lng": -6.483764
+      },
+      {
+        "name": "Odienne",
+        "country": "Ivory Coast",
+        "lat": 9.504431,
+        "lng": -7.561942
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast",
+        "lat": 7.409081,
+        "lng": -7.55017
+      },
+      {
+        "name": "Danani region",
+        "country": "Ivory Coast",
+        "lat": 7.259797,
+        "lng": -8.152627
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast",
+        "lat": 5.212884,
+        "lng": -3.743226
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      }
+    ]
   },
   {
     "destination": "Ivory Coast",
@@ -250,7 +478,115 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Bouake",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Kong",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Korhogo",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Fulani villages",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Odienne",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Bouake",
+        "country": "Ivory Coast",
+        "lat": 7.690606,
+        "lng": -5.029841
+      },
+      {
+        "name": "Kong",
+        "country": "Ivory Coast",
+        "lat": 9.148681,
+        "lng": -4.610648
+      },
+      {
+        "name": "Korhogo",
+        "country": "Ivory Coast",
+        "lat": 9.457472,
+        "lng": -5.634247
+      },
+      {
+        "name": "Odienne",
+        "country": "Ivory Coast",
+        "lat": 9.504431,
+        "lng": -7.561942
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast",
+        "lat": 7.409081,
+        "lng": -7.55017
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast",
+        "lat": 5.212884,
+        "lng": -3.743226
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      }
+    ]
   },
   {
     "destination": "Ivory Coast",
@@ -341,7 +677,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Bouake",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Korhogo",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Boundiali",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Odienne",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Bouake",
+        "country": "Ivory Coast",
+        "lat": 7.690606,
+        "lng": -5.029841
+      },
+      {
+        "name": "Korhogo",
+        "country": "Ivory Coast",
+        "lat": 9.457472,
+        "lng": -5.634247
+      },
+      {
+        "name": "Boundiali",
+        "country": "Ivory Coast",
+        "lat": 9.525579,
+        "lng": -6.483764
+      },
+      {
+        "name": "Odienne",
+        "country": "Ivory Coast",
+        "lat": 9.504431,
+        "lng": -7.561942
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast",
+        "lat": 7.409081,
+        "lng": -7.55017
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast",
+        "lat": 5.212884,
+        "lng": -3.743226
+      }
+    ]
   },
   {
     "destination": "Ivory Coast",
@@ -407,7 +837,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Abengourou",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Korhogo",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Bouaflé",
+        "country": "Ivory Coast"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast",
+        "lat": 5.212884,
+        "lng": -3.743226
+      },
+      {
+        "name": "Abengourou",
+        "country": "Ivory Coast",
+        "lat": 6.726904,
+        "lng": -3.496843
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Korhogo",
+        "country": "Ivory Coast",
+        "lat": 9.457472,
+        "lng": -5.634247
+      },
+      {
+        "name": "Bouaflé",
+        "country": "Ivory Coast",
+        "lat": 6.992679,
+        "lng": -5.744423
+      }
+    ]
   },
   {
     "destination": "Ivory Coast",
@@ -498,6 +1002,110 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Bouake",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Korhogo",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Boundiali",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Odienne",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Daloa",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Bouake",
+        "country": "Ivory Coast",
+        "lat": 7.690606,
+        "lng": -5.029841
+      },
+      {
+        "name": "Korhogo",
+        "country": "Ivory Coast",
+        "lat": 9.457472,
+        "lng": -5.634247
+      },
+      {
+        "name": "Boundiali",
+        "country": "Ivory Coast",
+        "lat": 9.525579,
+        "lng": -6.483764
+      },
+      {
+        "name": "Odienne",
+        "country": "Ivory Coast",
+        "lat": 9.504431,
+        "lng": -7.561942
+      },
+      {
+        "name": "Man",
+        "country": "Ivory Coast",
+        "lat": 7.409081,
+        "lng": -7.55017
+      },
+      {
+        "name": "Daloa",
+        "country": "Ivory Coast",
+        "lat": 6.87669,
+        "lng": -6.45161
+      },
+      {
+        "name": "Grand Bassam",
+        "country": "Ivory Coast",
+        "lat": 5.212884,
+        "lng": -3.743226
+      }
+    ]
   }
 ]

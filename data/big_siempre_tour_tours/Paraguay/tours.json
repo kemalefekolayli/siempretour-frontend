@@ -73,6 +73,88 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Asuncion",
+        "country": "Paraguay"
+      },
+      {
+        "name": "Chaco",
+        "country": "Paraguay"
+      },
+      {
+        "name": "Yaguaron",
+        "country": "Paraguay"
+      },
+      {
+        "name": "San Bernardino",
+        "country": "Paraguay"
+      },
+      {
+        "name": "Encarnacion",
+        "country": "Paraguay"
+      },
+      {
+        "name": "San Ignacio Guasu",
+        "country": "Paraguay"
+      },
+      {
+        "name": "Foz do Iguazu",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Asuncion",
+        "country": "Paraguay",
+        "lat": -25.280046,
+        "lng": -57.634381
+      },
+      {
+        "name": "Yaguaron",
+        "country": "Paraguay",
+        "lat": -25.56266,
+        "lng": -57.283478
+      },
+      {
+        "name": "San Bernardino",
+        "country": "Paraguay",
+        "lat": -25.309826,
+        "lng": -57.29978
+      },
+      {
+        "name": "Encarnacion",
+        "country": "Paraguay",
+        "lat": -27.330446,
+        "lng": -55.866714
+      },
+      {
+        "name": "San Ignacio Guasu",
+        "country": "Paraguay",
+        "lat": -26.887281,
+        "lng": -57.02433
+      },
+      {
+        "name": "Foz do Iguazu",
+        "country": "Brazil",
+        "lat": -25.542088,
+        "lng": -54.58742
+      }
+    ]
   }
 ]

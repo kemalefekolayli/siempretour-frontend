@@ -58,7 +58,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Chisinau",
+        "country": "Moldova"
+      },
+      {
+        "name": "Capriana",
+        "country": "Moldova"
+      },
+      {
+        "name": "Clisova Noua",
+        "country": "Moldova"
+      },
+      {
+        "name": "Transdniestr",
+        "country": null
+      },
+      {
+        "name": "Tiraspol",
+        "country": null
+      },
+      {
+        "name": "Tighina",
+        "country": null
+      },
+      {
+        "name": "Orheiul Vechi",
+        "country": "Moldova"
+      },
+      {
+        "name": "Cricova",
+        "country": "Moldova"
+      },
+      {
+        "name": "Soroca",
+        "country": "Moldova"
+      },
+      {
+        "name": "Comrat",
+        "country": "Moldova"
+      },
+      {
+        "name": "Gagauzia",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Chisinau",
+        "country": "Moldova",
+        "lat": 47.02416,
+        "lng": 28.837374
+      },
+      {
+        "name": "Capriana",
+        "country": "Moldova",
+        "lat": 47.11664,
+        "lng": 28.509476
+      },
+      {
+        "name": "Clisova Noua",
+        "country": "Moldova",
+        "lat": 47.492275,
+        "lng": 28.635016
+      },
+      {
+        "name": "Cricova",
+        "country": "Moldova",
+        "lat": 47.13964,
+        "lng": 28.8655
+      },
+      {
+        "name": "Soroca",
+        "country": "Moldova",
+        "lat": 48.155106,
+        "lng": 28.30202
+      },
+      {
+        "name": "Comrat",
+        "country": "Moldova",
+        "lat": 46.3007,
+        "lng": 28.656317
+      }
+    ]
   },
   {
     "destination": "Moldova",
@@ -114,6 +208,106 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Chisinau",
+        "country": "Moldova"
+      },
+      {
+        "name": "Comrat",
+        "country": "Moldova"
+      },
+      {
+        "name": "Besalma",
+        "country": "Moldova"
+      },
+      {
+        "name": "Cricova",
+        "country": "Moldova"
+      },
+      {
+        "name": "Orheiul Vechi",
+        "country": "Moldova"
+      },
+      {
+        "name": "Butuceni",
+        "country": "Moldova"
+      },
+      {
+        "name": "Pucari",
+        "country": "Moldova"
+      },
+      {
+        "name": "Soroca",
+        "country": "Moldova"
+      },
+      {
+        "name": "Transdniestr",
+        "country": "null"
+      },
+      {
+        "name": "Tiraspol",
+        "country": "null"
+      },
+      {
+        "name": "Causeni",
+        "country": "null"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Chisinau",
+        "country": "Moldova",
+        "lat": 47.02416,
+        "lng": 28.837374
+      },
+      {
+        "name": "Comrat",
+        "country": "Moldova",
+        "lat": 46.3007,
+        "lng": 28.656317
+      },
+      {
+        "name": "Besalma",
+        "country": "Moldova",
+        "lat": 46.168423,
+        "lng": 28.644896
+      },
+      {
+        "name": "Cricova",
+        "country": "Moldova",
+        "lat": 47.13964,
+        "lng": 28.8655
+      },
+      {
+        "name": "Butuceni",
+        "country": "Moldova",
+        "lat": 47.300942,
+        "lng": 28.967957
+      },
+      {
+        "name": "Pucari",
+        "country": "Moldova",
+        "lat": 46.538525,
+        "lng": 29.85793
+      },
+      {
+        "name": "Soroca",
+        "country": "Moldova",
+        "lat": 48.155106,
+        "lng": 28.30202
+      }
+    ]
   }
 ]

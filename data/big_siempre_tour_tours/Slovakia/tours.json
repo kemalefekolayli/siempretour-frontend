@@ -63,7 +63,81 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bratislava",
+        "country": "Slovakia"
+      },
+      {
+        "name": "High Tatras",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Poprad-Tatry",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Smokovec",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Skalnaté Pleso",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Pieniny National Park",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Štrbské Pleso",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Spiš Castle",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Levoca",
+        "country": "Slovakia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bratislava",
+        "country": "Slovakia",
+        "lat": 48.1438,
+        "lng": 17.108387
+      },
+      {
+        "name": "Poprad-Tatry",
+        "country": "Slovakia",
+        "lat": 49.055192,
+        "lng": 20.294629
+      },
+      {
+        "name": "Štrbské Pleso",
+        "country": "Slovakia",
+        "lat": 49.120525,
+        "lng": 20.063295
+      },
+      {
+        "name": "Levoca",
+        "country": "Slovakia",
+        "lat": 49.025715,
+        "lng": 20.58931
+      }
+    ]
   },
   {
     "destination": "Slovakia",
@@ -129,6 +203,122 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "High Tatras",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Tatranska Lomnica",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Strbske Pleso",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Velka Fatra National Park",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Zelene Pleso",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Besenova Aqua Park",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Pieniny National Park",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Bachledova Valley",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Zdiar",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Hrebienok",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Rainerova Hut",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Belianska Cave",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Levoca",
+        "country": "Slovakia"
+      },
+      {
+        "name": "High Tatras National Park",
+        "country": "Slovakia"
+      },
+      {
+        "name": "Poprad",
+        "country": "Slovakia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tatranska Lomnica",
+        "country": "Slovakia",
+        "lat": 49.165867,
+        "lng": 20.279314
+      },
+      {
+        "name": "Strbske Pleso",
+        "country": "Slovakia",
+        "lat": 49.120525,
+        "lng": 20.063295
+      },
+      {
+        "name": "Velka Fatra National Park",
+        "country": "Slovakia",
+        "lat": 48.144947,
+        "lng": 17.508772
+      },
+      {
+        "name": "Besenova Aqua Park",
+        "country": "Slovakia",
+        "lat": 49.100445,
+        "lng": 19.439835
+      },
+      {
+        "name": "Zdiar",
+        "country": "Slovakia",
+        "lat": 49.26957,
+        "lng": 20.266466
+      },
+      {
+        "name": "Levoca",
+        "country": "Slovakia",
+        "lat": 49.025715,
+        "lng": 20.58931
+      },
+      {
+        "name": "Poprad",
+        "country": "Slovakia",
+        "lat": 49.055192,
+        "lng": 20.294629
+      }
+    ]
   }
 ]

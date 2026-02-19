@@ -43,7 +43,241 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco"
+      },
+      {
+        "name": "Essaouira",
+        "country": "Morocco"
+      },
+      {
+        "name": "Western Sahara",
+        "country": null
+      },
+      {
+        "name": "Atar",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania"
+      },
+      {
+        "name": "St Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Lake Retba",
+        "country": "Senegal"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia"
+      },
+      {
+        "name": "Ziguinchor",
+        "country": "Senegal"
+      },
+      {
+        "name": "Guinea-Bissau",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Parque Nacional de Cantanhez",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Conakry",
+        "country": "Guinea"
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Tacugama Chimpanzee Sanctuary",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Tiwai Island Wildlife Sanctuary",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia"
+      },
+      {
+        "name": "Kpatawee Waterfalls",
+        "country": "Liberia"
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast"
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana"
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana"
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco",
+        "lat": 31.626928,
+        "lng": -7.988117
+      },
+      {
+        "name": "Essaouira",
+        "country": "Morocco",
+        "lat": 31.513723,
+        "lng": -9.771017
+      },
+      {
+        "name": "Atar",
+        "country": "Mauritania",
+        "lat": 20.514017,
+        "lng": -13.050462
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "lat": 18.079238,
+        "lng": -15.978007
+      },
+      {
+        "name": "St Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Ziguinchor",
+        "country": "Senegal",
+        "lat": 12.563493,
+        "lng": -16.272461
+      },
+      {
+        "name": "Guinea-Bissau",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Parque Nacional de Cantanhez",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Conakry",
+        "country": "Guinea",
+        "lat": 9.51706,
+        "lng": -13.699843
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "lat": 8.462246,
+        "lng": -13.178415
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia",
+        "lat": 6.297724,
+        "lng": -10.779029
+      },
+      {
+        "name": "Kpatawee Waterfalls",
+        "country": "Liberia",
+        "lat": 7.088353,
+        "lng": -9.642129
+      },
+      {
+        "name": "Yamoussoukro",
+        "country": "Ivory Coast",
+        "lat": 6.809107,
+        "lng": -5.273263
+      },
+      {
+        "name": "Abidjan",
+        "country": "Ivory Coast",
+        "lat": 5.320357,
+        "lng": -4.016107
+      },
+      {
+        "name": "Cape Coast",
+        "country": "Ghana",
+        "lat": 5.135057,
+        "lng": -1.265911
+      },
+      {
+        "name": "Elmina",
+        "country": "Ghana",
+        "lat": 5.09368,
+        "lng": -1.350293
+      },
+      {
+        "name": "Kakum National Park",
+        "country": "Ghana",
+        "lat": 7.008972,
+        "lng": -2.830406
+      },
+      {
+        "name": "Kumasi",
+        "country": "Ghana",
+        "lat": 6.708083,
+        "lng": -1.613894
+      },
+      {
+        "name": "Accra",
+        "country": "Ghana",
+        "lat": 5.661083,
+        "lng": -0.202815
+      }
+    ]
   },
   {
     "destination": "Gambia",
@@ -109,7 +343,99 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia"
+      },
+      {
+        "name": "Tendaba",
+        "country": "Gambia"
+      },
+      {
+        "name": "Kiang West National Park",
+        "country": "Gambia"
+      },
+      {
+        "name": "Bao Bolong Wetland Reserve",
+        "country": "Gambia"
+      },
+      {
+        "name": "Kuntaur",
+        "country": "Gambia"
+      },
+      {
+        "name": "Janjanbureh",
+        "country": "Gambia"
+      },
+      {
+        "name": "Wassu",
+        "country": "Gambia"
+      },
+      {
+        "name": "Kaur",
+        "country": "Gambia"
+      },
+      {
+        "name": "St. James Island",
+        "country": "Gambia"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Goree Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Djiffer",
+        "country": "Senegal"
+      },
+      {
+        "name": "Joal Fadiouth",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saloum Delta",
+        "country": "Senegal"
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Djiffer",
+        "country": "Senegal",
+        "lat": 13.935077,
+        "lng": -16.76296
+      },
+      {
+        "name": "Joal Fadiouth",
+        "country": "Senegal",
+        "lat": 14.154629,
+        "lng": -16.832686
+      }
+    ]
   },
   {
     "destination": "Gambia",
@@ -200,7 +526,141 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Island of Goree",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saint-Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Djoudj National Bird Sanctuary",
+        "country": "Senegal"
+      },
+      {
+        "name": "Langue de Barberie National Park",
+        "country": "Senegal"
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal"
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal"
+      },
+      {
+        "name": "Georgetown",
+        "country": "Gambia"
+      },
+      {
+        "name": "Wassu Stone Circles",
+        "country": "Gambia"
+      },
+      {
+        "name": "Gambia River",
+        "country": "Gambia"
+      },
+      {
+        "name": "Tendaba",
+        "country": "Gambia"
+      },
+      {
+        "name": "Kiang West National Park",
+        "country": "Gambia"
+      },
+      {
+        "name": "Bao Bolong Wetland Reserve",
+        "country": "Gambia"
+      },
+      {
+        "name": "Saloum Delta National Park",
+        "country": "Senegal"
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia"
+      },
+      {
+        "name": "Sine-Saloum Delta",
+        "country": "Senegal"
+      },
+      {
+        "name": "Fadiout Islands",
+        "country": "Senegal"
+      },
+      {
+        "name": "Ndangane",
+        "country": "Senegal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Saint-Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Djoudj National Bird Sanctuary",
+        "country": "Senegal",
+        "lat": 13.435366,
+        "lng": -13.42683
+      },
+      {
+        "name": "Langue de Barberie National Park",
+        "country": "Senegal",
+        "lat": 14.15468,
+        "lng": -15.37554
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal",
+        "lat": 13.821724,
+        "lng": -13.501252
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal",
+        "lat": 14.138815,
+        "lng": -16.076391
+      },
+      {
+        "name": "Fadiout Islands",
+        "country": "Senegal",
+        "lat": 14.152081,
+        "lng": -16.82345
+      },
+      {
+        "name": "Ndangane",
+        "country": "Senegal",
+        "lat": 14.076364,
+        "lng": -15.924662
+      }
+    ]
   },
   {
     "destination": "Gambia",
@@ -276,7 +736,129 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Goree Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "St Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Lompoul",
+        "country": "Senegal"
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal"
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal"
+      },
+      {
+        "name": "Sine Ngayenne",
+        "country": "Senegal"
+      },
+      {
+        "name": "Jufureh",
+        "country": "Gambia"
+      },
+      {
+        "name": "James Island",
+        "country": "Gambia"
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia"
+      },
+      {
+        "name": "Abuko Reserve",
+        "country": "Gambia"
+      },
+      {
+        "name": "Saly",
+        "country": "Senegal"
+      },
+      {
+        "name": "Sine Saloum",
+        "country": "Senegal"
+      },
+      {
+        "name": "Bandia Park",
+        "country": "Senegal"
+      },
+      {
+        "name": "Pink Lake",
+        "country": "Senegal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "St Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Lompoul",
+        "country": "Senegal",
+        "lat": 15.442796,
+        "lng": -16.728723
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal",
+        "lat": 13.821724,
+        "lng": -13.501252
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal",
+        "lat": 14.138815,
+        "lng": -16.076391
+      },
+      {
+        "name": "Sine Ngayenne",
+        "country": "Senegal",
+        "lat": 13.701447,
+        "lng": -15.456652
+      },
+      {
+        "name": "Saly",
+        "country": "Senegal",
+        "lat": 14.441115,
+        "lng": -17.01483
+      },
+      {
+        "name": "Bandia Park",
+        "country": "Senegal",
+        "lat": 14.623721,
+        "lng": -17.027504
+      }
+    ]
   },
   {
     "destination": "Gambia",
@@ -342,6 +924,88 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Sine Saloum Delta",
+        "country": "Senegal"
+      },
+      {
+        "name": "Djiffer",
+        "country": "Senegal"
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia"
+      },
+      {
+        "name": "Abuko Nature Reserve",
+        "country": "Gambia"
+      },
+      {
+        "name": "Tendaba",
+        "country": "Gambia"
+      },
+      {
+        "name": "Kiang West National Park",
+        "country": "Gambia"
+      },
+      {
+        "name": "Bao Bolong Wetland Reserve",
+        "country": "Gambia"
+      },
+      {
+        "name": "Kuntaur",
+        "country": "Gambia"
+      },
+      {
+        "name": "River Gambia National Park",
+        "country": "Gambia"
+      },
+      {
+        "name": "Janjanbureh",
+        "country": "Gambia"
+      },
+      {
+        "name": "Wassu",
+        "country": "Gambia"
+      },
+      {
+        "name": "Kaur",
+        "country": "Gambia"
+      },
+      {
+        "name": "Kunta Kinteh Island",
+        "country": "Gambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Djiffer",
+        "country": "Senegal",
+        "lat": 13.935077,
+        "lng": -16.76296
+      }
+    ]
   }
 ]

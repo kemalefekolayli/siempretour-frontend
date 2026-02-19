@@ -73,7 +73,75 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terelj National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khustai National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogno Khaan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Elsen Tasarkhai",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tovkhon Khiid",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Uurtiin Tokhoi",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Orkhon Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Orkhon Valley",
+        "country": "Mongolia",
+        "lat": 49.027513,
+        "lng": 104.044785
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -154,7 +222,93 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Genghis Khan Statue Complex",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terelj National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulgii",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Lake Tolbo",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Oigar village",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Altai Tavan Bogd National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Sagsai",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayan-Ulgii",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Ulgii",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      },
+      {
+        "name": "Lake Tolbo",
+        "country": "Mongolia",
+        "lat": 48.412777,
+        "lng": 90.29117
+      },
+      {
+        "name": "Altai Tavan Bogd National Park",
+        "country": "Mongolia",
+        "lat": 44.671467,
+        "lng": 102.17284
+      },
+      {
+        "name": "Sagsai",
+        "country": "Mongolia",
+        "lat": 48.91033,
+        "lng": 89.652084
+      },
+      {
+        "name": "Bayan-Ulgii",
+        "country": "Mongolia",
+        "lat": 48.968159,
+        "lng": 89.962103
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -225,7 +379,63 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Maikhan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tolgoi",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Dund Bayan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gunjin Temple",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gunjin",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Maikhan",
+        "country": "Mongolia",
+        "lat": 49.094944,
+        "lng": 105.55308
+      },
+      {
+        "name": "Dund Bayan",
+        "country": "Mongolia",
+        "lat": 47.251804,
+        "lng": 107.53825
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -316,7 +526,125 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khustai National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ongi Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Dalanzadgad",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khongoriin Els",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Gurvan Saikhan National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Yol Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsagaan Suvarga",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Mini Grand Canyon",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terelj National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Nalaikh",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia",
+        "lat": 44.445683,
+        "lng": 111.08373
+      },
+      {
+        "name": "Ongi Monastery",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      },
+      {
+        "name": "Dalanzadgad",
+        "country": "Mongolia",
+        "lat": 43.57273,
+        "lng": 104.42779
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      },
+      {
+        "name": "Gobi Gurvan Saikhan National Park",
+        "country": "Mongolia",
+        "lat": 49.094944,
+        "lng": 105.55308
+      },
+      {
+        "name": "Nalaikh",
+        "country": "Mongolia",
+        "lat": 47.824461,
+        "lng": 107.429146
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -397,7 +725,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaan Baatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Desert",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Dalanzadgad",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gurvansaikhan National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khongoryn Els",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ongi",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogno Khan Nature Reserve",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaan Baatar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dalanzadgad",
+        "country": "Mongolia",
+        "lat": 43.57273,
+        "lng": 104.42779
+      },
+      {
+        "name": "Gurvansaikhan National Park",
+        "country": "Mongolia",
+        "lat": 45.532047,
+        "lng": 107.04265
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      },
+      {
+        "name": "Ongi",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -468,7 +870,79 @@
       }
     ],
     "map": "",
-    "category": "Horse Riding"
+    "category": "Horse Riding",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tovkhom Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Orkhon Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Naiman Nuur",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayan Gobi",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Desert",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Orkhon Valley",
+        "country": "Mongolia",
+        "lat": 49.027513,
+        "lng": 104.044785
+      },
+      {
+        "name": "Naiman Nuur",
+        "country": "Mongolia",
+        "lat": 48.091295,
+        "lng": 114.54701
+      },
+      {
+        "name": "Bayan Gobi",
+        "country": "Mongolia",
+        "lat": 47.251804,
+        "lng": 107.53825
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -524,7 +998,69 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogno Khan Nature Reserve",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khangai Mountains",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Orkhon River Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khustain Nuruu National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Khangai Mountains",
+        "country": "Mongolia",
+        "lat": 47.85659,
+        "lng": 99.4279
+      },
+      {
+        "name": "Orkhon River Valley",
+        "country": "Mongolia",
+        "lat": 49.027513,
+        "lng": 104.044785
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -615,7 +1151,107 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaan Baatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khustain Nuruu National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Mongol Els",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogno Khan Mountain",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ikh Bogd Mountain",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Desert",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kongoriin Els",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Gurvansaikhan National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Yolyn Am",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terelj National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsonjin Boldog",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia",
+        "lat": 44.445683,
+        "lng": 111.08373
+      },
+      {
+        "name": "Ikh Bogd Mountain",
+        "country": "Mongolia",
+        "lat": 44.671467,
+        "lng": 102.17284
+      },
+      {
+        "name": "Gobi Gurvansaikhan National Park",
+        "country": "Mongolia",
+        "lat": 45.532047,
+        "lng": 107.04265
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -716,7 +1352,151 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Desert",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Gurvan Saikhan National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khongoryn Els",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdenedalai",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogno Khan Nature Reserve",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khangai Mountains",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terkhiin Tsagaan Nuur (White Lake) National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Jargalant",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Lake Khovsgol National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Selenge Gol",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Uran Togoo Volcano",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bulgan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khustain Nuruu",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Gobi Gurvan Saikhan National Park",
+        "country": "Mongolia",
+        "lat": 49.094944,
+        "lng": 105.55308
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      },
+      {
+        "name": "Erdenedalai",
+        "country": "Mongolia",
+        "lat": 46.00742,
+        "lng": 104.9457
+      },
+      {
+        "name": "Khangai Mountains",
+        "country": "Mongolia",
+        "lat": 47.85659,
+        "lng": 99.4279
+      },
+      {
+        "name": "Terkhiin Tsagaan Nuur (White Lake) National Park",
+        "country": "Mongolia",
+        "lat": 50.537987,
+        "lng": 101.51669
+      },
+      {
+        "name": "Jargalant",
+        "country": "Mongolia",
+        "lat": 47.987843,
+        "lng": 91.65613
+      },
+      {
+        "name": "Lake Khovsgol National Park",
+        "country": "Mongolia",
+        "lat": 49.628481,
+        "lng": 100.174557
+      },
+      {
+        "name": "Selenge Gol",
+        "country": "Mongolia",
+        "lat": 50.235891,
+        "lng": 106.209494
+      },
+      {
+        "name": "Bulgan",
+        "country": "Mongolia",
+        "lat": 48.81292,
+        "lng": 103.532279
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -827,7 +1607,135 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khustain Nuruu National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Mt Khogno Khan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Arvaikheer",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Orog Lake",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Mt Ikh Bogd",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayan Mountain Range",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khongoriin Els",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Gurvansaikhan National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Olgii",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Sagsai",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terelj National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Chinggis Khan Statue",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Arvaikheer",
+        "country": "Mongolia",
+        "lat": 46.26753,
+        "lng": 102.787704
+      },
+      {
+        "name": "Mt Ikh Bogd",
+        "country": "Mongolia",
+        "lat": 44.671467,
+        "lng": 102.17284
+      },
+      {
+        "name": "Bayan Mountain Range",
+        "country": "Mongolia",
+        "lat": 47.251804,
+        "lng": 107.53825
+      },
+      {
+        "name": "Gobi Gurvansaikhan National Park",
+        "country": "Mongolia",
+        "lat": 45.532047,
+        "lng": 107.04265
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      },
+      {
+        "name": "Olgii",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      },
+      {
+        "name": "Sagsai",
+        "country": "Mongolia",
+        "lat": 48.91033,
+        "lng": 89.652084
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -918,7 +1826,95 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ölgii",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Lake Dayan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khuites Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Baga Turgen Waterfall",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Turgen Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Sagsai",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Ölgii",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      },
+      {
+        "name": "Lake Dayan",
+        "country": "Mongolia",
+        "lat": 47.251804,
+        "lng": 107.53825
+      },
+      {
+        "name": "Baga Turgen Waterfall",
+        "country": "Mongolia",
+        "lat": 50.09851,
+        "lng": 91.677795
+      },
+      {
+        "name": "Turgen Valley",
+        "country": "Mongolia",
+        "lat": 50.09851,
+        "lng": 91.677795
+      },
+      {
+        "name": "Sagsai",
+        "country": "Mongolia",
+        "lat": 48.91033,
+        "lng": 89.652084
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -984,7 +1980,95 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Darkhan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Amarbayasgalant Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Uran Togoo",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Delger Murun River",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khatgal",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khovsgol Nuur National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Darkhan",
+        "country": "Mongolia",
+        "lat": 49.49332,
+        "lng": 105.93635
+      },
+      {
+        "name": "Amarbayasgalant Monastery",
+        "country": "Mongolia",
+        "lat": 49.479371,
+        "lng": 105.081826
+      },
+      {
+        "name": "Delger Murun River",
+        "country": "Mongolia",
+        "lat": 46.354145,
+        "lng": 97.36996
+      },
+      {
+        "name": "Khatgal",
+        "country": "Mongolia",
+        "lat": 49.32151,
+        "lng": 104.3835
+      },
+      {
+        "name": "Khovsgol Nuur National Park",
+        "country": "Mongolia",
+        "lat": 49.628481,
+        "lng": 100.174557
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -1085,7 +2169,117 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaan Bataar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Grasslands",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Purevbat Lama Temple",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terelj National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsenkher Hot Springs",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ongi Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Desert",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Flaming Cliffs",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Yolyn Am",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khongoryn Els",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsaagan Suvarga",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Baga Gazariin Chuluu",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaan Bataar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tsenkher Hot Springs",
+        "country": "Mongolia",
+        "lat": 47.320724,
+        "lng": 101.657673
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia",
+        "lat": 44.445683,
+        "lng": 111.08373
+      },
+      {
+        "name": "Ongi Monastery",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      },
+      {
+        "name": "Flaming Cliffs",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      },
+      {
+        "name": "Baga Gazariin Chuluu",
+        "country": "Mongolia",
+        "lat": 47.53641,
+        "lng": 100.22557
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -1186,7 +2380,137 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Amarbayasgalant",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Selenge River",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Unit",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Togoo Uul",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khovsgol Lake",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Shine Ider",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Lake Terkhiin Tsagaan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsetserleg",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsenkher Hot Springs",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogno Khan Mountains",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khustai National Park",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Amarbayasgalant",
+        "country": "Mongolia",
+        "lat": 49.479371,
+        "lng": 105.081826
+      },
+      {
+        "name": "Selenge River",
+        "country": "Mongolia",
+        "lat": 50.235891,
+        "lng": 106.209494
+      },
+      {
+        "name": "Unit",
+        "country": "Mongolia",
+        "lat": 49.142893,
+        "lng": 102.816333
+      },
+      {
+        "name": "Khovsgol Lake",
+        "country": "Mongolia",
+        "lat": 49.628481,
+        "lng": 100.174557
+      },
+      {
+        "name": "Shine Ider",
+        "country": "Mongolia",
+        "lat": 48.94907,
+        "lng": 99.5373
+      },
+      {
+        "name": "Tsetserleg",
+        "country": "Mongolia",
+        "lat": 47.480152,
+        "lng": 101.451904
+      },
+      {
+        "name": "Tsenkher Hot Springs",
+        "country": "Mongolia",
+        "lat": 47.320724,
+        "lng": 101.657673
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia",
+        "lat": 44.445683,
+        "lng": 111.08373
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -1252,7 +2576,69 @@
       }
     ],
     "map": "",
-    "category": "Horse Riding"
+    "category": "Horse Riding",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Altai village",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Altai Tavan Bogd National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Pass of Death",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Shar Gol Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulgii",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Altai village",
+        "country": "Mongolia",
+        "lat": 44.617905,
+        "lng": 94.91962
+      },
+      {
+        "name": "Altai Tavan Bogd National Park",
+        "country": "Mongolia",
+        "lat": 44.671467,
+        "lng": 102.17284
+      },
+      {
+        "name": "Ulgii",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -1303,7 +2689,69 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdenedalai",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogno Khan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gorkhi Terelj National Park",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Erdenedalai",
+        "country": "Mongolia",
+        "lat": 46.00742,
+        "lng": 104.9457
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -1399,7 +2847,105 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaan Bataar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terelj National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Baga Gazriin Chuluu",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsagaan Suvarga",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Yol Gorge",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khongor Sand Dunes",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ongi Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Arvaikheer",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Hustai National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaan Bataar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Baga Gazriin Chuluu",
+        "country": "Mongolia",
+        "lat": 47.53641,
+        "lng": 100.22557
+      },
+      {
+        "name": "Khongor Sand Dunes",
+        "country": "Mongolia",
+        "lat": 49.307446,
+        "lng": 105.93338
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      },
+      {
+        "name": "Ongi Monastery",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      },
+      {
+        "name": "Arvaikheer",
+        "country": "Mongolia",
+        "lat": 46.26753,
+        "lng": 102.787704
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -1470,7 +3016,99 @@
       }
     ],
     "map": "",
-    "category": "Horse Riding"
+    "category": "Horse Riding",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erden Zuu Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tovkhom Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Orkhon Waterfall",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Orkhon Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khuisiin Naiman Nuur",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayan Gobi",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Desert",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Erden Zuu Monastery",
+        "country": "Mongolia",
+        "lat": 44.445683,
+        "lng": 111.08373
+      },
+      {
+        "name": "Orkhon Waterfall",
+        "country": "Mongolia",
+        "lat": 49.027513,
+        "lng": 104.044785
+      },
+      {
+        "name": "Orkhon Valley",
+        "country": "Mongolia",
+        "lat": 49.027513,
+        "lng": 104.044785
+      },
+      {
+        "name": "Khuisiin Naiman Nuur",
+        "country": "Mongolia",
+        "lat": 48.091295,
+        "lng": 114.54701
+      },
+      {
+        "name": "Bayan Gobi",
+        "country": "Mongolia",
+        "lat": 47.251804,
+        "lng": 107.53825
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -1566,7 +3204,129 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Amarbayasgalant Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdenet",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bulgan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Lake Khovsgol",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Shine-Ider",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terkhiin Tsagaan Lake",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsenkher Hot Spring",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tuvkhon Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Orkhon Waterfall",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Amarbayasgalant Monastery",
+        "country": "Mongolia",
+        "lat": 49.479371,
+        "lng": 105.081826
+      },
+      {
+        "name": "Erdenet",
+        "country": "Mongolia",
+        "lat": 47.717564,
+        "lng": 107.80073
+      },
+      {
+        "name": "Bulgan",
+        "country": "Mongolia",
+        "lat": 48.81292,
+        "lng": 103.532279
+      },
+      {
+        "name": "Lake Khovsgol",
+        "country": "Mongolia",
+        "lat": 49.628481,
+        "lng": 100.174557
+      },
+      {
+        "name": "Shine-Ider",
+        "country": "Mongolia",
+        "lat": 48.94907,
+        "lng": 99.5373
+      },
+      {
+        "name": "Tsenkher Hot Spring",
+        "country": "Mongolia",
+        "lat": 47.320724,
+        "lng": 101.657673
+      },
+      {
+        "name": "Orkhon Waterfall",
+        "country": "Mongolia",
+        "lat": 49.027513,
+        "lng": 104.044785
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia",
+        "lat": 44.445683,
+        "lng": 111.08373
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -1667,7 +3427,133 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Mandalgobi",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsagaan Suvarga",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Dalanzadgad",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Yolyn Am",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Moltsog Els",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khongoryn Els",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Nemegt",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khermen Tsav",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayankhongor",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Orkhon Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogno Khaan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khustai National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Dalanzadgad",
+        "country": "Mongolia",
+        "lat": 43.57273,
+        "lng": 104.42779
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      },
+      {
+        "name": "Khermen Tsav",
+        "country": "Mongolia",
+        "lat": 48.925178,
+        "lng": 115.334773
+      },
+      {
+        "name": "Bayankhongor",
+        "country": "Mongolia",
+        "lat": 46.194424,
+        "lng": 100.71884
+      },
+      {
+        "name": "Orkhon Valley",
+        "country": "Mongolia",
+        "lat": 49.027513,
+        "lng": 104.044785
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -1733,7 +3619,89 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Amarbayasgalant Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bulgan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogno Khan Nature Reserve",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khangai Mountains",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Suman River",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Orkhon River Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Amarbayasgalant Monastery",
+        "country": "Mongolia",
+        "lat": 49.479371,
+        "lng": 105.081826
+      },
+      {
+        "name": "Bulgan",
+        "country": "Mongolia",
+        "lat": 48.81292,
+        "lng": 103.532279
+      },
+      {
+        "name": "Khangai Mountains",
+        "country": "Mongolia",
+        "lat": 47.85659,
+        "lng": 99.4279
+      },
+      {
+        "name": "Orkhon River Valley",
+        "country": "Mongolia",
+        "lat": 49.027513,
+        "lng": 104.044785
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -1809,7 +3777,119 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdenet",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Murun",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsagaannuur",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khovsgol Nuur National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khatgal",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khovsgol Lake",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khovsgol Ice Festival",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khutag Undur",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Amarbayasgalant Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Erdenet",
+        "country": "Mongolia",
+        "lat": 47.717564,
+        "lng": 107.80073
+      },
+      {
+        "name": "Tsagaannuur",
+        "country": "Mongolia",
+        "lat": 50.115307,
+        "lng": 105.44755
+      },
+      {
+        "name": "Khovsgol Nuur National Park",
+        "country": "Mongolia",
+        "lat": 49.628481,
+        "lng": 100.174557
+      },
+      {
+        "name": "Khatgal",
+        "country": "Mongolia",
+        "lat": 49.32151,
+        "lng": 104.3835
+      },
+      {
+        "name": "Khovsgol Lake",
+        "country": "Mongolia",
+        "lat": 49.628481,
+        "lng": 100.174557
+      },
+      {
+        "name": "Khovsgol Ice Festival",
+        "country": "Mongolia",
+        "lat": 49.628481,
+        "lng": 100.174557
+      },
+      {
+        "name": "Amarbayasgalant Monastery",
+        "country": "Mongolia",
+        "lat": 49.479371,
+        "lng": 105.081826
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -1905,7 +3985,129 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Hustai National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogno Khan Mountain",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tovkhon Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Orkhon Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ongi Temple",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Desert",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khongor Sand Dunes",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Yol Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Dalanzadgad",
+        "country": "Mongolia"
+      },
+      {
+        "name": "White Stupa",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Baga Gazriin Chuluu",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gandan Monastery",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Orkhon Valley",
+        "country": "Mongolia",
+        "lat": 49.027513,
+        "lng": 104.044785
+      },
+      {
+        "name": "Ongi Temple",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      },
+      {
+        "name": "Khongor Sand Dunes",
+        "country": "Mongolia",
+        "lat": 49.307446,
+        "lng": 105.93338
+      },
+      {
+        "name": "Dalanzadgad",
+        "country": "Mongolia",
+        "lat": 43.57273,
+        "lng": 104.42779
+      },
+      {
+        "name": "Baga Gazriin Chuluu",
+        "country": "Mongolia",
+        "lat": 47.53641,
+        "lng": 100.22557
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -1976,7 +4178,77 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Murun",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Lake Khovsgol National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Darkhad Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogrog River Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Taiga Mountains",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaan Uul Village",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Murun Town",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lake Khovsgol National Park",
+        "country": "Mongolia",
+        "lat": 49.628481,
+        "lng": 100.174557
+      },
+      {
+        "name": "Darkhad Valley",
+        "country": "Mongolia",
+        "lat": 49.49332,
+        "lng": 105.93635
+      },
+      {
+        "name": "Ulaan Uul Village",
+        "country": "Mongolia",
+        "lat": 50.67766,
+        "lng": 99.2276
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -2032,7 +4304,73 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khustain Nuruu National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogno Khan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsenkher",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Orkhon River Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gorkhi Terelj National Park",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Tsenkher",
+        "country": "Mongolia",
+        "lat": 47.44392,
+        "lng": 101.75605
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Orkhon River Valley",
+        "country": "Mongolia",
+        "lat": 49.027513,
+        "lng": 104.044785
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -2103,7 +4441,79 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaan Baatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulgii",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Altai",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaankhuus",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tavan Bogd",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulgii",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaan Baatar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulgii",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      },
+      {
+        "name": "Altai",
+        "country": "Mongolia",
+        "lat": 44.617905,
+        "lng": 94.91962
+      },
+      {
+        "name": "Ulaankhuus",
+        "country": "Mongolia",
+        "lat": 49.03865,
+        "lng": 89.43958
+      },
+      {
+        "name": "Tavan Bogd",
+        "country": "Mongolia",
+        "lat": 44.671467,
+        "lng": 102.17284
+      },
+      {
+        "name": "Ulgii",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -2204,7 +4614,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khustai National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ongi Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Dalanzadgad",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khongoriin Els",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Gurvan Saikhan National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsagaan Suvarga",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Mini Grand Canyon",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terelj National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Nalaikh",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia",
+        "lat": 44.445683,
+        "lng": 111.08373
+      },
+      {
+        "name": "Ongi Monastery",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      },
+      {
+        "name": "Dalanzadgad",
+        "country": "Mongolia",
+        "lat": 43.57273,
+        "lng": 104.42779
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      },
+      {
+        "name": "Gobi Gurvan Saikhan National Park",
+        "country": "Mongolia",
+        "lat": 49.094944,
+        "lng": 105.55308
+      },
+      {
+        "name": "Nalaikh",
+        "country": "Mongolia",
+        "lat": 47.824461,
+        "lng": 107.429146
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -2285,7 +4809,137 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Desert",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Baga Gazriin Chuluu",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Dalanzadgad",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Museum of Nature and History",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsagaan Suvraga",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Yolyn Am",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Gurvan Saikhan National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khongoryn Els",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdenedalai",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khogno Khan Nature Reserve",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Elsen Tasarkhai",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Orkhon River Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Naadam",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khui Doloon Khudag",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Baga Gazriin Chuluu",
+        "country": "Mongolia",
+        "lat": 47.53641,
+        "lng": 100.22557
+      },
+      {
+        "name": "Dalanzadgad",
+        "country": "Mongolia",
+        "lat": 43.57273,
+        "lng": 104.42779
+      },
+      {
+        "name": "Gobi Gurvan Saikhan National Park",
+        "country": "Mongolia",
+        "lat": 49.094944,
+        "lng": 105.55308
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      },
+      {
+        "name": "Erdenedalai",
+        "country": "Mongolia",
+        "lat": 46.00742,
+        "lng": 104.9457
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Orkhon River Valley",
+        "country": "Mongolia",
+        "lat": 49.027513,
+        "lng": 104.044785
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -2381,7 +5035,99 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaan Baatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gandan Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Arvaikheer",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Desert",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khatan Suudal Steppe",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kongoriin Els sand dunes",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Gurvansaikhan National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terelj National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tsonjin Bolog",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Naadam Festival",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Arvaikheer",
+        "country": "Mongolia",
+        "lat": 46.26753,
+        "lng": 102.787704
+      },
+      {
+        "name": "Kongoriin Els sand dunes",
+        "country": "Mongolia",
+        "lat": 49.246944,
+        "lng": 105.37532
+      },
+      {
+        "name": "Gobi Gurvansaikhan National Park",
+        "country": "Mongolia",
+        "lat": 45.532047,
+        "lng": 107.04265
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -2442,7 +5188,67 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khui Doloon Khudag Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayangobi",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khustai National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Zaisan Memorial",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gandaan Khiid",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Bayangobi",
+        "country": "Mongolia",
+        "lat": 44.73736,
+        "lng": 100.39502
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -2553,7 +5359,139 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terelj National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Genghis Khan Statue",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gobi Gurvansaikhan National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Yolyn Am",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khongoryn Els - Singing Dunes",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Bayan Mountain Range",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Arvaikheer",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Mongol Els",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khustain Nuruu National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Olgii",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Sagsai",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Annual Kazakh Eagle Festival",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Gobi Gurvansaikhan National Park",
+        "country": "Mongolia",
+        "lat": 45.532047,
+        "lng": 107.04265
+      },
+      {
+        "name": "Bayanzag",
+        "country": "Mongolia",
+        "lat": 44.144477,
+        "lng": 103.723053
+      },
+      {
+        "name": "Bayan Mountain Range",
+        "country": "Mongolia",
+        "lat": 47.251804,
+        "lng": 107.53825
+      },
+      {
+        "name": "Arvaikheer",
+        "country": "Mongolia",
+        "lat": 46.26753,
+        "lng": 102.787704
+      },
+      {
+        "name": "Kharkhorin",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia",
+        "lat": 44.445683,
+        "lng": 111.08373
+      },
+      {
+        "name": "Olgii",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      },
+      {
+        "name": "Sagsai",
+        "country": "Mongolia",
+        "lat": 48.91033,
+        "lng": 89.652084
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -2609,7 +5547,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Altai Tavan Bogd National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulgii",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Altai",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Altai Tavan Bogd National Park",
+        "country": "Mongolia",
+        "lat": 44.671467,
+        "lng": 102.17284
+      },
+      {
+        "name": "Ulgii",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      },
+      {
+        "name": "Altai",
+        "country": "Mongolia",
+        "lat": 44.617905,
+        "lng": 94.91962
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -2725,7 +5717,109 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khovd",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Zereg",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Olgii",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Dayan Lake",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tavan Bogd National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "White River Valley",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Shiveet Uul Mountain",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khovd",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Khovd",
+        "country": "Mongolia",
+        "lat": 48.000635,
+        "lng": 91.645242
+      },
+      {
+        "name": "Zereg",
+        "country": "Mongolia",
+        "lat": 47.110176,
+        "lng": 92.8453
+      },
+      {
+        "name": "Olgii",
+        "country": "Mongolia",
+        "lat": 48.96798,
+        "lng": 89.96887
+      },
+      {
+        "name": "Dayan Lake",
+        "country": "Mongolia",
+        "lat": 47.251804,
+        "lng": 107.53825
+      },
+      {
+        "name": "Tavan Bogd National Park",
+        "country": "Mongolia",
+        "lat": 44.671467,
+        "lng": 102.17284
+      },
+      {
+        "name": "Khovd",
+        "country": "Mongolia",
+        "lat": 48.000635,
+        "lng": 91.645242
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      }
+    ]
   },
   {
     "destination": "Mongolia",
@@ -2796,6 +5890,104 @@
       }
     ],
     "map": "",
-    "category": "Horse Riding"
+    "category": "Horse Riding",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Erdene Zuu monastery",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Terekhiin Tsagaan Nuur",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Zavkhan",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Tarvagatai Uul National Park",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Khar Nuur",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Gandan Nuur",
+        "country": "Mongolia"
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Karakorum",
+        "country": "Mongolia",
+        "lat": 47.189884,
+        "lng": 102.82083
+      },
+      {
+        "name": "Erdene Zuu monastery",
+        "country": "Mongolia",
+        "lat": 44.445683,
+        "lng": 111.08373
+      },
+      {
+        "name": "Terekhiin Tsagaan Nuur",
+        "country": "Mongolia",
+        "lat": 50.537987,
+        "lng": 101.51669
+      },
+      {
+        "name": "Zavkhan",
+        "country": "Mongolia",
+        "lat": 47.741555,
+        "lng": 96.847481
+      },
+      {
+        "name": "Khar Nuur",
+        "country": "Mongolia",
+        "lat": 48.091295,
+        "lng": 114.54701
+      },
+      {
+        "name": "Gandan Nuur",
+        "country": "Mongolia",
+        "lat": 48.091295,
+        "lng": 114.54701
+      },
+      {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      }
+    ]
   }
 ]

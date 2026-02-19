@@ -63,7 +63,71 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ponta Delgada",
+        "country": "Portugal"
+      },
+      {
+        "name": "Sao Miguel",
+        "country": "Portugal"
+      },
+      {
+        "name": "Furnas",
+        "country": "Portugal"
+      },
+      {
+        "name": "Sete Cidades",
+        "country": "Portugal"
+      },
+      {
+        "name": "Lagoa Da Fogo",
+        "country": "Portugal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ponta Delgada",
+        "country": "Portugal",
+        "lat": 37.74021,
+        "lng": -25.668623
+      },
+      {
+        "name": "Sao Miguel",
+        "country": "Portugal",
+        "lat": 37.8,
+        "lng": -25.5
+      },
+      {
+        "name": "Furnas",
+        "country": "Portugal",
+        "lat": 37.77304,
+        "lng": -25.312485
+      },
+      {
+        "name": "Sete Cidades",
+        "country": "Portugal",
+        "lat": 37.86307,
+        "lng": -25.796768
+      },
+      {
+        "name": "Lagoa Da Fogo",
+        "country": "Portugal",
+        "lat": 37.134624,
+        "lng": -8.451255
+      }
+    ]
   },
   {
     "destination": "Azores",
@@ -129,6 +193,70 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sao Miguel Island",
+        "country": "Portugal"
+      },
+      {
+        "name": "Ponta Delgada",
+        "country": "Portugal"
+      },
+      {
+        "name": "Sete Cidades",
+        "country": "Portugal"
+      },
+      {
+        "name": "Lagoa do Fogo",
+        "country": "Portugal"
+      },
+      {
+        "name": "Furnas",
+        "country": "Portugal"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sao Miguel Island",
+        "country": "Portugal",
+        "lat": 37.8,
+        "lng": -25.5
+      },
+      {
+        "name": "Ponta Delgada",
+        "country": "Portugal",
+        "lat": 37.74021,
+        "lng": -25.668623
+      },
+      {
+        "name": "Sete Cidades",
+        "country": "Portugal",
+        "lat": 37.86307,
+        "lng": -25.796768
+      },
+      {
+        "name": "Lagoa do Fogo",
+        "country": "Portugal",
+        "lat": 37.134624,
+        "lng": -8.451255
+      },
+      {
+        "name": "Furnas",
+        "country": "Portugal",
+        "lat": 37.77304,
+        "lng": -25.312485
+      }
+    ]
   }
 ]

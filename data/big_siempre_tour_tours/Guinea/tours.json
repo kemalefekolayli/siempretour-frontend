@@ -103,7 +103,153 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Conakry",
+        "country": "Guinea"
+      },
+      {
+        "name": "Kindia",
+        "country": "Guinea"
+      },
+      {
+        "name": "Dalaba",
+        "country": "Guinea"
+      },
+      {
+        "name": "Fouta Djalon",
+        "country": "Guinea"
+      },
+      {
+        "name": "Mamou",
+        "country": "Guinea"
+      },
+      {
+        "name": "Faranah",
+        "country": "Guinea"
+      },
+      {
+        "name": "Kissidougou",
+        "country": "Guinea"
+      },
+      {
+        "name": "Macenta",
+        "country": "Guinea"
+      },
+      {
+        "name": "Nzérékoré",
+        "country": "Guinea"
+      },
+      {
+        "name": "Nimba Mountains",
+        "country": "Liberia"
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia"
+      },
+      {
+        "name": "Bo",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Banana Island",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Lungi",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Conakry",
+        "country": "Guinea",
+        "lat": 9.51706,
+        "lng": -13.699843
+      },
+      {
+        "name": "Kindia",
+        "country": "Guinea",
+        "lat": 10.049248,
+        "lng": -12.8578
+      },
+      {
+        "name": "Dalaba",
+        "country": "Guinea",
+        "lat": 10.691185,
+        "lng": -12.251624
+      },
+      {
+        "name": "Mamou",
+        "country": "Guinea",
+        "lat": 10.661927,
+        "lng": -12.113954
+      },
+      {
+        "name": "Faranah",
+        "country": "Guinea",
+        "lat": 10.042493,
+        "lng": -10.740824
+      },
+      {
+        "name": "Kissidougou",
+        "country": "Guinea",
+        "lat": 9.192389,
+        "lng": -10.098269
+      },
+      {
+        "name": "Macenta",
+        "country": "Guinea",
+        "lat": 8.545846,
+        "lng": -9.46792
+      },
+      {
+        "name": "Nzérékoré",
+        "country": "Guinea",
+        "lat": 7.758995,
+        "lng": -8.816
+      },
+      {
+        "name": "Nimba Mountains",
+        "country": "Liberia",
+        "lat": 7.36127,
+        "lng": -8.71385
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia",
+        "lat": 6.297724,
+        "lng": -10.779029
+      },
+      {
+        "name": "Bo",
+        "country": "Sierra Leone",
+        "lat": 7.960019,
+        "lng": -11.733027
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "lat": 8.462246,
+        "lng": -13.178415
+      }
+    ]
   },
   {
     "destination": "Guinea",
@@ -189,7 +335,133 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Conakry",
+        "country": "Guinea"
+      },
+      {
+        "name": "Kindia",
+        "country": "Guinea"
+      },
+      {
+        "name": "Dalaba",
+        "country": "Guinea"
+      },
+      {
+        "name": "Fouta Djalon",
+        "country": "Guinea"
+      },
+      {
+        "name": "Faranah",
+        "country": "Guinea"
+      },
+      {
+        "name": "Kissidougou",
+        "country": "Guinea"
+      },
+      {
+        "name": "Macenta",
+        "country": "Guinea"
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia"
+      },
+      {
+        "name": "Bo",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Banana Islands",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Tacugama",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Lungi",
+        "country": "Sierra Leone"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Conakry",
+        "country": "Guinea",
+        "lat": 9.51706,
+        "lng": -13.699843
+      },
+      {
+        "name": "Kindia",
+        "country": "Guinea",
+        "lat": 10.049248,
+        "lng": -12.8578
+      },
+      {
+        "name": "Dalaba",
+        "country": "Guinea",
+        "lat": 10.691185,
+        "lng": -12.251624
+      },
+      {
+        "name": "Faranah",
+        "country": "Guinea",
+        "lat": 10.042493,
+        "lng": -10.740824
+      },
+      {
+        "name": "Kissidougou",
+        "country": "Guinea",
+        "lat": 9.192389,
+        "lng": -10.098269
+      },
+      {
+        "name": "Macenta",
+        "country": "Guinea",
+        "lat": 8.545846,
+        "lng": -9.46792
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia",
+        "lat": 6.297724,
+        "lng": -10.779029
+      },
+      {
+        "name": "Bo",
+        "country": "Sierra Leone",
+        "lat": 7.960019,
+        "lng": -11.733027
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "lat": 8.462246,
+        "lng": -13.178415
+      },
+      {
+        "name": "Lungi",
+        "country": "Sierra Leone",
+        "lat": 7.90549,
+        "lng": -11.544008
+      }
+    ]
   },
   {
     "destination": "Guinea",
@@ -255,7 +527,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Orango National Park",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Village of Eticoga",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Lake Anor",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Sacred village of Ambuduco",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Joao Vieira",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Poilao",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Ilha sul de Canhabaque",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Inhoda Village",
+        "country": "Guinea-Bissau"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Orango National Park",
+        "country": "Guinea-Bissau",
+        "lat": 11.249417,
+        "lng": -16.221167
+      },
+      {
+        "name": "Village of Eticoga",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Lake Anor",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Sacred village of Ambuduco",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Joao Vieira",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Poilao",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Ilha sul de Canhabaque",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Inhoda Village",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      }
+    ]
   },
   {
     "destination": "Guinea",
@@ -351,7 +727,177 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Lampoul Desert",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Djoudj National Bird Sanctuary",
+        "country": "Senegal"
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal"
+      },
+      {
+        "name": "Lac Rose",
+        "country": "Senegal"
+      },
+      {
+        "name": "Gore Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Casamance River region",
+        "country": "Senegal"
+      },
+      {
+        "name": "Diola adobe forts",
+        "country": "Senegal"
+      },
+      {
+        "name": "Manjaco villages",
+        "country": "Senegal"
+      },
+      {
+        "name": "Bijagos Archipelago",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Orango National Park",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Village of Eticoga",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Lake Anor",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Ambuduco",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Joao Vieira",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Poilao",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Lampoul Desert",
+        "country": "Senegal",
+        "lat": 15.442796,
+        "lng": -16.728723
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Djoudj National Bird Sanctuary",
+        "country": "Senegal",
+        "lat": 13.435366,
+        "lng": -13.42683
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal",
+        "lat": 13.821724,
+        "lng": -13.501252
+      },
+      {
+        "name": "Diola adobe forts",
+        "country": "Senegal",
+        "lat": 15.244284,
+        "lng": -12.898603
+      },
+      {
+        "name": "Bijagos Archipelago",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Orango National Park",
+        "country": "Guinea-Bissau",
+        "lat": 11.249417,
+        "lng": -16.221167
+      },
+      {
+        "name": "Village of Eticoga",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Lake Anor",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Ambuduco",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Joao Vieira",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Poilao",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      }
+    ]
   },
   {
     "destination": "Guinea",
@@ -432,7 +978,101 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Goree Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Lac Rose",
+        "country": "Senegal"
+      },
+      {
+        "name": "St Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Djoudj National Park",
+        "country": "Senegal"
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal"
+      },
+      {
+        "name": "Sine Ngayene",
+        "country": "Senegal"
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia"
+      },
+      {
+        "name": "Casamance",
+        "country": "Senegal"
+      },
+      {
+        "name": "Ziguinchor",
+        "country": "Senegal"
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "St Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Touba",
+        "country": "Senegal",
+        "lat": 13.821724,
+        "lng": -13.501252
+      },
+      {
+        "name": "Sine Ngayene",
+        "country": "Senegal",
+        "lat": 13.701447,
+        "lng": -15.456652
+      },
+      {
+        "name": "Ziguinchor",
+        "country": "Senegal",
+        "lat": 12.563493,
+        "lng": -16.272461
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      }
+    ]
   },
   {
     "destination": "Guinea",
@@ -548,6 +1188,188 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco"
+      },
+      {
+        "name": "Ait Ben Haddou",
+        "country": "Morocco"
+      },
+      {
+        "name": "Draa Valley",
+        "country": "Morocco"
+      },
+      {
+        "name": "Tarfaya",
+        "country": "Morocco"
+      },
+      {
+        "name": "Dakhla",
+        "country": "Morocco"
+      },
+      {
+        "name": "Nouadhibou",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Chinguetti",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Ouadane",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Terjit",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania"
+      },
+      {
+        "name": "Djoudj National Park",
+        "country": "Senegal"
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal"
+      },
+      {
+        "name": "Lac Rose",
+        "country": "Senegal"
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal"
+      },
+      {
+        "name": "Goree Island",
+        "country": "Senegal"
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal"
+      },
+      {
+        "name": "Sine Ngayene",
+        "country": "Senegal"
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia"
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Bijagos Islands",
+        "country": "Guinea-Bissau"
+      },
+      {
+        "name": "Bolama",
+        "country": "Guinea-Bissau"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco",
+        "lat": 31.626928,
+        "lng": -7.988117
+      },
+      {
+        "name": "Tarfaya",
+        "country": "Morocco",
+        "lat": 27.938314,
+        "lng": -12.923756
+      },
+      {
+        "name": "Nouadhibou",
+        "country": "Mauritania",
+        "lat": 20.912705,
+        "lng": -17.050309
+      },
+      {
+        "name": "Chinguetti",
+        "country": "Mauritania",
+        "lat": 20.440359,
+        "lng": -12.262204
+      },
+      {
+        "name": "Ouadane",
+        "country": "Mauritania",
+        "lat": 20.930898,
+        "lng": -11.620795
+      },
+      {
+        "name": "Terjit",
+        "country": "Mauritania",
+        "lat": 20.258163,
+        "lng": -13.096455
+      },
+      {
+        "name": "Nouakchott",
+        "country": "Mauritania",
+        "lat": 18.079238,
+        "lng": -15.978007
+      },
+      {
+        "name": "Saint Louis",
+        "country": "Senegal",
+        "lat": 16.028045,
+        "lng": -16.504869
+      },
+      {
+        "name": "Dakar",
+        "country": "Senegal",
+        "lat": 14.712019,
+        "lng": -17.457171
+      },
+      {
+        "name": "Kaolack",
+        "country": "Senegal",
+        "lat": 14.138815,
+        "lng": -16.076391
+      },
+      {
+        "name": "Sine Ngayene",
+        "country": "Senegal",
+        "lat": 13.701447,
+        "lng": -15.456652
+      },
+      {
+        "name": "Bissau",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Bijagos Islands",
+        "country": "Guinea-Bissau",
+        "lat": 11.861324,
+        "lng": -15.583055
+      },
+      {
+        "name": "Bolama",
+        "country": "Guinea-Bissau",
+        "lat": 11.57763,
+        "lng": -15.475261
+      }
+    ]
   }
 ]

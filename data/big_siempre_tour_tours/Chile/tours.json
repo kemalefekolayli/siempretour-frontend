@@ -53,7 +53,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Calama",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Valle de la Luna",
+        "country": "Chile"
+      },
+      {
+        "name": "Altiplanic Lagoons",
+        "country": "Chile"
+      },
+      {
+        "name": "El Tatio",
+        "country": "Chile"
+      },
+      {
+        "name": "Salar de Atacama",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Calama",
+        "country": "Chile",
+        "lat": -22.463293,
+        "lng": -68.92554
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Valle de la Luna",
+        "country": "Chile",
+        "lat": -30.605057,
+        "lng": -71.20277
+      },
+      {
+        "name": "Altiplanic Lagoons",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "El Tatio",
+        "country": "Chile",
+        "lat": -36.634323,
+        "lng": -72.953865
+      },
+      {
+        "name": "Salar de Atacama",
+        "country": "Chile",
+        "lat": -27.371176,
+        "lng": -70.32956
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -109,7 +183,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile",
+        "lat": -51.259224,
+        "lng": -72.34537
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -155,7 +303,71 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile",
+        "lat": -51.259224,
+        "lng": -72.34537
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -201,7 +413,111 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Puerto Montt",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Lake Llanquihue",
+        "country": "Chile"
+      },
+      {
+        "name": "Ensenada",
+        "country": "Chile"
+      },
+      {
+        "name": "Ralun",
+        "country": "Chile"
+      },
+      {
+        "name": "Cochamo",
+        "country": "Chile"
+      },
+      {
+        "name": "Lake Tagua Tagua",
+        "country": "Chile"
+      },
+      {
+        "name": "Tagua Tagua Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Punta Canelo",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Puerto Montt",
+        "country": "Chile",
+        "lat": -41.47261,
+        "lng": -72.9398
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Lake Llanquihue",
+        "country": "Chile",
+        "lat": -41.25709,
+        "lng": -73.00506
+      },
+      {
+        "name": "Ensenada",
+        "country": "Chile",
+        "lat": -41.207893,
+        "lng": -72.53817
+      },
+      {
+        "name": "Ralun",
+        "country": "Chile",
+        "lat": -41.388596,
+        "lng": -72.32932
+      },
+      {
+        "name": "Cochamo",
+        "country": "Chile",
+        "lat": -41.665443,
+        "lng": -72.297585
+      },
+      {
+        "name": "Lake Tagua Tagua",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Tagua Tagua Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Punta Canelo",
+        "country": "Chile",
+        "lat": -31.398851,
+        "lng": -71.456665
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -292,7 +608,121 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Salt Flats",
+        "country": "Chile"
+      },
+      {
+        "name": "El Tatio geysers",
+        "country": "Chile"
+      },
+      {
+        "name": "Lake District",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Magdalena Island",
+        "country": "Chile"
+      },
+      {
+        "name": "Balmaceda Glacier",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Salt Flats",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "El Tatio geysers",
+        "country": "Chile",
+        "lat": -36.634323,
+        "lng": -72.953865
+      },
+      {
+        "name": "Lake District",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Magdalena Island",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Balmaceda Glacier",
+        "country": "Chile",
+        "lat": -45.908886,
+        "lng": -71.69901
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -378,7 +808,131 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Viña del Mar",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      },
+      {
+        "name": "Vicente Pérez Rosales National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Petrohué Waterfalls",
+        "country": "Chile"
+      },
+      {
+        "name": "Todos Los Santos Lake",
+        "country": "Chile"
+      },
+      {
+        "name": "Villa Peulla",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Montt",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Viña del Mar",
+        "country": "Chile",
+        "lat": -33.02545,
+        "lng": -71.55722
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Vicente Pérez Rosales National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Petrohué Waterfalls",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Todos Los Santos Lake",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Villa Peulla",
+        "country": "Chile",
+        "lat": -41.087257,
+        "lng": -72.021095
+      },
+      {
+        "name": "Puerto Montt",
+        "country": "Chile",
+        "lat": -41.47261,
+        "lng": -72.9398
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -474,7 +1028,131 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Valle de la Luna",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      },
+      {
+        "name": "Licancabur Volcano",
+        "country": "Chile"
+      },
+      {
+        "name": "Andes mountain range",
+        "country": "Chile"
+      },
+      {
+        "name": "Santiago de Chile",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile"
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Chile"
+      },
+      {
+        "name": "Vicente Pérez Rosales National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Valle de la Luna",
+        "country": "Chile",
+        "lat": -30.605057,
+        "lng": -71.20277
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Licancabur Volcano",
+        "country": "Chile",
+        "lat": -41.07986,
+        "lng": -72.638016
+      },
+      {
+        "name": "Andes mountain range",
+        "country": "Chile",
+        "lat": -38.03116,
+        "lng": -72.07291
+      },
+      {
+        "name": "Santiago de Chile",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Chile",
+        "lat": -20.966946,
+        "lng": -69.67943
+      },
+      {
+        "name": "Vicente Pérez Rosales National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -585,7 +1263,191 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      },
+      {
+        "name": "Castro",
+        "country": "Chile"
+      },
+      {
+        "name": "Chiloé Island",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Montt",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Huilo Huilo Biological Reserve",
+        "country": "Chile"
+      },
+      {
+        "name": "Pucon",
+        "country": "Chile"
+      },
+      {
+        "name": "National Park of Huerquehue",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      },
+      {
+        "name": "Valley of the Moon",
+        "country": "Chile"
+      },
+      {
+        "name": "Tatio Geysers",
+        "country": "Chile"
+      },
+      {
+        "name": "Los Flamencos National Reserve",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      },
+      {
+        "name": "Castro",
+        "country": "Chile",
+        "lat": -42.482883,
+        "lng": -73.763504
+      },
+      {
+        "name": "Chiloé Island",
+        "country": "Chile",
+        "lat": -42.676667,
+        "lng": -73.993333
+      },
+      {
+        "name": "Puerto Montt",
+        "country": "Chile",
+        "lat": -41.47261,
+        "lng": -72.9398
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Huilo Huilo Biological Reserve",
+        "country": "Chile",
+        "lat": -30.943626,
+        "lng": -71.187546
+      },
+      {
+        "name": "Pucon",
+        "country": "Chile",
+        "lat": -39.276203,
+        "lng": -71.97473
+      },
+      {
+        "name": "National Park of Huerquehue",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Valley of the Moon",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Tatio Geysers",
+        "country": "Chile",
+        "lat": -18.480442,
+        "lng": -70.3193
+      },
+      {
+        "name": "Los Flamencos National Reserve",
+        "country": "Chile",
+        "lat": -26.57674,
+        "lng": -70.68382
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -651,7 +1513,111 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      },
+      {
+        "name": "Colchagua Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "Pucon",
+        "country": "Chile"
+      },
+      {
+        "name": "Huilo Huilo",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Chiloe Island",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Casablanca",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Colchagua Valley",
+        "country": "Chile",
+        "lat": -34.548615,
+        "lng": -71.40168
+      },
+      {
+        "name": "Pucon",
+        "country": "Chile",
+        "lat": -39.276203,
+        "lng": -71.97473
+      },
+      {
+        "name": "Huilo Huilo",
+        "country": "Chile",
+        "lat": -30.943626,
+        "lng": -71.187546
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Chiloe Island",
+        "country": "Chile",
+        "lat": -42.676667,
+        "lng": -73.993333
+      },
+      {
+        "name": "Atacama",
+        "country": "Chile",
+        "lat": -27.366468,
+        "lng": -70.332275
+      },
+      {
+        "name": "Casablanca",
+        "country": "Chile",
+        "lat": -33.320717,
+        "lng": -71.4107
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -702,7 +1668,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Winelands",
+        "country": "Chile"
+      },
+      {
+        "name": "Pucon",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Winelands",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Pucon",
+        "country": "Chile",
+        "lat": -39.276203,
+        "lng": -71.97473
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -748,7 +1788,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile"
+      },
+      {
+        "name": "Casablanca Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "Portillo Ski Center",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Casablanca Valley",
+        "country": "Chile",
+        "lat": -33.320717,
+        "lng": -71.4107
+      },
+      {
+        "name": "Portillo Ski Center",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -799,7 +1893,101 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      },
+      {
+        "name": "Caleta Juarez",
+        "country": "Chile"
+      },
+      {
+        "name": "Guillard Fjord",
+        "country": "Chile"
+      },
+      {
+        "name": "Amalia Glacier",
+        "country": "Chile"
+      },
+      {
+        "name": "El Brujo Glacier",
+        "country": "Chile"
+      },
+      {
+        "name": "Calvo Fjord",
+        "country": "Chile"
+      },
+      {
+        "name": "Fjord of the Mountains",
+        "country": "Chile"
+      },
+      {
+        "name": "Bernal Glacier",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      },
+      {
+        "name": "Caleta Juarez",
+        "country": "Chile",
+        "lat": -32.786118,
+        "lng": -71.189964
+      },
+      {
+        "name": "Guillard Fjord",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Amalia Glacier",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "El Brujo Glacier",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Calvo Fjord",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Fjord of the Mountains",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Bernal Glacier",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -860,7 +2048,151 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Coyhaique",
+        "country": "Chile"
+      },
+      {
+        "name": "Cerro Castillo National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Marble Caves",
+        "country": "Chile"
+      },
+      {
+        "name": "General Carrera Lake",
+        "country": "Chile"
+      },
+      {
+        "name": "San Rafael Lagoon",
+        "country": "Chile"
+      },
+      {
+        "name": "Patagonia National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Lake Llanquihue",
+        "country": "Chile"
+      },
+      {
+        "name": "Osorno Volcano",
+        "country": "Chile"
+      },
+      {
+        "name": "Chiloè",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Coyhaique",
+        "country": "Chile",
+        "lat": -45.572582,
+        "lng": -72.069336
+      },
+      {
+        "name": "Cerro Castillo National Park",
+        "country": "Chile",
+        "lat": -51.25588,
+        "lng": -72.344246
+      },
+      {
+        "name": "Marble Caves",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "General Carrera Lake",
+        "country": "Chile",
+        "lat": -34.440575,
+        "lng": -71.102325
+      },
+      {
+        "name": "San Rafael Lagoon",
+        "country": "Chile",
+        "lat": -46.639256,
+        "lng": -73.87328
+      },
+      {
+        "name": "Patagonia National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Lake Llanquihue",
+        "country": "Chile",
+        "lat": -41.25709,
+        "lng": -73.00506
+      },
+      {
+        "name": "Osorno Volcano",
+        "country": "Chile",
+        "lat": -40.573177,
+        "lng": -73.135025
+      },
+      {
+        "name": "Chiloè",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -946,7 +2278,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Easter Island",
+        "country": "Chile"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile"
+      },
+      {
+        "name": "Casablanca Wine Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "Calama",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Tatio Geysers",
+        "country": "Chile"
+      },
+      {
+        "name": "Moon Valley",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Easter Island",
+        "country": "Chile",
+        "lat": -27.147003,
+        "lng": -109.43021
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Casablanca Wine Valley",
+        "country": "Chile",
+        "lat": -33.320717,
+        "lng": -71.4107
+      },
+      {
+        "name": "Calama",
+        "country": "Chile",
+        "lat": -22.463293,
+        "lng": -68.92554
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Tatio Geysers",
+        "country": "Chile",
+        "lat": -18.480442,
+        "lng": -70.3193
+      },
+      {
+        "name": "Moon Valley",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1007,7 +2433,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      },
+      {
+        "name": "Elqui Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      },
+      {
+        "name": "Pucon",
+        "country": "Chile"
+      },
+      {
+        "name": "Chiloè",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Elqui Valley",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Pucon",
+        "country": "Chile",
+        "lat": -39.276203,
+        "lng": -71.97473
+      },
+      {
+        "name": "Chiloè",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1058,7 +2578,61 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      },
+      {
+        "name": "Pucon",
+        "country": "Chile"
+      },
+      {
+        "name": "Winelands",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Pucon",
+        "country": "Chile",
+        "lat": -39.276203,
+        "lng": -71.97473
+      },
+      {
+        "name": "Winelands",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1144,7 +2718,151 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Casablanca Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "Balmaceda",
+        "country": "Chile"
+      },
+      {
+        "name": "Patagonia",
+        "country": "Chile"
+      },
+      {
+        "name": "Chiva Cove",
+        "country": "Chile"
+      },
+      {
+        "name": "Isla Traiguén",
+        "country": "Chile"
+      },
+      {
+        "name": "Isla Goñi",
+        "country": "Chile"
+      },
+      {
+        "name": "San Rafael Lagoon",
+        "country": "Chile"
+      },
+      {
+        "name": "Port Lepardo",
+        "country": "Chile"
+      },
+      {
+        "name": "Estancia Quitralco",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Lynch",
+        "country": "Chile"
+      },
+      {
+        "name": "Cinco Hermanas National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Aisen",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Casablanca Valley",
+        "country": "Chile",
+        "lat": -33.320717,
+        "lng": -71.4107
+      },
+      {
+        "name": "Balmaceda",
+        "country": "Chile",
+        "lat": -45.908886,
+        "lng": -71.69901
+      },
+      {
+        "name": "Patagonia",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Chiva Cove",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Isla Traiguén",
+        "country": "Chile",
+        "lat": -40.27728,
+        "lng": -72.8844
+      },
+      {
+        "name": "Isla Goñi",
+        "country": "Chile",
+        "lat": -42.75626,
+        "lng": -73.59214
+      },
+      {
+        "name": "San Rafael Lagoon",
+        "country": "Chile",
+        "lat": -46.639256,
+        "lng": -73.87328
+      },
+      {
+        "name": "Port Lepardo",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Estancia Quitralco",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Lynch",
+        "country": "Chile",
+        "lat": -18.480442,
+        "lng": -70.3193
+      },
+      {
+        "name": "Cinco Hermanas National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Aisen",
+        "country": "Chile",
+        "lat": -45.405582,
+        "lng": -72.697815
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1230,7 +2948,141 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Rio Tranquilo",
+        "country": "Chile"
+      },
+      {
+        "name": "Baker River",
+        "country": "Chile"
+      },
+      {
+        "name": "Caleta Tortel",
+        "country": "Chile"
+      },
+      {
+        "name": "General Carrera Lake",
+        "country": "Chile"
+      },
+      {
+        "name": "Coyhaique",
+        "country": "Chile"
+      },
+      {
+        "name": "Puyuhuapi",
+        "country": "Chile"
+      },
+      {
+        "name": "Futaleufú",
+        "country": "Chile"
+      },
+      {
+        "name": "Caleta Gonzalo",
+        "country": "Chile"
+      },
+      {
+        "name": "Hornopirén",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Puerto Rio Tranquilo",
+        "country": "Chile",
+        "lat": -46.623753,
+        "lng": -72.675735
+      },
+      {
+        "name": "Baker River",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Caleta Tortel",
+        "country": "Chile",
+        "lat": -47.795227,
+        "lng": -73.53085
+      },
+      {
+        "name": "General Carrera Lake",
+        "country": "Chile",
+        "lat": -34.440575,
+        "lng": -71.102325
+      },
+      {
+        "name": "Coyhaique",
+        "country": "Chile",
+        "lat": -45.572582,
+        "lng": -72.069336
+      },
+      {
+        "name": "Puyuhuapi",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Futaleufú",
+        "country": "Chile",
+        "lat": -43.1862,
+        "lng": -71.86758
+      },
+      {
+        "name": "Caleta Gonzalo",
+        "country": "Chile",
+        "lat": -32.786118,
+        "lng": -71.189964
+      },
+      {
+        "name": "Hornopirén",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1271,7 +3123,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Cueva de Milodon",
+        "country": "Chile"
+      },
+      {
+        "name": "Grey Glacier",
+        "country": "Chile"
+      },
+      {
+        "name": "Paine Grande",
+        "country": "Chile"
+      },
+      {
+        "name": "Laguna Azul",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Cueva de Milodon",
+        "country": "Chile",
+        "lat": -51.568344,
+        "lng": -72.622505
+      },
+      {
+        "name": "Grey Glacier",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Paine Grande",
+        "country": "Chile",
+        "lat": -33.808105,
+        "lng": -70.7364
+      },
+      {
+        "name": "Laguna Azul",
+        "country": "Chile",
+        "lat": -20.966946,
+        "lng": -69.67943
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1342,7 +3278,121 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Puerto Montt",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Chaiten",
+        "country": "Chile"
+      },
+      {
+        "name": "Futaleufu",
+        "country": "Chile"
+      },
+      {
+        "name": "Pumalin National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Lago Yelcho",
+        "country": "Chile"
+      },
+      {
+        "name": "Rio Azul",
+        "country": "Chile"
+      },
+      {
+        "name": "Cascada",
+        "country": "Chile"
+      },
+      {
+        "name": "Rio Espolon",
+        "country": "Chile"
+      },
+      {
+        "name": "Las Tres Monjas",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Puerto Montt",
+        "country": "Chile",
+        "lat": -41.47261,
+        "lng": -72.9398
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Chaiten",
+        "country": "Chile",
+        "lat": -42.91441,
+        "lng": -72.71213
+      },
+      {
+        "name": "Futaleufu",
+        "country": "Chile",
+        "lat": -43.1862,
+        "lng": -71.86758
+      },
+      {
+        "name": "Pumalin National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Lago Yelcho",
+        "country": "Chile",
+        "lat": -43.2006,
+        "lng": -72.45679
+      },
+      {
+        "name": "Rio Azul",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Cascada",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Rio Espolon",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Las Tres Monjas",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1398,7 +3448,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Puerto Montt",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Hornopirén",
+        "country": "Chile"
+      },
+      {
+        "name": "Llancahue Island",
+        "country": "Chile"
+      },
+      {
+        "name": "Quintupeu Fjord",
+        "country": "Chile"
+      },
+      {
+        "name": "Cahuelmó Fjord",
+        "country": "Chile"
+      },
+      {
+        "name": "Cahuelmó River",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Puerto Montt",
+        "country": "Chile",
+        "lat": -41.47261,
+        "lng": -72.9398
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Hornopirén",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Llancahue Island",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Quintupeu Fjord",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Cahuelmó Fjord",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Cahuelmó River",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1509,7 +3643,161 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Temuco",
+        "country": "Chile"
+      },
+      {
+        "name": "Melipeuco",
+        "country": "Chile"
+      },
+      {
+        "name": "Conguillio National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Kurarewe",
+        "country": "Chile"
+      },
+      {
+        "name": "Villarrica National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Octay",
+        "country": "Chile"
+      },
+      {
+        "name": "Petrehue",
+        "country": "Chile"
+      },
+      {
+        "name": "Vicente Pérez Rosales National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Caleta Puelche",
+        "country": "Chile"
+      },
+      {
+        "name": "Alerce Andino National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Chiloé Island",
+        "country": "Chile"
+      },
+      {
+        "name": "Chiloé National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Castro",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Montt",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Temuco",
+        "country": "Chile",
+        "lat": -38.738373,
+        "lng": -72.5904
+      },
+      {
+        "name": "Melipeuco",
+        "country": "Chile",
+        "lat": -38.853275,
+        "lng": -71.69283
+      },
+      {
+        "name": "Conguillio National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Kurarewe",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Villarrica National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Octay",
+        "country": "Chile",
+        "lat": -40.97253,
+        "lng": -72.883644
+      },
+      {
+        "name": "Petrehue",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Vicente Pérez Rosales National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Caleta Puelche",
+        "country": "Chile",
+        "lat": -32.786118,
+        "lng": -71.189964
+      },
+      {
+        "name": "Alerce Andino National Park",
+        "country": "Chile",
+        "lat": -41.39512,
+        "lng": -72.91505
+      },
+      {
+        "name": "Chiloé Island",
+        "country": "Chile",
+        "lat": -42.676667,
+        "lng": -73.993333
+      },
+      {
+        "name": "Chiloé National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Castro",
+        "country": "Chile",
+        "lat": -42.482883,
+        "lng": -73.763504
+      },
+      {
+        "name": "Puerto Montt",
+        "country": "Chile",
+        "lat": -41.47261,
+        "lng": -72.9398
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1600,7 +3888,141 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Petrohue Falls",
+        "country": "Chile"
+      },
+      {
+        "name": "Lake Todos los Santos",
+        "country": "Chile"
+      },
+      {
+        "name": "Chiloe Islands",
+        "country": "Chile"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Tierra del Fuego",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Lago Gray Glacier",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Petrohue Falls",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Lake Todos los Santos",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Chiloe Islands",
+        "country": "Chile",
+        "lat": -42.676667,
+        "lng": -73.993333
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Tierra del Fuego",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Lago Gray Glacier",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1686,7 +4108,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      },
+      {
+        "name": "Chiloé",
+        "country": "Chile"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile"
+      },
+      {
+        "name": "Eberhard Fjord",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      },
+      {
+        "name": "Chiloé",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile",
+        "lat": -51.259224,
+        "lng": -72.34537
+      },
+      {
+        "name": "Eberhard Fjord",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1762,7 +4268,61 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Maipo Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Maipo Valley",
+        "country": "Chile",
+        "lat": -33.733448,
+        "lng": -70.78199
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile",
+        "lat": -51.259224,
+        "lng": -72.34537
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1838,7 +4398,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Maipo Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Maipo Valley",
+        "country": "Chile",
+        "lat": -33.733448,
+        "lng": -70.78199
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -1924,7 +4548,51 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2020,7 +4688,71 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Mendoza",
+        "country": "Argentina"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile",
+        "lat": -51.259224,
+        "lng": -72.34537
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Mendoza",
+        "country": "Argentina",
+        "lat": -32.89065,
+        "lng": -68.83943
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2096,7 +4828,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago de Chile",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Salt Flats",
+        "country": "Chile"
+      },
+      {
+        "name": "Valley of the Moon",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Patagonia",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago de Chile",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Atacama Salt Flats",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Valley of the Moon",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Patagonia",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2172,7 +4988,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Mendoza",
+        "country": "Argentina"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Viña del Mar",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Mendoza",
+        "country": "Argentina",
+        "lat": -32.89065,
+        "lng": -68.83943
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Viña del Mar",
+        "country": "Chile",
+        "lat": -33.02545,
+        "lng": -71.55722
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2263,7 +5143,71 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Pucón",
+        "country": "Chile"
+      },
+      {
+        "name": "Villarrica National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Valle Nevado",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Pucón",
+        "country": "Chile",
+        "lat": -39.276203,
+        "lng": -71.97473
+      },
+      {
+        "name": "Villarrica National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Valle Nevado",
+        "country": "Chile",
+        "lat": -30.605057,
+        "lng": -71.20277
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2354,7 +5298,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile",
+        "lat": -51.259224,
+        "lng": -72.34537
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2430,7 +5428,61 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Colchagua Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "North Patagonia",
+        "country": "Chile"
+      },
+      {
+        "name": "Easter Island",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Colchagua Valley",
+        "country": "Chile",
+        "lat": -34.548615,
+        "lng": -71.40168
+      },
+      {
+        "name": "North Patagonia",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Easter Island",
+        "country": "Chile",
+        "lat": -27.147003,
+        "lng": -109.43021
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2496,7 +5548,81 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Lake Nordenskjold",
+        "country": "Chile"
+      },
+      {
+        "name": "French Valley",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Lake Nordenskjold",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "French Valley",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2577,7 +5703,71 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bariloche",
+        "country": "Argentina"
+      },
+      {
+        "name": "Chubut",
+        "country": "Argentina"
+      },
+      {
+        "name": "Llanquihue",
+        "country": "Chile"
+      },
+      {
+        "name": "Cochamó",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bariloche",
+        "country": "Argentina",
+        "lat": -41.13463,
+        "lng": -71.30961
+      },
+      {
+        "name": "Chubut",
+        "country": "Argentina",
+        "lat": -43.299135,
+        "lng": -65.105665
+      },
+      {
+        "name": "Llanquihue",
+        "country": "Chile",
+        "lat": -41.25709,
+        "lng": -73.00506
+      },
+      {
+        "name": "Cochamó",
+        "country": "Chile",
+        "lat": -41.665443,
+        "lng": -72.297585
+      },
+      {
+        "name": "Puerto Varas",
+        "country": "Chile",
+        "lat": -41.31714,
+        "lng": -72.98556
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2653,7 +5843,91 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Reserva Nacional de los Flamencos",
+        "country": "Chile"
+      },
+      {
+        "name": "Salar de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      },
+      {
+        "name": "Parque Nacional Torres del Paine",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Reserva Nacional de los Flamencos",
+        "country": "Chile",
+        "lat": -26.57674,
+        "lng": -70.68382
+      },
+      {
+        "name": "Salar de Atacama",
+        "country": "Chile",
+        "lat": -27.371176,
+        "lng": -70.32956
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      },
+      {
+        "name": "Parque Nacional Torres del Paine",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2719,7 +5993,51 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "San Antonio Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "San Antonio Valley",
+        "country": "Chile",
+        "lat": -33.580566,
+        "lng": -71.61448
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2810,7 +6128,71 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Easter Island",
+        "country": "Chile"
+      },
+      {
+        "name": "Hanga Roa",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Easter Island",
+        "country": "Chile",
+        "lat": -27.147003,
+        "lng": -109.43021
+      },
+      {
+        "name": "Hanga Roa",
+        "country": "Chile",
+        "lat": -27.148066,
+        "lng": -109.42736
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2896,7 +6278,71 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Easter Island",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile"
+      },
+      {
+        "name": "Casablanca",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Easter Island",
+        "country": "Chile",
+        "lat": -27.147003,
+        "lng": -109.43021
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Casablanca",
+        "country": "Chile",
+        "lat": -33.320717,
+        "lng": -71.4107
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -2972,7 +6418,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      },
+      {
+        "name": "Viña del Mar",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Torres del Paine",
+        "country": "Chile",
+        "lat": -51.259224,
+        "lng": -72.34537
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Viña del Mar",
+        "country": "Chile",
+        "lat": -33.02545,
+        "lng": -71.55722
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -3058,7 +6588,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Patagonia",
+        "country": "Chile"
+      },
+      {
+        "name": "San Martín de los Andes",
+        "country": "Argentina"
+      },
+      {
+        "name": "Puerto Fuy",
+        "country": "Chile"
+      },
+      {
+        "name": "Junín de Los Andes",
+        "country": "Argentina"
+      },
+      {
+        "name": "Villa la Angostura",
+        "country": "Argentina"
+      },
+      {
+        "name": "Bariloche",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Patagonia",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "San Martín de los Andes",
+        "country": "Argentina",
+        "lat": -40.15696,
+        "lng": -71.35098
+      },
+      {
+        "name": "Puerto Fuy",
+        "country": "Chile",
+        "lat": -18.480442,
+        "lng": -70.3193
+      },
+      {
+        "name": "Junín de Los Andes",
+        "country": "Argentina",
+        "lat": -39.950478,
+        "lng": -71.07
+      },
+      {
+        "name": "Villa la Angostura",
+        "country": "Argentina",
+        "lat": -40.762215,
+        "lng": -71.64377
+      },
+      {
+        "name": "Bariloche",
+        "country": "Argentina",
+        "lat": -41.13463,
+        "lng": -71.30961
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -3134,7 +6738,81 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      },
+      {
+        "name": "Viña del Mar",
+        "country": "Chile"
+      },
+      {
+        "name": "Maipo Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Iquique",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Viña del Mar",
+        "country": "Chile",
+        "lat": -33.02545,
+        "lng": -71.55722
+      },
+      {
+        "name": "Maipo Valley",
+        "country": "Chile",
+        "lat": -33.733448,
+        "lng": -70.78199
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Iquique",
+        "country": "Chile",
+        "lat": -20.214668,
+        "lng": -70.15205
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -3200,7 +6878,51 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Chile"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Chile",
+        "lat": -34.640133,
+        "lng": -71.36663
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -3276,7 +6998,71 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      },
+      {
+        "name": "Mendoza",
+        "country": "Argentina"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Colonia del Sacramento",
+        "country": "Uruguay"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Mendoza",
+        "country": "Argentina",
+        "lat": -32.89065,
+        "lng": -68.83943
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Colonia del Sacramento",
+        "country": "Uruguay",
+        "lat": -34.47106,
+        "lng": -57.851894
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -3352,7 +7138,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Easter Island",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Easter Island",
+        "country": "Chile",
+        "lat": -27.147003,
+        "lng": -109.43021
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -3418,7 +7258,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Milodon Cave",
+        "country": "Chile"
+      },
+      {
+        "name": "Grey Lake",
+        "country": "Chile"
+      },
+      {
+        "name": "Isla Magdalena",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Milodon Cave",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Grey Lake",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Isla Magdalena",
+        "country": "Chile",
+        "lat": -30.753311,
+        "lng": -70.84368
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -3529,7 +7443,101 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Pumalin Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Futaleufu",
+        "country": "Chile"
+      },
+      {
+        "name": "Puyuhuapi",
+        "country": "Chile"
+      },
+      {
+        "name": "Coyhaique",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Rio Tranquilo",
+        "country": "Chile"
+      },
+      {
+        "name": "Patagonia Park",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Pumalin Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Futaleufu",
+        "country": "Chile",
+        "lat": -43.1862,
+        "lng": -71.86758
+      },
+      {
+        "name": "Puyuhuapi",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Coyhaique",
+        "country": "Chile",
+        "lat": -45.572582,
+        "lng": -72.069336
+      },
+      {
+        "name": "Puerto Rio Tranquilo",
+        "country": "Chile",
+        "lat": -46.623753,
+        "lng": -72.675735
+      },
+      {
+        "name": "Patagonia Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      }
+    ]
   },
   {
     "destination": "Chile",
@@ -3600,6 +7608,80 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile"
+      },
+      {
+        "name": "Casablanca",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaíso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Casablanca",
+        "country": "Chile",
+        "lat": -33.320717,
+        "lng": -71.4107
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Puerto Natales",
+        "country": "Chile",
+        "lat": -51.72779,
+        "lng": -72.50688
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   }
 ]

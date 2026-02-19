@@ -118,7 +118,67 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Copenhagen",
+        "country": "Denmark"
+      },
+      {
+        "name": "Stockholm",
+        "country": "Sweden"
+      },
+      {
+        "name": "Boden",
+        "country": "Sweden"
+      },
+      {
+        "name": "Aurora Safari Camp",
+        "country": "Sweden"
+      },
+      {
+        "name": "Arctic Retreat",
+        "country": "Sweden"
+      },
+      {
+        "name": "Arctic Bath",
+        "country": "Sweden"
+      },
+      {
+        "name": "Treehotel",
+        "country": "Sweden"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Copenhagen",
+        "country": "Denmark",
+        "lat": 55.675313,
+        "lng": 12.569734
+      },
+      {
+        "name": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.324337,
+        "lng": 18.06902
+      },
+      {
+        "name": "Boden",
+        "country": "Sweden",
+        "lat": 65.82506,
+        "lng": 21.68794
+      }
+    ]
   },
   {
     "destination": "Denmark",
@@ -179,6 +239,54 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bergen",
+        "country": "Norway"
+      },
+      {
+        "name": "Copenhagen",
+        "country": "Denmark"
+      },
+      {
+        "name": "Kronborg Castle",
+        "country": "Denmark"
+      },
+      {
+        "name": "Frederiksborg Castle",
+        "country": "Denmark"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bergen",
+        "country": "Norway",
+        "lat": 60.39555,
+        "lng": 5.325952
+      },
+      {
+        "name": "Copenhagen",
+        "country": "Denmark",
+        "lat": 55.675313,
+        "lng": 12.569734
+      },
+      {
+        "name": "Frederiksborg Castle",
+        "country": "Denmark",
+        "lat": 55.679153,
+        "lng": 12.533515
+      }
+    ]
   }
 ]

@@ -68,7 +68,135 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Faroe Islands",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Gásadalur",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Mykines",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Bøur",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Sørvágsvatn",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Bøsdalafossur",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Gjógv",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Saksun",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Tjørnuvík",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Klaksvík",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Kalsoy",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Tórshavn",
+        "country": "Faroe Islands"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Gásadalur",
+        "country": "Faroe Islands",
+        "lat": 62.1102,
+        "lng": -7.436426
+      },
+      {
+        "name": "Mykines",
+        "country": "Faroe Islands",
+        "lat": 62.103485,
+        "lng": -7.644041
+      },
+      {
+        "name": "Bøur",
+        "country": "Faroe Islands",
+        "lat": 62.086323,
+        "lng": -7.368851
+      },
+      {
+        "name": "Sørvágsvatn",
+        "country": "Faroe Islands",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Bøsdalafossur",
+        "country": "Faroe Islands",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Gjógv",
+        "country": "Faroe Islands",
+        "lat": 62.324802,
+        "lng": -6.947146
+      },
+      {
+        "name": "Saksun",
+        "country": "Faroe Islands",
+        "lat": 62.24727,
+        "lng": -7.177552
+      },
+      {
+        "name": "Tjørnuvík",
+        "country": "Faroe Islands",
+        "lat": 62.288948,
+        "lng": -7.148563
+      },
+      {
+        "name": "Klaksvík",
+        "country": "Faroe Islands",
+        "lat": 62.22573,
+        "lng": -6.583818
+      },
+      {
+        "name": "Kalsoy",
+        "country": "Faroe Islands",
+        "lat": 62.283333,
+        "lng": -6.733333
+      },
+      {
+        "name": "Tórshavn",
+        "country": "Faroe Islands",
+        "lat": 62.01122,
+        "lng": -6.768453
+      }
+    ]
   },
   {
     "destination": "Faroe Islands",
@@ -134,6 +262,190 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Vagar",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Gasadalur",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Eysturoy",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Streymoy",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Saksun",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Tjornuvik",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Søldafjørður",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Gjógv",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Klaksvik",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Bordoy",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Kalsoy",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Kunoy",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Torshavn",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Vestmanna",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Vágar",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Kirkjubour",
+        "country": "Faroe Islands"
+      },
+      {
+        "name": "Nolsoy",
+        "country": "Faroe Islands"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Vagar",
+        "country": "Faroe Islands",
+        "lat": 62.126572,
+        "lng": -7.379382
+      },
+      {
+        "name": "Gasadalur",
+        "country": "Faroe Islands",
+        "lat": 62.1102,
+        "lng": -7.436426
+      },
+      {
+        "name": "Eysturoy",
+        "country": "Faroe Islands",
+        "lat": 62.184495,
+        "lng": -6.763662
+      },
+      {
+        "name": "Streymoy",
+        "country": "Faroe Islands",
+        "lat": 62.148573,
+        "lng": -7.057697
+      },
+      {
+        "name": "Saksun",
+        "country": "Faroe Islands",
+        "lat": 62.24727,
+        "lng": -7.177552
+      },
+      {
+        "name": "Tjornuvik",
+        "country": "Faroe Islands",
+        "lat": 62.288948,
+        "lng": -7.148563
+      },
+      {
+        "name": "Søldafjørður",
+        "country": "Faroe Islands",
+        "lat": 62.15996,
+        "lng": -6.75441
+      },
+      {
+        "name": "Gjógv",
+        "country": "Faroe Islands",
+        "lat": 62.324802,
+        "lng": -6.947146
+      },
+      {
+        "name": "Klaksvik",
+        "country": "Faroe Islands",
+        "lat": 62.22573,
+        "lng": -6.583818
+      },
+      {
+        "name": "Bordoy",
+        "country": "Faroe Islands",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Kalsoy",
+        "country": "Faroe Islands",
+        "lat": 62.283333,
+        "lng": -6.733333
+      },
+      {
+        "name": "Kunoy",
+        "country": "Faroe Islands",
+        "lat": 62.291187,
+        "lng": -6.669541
+      },
+      {
+        "name": "Torshavn",
+        "country": "Faroe Islands",
+        "lat": 62.01122,
+        "lng": -6.768453
+      },
+      {
+        "name": "Vestmanna",
+        "country": "Faroe Islands",
+        "lat": 62.15391,
+        "lng": -7.166278
+      },
+      {
+        "name": "Vágar",
+        "country": "Faroe Islands",
+        "lat": 62.126572,
+        "lng": -7.379382
+      },
+      {
+        "name": "Kirkjubour",
+        "country": "Faroe Islands",
+        "lat": 61.952503,
+        "lng": -6.795085
+      },
+      {
+        "name": "Nolsoy",
+        "country": "Faroe Islands",
+        "lat": 62.009216,
+        "lng": -6.673974
+      }
+    ]
   }
 ]

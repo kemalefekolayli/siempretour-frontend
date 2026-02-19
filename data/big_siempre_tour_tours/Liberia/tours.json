@@ -88,6 +88,78 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia"
+      },
+      {
+        "name": "Gbarnga",
+        "country": "Liberia"
+      },
+      {
+        "name": "Kpatawee Waterfalls",
+        "country": "Liberia"
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Bunce Island",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Rogbonko Village",
+        "country": "Sierra Leone"
+      },
+      {
+        "name": "Banana Island",
+        "country": "Sierra Leone"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Monrovia",
+        "country": "Liberia",
+        "lat": 6.297724,
+        "lng": -10.779029
+      },
+      {
+        "name": "Gbarnga",
+        "country": "Liberia",
+        "lat": 6.996269,
+        "lng": -9.470905
+      },
+      {
+        "name": "Kpatawee Waterfalls",
+        "country": "Liberia",
+        "lat": 7.088353,
+        "lng": -9.642129
+      },
+      {
+        "name": "Freetown",
+        "country": "Sierra Leone",
+        "lat": 8.462246,
+        "lng": -13.178415
+      },
+      {
+        "name": "Rogbonko Village",
+        "country": "Sierra Leone",
+        "lat": 8.786204,
+        "lng": -12.005815
+      }
+    ]
   }
 ]

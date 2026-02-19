@@ -63,7 +63,121 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Puerto Plata",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Damajagua",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Santiago de los Caballeros",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Cabarete",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Río San Juan",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Cabrera",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Sosúa",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Puerto Plata",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Punta Rucia",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Cayo Arena",
+        "country": "Dominican Republic"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Puerto Plata",
+        "country": "Dominican Republic",
+        "lat": 19.79669,
+        "lng": -70.69064
+      },
+      {
+        "name": "Damajagua",
+        "country": "Dominican Republic",
+        "lat": 19.64769,
+        "lng": -70.991164
+      },
+      {
+        "name": "Santiago de los Caballeros",
+        "country": "Dominican Republic",
+        "lat": 19.45679,
+        "lng": -70.693016
+      },
+      {
+        "name": "Cabarete",
+        "country": "Dominican Republic",
+        "lat": 19.749016,
+        "lng": -70.412843
+      },
+      {
+        "name": "Río San Juan",
+        "country": "Dominican Republic",
+        "lat": 19.645933,
+        "lng": -70.0777
+      },
+      {
+        "name": "Cabrera",
+        "country": "Dominican Republic",
+        "lat": 19.641726,
+        "lng": -69.90358
+      },
+      {
+        "name": "Sosúa",
+        "country": "Dominican Republic",
+        "lat": 19.762865,
+        "lng": -70.5154
+      },
+      {
+        "name": "Puerto Plata",
+        "country": "Dominican Republic",
+        "lat": 19.79669,
+        "lng": -70.69064
+      },
+      {
+        "name": "Punta Rucia",
+        "country": "Dominican Republic",
+        "lat": 19.840305,
+        "lng": -71.212727
+      },
+      {
+        "name": "Cayo Arena",
+        "country": "Dominican Republic",
+        "lat": 18.473048,
+        "lng": -69.732549
+      }
+    ]
   },
   {
     "destination": "Dominican Republic",
@@ -129,7 +243,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Punta Cana",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Santo Domingo",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Jarabacoa",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Santiago de los Caballeros",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "San Francisco de Macorís",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Las Terrenas",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Samaná Peninsula",
+        "country": "Dominican Republic"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Punta Cana",
+        "country": "Dominican Republic",
+        "lat": 18.55827,
+        "lng": -68.36815
+      },
+      {
+        "name": "Santo Domingo",
+        "country": "Dominican Republic",
+        "lat": 18.493652,
+        "lng": -69.83837
+      },
+      {
+        "name": "Jarabacoa",
+        "country": "Dominican Republic",
+        "lat": 19.123608,
+        "lng": -70.642265
+      },
+      {
+        "name": "Santiago de los Caballeros",
+        "country": "Dominican Republic",
+        "lat": 19.45679,
+        "lng": -70.693016
+      },
+      {
+        "name": "San Francisco de Macorís",
+        "country": "Dominican Republic",
+        "lat": 19.296513,
+        "lng": -70.25733
+      },
+      {
+        "name": "Las Terrenas",
+        "country": "Dominican Republic",
+        "lat": 19.321552,
+        "lng": -69.53811
+      },
+      {
+        "name": "Samaná Peninsula",
+        "country": "Dominican Republic",
+        "lat": 19.203512,
+        "lng": -69.33499
+      }
+    ]
   },
   {
     "destination": "Dominican Republic",
@@ -180,7 +378,79 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santo Domingo",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Pedernales",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Jaragua National Park",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Bahia de Aguilas",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Lagoon Oviedo",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Barohuco National Park",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Santo Domingo",
+        "country": "Dominican Republic"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santo Domingo",
+        "country": "Dominican Republic",
+        "lat": 18.493652,
+        "lng": -69.83837
+      },
+      {
+        "name": "Pedernales",
+        "country": "Dominican Republic",
+        "lat": 18.036867,
+        "lng": -71.745544
+      },
+      {
+        "name": "Jaragua National Park",
+        "country": "Dominican Republic",
+        "lat": 18.489695,
+        "lng": -71.48651
+      },
+      {
+        "name": "Lagoon Oviedo",
+        "country": "Dominican Republic",
+        "lat": 17.80095,
+        "lng": -71.40261
+      },
+      {
+        "name": "Santo Domingo",
+        "country": "Dominican Republic",
+        "lat": 18.493652,
+        "lng": -69.83837
+      }
+    ]
   },
   {
     "destination": "Dominican Republic",
@@ -231,6 +501,34 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Puerto Plata",
+        "country": "Dominican Republic"
+      },
+      {
+        "name": "Silver Banks",
+        "country": "Dominican Republic"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Puerto Plata",
+        "country": "Dominican Republic",
+        "lat": 19.79669,
+        "lng": -70.69064
+      }
+    ]
   }
 ]

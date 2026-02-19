@@ -103,7 +103,133 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Son Kul Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Tash Rabat",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kazarman",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Djalal Abad",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Dustlik",
+        "country": null
+      },
+      {
+        "name": "Margilan",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Kazarman",
+        "country": "Kyrgyzstan",
+        "lat": 41.40628,
+        "lng": 74.027621
+      },
+      {
+        "name": "Djalal Abad",
+        "country": "Kyrgyzstan",
+        "lat": 40.929818,
+        "lng": 73.00119
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan",
+        "lat": 40.53619,
+        "lng": 72.803362
+      },
+      {
+        "name": "Margilan",
+        "country": "Uzbekistan",
+        "lat": 40.4776,
+        "lng": 71.72356
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan",
+        "lat": 42.46143,
+        "lng": 59.616844
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -184,7 +310,111 @@
       }
     ],
     "map": "",
-    "category": "Horse Riding"
+    "category": "Horse Riding",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Lake Issyk-Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Burana Tower",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Jyrgalan Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Jurgalan Pass",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Tyrgon Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Tyrgon Pass",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Bosuchuk Pass",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Ailanysh Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Altyn-Arashan Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Ala-Kul Lake",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Lake Issyk-Kul",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Burana Tower",
+        "country": "Kyrgyzstan",
+        "lat": 42.751238,
+        "lng": 75.26882
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan",
+        "lat": 42.479821,
+        "lng": 78.381067
+      },
+      {
+        "name": "Jyrgalan Valley",
+        "country": "Kyrgyzstan",
+        "lat": 42.608402,
+        "lng": 79.009666
+      },
+      {
+        "name": "Jurgalan Pass",
+        "country": "Kyrgyzstan",
+        "lat": 42.608402,
+        "lng": 79.009666
+      },
+      {
+        "name": "Altyn-Arashan Valley",
+        "country": "Kyrgyzstan",
+        "lat": 42.372799,
+        "lng": 78.611729
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -255,7 +485,117 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Balasagun",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Burana Tower",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kyzyl-Tuu",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Jaichy",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Tamga",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Issyk-Kul Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Jety-Oguz",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Song-Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Chon-Kemin Nature Park",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Burana Tower",
+        "country": "Kyrgyzstan",
+        "lat": 42.751238,
+        "lng": 75.26882
+      },
+      {
+        "name": "Kyzyl-Tuu",
+        "country": "Kyrgyzstan",
+        "lat": 42.184306,
+        "lng": 76.673316
+      },
+      {
+        "name": "Issyk-Kul Lake",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Jety-Oguz",
+        "country": "Kyrgyzstan",
+        "lat": 42.430726,
+        "lng": 78.213972
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan",
+        "lat": 42.479821,
+        "lng": 78.381067
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan",
+        "lat": 42.211744,
+        "lng": 75.751474
+      },
+      {
+        "name": "Chon-Kemin Nature Park",
+        "country": "Kyrgyzstan",
+        "lat": 42.788288,
+        "lng": 75.697228
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -361,7 +701,169 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Kalai-Khumb",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Khorog",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Ishkashim",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Yamg",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Langar",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Yashik Kul Lake",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Murgab",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Karakul",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Bartang Valley",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Kalai-Khumb",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Pamir Plateau",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Ashik Tash Base Camp",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan",
+        "lat": 38.576271,
+        "lng": 68.786357
+      },
+      {
+        "name": "Kalai-Khumb",
+        "country": "Tajikistan",
+        "lat": 38.454129,
+        "lng": 70.78864
+      },
+      {
+        "name": "Khorog",
+        "country": "Tajikistan",
+        "lat": 37.491242,
+        "lng": 71.545081
+      },
+      {
+        "name": "Ishkashim",
+        "country": "Tajikistan",
+        "lat": 36.735247,
+        "lng": 71.590878
+      },
+      {
+        "name": "Yamg",
+        "country": "Tajikistan",
+        "lat": 36.982796,
+        "lng": 72.317683
+      },
+      {
+        "name": "Langar",
+        "country": "Tajikistan",
+        "lat": 38.988515,
+        "lng": 70.351816
+      },
+      {
+        "name": "Yashik Kul Lake",
+        "country": "Tajikistan",
+        "lat": 37.968349,
+        "lng": 69.986547
+      },
+      {
+        "name": "Murgab",
+        "country": "Tajikistan",
+        "lat": 38.151432,
+        "lng": 73.955174
+      },
+      {
+        "name": "Karakul",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Bartang Valley",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Kalai-Khumb",
+        "country": "Tajikistan",
+        "lat": 38.454129,
+        "lng": 70.78864
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan",
+        "lat": 38.576271,
+        "lng": 68.786357
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan",
+        "lat": 40.53619,
+        "lng": 72.803362
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -502,7 +1004,167 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Issyk Kul Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Djety-Oguz",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Barskaun Gorge",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Song Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Suusamyr Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Toktogul Reservoir",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Djalal-Abad",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Arslanbob",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Fergana Valley",
+        "country": "null"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Issyk Kul Lake",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan",
+        "lat": 42.479821,
+        "lng": 78.381067
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan",
+        "lat": 42.211744,
+        "lng": 75.751474
+      },
+      {
+        "name": "Suusamyr Valley",
+        "country": "Kyrgyzstan",
+        "lat": 42.181507,
+        "lng": 73.958956
+      },
+      {
+        "name": "Toktogul Reservoir",
+        "country": "Kyrgyzstan",
+        "lat": 40.825075,
+        "lng": 73.400659
+      },
+      {
+        "name": "Djalal-Abad",
+        "country": "Kyrgyzstan",
+        "lat": 40.929818,
+        "lng": 73.00119
+      },
+      {
+        "name": "Arslanbob",
+        "country": "Kyrgyzstan",
+        "lat": 41.337624,
+        "lng": 72.927713
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan",
+        "lat": 40.53619,
+        "lng": 72.803362
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -588,7 +1250,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Issy Kul Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Cholpan Ata",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Reina Kench Farm",
+        "country": null
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Skazka Canyon",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Naryn",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kyzil Tuu",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Tash-Rabat",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Chon-Kemin Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Ashu",
+        "country": null
+      },
+      {
+        "name": "Ala Archa Gorge",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Issy Kul Lake",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Cholpan Ata",
+        "country": "Kyrgyzstan",
+        "lat": 42.638126,
+        "lng": 77.048308
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan",
+        "lat": 42.479821,
+        "lng": 78.381067
+      },
+      {
+        "name": "Naryn",
+        "country": "Kyrgyzstan",
+        "lat": 41.425494,
+        "lng": 76.00578
+      },
+      {
+        "name": "Kyzil Tuu",
+        "country": "Kyrgyzstan",
+        "lat": 42.184306,
+        "lng": 76.673316
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan",
+        "lat": 42.211744,
+        "lng": 75.751474
+      },
+      {
+        "name": "Chon-Kemin Valley",
+        "country": "Kyrgyzstan",
+        "lat": 42.788288,
+        "lng": 75.697228
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -689,7 +1465,129 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Chychkan Gorge",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Sary Chelek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Arslanbob",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kazarman",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Son Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Tash Rabat",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Naryn",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Bokonbaev",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Issyk Kul Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Chychkan Gorge",
+        "country": "Kyrgyzstan",
+        "lat": 42.273996,
+        "lng": 77.784038
+      },
+      {
+        "name": "Sary Chelek",
+        "country": "Kyrgyzstan",
+        "lat": 42.459137,
+        "lng": 78.355291
+      },
+      {
+        "name": "Arslanbob",
+        "country": "Kyrgyzstan",
+        "lat": 41.337624,
+        "lng": 72.927713
+      },
+      {
+        "name": "Kazarman",
+        "country": "Kyrgyzstan",
+        "lat": 41.40628,
+        "lng": 74.027621
+      },
+      {
+        "name": "Naryn",
+        "country": "Kyrgyzstan",
+        "lat": 41.425494,
+        "lng": 76.00578
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan",
+        "lat": 42.211744,
+        "lng": 75.751474
+      },
+      {
+        "name": "Bokonbaev",
+        "country": "Kyrgyzstan",
+        "lat": 42.115438,
+        "lng": 76.993396
+      },
+      {
+        "name": "Issyk Kul Lake",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -785,7 +1683,161 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Issyk Kul Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Djety-Oguz",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Barskaun Gorge",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Song Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Suusamyr Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Toktogul Reservoir",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Djalal-Abad",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Arslanbob",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Fergana Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Fergana City",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Rishtan",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kokand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Issyk Kul Lake",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan",
+        "lat": 42.479821,
+        "lng": 78.381067
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan",
+        "lat": 42.211744,
+        "lng": 75.751474
+      },
+      {
+        "name": "Suusamyr Valley",
+        "country": "Kyrgyzstan",
+        "lat": 42.181507,
+        "lng": 73.958956
+      },
+      {
+        "name": "Toktogul Reservoir",
+        "country": "Kyrgyzstan",
+        "lat": 40.825075,
+        "lng": 73.400659
+      },
+      {
+        "name": "Djalal-Abad",
+        "country": "Kyrgyzstan",
+        "lat": 40.929818,
+        "lng": 73.00119
+      },
+      {
+        "name": "Arslanbob",
+        "country": "Kyrgyzstan",
+        "lat": 41.337624,
+        "lng": 72.927713
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan",
+        "lat": 40.53619,
+        "lng": 72.803362
+      },
+      {
+        "name": "Rishtan",
+        "country": "Uzbekistan",
+        "lat": 40.35961,
+        "lng": 71.27925
+      },
+      {
+        "name": "Kokand",
+        "country": "Uzbekistan",
+        "lat": 40.539074,
+        "lng": 70.95155
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -856,7 +1908,57 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Ala Archa National Park",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Lake Issyk-Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Tashrabat",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Chatyr-Kol Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Song-Kul Lake",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Lake Issyk-Kul",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -932,7 +2034,121 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Issyk-Kul Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Burana Tower",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Jurgalan Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Jurgalan Pass",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Tyrgon Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Tyrgon Pass",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Bosuchuk Pass",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Ailanysh Pass",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Ailanysh Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Ortok Pass",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Altyn-Arashan Valley",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan",
+        "lat": 42.479821,
+        "lng": 78.381067
+      },
+      {
+        "name": "Issyk-Kul Lake",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Burana Tower",
+        "country": "Kyrgyzstan",
+        "lat": 42.751238,
+        "lng": 75.26882
+      },
+      {
+        "name": "Jurgalan Valley",
+        "country": "Kyrgyzstan",
+        "lat": 42.608402,
+        "lng": 79.009666
+      },
+      {
+        "name": "Jurgalan Pass",
+        "country": "Kyrgyzstan",
+        "lat": 42.608402,
+        "lng": 79.009666
+      },
+      {
+        "name": "Ortok Pass",
+        "country": "Kyrgyzstan",
+        "lat": 42.199879,
+        "lng": 75.364051
+      },
+      {
+        "name": "Altyn-Arashan Valley",
+        "country": "Kyrgyzstan",
+        "lat": 42.372799,
+        "lng": 78.611729
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -1028,7 +2244,157 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Toktogul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Uzgen",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kazarman",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Song Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Naryn",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Tash Rabat",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Bokonbaevo",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Issyk Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Djety Oguz",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Jyrgalan",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Karkara Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Cholpon Ata",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Burana Tower",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Toktogul",
+        "country": "Kyrgyzstan",
+        "lat": 40.825075,
+        "lng": 73.400659
+      },
+      {
+        "name": "Uzgen",
+        "country": "Kyrgyzstan",
+        "lat": 40.770765,
+        "lng": 73.297805
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan",
+        "lat": 40.53619,
+        "lng": 72.803362
+      },
+      {
+        "name": "Kazarman",
+        "country": "Kyrgyzstan",
+        "lat": 41.40628,
+        "lng": 74.027621
+      },
+      {
+        "name": "Naryn",
+        "country": "Kyrgyzstan",
+        "lat": 41.425494,
+        "lng": 76.00578
+      },
+      {
+        "name": "Bokonbaevo",
+        "country": "Kyrgyzstan",
+        "lat": 42.115438,
+        "lng": 76.993396
+      },
+      {
+        "name": "Issyk Kul",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan",
+        "lat": 42.479821,
+        "lng": 78.381067
+      },
+      {
+        "name": "Jyrgalan",
+        "country": "Kyrgyzstan",
+        "lat": 42.608402,
+        "lng": 79.009666
+      },
+      {
+        "name": "Cholpon Ata",
+        "country": "Kyrgyzstan",
+        "lat": 42.638126,
+        "lng": 77.048308
+      },
+      {
+        "name": "Burana Tower",
+        "country": "Kyrgyzstan",
+        "lat": 42.751238,
+        "lng": 75.26882
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -1129,7 +2495,143 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Ala-Archa National Park",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Chon-Kemin Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Burana Tower",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Son-Kul Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Bokonbaevo",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kyzyl Tuu",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Skazka Canyon",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Lake Issyk-Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Jyrgalan Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Altyn-Arashan Valley",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Cholpon Ata",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Issyk-Kul Lake",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Chon-Kemin Valley",
+        "country": "Kyrgyzstan",
+        "lat": 42.788288,
+        "lng": 75.697228
+      },
+      {
+        "name": "Burana Tower",
+        "country": "Kyrgyzstan",
+        "lat": 42.751238,
+        "lng": 75.26882
+      },
+      {
+        "name": "Bokonbaevo",
+        "country": "Kyrgyzstan",
+        "lat": 42.115438,
+        "lng": 76.993396
+      },
+      {
+        "name": "Kyzyl Tuu",
+        "country": "Kyrgyzstan",
+        "lat": 42.184306,
+        "lng": 76.673316
+      },
+      {
+        "name": "Lake Issyk-Kul",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan",
+        "lat": 42.479821,
+        "lng": 78.381067
+      },
+      {
+        "name": "Jyrgalan Valley",
+        "country": "Kyrgyzstan",
+        "lat": 42.608402,
+        "lng": 79.009666
+      },
+      {
+        "name": "Altyn-Arashan Valley",
+        "country": "Kyrgyzstan",
+        "lat": 42.372799,
+        "lng": 78.611729
+      },
+      {
+        "name": "Cholpon Ata",
+        "country": "Kyrgyzstan",
+        "lat": 42.638126,
+        "lng": 77.048308
+      },
+      {
+        "name": "Issyk-Kul Lake",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -1235,7 +2737,139 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Son Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Tash Rabat",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kazarman",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Fergana Valley",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Margilon",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Rishton",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kokand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Kazarman",
+        "country": "Kyrgyzstan",
+        "lat": 41.40628,
+        "lng": 74.027621
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan",
+        "lat": 40.53619,
+        "lng": 72.803362
+      },
+      {
+        "name": "Fergana Valley",
+        "country": "Uzbekistan",
+        "lat": 40.386223,
+        "lng": 71.786835
+      },
+      {
+        "name": "Margilon",
+        "country": "Uzbekistan",
+        "lat": 40.4776,
+        "lng": 71.72356
+      },
+      {
+        "name": "Rishton",
+        "country": "Uzbekistan",
+        "lat": 40.35961,
+        "lng": 71.27925
+      },
+      {
+        "name": "Kokand",
+        "country": "Uzbekistan",
+        "lat": 40.539074,
+        "lng": 70.95155
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -1271,7 +2905,103 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Pamir Highway",
+        "country": null
+      },
+      {
+        "name": "Fann Mountains",
+        "country": null
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Gas Crater",
+        "country": "Turkmenistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan",
+        "lat": 38.576271,
+        "lng": 68.786357
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan",
+        "lat": 40.53619,
+        "lng": 72.803362
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan",
+        "lat": 37.940465,
+        "lng": 58.382349
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -1372,7 +3102,165 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Kalaikhumb",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Geisev Valley",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Khorog",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Garmchasma hot springs",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "oh-i-Lal ruby mine",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Ishkashim",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Vrang",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Wakhan Valley",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Karakul Lake",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Chichkan Gorge",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Song Kol Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Lake Issyk Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan",
+        "lat": 38.576271,
+        "lng": 68.786357
+      },
+      {
+        "name": "Kalaikhumb",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Geisev Valley",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Khorog",
+        "country": "Tajikistan",
+        "lat": 37.491242,
+        "lng": 71.545081
+      },
+      {
+        "name": "Garmchasma hot springs",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "oh-i-Lal ruby mine",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Ishkashim",
+        "country": "Tajikistan",
+        "lat": 36.735247,
+        "lng": 71.590878
+      },
+      {
+        "name": "Vrang",
+        "country": "Tajikistan",
+        "lat": 37.004779,
+        "lng": 72.373151
+      },
+      {
+        "name": "Wakhan Valley",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Karakul Lake",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan",
+        "lat": 40.53619,
+        "lng": 72.803362
+      },
+      {
+        "name": "Chichkan Gorge",
+        "country": "Kyrgyzstan",
+        "lat": 42.273996,
+        "lng": 77.784038
+      },
+      {
+        "name": "Lake Issyk Kul",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -1483,7 +3371,165 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Kalaikhumb",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Khorog",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Garm Chashma",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Yamchun",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Bibi Fatima",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Vrang",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Murgab",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Karakul Lake",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Sary Tash",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Uzgen",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Chichkan Gorge",
+        "country": null
+      },
+      {
+        "name": "Tian Shan mountains",
+        "country": null
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan",
+        "lat": 38.576271,
+        "lng": 68.786357
+      },
+      {
+        "name": "Kalaikhumb",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Khorog",
+        "country": "Tajikistan",
+        "lat": 37.491242,
+        "lng": 71.545081
+      },
+      {
+        "name": "Garm Chashma",
+        "country": "Tajikistan",
+        "lat": 37.202685,
+        "lng": 71.539283
+      },
+      {
+        "name": "Yamchun",
+        "country": "Tajikistan",
+        "lat": 36.963014,
+        "lng": 72.268763
+      },
+      {
+        "name": "Bibi Fatima",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Vrang",
+        "country": "Tajikistan",
+        "lat": 37.004779,
+        "lng": 72.373151
+      },
+      {
+        "name": "Murgab",
+        "country": "Tajikistan",
+        "lat": 38.151432,
+        "lng": 73.955174
+      },
+      {
+        "name": "Karakul Lake",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Sary Tash",
+        "country": "Kyrgyzstan",
+        "lat": 39.725935,
+        "lng": 73.24219
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan",
+        "lat": 40.53619,
+        "lng": 72.803362
+      },
+      {
+        "name": "Uzgen",
+        "country": "Kyrgyzstan",
+        "lat": 40.770765,
+        "lng": 73.297805
+      },
+      {
+        "name": "Chichkan Gorge",
+        "country": "Kyrgyzstan",
+        "lat": 42.273996,
+        "lng": 77.784038
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -1559,7 +3605,59 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Lake Issyk-Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Tash Rabat",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Song-Kol Lake",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      },
+      {
+        "name": "Lake Issyk-Kul",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan",
+        "lat": 42.211744,
+        "lng": 75.751474
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -1630,7 +3728,105 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Kunye Urgench",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Fann Mountains",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Pamir Highway",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan",
+        "lat": 37.940465,
+        "lng": 58.382349
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Fann Mountains",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan",
+        "lat": 38.576271,
+        "lng": 68.786357
+      },
+      {
+        "name": "Pamir Highway",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Osh",
+        "country": "Kyrgyzstan",
+        "lat": 40.53619,
+        "lng": 72.803362
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      }
+    ]
   },
   {
     "destination": "Kyrgyzstan",
@@ -1711,6 +3907,104 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Issyk Kul",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Skazka Canyon",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Jety-Oguz",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan"
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Kochkor",
+        "country": "Kyrgyzstan",
+        "lat": 42.211744,
+        "lng": 75.751474
+      },
+      {
+        "name": "Issyk Kul",
+        "country": "Kyrgyzstan",
+        "lat": 42.491681,
+        "lng": 78.390173
+      },
+      {
+        "name": "Jety-Oguz",
+        "country": "Kyrgyzstan",
+        "lat": 42.430726,
+        "lng": 78.213972
+      },
+      {
+        "name": "Karakol",
+        "country": "Kyrgyzstan",
+        "lat": 42.479821,
+        "lng": 78.381067
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
+        "lat": 42.87779,
+        "lng": 74.606693
+      }
+    ]
   }
 ]

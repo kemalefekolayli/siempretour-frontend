@@ -73,7 +73,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Xochimilco",
+        "country": "Mexico"
+      },
+      {
+        "name": "Coyoacán",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Miguel de Allende",
+        "country": "Mexico"
+      },
+      {
+        "name": "Guanajuato",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Xochimilco",
+        "country": "Mexico",
+        "lat": 19.26299,
+        "lng": -99.104416
+      },
+      {
+        "name": "Coyoacán",
+        "country": "Mexico",
+        "lat": 19.350697,
+        "lng": -99.16391
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico",
+        "lat": 19.68563,
+        "lng": -98.86884
+      },
+      {
+        "name": "San Miguel de Allende",
+        "country": "Mexico",
+        "lat": 20.914452,
+        "lng": -100.74524
+      },
+      {
+        "name": "Guanajuato",
+        "country": "Mexico",
+        "lat": 21.01671,
+        "lng": -101.25405
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -139,7 +213,111 @@
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Jose del Cabo",
+        "country": "Mexico"
+      },
+      {
+        "name": "Isla San Francisco",
+        "country": "Mexico"
+      },
+      {
+        "name": "Bahia Agua Verde",
+        "country": "Mexico"
+      },
+      {
+        "name": "Isla Coronado",
+        "country": "Mexico"
+      },
+      {
+        "name": "Loreto",
+        "country": "Mexico"
+      },
+      {
+        "name": "Los Islotes",
+        "country": "Mexico"
+      },
+      {
+        "name": "Isla Partida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Isla San Jose",
+        "country": "Mexico"
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Jose del Cabo",
+        "country": "Mexico",
+        "lat": 23.06182,
+        "lng": -109.69633
+      },
+      {
+        "name": "Isla San Francisco",
+        "country": "Mexico",
+        "lat": 19.78283,
+        "lng": -97.32238
+      },
+      {
+        "name": "Bahia Agua Verde",
+        "country": "Mexico",
+        "lat": 22.89312,
+        "lng": -105.97221
+      },
+      {
+        "name": "Isla Coronado",
+        "country": "Mexico",
+        "lat": 18.029339,
+        "lng": -95.52854
+      },
+      {
+        "name": "Loreto",
+        "country": "Mexico",
+        "lat": 26.010105,
+        "lng": -111.3419
+      },
+      {
+        "name": "Los Islotes",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Isla Partida",
+        "country": "Mexico",
+        "lat": 18.029339,
+        "lng": -95.52854
+      },
+      {
+        "name": "Isla San Jose",
+        "country": "Mexico",
+        "lat": 20.056217,
+        "lng": -98.756
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico",
+        "lat": 24.161955,
+        "lng": -110.315605
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -210,7 +388,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico"
+      },
+      {
+        "name": "Espíritu Santo Island",
+        "country": "Mexico"
+      },
+      {
+        "name": "Magdalena Bay",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puerto Chale",
+        "country": "Mexico"
+      },
+      {
+        "name": "Rancho Cacachilas",
+        "country": "Mexico"
+      },
+      {
+        "name": "Los Cabos",
+        "country": "Mexico"
+      },
+      {
+        "name": "Lover’s Beach",
+        "country": "Mexico"
+      },
+      {
+        "name": "San José del Cabo",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico",
+        "lat": 24.161955,
+        "lng": -110.315605
+      },
+      {
+        "name": "Espíritu Santo Island",
+        "country": "Mexico",
+        "lat": 24.471389,
+        "lng": -110.3325
+      },
+      {
+        "name": "Magdalena Bay",
+        "country": "Mexico",
+        "lat": 20.909092,
+        "lng": -103.98114
+      },
+      {
+        "name": "Puerto Chale",
+        "country": "Mexico",
+        "lat": 17.86287,
+        "lng": -91.78192
+      },
+      {
+        "name": "Rancho Cacachilas",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Los Cabos",
+        "country": "Mexico",
+        "lat": 22.901276,
+        "lng": -109.90038
+      },
+      {
+        "name": "Lover’s Beach",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "San José del Cabo",
+        "country": "Mexico",
+        "lat": 23.06182,
+        "lng": -109.69633
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -296,7 +568,101 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Jose del Cabo",
+        "country": "Mexico"
+      },
+      {
+        "name": "Todos Santos",
+        "country": "Mexico"
+      },
+      {
+        "name": "Punta Lobos",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Pedro",
+        "country": "Mexico"
+      },
+      {
+        "name": "Sierra La Laguna Biosphere Reserve",
+        "country": "Mexico"
+      },
+      {
+        "name": "Isla Espiritu Santo",
+        "country": "Mexico"
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico"
+      },
+      {
+        "name": "Magdalena Bay",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Jose del Cabo",
+        "country": "Mexico",
+        "lat": 23.06182,
+        "lng": -109.69633
+      },
+      {
+        "name": "Todos Santos",
+        "country": "Mexico",
+        "lat": 23.449518,
+        "lng": -110.225006
+      },
+      {
+        "name": "Punta Lobos",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "San Pedro",
+        "country": "Mexico",
+        "lat": 25.75647,
+        "lng": -102.98217
+      },
+      {
+        "name": "Sierra La Laguna Biosphere Reserve",
+        "country": "Mexico",
+        "lat": 17.359917,
+        "lng": -98.23778
+      },
+      {
+        "name": "Isla Espiritu Santo",
+        "country": "Mexico",
+        "lat": 24.471389,
+        "lng": -110.3325
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico",
+        "lat": 24.161955,
+        "lng": -110.315605
+      },
+      {
+        "name": "Magdalena Bay",
+        "country": "Mexico",
+        "lat": 20.909092,
+        "lng": -103.98114
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -362,7 +728,73 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Loreto",
+        "country": "Mexico"
+      },
+      {
+        "name": "Magdalena Bay",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puerto Lopez Mateos",
+        "country": "Mexico"
+      },
+      {
+        "name": "Santo Domingo Island",
+        "country": "Mexico"
+      },
+      {
+        "name": "Sea of Cortez",
+        "country": "null"
+      },
+      {
+        "name": "Isla Danzante",
+        "country": "null"
+      },
+      {
+        "name": "Isla Carmen",
+        "country": "null"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Loreto",
+        "country": "Mexico",
+        "lat": 26.010105,
+        "lng": -111.3419
+      },
+      {
+        "name": "Magdalena Bay",
+        "country": "Mexico",
+        "lat": 20.909092,
+        "lng": -103.98114
+      },
+      {
+        "name": "Puerto Lopez Mateos",
+        "country": "Mexico",
+        "lat": 19.560867,
+        "lng": -99.24657
+      },
+      {
+        "name": "Santo Domingo Island",
+        "country": "Mexico",
+        "lat": 15.032064,
+        "lng": -92.10629
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -443,7 +875,105 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Jose del Cabo",
+        "country": "Mexico"
+      },
+      {
+        "name": "Todos Santos",
+        "country": "Mexico"
+      },
+      {
+        "name": "Punta Lobos",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Pedro",
+        "country": "Mexico"
+      },
+      {
+        "name": "Sierra La Laguna Biosphere Reserve",
+        "country": "Mexico"
+      },
+      {
+        "name": "Isla Espiritu Santo",
+        "country": "Mexico"
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico"
+      },
+      {
+        "name": "Sea of Cortez",
+        "country": "null"
+      },
+      {
+        "name": "Bay of La Paz",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Jose del Cabo",
+        "country": "Mexico",
+        "lat": 23.06182,
+        "lng": -109.69633
+      },
+      {
+        "name": "Todos Santos",
+        "country": "Mexico",
+        "lat": 23.449518,
+        "lng": -110.225006
+      },
+      {
+        "name": "Punta Lobos",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "San Pedro",
+        "country": "Mexico",
+        "lat": 25.75647,
+        "lng": -102.98217
+      },
+      {
+        "name": "Sierra La Laguna Biosphere Reserve",
+        "country": "Mexico",
+        "lat": 17.359917,
+        "lng": -98.23778
+      },
+      {
+        "name": "Isla Espiritu Santo",
+        "country": "Mexico",
+        "lat": 24.471389,
+        "lng": -110.3325
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico",
+        "lat": 24.161955,
+        "lng": -110.315605
+      },
+      {
+        "name": "Bay of La Paz",
+        "country": "Mexico",
+        "lat": 19.37133,
+        "lng": -98.92107
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -489,7 +1019,53 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Loreto",
+        "country": "Mexico"
+      },
+      {
+        "name": "Sea of Cortez",
+        "country": "null"
+      },
+      {
+        "name": "Loreto Bay National Marine Park",
+        "country": "null"
+      },
+      {
+        "name": "Espiritu Santo",
+        "country": "null"
+      },
+      {
+        "name": "Baja Peninsula",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Loreto",
+        "country": "Mexico",
+        "lat": 26.010105,
+        "lng": -111.3419
+      },
+      {
+        "name": "Baja Peninsula",
+        "country": "Mexico",
+        "lat": 21.108576,
+        "lng": -89.39906
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -540,7 +1116,61 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Loreto",
+        "country": "Mexico"
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puerto Lopez Mateo",
+        "country": "Mexico"
+      },
+      {
+        "name": "Magdalena Bay",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Loreto",
+        "country": "Mexico",
+        "lat": 26.010105,
+        "lng": -111.3419
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico",
+        "lat": 24.161955,
+        "lng": -110.315605
+      },
+      {
+        "name": "Puerto Lopez Mateo",
+        "country": "Mexico",
+        "lat": 19.560867,
+        "lng": -99.24657
+      },
+      {
+        "name": "Magdalena Bay",
+        "country": "Mexico",
+        "lat": 20.909092,
+        "lng": -103.98114
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -636,7 +1266,141 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puebla",
+        "country": "Mexico"
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tehuantepec",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico"
+      },
+      {
+        "name": "Zinacantan",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Juan Chamula",
+        "country": "Mexico"
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico"
+      },
+      {
+        "name": "Isla Holbox",
+        "country": "Mexico"
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichén Itzá",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Puebla",
+        "country": "Mexico",
+        "lat": 19.043692,
+        "lng": -98.19906
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico",
+        "lat": 17.062824,
+        "lng": -96.72438
+      },
+      {
+        "name": "Tehuantepec",
+        "country": "Mexico",
+        "lat": 16.317261,
+        "lng": -95.246801
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico",
+        "lat": 16.73741,
+        "lng": -92.63707
+      },
+      {
+        "name": "Zinacantan",
+        "country": "Mexico",
+        "lat": 16.758986,
+        "lng": -92.721565
+      },
+      {
+        "name": "San Juan Chamula",
+        "country": "Mexico",
+        "lat": 16.786768,
+        "lng": -92.69021
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      },
+      {
+        "name": "Isla Holbox",
+        "country": "Mexico",
+        "lat": 21.530833,
+        "lng": -87.286111
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico",
+        "lat": 20.62865,
+        "lng": -87.07339
+      },
+      {
+        "name": "Chichén Itzá",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico",
+        "lat": 20.211458,
+        "lng": -87.4618
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -737,7 +1501,91 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Chihuahua",
+        "country": "Mexico"
+      },
+      {
+        "name": "Creel",
+        "country": "Mexico"
+      },
+      {
+        "name": "Copper Canyon",
+        "country": "Mexico"
+      },
+      {
+        "name": "El Fuerte",
+        "country": "Mexico"
+      },
+      {
+        "name": "Los Mochis",
+        "country": "Mexico"
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico"
+      },
+      {
+        "name": "Espiritu Santo Island",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Chihuahua",
+        "country": "Mexico",
+        "lat": 28.638037,
+        "lng": -106.07461
+      },
+      {
+        "name": "Creel",
+        "country": "Mexico",
+        "lat": 27.75148,
+        "lng": -107.63476
+      },
+      {
+        "name": "Copper Canyon",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "El Fuerte",
+        "country": "Mexico",
+        "lat": 26.419363,
+        "lng": -108.620926
+      },
+      {
+        "name": "Los Mochis",
+        "country": "Mexico",
+        "lat": 25.78623,
+        "lng": -108.9942
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico",
+        "lat": 24.161955,
+        "lng": -110.315605
+      },
+      {
+        "name": "Espiritu Santo Island",
+        "country": "Mexico",
+        "lat": 24.471389,
+        "lng": -110.3325
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -788,7 +1636,51 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tepoztlan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Mixquic",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Tepoztlan",
+        "country": "Mexico",
+        "lat": 18.985645,
+        "lng": -99.10159
+      },
+      {
+        "name": "Mixquic",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -844,7 +1736,51 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico"
+      },
+      {
+        "name": "Isla Espiritu Santo",
+        "country": "Mexico"
+      },
+      {
+        "name": "Los Islotes",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico",
+        "lat": 24.161955,
+        "lng": -110.315605
+      },
+      {
+        "name": "Isla Espiritu Santo",
+        "country": "Mexico",
+        "lat": 24.471389,
+        "lng": -110.3325
+      },
+      {
+        "name": "Los Islotes",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -915,7 +1851,141 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Sumidero Canyon",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Juan Chamula",
+        "country": "Mexico"
+      },
+      {
+        "name": "Zinacantan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico"
+      },
+      {
+        "name": "Campeche",
+        "country": "Mexico"
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico"
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico",
+        "lat": 19.68563,
+        "lng": -98.86884
+      },
+      {
+        "name": "Sumidero Canyon",
+        "country": "Mexico",
+        "lat": 18.90337,
+        "lng": -97.02369
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico",
+        "lat": 16.73741,
+        "lng": -92.63707
+      },
+      {
+        "name": "San Juan Chamula",
+        "country": "Mexico",
+        "lat": 16.786768,
+        "lng": -92.69021
+      },
+      {
+        "name": "Zinacantan",
+        "country": "Mexico",
+        "lat": 16.758986,
+        "lng": -92.721565
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico",
+        "lat": 17.509184,
+        "lng": -91.98126
+      },
+      {
+        "name": "Campeche",
+        "country": "Mexico",
+        "lat": 19.838362,
+        "lng": -90.51832
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico",
+        "lat": 20.36029,
+        "lng": -89.770561
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico",
+        "lat": 20.968672,
+        "lng": -89.62278
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico",
+        "lat": 20.62865,
+        "lng": -87.07339
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -981,7 +2051,141 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico"
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico"
+      },
+      {
+        "name": "Laguna Chabela",
+        "country": "Mexico"
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Piste",
+        "country": "Mexico"
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Celestun Bird Sanctuary",
+        "country": "Mexico"
+      },
+      {
+        "name": "Coba",
+        "country": "Mexico"
+      },
+      {
+        "name": "Muyil",
+        "country": "Mexico"
+      },
+      {
+        "name": "Sian Ka'an",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico",
+        "lat": 20.62865,
+        "lng": -87.07339
+      },
+      {
+        "name": "Laguna Chabela",
+        "country": "Mexico",
+        "lat": 17.359917,
+        "lng": -98.23778
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico",
+        "lat": 20.689676,
+        "lng": -88.20226
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Piste",
+        "country": "Mexico",
+        "lat": 20.698572,
+        "lng": -88.58862
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico",
+        "lat": 20.968672,
+        "lng": -89.62278
+      },
+      {
+        "name": "Celestun Bird Sanctuary",
+        "country": "Mexico",
+        "lat": 20.860981,
+        "lng": -90.40028
+      },
+      {
+        "name": "Coba",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Muyil",
+        "country": "Mexico",
+        "lat": 20.079079,
+        "lng": -87.615481
+      },
+      {
+        "name": "Sian Ka'an",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico",
+        "lat": 20.211458,
+        "lng": -87.4618
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -1057,7 +2261,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puerto Escondido",
+        "country": "Mexico"
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico"
+      },
+      {
+        "name": "Hierve el Agua",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichén Itzá",
+        "country": "Mexico"
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Puerto Escondido",
+        "country": "Mexico",
+        "lat": 15.863567,
+        "lng": -97.07206
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico",
+        "lat": 17.062824,
+        "lng": -96.72438
+      },
+      {
+        "name": "Hierve el Agua",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico",
+        "lat": 20.211458,
+        "lng": -87.4618
+      },
+      {
+        "name": "Chichén Itzá",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico",
+        "lat": 20.689676,
+        "lng": -88.20226
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -1103,7 +2391,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Campeche",
+        "country": "Mexico"
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico",
+        "lat": 20.62865,
+        "lng": -87.07339
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico",
+        "lat": 20.968672,
+        "lng": -89.62278
+      },
+      {
+        "name": "Campeche",
+        "country": "Mexico",
+        "lat": 19.838362,
+        "lng": -90.51832
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico",
+        "lat": 17.509184,
+        "lng": -91.98126
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico",
+        "lat": 20.211458,
+        "lng": -87.4618
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -1204,7 +2566,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotihuacán",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puebla",
+        "country": "Mexico"
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico"
+      },
+      {
+        "name": "Yucatán Peninsula",
+        "country": "Mexico"
+      },
+      {
+        "name": "Ek Balam",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichén Itzá",
+        "country": "Mexico"
+      },
+      {
+        "name": "Mérida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico"
+      },
+      {
+        "name": "El Cuyo",
+        "country": "Mexico"
+      },
+      {
+        "name": "Las Ánimas",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Teotihuacán",
+        "country": "Mexico",
+        "lat": 19.68563,
+        "lng": -98.86884
+      },
+      {
+        "name": "Puebla",
+        "country": "Mexico",
+        "lat": 19.043692,
+        "lng": -98.19906
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico",
+        "lat": 17.062824,
+        "lng": -96.72438
+      },
+      {
+        "name": "Yucatán Peninsula",
+        "country": "Mexico",
+        "lat": 20.721291,
+        "lng": -88.997205
+      },
+      {
+        "name": "Ek Balam",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Chichén Itzá",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Mérida",
+        "country": "Mexico",
+        "lat": 20.968672,
+        "lng": -89.62278
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico",
+        "lat": 20.36029,
+        "lng": -89.770561
+      },
+      {
+        "name": "El Cuyo",
+        "country": "Mexico",
+        "lat": 21.516167,
+        "lng": -87.677807
+      },
+      {
+        "name": "Las Ánimas",
+        "country": "Mexico",
+        "lat": 25.008866,
+        "lng": -99.179621
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -1335,7 +2821,261 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico"
+      },
+      {
+        "name": "Monte Alban",
+        "country": "Mexico"
+      },
+      {
+        "name": "Santa Maria del Tule",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotitlan del Valle",
+        "country": "Mexico"
+      },
+      {
+        "name": "Mitla",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tehuantepec",
+        "country": "Mexico"
+      },
+      {
+        "name": "Sumidero Canyon",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Juan Chamula",
+        "country": "Mexico"
+      },
+      {
+        "name": "Zinacantan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico"
+      },
+      {
+        "name": "Flores",
+        "country": "Guatemala"
+      },
+      {
+        "name": "Yaxha",
+        "country": "Guatemala"
+      },
+      {
+        "name": "Tikal",
+        "country": "Guatemala"
+      },
+      {
+        "name": "San Ignacio",
+        "country": "Belize"
+      },
+      {
+        "name": "Caye Caulker",
+        "country": "Belize"
+      },
+      {
+        "name": "Bacalar",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico"
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico",
+        "lat": 19.68563,
+        "lng": -98.86884
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico",
+        "lat": 17.062824,
+        "lng": -96.72438
+      },
+      {
+        "name": "Monte Alban",
+        "country": "Mexico",
+        "lat": 22.742804,
+        "lng": -98.97168
+      },
+      {
+        "name": "Santa Maria del Tule",
+        "country": "Mexico",
+        "lat": 17.045477,
+        "lng": -96.63678
+      },
+      {
+        "name": "Teotitlan del Valle",
+        "country": "Mexico",
+        "lat": 17.030169,
+        "lng": -96.52076
+      },
+      {
+        "name": "Mitla",
+        "country": "Mexico",
+        "lat": 16.920833,
+        "lng": -96.361667
+      },
+      {
+        "name": "Tehuantepec",
+        "country": "Mexico",
+        "lat": 16.317261,
+        "lng": -95.246801
+      },
+      {
+        "name": "Sumidero Canyon",
+        "country": "Mexico",
+        "lat": 18.90337,
+        "lng": -97.02369
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico",
+        "lat": 16.73741,
+        "lng": -92.63707
+      },
+      {
+        "name": "San Juan Chamula",
+        "country": "Mexico",
+        "lat": 16.786768,
+        "lng": -92.69021
+      },
+      {
+        "name": "Zinacantan",
+        "country": "Mexico",
+        "lat": 16.758986,
+        "lng": -92.721565
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico",
+        "lat": 17.509184,
+        "lng": -91.98126
+      },
+      {
+        "name": "Flores",
+        "country": "Guatemala",
+        "lat": 16.92957,
+        "lng": -89.89185
+      },
+      {
+        "name": "Yaxha",
+        "country": "Guatemala",
+        "lat": 14.6228,
+        "lng": -90.5314
+      },
+      {
+        "name": "Tikal",
+        "country": "Guatemala",
+        "lat": 14.6228,
+        "lng": -90.5314
+      },
+      {
+        "name": "San Ignacio",
+        "country": "Belize",
+        "lat": 17.149483,
+        "lng": -89.086247
+      },
+      {
+        "name": "Caye Caulker",
+        "country": "Belize",
+        "lat": 17.7425,
+        "lng": -88.025
+      },
+      {
+        "name": "Bacalar",
+        "country": "Mexico",
+        "lat": 18.676872,
+        "lng": -88.39056
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico",
+        "lat": 20.211458,
+        "lng": -87.4618
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico",
+        "lat": 20.689676,
+        "lng": -88.20226
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico",
+        "lat": 20.968672,
+        "lng": -89.62278
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico",
+        "lat": 20.36029,
+        "lng": -89.770561
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -1411,7 +3151,131 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Xochimilco",
+        "country": "Mexico"
+      },
+      {
+        "name": "Zotictla",
+        "country": "Mexico"
+      },
+      {
+        "name": "Santa Ana Tzacuala",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Cholula",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puebla",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tehuacán",
+        "country": "Mexico"
+      },
+      {
+        "name": "Cholula",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tonantzintla",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Francisco Acatepec",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Xochimilco",
+        "country": "Mexico",
+        "lat": 19.26299,
+        "lng": -99.104416
+      },
+      {
+        "name": "Zotictla",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Santa Ana Tzacuala",
+        "country": "Mexico",
+        "lat": 20.19653,
+        "lng": -98.203896
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico",
+        "lat": 19.68563,
+        "lng": -98.86884
+      },
+      {
+        "name": "Cholula",
+        "country": "Mexico",
+        "lat": 19.061197,
+        "lng": -98.305504
+      },
+      {
+        "name": "Puebla",
+        "country": "Mexico",
+        "lat": 19.043692,
+        "lng": -98.19906
+      },
+      {
+        "name": "Tehuacán",
+        "country": "Mexico",
+        "lat": 18.463009,
+        "lng": -97.39406
+      },
+      {
+        "name": "Cholula",
+        "country": "Mexico",
+        "lat": 19.061197,
+        "lng": -98.305504
+      },
+      {
+        "name": "Tonantzintla",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "San Francisco Acatepec",
+        "country": "Mexico",
+        "lat": 19.78283,
+        "lng": -97.32238
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -1512,7 +3376,151 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puebla de los Angeles",
+        "country": "Mexico"
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico"
+      },
+      {
+        "name": "Monte Alban",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico"
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico"
+      },
+      {
+        "name": "Agua Azul",
+        "country": "Mexico"
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico"
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Izamal",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico",
+        "lat": 19.68563,
+        "lng": -98.86884
+      },
+      {
+        "name": "Puebla de los Angeles",
+        "country": "Mexico",
+        "lat": 20.534788,
+        "lng": -100.48759
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico",
+        "lat": 17.062824,
+        "lng": -96.72438
+      },
+      {
+        "name": "Monte Alban",
+        "country": "Mexico",
+        "lat": 22.742804,
+        "lng": -98.97168
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico",
+        "lat": 16.73741,
+        "lng": -92.63707
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico",
+        "lat": 17.509184,
+        "lng": -91.98126
+      },
+      {
+        "name": "Agua Azul",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico",
+        "lat": 20.36029,
+        "lng": -89.770561
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico",
+        "lat": 20.968672,
+        "lng": -89.62278
+      },
+      {
+        "name": "Izamal",
+        "country": "Mexico",
+        "lat": 20.931719,
+        "lng": -89.01857
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -1578,7 +3586,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puebla",
+        "country": "Mexico"
+      },
+      {
+        "name": "Cholula",
+        "country": "Mexico"
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico"
+      },
+      {
+        "name": "Mitla",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tule Tree",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico",
+        "lat": 19.68563,
+        "lng": -98.86884
+      },
+      {
+        "name": "Puebla",
+        "country": "Mexico",
+        "lat": 19.043692,
+        "lng": -98.19906
+      },
+      {
+        "name": "Cholula",
+        "country": "Mexico",
+        "lat": 19.061197,
+        "lng": -98.305504
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico",
+        "lat": 17.062824,
+        "lng": -96.72438
+      },
+      {
+        "name": "Mitla",
+        "country": "Mexico",
+        "lat": 16.920833,
+        "lng": -96.361667
+      },
+      {
+        "name": "Tule Tree",
+        "country": "Mexico",
+        "lat": 23.013868,
+        "lng": -99.71171
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -1694,7 +3786,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Cristóbal de las Casas",
+        "country": "Mexico"
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico"
+      },
+      {
+        "name": "Mérida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichén Itzá",
+        "country": "Mexico"
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puerto Morelos",
+        "country": "Mexico"
+      },
+      {
+        "name": "Cancún",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico",
+        "lat": 19.68563,
+        "lng": -98.86884
+      },
+      {
+        "name": "San Cristóbal de las Casas",
+        "country": "Mexico",
+        "lat": 16.73741,
+        "lng": -92.63707
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico",
+        "lat": 17.509184,
+        "lng": -91.98126
+      },
+      {
+        "name": "Mérida",
+        "country": "Mexico",
+        "lat": 20.968672,
+        "lng": -89.62278
+      },
+      {
+        "name": "Chichén Itzá",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico",
+        "lat": 20.689676,
+        "lng": -88.20226
+      },
+      {
+        "name": "Puerto Morelos",
+        "country": "Mexico",
+        "lat": 20.847906,
+        "lng": -86.87593
+      },
+      {
+        "name": "Cancún",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -1765,7 +3961,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico"
+      },
+      {
+        "name": "Espiritu Santo",
+        "country": "Mexico"
+      },
+      {
+        "name": "Isla Partida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Ensenada Grande",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico",
+        "lat": 24.161955,
+        "lng": -110.315605
+      },
+      {
+        "name": "Espiritu Santo",
+        "country": "Mexico",
+        "lat": 24.471389,
+        "lng": -110.3325
+      },
+      {
+        "name": "Isla Partida",
+        "country": "Mexico",
+        "lat": 18.029339,
+        "lng": -95.52854
+      },
+      {
+        "name": "Ensenada Grande",
+        "country": "Mexico",
+        "lat": 31.866417,
+        "lng": -116.60352
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -1866,7 +4116,221 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Coyoacan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Xochimilco",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puebla",
+        "country": "Mexico"
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico"
+      },
+      {
+        "name": "Monte Alban",
+        "country": "Mexico"
+      },
+      {
+        "name": "Mitla",
+        "country": "Mexico"
+      },
+      {
+        "name": "Sumidero Canyon",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Juan Chamula",
+        "country": "Mexico"
+      },
+      {
+        "name": "Zinacantan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Agua Azul",
+        "country": "Mexico"
+      },
+      {
+        "name": "Misol Ha",
+        "country": "Mexico"
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico"
+      },
+      {
+        "name": "Campeche",
+        "country": "Mexico"
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico"
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico",
+        "lat": 19.68563,
+        "lng": -98.86884
+      },
+      {
+        "name": "Coyoacan",
+        "country": "Mexico",
+        "lat": 19.350697,
+        "lng": -99.16391
+      },
+      {
+        "name": "Xochimilco",
+        "country": "Mexico",
+        "lat": 19.26299,
+        "lng": -99.104416
+      },
+      {
+        "name": "Puebla",
+        "country": "Mexico",
+        "lat": 19.043692,
+        "lng": -98.19906
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico",
+        "lat": 17.062824,
+        "lng": -96.72438
+      },
+      {
+        "name": "Monte Alban",
+        "country": "Mexico",
+        "lat": 22.742804,
+        "lng": -98.97168
+      },
+      {
+        "name": "Mitla",
+        "country": "Mexico",
+        "lat": 16.920833,
+        "lng": -96.361667
+      },
+      {
+        "name": "Sumidero Canyon",
+        "country": "Mexico",
+        "lat": 18.90337,
+        "lng": -97.02369
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico",
+        "lat": 16.73741,
+        "lng": -92.63707
+      },
+      {
+        "name": "San Juan Chamula",
+        "country": "Mexico",
+        "lat": 16.786768,
+        "lng": -92.69021
+      },
+      {
+        "name": "Zinacantan",
+        "country": "Mexico",
+        "lat": 16.758986,
+        "lng": -92.721565
+      },
+      {
+        "name": "Agua Azul",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Misol Ha",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico",
+        "lat": 17.509184,
+        "lng": -91.98126
+      },
+      {
+        "name": "Campeche",
+        "country": "Mexico",
+        "lat": 19.838362,
+        "lng": -90.51832
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico",
+        "lat": 20.36029,
+        "lng": -89.770561
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico",
+        "lat": 20.968672,
+        "lng": -89.62278
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -1967,7 +4431,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puebla",
+        "country": "Mexico"
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico"
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico"
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Puebla",
+        "country": "Mexico",
+        "lat": 19.043692,
+        "lng": -98.19906
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico",
+        "lat": 17.062824,
+        "lng": -96.72438
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico",
+        "lat": 16.73741,
+        "lng": -92.63707
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico",
+        "lat": 17.509184,
+        "lng": -91.98126
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico",
+        "lat": 20.968672,
+        "lng": -89.62278
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico",
+        "lat": 20.62865,
+        "lng": -87.07339
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2063,7 +4621,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Cristóbal",
+        "country": "Mexico"
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico"
+      },
+      {
+        "name": "Mérida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico"
+      },
+      {
+        "name": "Cancún",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico",
+        "lat": 19.68563,
+        "lng": -98.86884
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico",
+        "lat": 17.062824,
+        "lng": -96.72438
+      },
+      {
+        "name": "San Cristóbal",
+        "country": "Mexico",
+        "lat": 20.657845,
+        "lng": -101.47532
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico",
+        "lat": 17.509184,
+        "lng": -91.98126
+      },
+      {
+        "name": "Mérida",
+        "country": "Mexico",
+        "lat": 20.968672,
+        "lng": -89.62278
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico",
+        "lat": 20.62865,
+        "lng": -87.07339
+      },
+      {
+        "name": "Cancún",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2169,7 +4831,151 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puebla de los Angeles",
+        "country": "Mexico"
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico"
+      },
+      {
+        "name": "Monte Alban",
+        "country": "Mexico"
+      },
+      {
+        "name": "Teotitlan del Valle",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico"
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico"
+      },
+      {
+        "name": "Yucatan Peninsula",
+        "country": "Mexico"
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tixkokob",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Cancún",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Teotihuacan",
+        "country": "Mexico",
+        "lat": 19.68563,
+        "lng": -98.86884
+      },
+      {
+        "name": "Puebla de los Angeles",
+        "country": "Mexico",
+        "lat": 20.534788,
+        "lng": -100.48759
+      },
+      {
+        "name": "Oaxaca",
+        "country": "Mexico",
+        "lat": 17.062824,
+        "lng": -96.72438
+      },
+      {
+        "name": "Monte Alban",
+        "country": "Mexico",
+        "lat": 22.742804,
+        "lng": -98.97168
+      },
+      {
+        "name": "Teotitlan del Valle",
+        "country": "Mexico",
+        "lat": 17.030169,
+        "lng": -96.52076
+      },
+      {
+        "name": "San Cristobal de las Casas",
+        "country": "Mexico",
+        "lat": 16.73741,
+        "lng": -92.63707
+      },
+      {
+        "name": "Palenque",
+        "country": "Mexico",
+        "lat": 17.509184,
+        "lng": -91.98126
+      },
+      {
+        "name": "Yucatan Peninsula",
+        "country": "Mexico",
+        "lat": 20.721291,
+        "lng": -88.997205
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico",
+        "lat": 20.36029,
+        "lng": -89.770561
+      },
+      {
+        "name": "Tixkokob",
+        "country": "Mexico",
+        "lat": 21.002735,
+        "lng": -89.395836
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Cancún",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2255,7 +5061,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Todos Santos",
+        "country": "Mexico"
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico"
+      },
+      {
+        "name": "Isla Espiritu Santo",
+        "country": "Mexico"
+      },
+      {
+        "name": "Magdalena Bay",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Todos Santos",
+        "country": "Mexico",
+        "lat": 23.449518,
+        "lng": -110.225006
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico",
+        "lat": 24.161955,
+        "lng": -110.315605
+      },
+      {
+        "name": "Isla Espiritu Santo",
+        "country": "Mexico",
+        "lat": 24.471389,
+        "lng": -110.3325
+      },
+      {
+        "name": "Magdalena Bay",
+        "country": "Mexico",
+        "lat": 20.909092,
+        "lng": -103.98114
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2316,7 +5176,61 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Valle de Bravo",
+        "country": "Mexico"
+      },
+      {
+        "name": "Monarch Butterfly Sanctuary",
+        "country": "Mexico"
+      },
+      {
+        "name": "Lake Avándaro",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Valle de Bravo",
+        "country": "Mexico",
+        "lat": 19.19371,
+        "lng": -100.13195
+      },
+      {
+        "name": "Monarch Butterfly Sanctuary",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Lake Avándaro",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2377,7 +5291,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico"
+      },
+      {
+        "name": "Valle de Bravo",
+        "country": "Mexico"
+      },
+      {
+        "name": "Piedra Herrada",
+        "country": "Mexico"
+      },
+      {
+        "name": "El Capulin",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Valle de Bravo",
+        "country": "Mexico",
+        "lat": 19.19371,
+        "lng": -100.13195
+      },
+      {
+        "name": "Piedra Herrada",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "El Capulin",
+        "country": "Mexico",
+        "lat": 20.4782,
+        "lng": -103.27199
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2443,7 +5411,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tepic",
+        "country": "Mexico"
+      },
+      {
+        "name": "Rincón de Guayabitos",
+        "country": "Mexico"
+      },
+      {
+        "name": "Sayulita",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Pancho",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puerto Vallarta",
+        "country": "Mexico"
+      },
+      {
+        "name": "San Sebastián del Oeste",
+        "country": "Mexico"
+      },
+      {
+        "name": "Bahía de Banderas",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tepic",
+        "country": "Mexico",
+        "lat": 21.508604,
+        "lng": -104.89292
+      },
+      {
+        "name": "Rincón de Guayabitos",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Sayulita",
+        "country": "Mexico",
+        "lat": 20.868926,
+        "lng": -105.440702
+      },
+      {
+        "name": "San Pancho",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Puerto Vallarta",
+        "country": "Mexico",
+        "lat": 20.640686,
+        "lng": -105.22131
+      },
+      {
+        "name": "San Sebastián del Oeste",
+        "country": "Mexico",
+        "lat": 20.761044,
+        "lng": -104.852554
+      },
+      {
+        "name": "Bahía de Banderas",
+        "country": "Mexico",
+        "lat": 20.869371,
+        "lng": -105.43995
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2494,7 +5546,61 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Loreto",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puerto Escondido",
+        "country": "Mexico"
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico"
+      },
+      {
+        "name": "Punta Coyote",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Loreto",
+        "country": "Mexico",
+        "lat": 26.010105,
+        "lng": -111.3419
+      },
+      {
+        "name": "Puerto Escondido",
+        "country": "Mexico",
+        "lat": 15.863567,
+        "lng": -97.07206
+      },
+      {
+        "name": "La Paz",
+        "country": "Mexico",
+        "lat": 24.161955,
+        "lng": -110.315605
+      },
+      {
+        "name": "Punta Coyote",
+        "country": "Mexico",
+        "lat": 25.6518,
+        "lng": -103.254348
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2570,7 +5676,141 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico"
+      },
+      {
+        "name": "Riviera Maya",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico"
+      },
+      {
+        "name": "Siankaan Biosphere Reserve",
+        "country": "Mexico"
+      },
+      {
+        "name": "Kantemoh",
+        "country": "Mexico"
+      },
+      {
+        "name": "Coba",
+        "country": "Mexico"
+      },
+      {
+        "name": "Punta Laguna",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico"
+      },
+      {
+        "name": "Río Lagartos",
+        "country": "Mexico"
+      },
+      {
+        "name": "Las Coloradas",
+        "country": "Mexico"
+      },
+      {
+        "name": "Cenotes near Valladolid",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      },
+      {
+        "name": "Riviera Maya",
+        "country": "Mexico",
+        "lat": 20.477493,
+        "lng": -89.36464
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico",
+        "lat": 20.211458,
+        "lng": -87.4618
+      },
+      {
+        "name": "Siankaan Biosphere Reserve",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Kantemoh",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Coba",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Punta Laguna",
+        "country": "Mexico",
+        "lat": 17.359917,
+        "lng": -98.23778
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico",
+        "lat": 20.689676,
+        "lng": -88.20226
+      },
+      {
+        "name": "Río Lagartos",
+        "country": "Mexico",
+        "lat": 21.597198,
+        "lng": -88.15786
+      },
+      {
+        "name": "Las Coloradas",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Cenotes near Valladolid",
+        "country": "Mexico",
+        "lat": 20.689676,
+        "lng": -88.20226
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2646,7 +5886,131 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico"
+      },
+      {
+        "name": "Sian Ka'an",
+        "country": "Mexico"
+      },
+      {
+        "name": "Coba",
+        "country": "Mexico"
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico"
+      },
+      {
+        "name": "Rio Lagartos",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Izamal",
+        "country": "Mexico"
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico"
+      },
+      {
+        "name": "Loltun",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico",
+        "lat": 20.211458,
+        "lng": -87.4618
+      },
+      {
+        "name": "Sian Ka'an",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Coba",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico",
+        "lat": 20.689676,
+        "lng": -88.20226
+      },
+      {
+        "name": "Rio Lagartos",
+        "country": "Mexico",
+        "lat": 21.597198,
+        "lng": -88.15786
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Izamal",
+        "country": "Mexico",
+        "lat": 20.931719,
+        "lng": -89.01857
+      },
+      {
+        "name": "Merida",
+        "country": "Mexico",
+        "lat": 20.968672,
+        "lng": -89.62278
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico",
+        "lat": 20.36029,
+        "lng": -89.770561
+      },
+      {
+        "name": "Loltun",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2722,7 +6086,211 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico"
+      },
+      {
+        "name": "Muyil",
+        "country": "Mexico"
+      },
+      {
+        "name": "Bacalar",
+        "country": "Mexico"
+      },
+      {
+        "name": "Dzibanché",
+        "country": "Mexico"
+      },
+      {
+        "name": "Kohunlich",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chicanná",
+        "country": "Mexico"
+      },
+      {
+        "name": "Becan",
+        "country": "Mexico"
+      },
+      {
+        "name": "Xpujil",
+        "country": "Mexico"
+      },
+      {
+        "name": "Calakmul",
+        "country": "Mexico"
+      },
+      {
+        "name": "Hormiguero",
+        "country": "Mexico"
+      },
+      {
+        "name": "Balam Kú",
+        "country": "Mexico"
+      },
+      {
+        "name": "Campeche",
+        "country": "Mexico"
+      },
+      {
+        "name": "Edzná",
+        "country": "Mexico"
+      },
+      {
+        "name": "Santa Rosa Xtampak",
+        "country": "Mexico"
+      },
+      {
+        "name": "Hopelchén",
+        "country": "Mexico"
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico",
+        "lat": 20.211458,
+        "lng": -87.4618
+      },
+      {
+        "name": "Muyil",
+        "country": "Mexico",
+        "lat": 20.079079,
+        "lng": -87.615481
+      },
+      {
+        "name": "Bacalar",
+        "country": "Mexico",
+        "lat": 18.676872,
+        "lng": -88.39056
+      },
+      {
+        "name": "Dzibanché",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Kohunlich",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Chicanná",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Becan",
+        "country": "Mexico",
+        "lat": 20.4412,
+        "lng": -90.02777
+      },
+      {
+        "name": "Xpujil",
+        "country": "Mexico",
+        "lat": 18.506462,
+        "lng": -89.39431
+      },
+      {
+        "name": "Calakmul",
+        "country": "Mexico",
+        "lat": 18.591955,
+        "lng": -89.41469
+      },
+      {
+        "name": "Hormiguero",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Balam Kú",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Campeche",
+        "country": "Mexico",
+        "lat": 19.838362,
+        "lng": -90.51832
+      },
+      {
+        "name": "Edzná",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Santa Rosa Xtampak",
+        "country": "Mexico",
+        "lat": 20.565393,
+        "lng": -100.92439
+      },
+      {
+        "name": "Hopelchén",
+        "country": "Mexico",
+        "lat": 19.744896,
+        "lng": -89.84514
+      },
+      {
+        "name": "Uxmal",
+        "country": "Mexico",
+        "lat": 20.36029,
+        "lng": -89.770561
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico",
+        "lat": 20.689676,
+        "lng": -88.20226
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2798,7 +6366,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico"
+      },
+      {
+        "name": "Isla Holbox",
+        "country": "Mexico"
+      },
+      {
+        "name": "Mérida",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico"
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico"
+      },
+      {
+        "name": "Ek Balam",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      },
+      {
+        "name": "Isla Holbox",
+        "country": "Mexico",
+        "lat": 21.530833,
+        "lng": -87.286111
+      },
+      {
+        "name": "Mérida",
+        "country": "Mexico",
+        "lat": 20.968672,
+        "lng": -89.62278
+      },
+      {
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico",
+        "lat": 20.689676,
+        "lng": -88.20226
+      },
+      {
+        "name": "Ek Balam",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico",
+        "lat": 20.211458,
+        "lng": -87.4618
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2869,7 +6521,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico"
+      },
+      {
+        "name": "Isla Holbox",
+        "country": "Mexico"
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichén Itzá",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico"
+      },
+      {
+        "name": "Sian Ka'an Biosphere Reserve",
+        "country": "Mexico"
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Playa del Carmen",
+        "country": "Mexico",
+        "lat": 20.62865,
+        "lng": -87.07339
+      },
+      {
+        "name": "Isla Holbox",
+        "country": "Mexico",
+        "lat": 21.530833,
+        "lng": -87.286111
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico",
+        "lat": 20.689676,
+        "lng": -88.20226
+      },
+      {
+        "name": "Chichén Itzá",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico",
+        "lat": 20.211458,
+        "lng": -87.4618
+      },
+      {
+        "name": "Sian Ka'an Biosphere Reserve",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      }
+    ]
   },
   {
     "destination": "Mexico",
@@ -2945,6 +6681,90 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico"
+      },
+      {
+        "name": "Puerto Morelos",
+        "country": "Mexico"
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico"
+      },
+      {
+        "name": "Ek Balam",
+        "country": "Mexico"
+      },
+      {
+        "name": "Chichén Itzá",
+        "country": "Mexico"
+      },
+      {
+        "name": "Yaxunah",
+        "country": "Mexico"
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cancun",
+        "country": "Mexico",
+        "lat": 21.16188,
+        "lng": -86.85176
+      },
+      {
+        "name": "Puerto Morelos",
+        "country": "Mexico",
+        "lat": 20.847906,
+        "lng": -86.87593
+      },
+      {
+        "name": "Valladolid",
+        "country": "Mexico",
+        "lat": 20.689676,
+        "lng": -88.20226
+      },
+      {
+        "name": "Ek Balam",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Chichén Itzá",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Yaxunah",
+        "country": "Mexico",
+        "lat": 19.43263,
+        "lng": -99.133178
+      },
+      {
+        "name": "Tulum",
+        "country": "Mexico",
+        "lat": 20.211458,
+        "lng": -87.4618
+      }
+    ]
   }
 ]

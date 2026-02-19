@@ -98,7 +98,103 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Mary",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Margush",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Darvaza",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Konya Urgench",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Mary",
+        "country": "Turkmenistan",
+        "lat": 37.593174,
+        "lng": 61.841187
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan",
+        "lat": 37.940465,
+        "lng": 58.382349
+      },
+      {
+        "name": "Nukus",
+        "country": "Uzbekistan",
+        "lat": 42.46143,
+        "lng": 59.616844
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      }
+    ]
   },
   {
     "destination": "Turkmenistan",
@@ -199,7 +295,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Geok Tepe",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Nohur",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Balkanabat",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Yangikala",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Gozli Ata",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Caspian Sea",
+        "country": "null"
+      },
+      {
+        "name": "Turkmenbashi",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Dashoguz",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Konye-Urgench",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Karakum Desert",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Gonur Depe",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Merv",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Koyten",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Kerki",
+        "country": "Turkmenistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan",
+        "lat": 37.940465,
+        "lng": 58.382349
+      },
+      {
+        "name": "Balkanabat",
+        "country": "Turkmenistan",
+        "lat": 39.511765,
+        "lng": 54.35379
+      },
+      {
+        "name": "Turkmenbashi",
+        "country": "Turkmenistan",
+        "lat": 40.006207,
+        "lng": 52.99377
+      },
+      {
+        "name": "Dashoguz",
+        "country": "Turkmenistan",
+        "lat": 41.837807,
+        "lng": 59.95314
+      },
+      {
+        "name": "Karakum Desert",
+        "country": "Turkmenistan",
+        "lat": 37.799706,
+        "lng": 62.039078
+      }
+    ]
   },
   {
     "destination": "Turkmenistan",
@@ -290,7 +490,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Geok Tepe",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Kowata underground lake",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Kopet Dag Mountains",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Karakala",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Dehistan",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Turkmenbashi",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Gozli-Ata",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Kara Kum desert",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Darwaza flaming gas crater",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Konye Urgench",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Merv",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Gonur Tepe",
+        "country": "Turkmenistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan",
+        "lat": 37.940465,
+        "lng": 58.382349
+      },
+      {
+        "name": "Turkmenbashi",
+        "country": "Turkmenistan",
+        "lat": 40.006207,
+        "lng": 52.99377
+      },
+      {
+        "name": "Kara Kum desert",
+        "country": "Turkmenistan",
+        "lat": 37.34679,
+        "lng": 59.61464
+      }
+    ]
   },
   {
     "destination": "Turkmenistan",
@@ -391,6 +675,140 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Gissar",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Iskander Kul",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Istaravshan",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Khodjand",
+        "country": "Tajikistan"
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Toprak Kala",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Ayaz Kala",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan"
+      },
+      {
+        "name": "Konye-Urgench",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Darwaza",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan"
+      },
+      {
+        "name": "Merv",
+        "country": "Turkmenistan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dushanbe",
+        "country": "Tajikistan",
+        "lat": 38.576271,
+        "lng": 68.786357
+      },
+      {
+        "name": "Gissar",
+        "country": "Tajikistan",
+        "lat": 37.387888,
+        "lng": 68.664106
+      },
+      {
+        "name": "Iskander Kul",
+        "country": "Tajikistan",
+        "lat": 37.968349,
+        "lng": 69.986547
+      },
+      {
+        "name": "Istaravshan",
+        "country": "Tajikistan",
+        "lat": 39.908015,
+        "lng": 68.995635
+      },
+      {
+        "name": "Khodjand",
+        "country": "Tajikistan",
+        "lat": 40.285713,
+        "lng": 69.619375
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.312336,
+        "lng": 69.278708
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.655785,
+        "lng": 66.9774
+      },
+      {
+        "name": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.772476,
+        "lng": 64.41867
+      },
+      {
+        "name": "Khiva",
+        "country": "Uzbekistan",
+        "lat": 41.378586,
+        "lng": 60.358856
+      },
+      {
+        "name": "Ashgabat",
+        "country": "Turkmenistan",
+        "lat": 37.940465,
+        "lng": 58.382349
+      }
+    ]
   }
 ]

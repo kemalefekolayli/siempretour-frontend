@@ -58,7 +58,75 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sofia",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Eastern Rhodope Mountains",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Gorno Pole",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Arda River",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Borislavtsi",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Plovdiv",
+        "country": "Bulgaria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sofia",
+        "country": "Bulgaria",
+        "lat": 42.69489,
+        "lng": 23.320782
+      },
+      {
+        "name": "Gorno Pole",
+        "country": "Bulgaria",
+        "lat": 41.658585,
+        "lng": 25.851755
+      },
+      {
+        "name": "Arda River",
+        "country": "Bulgaria",
+        "lat": 41.462845,
+        "lng": 24.639685
+      },
+      {
+        "name": "Borislavtsi",
+        "country": "Bulgaria",
+        "lat": 41.66,
+        "lng": 25.925219
+      },
+      {
+        "name": "Plovdiv",
+        "country": "Bulgaria",
+        "lat": 42.148224,
+        "lng": 24.748371
+      }
+    ]
   },
   {
     "destination": "Bulgaria",
@@ -124,6 +192,104 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Sofia",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Stara Zagora",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Dositeevo",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Plovdiv",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Thracian Valley",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Gotse Delchev",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Struma Valley",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Melnik",
+        "country": "Bulgaria"
+      },
+      {
+        "name": "Rila Monastery",
+        "country": "Bulgaria"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Sofia",
+        "country": "Bulgaria",
+        "lat": 42.69489,
+        "lng": 23.320782
+      },
+      {
+        "name": "Stara Zagora",
+        "country": "Bulgaria",
+        "lat": 42.42327,
+        "lng": 25.628511
+      },
+      {
+        "name": "Dositeevo",
+        "country": "Bulgaria",
+        "lat": 41.914734,
+        "lng": 26.018637
+      },
+      {
+        "name": "Plovdiv",
+        "country": "Bulgaria",
+        "lat": 42.148224,
+        "lng": 24.748371
+      },
+      {
+        "name": "Gotse Delchev",
+        "country": "Bulgaria",
+        "lat": 41.572838,
+        "lng": 23.728199
+      },
+      {
+        "name": "Struma Valley",
+        "country": "Bulgaria",
+        "lat": 41.537113,
+        "lng": 23.23826
+      },
+      {
+        "name": "Melnik",
+        "country": "Bulgaria",
+        "lat": 41.522942,
+        "lng": 23.393246
+      },
+      {
+        "name": "Rila Monastery",
+        "country": "Bulgaria",
+        "lat": 42.122112,
+        "lng": 23.127926
+      }
+    ]
   }
 ]

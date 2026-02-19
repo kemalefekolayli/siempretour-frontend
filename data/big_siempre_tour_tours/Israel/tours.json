@@ -73,7 +73,141 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Masada",
+        "country": "Israel"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel"
+      },
+      {
+        "name": "Negev Desert",
+        "country": "Israel"
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel"
+      },
+      {
+        "name": "Safed",
+        "country": "Israel"
+      },
+      {
+        "name": "Rosh Hanikra",
+        "country": "Israel"
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel"
+      },
+      {
+        "name": "Isfiya",
+        "country": "Israel"
+      },
+      {
+        "name": "Golan Heights",
+        "country": "Israel"
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Masada",
+        "country": "Israel",
+        "lat": 32.68332,
+        "lng": 35.597626
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Negev Desert",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Safed",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Rosh Hanikra",
+        "country": "Israel",
+        "lat": 33.08645,
+        "lng": 35.11464
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel",
+        "lat": 32.81865,
+        "lng": 34.999767
+      },
+      {
+        "name": "Isfiya",
+        "country": "Israel",
+        "lat": 32.72351,
+        "lng": 35.05862
+      },
+      {
+        "name": "Golan Heights",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      }
+    ]
   },
   {
     "destination": "Israel",
@@ -159,7 +293,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel"
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel"
+      },
+      {
+        "name": "Safed",
+        "country": "Israel"
+      },
+      {
+        "name": "Tiberias",
+        "country": "Israel"
+      },
+      {
+        "name": "Nazareth",
+        "country": "Israel"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel"
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel",
+        "lat": 32.81865,
+        "lng": 34.999767
+      },
+      {
+        "name": "Safed",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Tiberias",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Nazareth",
+        "country": "Israel",
+        "lat": 32.70381,
+        "lng": 35.299755
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel",
+        "lat": 29.554464,
+        "lng": 34.954563
+      }
+    ]
   },
   {
     "destination": "Israel",
@@ -225,7 +463,161 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Shilo",
+        "country": "Israel"
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel"
+      },
+      {
+        "name": "Masada",
+        "country": "Israel"
+      },
+      {
+        "name": "Tel-Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel"
+      },
+      {
+        "name": "Safed",
+        "country": "Israel"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel"
+      },
+      {
+        "name": "Yad Vashem",
+        "country": "Israel"
+      },
+      {
+        "name": "Baha’i Gardens",
+        "country": "Israel"
+      },
+      {
+        "name": "Caesarea",
+        "country": "Israel"
+      },
+      {
+        "name": "Druze Villages",
+        "country": "Israel"
+      },
+      {
+        "name": "Rosh Pina Village",
+        "country": "Israel"
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Shilo",
+        "country": "Israel",
+        "lat": 32.05309,
+        "lng": 35.300583
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel",
+        "lat": 32.81865,
+        "lng": 34.999767
+      },
+      {
+        "name": "Masada",
+        "country": "Israel",
+        "lat": 32.68332,
+        "lng": 35.597626
+      },
+      {
+        "name": "Tel-Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Safed",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Yad Vashem",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Baha’i Gardens",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Caesarea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Druze Villages",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Rosh Pina Village",
+        "country": "Israel",
+        "lat": 32.969013,
+        "lng": 35.549065
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      }
+    ]
   },
   {
     "destination": "Israel",
@@ -296,7 +688,81 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel"
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel"
+      },
+      {
+        "name": "Nazareth",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel",
+        "lat": 32.81865,
+        "lng": 34.999767
+      },
+      {
+        "name": "Nazareth",
+        "country": "Israel",
+        "lat": 32.70381,
+        "lng": 35.299755
+      }
+    ]
   },
   {
     "destination": "Israel",
@@ -372,7 +838,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel"
+      },
+      {
+        "name": "Negev Desert",
+        "country": "Israel"
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel"
+      },
+      {
+        "name": "Safed",
+        "country": "Israel"
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Negev Desert",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel",
+        "lat": 32.81865,
+        "lng": 34.999767
+      },
+      {
+        "name": "Safed",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      }
+    ]
   },
   {
     "destination": "Israel",
@@ -448,7 +998,71 @@
       }
     ],
     "map": "",
-    "category": "Luxury"
+    "category": "Luxury",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Safed",
+        "country": "Israel"
+      },
+      {
+        "name": "Negev Desert",
+        "country": "Israel"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Safed",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Negev Desert",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      }
+    ]
   },
   {
     "destination": "Israel",
@@ -524,7 +1138,151 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel"
+      },
+      {
+        "name": "Caesarea",
+        "country": "Israel"
+      },
+      {
+        "name": "Rosh Hanikra",
+        "country": "Israel"
+      },
+      {
+        "name": "Tzfat",
+        "country": "Israel"
+      },
+      {
+        "name": "Golan Heights",
+        "country": "Israel"
+      },
+      {
+        "name": "Nimrod Fortress",
+        "country": "Israel"
+      },
+      {
+        "name": "Beit She'an",
+        "country": "Israel"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel"
+      },
+      {
+        "name": "Rehovot",
+        "country": "Israel"
+      },
+      {
+        "name": "Beit Guvrin National Park",
+        "country": "Israel"
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Caesarea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Rosh Hanikra",
+        "country": "Israel",
+        "lat": 33.08645,
+        "lng": 35.11464
+      },
+      {
+        "name": "Tzfat",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Golan Heights",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Nimrod Fortress",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Beit She'an",
+        "country": "Israel",
+        "lat": 32.497913,
+        "lng": 35.49922
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Rehovot",
+        "country": "Israel",
+        "lat": 31.895098,
+        "lng": 34.811394
+      },
+      {
+        "name": "Beit Guvrin National Park",
+        "country": "Israel",
+        "lat": 31.612955,
+        "lng": 34.89588
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel",
+        "lat": 29.554464,
+        "lng": 34.954563
+      }
+    ]
   },
   {
     "destination": "Israel",
@@ -600,7 +1358,91 @@
       }
     ],
     "map": "",
-    "category": "Honeymoon"
+    "category": "Honeymoon",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Negev Desert",
+        "country": "Israel"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel"
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel"
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel"
+      },
+      {
+        "name": "Safed",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Negev Desert",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel",
+        "lat": 29.554464,
+        "lng": 34.954563
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Safed",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      }
+    ]
   },
   {
     "destination": "Israel",
@@ -676,7 +1518,151 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Hebron",
+        "country": "Israel"
+      },
+      {
+        "name": "Masada",
+        "country": "Israel"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel"
+      },
+      {
+        "name": "Negev Desert",
+        "country": "Israel"
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel"
+      },
+      {
+        "name": "Ein Gedi",
+        "country": "Israel"
+      },
+      {
+        "name": "Safed",
+        "country": "Israel"
+      },
+      {
+        "name": "Rosh Hanikra",
+        "country": "Israel"
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel"
+      },
+      {
+        "name": "Golan Heights",
+        "country": "Israel"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Hebron",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Masada",
+        "country": "Israel",
+        "lat": 32.68332,
+        "lng": 35.597626
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Negev Desert",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel",
+        "lat": 29.554464,
+        "lng": 34.954563
+      },
+      {
+        "name": "Ein Gedi",
+        "country": "Israel",
+        "lat": 31.452772,
+        "lng": 35.38653
+      },
+      {
+        "name": "Safed",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Rosh Hanikra",
+        "country": "Israel",
+        "lat": 33.08645,
+        "lng": 35.11464
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel",
+        "lat": 32.81865,
+        "lng": 34.999767
+      },
+      {
+        "name": "Golan Heights",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      }
+    ]
   },
   {
     "destination": "Israel",
@@ -752,7 +1738,111 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel"
+      },
+      {
+        "name": "Akko",
+        "country": "Israel"
+      },
+      {
+        "name": "Caesarea National Park",
+        "country": "Israel"
+      },
+      {
+        "name": "Golan Heights",
+        "country": "Israel"
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel"
+      },
+      {
+        "name": "Jordan Valley",
+        "country": "Israel"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Judean Desert",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Akko",
+        "country": "Israel",
+        "lat": 32.923775,
+        "lng": 35.071865
+      },
+      {
+        "name": "Caesarea National Park",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Golan Heights",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Jordan Valley",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Judean Desert",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      }
+    ]
   },
   {
     "destination": "Israel",
@@ -848,7 +1938,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel"
+      },
+      {
+        "name": "Safed",
+        "country": "Israel"
+      },
+      {
+        "name": "Negev Desert",
+        "country": "Israel"
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Haifa",
+        "country": "Israel",
+        "lat": 32.81865,
+        "lng": 34.999767
+      },
+      {
+        "name": "Safed",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Negev Desert",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Eilat",
+        "country": "Israel",
+        "lat": 29.554464,
+        "lng": 34.954563
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      }
+    ]
   },
   {
     "destination": "Israel",
@@ -919,6 +2093,90 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel"
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel"
+      },
+      {
+        "name": "Nazareth",
+        "country": "Israel"
+      },
+      {
+        "name": "Akko",
+        "country": "Israel"
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel"
+      },
+      {
+        "name": "Yarkon Park",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Galilee",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Tel Aviv",
+        "country": "Israel",
+        "lat": 32.08532,
+        "lng": 34.7819
+      },
+      {
+        "name": "Nazareth",
+        "country": "Israel",
+        "lat": 32.70381,
+        "lng": 35.299755
+      },
+      {
+        "name": "Akko",
+        "country": "Israel",
+        "lat": 32.923775,
+        "lng": 35.071865
+      },
+      {
+        "name": "Jaffa",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Yarkon Park",
+        "country": "Israel",
+        "lat": 32.838971,
+        "lng": 35.371174
+      }
+    ]
   }
 ]

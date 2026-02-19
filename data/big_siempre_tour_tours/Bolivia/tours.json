@@ -73,7 +73,89 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Island of the Sun",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Island of the Moon",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Cordillera Real",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Condoriri National Park",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia",
+        "lat": -16.16462,
+        "lng": -69.087875
+      },
+      {
+        "name": "Island of the Moon",
+        "country": "Bolivia",
+        "lat": -17.988487,
+        "lng": -65.659746
+      },
+      {
+        "name": "Condoriri National Park",
+        "country": "Bolivia",
+        "lat": -20.119571,
+        "lng": -64.947004
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -184,7 +266,149 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Tatio Geysers",
+        "country": "Chile"
+      },
+      {
+        "name": "Death Valley",
+        "country": "null"
+      },
+      {
+        "name": "Las Tres Marias Salt Caves",
+        "country": "null"
+      },
+      {
+        "name": "Los Flamencos National Reserve",
+        "country": "null"
+      },
+      {
+        "name": "Licancabur Volcano",
+        "country": "null"
+      },
+      {
+        "name": "Dali Desert",
+        "country": "null"
+      },
+      {
+        "name": "Sol de Mañana geysers",
+        "country": "null"
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "null"
+      },
+      {
+        "name": "Road of Jewels",
+        "country": "null"
+      },
+      {
+        "name": "Salar of Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Andes Mountains",
+        "country": "null"
+      },
+      {
+        "name": "Volcán Isluga National Park",
+        "country": "null"
+      },
+      {
+        "name": "Lauca National Park",
+        "country": "null"
+      },
+      {
+        "name": "Lake Chungara",
+        "country": "null"
+      },
+      {
+        "name": "Arica",
+        "country": "Chile"
+      },
+      {
+        "name": "Pisagua",
+        "country": "Chile"
+      },
+      {
+        "name": "Chile’s Pacific coast",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Tatio Geysers",
+        "country": "Chile",
+        "lat": -18.480442,
+        "lng": -70.3193
+      },
+      {
+        "name": "Salar of Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Arica",
+        "country": "Chile",
+        "lat": -18.476973,
+        "lng": -70.318924
+      },
+      {
+        "name": "Pisagua",
+        "country": "Chile",
+        "lat": -19.597157,
+        "lng": -70.213
+      },
+      {
+        "name": "Chile’s Pacific coast",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -260,7 +484,85 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Rurrenabaque",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Madidi National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Colchani",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia",
+        "lat": -16.16462,
+        "lng": -69.087875
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia",
+        "lat": -16.020556,
+        "lng": -69.176389
+      },
+      {
+        "name": "Rurrenabaque",
+        "country": "Bolivia",
+        "lat": -14.44375,
+        "lng": -67.531181
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Colchani",
+        "country": "Bolivia",
+        "lat": -20.30061,
+        "lng": -66.937819
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -311,7 +613,49 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rurrenabaque",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Chalalán Ecolodge",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Madidi National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rurrenabaque",
+        "country": "Bolivia",
+        "lat": -14.44375,
+        "lng": -67.531181
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -462,7 +806,127 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lima",
+        "country": "Peru"
+      },
+      {
+        "name": "Amazon rainforest",
+        "country": null
+      },
+      {
+        "name": "Cuzco",
+        "country": "Peru"
+      },
+      {
+        "name": "Sacred Valley",
+        "country": "Peru"
+      },
+      {
+        "name": "Inca Trail",
+        "country": null
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru"
+      },
+      {
+        "name": "Puno",
+        "country": "Peru"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": null
+      },
+      {
+        "name": "Floating Uros Islands",
+        "country": null
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Potosi",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lima",
+        "country": "Peru",
+        "lat": -12.06973,
+        "lng": -77.03542
+      },
+      {
+        "name": "Cuzco",
+        "country": "Peru",
+        "lat": -13.516283,
+        "lng": -71.97856
+      },
+      {
+        "name": "Sacred Valley",
+        "country": "Peru",
+        "lat": -13.691881,
+        "lng": -76.02463
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "lat": -13.174207,
+        "lng": -72.5615
+      },
+      {
+        "name": "Puno",
+        "country": "Peru",
+        "lat": -15.837973,
+        "lng": -70.02774
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Potosi",
+        "country": "Bolivia",
+        "lat": -19.588188,
+        "lng": -65.753204
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia",
+        "lat": -19.046934,
+        "lng": -65.257965
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -533,7 +997,85 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sun Island",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "San Juan",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Huayllajara",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "San Juan",
+        "country": "Bolivia",
+        "lat": -17.291716,
+        "lng": -63.8475
+      },
+      {
+        "name": "Huayllajara",
+        "country": "Bolivia",
+        "lat": -19.61911,
+        "lng": -64.920833
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -609,7 +1151,85 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Rurrenabaque",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Madidi National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni Salt Flat",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia",
+        "lat": -16.16462,
+        "lng": -69.087875
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia",
+        "lat": -16.020556,
+        "lng": -69.176389
+      },
+      {
+        "name": "Rurrenabaque",
+        "country": "Bolivia",
+        "lat": -14.44375,
+        "lng": -67.531181
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Uyuni Salt Flat",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -675,7 +1295,179 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Eduardo Avaroa National Reserve",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Polques Thermal Baths",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Blanca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Cañapa",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Hedionda",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Honda",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Valley of Rocks",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Incahuasi Island",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Potosí",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Cerro Rico",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Tiwanaku",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Samaipata Fort",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Amboro National Park",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Eduardo Avaroa National Reserve",
+        "country": "Bolivia",
+        "lat": -14.646505,
+        "lng": -64.27711
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Laguna Blanca",
+        "country": "Bolivia",
+        "lat": -17.607709,
+        "lng": -68.617689
+      },
+      {
+        "name": "Cañapa",
+        "country": "Bolivia",
+        "lat": -18.188642,
+        "lng": -65.67948
+      },
+      {
+        "name": "Incahuasi Island",
+        "country": "Bolivia",
+        "lat": -20.781275,
+        "lng": -64.86846
+      },
+      {
+        "name": "Potosí",
+        "country": "Bolivia",
+        "lat": -19.588188,
+        "lng": -65.753204
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia",
+        "lat": -19.046934,
+        "lng": -65.257965
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Bolivia",
+        "lat": -17.783494,
+        "lng": -63.182085
+      },
+      {
+        "name": "Cerro Rico",
+        "country": "Bolivia",
+        "lat": -17.326068,
+        "lng": -65.952271
+      },
+      {
+        "name": "Samaipata Fort",
+        "country": "Bolivia",
+        "lat": -18.179611,
+        "lng": -63.87619
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -751,7 +1543,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Potosi",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Colchani",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni Salt Flat",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia",
+        "lat": -16.16462,
+        "lng": -69.087875
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia",
+        "lat": -16.020556,
+        "lng": -69.176389
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia",
+        "lat": -19.046934,
+        "lng": -65.257965
+      },
+      {
+        "name": "Potosi",
+        "country": "Bolivia",
+        "lat": -19.588188,
+        "lng": -65.753204
+      },
+      {
+        "name": "Colchani",
+        "country": "Bolivia",
+        "lat": -20.30061,
+        "lng": -66.937819
+      },
+      {
+        "name": "Uyuni Salt Flat",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -827,7 +1703,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Potosi",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Colchani",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni Salt Flat",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia",
+        "lat": -16.16462,
+        "lng": -69.087875
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia",
+        "lat": -16.020556,
+        "lng": -69.176389
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia",
+        "lat": -19.046934,
+        "lng": -65.257965
+      },
+      {
+        "name": "Potosi",
+        "country": "Bolivia",
+        "lat": -19.588188,
+        "lng": -65.753204
+      },
+      {
+        "name": "Colchani",
+        "country": "Bolivia",
+        "lat": -20.30061,
+        "lng": -66.937819
+      },
+      {
+        "name": "Uyuni Salt Flat",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -908,7 +1868,143 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Lauca National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Putre",
+        "country": "Chile"
+      },
+      {
+        "name": "Sajama National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Tahua",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Siloli Desert",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Muela del Diablo",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Palca Valley",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Putre",
+        "country": "Chile",
+        "lat": -18.196674,
+        "lng": -69.5595
+      },
+      {
+        "name": "Sajama National Park",
+        "country": "Bolivia",
+        "lat": -18.135866,
+        "lng": -68.976235
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia",
+        "lat": -16.16462,
+        "lng": -69.087875
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia",
+        "lat": -16.020556,
+        "lng": -69.176389
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Tahua",
+        "country": "Bolivia",
+        "lat": -19.891094,
+        "lng": -67.696236
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Muela del Diablo",
+        "country": "Bolivia",
+        "lat": -15.573004,
+        "lng": -69.276154
+      },
+      {
+        "name": "Palca Valley",
+        "country": "Bolivia",
+        "lat": -16.5616,
+        "lng": -67.95249
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -959,7 +2055,119 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Villa Candelaria",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Polques",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Aguas Termales",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Rocas de Dalí",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Blanca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Culplina",
+        "country": "Bolivia"
+      },
+      {
+        "name": "San Cristóbal",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Villa Candelaria",
+        "country": "Bolivia",
+        "lat": -20.659756,
+        "lng": -67.609039
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Rocas de Dalí",
+        "country": "Bolivia",
+        "lat": -11.216669,
+        "lng": -68.726873
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Laguna Blanca",
+        "country": "Bolivia",
+        "lat": -17.607709,
+        "lng": -68.617689
+      },
+      {
+        "name": "Culplina",
+        "country": "Bolivia",
+        "lat": -20.823488,
+        "lng": -64.94439
+      },
+      {
+        "name": "San Cristóbal",
+        "country": "Bolivia",
+        "lat": -16.652976,
+        "lng": -65.602279
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -1000,7 +2208,99 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Volcano Thunupa",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Eduardo Avaroa Andean Fauna National Reserve",
+        "country": "Bolivia"
+      },
+      {
+        "name": "San Pedro de Quemes",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Charagua",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Polques hot springs",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Volcano Licancabur",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Volcano Thunupa",
+        "country": "Bolivia",
+        "lat": -17.83377,
+        "lng": -67.899919
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Eduardo Avaroa Andean Fauna National Reserve",
+        "country": "Bolivia",
+        "lat": -14.646505,
+        "lng": -64.27711
+      },
+      {
+        "name": "San Pedro de Quemes",
+        "country": "Bolivia",
+        "lat": -20.747044,
+        "lng": -68.0484
+      },
+      {
+        "name": "Charagua",
+        "country": "Bolivia",
+        "lat": -19.790447,
+        "lng": -63.195747
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -1106,7 +2406,199 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "El Alto",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Amboro National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Samaipata",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Valle De Las Animas",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Palca Canyon",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Colchani",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Incahuasi Island",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Ojo de Perdiz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Siloli Desert",
+        "country": "Bolivia"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Atacama Salt Flats",
+        "country": "Chile"
+      },
+      {
+        "name": "Tatio Geysers",
+        "country": "Chile"
+      },
+      {
+        "name": "Tebenquinche Lagoon",
+        "country": "Chile"
+      },
+      {
+        "name": "Calama",
+        "country": "Chile"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "El Alto",
+        "country": "Bolivia",
+        "lat": -16.507387,
+        "lng": -68.16387
+      },
+      {
+        "name": "Samaipata",
+        "country": "Bolivia",
+        "lat": -18.179611,
+        "lng": -63.87619
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Bolivia",
+        "lat": -17.783494,
+        "lng": -63.182085
+      },
+      {
+        "name": "Valle De Las Animas",
+        "country": "Bolivia",
+        "lat": -20.960589,
+        "lng": -66.307298
+      },
+      {
+        "name": "Palca Canyon",
+        "country": "Bolivia",
+        "lat": -16.5616,
+        "lng": -67.95249
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Colchani",
+        "country": "Bolivia",
+        "lat": -20.30061,
+        "lng": -66.937819
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Incahuasi Island",
+        "country": "Bolivia",
+        "lat": -20.781275,
+        "lng": -64.86846
+      },
+      {
+        "name": "Ojo de Perdiz",
+        "country": "Bolivia",
+        "lat": -17.574942,
+        "lng": -63.381495
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Atacama Salt Flats",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Tatio Geysers",
+        "country": "Chile",
+        "lat": -18.480442,
+        "lng": -70.3193
+      },
+      {
+        "name": "Tebenquinche Lagoon",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "Calama",
+        "country": "Chile",
+        "lat": -22.463293,
+        "lng": -68.92554
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -1207,7 +2699,115 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santa Cruz de la Sierra",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Chiquitania",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Dinosaur Footprints",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Jatun Yampara",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Potosi",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni Salt Flats",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Incawasi Island",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Siloli Desert",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Tiwanaku",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santa Cruz de la Sierra",
+        "country": "Bolivia",
+        "lat": -17.783754,
+        "lng": -63.181553
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia",
+        "lat": -19.046934,
+        "lng": -65.257965
+      },
+      {
+        "name": "Potosi",
+        "country": "Bolivia",
+        "lat": -19.588188,
+        "lng": -65.753204
+      },
+      {
+        "name": "Uyuni Salt Flats",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -1283,7 +2883,89 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Jaguar Land Reserve",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Kaa Iya National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "San Jose",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Mamore River",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Ibare River",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Gran Mojas",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Bolivia",
+        "lat": -17.783494,
+        "lng": -63.182085
+      },
+      {
+        "name": "Jaguar Land Reserve",
+        "country": "Bolivia",
+        "lat": -10.522226,
+        "lng": -66.158491
+      },
+      {
+        "name": "San Jose",
+        "country": "Bolivia",
+        "lat": -16.870249,
+        "lng": -62.897692
+      },
+      {
+        "name": "Trinidad",
+        "country": "Bolivia",
+        "lat": -14.835493,
+        "lng": -64.90473
+      },
+      {
+        "name": "Ibare River",
+        "country": "Bolivia",
+        "lat": -16.779326,
+        "lng": -65.185336
+      },
+      {
+        "name": "Gran Mojas",
+        "country": "Bolivia",
+        "lat": -11.216669,
+        "lng": -68.726873
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -1374,7 +3056,121 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Tarabuco",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Potosí",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Siloli Desert",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Green Lagoon",
+        "country": "Bolivia"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Coroico",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Tiwanaku",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sun Island",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Bolivia",
+        "lat": -17.783494,
+        "lng": -63.182085
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia",
+        "lat": -19.046934,
+        "lng": -65.257965
+      },
+      {
+        "name": "Tarabuco",
+        "country": "Bolivia",
+        "lat": -19.182207,
+        "lng": -64.91517
+      },
+      {
+        "name": "Potosí",
+        "country": "Bolivia",
+        "lat": -19.588188,
+        "lng": -65.753204
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Coroico",
+        "country": "Bolivia",
+        "lat": -16.188791,
+        "lng": -67.72668
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia",
+        "lat": -16.16462,
+        "lng": -69.087875
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -1445,7 +3241,105 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Tiwanaku",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Condoriri",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Huayna Potosí",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "San Juan",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Coroico",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sajama National Park",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Condoriri",
+        "country": "Bolivia",
+        "lat": -20.119571,
+        "lng": -64.947004
+      },
+      {
+        "name": "Huayna Potosí",
+        "country": "Bolivia",
+        "lat": -17.141494,
+        "lng": -68.167999
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "San Juan",
+        "country": "Bolivia",
+        "lat": -17.291716,
+        "lng": -63.8475
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Coroico",
+        "country": "Bolivia",
+        "lat": -16.188791,
+        "lng": -67.72668
+      },
+      {
+        "name": "Sajama National Park",
+        "country": "Bolivia",
+        "lat": -18.135866,
+        "lng": -68.976235
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -1521,7 +3415,113 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Samaipata Ruins",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Potosi",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sun Island",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Moon Island",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Tiwanaku",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Bolivia",
+        "lat": -17.783494,
+        "lng": -63.182085
+      },
+      {
+        "name": "Samaipata Ruins",
+        "country": "Bolivia",
+        "lat": -18.179611,
+        "lng": -63.87619
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia",
+        "lat": -19.046934,
+        "lng": -65.257965
+      },
+      {
+        "name": "Potosi",
+        "country": "Bolivia",
+        "lat": -19.588188,
+        "lng": -65.753204
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Moon Island",
+        "country": "Bolivia",
+        "lat": -17.988487,
+        "lng": -65.659746
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia",
+        "lat": -16.16462,
+        "lng": -69.087875
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -1592,7 +3592,89 @@
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Jaguar Land Reserve",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Kaa Iya National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "San Jose",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Trinidad",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Mamore River",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Ibare River",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Gran Mojas",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santa Cruz",
+        "country": "Bolivia",
+        "lat": -17.783494,
+        "lng": -63.182085
+      },
+      {
+        "name": "Jaguar Land Reserve",
+        "country": "Bolivia",
+        "lat": -10.522226,
+        "lng": -66.158491
+      },
+      {
+        "name": "San Jose",
+        "country": "Bolivia",
+        "lat": -16.870249,
+        "lng": -62.897692
+      },
+      {
+        "name": "Trinidad",
+        "country": "Bolivia",
+        "lat": -14.835493,
+        "lng": -64.90473
+      },
+      {
+        "name": "Ibare River",
+        "country": "Bolivia",
+        "lat": -16.779326,
+        "lng": -65.185336
+      },
+      {
+        "name": "Gran Mojas",
+        "country": "Bolivia",
+        "lat": -11.216669,
+        "lng": -68.726873
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -1678,7 +3760,155 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile"
+      },
+      {
+        "name": "Casablanca Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Moon Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "El Tatio Geysers",
+        "country": "Chile"
+      },
+      {
+        "name": "Eduardo Avaroa National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sol de Mañana Geysers",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Tahua",
+        "country": "Bolivia"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Valparaiso",
+        "country": "Chile",
+        "lat": -33.041965,
+        "lng": -71.624306
+      },
+      {
+        "name": "Casablanca Valley",
+        "country": "Chile",
+        "lat": -33.320717,
+        "lng": -71.4107
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Moon Valley",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "El Tatio Geysers",
+        "country": "Chile",
+        "lat": -36.634323,
+        "lng": -72.953865
+      },
+      {
+        "name": "Eduardo Avaroa National Park",
+        "country": "Bolivia",
+        "lat": -14.646505,
+        "lng": -64.27711
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Sol de Mañana Geysers",
+        "country": "Bolivia",
+        "lat": -18.778596,
+        "lng": -66.297126
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Tahua",
+        "country": "Bolivia",
+        "lat": -19.891094,
+        "lng": -67.696236
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -1809,7 +4039,155 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Medellín",
+        "country": "Colombia"
+      },
+      {
+        "name": "Guatapé",
+        "country": "Colombia"
+      },
+      {
+        "name": "Salento",
+        "country": "Colombia"
+      },
+      {
+        "name": "Cali",
+        "country": "Colombia"
+      },
+      {
+        "name": "Bogotá",
+        "country": "Colombia"
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru"
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru"
+      },
+      {
+        "name": "Puno",
+        "country": "Peru"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Peru"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Eduardo Avaroa National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "null"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Medellín",
+        "country": "Colombia",
+        "lat": 6.250937,
+        "lng": -75.56733
+      },
+      {
+        "name": "Guatapé",
+        "country": "Colombia",
+        "lat": 6.234749,
+        "lng": -75.16047
+      },
+      {
+        "name": "Salento",
+        "country": "Colombia",
+        "lat": 4.637618,
+        "lng": -75.56967
+      },
+      {
+        "name": "Cali",
+        "country": "Colombia",
+        "lat": 3.455469,
+        "lng": -76.53364
+      },
+      {
+        "name": "Bogotá",
+        "country": "Colombia",
+        "lat": 4.653465,
+        "lng": -74.083645
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru",
+        "lat": -13.516283,
+        "lng": -71.97856
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "lat": -13.174207,
+        "lng": -72.5615
+      },
+      {
+        "name": "Puno",
+        "country": "Peru",
+        "lat": -15.837973,
+        "lng": -70.02774
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Peru",
+        "lat": -13.691881,
+        "lng": -76.02463
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Eduardo Avaroa National Park",
+        "country": "Bolivia",
+        "lat": -14.646505,
+        "lng": -64.27711
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -1955,7 +4333,119 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Quito",
+        "country": "Ecuador"
+      },
+      {
+        "name": "Galapagos Islands",
+        "country": "Ecuador"
+      },
+      {
+        "name": "Lima",
+        "country": "Peru"
+      },
+      {
+        "name": "Amazon Jungle",
+        "country": "Peru"
+      },
+      {
+        "name": "Cuzco",
+        "country": "Peru"
+      },
+      {
+        "name": "Sacred Valley",
+        "country": "Peru"
+      },
+      {
+        "name": "Inca Trail",
+        "country": "Peru"
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "null"
+      },
+      {
+        "name": "Puno",
+        "country": "Peru"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Quito",
+        "country": "Ecuador",
+        "lat": -0.221173,
+        "lng": -78.51131
+      },
+      {
+        "name": "Galapagos Islands",
+        "country": "Ecuador",
+        "lat": -0.9066,
+        "lng": -89.606
+      },
+      {
+        "name": "Lima",
+        "country": "Peru",
+        "lat": -12.06973,
+        "lng": -77.03542
+      },
+      {
+        "name": "Amazon Jungle",
+        "country": "Peru",
+        "lat": -13.691881,
+        "lng": -76.02463
+      },
+      {
+        "name": "Cuzco",
+        "country": "Peru",
+        "lat": -13.516283,
+        "lng": -71.97856
+      },
+      {
+        "name": "Sacred Valley",
+        "country": "Peru",
+        "lat": -13.691881,
+        "lng": -76.02463
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "lat": -13.174207,
+        "lng": -72.5615
+      },
+      {
+        "name": "Puno",
+        "country": "Peru",
+        "lat": -15.837973,
+        "lng": -70.02774
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -2076,7 +4566,155 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lima",
+        "country": "Peru"
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru"
+      },
+      {
+        "name": "Ollantaytambo",
+        "country": "Peru"
+      },
+      {
+        "name": "Aguas Calientes",
+        "country": "Peru"
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru"
+      },
+      {
+        "name": "Puno",
+        "country": "Peru"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "null"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Potosí",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lima",
+        "country": "Peru",
+        "lat": -12.06973,
+        "lng": -77.03542
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru",
+        "lat": -13.516283,
+        "lng": -71.97856
+      },
+      {
+        "name": "Ollantaytambo",
+        "country": "Peru",
+        "lat": -13.258389,
+        "lng": -72.26381
+      },
+      {
+        "name": "Aguas Calientes",
+        "country": "Peru",
+        "lat": -2.408837,
+        "lng": -71.17542
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "lat": -13.174207,
+        "lng": -72.5615
+      },
+      {
+        "name": "Puno",
+        "country": "Peru",
+        "lat": -15.837973,
+        "lng": -70.02774
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia",
+        "lat": -19.046934,
+        "lng": -65.257965
+      },
+      {
+        "name": "Potosí",
+        "country": "Bolivia",
+        "lat": -19.588188,
+        "lng": -65.753204
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Salar de Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -2162,7 +4800,119 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Rurrenabaque",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Madidi National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Toro-Toro",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Cochabamba",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Colchani",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Siloli Desert",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Eduardo Avaroa Andean Fauna Reserve",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Rurrenabaque",
+        "country": "Bolivia",
+        "lat": -14.44375,
+        "lng": -67.531181
+      },
+      {
+        "name": "Toro-Toro",
+        "country": "Bolivia",
+        "lat": -18.135508,
+        "lng": -65.76285
+      },
+      {
+        "name": "Cochabamba",
+        "country": "Bolivia",
+        "lat": -17.391977,
+        "lng": -66.1556
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Colchani",
+        "country": "Bolivia",
+        "lat": -20.30061,
+        "lng": -66.937819
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Eduardo Avaroa Andean Fauna Reserve",
+        "country": "Bolivia",
+        "lat": -14.646505,
+        "lng": -64.27711
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -2248,7 +4998,209 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Valle de Arcoiris",
+        "country": "Chile"
+      },
+      {
+        "name": "Valle de la Luna",
+        "country": "Chile"
+      },
+      {
+        "name": "El Tatio",
+        "country": "Chile"
+      },
+      {
+        "name": "Putana",
+        "country": "null"
+      },
+      {
+        "name": "Laguna Cejar",
+        "country": "null"
+      },
+      {
+        "name": "Hito Cajon",
+        "country": "null"
+      },
+      {
+        "name": "Laguna Blanca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Licancabur",
+        "country": "null"
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Desierto de Siloli",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni Salt Flats",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Isla Del Sol",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru"
+      },
+      {
+        "name": "Valle Sagrado de los Incas",
+        "country": "Peru"
+      },
+      {
+        "name": "Aguas Calientes",
+        "country": "Peru"
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru"
+      },
+      {
+        "name": "Lima",
+        "country": "Peru"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Valle de Arcoiris",
+        "country": "Chile",
+        "lat": -30.605057,
+        "lng": -71.20277
+      },
+      {
+        "name": "Valle de la Luna",
+        "country": "Chile",
+        "lat": -30.605057,
+        "lng": -71.20277
+      },
+      {
+        "name": "El Tatio",
+        "country": "Chile",
+        "lat": -36.634323,
+        "lng": -72.953865
+      },
+      {
+        "name": "Laguna Blanca",
+        "country": "Bolivia",
+        "lat": -17.607709,
+        "lng": -68.617689
+      },
+      {
+        "name": "Laguna Verde",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "Uyuni Salt Flats",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia",
+        "lat": -16.16462,
+        "lng": -69.087875
+      },
+      {
+        "name": "Isla Del Sol",
+        "country": "Bolivia",
+        "lat": -16.020556,
+        "lng": -69.176389
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru",
+        "lat": -13.516283,
+        "lng": -71.97856
+      },
+      {
+        "name": "Aguas Calientes",
+        "country": "Peru",
+        "lat": -2.408837,
+        "lng": -71.17542
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "lat": -13.174207,
+        "lng": -72.5615
+      },
+      {
+        "name": "Lima",
+        "country": "Peru",
+        "lat": -12.06973,
+        "lng": -77.03542
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -2409,7 +5361,193 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Gulf of Chiriquí National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Colón",
+        "country": "Panama"
+      },
+      {
+        "name": "Bastimentos Marine National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Santa Cruz de la Sierra",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Samaipata",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Potosí",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni Salt Flats",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Desierto Siloli",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Tiwanaku",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Gulf of Chiriquí National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      },
+      {
+        "name": "Isla Colón",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bastimentos Marine National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Santa Cruz de la Sierra",
+        "country": "Bolivia",
+        "lat": -17.783754,
+        "lng": -63.181553
+      },
+      {
+        "name": "Samaipata",
+        "country": "Bolivia",
+        "lat": -18.179611,
+        "lng": -63.87619
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia",
+        "lat": -19.046934,
+        "lng": -65.257965
+      },
+      {
+        "name": "Potosí",
+        "country": "Bolivia",
+        "lat": -19.588188,
+        "lng": -65.753204
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Uyuni Salt Flats",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Laguna Colorada",
+        "country": "Bolivia",
+        "lat": -17.538049,
+        "lng": -65.713935
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia",
+        "lat": -16.16462,
+        "lng": -69.087875
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia",
+        "lat": -16.020556,
+        "lng": -69.176389
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -2490,7 +5628,115 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru"
+      },
+      {
+        "name": "Sacred Valley",
+        "country": "Peru"
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru"
+      },
+      {
+        "name": "Peruvian Altiplano",
+        "country": "Peru"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Eduardo Avaroa Reserve",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru",
+        "lat": -13.516283,
+        "lng": -71.97856
+      },
+      {
+        "name": "Sacred Valley",
+        "country": "Peru",
+        "lat": -13.691881,
+        "lng": -76.02463
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "lat": -13.174207,
+        "lng": -72.5615
+      },
+      {
+        "name": "Peruvian Altiplano",
+        "country": "Peru",
+        "lat": -13.691881,
+        "lng": -76.02463
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia",
+        "lat": -16.16462,
+        "lng": -69.087875
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia",
+        "lat": -16.020556,
+        "lng": -69.176389
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Eduardo Avaroa Reserve",
+        "country": "Bolivia",
+        "lat": -14.646505,
+        "lng": -64.27711
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -2591,7 +5837,93 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lima",
+        "country": "Peru"
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru"
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru"
+      },
+      {
+        "name": "Sacred Valley of the Incas",
+        "country": "Peru"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Madidi National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni Salt Flat",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lima",
+        "country": "Peru",
+        "lat": -12.06973,
+        "lng": -77.03542
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru",
+        "lat": -13.516283,
+        "lng": -71.97856
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "lat": -13.174207,
+        "lng": -72.5615
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia",
+        "lat": -16.020556,
+        "lng": -69.176389
+      },
+      {
+        "name": "Uyuni Salt Flat",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -2697,7 +6029,129 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Lima",
+        "country": "Peru"
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru"
+      },
+      {
+        "name": "Sacred Valley of the Incas",
+        "country": "Peru"
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru"
+      },
+      {
+        "name": "Puno",
+        "country": "Peru"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni Salt Flats",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile"
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Lima",
+        "country": "Peru",
+        "lat": -12.06973,
+        "lng": -77.03542
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru",
+        "lat": -13.516283,
+        "lng": -71.97856
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "lat": -13.174207,
+        "lng": -72.5615
+      },
+      {
+        "name": "Puno",
+        "country": "Peru",
+        "lat": -15.837973,
+        "lng": -70.02774
+      },
+      {
+        "name": "Copacabana",
+        "country": "Bolivia",
+        "lat": -16.16462,
+        "lng": -69.087875
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Uyuni Salt Flats",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Atacama Desert",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "San Pedro de Atacama",
+        "country": "Chile",
+        "lat": -22.911633,
+        "lng": -68.19988
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -2778,7 +6232,101 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Arequipa",
+        "country": "Peru"
+      },
+      {
+        "name": "Colca Canyon",
+        "country": "Peru"
+      },
+      {
+        "name": "Puno",
+        "country": "Peru"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Peru"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Uyuni Salt Flat",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Incahuasi Island",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arequipa",
+        "country": "Peru",
+        "lat": -16.398563,
+        "lng": -71.53635
+      },
+      {
+        "name": "Colca Canyon",
+        "country": "Peru",
+        "lat": -13.691881,
+        "lng": -76.02463
+      },
+      {
+        "name": "Puno",
+        "country": "Peru",
+        "lat": -15.837973,
+        "lng": -70.02774
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Peru",
+        "lat": -13.691881,
+        "lng": -76.02463
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Uyuni",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Uyuni Salt Flat",
+        "country": "Bolivia",
+        "lat": -20.462645,
+        "lng": -66.822426
+      },
+      {
+        "name": "Incahuasi Island",
+        "country": "Bolivia",
+        "lat": -20.781275,
+        "lng": -64.86846
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -2899,7 +6447,143 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Brazil"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Christ the Redeemer",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Tiwanaku",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Puno",
+        "country": "Peru"
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru"
+      },
+      {
+        "name": "Sacred Valley of the Incas",
+        "country": "Peru"
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru"
+      },
+      {
+        "name": "Lima",
+        "country": "Peru"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Copacabana",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Christ the Redeemer",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Brazil",
+        "lat": -6.361937,
+        "lng": -39.29758
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Sucre",
+        "country": "Bolivia",
+        "lat": -19.046934,
+        "lng": -65.257965
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Puno",
+        "country": "Peru",
+        "lat": -15.837973,
+        "lng": -70.02774
+      },
+      {
+        "name": "Cusco",
+        "country": "Peru",
+        "lat": -13.516283,
+        "lng": -71.97856
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "lat": -13.174207,
+        "lng": -72.5615
+      },
+      {
+        "name": "Lima",
+        "country": "Peru",
+        "lat": -12.06973,
+        "lng": -77.03542
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -3010,7 +6694,159 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      {
+        "name": "Copacabana",
+        "country": "Brazil"
+      },
+      {
+        "name": "Corcovado Mountain",
+        "country": "Brazil"
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Argentina"
+      },
+      {
+        "name": "Asuncion",
+        "country": "Paraguay"
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Lake Titicaca",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Puno",
+        "country": "Peru"
+      },
+      {
+        "name": "Floating Uros Islands",
+        "country": "Peru"
+      },
+      {
+        "name": "Cuzco",
+        "country": "Peru"
+      },
+      {
+        "name": "Sacred Valley",
+        "country": "Peru"
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru"
+      },
+      {
+        "name": "Lima",
+        "country": "Peru"
+      },
+      {
+        "name": "Tiwanaku",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Copacabana",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Corcovado Mountain",
+        "country": "Brazil",
+        "lat": -15.796119,
+        "lng": -47.888252
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Argentina",
+        "lat": -29.53495,
+        "lng": -62.26615
+      },
+      {
+        "name": "Asuncion",
+        "country": "Paraguay",
+        "lat": -25.280046,
+        "lng": -57.634381
+      },
+      {
+        "name": "La Paz",
+        "country": "Bolivia",
+        "lat": -16.500357,
+        "lng": -68.13408
+      },
+      {
+        "name": "Isla del Sol",
+        "country": "Bolivia",
+        "lat": -16.020556,
+        "lng": -69.176389
+      },
+      {
+        "name": "Puno",
+        "country": "Peru",
+        "lat": -15.837973,
+        "lng": -70.02774
+      },
+      {
+        "name": "Floating Uros Islands",
+        "country": "Peru",
+        "lat": -13.691881,
+        "lng": -76.02463
+      },
+      {
+        "name": "Cuzco",
+        "country": "Peru",
+        "lat": -13.516283,
+        "lng": -71.97856
+      },
+      {
+        "name": "Sacred Valley",
+        "country": "Peru",
+        "lat": -13.691881,
+        "lng": -76.02463
+      },
+      {
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "lat": -13.174207,
+        "lng": -72.5615
+      },
+      {
+        "name": "Lima",
+        "country": "Peru",
+        "lat": -12.06973,
+        "lng": -77.03542
+      }
+    ]
   },
   {
     "destination": "Bolivia",
@@ -3061,6 +6897,68 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Cochabamba",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Toro Toro National Park",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Tarata",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Umajalanta Cave",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Ciudad Itas",
+        "country": "Bolivia"
+      },
+      {
+        "name": "Vergel Canyon",
+        "country": "Bolivia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cochabamba",
+        "country": "Bolivia",
+        "lat": -17.391977,
+        "lng": -66.1556
+      },
+      {
+        "name": "Toro Toro National Park",
+        "country": "Bolivia",
+        "lat": -18.135508,
+        "lng": -65.76285
+      },
+      {
+        "name": "Tarata",
+        "country": "Bolivia",
+        "lat": -17.610043,
+        "lng": -66.02306
+      },
+      {
+        "name": "Ciudad Itas",
+        "country": "Bolivia",
+        "lat": -19.313313,
+        "lng": -63.409255
+      }
+    ]
   }
 ]

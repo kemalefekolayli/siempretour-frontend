@@ -83,7 +83,123 @@
       }
     ],
     "map": "",
-    "category": "Family"
+    "category": "Family",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Cerro Negro",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Matagalpa region",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Bosawas Biosphere Reserve",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Masaya",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Masaya volcano",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Laguna de Apoyo",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Lake Nicaragua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Ometepe island",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Juan del Sur",
+        "country": "Nicaragua"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "lat": 12.14,
+        "lng": -86.274
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      },
+      {
+        "name": "Cerro Negro",
+        "country": "Nicaragua",
+        "lat": 14.047615,
+        "lng": -84.666256
+      },
+      {
+        "name": "Matagalpa region",
+        "country": "Nicaragua",
+        "lat": 12.925245,
+        "lng": -85.91798
+      },
+      {
+        "name": "Masaya",
+        "country": "Nicaragua",
+        "lat": 11.974947,
+        "lng": -86.09437
+      },
+      {
+        "name": "Masaya volcano",
+        "country": "Nicaragua",
+        "lat": 11.974947,
+        "lng": -86.09437
+      },
+      {
+        "name": "Laguna de Apoyo",
+        "country": "Nicaragua",
+        "lat": 13.224823,
+        "lng": -86.597586
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "San Juan del Sur",
+        "country": "Nicaragua",
+        "lat": 11.254404,
+        "lng": -85.87152
+      }
+    ]
   },
   {
     "destination": "Nicaragua",
@@ -184,7 +300,171 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Dolores",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Lago Nicaragua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Ometepe",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Moyogalpa",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Masaya National Park",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Carlos",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Solentiname Islands",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Los Guatuzos Wildlife Refuge",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Rio San Juan",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "El Castillo",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Indio Maiz Reserve",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Corn Islands",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Big Corn",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Poneloya",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "León Viejo",
+        "country": "Nicaragua"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dolores",
+        "country": "Nicaragua",
+        "lat": 11.857441,
+        "lng": -86.2141
+      },
+      {
+        "name": "Moyogalpa",
+        "country": "Nicaragua",
+        "lat": 11.540874,
+        "lng": -85.69696
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "Masaya National Park",
+        "country": "Nicaragua",
+        "lat": 11.974947,
+        "lng": -86.09437
+      },
+      {
+        "name": "San Carlos",
+        "country": "Nicaragua",
+        "lat": 13.344617,
+        "lng": -85.834542
+      },
+      {
+        "name": "Los Guatuzos Wildlife Refuge",
+        "country": "Nicaragua",
+        "lat": 11.02642,
+        "lng": -84.457853
+      },
+      {
+        "name": "Rio San Juan",
+        "country": "Nicaragua",
+        "lat": 11.12353,
+        "lng": -84.777838
+      },
+      {
+        "name": "El Castillo",
+        "country": "Nicaragua",
+        "lat": 11.043314,
+        "lng": -84.47286
+      },
+      {
+        "name": "Indio Maiz Reserve",
+        "country": "Nicaragua",
+        "lat": 11.968193,
+        "lng": -84.47554
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "lat": 12.14,
+        "lng": -86.274
+      },
+      {
+        "name": "Corn Islands",
+        "country": "Nicaragua",
+        "lat": 12.171432,
+        "lng": -83.058754
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      },
+      {
+        "name": "León Viejo",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      }
+    ]
   },
   {
     "destination": "Nicaragua",
@@ -275,7 +555,119 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Leon",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Cerro Negro",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Selva Negra Cloud Forest",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Las Isletas",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Mombacho Volcano Nature Reserve",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Masaya",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Juan de Oriente",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Ometepe Island",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Juan del Sur",
+        "country": "Nicaragua"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "lat": 12.14,
+        "lng": -86.274
+      },
+      {
+        "name": "Leon",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      },
+      {
+        "name": "Cerro Negro",
+        "country": "Nicaragua",
+        "lat": 14.047615,
+        "lng": -84.666256
+      },
+      {
+        "name": "Selva Negra Cloud Forest",
+        "country": "Nicaragua",
+        "lat": 13.820315,
+        "lng": -85.877356
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "Mombacho Volcano Nature Reserve",
+        "country": "Nicaragua",
+        "lat": 11.786352,
+        "lng": -85.897081
+      },
+      {
+        "name": "Masaya",
+        "country": "Nicaragua",
+        "lat": 11.974947,
+        "lng": -86.09437
+      },
+      {
+        "name": "San Juan de Oriente",
+        "country": "Nicaragua",
+        "lat": 11.907402,
+        "lng": -86.07366
+      },
+      {
+        "name": "San Juan del Sur",
+        "country": "Nicaragua",
+        "lat": 11.254404,
+        "lng": -85.87152
+      }
+    ]
   },
   {
     "destination": "Nicaragua",
@@ -326,7 +718,81 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Ramon",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Leon",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Great Corn Island",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Masaya Volcano",
+        "country": "Nicaragua"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "San Ramon",
+        "country": "Nicaragua",
+        "lat": 12.922773,
+        "lng": -85.8406
+      },
+      {
+        "name": "Leon",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      },
+      {
+        "name": "Great Corn Island",
+        "country": "Nicaragua",
+        "lat": 12.171432,
+        "lng": -83.058754
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "lat": 12.14,
+        "lng": -86.274
+      },
+      {
+        "name": "Masaya Volcano",
+        "country": "Nicaragua",
+        "lat": 11.974947,
+        "lng": -86.09437
+      }
+    ]
   },
   {
     "destination": "Nicaragua",
@@ -422,7 +888,159 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Las Isletas",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Isla de Ometepe",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Maderas Volcano",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Ramon Waterfall",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "El Castillo",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Indio Maiz Reserve",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Río San Juan",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Carlos",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "El Hoyo Volcano",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Estelí",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Somoto Canyon",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "lat": 12.14,
+        "lng": -86.274
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "Maderas Volcano",
+        "country": "Nicaragua",
+        "lat": 12.683333,
+        "lng": -85.533333
+      },
+      {
+        "name": "San Ramon Waterfall",
+        "country": "Nicaragua",
+        "lat": 12.922773,
+        "lng": -85.8406
+      },
+      {
+        "name": "El Castillo",
+        "country": "Nicaragua",
+        "lat": 11.043314,
+        "lng": -84.47286
+      },
+      {
+        "name": "Indio Maiz Reserve",
+        "country": "Nicaragua",
+        "lat": 11.968193,
+        "lng": -84.47554
+      },
+      {
+        "name": "Río San Juan",
+        "country": "Nicaragua",
+        "lat": 11.12353,
+        "lng": -84.777838
+      },
+      {
+        "name": "San Carlos",
+        "country": "Nicaragua",
+        "lat": 13.344617,
+        "lng": -85.834542
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      },
+      {
+        "name": "El Hoyo Volcano",
+        "country": "Nicaragua",
+        "lat": 13.268611,
+        "lng": -86.17353
+      },
+      {
+        "name": "Estelí",
+        "country": "Nicaragua",
+        "lat": 13.091635,
+        "lng": -86.355804
+      },
+      {
+        "name": "Somoto Canyon",
+        "country": "Nicaragua",
+        "lat": 13.48238,
+        "lng": -86.58223
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "lat": 12.14,
+        "lng": -86.274
+      }
+    ]
   },
   {
     "destination": "Nicaragua",
@@ -513,7 +1131,89 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Juan Venado Island",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Las Isletas",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Mombacho volcano",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Ometepe Island",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Juan del Sur",
+        "country": "Nicaragua"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "lat": 12.14,
+        "lng": -86.274
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      },
+      {
+        "name": "Juan Venado Island",
+        "country": "Nicaragua",
+        "lat": 13.807315,
+        "lng": -84.736878
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "Mombacho volcano",
+        "country": "Nicaragua",
+        "lat": 11.786352,
+        "lng": -85.897081
+      },
+      {
+        "name": "San Juan del Sur",
+        "country": "Nicaragua",
+        "lat": 11.254404,
+        "lng": -85.87152
+      }
+    ]
   },
   {
     "destination": "Nicaragua",
@@ -589,7 +1289,91 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Mombacho Volcano",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Masaya Volcano",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Isletas de Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Juan del Sur",
+        "country": "Nicaragua"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "lat": 12.14,
+        "lng": -86.274
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "Mombacho Volcano",
+        "country": "Nicaragua",
+        "lat": 11.786352,
+        "lng": -85.897081
+      },
+      {
+        "name": "Masaya Volcano",
+        "country": "Nicaragua",
+        "lat": 11.974947,
+        "lng": -86.09437
+      },
+      {
+        "name": "Isletas de Granada",
+        "country": "Nicaragua",
+        "lat": 11.931177,
+        "lng": -85.969429
+      },
+      {
+        "name": "San Juan del Sur",
+        "country": "Nicaragua",
+        "lat": 11.254404,
+        "lng": -85.87152
+      }
+    ]
   },
   {
     "destination": "Nicaragua",
@@ -675,7 +1459,105 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Masaya Volcano National Park",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Rio San Juan",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "El Castillo",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Leon",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Juan Venado Island",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Ometepe Island",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Juan del Sur",
+        "country": "Nicaragua"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "lat": 12.14,
+        "lng": -86.274
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "Masaya Volcano National Park",
+        "country": "Nicaragua",
+        "lat": 11.974947,
+        "lng": -86.09437
+      },
+      {
+        "name": "Rio San Juan",
+        "country": "Nicaragua",
+        "lat": 11.12353,
+        "lng": -84.777838
+      },
+      {
+        "name": "El Castillo",
+        "country": "Nicaragua",
+        "lat": 11.043314,
+        "lng": -84.47286
+      },
+      {
+        "name": "Leon",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      },
+      {
+        "name": "Juan Venado Island",
+        "country": "Nicaragua",
+        "lat": 13.807315,
+        "lng": -84.736878
+      },
+      {
+        "name": "San Juan del Sur",
+        "country": "Nicaragua",
+        "lat": 11.254404,
+        "lng": -85.87152
+      }
+    ]
   },
   {
     "destination": "Nicaragua",
@@ -771,7 +1653,143 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Isla Juan Venado",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Ometepe",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Laguna Charco Verde",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Ramon",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Montibelli Nature Reserve",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Masaya",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Las Isletas",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Mombacho Volcano",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Masaya Volcano",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Big Corn Island",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Little Corn Island",
+        "country": "Nicaragua"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "lat": 12.14,
+        "lng": -86.274
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      },
+      {
+        "name": "Isla Juan Venado",
+        "country": "Nicaragua",
+        "lat": 13.807315,
+        "lng": -84.736878
+      },
+      {
+        "name": "Laguna Charco Verde",
+        "country": "Nicaragua",
+        "lat": 12.274764,
+        "lng": -85.860631
+      },
+      {
+        "name": "San Ramon",
+        "country": "Nicaragua",
+        "lat": 12.922773,
+        "lng": -85.8406
+      },
+      {
+        "name": "Masaya",
+        "country": "Nicaragua",
+        "lat": 11.974947,
+        "lng": -86.09437
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "Mombacho Volcano",
+        "country": "Nicaragua",
+        "lat": 11.786352,
+        "lng": -85.897081
+      },
+      {
+        "name": "Masaya Volcano",
+        "country": "Nicaragua",
+        "lat": 11.974947,
+        "lng": -86.09437
+      },
+      {
+        "name": "Big Corn Island",
+        "country": "Nicaragua",
+        "lat": 12.171432,
+        "lng": -83.058754
+      },
+      {
+        "name": "Little Corn Island",
+        "country": "Nicaragua",
+        "lat": 12.171432,
+        "lng": -83.058754
+      }
+    ]
   },
   {
     "destination": "Nicaragua",
@@ -862,7 +1880,105 @@
       }
     ],
     "map": "",
-    "category": "Adventure"
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Isla de Ometepe",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Leon",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Selva Negra",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Laguna de Apoyo",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Masaya",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Catarina",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Juan de Oriente",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Mombacho Volcano",
+        "country": "Nicaragua"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "Leon",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      },
+      {
+        "name": "Selva Negra",
+        "country": "Nicaragua",
+        "lat": 13.820315,
+        "lng": -85.877356
+      },
+      {
+        "name": "Laguna de Apoyo",
+        "country": "Nicaragua",
+        "lat": 13.224823,
+        "lng": -86.597586
+      },
+      {
+        "name": "Masaya",
+        "country": "Nicaragua",
+        "lat": 11.974947,
+        "lng": -86.09437
+      },
+      {
+        "name": "Catarina",
+        "country": "Nicaragua",
+        "lat": 11.912358,
+        "lng": -86.07418
+      },
+      {
+        "name": "San Juan de Oriente",
+        "country": "Nicaragua",
+        "lat": 11.907402,
+        "lng": -86.07366
+      },
+      {
+        "name": "Mombacho Volcano",
+        "country": "Nicaragua",
+        "lat": 11.786352,
+        "lng": -85.897081
+      }
+    ]
   },
   {
     "destination": "Nicaragua",
@@ -1008,6 +2124,198 @@
       }
     ],
     "map": "",
-    "category": "Culture"
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama"
+      },
+      {
+        "name": "Gatun River",
+        "country": "Panama"
+      },
+      {
+        "name": "Fort San Lorenzo",
+        "country": "Panama"
+      },
+      {
+        "name": "Gulf of Chiriquí National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama"
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama"
+      },
+      {
+        "name": "Isla Colón",
+        "country": "Panama"
+      },
+      {
+        "name": "Bastimentos Marine National Park",
+        "country": "Panama"
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Tiscapa Crater Lake",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Cerro Negro",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Hervideros de San Jacinto",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Selva Negra",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Lake Nicaragua",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Masaya Volcano National Park",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "Ometepe Island",
+        "country": "Nicaragua"
+      },
+      {
+        "name": "San Juan del Sur",
+        "country": "Nicaragua"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Panama City",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Gatun River",
+        "country": "Panama",
+        "lat": 8.278086,
+        "lng": -81.009321
+      },
+      {
+        "name": "Fort San Lorenzo",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Gulf of Chiriquí National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Boquete",
+        "country": "Panama",
+        "lat": 8.776648,
+        "lng": -82.432045
+      },
+      {
+        "name": "Bocas del Toro",
+        "country": "Panama",
+        "lat": 9.339877,
+        "lng": -82.240204
+      },
+      {
+        "name": "Isla Colón",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Bastimentos Marine National Park",
+        "country": "Panama",
+        "lat": 8.982861,
+        "lng": -79.52339
+      },
+      {
+        "name": "Managua",
+        "country": "Nicaragua",
+        "lat": 12.14,
+        "lng": -86.274
+      },
+      {
+        "name": "Tiscapa Crater Lake",
+        "country": "Nicaragua",
+        "lat": 12.127886,
+        "lng": -86.267524
+      },
+      {
+        "name": "León",
+        "country": "Nicaragua",
+        "lat": 12.435256,
+        "lng": -86.87859
+      },
+      {
+        "name": "Cerro Negro",
+        "country": "Nicaragua",
+        "lat": 14.047615,
+        "lng": -84.666256
+      },
+      {
+        "name": "Hervideros de San Jacinto",
+        "country": "Nicaragua",
+        "lat": 13.427771,
+        "lng": -85.834586
+      },
+      {
+        "name": "Selva Negra",
+        "country": "Nicaragua",
+        "lat": 13.820315,
+        "lng": -85.877356
+      },
+      {
+        "name": "Granada",
+        "country": "Nicaragua",
+        "lat": 11.930657,
+        "lng": -85.95365
+      },
+      {
+        "name": "Masaya Volcano National Park",
+        "country": "Nicaragua",
+        "lat": 11.974947,
+        "lng": -86.09437
+      },
+      {
+        "name": "San Juan del Sur",
+        "country": "Nicaragua",
+        "lat": 11.254404,
+        "lng": -85.87152
+      }
+    ]
   }
 ]

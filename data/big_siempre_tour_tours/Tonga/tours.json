@@ -73,7 +73,51 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tonga",
+        "country": "Tonga"
+      },
+      {
+        "name": "Ha’apai",
+        "country": "Tonga"
+      },
+      {
+        "name": "Tongatapu",
+        "country": "Tonga"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tonga",
+        "country": "Tonga",
+        "lat": -21.13434,
+        "lng": -175.201808
+      },
+      {
+        "name": "Ha’apai",
+        "country": "Tonga",
+        "lat": -19.80546,
+        "lng": -174.348937
+      },
+      {
+        "name": "Tongatapu",
+        "country": "Tonga",
+        "lat": -21.13434,
+        "lng": -175.201808
+      }
+    ]
   },
   {
     "destination": "Tonga",
@@ -114,7 +158,31 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Vava'u",
+        "country": "Tonga"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Vava'u",
+        "country": "Tonga",
+        "lat": -18.651554,
+        "lng": -173.983312
+      }
+    ]
   },
   {
     "destination": "Tonga",
@@ -165,7 +233,31 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tonga",
+        "country": "Tonga"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tonga",
+        "country": "Tonga",
+        "lat": -21.13434,
+        "lng": -175.201808
+      }
+    ]
   },
   {
     "destination": "Tonga",
@@ -211,6 +303,40 @@
       }
     ],
     "map": "",
-    "category": "Diving"
+    "category": "Diving",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Tongatapu",
+        "country": "Tonga"
+      },
+      {
+        "name": "Ha'apai",
+        "country": "Tonga"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Tongatapu",
+        "country": "Tonga",
+        "lat": -21.13434,
+        "lng": -175.201808
+      },
+      {
+        "name": "Ha'apai",
+        "country": "Tonga",
+        "lat": -19.80546,
+        "lng": -174.348937
+      }
+    ]
   }
 ]
