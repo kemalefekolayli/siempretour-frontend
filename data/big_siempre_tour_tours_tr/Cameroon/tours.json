@@ -1,0 +1,831 @@
+[
+  {
+    "destination": "Cameroon",
+    "mainPhoto": "",
+    "id": "cameroon-and-gabon-holiday",
+    "tourName": "Kamerun ve Gabon Tatili",
+    "placesVisited": "Douala, Pongo Songo şempanze koruma alanı, Yaounde, Bitam, Lambarene, Fang halkı, Babongo pigmeleri, Ndende, Punu halkı, Omboué, Loango Milli Parkı, Port Gentil, Libreville",
+    "generalInfo": "Orta Afrika'nın ormanları her zaman gizemli bir toprak olmuştur; girmesi zor ve doğaseverlerin büyülenmesine neden olan birbirinden çeşitli flora ve faunaya ev sahipliği yapar. Bu eşsiz tur, doğanın hâkim olduğu ve insanın varlığının çoğu zaman önemsiz göründüğü muhteşem bir yolculuğa çıkarıyor. Yoğun yağmur ormanları arasında, kuşların ve maymunların sesleriyle dolu bir ortamda başlıyoruz. Öncelikle Yaounde'ye gidiyoruz, ardından Irak toplumunun köyüne doğru ilerleyerek burada iboga kökü kullanılan bir ruhsal ritüel olan otantik bir Bwiti törenine tanık olma ayrıcalığını yaşıyoruz, bu da bölgenin en ilginç manzaralarından biridir. <br/><br/>Buradan ormana geçiyoruz ve Badgeli pigmeleri ile vakit geçiriyoruz; onların topluluğunda kamp kurarak, ormanı nasıl yönettiklerini öğreniyoruz. Ayrıca, Pongo Songo şempanze koruma alanını da ziyaret ediyoruz; burada bu ilginç primatlarla yakınlaşma imkânı buluyoruz. Ancak en iyisi sona sakladık – Loango Milli Parkı'nda iki tam gün geçiriyoruz. Burada uzman rehberlerle birlikte araştırmalar yapıyor ve goril, orman bufalosu, fil ve biraz şansla denizde sörf yapan hippoları arıyoruz. Bu seyahat, doğanın en vahşi haliyle tanışma fırsatı sunuyor, doğanın hâkim olduğu ve ormanın kral olduğu bir yer. Kolay bir yolculuk değil; uzun sürüşler, kötü yollar, sınırlı altyapı ve sıklıkla sinir bozucu olan Orta Afrika bürokrasisiyle başa çıkmamız gerekecek. Ama gerçek bir maceranın asla kolay olduğunu kim söyledi ki? Kaybolmuş dünyaları, eski gelenekleri ve yağmur ormanlarının büyüsünü keşfetmek için bize katılın.",
+    "durationDays": "13",
+    "price": "8499",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "Yaounde - Yaounde'ye varış ve otelinize transfer. Konaklama Merina Hotel veya benzeri."
+      },
+      {
+        "dayNumber": 4,
+        "title": "",
+        "description": "Pigme köyü - Badgeli pigmeleri ile tanışmak için güneye doğru ilerliyoruz; Kamerun'un en geleneksel halklarından bazıları. Badgeli ile birlikte geleneksel etkinliklere katılarak, nasıl avlandıklarını ve yiyecek topladıklarını öğreniyoruz. Kültürel ve müzikal zenginliklerini görmekteyiz. Kamp yaparak konaklıyoruz. (KAHVALTI-ÖĞLE YEMEĞİ- akşam yemeği)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "",
+        "description": "Pongo Songo – Edea - Douala Edea Rezervi'ne seyahat ediyoruz ve buradan Pongo Songo şempanze koruma alanını ziyaret etmek üzere bir bot alıyoruz; bu primatlarla yakınlaşma fırsatı buluyoruz. Buradan Edea kasabasına devam ediyoruz. Konaklama yerel misafirhane. (KAHVALTI-ÖĞLE YEMEĞİ- akşam yemeği)"
+      },
+      {
+        "dayNumber": 8,
+        "title": "",
+        "description": "Douala - Libreville - Kamerun'un ekonomik başkenti Douala'ya transfer. Şehri keşfettikten sonra, öğle yemeğinden sonra Libreville'e uçuyoruz; maceramızın bir sonraki aşaması için. Konaklama Hotel Tropicana veya benzeri. (KAHVALTI-ÖĞLE YEMEĞİ)"
+      },
+      {
+        "dayNumber": 9,
+        "title": "",
+        "description": "Port Gentil – Loango Milli Parkı - Port Gentil'e uçuyoruz ve buradan Loango Milli Parkı'na geçiyoruz; Iguela lagününü geçtikten sonra Louri lagününe devam ediyoruz. Burada bazen plajda fil ve bufalo gibi vahşi yaşamı görebilirsiniz. Konaklama Loango Lodge. (KAHVALTI-ÖĞLE YEMEĞİ- akşam yemeği)"
+      },
+      {
+        "dayNumber": 10,
+        "title": "",
+        "description": "Loango Milli Parkı - Loango Milli Parkı'nda iki gün geçireceğiz. Bu bölge Orta Afrika'nın en zengin ekosistemlerinden biridir ve orman fili, hippo, goril ve şempanze dahil olmak üzere büyük bir tür çeşitliliğine ev sahipliği yapar. Yerel rehberler eşliğinde her gün ormanlara ve plaja çıkarak burada yaşayan ikonik vahşi yaşamı arıyoruz. Ayrıca burada alışılagelen alçak yamaç gorillerinin izini süreceğiz. Konaklama Loango Lodge veya benzeri. (KAHVALTI-ÖĞLE YEMEĞİ- akşam yemeği)"
+      },
+      {
+        "dayNumber": 12,
+        "title": "",
+        "description": "Libreville - 4x4 SUV ile Port Gentil'e seyahat, Gabon'un ekonomik başkenti. Port Gentil'e varışta, Libreville'e uçuyoruz. Konaklama Hotel Tropicana veya benzeri. (KAHVALTI)"
+      },
+      {
+        "dayNumber": 13,
+        "title": "",
+        "description": "Libreville - Bugün şehri keşfetmek, pazarları ziyaret etmek ve erken koloniyal mimarinin kalan örneklerinden bazılarını görmek için geçireceğiz. Bu akşam havaalanına geçiyoruz. (KAHVALTI)"
+      }
+    ],
+    "map": "",
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Pygmy village",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Pongo Songo chimpanzee sanctuary",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Edea",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Douala",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon"
+      },
+      {
+        "name": "Port Gentil",
+        "country": "Gabon"
+      },
+      {
+        "name": "Loango National Park",
+        "country": "Gabon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yaounde",
+        "country": "Kamerun",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Pongo Songo şempanze koruma alanı",
+        "country": "Kamerun",
+        "lat": 3.609946,
+        "lng": 9.906232
+      },
+      {
+        "name": "Edea",
+        "country": "Kamerun",
+        "lat": 3.799013,
+        "lng": 10.126557
+      },
+      {
+        "name": "Douala",
+        "country": "Kamerun",
+        "lat": 4.0424,
+        "lng": 9.707925
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon",
+        "lat": 0.400015,
+        "lng": 9.456696
+      },
+      {
+        "name": "Port Gentil",
+        "country": "Gabon",
+        "lat": -0.704394,
+        "lng": 8.775819
+      },
+      {
+        "name": "Loango Milli Parkı",
+        "country": "Gabon",
+        "lat": -2.668959,
+        "lng": 10.818955
+      }
+    ],
+    "__trTranslated": true
+  },
+  {
+    "destination": "Cameroon",
+    "mainPhoto": "",
+    "id": "cameroon-holiday-tribal-lands",
+    "tourName": "Kamerun tatili, Kabile toprakları",
+    "placesVisited": "Douala, Ekom Şelalesi, Melong, Bandjoun, Bappit, Koutaba, Foumban, Yaoundé, Ngaoundere, Poli, Alantika Dağları, Mbe, Okan",
+    "generalInfo": "Batı ve Orta Afrika'nın birleşiminde yer alan Kamerun, iki yüz elliden fazla farklı etnik grubun gelenekleri ve görenekleri ile canlıdır; bu kültürel karışım hem büyüleyici hem de biraz sihirli bir atmosfer sunmaktadır. Bu tur, turizm tarafından çok ihmal edilmiş bir ülkenin kalbine sizi götürerek, dışarıdan gelenlerin pek az ziyaret ettiği toprakları keşfedecektir. Kaotik ve büyüleyici Douala şehrinden başlayarak, yolda dramatik şelaleler ve yemyeşil ormanlarla dolu yüksek dağların kabile krallıklarına doğru ilerleyeceğiz. Yüzyıllardır pek az değişmiş geleneksel şeflerin yönetimindeki toprakları keşfedecek, kraliyet sarayları ve neredeyse feodal bir şekilde yöneten soylular etrafında dönen yaşamı anlamaya çalışacağız. Buradan, çok farklı bir kuzey dünyasına atmosferik bir yolculukla Ngaoundere'ye trenle geçiyoruz. Poli'de keyifli bir kamp tesisinde kalıyor, yarı göçebe Mbororo ve Dowayo ile tanışıyoruz, ardından daha önce pek az kişinin gittiği izolasyondaki Vokre Dağları'na yürüyüş yapıyoruz. Kadınların hala orman yapraklarından etekler giydiği, erkeklerin av için yay ve okla avlandığı yoğun geleneksel Dupa topluluğuyla zaman geçiriyoruz. Şanslıysak, modernitenin başlamasıyla Afrika'nın büyük bir kısmında kaybolmuş bir yaşam tarzına dair içgörüler sunan geleneksel törenleri ve kutlamaları gözlemleyebiliriz. Güneye dönerken Yaoundé’nin şehir merkezini keşfederek, eve dönmeden önce bazı geleneksel sanatları görmeye duruyoruz. Bu büyüleyici bölgenin en iyilerini kapsayan öncü bir Kamerun turu.",
+    "durationDays": "12",
+    "price": "4799",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "Douala - Douala'ya varış ve otele transfer. Geceleme Hotel Falaise veya benzeri bir otelde."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "Ekom şelalesi – Bafoussam - Bugün batıya doğru ilerliyoruz, yol üzerinde 80 metre yükseklikten orman zeminine inen Ekom Şelalesi'ni ziyaret ediyoruz. Ardından Bafoussam’a devam ediyor, yerel gelenekler ve görenekler hakkında bilgi almak için Tockem’deki topluluk projesine uğruyoruz ve ardından kutsal Metche Şelalesi'ni ziyaret ediyoruz. Geceleme Zingana Hotel veya benzeri bir otelde. (B)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "",
+        "description": "Bangoulap - Bugün Bamileke halkının kültürünü keşfetmek için geçen bir gün geçireceğiz. Yolculuğumuz, yerel yaşamı yöneten karmaşık gelenekler hakkında bilgi alarak, Bafoussam, Bandjoun ve Batoufam'ın geleneksel krallıklarına gitmektedir. Geceleme Villa Boutanga veya benzeri bir otelde. (B)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "",
+        "description": "Foumban - Bamoun halkının evi Foumban’ı ziyaret ediyoruz. Şehri keşfedecek, sanat müzesini, 19. yüzyıla ait kraliyet sarayını ziyaret edeceğiz. Ayrıca, Kamerun'un en renkli pazarlarından biri olan merkezi pazarı geziyor ve zanaatkarlar mahallesinden geçiyoruz. Bamounlar harika zanaatkarlar olup, ahşap ve bronz ile çalışmakta; yarattıkları eserlerin çoğu yurt dışındaki koleksiyonculara ihraç edilmektedir. Geceleme Paradise Hotel veya benzeri bir otelde. (BLD)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "",
+        "description": "Yaoundé - Mont Mbapit’e doğru yol alıyoruz, krater kenarına tırmanarak Mfou Gölü manzarasını görüyoruz. Daha sonra, Yaoundé’ye devam ediyoruz. Geceleme Merina Hotel veya benzeri bir otelde. (B)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "",
+        "description": "Ebogo – Nkolendom - Yaoundé'yi terk ediyor ve Mfou’daki yaban hayatı koruma alanına doğru ormanın içinden geçiyoruz, bu alanda goril, şempanze ve mangabey gibi birçok tür yaşamaktadır ve tehdit altındaki primatların korunmasına kendini adamıştır. Buradan Ebogo’ya giderek yerel bir topluluk turizm projesini ziyaret ediyor, ormanın içinden kano ile geçiyor, yerel lezzetleri tadıyor ve Bassa halkının geleneksel danslarını izliyoruz. Geceleme Nkolendom Turist Merkezi (basit konaklama). (B)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "",
+        "description": "Fang köyü - Ekvator Ginesi ve Gabon sınırlarına yakın bir Fang köyüne doğru ilerliyoruz. Fang halkının kalbinde Bwiti ritüelleri hala canlı olarak sürdürülmektedir. Bu eşsiz ritüellerin bir parçası olmaktan büyük bir ayrıcalık yaşayacağız; bu, Afrika'daki tüm geleneksel törenlerin belki de en göz alıcı olanıdır ve gezimizin en önemli anlarından birini oluşturur. Geceleme Hotel Escapade veya benzeri bir otelde. (B)"
+      },
+      {
+        "dayNumber": 10,
+        "title": "",
+        "description": "Pigmey köyü - Güneyde Badgeli pigmeleri ile tanışmak üzere yol alıyoruz; bu, Kamerun'un en geleneksel halklarından biridir. Ormanda Badgeli ile birlikte geleneksel etkinliklere katılarak, nasıl avlandıklarını ve yiyecek topladıklarını öğreniyor, kültürlerinin ve müziklerinin canlılığını görüyoruz. Geceleme kamp yaparak. (BLD)"
+      },
+      {
+        "dayNumber": 11,
+        "title": "",
+        "description": "Bu sabah ormanda Badgeli ile daha fazla keşif yapıyoruz, ardından Douala Edea Koruma Alanı'na geçiyoruz ve buradan Pongo Songo şempanze koruma alanını ziyaret etmek üzere bir tekneye biniyoruz; bu primatlarla yakından tanışmak için harika fırsatlar sunuyor. Buradan, manatların korunma programı ile tanınan Ossa Gölü'ne devam ediyoruz ve ardından gece için Edea kasabasına varıyoruz. Geceleme yerel misafirhane. (B)"
+      },
+      {
+        "dayNumber": 12,
+        "title": "",
+        "description": "Douala - Douala'ya doğru yol alıyoruz ve zanaatkarlar pazarını ziyaret ediyoruz, ardından evinize dönüş uçuşu için havaalanına transfer."
+      }
+    ],
+    "map": "",
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Douala",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Ekom Falls",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Melong",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Bandjoun",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Bappit",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Koutaba",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Foumban",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Yaoundé",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Ngaoundere",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Poli",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Alantika Mountains",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Mbe",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Okan",
+        "country": "Cameroon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Douala",
+        "country": "Kamerun",
+        "lat": 4.0424,
+        "lng": 9.707925
+      },
+      {
+        "name": "Ekom Şelalesi",
+        "country": "Kamerun",
+        "lat": 3.14298,
+        "lng": 13.623519
+      },
+      {
+        "name": "Melong",
+        "country": "Kamerun",
+        "lat": 5.121582,
+        "lng": 9.949155
+      },
+      {
+        "name": "Bandjoun",
+        "country": "Kamerun",
+        "lat": 5.374857,
+        "lng": 10.412155
+      },
+      {
+        "name": "Koutaba",
+        "country": "Kamerun",
+        "lat": 5.651146,
+        "lng": 10.760917
+      },
+      {
+        "name": "Foumban",
+        "country": "Kamerun",
+        "lat": 5.723688,
+        "lng": 10.897818
+      },
+      {
+        "name": "Yaoundé",
+        "country": "Kamerun",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Ngaoundere",
+        "country": "Kamerun",
+        "lat": 7.32501,
+        "lng": 13.583527
+      },
+      {
+        "name": "Poli",
+        "country": "Kamerun",
+        "lat": 8.476075,
+        "lng": 13.240933
+      },
+      {
+        "name": "Mbe",
+        "country": "Kamerun",
+        "lat": 9.3183,
+        "lng": 13.672309
+      },
+      {
+        "name": "Okan",
+        "country": "Kamerun",
+        "lat": 5.155037,
+        "lng": 13.526438
+      }
+    ],
+    "__trTranslated": true
+  },
+  {
+    "destination": "Cameroon",
+    "mainPhoto": "",
+    "id": "cameroon-small-group-tour-culture-and-wildlife",
+    "tourName": "Kamerun Küçük Grup Turu, Kültür ve Vahşi Yaşam",
+    "placesVisited": "Douala, Ekom Şelalesi, Baham'daki geleneksel Bamileke şefinin sarayını ziyaret, Bafoussam, Mectchie Şelalesi, Bamenda, Bafut, Okpwa Köyü, Fon'un Babungo Sarayı, Foumban, Yaoundé, Dja Rezervi, Matisson'daki Ba’Aka köyü, Kribi",
+    "generalInfo": "Seyahat edenler tarafından sıklıkla göz ardı edilen Kamerun, Afrika'nın en muhteşem ve ilginç ülkelerinden biridir. Hem Batı hem de Orta Afrika'nın bir parçası olan bu ülke, her iki bölgenin özelliklerini taşımakta ancak kendine özgü bir karaktere de sahiptir. Burada ziyaretin en büyük noktası, kıtanın en kültürel olarak zengin topluluklarından bazılarına ev sahipliği yapan ülkenin çeşitli toplumlarıdır. Kendinizi kadim bir toprakta, saraylar ve geleneksel köylerle dolu bir yerde bulacaksınız; yerel halk, genellikle hükümetten daha çok yerel şeflerine veya sultanlarına sadık kalmaktadır. <br/><br/>Bu Kamerun tatili, ülkenin kültürünü ve vahşi yaşamını keşfeden iki haftalık bir küçük grup turu ile hem kuzeyi hem de güneyi ziyaret etmektedir. Önce yüksek dağlık bölgelere gitmek üzere hareket edeceksiniz; Bafoussam, Bamenda ve Foumban’ın geleneksel şefliklerinde, temel köy odalarında kalarak kırsal yaşam ve kültüre dalacak ve saraylar ile müzeleri ziyaret edeceksiniz. Sonrasında, ülkenin kuzeyine doğru, aslanlar, filler ve zürafaların evi olan Waza Ulusal Parkı’nda etkileyici vahşi yaşamı görmek için yola çıkacaksınız. Ayrıca, yalnızca güzel değil, Ba’Aka ve Bantu halkları gibi çeşitli etnik gruplara ev sahipliği yapan Manadara Dağları'nda da zaman geçirmek için fırsat olacaktır. <br/>",
+    "durationDays": "14",
+    "price": "2855",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "1. Gün - Douala'ya varış - Douala'ya varışta, sizi karşılayacak ve otelinize transfer edeceğiz. Günün geri kalanı, bu canlı şehri keşfetmek veya dinlenmek için serbest. Geceleme Aquarius Hotel ya da benzeri bir yerde."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "Douala - Mboroukou (yaklaşık 3 saat toplam sürüş süresi) - Bugünkü yolculuğumuz, kauçuk, muz, papaya, ananas, kakao ve kahve plantasyonlarından geçerek bir palmiye yağı değirmeni ve tropikal çiçek plantasyonu ziyaret ederek devam ediyor. Ekom köyüne vararak, 80m yüksekliğindeki güzel Ekom Şelalesi'ni görebileceğimiz piknik öğle yemeği için zamanında ulaşıyoruz. Manengouba Dağları’nın eteğindeki Mboroukou köyüne devam ediyoruz. Geceleme Villa Luciole Lodge ya da benzeri bir yerde. (BD)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "",
+        "description": "Mboroukou - Baham - Foumban (yaklaşık 3 saat toplam sürüş süresi) - Kahvaltıdan sonra geleneksel bir Bamileke şefinin sarayını ziyaret etmek üzere Baham'a hareket ediyoruz. Ardından, mükemmel geleneksel zanaatları ile tanınan, iyi müzeleri ve harika bir kraliyet sarayı olan Foumban’a devam ediyoruz ve kentin önemli noktalarını keşfetmek için zaman harcıyoruz. Geceleme Paradise Hotel Koutaba ya da benzeri bir yerde. (BD)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "",
+        "description": "Foumban - Batoufam (yaklaşık 2 saat toplam sürüş süresi) - Kahvaltı sonrası, Kamerun'daki kırsal yaşamı daha iyi anlamak için bir Bororo köyünü ziyaret ediyoruz. Burada yaşam, insanların yaşam tarzını yansıtan faaliyetler üzerinde yoğunlaşmaktadır; süt üretimi bunlardan biridir ve kadınlar tarafından tereyağı üretiminde kullanılmaktadır. Bu insanlar, özellikle kadınlar, örgü becerileri ile tanınmaktadır. Bafoussam üzerinden geçerek Batoufam'a doğru hareket ederken, yerel Bamileke halkının dileklerini gerçekleştirmek umuduyla kurban sundukları kutsal Mectchie şelalesini ziyaret ediyoruz. Batoufam'daki şefin sarayında geceleme. (BD)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "",
+        "description": "Batoufam - Yaounde (yaklaşık 4 saat toplam sürüş süresi) - Bugün Yaounde'ye doğru yola çıkıyoruz ve yolda Makenene isimli küçük kasabada duruyoruz. Yaounde'ye vardığımızda şehir turu yapacağız. Geceleme Merina Hotel ya da benzeri bir yerde. (B) "
+      },
+      {
+        "dayNumber": 6,
+        "title": "",
+        "description": "Mefou Primat Koruma Alanı – Nyong Nehri – Mbalmayo Orman Rezervi (yaklaşık 3 saat toplam sürüş süresi) - Kahvaltıdan sonra, Yaounde'den yaklaşık 70 km dışarıdaki Mbalmayo Orman Rezervi ve Ebogo ekoturizm köyüne doğru hareket ediyoruz. Yol üzerinde, kurtarılan ve yetim kalan primatları, örneğin şempanzeleri ve gorilleri, koruyan Mefou Primat Koruma Alanını ziyaret edeceğiz. Ebogo’ya vardığımızda Nyong Nehri boyunca bir pirog taşıyacağız ve yağmur ormanında yürüyerek bazı bitkilerin tıbbi özelliklerini öğreneceğiz. Yaounde'ye dönüş. Geceleme Merina Hotel ya da benzeri bir yerde. (B)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "",
+        "description": "Yaounde - Abongbang - Lomie (yaklaşık 7 saat toplam sürüş süresi) - Yaounde'den ayrılıyor ve Ayos ve Abongbang üzerinden Lomie'ye doğru yola çıkıyoruz. Bu, yoğun ekvator yağmur ormanlarından geçerek güzel Ba’Aka ve Bantu köylerini ziyaret eden uzun bir yolculuktur. Geceleme Raphia oteli ya da benzeri bir yerde. (BD)"
+      },
+      {
+        "dayNumber": 10,
+        "title": "",
+        "description": "Yaounde (yaklaşık 7 saat toplam sürüş süresi) - Ba’Aka konuklarımıza veda ettikten sonra Yaounde'ye geri dönmeye başlıyoruz. Geceleme Merina Hotel ya da benzeri bir yerde. (BD)"
+      },
+      {
+        "dayNumber": 11,
+        "title": "",
+        "description": "Douala - Edea Park (yaklaşık 4.5 saat toplam sürüş süresi) - Yaounde'den ayrılıyor ve Edea üzerinden Douala-Edea rezervine, Batı Afrika'nın en tehdit altında olan primatlarından biri olan Orta Şempanzenin evi olan sığınağa doğru yol alıyoruz. Sığınak, daha sonra genç şempanzeleri Pongo Songo Adası'na salan bir dernek tarafından yönetilmektedir - şempanzeleri izlemek için adaya tekne turu yapabiliriz. Geceleme Hostelerie de la Sanaga ya da benzeri bir yerde. (B)"
+      },
+      {
+        "dayNumber": 12,
+        "title": "",
+        "description": "Edea Rezervi - Kribi (yaklaşık 1.5 saat toplam sürüş süresi) - Bugün kıyı kasabası Kribi’ye doğru ilerliyoruz. Öğleden sonra Lobe Nehri üzerinde bir tekne gezisi yapıyor ve denize doğrudan akan Lobe Şelalelerini ziyaret ediyoruz; bu nadir bir doğal olgudur. Geceleme Tara Plage Hotel ya da benzeri bir yerde. (BD)"
+      },
+      {
+        "dayNumber": 13,
+        "title": "",
+        "description": "Kribi - Douala (yaklaşık 2.5 saat toplam sürüş süresi) - Yolda Londji balıkçı köyünü ziyaret ederek Douala’ya geri dönmeden önce rahat bir sabah geçiriyoruz. Geceleme Aquarius Hotel ya da benzeri bir yerde. (B)"
+      },
+      {
+        "dayNumber": 14,
+        "title": "",
+        "description": "Douala - Kamerun'dan ayrılış - Ayrılış zamanınıza bağlı olarak, komşu mangrov ormanlarında bir tekne turu yapma ve bazı yerel balıkçı köylerini ziyaret etme fırsatınız olabilir. Tur, havaalanına transfer ile sona eriyor. (B) Lütfen belirtilen sürüş sürelerinin yaklaşık olduğunu ve seyahat sırasında yerel koşullara göre değişebileceğini unutmayın. Ayrıca yolda durmalar için ayrılan süreyi içermez."
+      }
+    ],
+    "map": "",
+    "category": "Culture",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Douala",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Ekom Waterfalls",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Baham",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Foumban",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Mectchie Waterfall",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Bafoussam",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Bamenda",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Bafut",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Okpwa Village",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Fon’s palace Babungo",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Foumban",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Yaoundé",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Dja Reserve",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Ba’Aka village of Matisson",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Kribi",
+        "country": "Cameroon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Douala",
+        "country": "Kamerun",
+        "lat": 4.0424,
+        "lng": 9.707925
+      },
+      {
+        "name": "Ekom Şelalesi",
+        "country": "Kamerun",
+        "lat": 3.14298,
+        "lng": 13.623519
+      },
+      {
+        "name": "Baham",
+        "country": "Kamerun",
+        "lat": 5.334612,
+        "lng": 10.368438
+      },
+      {
+        "name": "Foumban",
+        "country": "Kamerun",
+        "lat": 5.723688,
+        "lng": 10.897818
+      },
+      {
+        "name": "Bafoussam",
+        "country": "Kamerun",
+        "lat": 5.475808,
+        "lng": 10.421556
+      },
+      {
+        "name": "Bamenda",
+        "country": "Kamerun",
+        "lat": 5.963662,
+        "lng": 10.155619
+      },
+      {
+        "name": "Bafut",
+        "country": "Kamerun",
+        "lat": 6.090717,
+        "lng": 10.113954
+      },
+      {
+        "name": "Okpwa Köyü",
+        "country": "Kamerun",
+        "lat": 3.324961,
+        "lng": 10.513661
+      },
+      {
+        "name": "Fon'un Babungo Sarayı",
+        "country": "Kamerun",
+        "lat": 6.067073,
+        "lng": 10.445864
+      },
+      {
+        "name": "Foumban",
+        "country": "Kamerun",
+        "lat": 5.723688,
+        "lng": 10.897818
+      },
+      {
+        "name": "Yaoundé",
+        "country": "Kamerun",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Kribi",
+        "country": "Kamerun",
+        "lat": 2.94341,
+        "lng": 9.912699
+      }
+    ],
+    "__trTranslated": true
+  },
+  {
+    "destination": "Cameroon",
+    "mainPhoto": "",
+    "id": "central-african-republic-wildlife-holiday",
+    "tourName": "Orta Afrika Cumhuriyeti vahşi yaşam tatili",
+    "placesVisited": "Yaounde, Ba’aka köy ziyaretleri, Dzanga-Sangha Rezervi, goril izleme, Dzanga Bai fili, Yokadouma, Bertoua",
+    "generalInfo": "Orta Afrika Cumhuriyeti'ndeki Dzanga-Ndoki Millî Parkı, Afrika'nın en güzel yağmur ormanlarından bazılarını ve dünyanın son kalıntılarını korumaktadır. 1990 yılında yaratılan Dzanga-Ndoki, yedi yüzden fazla kilometrekarelik bir alanı kaplar ve önemli orman fili, batı alçakland gorilleri, şempanzeler ve birçok diğer tehdit altındaki memelilerin evindedir.<br/><br/>Kamerun'un başkenti Yaounde'den başlayarak, doğuya doğru bozuk yollarda seyahat ediyoruz ve Orta Afrika Cumhuriyeti'ne geçiyoruz. Buradan Dzanga-Ndoki'ye devam ediyor, insanın el değmediği, doğanın hüküm sürdüğü bir dünyayı keşfediyoruz. Bu ilkel ormanın kalbine, büyük orman fil sürülerinin çekildiği güzel bir orman açıklığı olan Dzanga Bai'ye açılırız ve bu alçakland gorillerin izini sürmenin unutulmaz deneyimini yaşarız, alıştırılmış bir aileye yaklaşarak ormanı nasıl evleri haline getirdiklerini görürüz. Ormanda geçirdiğimiz bu zaman boyunca, bu hassas ekosistemin karmaşık biyolojik çeşitliliğini öğreniriz.<br/><br/>Ormanın insan sakinleri hakkında da bilgi ediniriz, Ba’Aka pigmelerinin yanında bir gece geçirerek, onların yağmur ormanındaki günlük yaşamları hakkında bilgi ediniriz. Bu, gezegenimizin en karmaşık vahşi yaşamından bazılarını ararken, dünyanın son vahşi alanlarından birinde seyahat eden keskin bir yolculuktur ve azın ayak bastığı yerlere adım atmamızı sağlar.<br/>",
+    "durationDays": "10",
+    "price": "4999",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "Yaounde - Yaounde'ye varış ve otele transfer. Günün geri kalanı, dinlenmek veya keşfetmek için serbest. Geceleme Hotel Jouvence veya benzeri."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "Yokadouma - Kamerun'un en doğusuna uzun bir sürüş, yol boyunca orman, küçük köyler ve pazarlar üzerinden geçerken. Geceleme Hotel Youkadouma veya benzeri. (B)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "",
+        "description": "Lidjombo – Dzanga-Sangha Rezervi – Güçlü Sangha Nehri'ni ve Orta Afrika Cumhuriyeti sınırını geçiyoruz. Sınır işlemlerinden sonra Dzanga-Sangha Rezervi'ni keşfetmek için temelimiz olacak Doli Lodge'a devam ediyoruz. (LD)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "",
+        "description": "Goril izleme - Seyahatin en önemli anlarından biri - bugün ormanda alıştırılmış batı alçakland gorillerinin bir ailesinin izini sürüyoruz, deneyimli iz sürücüler ve rehberler eşliğinde bu muhteşem hayvanlarla yakından tanışıyoruz. Gorillerle vakit geçirmenin eşsiz deneyimleri arasında olduğu az şey vardır ve bu, Afrika'nın sunabileceği en iyi deneyimler arasındadır. Geceleme Doli Lodge. (BLD)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "",
+        "description": "Mangabey izleme - Bu sabah farklı bir primat olan mangabeylerin izini sürüyoruz; bunlar arasında iki yüz ila üç yüz kişilik gruplar pek nadir değildir. Daha sonra, Sangha Nehri'nin bir kolu boyunca, palmiye ağaçlarından raffia şarabı çıkaran yerel halkla birlikte oyma kanolarla dolaşacağız. Geceleme Doli Lodge. (BLD)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "",
+        "description": "Dzanga Bai - Dzanga Bai'ye sürüş ve yürüyüş. Burada, mineral bakımından zengin toprağı tüketmek için gelen elli ile yüz arasında orman fili sürüleri sıkça görülebilir, ayrıca diğer orman vahşi yaşamı olan bufalo, sitatunga ve bongo da gözlemlenebilir. Geceleme Doli Lodge. (BLD)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "",
+        "description": "Dzanga-Sangha Rezervi - Bugün Ba’Aka pigmeleriyle tam bir gün geçiriyoruz. Ev sahiplerimiz eşliğinde çevreyi keşfediyoruz ve onların yaşam tarzlarını sürdürmeleri için bal ve tıbbi bitki toplamayı öğrenme fırsatına sahibiz. Geceleme Doli Lodge. (BLD)"
+      },
+      {
+        "dayNumber": 10,
+        "title": "",
+        "description": "Yaounde - Devam eden uçuşunuz için havalimanına transfer. (B)"
+      }
+    ],
+    "map": "",
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Yokadouma",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Dzanga-Sangha Reserve",
+        "country": "Central African Republic"
+      },
+      {
+        "name": "Dzanga Bai",
+        "country": "Central African Republic"
+      },
+      {
+        "name": "Ba’aka village",
+        "country": "Central African Republic"
+      },
+      {
+        "name": "Bertoua",
+        "country": "Cameroon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yaounde",
+        "country": "Kamerun",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Yokadouma",
+        "country": "Kamerun",
+        "lat": 3.516912,
+        "lng": 15.052066
+      },
+      {
+        "name": "Dzanga-Sangha Rezervi",
+        "country": "Orta Afrika Cumhuriyeti",
+        "lat": 5.21309,
+        "lng": 25.224701
+      },
+      {
+        "name": "Dzanga Bai",
+        "country": "Orta Afrika Cumhuriyeti",
+        "lat": 6.775785,
+        "lng": 16.129504
+      },
+      {
+        "name": "Ba’aka köyü",
+        "country": "Orta Afrika Cumhuriyeti",
+        "lat": 4.272608,
+        "lng": 16.370809
+      },
+      {
+        "name": "Bertoua",
+        "country": "Kamerun",
+        "lat": 4.577726,
+        "lng": 13.684441
+      }
+    ],
+    "__trTranslated": true
+  },
+  {
+    "destination": "Cameroon",
+    "mainPhoto": "",
+    "id": "congo-rainforest-safari",
+    "tourName": "Kongo Yağmur Ormanı Safarisi",
+    "placesVisited": "",
+    "generalInfo": "Bu tur, Kongo Yağmur Ormanı'nın derinliklerine ve vahşi yaşam peşinde bir av için en büyük bai'lerden birine götürmesi bakımından eşsizdir. Orman fili, orman bufalosu, bongo, kırmızı nehir domuzu, alçak ağaç gorilleri ve birçok diğer tür sıkça görülmektedir.<br/><br/>Tanıtım:<br/>Biz, dünya genelinde vahşi yaşam gözlemi düzenlemede uzmanız ve yerleşik yollardan uzak yerleri ziyaret eden çeşitlilikte vahşi yaşam gözlem turları sunuyoruz. Bu geziler, dünyanın en nadir ve en zor görülen türlerini görmeye hevesli kişiler için düzenlenmiştir. Bu özel tur benzersizdir; vahşi yaşam arayışında uzun zaman harcıyor ve yoğun yağmur ormanındaki vahşi yaşam için birer mekke olan geniş açıklıkları gözlemlemek için daha fazla zaman geçiriyoruz. Bu açıklıklar bai olarak adlandırılır ve vahşi yaşamı gözlemlemek üzere yükseltilmiş platformda önemli zaman geçiriyoruz, ayrıca ormandaki goril takibi de dahil edilmiştir.<br/><br/>Bu tur, yenilikçi bir tur olup her yıl bu izole ve harika otele giden birkaç kişiden biri olacaksınız.<br/><br/>Daha büyük ve daha yaygın görülen türler olan goriller, fillar ve kırmızı nehir domuzlarının yanı sıra her zaman ağaç ve beyaz karnı pangolin, çeşitli duiker türleri, Kongo tüyü olmayan su samurunu ve birçok primat türü gibi daha küçük ve nadir memelileri görme şansı da bulunmaktadır.<br/><br/>Fiyat Dahildir:<br/><br/>Güzergâhta belirtilen her şey dahildir. Günde üç öğün yemek (kahvaltı, öğle ve akşam yemeği belirtilen yerlerde) dahil. Her misafir için her gün şişelenmiş veya filtrelenmiş su sağlanacaktır. Tüm transferler için mükemmel bir şoförü olan özel ısıtmalı 4x4 araçlarımız var. Ayrıca hızlıca otele gidip geri dönmemiz için Kamerun'dan bir uçuş kiralayacağız çünkü genellikle Bangui üzerinden gelmekten daha ucuzdur. Tüm geziler boyunca yılların deneyimine sahip yerel rehberlerimiz olacaktır. Diğer tur operatörlerine göre, vahşi yaşam arayışı için günde daha fazla zaman harcadığımızı belirtmek isteriz; yalnızca her gün bai ormanına çıkmamayı talep ederseniz, vahşi yaşamı aramak için zaman harcamayacağız. (Geçmiş turlara dayanan hayvanları görme olasılıklarını belirten) kapsamlı bir tür listesi, önceden kalkış paketi ile birlikte verilecektir. Ayrıca, seyahat süresince kullanabileceğiniz bir referans kitaplığı da mevcuttur ve göreceğiniz vahşi yaşam hakkında belgeler de bulunmaktadır (zoolog rehberinin mevcut olmasına bağlıdır).<br/><br/>Sezonlar:<br/><br/>Bu tur için en iyi zaman Aralık - Mayıs dönemidir. Aralık, kuru sezonun başlangıcı olduğu için iyi bir ziyaret dönemidir, bu dönemde bongo ve kırmızı nehir domuzu bai'yi daha az ziyaret ederler. Mayıs ise bu iki türün görülmesi için en uygun zamandır. Ancak filler ve goriller (diğer türler ile birlikte) yıl boyunca görülmektedir.<br/><br/>Neden Bu Turu Seçmelisiniz:<br/><br/>• Tüm vahşi yaşam gözlem tatillerimiz, deneyimli bir yerel doğa bilimci veya ranger tarafından, mümkünse yerel sürücüler ve bilim insanları veya araştırmacılar tarafından yönlendirilmektedir. Bu durum, hayvanları bulmak için çok sayıda eğitimli göz seti sağlar ve izlediğiniz vahşi yaşamın davranışlarını ve alışkanlıklarını anlamanızı sağlar.<br/>• Tur rehberliğini üstlenen zoologumuz (mevcut olduğunda - zoolog istemeniz durumunda lütfen bizimle iletişime geçin ve uygunluk kontrol edelim - tüm turlar zoolog içermez) büyük bir bilgi birikimine sahiptir.<br/>• Seyahat sırasında kendiliğinden gelişen daha fazla vahşi yaşam gözlem etkinlikleri sunabiliriz. Örneğin, yerel rehberlerimiz duyarlıdır ve birçok irtibatları vardır, ve yeni bir hayvan yerinin bilindiği ve güvenilir bir şekilde görüldüğü durumda oraya gitme fırsatına sahip oluruz.<br/>• Yerel Pygmy köyüne katılma fırsatınız olacak; bu deneyim Afrika'da herhangi birinde olduğu kadar otantik olacaktır.<br/>• Yukarıdaki tüm nedenler, merkez Afrika Cumhuriyeti'nde bu, benzersiz Vahşi Yaşam Safari'nizi görmek için yüksek bir başarı oranını sunmaktadır. Ayrıca, yılın diğer zamanlarında ve Mandrill ve Okapi gibi diğer türler üzerine yoğunlaşmış olan farklı bölgelerde de vahşi yaşam turları düzenleme ve yürütme yeteneğine sahibiz. Bu yerlerden herhangi biri hakkında daha fazla bilgi almak veya bir safari rezervasyonu yapmak isterseniz lütfen bize bildirin.<br/>• Birçok tur operatörünün aksine, isteğe bağlı olarak bu turu tek bir kişi için de düzenlemeye isteklisiz.<br/><br/>Yerler:<br/><br/>Bu tur, Yaounde, Kamerun'da başlar ve sona erer. Ancak burası sadece charter uçağını kiralayıp Orta Afrika Cumhuriyeti'nin güney-batısında yer alan büyük ve muhteşem Dzanga-Ndoki Milli Parkı'nın ortasındaki otele doğrudan ulaşmak için giriş ve çıkış noktamızdır.<br/><br/>Fitness Seviyesi:<br/><br/>Bu gezide bazı yürüyüşler yapılmaktadır; örneğin bai'deki yükseltilmiş platforma gitmek veya alçak ağaç gorilleri ve çevik mangabeyleri takip etmek gibi. Ancak arazi çoğunlukla düzdür, bu nedenle gerçek bir fiziksel yeterlilik gerektirmemektedir. Sadece sıcağın ve nemin içinde 1-2 saat yürüyebilmeniz yeterlidir.<br/><br/>Ekipman:<br/><br/>Tura kaydolduğunuzda size kapsamlı bir ön kalkış paketi göndereceğiz; bu paket, önerilen ekipman için bir tam paket listesi içerecektir. Ekipman listesi turdan tura ve yerden yere değişeceği için bizimle iletişime geçmenizde veya rezervasyon yaptıktan sonra ön kalkış paketini almayı beklemenizde fayda vardır.<br/><br/>Minimum Yaş: 18 Yaş<br/><br/>Fotoğraf kredileri:<br/>Pierre Fidenci <br/>U.S. Fish and Wildlife Service Headquarters <br/>Daniel Ramirez<br/>Steve Wilson<br/>Tyler Brenot<br/>Gana'daki U.S. Büyükelçiliği'nin resmi fotoğrafçısı<br/>Damiano Luchetti",
+    "durationDays": "12",
+    "price": "10450",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "Yaounde - Bugün Kamerun'un başkenti Yaounde'ye varacaksınız. Burada yerel rehberiniz tarafından karşılanacak ve havaalanından otelinize transfer edileceksiniz. Bugün herhangi bir aktivite planlanmamıştır, dinlenme günü. Konaklama - Yaounde Havaalanı Oteli (veya benzeri) - bugün yemek yok."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "Yaounde'den Dzanga Bai'ye - Bugün otelden çıkacak ve küçük bir iç hatlar havaalanına seyahat edeceksiniz. Buradan kiralanmış Cessna uçağımıza bineceksiniz, bu da bizi doğrudan otele götürecek. Bu, otele ulaşmanın en hızlı ve kolay yoludur. Otel, Kongo Havzası'nın kuzey-batı kesiminde yer alan şahane ve dünya çapında ünlü Dzanga-Ndoki Milli Parkı'na yakındır. Rezervde Orman Filleri, Alçak Ağaç Gorilleri, ülkenin 16 primat türü (özellikle De Brazza'nın maymunu gibi beyaz sakallı olanları), yüzlerce kuş türü, sürüngenler, kurbağalar vb. bulunmaktadır. Ba'aka pygmilerinin bir köyünü ziyaret edeceksiniz ve burada bir süre geçirecek, kadınlar bitkiler hakkında geleneksel bilgi paylaşacaklar ve ormandaki yaşam tarzlarını öğreneceksiniz. WWF, bölgede koruma, eğitim ve sağlık programları oluşturmak için Ba'aka ile çalışmaktadır. Otele vardığımızda, yerleşip otel alanında dinlenmek ve dolaşmak için günün geri kalanını geçireceğiz. Otelin etrafında birçok maymun türü görülebilir. Bugün kahvaltı ve akşam yemeği dahildir. Not: Otele vardığımız andan itibaren burada günlük olarak olacaklara esnek olunması önemlidir; aşağıdaki güzergâhı takip etmeye çalışacağız, ancak bazı şeyler karıştırılabilir ve yerleri değiştirilebilir. Belirtilen tüm aktiviteleri gerçekleştireceğiz, sadece bu belirli sırayla olmayabilir."
+      },
+      {
+        "dayNumber": 11,
+        "title": "",
+        "description": "Yaounde - Bugün otelden ayrılacak ve kendi kiralanmış Cessna uçağımızla Yaounde'ye dönecek ve ardından turun son geceniz için otelinize götürüleceksiniz. Konaklama - Yaounde Havaalanı Oteli (veya benzeri) - bugün tek yemek kahvaltıdır."
+      },
+      {
+        "dayNumber": 12,
+        "title": "",
+        "description": "Ev - Bugün havaalanından alınacak ve dönüş uçuşunuzu yakalamak için uluslararası havaalanına götürüleceksiniz."
+      }
+    ],
+    "map": "",
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Dzanga Bai",
+        "country": "Central African Republic"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yaounde",
+        "country": "Kamerun",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Dzanga Bai",
+        "country": "Orta Afrika Cumhuriyeti",
+        "lat": 6.775785,
+        "lng": 16.129504
+      },
+      {
+        "name": "Yaounde",
+        "country": "Kamerun",
+        "lat": 3.864768,
+        "lng": 11.520526
+      }
+    ],
+    "__trTranslated": true
+  }
+]
