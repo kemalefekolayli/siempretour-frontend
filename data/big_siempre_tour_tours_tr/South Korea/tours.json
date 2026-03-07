@@ -1,6 +1,6 @@
 [
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "5-day-south-korea-tour",
     "tourName": "5 günlük Güney Kore turu",
@@ -190,7 +190,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "discover-south-korea-small-group-holiday",
     "tourName": "Güney Kore'yi Keşfedin Küçük Grup Tatili",
@@ -327,43 +327,49 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Seul",
-        "country": "Güney Kore",
+        "name": "Seoul",
+        "country": "South Korea",
         "lat": 37.566679,
         "lng": 126.978291
       },
       {
+        "name": "Demilitarized Zone (DMZ)",
+        "country": "South Korea",
+        "lat": 37.3727,
+        "lng": -5.980066
+      },
+      {
         "name": "Andong",
-        "country": "Güney Kore",
+        "country": "South Korea",
         "lat": 36.565434,
         "lng": 128.72649
       },
       {
         "name": "Gyeongju",
-        "country": "Güney Kore",
+        "country": "South Korea",
         "lat": 35.856644,
         "lng": 129.22423
       },
       {
         "name": "Busan",
-        "country": "Güney Kore",
+        "country": "South Korea",
         "lat": 35.179953,
         "lng": 129.075236
       },
       {
         "name": "Gwangju",
-        "country": "Güney Kore",
+        "country": "South Korea",
         "lat": 35.159465,
         "lng": 126.851503
       },
       {
         "name": "Jeonju",
-        "country": "Güney Kore",
+        "country": "South Korea",
         "lat": 35.82238,
         "lng": 127.147804
       }
@@ -371,7 +377,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "k-pop-tour-in-south-korea-9-days",
     "tourName": "Güney Kore'de K-Pop turu, 9 gün",
@@ -487,7 +493,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "korea-small-group-tour",
     "tourName": "Kore küçük grup turu",
@@ -618,7 +624,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "seoul-4-day-tour-in-south-korea",
     "tourName": "Güney Kore'de 4 günlük Seul Turu",
@@ -700,21 +706,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Seul",
-        "country": "Güney Kore",
+        "name": "Seoul",
+        "country": "South Korea",
         "lat": 37.566679,
         "lng": 126.978291
+      },
+      {
+        "name": "Demilitarized Zone",
+        "country": "South Korea",
+        "lat": 37.3727,
+        "lng": -5.980066
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "south-korea-7-day-cultural-tour",
     "tourName": "Güney Kore 7 Günlük Kültürel Tur",
@@ -886,7 +898,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "south-korea-discovery-tour",
     "tourName": "Güney Kore Keşif Turu",
@@ -1059,7 +1071,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "south-korea-family-tour-9-days",
     "tourName": "Güney Kore Aile Turu, 9 gün",
@@ -1189,7 +1201,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "south-korea-group-tour",
     "tourName": "Güney Kore grup turu",
@@ -1415,7 +1427,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "south-korea-heritage-and-culture-tour",
     "tourName": "Güney Kore Miras ve Kültür Turu",
@@ -1579,7 +1591,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "south-korea-highlights-tour",
     "tourName": "Güney Kore'nin Gözde Yerleri Turu",
@@ -1700,7 +1712,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "south-korea-holiday",
     "tourName": "Güney Kore Tatili",
@@ -1877,7 +1889,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "south-korea-small-group-holiday",
     "tourName": "Güney Kore Küçük Grup Tatili",
@@ -1983,31 +1995,37 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Seul",
-        "country": "Güney Kore",
+        "name": "Seoul",
+        "country": "South Korea",
         "lat": 37.566679,
         "lng": 126.978291
       },
       {
+        "name": "Demilitarised Zone",
+        "country": "South Korea",
+        "lat": 37.3727,
+        "lng": -5.980066
+      },
+      {
         "name": "Sokcho",
-        "country": "Güney Kore",
+        "country": "South Korea",
         "lat": 38.20137,
         "lng": 128.5836
       },
       {
-        "name": "Andong Hahoe Halk Köyü",
-        "country": "Güney Kore",
+        "name": "Andong Hahoe Folk Village",
+        "country": "South Korea",
         "lat": 36.565434,
         "lng": 128.72649
       },
       {
         "name": "Busan",
-        "country": "Güney Kore",
+        "country": "South Korea",
         "lat": 35.179953,
         "lng": 129.075236
       }
@@ -2015,7 +2033,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "south-korea-small-group-tour",
     "tourName": "Güney Kore Küçük Grup Turu",
@@ -2209,7 +2227,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "south-korea-small-group-tours",
     "tourName": "Güney Kore Küçük Grup Turları",
@@ -2315,7 +2333,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "10-day-south-korea-cultural-tour",
     "tourName": "10 Günlük Güney Kore Kültür Turu",
@@ -2464,7 +2482,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "8-day-k-pop-demon-hunters-tour-of-seoul-tradition-food-and-culture-in-south-korea",
     "tourName": "8-Günlük K-Pop Şeytan Avcıları Turu: Güney Kore'de Gelenek, Yemek ve Kültür",
@@ -2555,7 +2573,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Korea",
+    "destination": "Güney Kore",
     "mainPhoto": "",
     "id": "comprehensive-14-day-south-korea-trip",
     "tourName": "Kapsamlı 14 Günlük Güney Kore Turu",

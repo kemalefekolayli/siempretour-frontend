@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "central-asia-overland-tour-the-stans",
     "tourName": "Orta Asya kara turu, stans",
@@ -376,7 +376,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "five-stans-adventure-tour-silk-road-odyssey",
     "tourName": "Beş Stanlar macera turu, İpek Yolu macerası",
@@ -728,7 +728,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "five-stans-guided-adventure-tour",
     "tourName": "Beş Stanlar Rehberli Macera Turu",
@@ -971,7 +971,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "kazakhstan-adventure-tour",
     "tourName": "Kazakistan Macera Turu",
@@ -1137,7 +1137,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "kazakhstan-holiday-steppe-and-silk-road",
     "tourName": "Kazakhstan tatili, Bozkır ve İpek Yolu",
@@ -1278,10 +1278,10 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "kazakhstan-horse-riding-holiday",
-    "tourName": "Kazakhstan atlı tatili",
+    "tourName": "Kazakistan atlı tatili",
     "placesVisited": "Doğu Kazakhstan atları, Katon Karagai Milli Parkı, Altay Dağları, Ust Kamenogorsk, Bu atlı tatilde sabit bir rota yok, doğa kampı",
     "generalInfo": "Doğu Kazakhstan'ın uzun, fit atları, melting pot toplulukları, bereketli vadileri ve göz alıcı karla kaplı dağları kalbinizi çalsın, tıpkı bizimki gibi, bu Kazakhstan atlı tatilinde. 2015 ve 2016'daki ilk sürüşlerimizden beri, etnik Kazak Altay koordinaatörümüz Amangul, bu nadiren ziyaret edilen Orta Asya köşesini deneyimlememiz için ilişkiler, rotalar ve sınır izinleri oluşturma konusunda bize yardımcı olmaktadır. Çin, Rusya ve Moğolistan sınırlarına yakın, derin göçebe kökleri çeşitli geleneksel kültürleri bir araya getirirken, bölgenin arkeolojik alanları bir seyahatin en önemli etabı olmasını sağlıyor. Ancak, dik araziler epeyce yük taşıyıcılığı ve uzun riding günleri gerektirdiğinden, hevesli sürücüler ve aktif gezginler yalnızca başvurabilir!<br/><br/>Macera arayanlar için bir seyahat, bu son derece çeşitli, ormanlık, göl zengini bölgede yeni alanlar ve rotalar keşfetmeye devam etmeyi amaçlıyoruz. Bu yüzden, size muhteşem ama az bilinen bir seyahat destinasyonunda ekoturizmi geliştirmemize yardımcı olurken, planlanmamış bir yürüyüşe hazır olun.<br/><br/>Moğol yürüyüşlerimizde olduğu gibi, doğa kampı için hazırlıklarımızı yapmak üzere sürücü, at, destek personeli ve malzemeleri bir araya getireceğiz. Çadırda uyuyarak (tek kişilik ek ücret yok) ve ateş etrafında yemek pişirerek geçireceğimiz zaman dilimimize hazırlanın. Bazı misafirperver yerel halkın saunalarına rastlama şansımız oldu ama Kazak vahşi doğası içinde duş ve tuvalet gibi olanaklara çok az erişim var. Bununla birlikte, görünüşte sonsuz temiz nehirler ve oldukça ılıman Batı Altay iklimi, yüzme fırsatları sunuyor - bazen atlar için bile!<br/><br/>At binme, gerçekten bize geri dönmemizi sağlayan büyük bir parçadır - otlaklar orman yollarına ve teknik tırmanışlar, Kazakça'da jailoo olarak bilinen uzak yaz yaylasına yönlendirir. Yerel park bekçileriyle çalıştığımız için, güçlü ve deneyimli at sürüleri, iyi tempolu, çeşitli günlerin ard arda gelmesini sağlıyor. \"Sadece deneyimli sürücüler için\" demekte tereddüt ediyoruz çünkü yeni başlayanların da kendilerini rahat hissetmeleri için bir at bulabiliriz - ancak bu macera tatilinde hızlı bir tempo ve bolca dörtnala gitme (ve daha fazlası!) fırsatı bekleyin. Bu seyahatin doğal olarak ciddi at tutkunlarını çekmesine rağmen, her türlü yürüyüşçü at biniş becerilerini artırmayı ve bu gizli yürüyüş cennetinin tadını çıkarmayı bekleyebilir.",
     "durationDays": "16",
@@ -1384,7 +1384,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "kazakhstan-small-group-tour",
     "tourName": "Kazakhstan küçük grup turu",
@@ -1605,7 +1605,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "kyrgyzstan-and-kazakhstan-overland-tour",
     "tourName": "Kırgızistan ve Kazakistan Karasal Turu",
@@ -1685,31 +1685,37 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Bișkek",
-        "country": "Kırgızistan",
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
         "lat": 42.87779,
         "lng": 74.606693
       },
       {
-        "name": "Almatı",
-        "country": "Kazakistan",
+        "name": "Almaty",
+        "country": "Kazakhstan",
         "lat": 43.236392,
         "lng": 76.945728
       },
       {
-        "name": "Issık-Kul Gölü",
-        "country": "Kırgızistan",
+        "name": "Tien Shan Mountains",
+        "country": "Kazakhstan",
+        "lat": 21.51224,
+        "lng": 98.009836
+      },
+      {
+        "name": "Lake Issyk-Kul",
+        "country": "Kyrgyzstan",
         "lat": 42.491681,
         "lng": 78.390173
       },
       {
         "name": "Karakol",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 42.479821,
         "lng": 78.381067
       }
@@ -1717,7 +1723,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "silk-road-adventure-tour",
     "tourName": "İpek Yolu macera turu",
@@ -2076,7 +2082,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "silk-road-holiday-five-stans-of-central-asia",
     "tourName": "İpek Yolu tatili, Orta Asya'nın beş 'Stanı'",
@@ -2440,7 +2446,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "small-group-holiday-to-the-stans",
     "tourName": "Stans'a Küçük Grup Turu",
@@ -2763,7 +2769,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "the-five-stans-holiday-ancient-silk-road-cities",
     "tourName": "Beş Stan Tatili, Antik İpek Yolu Şehirleri",
@@ -3063,7 +3069,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "the-five-stans-of-the-silk-road-holiday",
     "tourName": "İpek Yolu'nun Beş Stanı Tatili",
@@ -3387,7 +3393,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "the-five-stans-silk-road-holiday",
     "tourName": "Beş Stanlar İpekyolu Tatili",
@@ -3689,7 +3695,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kazakhstan",
+    "destination": "Kazakistan",
     "mainPhoto": "",
     "id": "the-silk-road-small-group-tour",
     "tourName": "İpek Yolu küçük gruplar turu",

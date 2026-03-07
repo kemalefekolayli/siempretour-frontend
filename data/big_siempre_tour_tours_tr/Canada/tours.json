@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "british-columbia-and-alberta-self-drive-holiday",
     "tourName": "Britanya Kolumbiyası ve Alberta Kendi Kendine Sürüş Tatili",
@@ -161,7 +161,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "british-columbia-sea-kayaking-holiday",
     "tourName": "British Columbia deniz kayağı tatili",
@@ -234,27 +234,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Port Hardy",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 50.722004,
         "lng": -127.49225
       },
       {
-        "name": "God’s Pocket Eyalet Parkı",
-        "country": "Kanada",
-        "lat": 46.634114,
-        "lng": -71.967554
+        "name": "Hurst Island",
+        "country": "Canada",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Queen Charlotte Strait",
+        "country": "Canada",
+        "lat": 35.227207,
+        "lng": -80.84309
+      },
+      {
+        "name": "Browning Wall",
+        "country": "Canada",
+        "lat": 53.420616,
+        "lng": -3.044311
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "canada-family-adventure-holiday-self-drive",
     "tourName": "Kanada aile macera tatili, kendi aracınızla",
@@ -470,7 +482,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "canada-northern-lights-adventure",
     "tourName": "Kanada Kuzey Işıkları Macerası",
@@ -561,7 +573,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "canada-small-group-holiday",
     "tourName": "Kanada küçük grup tatili",
@@ -797,7 +809,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "canadian-rockies-activity-holiday",
     "tourName": "Kanada Rocky Dağları etkinlik tatili",
@@ -1023,7 +1035,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "canadian-rockies-adventure-japer-to-banff",
     "tourName": "Kanada Rocky Dağları macerası, Jasper'dan Banff'a",
@@ -1204,7 +1216,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "canadian-rockies-and-northern-lights-tour",
     "tourName": "Kanada Rocky Dağları ve Kuzey Işıkları Turu",
@@ -1400,7 +1412,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "canadian-rockies-small-group-holiday",
     "tourName": "Kanada Rocky Dağları Küçük Grup Tatili",
@@ -1571,7 +1583,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "desolation-sound-kayaking-expedition-canada",
     "tourName": "Desolation Sound kano ekspedisyonu, Kanada",
@@ -1692,7 +1704,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "eastern-canada-self-drive-holiday",
     "tourName": "Doğu Kanada kendi kendine sürüş tatili",
@@ -1858,7 +1870,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "family-kayaking-tour-vancouver-island",
     "tourName": "Aile kano turu, Vancouver Adası",
@@ -1954,7 +1966,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "family-road-trip-holiday-in-western-canada",
     "tourName": "Batı Kanada'da Aile Yolculuğu Tatili",
@@ -2175,7 +2187,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "great-bear-rainforest-kayaking-holiday",
     "tourName": "Büyük Ayı Yağmur Ormanı Kajak Tatili",
@@ -2326,7 +2338,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "great-lakes-small-ship-cruise-toronto-to-milwaukee",
     "tourName": "Büyük Göller Küçük Gemilerle Seyahat, Toronto'dan Milwaukee'ye",
@@ -2464,73 +2476,97 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Toronto",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 43.647938,
         "lng": -79.38355
       },
       {
-        "name": "Welland Kanalı",
-        "country": "Kanada",
+        "name": "Welland Canal",
+        "country": "Canada",
         "lat": 42.99093,
         "lng": -79.24912
       },
       {
         "name": "Port Colborne",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 42.886257,
         "lng": -79.251366
       },
       {
-        "name": "Niagara Şelaleleri",
-        "country": "Kanada",
+        "name": "Niagara Falls",
+        "country": "Canada",
         "lat": 43.10664,
         "lng": -79.063446
       },
       {
-        "name": "Erie Gölü",
-        "country": "Kanada",
+        "name": "Lake Erie",
+        "country": "Canada",
         "lat": 44.76979,
         "lng": -77.88318
       },
       {
         "name": "Detroit",
-        "country": "Amerika Birleşik Devletleri",
+        "country": "United States",
         "lat": 42.331397,
         "lng": -83.046217
       },
       {
-        "name": "Küçük Çeşitli",
-        "country": "Kanada",
+        "name": "St. Clair River",
+        "country": "null",
+        "lat": 42.320219,
+        "lng": -82.858852
+      },
+      {
+        "name": "Lake Huron",
+        "country": "null",
+        "lat": 43.454731,
+        "lng": -81.657773
+      },
+      {
+        "name": "Little Current",
+        "country": "Canada",
         "lat": 45.98068,
         "lng": -81.927704
       },
       {
-        "name": "Manitoulin Adası",
-        "country": "Kanada",
+        "name": "Manitoulin Island",
+        "country": "Canada",
         "lat": 45.766667,
         "lng": -82.2
       },
       {
-        "name": "Mackinac Adası",
-        "country": "Amerika Birleşik Devletleri",
+        "name": "Sault Ste. Marie",
+        "country": "null",
+        "lat": 46.52396,
+        "lng": -84.31937
+      },
+      {
+        "name": "Mackinac Island",
+        "country": "United States",
         "lat": 45.849249,
         "lng": -84.618094
       },
       {
+        "name": "Lake Michigan",
+        "country": "null",
+        "lat": 43.852949,
+        "lng": -85.004351
+      },
+      {
         "name": "Milwaukee",
-        "country": "Amerika Birleşik Devletleri",
+        "country": "United States",
         "lat": 43.038772,
         "lng": -87.906548
       },
       {
         "name": "Chicago",
-        "country": "Amerika Birleşik Devletleri",
+        "country": "United States",
         "lat": 41.881953,
         "lng": -87.632362
       }
@@ -2538,7 +2574,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "hike-bike-and-rafting-adventure-in-the-canadian-rockies",
     "tourName": "Kanada Rocky Dağları'nda Yürüyüş, Bisiklet ve Rafting Macerası",
@@ -2709,7 +2745,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "johnstone-strait-kayaking-expedition-in-canada",
     "tourName": "Kanada'da Johnstone Strait kano keşif turu",
@@ -2815,7 +2851,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "johnstone-strait-kayaking-tour-in-canada",
     "tourName": "Kanada'da Johnstone Strait Kayak Turu",
@@ -2921,7 +2957,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "kayak-with-orcas-holiday-in-canada",
     "tourName": "Kanada'da orka ile kayak tatili",
@@ -3012,7 +3048,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "kayak-with-whales-in-british-columbia-canada",
     "tourName": "Kanada'nın British Columbia Eyaletinde Balinalarla Kayak Yapın",
@@ -3133,7 +3169,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "kayaking-with-orcas-in-british-columbia-4-days",
     "tourName": "Orkalarla Kayak: British Columbia'da 4 Gün",
@@ -3224,7 +3260,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "nova-scotia-self-drive-holiday",
     "tourName": "Nova Scotia kendin sür tatili",
@@ -3465,7 +3501,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "ontario-self-drive-holiday-in-canada",
     "tourName": "Ontario kendin sürüş tatili Kanada'da",
@@ -3621,7 +3657,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "quebec-self-drive-holiday-canada",
     "tourName": "Quebec kendi kendine sürüş tatili, Kanada",
@@ -3792,7 +3828,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "swanson-island-kayaking-glamping-tour",
     "tourName": "Swanson Adası kajak ve glamping turu",
@@ -3903,7 +3939,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "western-canada-family-fly-drive-holiday",
     "tourName": "Batı Kanada aile uçuş sürüş tatili",
@@ -4084,7 +4120,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "western-canada-self-drive-holiday",
     "tourName": "Batı Kanada kendi kendine sürüş tatili",
@@ -4260,7 +4296,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Canada",
+    "destination": "Kanada",
     "mainPhoto": "",
     "id": "wild-sea-kayaking-expedition-vancouver-island",
     "tourName": "Yerli deniz kayağı keşif turu, Vancouver Adası",

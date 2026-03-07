@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "africa-overland-tour-nairobi-to-johannesburg",
     "tourName": "Afrika karadan tur, Nairobi'den Johannesburg'a",
@@ -573,7 +573,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-adventure-holiday",
     "tourName": "Botsvana macera tatili",
@@ -726,7 +726,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-adventure-safari",
     "tourName": "Botsvana macera safarisi",
@@ -881,7 +881,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-and-zimbabwe-highlights-tour",
     "tourName": "Botswana ve Zimbabve’nin Öne Çıkan Yerleri Turu",
@@ -1015,7 +1015,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-and-zimbabwe-ivory-route-lodge-tour",
     "tourName": "Botsvana ve Zimbabve Fildişi Yolu Konaklama Turu",
@@ -1200,7 +1200,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-and-zimbabwe-lodge-safari",
     "tourName": "Botswana ve Zimbabwe Konaklama Safari",
@@ -1394,7 +1394,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-bush-and-beach-honeymoon",
     "tourName": "Botsvana çölü ve plajı balayı",
@@ -1508,7 +1508,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-camping-safaris",
     "tourName": "Botswana kamp safarileri",
@@ -1616,9 +1616,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Khama Rhino Sanctuary",
@@ -1633,13 +1633,13 @@
         "lng": 23.42207
       },
       {
-        "name": "Moremi Oyun Koruma Alanı",
+        "name": "Moremi Game Reserve",
         "country": "Botswana",
         "lat": -22.571274,
         "lng": 27.447813
       },
       {
-        "name": "Chobe Ulusal Parkı",
+        "name": "Chobe National Park",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
@@ -1651,8 +1651,20 @@
         "lng": 25.153856
       },
       {
+        "name": "Zambezi River",
+        "country": "Botswana",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
         "name": "Livingstone",
-        "country": "Zambiya",
+        "country": "Zambia",
         "lat": -17.853135,
         "lng": 25.861429
       }
@@ -1660,7 +1672,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-delta-and-desert-safari",
     "tourName": "Botsvana Deltası ve Çöl Safari",
@@ -1758,7 +1770,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-delta-and-kalahari-luxury-safari-for-families",
     "tourName": "Botsvana Deltası ve Kalahari Aileler için Lüks Safari",
@@ -1846,7 +1858,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-family-adventure",
     "tourName": "Botsvana aile macerası",
@@ -1968,7 +1980,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-family-safari-holiday",
     "tourName": "Botsvana aile safari tatili",
@@ -2078,7 +2090,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-family-safari-with-teenagers-holiday",
     "tourName": "Gençlerle Botswana Aile Safarisi",
@@ -2243,7 +2255,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-fly-in-luxury-safari",
     "tourName": "Botsvana Uçak İle Lüks Safari",
@@ -2332,21 +2344,33 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Maun",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -19.988626,
         "lng": 23.42207
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Botswana",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Botswana",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-fly-in-safari-holiday",
     "tourName": "Botswana uçuşla safari tatili",
@@ -2434,9 +2458,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Maun",
@@ -2445,22 +2469,28 @@
         "lng": 23.42207
       },
       {
-        "name": "Moremi Oyun Vahası",
+        "name": "Moremi Game Reserve",
         "country": "Botswana",
         "lat": -22.571274,
         "lng": 27.447813
       },
       {
-        "name": "Chobe Millî Parkı",
+        "name": "Chobe National Park",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Botswana",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-flying-safari-tailor-made",
     "tourName": "Botsvana uçan safari, özel yapım",
@@ -2550,7 +2580,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-highlights-and-caprivi-guided-tour",
     "tourName": "Botsvana'nın güzellikleri ve Caprivi rehberli turu",
@@ -2684,7 +2714,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-highlights-and-victoria-falls",
     "tourName": "Botsvana'nın Güzellikleri ve Victoria Şelalesi",
@@ -2794,7 +2824,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-lodge-safari",
     "tourName": "Botswana Lodge Safari",
@@ -2918,7 +2948,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-luxury-family-safari",
     "tourName": "Botswana Lüks Aile Safarisi",
@@ -3041,7 +3071,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-luxury-honeymoon-safari",
     "tourName": "Botswana lüks balayı safarisi",
@@ -3178,7 +3208,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-luxury-safari-holiday",
     "tourName": "Botswana lüks safarisi tatili",
@@ -3311,7 +3341,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-mobile-tent-safari",
     "tourName": "Botsvana hareketli çadır safari",
@@ -3430,7 +3460,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-national-parks-safari-holiday",
     "tourName": "Botswana Ulusal Parkları safari tatili",
@@ -3515,10 +3545,10 @@
     ],
     "routeCoordinates": [
       {
-        "name": "Istanbul",
+        "name": "İstanbul",
         "country": "Turkey",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Maun",
@@ -3545,6 +3575,12 @@
         "lng": 25.153856
       },
       {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
         "name": "Livingstone",
         "country": "Zambia",
         "lat": -17.853135,
@@ -3554,7 +3590,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-off-beaten-track-holiday",
     "tourName": "Botsvana keşfedilmemiş tatil",
@@ -3653,7 +3689,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-safari-adventure-for-families",
     "tourName": "Aileler için Botswana safari macerası",
@@ -3796,7 +3832,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-safari-and-chobe-river-cruise",
     "tourName": "Botsvana safari ve Chobe nehir gezisi",
@@ -3892,33 +3928,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Maun",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -19.988626,
         "lng": 23.42207
       },
       {
-        "name": "Chobe Nehri",
-        "country": "Botsvana",
+        "name": "Chobe River",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
         "name": "Kasane",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -17.795486,
         "lng": 25.153856
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Botswana",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-safari-and-mozambique-beach-break",
     "tourName": "Botsvana safari ve Mozambik plaj molası",
@@ -4036,7 +4078,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-safari-and-wild-camping",
     "tourName": "Botsvana safari ve yaban kampı",
@@ -4131,45 +4173,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Maun",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -19.988626,
         "lng": 23.42207
       },
       {
-        "name": "Moremi Oyun Koruma Alanı",
-        "country": "Botsvana",
+        "name": "Moremi Game Reserve",
+        "country": "Botswana",
         "lat": -22.571274,
         "lng": 27.447813
       },
       {
-        "name": "Chobe Milli Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
         "name": "Kasane",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -17.795486,
         "lng": 25.153856
       },
       {
         "name": "Livingstone",
-        "country": "Zambiya",
+        "country": "Zambia",
         "lat": -17.853135,
         "lng": 25.861429
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Botswana",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-safari-holiday-on-a-shoestring",
     "tourName": "Botstore'da bütçe dostu safari tatili",
@@ -4285,7 +4333,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-safari-lodges-and-mobile-camps",
     "tourName": "Botsvana safari, dağ evleri ve mobil kamplar",
@@ -4399,7 +4447,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-safari-tour-from-desert-to-delta-and-falls",
     "tourName": "Çölde Deltaya ve Şelalelere Botswana safari turu",
@@ -4470,7 +4518,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-safari-vic-falls-holiday",
     "tourName": "Botsvana safari & Vic Falls tatili",
@@ -4574,7 +4622,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-safari-with-local-guides",
     "tourName": "Yerel rehberlerle Botswana safari",
@@ -4718,7 +4766,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-small-group-holiday-added-comfort",
     "tourName": "Botsvana küçük grup tatili, ek konfor",
@@ -4806,19 +4854,25 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Chobe Ulusal Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
+        "name": "Zambezi River",
+        "country": "Botswana",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
         "name": "Maun",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -19.988626,
         "lng": 23.42207
       }
@@ -4826,7 +4880,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-small-group-lodge-safari",
     "tourName": "Botsvana küçük grup lokma safarisi",
@@ -4955,7 +5009,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-value-safari-and-victoria-falls",
     "tourName": "Botsvana değeri safari ve Victoria Şelalesi",
@@ -5072,7 +5126,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-value-safari-with-victoria-falls",
     "tourName": "Botsvana Değer Safari ve Victoria Şelalesi",
@@ -5192,7 +5246,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-wheelchair-accessible-safari",
     "tourName": "Botsvana tekerlekli sandalye erişimine uygun safari",
@@ -5282,7 +5336,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-wilderness-safari",
     "tourName": "Botsvana vahşi doğa safari",
@@ -5416,7 +5470,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-wildlife-adventure",
     "tourName": "Botswana Yaban Hayatı Macerası",
@@ -5504,7 +5558,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-wildlife-and-cultural-adventure",
     "tourName": "Botsvana vahşi yaşam ve kültürel macera",
@@ -5646,7 +5700,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-wildlife-holiday-with-added-comfort",
     "tourName": "Botsvana Yaban Hayatı Tatili Konforlu Deneyim ile",
@@ -5811,7 +5865,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-wildlife-safari",
     "tourName": "Botsvana yaban hayatı safarisi",
@@ -5970,7 +6024,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-zambia-family-safari",
     "tourName": "Botsvana & Zambiya aile safarisi",
@@ -6115,7 +6169,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "camping-safari-in-southern-africa",
     "tourName": "Güney Afrika Kamp Safari",
@@ -6246,55 +6300,61 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Kruger Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
       },
       {
-        "name": "Matobos Ulusal Parkı",
+        "name": "Matobos National Park",
         "country": "Zimbabwe",
         "lat": -20.412101,
         "lng": 28.471157
       },
       {
-        "name": "Hwange Ulusal Parkı",
+        "name": "Hwange National Park",
         "country": "Zimbabwe",
         "lat": -18.372772,
         "lng": 26.50795
       },
       {
-        "name": "Victoria Şelalesi",
+        "name": "Victoria Falls",
         "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
-        "name": "Chobe Ulusal Parkı",
+        "name": "Zambezi River",
+        "country": "Zimbabwe",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Chobe National Park",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
-        "name": "Kasane Orman Rezervi",
+        "name": "Kasane Forest Reserve",
         "country": "Botswana",
         "lat": -17.795486,
         "lng": 25.153856
       },
       {
-        "name": "Khama Gergedan Koruma Alanı",
+        "name": "Khama Rhino Sanctuary",
         "country": "Botswana",
         "lat": -26.281437,
         "lng": 21.369097
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       }
@@ -6302,7 +6362,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "cape-town-to-nairobi-overland-tour",
     "tourName": "Cape Town'dan Nairobi'ye kara yoluyla tur",
@@ -6679,7 +6739,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "cape-town-to-vic-falls-small-group-tour",
     "tourName": "Cape Town'dan Vic Falls'a Küçük Gruplarla Tur",
@@ -6944,7 +7004,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "cape-town-to-victoria-falls-holiday",
     "tourName": "Cape Town'dan Victoria Şelalesi'ne Tatil",
@@ -7120,25 +7180,31 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
         "name": "Boulders Beach",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Cape Point Doğa Rezervi",
-        "country": "Güney Afrika",
+        "name": "Cape Point Nature Reserve",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Orange River",
+        "country": "null",
         "lat": -23.072859,
         "lng": 30.394539
       },
@@ -7150,19 +7216,19 @@
       },
       {
         "name": "Swakopmund",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.696565,
         "lng": 14.539054
       },
       {
-        "name": "Chobe Ulusal Parkı",
+        "name": "Chobe National Park",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
-        "name": "Victoria Şelalesi",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       }
@@ -7170,7 +7236,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "cape-town-to-victoria-falls-small-group-camping-safari",
     "tourName": "Cape Town'dan Victoria Şelalesi'ne Küçük Grup Kamp Safarisi",
@@ -7328,7 +7394,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "cape-town-to-victoria-falls-small-group-lodge-tour",
     "tourName": "Cape Town'dan Victoria Şelaleleri'ne Küçük Grup Lodge Turu",
@@ -7509,7 +7575,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "chobe-and-okavango-delta-safari-in-botswana",
     "tourName": "Botswana'daki Chobe ve Okavango Deltası safari",
@@ -7573,15 +7639,21 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Kasane",
         "country": "Botswana",
         "lat": -17.795486,
         "lng": 25.153856
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Botswana",
+        "lat": -17.941389,
+        "lng": 25.826298
       },
       {
         "name": "Maun",
@@ -7593,7 +7665,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "chobe-and-vic-falls-adventure-botswana",
     "tourName": "Chobe ve Victoria Şelaleleri Macerası, Botsvana",
@@ -7723,7 +7795,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "highlights-of-zimbabwe-and-botswana-tailor-made",
     "tourName": "Zimbabve ve Botswana'nın Öne Çıkanları, kişiye özel",
@@ -7843,7 +7915,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "johannesburg-to-victoria-falls-tours-in-southern-africa",
     "tourName": "Güney Afrika'da Johannesburg'dan Victoria Şelalesi Turları",
@@ -8028,7 +8100,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "kalahari-and-kubu-island-adventure-botswana",
     "tourName": "Kalahari ve Kubu Adası macerası, Botswana",
@@ -8137,7 +8209,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "kalahari-game-reserve-and-okavango-safari-botswana",
     "tourName": "Kalahari Oyun Koruma Alanı ve Okavango Safari, Botswana",
@@ -8279,7 +8351,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "luxury-safari-in-botswana-with-victoria-falls",
     "tourName": "Botswana'da Victoria Şelaleleri ile Lüks Safari",
@@ -8413,7 +8485,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "nairobi-to-cape-town-overland-tour",
     "tourName": "Nairobi'dan Cape Town'a kara yoluyla tur",
@@ -8738,7 +8810,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "nairobi-to-cape-town-tour-75-days",
     "tourName": "Nairobi'dan Cape Town'a tur, 75 gün",
@@ -9272,7 +9344,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "nairobi-to-johannesburg-overland-tour-in-africa",
     "tourName": "Nairobi'den Johannesburg'a kara yoluyla tur",
@@ -9544,9 +9616,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Nairobi",
@@ -9556,127 +9628,133 @@
       },
       {
         "name": "Arusha",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -3.369683,
         "lng": 36.688079
       },
       {
-        "name": "Serengeti Ulusal Parkı",
-        "country": "Tanzanya",
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
         "lat": -2.191953,
         "lng": 33.869237
       },
       {
         "name": "Marangu",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -3.114725,
         "lng": 37.63421
       },
       {
         "name": "Bagamoyo",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -6.447658,
         "lng": 38.896381
       },
       {
         "name": "Dar es Salaam",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -6.816084,
         "lng": 39.280358
       },
       {
         "name": "Zanzibar",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -6.197813,
         "lng": 39.199436
       },
       {
-        "name": "Malawi Gölü",
-        "country": "Malavi",
+        "name": "Lake Malawi",
+        "country": "Malawi",
         "lat": -15.300392,
         "lng": 34.701808
       },
       {
         "name": "Lilongwe",
-        "country": "Malavi",
+        "country": "Malawi",
         "lat": -13.987511,
         "lng": 33.768144
       },
       {
         "name": "Harare",
-        "country": "Zimbabve",
+        "country": "Zimbabwe",
         "lat": -17.831773,
         "lng": 31.045686
       },
       {
         "name": "Bulawayo",
-        "country": "Zimbabve",
+        "country": "Zimbabwe",
         "lat": -20.15606,
         "lng": 28.588706
       },
       {
-        "name": "Victoria Şelalesi",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
-        "name": "Chobe Ulusal Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
         "name": "Kasane",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -17.795486,
         "lng": 25.153856
       },
       {
         "name": "Maun",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -19.988626,
         "lng": 23.42207
       },
       {
         "name": "Swakopmund",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.696565,
         "lng": 14.539054
       },
       {
         "name": "Stellenbosch",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.93813,
         "lng": 18.86002
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
         "name": "Little Karoo",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -25.081411,
         "lng": 27.929525
       },
       {
-        "name": "Addo Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Addo National Park",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Cintsa",
-        "country": "Güney Afrika",
+        "country": "South Africa",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Royal Natal National Park",
+        "country": "Lesotho",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       }
@@ -9684,7 +9762,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "namibia-and-botswana-camping-safari",
     "tourName": "Namibya ve Botswana kamp safarisi",
@@ -9793,25 +9871,25 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Rundu",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -17.912821,
         "lng": 19.770192
       },
       {
         "name": "Windhoek",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.560084,
         "lng": 17.072984
       },
       {
-        "name": "Chobe Ulusal Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
@@ -9820,12 +9898,18 @@
         "country": "Zambia",
         "lat": -17.853135,
         "lng": 25.861429
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "namibia-and-botswana-safari-holiday",
     "tourName": "Namibya ve Botswana safari tatili",
@@ -9991,36 +10075,42 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Livingstone",
-        "country": "Zambiya",
+        "country": "Zambia",
         "lat": -17.853135,
         "lng": 25.861429
       },
       {
-        "name": "Caprivi Şeridi",
-        "country": "Namibya",
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Caprivi Strip",
+        "country": "Namibia",
         "lat": -17.507314,
         "lng": 24.279352
       },
       {
         "name": "Swakopmund",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.696565,
         "lng": 14.539054
       },
       {
         "name": "Windhoek",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.560084,
         "lng": 17.072984
       },
       {
-        "name": "Chobe Milli Parkı",
+        "name": "Chobe National Park",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
@@ -10033,7 +10123,7 @@
       },
       {
         "name": "Livingstone",
-        "country": "Zambiya",
+        "country": "Zambia",
         "lat": -17.853135,
         "lng": 25.861429
       }
@@ -10041,7 +10131,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "namibia-and-botswana-safari",
     "tourName": "Namibya ve Botswana safari",
@@ -10216,7 +10306,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "namibia-botswana-safari-adventure",
     "tourName": "Namibya & Botswana safari macerası",
@@ -10409,7 +10499,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "namibia-self-drive-and-botswana-holiday",
     "tourName": "Namibya kendi aracınızla ve Botsvana tatili",
@@ -10610,7 +10700,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "okavango-and-chobe-wildlife-holiday",
     "tourName": "Okavango ve Chobe Vahşi Yaşam Tatili",
@@ -10728,7 +10818,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "okavango-delta-and-tsodilo-hills-botswana",
     "tourName": "Okavango Deltası ve Tsodilo Tepeleri, Botswana",
@@ -10778,21 +10868,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Tsodilo Tepeleri",
+        "name": "Tsodilo Hills",
         "country": "Botswana",
         "lat": -18.764372,
         "lng": 21.748472
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "null",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "okavango-delta-and-victoria-falls-luxury-holiday",
     "tourName": "Okavango Deltası ve Viktorya Şelaleleri lüks tatili",
@@ -10850,27 +10946,33 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Chobe Millî Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
         "name": "Kasane",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -17.795486,
         "lng": 25.153856
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "null",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "okavango-delta-safari-holiday",
     "tourName": "Okavango Deltası safari tatili",
@@ -10896,7 +10998,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "overland-tour-from-victoria-falls-to-cape-town",
     "tourName": "Victoria Şelalesi’nden Şehir Kapı’na Kara Turu",
@@ -11046,55 +11148,61 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelalesi",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
         "name": "Kasane",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -17.795486,
         "lng": 25.153856
       },
       {
-        "name": "Chobe Ulusal Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
-        "name": "Nata Kuş Koruma Alanı",
-        "country": "Botsvana",
+        "name": "Nata Bird Sanctuary",
+        "country": "Botswana",
         "lat": -20.211105,
         "lng": 26.181124
       },
       {
         "name": "Maun",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -19.988626,
         "lng": 23.42207
       },
       {
         "name": "Swakopmund",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.696565,
         "lng": 14.539054
       },
       {
+        "name": "Orange River",
+        "country": "null",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
         "name": "Stellenbosch",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.93813,
         "lng": 18.86002
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       }
@@ -11102,7 +11210,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "photo-safari-in-botswana",
     "tourName": "Botsvana'da Fotoğraf Safarisi",
@@ -11172,7 +11280,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "premium-botswana-small-group-holiday",
     "tourName": "Premium Botswana küçük grup tatili",
@@ -11303,7 +11411,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "southern-africa-adventure-holiday",
     "tourName": "Güney Afrika Macera Tatili",
@@ -11563,7 +11671,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "southern-africa-budget-holiday",
     "tourName": "Güney Afrika bütçe tatili",
@@ -11732,7 +11840,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "southern-africa-holiday",
     "tourName": "Güney Afrika Tatili",
@@ -11951,7 +12059,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "southern-africa-luxury-wildlife-beach-holiday",
     "tourName": "Güney Afrika lüks vahşi yaşam ve plaj tatili",
@@ -12047,19 +12155,19 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Moremi Oyun Koruma Alanı",
-        "country": "Botsvana",
+        "name": "Moremi Game Reserve",
+        "country": "Botswana",
         "lat": -22.571274,
         "lng": 27.447813
       },
       {
-        "name": "Chobe Milli Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
@@ -12070,16 +12178,28 @@
         "lng": 25.861429
       },
       {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
         "name": "Vilanculos",
-        "country": "Mozambik",
+        "country": "Mozambique",
         "lat": -21.999647,
         "lng": 35.31868
+      },
+      {
+        "name": "Mozambique",
+        "country": "Botswana",
+        "lat": -15.033279,
+        "lng": 40.737503
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "southern-africa-overland-holiday",
     "tourName": "Güney Afrika Karada Seyahati",
@@ -12312,7 +12432,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "tailor-made-botswana-safari",
     "tourName": "Özel Tasarım Botswana Safarisi",
@@ -12442,7 +12562,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "the-grand-southern-africa-safari",
     "tourName": "Büyük Güney Afrika safari",
@@ -12735,7 +12855,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "trans-kalahari-camping-safari-botswana",
     "tourName": "Trans Kalahari kamp safari, Botswana",
@@ -12899,7 +13019,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "vic-falls-to-cape-town-holiday-in-southern-africa",
     "tourName": "Victoria Şelaleleri'nden Cape Town'a Güney Afrika tatili",
@@ -13119,7 +13239,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "vic-falls-to-johannesburg-tour-southern-africa",
     "tourName": "Victoria Şelaleleri'nden Johannesburg'a tur, Güney Afrika",
@@ -13269,7 +13389,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "victoria-falls-to-cape-town-small-group-holiday",
     "tourName": "Victoria Falls'dan Cape Town'a küçük grup tatili",
@@ -13472,55 +13592,61 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelalesi",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
-        "name": "Chobe Ulusal Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
         "name": "Bagani",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -18.110075,
         "lng": 21.616724
       },
       {
+        "name": "Gao Island",
+        "country": "Botswana",
+        "lat": 9.414755,
+        "lng": 126.0036
+      },
+      {
         "name": "Grootfontein",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -19.56442,
         "lng": 18.104089
       },
       {
         "name": "Swakopmund",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.696565,
         "lng": 14.539054
       },
       {
-        "name": "Sesriem Kanyonu",
-        "country": "Namibya",
+        "name": "Sesriem Canyon",
+        "country": "Namibia",
         "lat": -24.500798,
         "lng": 15.789153
       },
       {
         "name": "Noordoewer",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -28.722505,
         "lng": 17.619361
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       }
@@ -13528,7 +13654,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "windhoek-to-vic-falls-overland-safari",
     "tourName": "Windhoek'tan Victoria Şelalesi'ne karadan safari",
@@ -13759,7 +13885,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "windhoek-to-victoria-falls-namibia-lodge-safari",
     "tourName": "Windhoek'ten Victoria Şelalesi'ne, Namibia Lodge Safari",
@@ -13939,7 +14065,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "windhoek-to-victoria-falls-self-drive-tour",
     "tourName": "Windhoek'ten Victoria Şelalesi'ne Kendi Kendine Araç Kullanarak Tur",
@@ -14150,7 +14276,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "zimbabwe-and-botswana-honeymoon",
     "tourName": "Zimbabve ve Botswana Balayı",
@@ -14231,18 +14357,24 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Chobe Nehri Kıyısı",
+        "name": "Victoria Falls",
+        "country": "null",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Chobe Riverfront",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
-        "name": "Chobe Ulusal Parkı",
+        "name": "Chobe National Park",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
@@ -14257,7 +14389,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "zimbabwe-and-botswana-wildlife-safari",
     "tourName": "Zimbabve ve Botsvana Vahşi Yaşam Safari",
@@ -14432,7 +14564,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "zimbabwe-botswana-game-tracker-safari",
     "tourName": "Zimbabve & Botswana Oyun İzleme Safarisi",
@@ -14640,7 +14772,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "zimbabwe-botswana-safari-tailor-made",
     "tourName": "Zimbabve & Botswana safari, özel tasarım",
@@ -14760,7 +14892,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "zimbabwe-canoe-safari",
     "tourName": "Zimbabwe kano safarisi",
@@ -14860,7 +14992,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "zimbabwe-to-south-africa-overland-tour-34-days",
     "tourName": "Zimbabweden Güney Afrika'ya Kara Yolu Turu, 34 Gün",
@@ -15034,9 +15166,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Harare",
@@ -15093,14 +15225,20 @@
         "lng": 14.539054
       },
       {
+        "name": "Orange River",
+        "country": "null",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
         "name": "Stellenbosch",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.93813,
         "lng": 18.86002
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       }
@@ -15108,7 +15246,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "9-day-highlights-of-botswana-safari",
     "tourName": "Botsvana Safari'sinin 9 Günlük Göz Alıcıları",
@@ -15222,7 +15360,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "a-perfect-okavango-and-kalahari-safari",
     "tourName": "Mükemmel Okavango ve Kalahari Safari",
@@ -15354,7 +15492,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "adventure-in-botswana-and-zimbabwe-horseback-safari-tiger-fish-excursion-and-more",
     "tourName": "Botsvana ve Zimbabwe'de Macera: Ata Binme Safarisi, Kaplan Balığı Turu ve Daha Fazlası",
@@ -15499,7 +15637,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "african-bush-skills-safari-adventure-for-families",
     "tourName": "Aileler için Afrika Kırsal Becerileri ve Safari Macerası",
@@ -15618,7 +15756,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "african-safari-getaway-to-botswana-zambia",
     "tourName": "Botswana & Zambiya'ya Afrika Safarisi Kaçamağı",
@@ -15717,18 +15855,24 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Chobe Ulusal Parkı",
+        "name": "Chobe National Park",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
-        "name": "Güney Luangwa Ulusal Parkı",
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "South Luangwa National Park",
         "country": "Zambia",
         "lat": -15.622586,
         "lng": 30.400955
@@ -15737,7 +15881,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "africas-finest-birdwatching-safari-in-okavango-delta",
     "tourName": "Okavango Deltası'ndaki Afrika'nın En İyi Kuş Gözlem Safarisi",
@@ -15865,7 +16009,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "best-of-botswana-namibia-safari-tours-for-couples",
     "tourName": "Botswana ve Namibya'nın En İyi Safari Turları Çiftler için",
@@ -15962,10 +16106,16 @@
     ],
     "routeCoordinates": [
       {
-        "name": "Istanbul",
+        "name": "İstanbul",
         "country": "Turkey",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
       },
       {
         "name": "Chobe National Park",
@@ -15977,7 +16127,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "best-of-botswana-safari-victoria-falls",
     "tourName": "Botsvana Safarisinin En İyisi ve Victoria Şelaleleri",
@@ -16051,27 +16201,33 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Moremi Oyun Rezervi",
-        "country": "Botsvana",
+        "name": "Moremi Game Reserve",
+        "country": "Botswana",
         "lat": -22.571274,
         "lng": 27.447813
       },
       {
-        "name": "Chobe Ulusal Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-and-zimbabwe-11-day-diverse-habitats",
     "tourName": "Botsvana ve Zimbabwe: 11 Günlük Çeşitli Habitatlar",
@@ -16207,7 +16363,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-family-safari-okavango-delta-makgadikgadi-salt-pans",
     "tourName": "Botsvana Aile Safari: Okavango Deltası & Makgadikgadi Tuz Düzlükleri",
@@ -16311,7 +16467,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-getaway-safari-for-couples",
     "tourName": "Çiftler için Botswana Kaçamağı Safarisi",
@@ -16430,7 +16586,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-okavango-delta-luxury-safari",
     "tourName": "Botswana Okavango Deltası Lüks Safari",
@@ -16523,7 +16679,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-photographic-safari",
     "tourName": "Botsvana Fotoğraf Safarisi",
@@ -16631,7 +16787,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-safari-beach-island-paradise-for-couples",
     "tourName": "Botswana Safari & Plaj Adası Cenneti Çiftler için",
@@ -16760,7 +16916,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-safari-chobe-national-park",
     "tourName": "Botswana Safari Chobe Milli Parkı",
@@ -16849,21 +17005,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Chobe Ulusal Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-safari-honeymoon",
     "tourName": "Botsvana Safari Balayı",
@@ -16968,7 +17130,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-south-africa-safari-for-seniors",
     "tourName": "Botsvana & Güney Afrika Safari - İleri Yaş Yolcuları İçin",
@@ -17052,7 +17214,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "botswana-ultimate-custom-safari",
     "tourName": "Botsvana: Nihai Özel Safari",
@@ -17130,13 +17292,19 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
       },
       {
         "name": "Livingstone",
-        "country": "Zambiya",
+        "country": "Zambia",
         "lat": -17.853135,
         "lng": 25.861429
       }
@@ -17144,7 +17312,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "bucket-list-botswana-victoria-falls-chobe-moremi-and-central-kalahari",
     "tourName": "Yapılması Gerekenler Listesi Botswana: Victoria Şelaleleri, Chobe, Moremi ve Merkez Kalahari",
@@ -17284,7 +17452,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "chobe-national-park-okavango-delta-safari-package",
     "tourName": "Chobe Milli Parkı & Okavango Deltası Safari Paketi",
@@ -17394,7 +17562,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "classic-botswana-safari-wilderness-and-wildlife",
     "tourName": "Klasik Botsvana Safari: Vahşi Yaşam ve Doğa",
@@ -17504,7 +17672,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "classic-honeymoon-safari-tour-savuti-okavango-delta-victoria-falls",
     "tourName": "Klasik Balayı Safari Turu: Savuti, Okavango Deltası & Victoria Şelaleleri",
@@ -17593,21 +17761,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Chobe Ulusal Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "complete-okavango-delta-safari",
     "tourName": "Tam Okavango Deltası Safarisi",
@@ -17715,7 +17889,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "crossing-the-okavango-delta-mobile-camping-boat-safari",
     "tourName": "Okavango Deltası'na Geçiş: Mobil Kamp ve Bot Safari",
@@ -17820,7 +17994,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "custom-okavango-safari-for-the-entire-family",
     "tourName": "Tüm Aile için Özel Okavango Safarisi",
@@ -17924,7 +18098,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "deep-into-the-bush-an-okavango-walking-safari",
     "tourName": "Derin Ormanlarda: Okavango Yürüyüş Safarisi",
@@ -18038,7 +18212,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "diverse-big-game-safari-in-botswana-okavango-delta",
     "tourName": "Botswana ve Okavango Deltası'nda Çeşitli Büyük Oyun Safari",
@@ -18165,7 +18339,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "dream-honeymoon-safari-botswana-victoria-falls-kruger",
     "tourName": "Hayal Düğünü Safarisi: Botswana, Viktorya Şelaleleri & Kruger",
@@ -18274,19 +18448,25 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Chobe Milli Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
-        "name": "Kruger Milli Parkı",
-        "country": "Güney Afrika",
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
       }
@@ -18294,7 +18474,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "exclusive-botswana-namibia-air-safari-for-couples",
     "tourName": "Özel Botswana ve Namibia Hava Safarisi - Çiftler için",
@@ -18463,7 +18643,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "exclusive-okavango-land-water-safari-jewel-of-botswana",
     "tourName": "Özel Okavango Kara & Su Safari: Botsvana'nın İncisi",
@@ -18567,7 +18747,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "exclusive-okavango-safari-premium-lodges-unique-activities",
     "tourName": "Özel Okavango Safari: Premium Lojmanlar ve Benzersiz Aktiviteler",
@@ -18645,10 +18825,18 @@
         "country": "Botswana"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      }
+    ]
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "exclusive-private-game-reserves-of-botswana-okavango-safari-vumbura-selinda-kwando",
     "tourName": "Botswana’nın Özel Oyun Koruma Alanları ve Okavango Safari: Vumbura, Selinda & Kwando",
@@ -18750,7 +18938,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "fly-in-okavango-delta-desert-safari",
     "tourName": "Uçuşla Okavango Deltası & Çöl Safarisi",
@@ -18853,7 +19041,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "hidden-botswana-undiscovered-safari-delights-of-okavango-kalahari",
     "tourName": "Gizli Botswana: Okavango ve Kalahari’nin Keşfedilmemiş Safari Keyifleri",
@@ -18952,21 +19140,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Chobe Ulusal Parkı",
+        "name": "Chobe National Park",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "highlights-of-botswana-safari-okavango-moremi-selinda-chobe",
     "tourName": "Botswana Safari'nin Öne Çıkanları: Okavango, Moremi, Selinda, Chobe",
@@ -19100,7 +19294,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "horse-riding-safari-in-okavango-galloping-through-africas-oasis",
     "tourName": "Okavango'da Ata Binen Safari: Afrika'nın Vahası Üzerinde Dörtnala",
@@ -19227,7 +19421,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "iconic-getaway-safari-to-okavango-and-kalahari",
     "tourName": "Okavango ve Kalahari'ye İkonik Kaçış Safarisi",
@@ -19352,7 +19546,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "intimate-highlights-of-south-africa-and-botswana-safari",
     "tourName": "Güney Afrika ve Botsvana'nın Samimi Gözlemleri Safari",
@@ -19461,7 +19655,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "lost-in-the-water-world-exclusive-okavango-northern-botswana-safari",
     "tourName": "Suyun Dünyasında Kaybolmak: Özel Okavango & Kuzey Botswana Safari",
@@ -19553,9 +19747,15 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
       },
       {
         "name": "Kasane",
@@ -19564,7 +19764,7 @@
         "lng": 25.153856
       },
       {
-        "name": "Moremi Oyun Rezervi",
+        "name": "Moremi Game Reserve",
         "country": "Botswana",
         "lat": -22.571274,
         "lng": 27.447813
@@ -19579,7 +19779,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "luxury-botswana-classic-waterways-and-landscapes",
     "tourName": "Lüks Botswana Klasiği: Su Yolları ve Manzaralar",
@@ -19688,7 +19888,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "luxury-botswana-safari-for-seniors-following-the-elephants",
     "tourName": "İleri Yaşlar İçin Lüks Botswana Safari: Fil Peşinde",
@@ -19780,9 +19980,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Maun",
@@ -19791,22 +19991,28 @@
         "lng": 23.42207
       },
       {
-        "name": "Moremi Oyun Koruma Alanı",
+        "name": "Moremi Game Reserve",
         "country": "Botswana",
         "lat": -22.571274,
         "lng": 27.447813
       },
       {
-        "name": "Chobe Milli Parkı",
+        "name": "Chobe National Park",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "luxury-chobe-and-okavango-houseboat-safari",
     "tourName": "Lüks Chobe ve Okavango Yüzer Ev Safarisi",
@@ -19919,43 +20125,49 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Kasane",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -17.795486,
         "lng": 25.153856
       },
       {
-        "name": "Chobe Nehri",
-        "country": "Botsvana",
+        "name": "Chobe River",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
-        "name": "Chobe-Zambezi Sulak Alanları",
-        "country": "Botsvana",
+        "name": "Zambezi River",
+        "country": "Botswana",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Chobe-Zambezi Floodplains",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
-        "name": "Chobe Millî Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
-        "name": "Moremi Oyun Koruma Alanı",
-        "country": "Botsvana",
+        "name": "Moremi Game Reserve",
+        "country": "Botswana",
         "lat": -22.571274,
         "lng": 27.447813
       },
       {
-        "name": "Tsodilo Tepeleri",
-        "country": "Botsvana",
+        "name": "Tsodilo Hills",
+        "country": "Botswana",
         "lat": -18.764372,
         "lng": 21.748472
       }
@@ -19963,7 +20175,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "luxury-okavango-zimbabwe-safaris-plus-victoria-falls-tour",
     "tourName": "Lüks Okavango & Zimbabwe Safarileri Artı Victoria Şelalesi Turu",
@@ -20117,7 +20329,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "magical-botswana-safari-escape-for-couples",
     "tourName": "Büyüleyici Botswana Safarisi - Çiftler İçin Kaçış",
@@ -20194,10 +20406,18 @@
         "country": "Botswana"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      }
+    ]
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "okavango-delta-and-white-sandy-beaches-luxury-botswana-and-seychelles-in-11-days",
     "tourName": "Okavango Deltası ve Beyaz Kumsallar: 11 Günde Lüks Botsvana ve Seyşeller",
@@ -20311,7 +20531,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "one-week-luxury-botswana-safari-okavango-kwando-chobe",
     "tourName": "Bir Haftalık Lüks Botsvana Safarisi: Okavango, Kwando, Chobe",
@@ -20431,7 +20651,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "opulence-of-okavango-zambia-safari-moremi-to-zambezi",
     "tourName": "Okavango ve Zambiya'nın İhtişamı Safari: Moremi'den Zambezi'ye",
@@ -20555,37 +20775,43 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Maun",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -19.988626,
         "lng": 23.42207
       },
       {
-        "name": "Moremi Oyun Koruma Alanı",
-        "country": "Botsvana",
+        "name": "Moremi Game Reserve",
+        "country": "Botswana",
         "lat": -22.571274,
         "lng": 27.447813
       },
       {
-        "name": "Zambezi Nehri",
+        "name": "Zambezi River",
         "country": "null",
         "lat": 18.324577,
         "lng": -66.09221
       },
       {
-        "name": "Güney Luangwa Ulusal Parkı",
-        "country": "Zambiya",
+        "name": "Victoria Falls",
+        "country": "null",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
         "lat": -15.622586,
         "lng": 30.400955
       },
       {
-        "name": "Lower Zambezi Ulusal Parkı",
-        "country": "Zambiya",
+        "name": "Lower Zambezi National Park",
+        "country": "Zambia",
         "lat": -13.550083,
         "lng": 23.115208
       }
@@ -20593,7 +20819,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "personalized-botswana-safari-okavango-delta-more",
     "tourName": "Kişiye Özel Botswana Safarisi: Okavango Deltası ve Daha Fazlası",
@@ -20687,7 +20913,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "photographers-paradise-spectacular-botswana-safari",
     "tourName": "Fotoğrafçının Cenneti: Olağanüstü Botswana Safari",
@@ -20822,7 +21048,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "premier-botswana-safari-exclusive-paradise",
     "tourName": "Premier Botswana Safari: Özel Cennet",
@@ -20909,10 +21135,18 @@
         "country": "Botswana"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      }
+    ]
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "romantic-okavango-getaway-vacation",
     "tourName": "Romantik Okavango Kaçış Tatili",
@@ -21040,7 +21274,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "safari-in-botswana-and-zambia",
     "tourName": "Botsvana ve Zambiya Safari",
@@ -21146,27 +21380,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Moremi Oyun Rezervi",
-        "country": "Botsvana",
+        "name": "Moremi Game Reserve",
+        "country": "Botswana",
         "lat": -22.571274,
         "lng": 27.447813
       },
       {
-        "name": "Chobe Ulusal Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Limpopo River",
+        "country": "Botswana",
+        "lat": -24.791101,
+        "lng": 29.828981
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "safari-rivers-and-waterfalls-13-day-zimbabwe-botswana",
     "tourName": "Safari, Nehirler ve Şelaleler: 13 Günlük Zimbabve & Botswana",
@@ -21326,7 +21572,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "signature-botswana-safari-ultimate-two-week-experience",
     "tourName": "İmza Botsvana Safari: Nihai İki Haftalık Deneyim",
@@ -21434,7 +21680,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "south-africa-botswana-and-zimbabwe-from-cityscapes-to-waterfalls",
     "tourName": "Güney Afrika, Botswana ve Zimbabwe: Şehir Manzaralarından Şelalelere",
@@ -21574,7 +21820,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "southern-africa-trip-of-a-lifetime-evocative-safari-experiences",
     "tourName": "Güney Afrika Hayalinizin Seyahati: Çağrıcı Safari Deneyimleri",
@@ -21692,7 +21938,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "spectacular-southern-africa-family-safari-south-africa-zambia-and-botswana",
     "tourName": "Muhteşem Güney Afrika Aile Safari: Güney Afrika, Zambiya ve Botswana",
@@ -21823,37 +22069,43 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       },
       {
-        "name": "Chobe Milli Parkı",
+        "name": "Chobe National Park",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
+        "name": "Victoria Falls",
+        "country": "null",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
         "name": "Livingstone",
-        "country": "Zambiya",
+        "country": "Zambia",
         "lat": -17.853135,
         "lng": 25.861429
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
         "name": "Franschhoek",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.91183,
         "lng": 19.12048
       }
@@ -21861,7 +22113,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "ultimate-8-day-luxury-botswana-safari",
     "tourName": "Son Derece Lüks 8 Günlük Botswana Safari",
@@ -21950,15 +22202,21 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Chobe Ulusal Parkı",
+        "name": "Chobe National Park",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Botswana",
+        "lat": -17.941389,
+        "lng": 25.826298
       },
       {
         "name": "Maun",
@@ -21970,7 +22228,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Botswana",
+    "destination": "Botsvana",
     "mainPhoto": "",
     "id": "vip-okavango-safari-tour-private-concessions-lodges",
     "tourName": "VIP Okavango Safari Turu: Özel İzinler & Lokantalar",

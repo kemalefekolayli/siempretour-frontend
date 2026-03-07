@@ -8,7 +8,7 @@ from tqdm import tqdm
 # CONFIG (PATH SAFE)
 # ===============================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-ROOT_DIR = os.path.join(BASE_DIR, "big_siempre_tour_tours")
+ROOT_DIR = os.path.join(BASE_DIR, "siempretour_tours")
 
 MODEL = "gpt-4o-mini"
 SLEEP_BETWEEN_CALLS = 0.3  # rate limit safety
@@ -38,40 +38,130 @@ Respond with only the category name.
 Allowed categories:
 {categories}
 
-Tour name:
-{tour_name}
-
-General information:
-{general_info}
+{tour_name_block}
+{general_info_block}
+{day_info_block}
 """.strip()
 
 client = OpenAI()
 
+
+# ===============================
+# HELPERS
+# ===============================
+def _is_nonempty_text(x) -> bool:
+    return isinstance(x, str) and x.strip() != ""
+
+
+def _build_day_info_text(day_info) -> str:
+    """
+    Accepts either:
+    - list of dicts: [{"title": "...", "description": "..."}, ...]
+    - dict
+    - string
+    Returns a compact text summary used for classification.
+    """
+    if day_info is None:
+        return ""
+
+    # If it's already a string
+    if isinstance(day_info, str):
+        return day_info.strip()
+
+    parts = []
+
+    # If it's a dict (single day or a blob)
+    if isinstance(day_info, dict):
+        t = day_info.get("title")
+        d = day_info.get("description")
+        if _is_nonempty_text(t) or _is_nonempty_text(d):
+            chunk = []
+            if _is_nonempty_text(t):
+                chunk.append(f"Title: {t.strip()}")
+            if _is_nonempty_text(d):
+                chunk.append(f"Description: {d.strip()}")
+            parts.append("\n".join(chunk))
+        else:
+            # fallback: stringify dict if nothing obvious exists
+            # (but keep it minimal)
+            s = json.dumps(day_info, ensure_ascii=False)
+            if _is_nonempty_text(s):
+                parts.append(s)
+        return "\n\n".join(parts).strip()
+
+    # If it's a list (most common for day plans)
+    if isinstance(day_info, list):
+        for i, item in enumerate(day_info, start=1):
+            if isinstance(item, dict):
+                t = item.get("title")
+                d = item.get("description")
+                if not (_is_nonempty_text(t) or _is_nonempty_text(d)):
+                    continue
+
+                chunk = [f"Day {i}:"]
+                if _is_nonempty_text(t):
+                    chunk.append(f"- Title: {t.strip()}")
+                if _is_nonempty_text(d):
+                    chunk.append(f"- Description: {d.strip()}")
+                parts.append("\n".join(chunk))
+
+            elif isinstance(item, str) and item.strip():
+                parts.append(f"Day {i}: {item.strip()}")
+
+        return "\n\n".join(parts).strip()
+
+    # Unknown type: last resort convert to string
+    s = str(day_info).strip()
+    return s
+
+
+def _make_optional_block(label: str, content: str) -> str:
+    """
+    Returns a labeled block only if content is non-empty.
+    """
+    if not _is_nonempty_text(content):
+        return ""
+    return f"{label}:\n{content.strip()}"
+
+
 # ===============================
 # CATEGORY CALL
 # ===============================
-def get_category(tour_name, general_info):
+def get_category(tour_name, general_info, day_info):
+    day_info_text = _build_day_info_text(day_info)
+
+    tour_name_block = _make_optional_block("Tour name", tour_name or "")
+    general_info_block = _make_optional_block("General information", general_info or "")
+    day_info_block = _make_optional_block("Day-by-day info (titles & descriptions)", day_info_text)
+
     prompt = PROMPT_TEMPLATE.format(
         categories="\n".join(CATEGORIES),
-        tour_name=tour_name or "",
-        general_info=general_info or ""
-    )
+        tour_name_block=tour_name_block,
+        general_info_block=general_info_block,
+        day_info_block=day_info_block
+    ).strip()
+
+    # If absolutely nothing exists besides categories, fail early (optional safety)
+    # You can remove this if you still want a best-guess category.
+    if not (tour_name_block or general_info_block or day_info_block):
+        raise ValueError("No usable text fields found (tourName/generalInfo/dayInfo are empty).")
 
     response = client.chat.completions.create(
         model=MODEL,
         messages=[
-            {"role": "system", "content": "You are a strict classifier."},
+            {"role": "system", "content": "You are a strict classifier. Output must be exactly one allowed category."},
             {"role": "user", "content": prompt}
         ],
         temperature=0
     )
 
-    category = response.choices[0].message.content.strip()
+    category = (response.choices[0].message.content or "").strip()
 
     if category not in CATEGORIES:
         raise ValueError(f"Invalid category returned: {category}")
 
     return category
+
 
 # ===============================
 # MAIN PROCESS (RESUME SAFE)
@@ -102,13 +192,14 @@ def process_all_countries():
 
         for tour in tqdm(tours, desc=f"{country} tours"):
             # 🔥 RESUME LOGIC
-            if "category" in tour and tour["category"]:
+            if tour.get("category"):
                 continue
 
             try:
                 category = get_category(
-                    tour.get("tourName", ""),
-                    tour.get("generalInfo", "")
+                    tour.get("tourName"),
+                    tour.get("generalInfo"),
+                    tour.get("dayInfo")  # ✅ dayInfo title+description da dahil
                 )
 
                 tour["category"] = category
@@ -125,6 +216,7 @@ def process_all_countries():
                 json.dump(tours, f, ensure_ascii=False, indent=2)
 
             print(f"✅ Updated: {tours_path}")
+
 
 # ===============================
 # RUN

@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "dubai-abu-dhabi-maldives-holiday",
     "tourName": "Dubai, Abu Dabi & Maldivler tatili",
@@ -105,7 +105,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "honeymoon-in-sri-lanka-and-maldives",
     "tourName": "Sri Lanka ve Maldivler'de Balayı",
@@ -295,7 +295,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "luxury-maldives-sri-lanka-holiday",
     "tourName": "Lüks Maldivler & Sri Lanka Tatili",
@@ -539,7 +539,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-activity-holiday",
     "tourName": "Maldivler aktivite tatili",
@@ -644,7 +644,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-budget-small-group-tour",
     "tourName": "Maldivler bütçe küçük grup turu",
@@ -775,7 +775,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-catamaran-cruise",
     "tourName": "Maldivler Katamaran Turu",
@@ -910,7 +910,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-cultural-experience-holiday",
     "tourName": "Maldivler kültürel deneyim tatili",
@@ -1001,7 +1001,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-holidays-dhoni-cruise",
     "tourName": "Maldivler tatili, Dhoni turu",
@@ -1182,7 +1182,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-holidays-wildlife-cruise",
     "tourName": "Maldivler tatilleri, yaban yaşamı gemisi",
@@ -1316,7 +1316,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-island-hopping-holiday",
     "tourName": "Maldivler Adası Gezi Tatili",
@@ -1447,7 +1447,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-local-island-hopping-holiday",
     "tourName": "Maldivler yerel ada atlama tatili",
@@ -1578,7 +1578,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-local-islands-tour-5-days",
     "tourName": "Maldivler yerel adalar turu, 5 gün",
@@ -1678,7 +1678,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-multi-activity-adventure-holiday",
     "tourName": "Maldivler çoklu aktivite macera tatili",
@@ -1779,45 +1779,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Male Uluslararası Havalimanı",
-        "country": "Maldivler",
+        "name": "Male International Airport",
+        "country": "Maldives",
         "lat": 4.177988,
         "lng": 73.510739
       },
       {
         "name": "Gan",
-        "country": "Maldivler",
+        "country": "Maldives",
         "lat": -0.694291,
         "lng": 73.156555
       },
       {
         "name": "Fonadhoo",
-        "country": "Maldivler",
+        "country": "Maldives",
         "lat": 1.833236,
         "lng": 73.50284
       },
       {
         "name": "Kadhdhoo",
-        "country": "Maldivler",
+        "country": "Maldives",
         "lat": 0.275112,
         "lng": 73.43089
       },
       {
         "name": "Maandhoo",
-        "country": "Maldivler",
+        "country": "Maldives",
         "lat": 5.766516,
         "lng": 73.412
+      },
+      {
+        "name": "Robinson Crusoe uninhabited island",
+        "country": "Maldives",
+        "lat": -33.641389,
+        "lng": -78.841111
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-private-gulet-cruise-holiday",
     "tourName": "Maldivler özel gulet kruvaziyeri tatili",
@@ -1856,10 +1862,18 @@
         "country": "Maldives"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      }
+    ]
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-scuba-diving-holiday",
     "tourName": "Maldivler dalış tatili",
@@ -1959,7 +1973,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-snorkeling-marine-life-awareness-tour",
     "tourName": "Maldivler şnorkel ve deniz yaşamı bilinçlendirme turu",
@@ -2080,7 +2094,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-snorkelling-cruise",
     "tourName": "Maldivler Şnorkelle Dalış Turu",
@@ -2263,7 +2277,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "maldives-swimming-holiday",
     "tourName": "Maldivler yüzme tatili",
@@ -2466,7 +2480,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "sri-lanka-and-maldives-14-day-holiday",
     "tourName": "Sri Lanka ve Maldivler 14 Günlük Tatil",
@@ -2687,7 +2701,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "sri-lanka-and-maldives-holidays",
     "tourName": "Sri Lanka ve Maldivler tatilleri",
@@ -2893,7 +2907,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "sri-lanka-and-the-maldives-small-group-tour",
     "tourName": "Sri Lanka ve Maldivler küçük grup turu",
@@ -3280,7 +3294,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "sri-lanka-maldives-tour",
     "tourName": "Sri Lanka & Maldivler Turu",
@@ -3415,7 +3429,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "sri-lanka-tailor-made-tour-maldives-holiday",
     "tourName": "Sri Lanka kişiye özel tur & Maldivler tatili",
@@ -3601,7 +3615,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "sri-lanka-tour-and-maldives-dhoni-cruise",
     "tourName": "Sri Lanka turu ve Maldivler'de dhoni turu",
@@ -3906,7 +3920,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "undiscovered-maldives-7-day-tour",
     "tourName": "Keşfedilmemiş Maldivler 7 Günlük Tur",
@@ -4022,7 +4036,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "best-of-maldives-tour-a-tropical-paradise-getaway",
     "tourName": "Maldivler'in En İyisi Turu: Tropik Cennet Kaçamağı",
@@ -4163,7 +4177,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "breathtaking-14-day-beach-vacation-in-the-maldives-and-thailand",
     "tourName": "Büyüleyici 14 Günlük Maldivler ve Tayland Plaj Tatili",
@@ -4318,7 +4332,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "perfect-maldives-vacation-island-escapes-and-pristine-beaches",
     "tourName": "Mükemmel Maldivler Tatili: Ada Kaçamakları ve Görkemli Plajlar",
@@ -4452,7 +4466,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "resplendent-retreat-to-maldives-resort-and-cruise-for-8-days",
     "tourName": "Maldivler Tatili ve Cruise ile 8 Günlük Göz Alıcı Kaçamak",
@@ -4569,7 +4583,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "romance-in-sri-lanka-the-maldives-for-14-days",
     "tourName": "Sri Lanka ve Maldivler'de 14 Günlük Romantizm",
@@ -4774,7 +4788,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Maldives",
+    "destination": "Maldivler",
     "mainPhoto": "",
     "id": "romance-in-tropical-sri-lanka-and-the-maldives",
     "tourName": "Tropikal Sri Lanka ve Maldivler'de Romantik Kaçamak",

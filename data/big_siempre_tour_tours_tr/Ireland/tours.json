@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Ireland",
+    "destination": "İrlanda",
     "mainPhoto": "",
     "id": "ireland-adventure-holiday",
     "tourName": "İrlanda Macera Tatili",
@@ -216,7 +216,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ireland",
+    "destination": "İrlanda",
     "mainPhoto": "",
     "id": "ireland-small-group-holiday",
     "tourName": "İrlanda Küçük Grup Tatili",
@@ -334,61 +334,67 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Belfast",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 54.596441,
         "lng": -5.930276
       },
       {
+        "name": "Giant's Causeway",
+        "country": "null",
+        "lat": 54.765188,
+        "lng": -6.907051
+      },
+      {
         "name": "Derry",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 54.99708,
         "lng": -7.3217
       },
       {
         "name": "Galway",
-        "country": "İrlanda",
+        "country": "Ireland",
         "lat": 53.30027,
         "lng": -9.102344
       },
       {
-        "name": "Aran Adaları",
-        "country": "İrlanda",
+        "name": "Aran Islands",
+        "country": "Ireland",
         "lat": 53.116667,
         "lng": -9.7
       },
       {
-        "name": "Moher Uçurumları",
-        "country": "İrlanda",
+        "name": "Cliffs of Moher",
+        "country": "Ireland",
         "lat": 52.11175,
         "lng": -9.048501
       },
       {
         "name": "Adare",
-        "country": "İrlanda",
+        "country": "Ireland",
         "lat": 52.564156,
         "lng": -8.790634
       },
       {
         "name": "Killarney",
-        "country": "İrlanda",
+        "country": "Ireland",
         "lat": 52.058426,
         "lng": -9.509054
       },
       {
-        "name": "Kerry Yüzüğü",
-        "country": "İrlanda",
+        "name": "Ring of Kerry",
+        "country": "Ireland",
         "lat": 52.14001,
         "lng": -9.516791
       },
       {
         "name": "Dublin",
-        "country": "İrlanda",
+        "country": "Ireland",
         "lat": 53.349801,
         "lng": -6.260296
       }
@@ -396,7 +402,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ireland",
+    "destination": "İrlanda",
     "mainPhoto": "",
     "id": "five-star-romantic-road-trip-vacation-in-ireland",
     "tourName": "İrlanda'da Beş Yıldızlı Romantik Yolculuk Tatili",
@@ -607,7 +613,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ireland",
+    "destination": "İrlanda",
     "mainPhoto": "",
     "id": "magnificence-of-ireland-luxury-tour-cultural-charm-to-natural-beauty",
     "tourName": "İrlanda'nın Görkemi Lüks Turu: Kültürel Cazibeden Doğal Güzelliğe",
@@ -793,7 +799,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ireland",
+    "destination": "İrlanda",
     "mainPhoto": "",
     "id": "causeway-coast-holiday-northern-ireland",
     "tourName": "Giant’s Causeway Tatili, Kuzey İrlanda",
@@ -877,6 +883,44 @@
         "country": "Northern Ireland"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Belfast",
+        "country": "Northern Ireland",
+        "lat": 54.596441,
+        "lng": -5.930276
+      },
+      {
+        "name": "Causeway Coast",
+        "country": "Northern Ireland",
+        "lat": 54.765188,
+        "lng": -6.907051
+      },
+      {
+        "name": "Bushmills",
+        "country": "Northern Ireland",
+        "lat": 55.206024,
+        "lng": -6.523688
+      },
+      {
+        "name": "Dunluce Castle",
+        "country": "Northern Ireland",
+        "lat": 55.216125,
+        "lng": -6.536743
+      },
+      {
+        "name": "Carrick-a-Rede",
+        "country": "Northern Ireland",
+        "lat": 54.765188,
+        "lng": -6.907051
+      }
+    ]
   }
 ]

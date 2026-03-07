@@ -19,7 +19,7 @@ async function renderTourPagePhotos() {
        1️⃣ COUNTRY DATAS
     ================================ */
     const res = await fetch(
-      `data/siempre_tour_country_datas/${_countrySlug}/datas.json`,
+      `data/siempre_tour_country_datas_tr/${_countrySlug}/datas.json`,
       { cache: "no-store" }
     );
 
@@ -45,7 +45,7 @@ async function renderTourPagePhotos() {
   if (usedImages.length < 4) {
     try {
       const tourRes = await fetch(
-        `data/big_siempre_tour_tours/${_countrySlug}/tours.json`,
+        `data/big_siempre_tour_tours_tr/${_countrySlug}/tours.json`,  
         { cache: "no-store" }
       );
 

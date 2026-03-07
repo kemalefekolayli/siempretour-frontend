@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Azerbaijan",
+    "destination": "Azerbaycan",
     "mainPhoto": "",
     "id": "azerbaijan-georgia-holiday-baku-to-tbilisi",
     "tourName": "Azerbaycan & Gürcistan tatili, Bakü'den Tiflis'e",
@@ -239,7 +239,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Azerbaijan",
+    "destination": "Azerbaycan",
     "mainPhoto": "",
     "id": "azerbaijan-holiday",
     "tourName": "Azerbaycan tatili",
@@ -430,7 +430,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Azerbaijan",
+    "destination": "Azerbaycan",
     "mainPhoto": "",
     "id": "azerbaijan-small-group-tour",
     "tourName": "Azerbaycan küçük grup turu",
@@ -619,7 +619,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Azerbaijan",
+    "destination": "Azerbaycan",
     "mainPhoto": "",
     "id": "azerbaijan-tailor-made-holiday",
     "tourName": "Azerbaycan'a Özel Tasarım Tatil",
@@ -758,7 +758,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Azerbaijan",
+    "destination": "Azerbaycan",
     "mainPhoto": "",
     "id": "azerbaijan-tour-6-days",
     "tourName": "Azerbaycan turu, 6 gün",
@@ -881,7 +881,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Azerbaijan",
+    "destination": "Azerbaycan",
     "mainPhoto": "",
     "id": "istanbul-to-hong-kong-by-train-holiday",
     "tourName": "İstanbul'dan Hong Kong'a Tren Yolculuğu Tatili",
@@ -1154,103 +1154,127 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Tiflis",
-        "country": "Gürcistan",
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Ankara",
+        "country": "Turkey",
+        "lat": 39.920789,
+        "lng": 32.854048
+      },
+      {
+        "name": "Kars",
+        "country": "Turkey",
+        "lat": 40.601595,
+        "lng": 43.104432
+      },
+      {
+        "name": "Tbilisi",
+        "country": "Georgia",
         "lat": 41.693459,
         "lng": 44.80145
       },
       {
-        "name": "Bakü",
-        "country": "Azerbaycan",
+        "name": "Baku",
+        "country": "Azerbaijan",
         "lat": 40.375589,
         "lng": 49.832801
       },
       {
+        "name": "Caspian Sea",
+        "country": "Azerbaijan",
+        "lat": 38.982655,
+        "lng": -76.85141
+      },
+      {
         "name": "Aktau",
-        "country": "Kazakistan",
+        "country": "Kazakhstan",
         "lat": 43.551627,
         "lng": 51.347682
       },
       {
-        "name": "Mangyshlak Yarımadası",
-        "country": "Kazakistan",
+        "name": "Mangyshlak Peninsula",
+        "country": "Kazakhstan",
         "lat": 49.948444,
         "lng": 82.627479
       },
       {
-        "name": "Urgenç",
-        "country": "Özbekistan",
+        "name": "Urgench",
+        "country": "Uzbekistan",
         "lat": 41.558277,
         "lng": 60.621258
       },
       {
         "name": "Khiva",
-        "country": "Özbekistan",
+        "country": "Uzbekistan",
         "lat": 41.378586,
         "lng": 60.358856
       },
       {
-        "name": "Buhara",
-        "country": "Özbekistan",
+        "name": "Bukhara",
+        "country": "Uzbekistan",
         "lat": 39.772476,
         "lng": 64.41867
       },
       {
-        "name": "Semerkand",
-        "country": "Özbekistan",
+        "name": "Samarkand",
+        "country": "Uzbekistan",
         "lat": 39.655785,
         "lng": 66.9774
       },
       {
         "name": "Almaty",
-        "country": "Kazakistan",
+        "country": "Kazakhstan",
         "lat": 43.236392,
         "lng": 76.945728
       },
       {
-        "name": "Charyn Kanyon",
-        "country": "Kazakistan",
+        "name": "Charyn Canyon",
+        "country": "Kazakhstan",
         "lat": 49.948444,
         "lng": 82.627479
       },
       {
         "name": "Zharkent",
-        "country": "Kazakistan",
+        "country": "Kazakhstan",
         "lat": 44.165665,
         "lng": 80.002739
       },
       {
-        "name": "Urumçi",
-        "country": "Çin",
+        "name": "Urumqi",
+        "country": "China",
         "lat": 43.82548,
         "lng": 87.61383
       },
       {
         "name": "Jiayuguan",
-        "country": "Çin",
+        "country": "China",
         "lat": 39.786938,
         "lng": 98.27982
       },
       {
         "name": "Xian",
-        "country": "Çin",
+        "country": "China",
         "lat": 34.261143,
         "lng": 108.95584
       },
       {
         "name": "Guangzhou",
-        "country": "Çin",
+        "country": "China",
         "lat": 23.125345,
         "lng": 113.27006
       },
       {
         "name": "Hong Kong",
-        "country": "Çin",
+        "country": "China",
         "lat": 36.250507,
         "lng": 111.66723
       }
@@ -1258,7 +1282,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Azerbaijan",
+    "destination": "Azerbaycan",
     "mainPhoto": "",
     "id": "small-group-holiday-in-azerbaijan",
     "tourName": "Azerbaycan'da Küçük Gruba Özel Tatil",

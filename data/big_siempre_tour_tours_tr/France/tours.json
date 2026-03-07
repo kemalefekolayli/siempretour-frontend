@@ -1,6 +1,6 @@
 [
   {
-    "destination": "France",
+    "destination": "Fransa",
     "mainPhoto": "",
     "id": "family-adventure-holiday-in-morzine-france",
     "tourName": "Aile macera tatili Morzine, Fransa'da",
@@ -101,39 +101,57 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Morzine",
-        "country": "Fransa",
+        "country": "France",
         "lat": 46.181156,
         "lng": 6.705044
       },
       {
-        "name": "Cenevre",
-        "country": "İsviçre",
+        "name": "Geneva",
+        "country": "Switzerland",
         "lat": 46.20477,
         "lng": 6.146314
       },
       {
         "name": "Col de Joux Plane",
-        "country": "Fransa",
+        "country": "France",
         "lat": 45.887684,
         "lng": 4.372961
       },
       {
-        "name": "Alp Botanik Bahçesi",
-        "country": "Fransa",
+        "name": "Alpine Lake",
+        "country": "France",
+        "lat": 39.47503,
+        "lng": -79.50036
+      },
+      {
+        "name": "Alpine Botanical Garden",
+        "country": "France",
         "lat": 44.06471,
         "lng": 0.428474
+      },
+      {
+        "name": "High-Wire Adventure Park",
+        "country": "France",
+        "lat": 52.669983,
+        "lng": -8.616637
+      },
+      {
+        "name": "Local Market",
+        "country": "France",
+        "lat": -0.100158,
+        "lng": 34.76195
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "France",
+    "destination": "Fransa",
     "mainPhoto": "",
     "id": "family-adventure-holiday-to-france",
     "tourName": "Fransa'da Aile Macera Tatili",
@@ -284,7 +302,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "France",
+    "destination": "Fransa",
     "mainPhoto": "",
     "id": "best-of-france-tour-in-2-weeks-luxury-indulgence",
     "tourName": "Fransa'nın En İyisi Turu 2 Haftada: Lüks ve Keyif",
@@ -555,7 +573,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "France",
+    "destination": "Fransa",
     "mainPhoto": "",
     "id": "opulent-visions-of-france-tour-endless-cultural-delight",
     "tourName": "Fransa'nın Göz Alıcı Vizyonları Turu: Sonsuz Kültürel Zevk",

@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Montenegro",
+    "destination": "Karadağ",
     "mainPhoto": "",
     "id": "montenegro-holiday-tailor-made",
     "tourName": "Karadağ tatili, kişiye özel",
@@ -183,7 +183,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Montenegro",
+    "destination": "Karadağ",
     "mainPhoto": "",
     "id": "montenegro-nature-and-adventure-holiday",
     "tourName": "Karadağ doğa ve macera tatili",
@@ -275,31 +275,37 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Kotor",
-        "country": "Karadağ",
+        "country": "Montenegro",
         "lat": 42.424852,
         "lng": 18.771044
       },
       {
-        "name": "Kotor Fiyordu",
-        "country": "Karadağ",
+        "name": "Kotor Bay",
+        "country": "Montenegro",
         "lat": 42.424852,
         "lng": 18.771044
+      },
+      {
+        "name": "Hawaii Island",
+        "country": "Montenegro",
+        "lat": 21.304547,
+        "lng": -157.855676
       },
       {
         "name": "Budva",
-        "country": "Karadağ",
+        "country": "Montenegro",
         "lat": 42.288566,
         "lng": 18.841951
       },
       {
-        "name": "Budva Eski Şehir",
-        "country": "Karadağ",
+        "name": "Budva Old Town",
+        "country": "Montenegro",
         "lat": 42.288566,
         "lng": 18.841951
       }

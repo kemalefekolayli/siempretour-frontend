@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Uk",
+    "destination": "Birleşik Krallık",
     "mainPhoto": "",
     "id": "border-to-coast-horse-riding-holiday-in-wales",
     "tourName": "Sınırdan Kıyıya Atlı Tatil - Galler",
@@ -147,103 +147,109 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Wye Valley",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 51.905235,
         "lng": -2.589998
       },
       {
         "name": "Painscastle",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.091972,
         "lng": -3.213314
       },
       {
         "name": "Aberedw Hill",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.29949,
         "lng": -1.336874
       },
       {
         "name": "Builth Wells",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.149113,
         "lng": -3.4021
       },
       {
         "name": "Pant-y-llyn",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.792557,
         "lng": -3.076691
       },
       {
         "name": "Llanwrtyd",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.10739,
         "lng": -3.638407
       },
       {
         "name": "Cambrian Mountains",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 53.189342,
         "lng": -3.086879
       },
       {
         "name": "Strata Florida",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.275726,
         "lng": -3.839808
       },
       {
         "name": "Pontrhydfendigaid",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.284718,
         "lng": -3.862685
       },
       {
         "name": "Ffair-Rhos",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.29573,
         "lng": -3.850954
       },
       {
+        "name": "Bwlchgwallter",
+        "country": "United Kingdom",
+        "lat": 53.07288,
+        "lng": -3.10146
+      },
+      {
         "name": "Ponterwyd",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.41142,
         "lng": -3.839871
       },
       {
         "name": "Dinas Reservoir",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 53.099194,
         "lng": -4.278204
       },
       {
         "name": "Nant-y-moch",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.792557,
         "lng": -3.076691
       },
       {
         "name": "Ceulanamaesmawr",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.50187,
         "lng": -3.96052
       },
       {
         "name": "Cardigan Bay",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.08308,
         "lng": -4.659733
       },
       {
         "name": "Borth",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 52.485355,
         "lng": -4.050976
       }
@@ -251,7 +257,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Uk",
+    "destination": "Birleşik Krallık",
     "mainPhoto": "",
     "id": "horseriding-short-break-wye-valley",
     "tourName": "Atlı yürüyüş kısa tatil, Wye Valley",
@@ -395,7 +401,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Uk",
+    "destination": "Birleşik Krallık",
     "mainPhoto": "",
     "id": "snowdonia-photography-walking-break",
     "tourName": "Snowdonia fotoğrafçılık ve yürüyüş molası",
@@ -579,7 +585,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Uk",
+    "destination": "Birleşik Krallık",
     "mainPhoto": "",
     "id": "wales-tour-by-train",
     "tourName": "Demir Yolu ile Galler Turu",
@@ -819,7 +825,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Uk",
+    "destination": "Birleşik Krallık",
     "mainPhoto": "",
     "id": "wye-valley-horseriding-holiday-in-wales",
     "tourName": "Wye Valley atlı tatili Galler'de",
@@ -1024,7 +1030,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Uk",
+    "destination": "Birleşik Krallık",
     "mainPhoto": "",
     "id": "amazing-scotland-tour-charming-city-to-wild-highlights",
     "tourName": "Harika İskoçya Turu: Şirin Şehirden Vahşi Aynalara",
@@ -1184,7 +1190,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Uk",
+    "destination": "Birleşik Krallık",
     "mainPhoto": "",
     "id": "ten-days-six-wives-the-henry-viii-england-tour",
     "tourName": "On Gün, Altı Eş: Henry VIII İngiltere Turu",

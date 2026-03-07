@@ -25,7 +25,7 @@ async function loadTours() {
     toursUrl = `./data/siempre_tour_safari_tours/${country}/tours.json`;
   }
   else {
-    toursUrl = `./data/big_siempre_tour_tours/${country}/tours.json`;
+    toursUrl = `./data/big_siempre_tour_tours_tr/${country}/tours.json`;
   }
 
   console.log("COUNTRY:", country);

@@ -160,30 +160,36 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "İslamabad",
+        "name": "Islamabad",
         "country": "Pakistan",
         "lat": 33.696762,
         "lng": 73.06307
       },
       {
-        "name": "Çitral",
+        "name": "Chitral",
         "country": "Pakistan",
         "lat": 35.854168,
         "lng": 71.7873
       },
       {
-        "name": "Wakhan Koridoru",
+        "name": "North West Frontier Province",
+        "country": "Pakistan",
+        "lat": 34.012385,
+        "lng": 71.578746
+      },
+      {
+        "name": "Wakhan Corridor",
         "country": "Pakistan",
         "lat": 27.749765,
         "lng": 69.144366
       },
       {
-        "name": "Shandur Geçidi",
+        "name": "Shandur Pass",
         "country": "Pakistan",
         "lat": 36.465816,
         "lng": 74.894326

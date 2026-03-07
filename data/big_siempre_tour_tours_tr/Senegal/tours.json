@@ -1098,9 +1098,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Dakar",
@@ -1125,6 +1125,12 @@
         "country": "Senegal",
         "lat": 13.701447,
         "lng": -15.456652
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
       },
       {
         "name": "Ziguinchor",

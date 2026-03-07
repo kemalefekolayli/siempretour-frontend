@@ -136,7 +136,7 @@ async function loadTourFromJson() {
     return;
   }
 
-  const dataRoot = "./data/big_siempre_tour_tours";
+  const dataRoot = "./data/big_siempre_tour_tours_tr";
   const url = `${dataRoot}/${country}/tours.json`;
 
   try {

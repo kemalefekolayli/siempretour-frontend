@@ -110,21 +110,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       },
       {
         "name": "Skukuza",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius",
+        "lat": 52.26697,
+        "lng": -6.388149
       }
     ],
     "__trTranslated": true
@@ -216,25 +222,25 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       },
       {
         "name": "Greater Kruger",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Makalali Koruma Alanı",
-        "country": "Güney Afrika",
+        "name": "Makalali Conservancy",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
@@ -245,7 +251,7 @@
         "lng": 57.328796
       },
       {
-        "name": "Black River Gorges Ulusal Parkı",
+        "name": "Black River Gorges National Park",
         "country": "Mauritius",
         "lat": -20.326472,
         "lng": 57.415835
@@ -255,6 +261,12 @@
         "country": "Mauritius",
         "lat": -20.162452,
         "lng": 57.502804
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius",
+        "lat": 52.26697,
+        "lng": -6.388149
       }
     ],
     "__trTranslated": true
@@ -361,9 +373,15 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius",
+        "lat": 52.26697,
+        "lng": -6.388149
       },
       {
         "name": "Tamarin Falls",
@@ -384,7 +402,7 @@
         "lng": 57.389487
       },
       {
-        "name": "Kara Nehir Kanyonu Milli Parkı",
+        "name": "Black River Gorges National Park",
         "country": "Mauritius",
         "lat": -20.326472,
         "lng": 57.415835
@@ -803,9 +821,15 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius",
+        "lat": 52.26697,
+        "lng": -6.388149
       },
       {
         "name": "Le Morne",
@@ -981,12 +1005,18 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Grand South East Nehri",
+        "name": "Mauritius",
+        "country": "Mauritius",
+        "lat": 52.26697,
+        "lng": -6.388149
+      },
+      {
+        "name": "Grand South East River",
         "country": "Mauritius",
         "lat": -20.290725,
         "lng": 57.785193
@@ -1342,10 +1372,16 @@
     ],
     "routeCoordinates": [
       {
-        "name": "Istanbul",
+        "name": "İstanbul",
         "country": "Turkey",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius",
+        "lat": 52.26697,
+        "lng": -6.388149
       },
       {
         "name": "Palmar",
@@ -1695,27 +1731,33 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       },
       {
-        "name": "Kruger Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
       },
       {
         "name": "Sabi Sand Wildtuin",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -25.09813,
         "lng": 30.779184
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius",
+        "lat": 52.26697,
+        "lng": -6.388149
       }
     ],
     "__trTranslated": true
@@ -1788,39 +1830,45 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
-        "name": "Masa Dağı",
-        "country": "Güney Afrika",
+        "name": "Table Mountain",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Şarap Ülkeleri",
-        "country": "Güney Afrika",
+        "name": "Winelands",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Franschhoek",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.91183,
         "lng": 19.12048
       },
       {
-        "name": "Kruger Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius",
+        "lat": 52.26697,
+        "lng": -6.388149
       }
     ],
     "__trTranslated": true
@@ -1877,15 +1925,21 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Kruger Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius",
+        "lat": 52.26697,
+        "lng": -6.388149
       }
     ],
     "__trTranslated": true

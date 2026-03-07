@@ -794,21 +794,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Fes",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 34.034294,
         "lng": -5.017115
       },
       {
         "name": "Marrakech",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 31.626928,
         "lng": -7.988117
+      },
+      {
+        "name": "Western Sahara",
+        "country": "null",
+        "lat": 29.964354,
+        "lng": 77.546265
       },
       {
         "name": "Nouakchott",
@@ -827,6 +833,12 @@
         "country": "Senegal",
         "lat": 14.712019,
         "lng": -17.457171
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
       },
       {
         "name": "Ziguinchor",
@@ -860,31 +872,31 @@
       },
       {
         "name": "Yamoussoukro",
-        "country": "Fildişi Sahili",
+        "country": "Ivory Coast",
         "lat": 6.809107,
         "lng": -5.273263
       },
       {
         "name": "Abidjan",
-        "country": "Fildişi Sahili",
+        "country": "Ivory Coast",
         "lat": 5.320357,
         "lng": -4.016107
       },
       {
         "name": "Cape Coast",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 5.135057,
         "lng": -1.265911
       },
       {
         "name": "Kumasi",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 6.708083,
         "lng": -1.613894
       },
       {
         "name": "Accra",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 5.661083,
         "lng": -0.202815
       },
@@ -896,15 +908,27 @@
       },
       {
         "name": "Limbe",
-        "country": "Kamerun",
+        "country": "Cameroon",
         "lat": 4.018898,
         "lng": 9.197624
       },
       {
         "name": "Yaounde",
-        "country": "Kamerun",
+        "country": "Cameroon",
         "lat": 3.864768,
         "lng": 11.520526
+      },
+      {
+        "name": "Dolisie",
+        "country": "Congo",
+        "lat": -4.201138,
+        "lng": 12.675661
+      },
+      {
+        "name": "Pointe Noire",
+        "country": "Congo",
+        "lat": -4.795098,
+        "lng": 11.85492
       },
       {
         "name": "Mitadi",
@@ -926,7 +950,7 @@
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
@@ -938,55 +962,55 @@
       },
       {
         "name": "Maputo",
-        "country": "Mozambik",
+        "country": "Mozambique",
         "lat": -25.966213,
         "lng": 32.56745
       },
       {
         "name": "Vilanculos",
-        "country": "Mozambik",
+        "country": "Mozambique",
         "lat": -21.999647,
         "lng": 35.31868
       },
       {
         "name": "Bulawayo",
-        "country": "Zimbabve",
+        "country": "Zimbabwe",
         "lat": -20.15606,
         "lng": 28.588706
       },
       {
         "name": "Victoria Falls",
-        "country": "Zimbabve",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
         "name": "Lilongwe",
-        "country": "Malavi",
+        "country": "Malawi",
         "lat": -13.987511,
         "lng": 33.768144
       },
       {
         "name": "Zanzibar",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -6.197813,
         "lng": 39.199436
       },
       {
         "name": "Dar Es Salaam",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -6.816084,
         "lng": 39.280358
       },
       {
         "name": "Arusha",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -3.369683,
         "lng": 36.688079
       },
       {
         "name": "Kigali",
-        "country": "Ruanda",
+        "country": "Rwanda",
         "lat": -1.950894,
         "lng": 30.058876
       },
@@ -1016,31 +1040,31 @@
       },
       {
         "name": "Jinka",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 5.785993,
         "lng": 36.565182
       },
       {
         "name": "Addis Ababa",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 9.010793,
         "lng": 38.761253
       },
       {
-        "name": "Kahire",
-        "country": "Mısır",
+        "name": "Cairo",
+        "country": "Egypt",
         "lat": 30.047558,
         "lng": 31.241106
       },
       {
         "name": "Luxor",
-        "country": "Mısır",
+        "country": "Egypt",
         "lat": 25.704048,
         "lng": 32.634228
       },
       {
         "name": "Hurghada",
-        "country": "Mısır",
+        "country": "Egypt",
         "lat": 27.22021,
         "lng": 33.837734
       }
@@ -1291,27 +1315,33 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Fes",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 34.034294,
         "lng": -5.017115
       },
       {
         "name": "Marrakech",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 31.626928,
         "lng": -7.988117
       },
       {
         "name": "Essaouira",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 31.513723,
         "lng": -9.771017
+      },
+      {
+        "name": "Western Sahara",
+        "country": "null",
+        "lat": 29.964354,
+        "lng": 77.546265
       },
       {
         "name": "Atar",
@@ -1339,7 +1369,7 @@
       },
       {
         "name": "Banjul",
-        "country": "Gambiya",
+        "country": "The Gambia",
         "lat": 13.45535,
         "lng": -16.575646
       },
@@ -1381,37 +1411,37 @@
       },
       {
         "name": "Yamoussoukro",
-        "country": "Fildişi Sahili",
+        "country": "Ivory Coast",
         "lat": 6.809107,
         "lng": -5.273263
       },
       {
         "name": "Abidjan",
-        "country": "Fildişi Sahili",
+        "country": "Ivory Coast",
         "lat": 5.320357,
         "lng": -4.016107
       },
       {
         "name": "Cape Coast",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 5.135057,
         "lng": -1.265911
       },
       {
         "name": "Kakum National Park",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 7.008972,
         "lng": -2.830406
       },
       {
         "name": "Kumasi",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 6.708083,
         "lng": -1.613894
       },
       {
         "name": "Accra",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 5.661083,
         "lng": -0.202815
       },
@@ -1423,25 +1453,37 @@
       },
       {
         "name": "Limbe",
-        "country": "Kamerun",
+        "country": "Cameroon",
         "lat": 4.018898,
         "lng": 9.197624
       },
       {
         "name": "Yaounde",
-        "country": "Kamerun",
+        "country": "Cameroon",
         "lat": 3.864768,
         "lng": 11.520526
       },
       {
         "name": "Ambam",
-        "country": "Kamerun",
+        "country": "Cameroon",
         "lat": 4.932334,
         "lng": 12.898378
       },
       {
+        "name": "Dolisie",
+        "country": "Congo",
+        "lat": -4.201138,
+        "lng": 12.675661
+      },
+      {
+        "name": "Pointe Noire",
+        "country": "Congo",
+        "lat": -4.795098,
+        "lng": 11.85492
+      },
+      {
         "name": "Mitadi",
-        "country": "Demokratik Kongo Cumhuriyeti",
+        "country": "Democratic Republic of the Congo",
         "lat": -5.820845,
         "lng": 13.460166
       },
@@ -1459,13 +1501,13 @@
       },
       {
         "name": "Ondangwa",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -17.909745,
         "lng": 15.973463
       },
       {
         "name": "Swakopmund",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.696565,
         "lng": 14.539054
       }

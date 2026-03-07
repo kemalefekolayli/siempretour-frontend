@@ -17,7 +17,7 @@
         if (cachedDatasLocal) return cachedDatasLocal;
 
         const res = await fetch(
-            `data/siempre_tour_country_datas/${countrySlug}/datas.json`,
+            `data/siempre_tour_country_datas_tr/${countrySlug}/datas.json`,
             { cache: "no-store" }
         );
 

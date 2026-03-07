@@ -1,6 +1,134 @@
 [
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
+    "mainPhoto": "",
+    "id": "AFWC",
+    "tourName": "Windhoek 'den  Cape Town'a",
+    "placesVisited": "Namibya, Güney Afrika",
+    "generalInfo": "Bu macera kasırgası, Namibya ve Güney Afrika'da sizi sansasyonel manzaralara süpürecek. Antika arabalarla süslenmiş eşsiz Solitaire kasabasını ziyaret edin ve göz alıcı Namib çölünde bulunan muhteşem kum tepelerinin altın rengine hayranlıkla bakın. Güney Afrika'ya doğru ilerlerken Cederberg'de durup, yerel üzüm bağlarını keşfederek uğultulu Cape Town'a varacağız.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş): </strong>Windhoek Hosea Kutako Havalimanı (WDH)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş): </strong>Cape Town Uluslararası Havalimanı (CPT)",
+    "durationDays": "7",
+    "price": "749",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>- Solitaire Kasabası'ndaki oğlak dönencesinde duraklamak</li>\n<li>- Sesriem Kanyonu</li>\n<li>- Sossusvlei ve Ölü Vlei</li>\n<li>- Balık Gölü Kanyonu</li>\n<li>- Şarap Tadımı</li>\n</ul>\n<p><strong>Konaklama </strong></p>\n<ul>\n<li>- 3 gece Otel , 3 gece klübe</li>\n</ul>\n<p><strong>Ulaşım</strong></p>\n<ul>\n<li>- Büyük kamyonlar</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 2 Açık Büfe Kahvaltı , 4 Öğle Yemeği , 3 Akşam Yemeği, 4 Kahvaltı</li>\n</ul>\n<p><strong>Diğer</strong></p>\n<ul>\n<li>- Siempre Tour tur lideri , Siempre Tur Şoförü</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Windhoek'e varış",
+        "description": "Rakım 1650 metre. Windhoek kuzeydeki Eros Dağlarından Güneydeki Auas dağlarına doğru güzel bir vadiye uzanır. Bölgedeki tek şehirdir ve nüfusu 250.000 den fazladır."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Sesriem",
+        "description": "Başkentten ayrılarak oğlak dönencesine doğru yola çıkıyoruz ve ancak olup biteni (sizi nelerin beklediğini)anlayabiliyorsunuz. Buradan, Namib-Naukluft Ulusal Parkı'na yakın, merkez Namibya'nın Khomas Bölgesi'nde küçük bir yerleşim yeri olan Solitaire'ye devam ediyoruz. Bu küçük çöl topluluğunda yalnızca bir benzin istasyonu, postane, fırın ve taşra marketi bulunuyor. Kamyondan inerken, bir an durup, kaktüsler ve kısmen kuma batmış eski araç karkasları ile çevrili bir film setine adım atmış gibi hissedeceksiniz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Balık Gölü Kanyonu",
+        "description": "Bu sabah, Namib Çölü'nün olağanüstü manzarası için Dune 45 tepesine tırmanma fırsatınız var. Ayrıca koyu renkli deve dikeni ağaçlarının beyaz zemine uzanarak bize eşsiz bir fotoğraf yakalama fırsatı verdiği olağanüstü Sossusvlei and Deadvlei'yi ziyaret edeceğiz. Burası gerçekten bir fotoğrafçı için cennettir."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Orange Nehri",
+        "description": "Güneye, yerel olarak Oranjerivier olarak bilinen Orange Nehri'ne devam ediyoruz.. Burası Güney Afrika'nın en uzun nehridir ve Namibya ve Güney Afrika sınırı boyunca uzanmaktadır. Turuncu nehre giderken, ihtişamıyla yalnızca Kuzey Amerika'daki Büyük Kanyon'un rekabet edebileceği dünyanın en büyük kanyonlarından biri olan ve büyüklüğüyle nefes kesen Fish River (Balık Nehri) Kanyonunda duruyoruz. Kanyona bakan bir görüş açısında park edeceğiz. Kanyon boyunca kısa bir yürüyüş yapabilecek ve fotoğraf çekebileceksiniz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Cederberg",
+        "description": "Cape Town'a doğru ilerlerken, dereler, şelaleler, serin havuzlar ve muhteşem doğal kaya oluşumları ile kaplı engebeli arazisi ile Cederberg vahşi yaşam alanında bir mola vereceğiz. Burada turumuza dahil şarap tadımı ile yerel şarapları deneyimleyebileceksiniz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Cape Town",
+        "description": "Afrika'nın güney batı ucunda yer alan ve Atlantik Okyanusu ile simgeleşmiş Masa Dağı arasında yer alan Cape Town, dünyanın en güzel şehirlerinden biri olarak kabul edilmektedir."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Cape Town'dan ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç saatte bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sossusvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Deadvlei",
+        "country": "Namibia"
+      },
+      {
+        "name": "Fish River Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Orange River",
+        "country": "Namibia"
+      },
+      {
+        "name": "Cederberg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibya",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibya",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Cederberg",
+        "country": "Güney Afrika",
+        "lat": -32.501175,
+        "lng": 19.258291
+      },
+      {
+        "name": "Cape Town",
+        "country": "Güney Afrika",
+        "lat": -33.922497,
+        "lng": 18.420296
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "cape-to-windhoek-namib-desert-camping-safari",
     "tourName": "Cape to Windhoek Namib Çölü Kamp Safari",
@@ -188,7 +316,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "cape-to-windhoek-namibia-desert-tour",
     "tourName": "Cape Town'dan Windhoek'e Namibya Çöl Turu",
@@ -343,7 +471,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "cape-town-to-windhoek-holiday",
     "tourName": "Cape Town'dan Windhoek'e tatil",
@@ -540,7 +668,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "discover-namibia-with-added-comfort",
     "tourName": "Namibya'yı ekstra konforla keşfedin",
@@ -707,7 +835,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "family-safari-in-namibia",
     "tourName": "Namibya'da Aile Safari",
@@ -864,45 +992,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Windhoek",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.560084,
         "lng": 17.072984
       },
       {
         "name": "Sesriem",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -24.500798,
         "lng": 15.789153
       },
       {
-        "name": "Sesriem Kanyonu",
-        "country": "Namibya",
+        "name": "Sesriem Canyon",
+        "country": "Namibia",
         "lat": -24.500798,
         "lng": 15.789153
       },
       {
         "name": "Walvis Bay",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.935852,
         "lng": 14.500493
       },
       {
         "name": "Swakopmund",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.696565,
         "lng": 14.539054
+      },
+      {
+        "name": "Otjiwarongwe",
+        "country": "Namibia",
+        "lat": -20.460409,
+        "lng": 16.641649
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "holiday-to-namibia",
     "tourName": "Namibya Tatili",
@@ -1117,7 +1251,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "luxury-namibia-safari-tailor-made",
     "tourName": "Lüks Namibya Safari, kişiye özel",
@@ -1234,7 +1368,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-classic-self-drive-tour",
     "tourName": "Namibya klasik kendin sürüş turu",
@@ -1364,7 +1498,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-desert-caprivi-camping-safari",
     "tourName": "Namibya Çölü & Caprivi Kamp Safari",
@@ -1553,7 +1687,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-desert-caprivi-small-group-lodge-safari",
     "tourName": "Namibya Çölü & Caprivi Küçük Grup Lodge Safari",
@@ -1695,37 +1829,43 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelalesi",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
+        "name": "Zambezi",
+        "country": "Namibia",
+        "lat": -17.87751,
+        "lng": 36.890216
+      },
+      {
         "name": "Livingstone",
-        "country": "Zambiya",
+        "country": "Zambia",
         "lat": -17.853135,
         "lng": 25.861429
       },
       {
-        "name": "Caprivi Şeridi",
-        "country": "Namibya",
+        "name": "Caprivi Strip",
+        "country": "Namibia",
         "lat": -17.507314,
         "lng": 24.279352
       },
       {
         "name": "Swakopmund",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.696565,
         "lng": 14.539054
       },
       {
         "name": "Windhoek",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.560084,
         "lng": 17.072984
       }
@@ -1733,7 +1873,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-fly-and-drive-safari",
     "tourName": "Namibya uçakla ve araçla safari",
@@ -1859,7 +1999,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-flying-safari",
     "tourName": "Namibya uçak safarisi",
@@ -1999,7 +2139,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-guided-lodge-safari",
     "tourName": "Namibya rehberli konaklama safari",
@@ -2164,7 +2304,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-highlights-self-drive",
     "tourName": "Namibya’nın Öne Çıkanları Kendi Kendine Sürüş Turu",
@@ -2299,7 +2439,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-highlights-tour",
     "tourName": "Namibya öne çıkanlar turu",
@@ -2500,7 +2640,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-lodge-safari-holiday",
     "tourName": "Namibya lodge safari tatili",
@@ -2661,7 +2801,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-on-a-budget",
     "tourName": "Namibya Ekonomik Fırsatlar",
@@ -2835,7 +2975,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-photography-holiday",
     "tourName": "Namibya fotoğraf tatili",
@@ -3000,7 +3140,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-photography-tour",
     "tourName": "Namibya fotoğraf turu",
@@ -3170,7 +3310,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-safari",
     "tourName": "Namibya safarisi",
@@ -3311,7 +3451,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-self-drive-adventure-holiday",
     "tourName": "Namibya kendin sür keşif tatili",
@@ -3486,7 +3626,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-self-drive-adventure",
     "tourName": "Namibya kendi başına sürüş macerası",
@@ -3669,7 +3809,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-self-drive-holiday-big-cat-conservation",
     "tourName": "Namibya self drive tatili, büyük kedi koruma",
@@ -3821,7 +3961,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-self-drive-safari-community-conservancies",
     "tourName": "Namibya kendi kendine sürüş safari, topluluk koruma alanları",
@@ -4030,7 +4170,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-self-drive-safari",
     "tourName": "Namibya kendi kendine sürüş safari",
@@ -4175,7 +4315,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-self-drive-tour-deserts-and-canyons",
     "tourName": "Namibya kendi aracınızla tur, çöl ve kanyonlar",
@@ -4343,7 +4483,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-small-group-guided-holiday-and-safari",
     "tourName": "Namibya küçük grup rehberli tatil ve safari",
@@ -4511,7 +4651,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-tour-self-drive-holiday",
     "tourName": "Namibya turu, kendi başınıza sürüş tatili",
@@ -4703,7 +4843,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-tours-under-canvas-small-group-safari",
     "tourName": "Namibya çadır altında turlar, küçük grup safari",
@@ -4851,7 +4991,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-wildlife-holiday-rare-desert-mammals",
     "tourName": "Namibya yaban hayatı tatili, nadir çöl memelileri",
@@ -4984,7 +5124,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-wildlife-tour-desert-and-marine-life",
     "tourName": "Namibya yaban hayatı turu, çöl ve deniz yaşamı",
@@ -5106,7 +5246,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibian-deserts-and-wildlife-tour",
     "tourName": "Namibya Çölleri ve Yaban Hayatı Turu",
@@ -5224,7 +5364,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibian-wildlife-safari-tailor-made",
     "tourName": "Namibya yaban hayatı safarisi, kişiye özel",
@@ -5325,7 +5465,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "northern-namibia-self-drive-safari",
     "tourName": "Kuzey Namibya kendi kendine sürüş safari",
@@ -5452,7 +5592,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "premium-namibia-small-group-holiday",
     "tourName": "Premium Namibya küçük grup tatili",
@@ -5603,7 +5743,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "privately-guided-namibia-holiday",
     "tourName": "Özel rehberli Namibya tatili",
@@ -5762,7 +5902,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "wheelchair-accessible-namibia-self-drive-holiday",
     "tourName": "Tekerlekli sandalye erişimine uygun Namibya kendin sür tatili",
@@ -5942,7 +6082,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "5-star-african-safari-with-unique-zambezi-queen-river-safari",
     "tourName": "5 Yıldızlı Afrika Safari ve Eşsiz Zambezi Queen Nehir Safarisi",
@@ -6090,63 +6230,69 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       },
       {
-        "name": "Tswalu Kalahari Özel Oyun Koruma Alanı",
-        "country": "Güney Afrika",
+        "name": "Tswalu Kalahari Private Game Reserve",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
-        "name": "Victoria ve Alfred Waterfront",
-        "country": "Güney Afrika",
+        "name": "Victoria and Alfred Waterfront",
+        "country": "South Africa",
         "lat": -33.903056,
         "lng": 18.421667
       },
       {
         "name": "Table Mountain",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Stellenbosch",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.93813,
         "lng": 18.86002
       },
       {
-        "name": "İyi Umut Burnu Millî Parkı",
-        "country": "Güney Afrika",
+        "name": "Cape of Good Hope National Park",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Victoria Şelaleleri",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
+      },
+      {
+        "name": "Chobe River",
+        "country": "null",
+        "lat": -17.799239,
+        "lng": 25.156546
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "adventures-of-namibia-tour-bushmen-safari-dunes",
     "tourName": "Namibya Macerası Turu: Bushmen, Safari ve Kumulları",
@@ -6282,7 +6428,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "adventurous-namibia-family-vacation-safari",
     "tourName": "Macera Dolu Namibya Aile Tatili ve Safari",
@@ -6445,7 +6591,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "best-of-namibia-safari-nature-tour",
     "tourName": "Namibya'nın En İyisi Safari ve Doğa Turu",
@@ -6553,7 +6699,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "luxury-african-camping-safari-in-namibia",
     "tourName": "Namibya'da Lüks Afrika Kamp Safarisi",
@@ -6655,7 +6801,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "luxury-self-drive-namibia-safari-for-seniors",
     "tourName": "Ileri Yaşlar İçin Lüks Kendin Sür Safari Namibya",
@@ -6756,21 +6902,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Windhoek",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.560084,
         "lng": 17.072984
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-guided-tour-and-safari",
     "tourName": "Namibya Rehberli Turu ve Safari",
@@ -6907,7 +7059,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "namibia-tour-intimate-tribal-and-safari-experiences-in-northern-namibia",
     "tourName": "Namibya Turu: Kuzey Namibya'da Samimi Kabile ve Safari Deneyimleri",
@@ -7062,7 +7214,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "surreal-wonders-of-southern-namibia-tour",
     "tourName": "Güney Namibya'nın Sıradışı Harikaları Turu",
@@ -7202,7 +7354,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "the-complete-southern-africa-safari-for-first-timer-namibia-botswana-south-africa",
     "tourName": "Tam Güney Afrika Safari - İlk Kez Gidenler için: Namibia, Botswana & Güney Afrika",
@@ -7305,7 +7457,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "the-ultimate-namibia-safari-adventure",
     "tourName": "Nâmibya'nın Eşsiz Safari Macerası",
@@ -7393,7 +7545,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Namibia",
+    "destination": "Namibya",
     "mainPhoto": "",
     "id": "the-ultimate-northern-namibia-self-drive-safari-tour",
     "tourName": "Namibya'nın En İyi Kendi Aracınızla Safari Turu",

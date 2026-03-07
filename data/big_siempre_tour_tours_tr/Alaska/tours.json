@@ -1399,45 +1399,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Calgary",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 51.0457,
         "lng": -114.067955
       },
       {
         "name": "Banff",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 51.176613,
         "lng": -115.57096
       },
       {
-        "name": "Banff Ulusal Parkı",
-        "country": "Kanada",
+        "name": "Banff National Park",
+        "country": "Canada",
         "lat": 45.170155,
         "lng": -64.743195
       },
       {
         "name": "Jasper",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 52.876007,
         "lng": -118.08242
       },
       {
         "name": "Kamloops",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 50.676693,
         "lng": -120.3344
       },
       {
         "name": "Vancouver",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 49.260975,
         "lng": -123.11498
+      },
+      {
+        "name": "Inside Passage",
+        "country": "null",
+        "lat": 45.170155,
+        "lng": -64.743195
       }
     ],
     "__trTranslated": true
@@ -2339,73 +2345,97 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Seattle",
-        "country": "Amerika Birleşik Devletleri",
+        "country": "United States",
         "lat": 47.603243,
         "lng": -122.330286
       },
       {
-        "name": "San Juan Adaları",
-        "country": "Amerika Birleşik Devletleri",
+        "name": "San Juan Islands",
+        "country": "United States",
         "lat": 48.5333,
         "lng": -123.083
       },
       {
-        "name": "Kanada’nın İç Geçidi",
-        "country": "Kanada",
-        "lat": 45.170155,
-        "lng": -64.743195
-      },
-      {
-        "name": "Great Bear Yağmur Ormanı",
-        "country": "Kanada",
+        "name": "Great Bear Rainforest",
+        "country": "Canada",
         "lat": 49.700044,
         "lng": -119.744226
       },
       {
         "name": "Ketchikan",
-        "country": "Amerika Birleşik Devletleri",
+        "country": "United States",
         "lat": 55.341795,
         "lng": -131.647548
       },
       {
-        "name": "Misty Fjords Ulusal Anıtı",
-        "country": "Amerika Birleşik Devletleri",
+        "name": "Misty Fjords National Monument",
+        "country": "United States",
         "lat": 39.091517,
         "lng": -104.872636
       },
       {
+        "name": "Behm Channel",
+        "country": "null",
+        "lat": 36.059803,
+        "lng": -89.94136
+      },
+      {
+        "name": "Ernest Sound",
+        "country": "null",
+        "lat": 51.85583,
+        "lng": -114.52028
+      },
+      {
         "name": "Petersburg",
-        "country": "Amerika Birleşik Devletleri",
+        "country": "United States",
         "lat": 37.23186,
         "lng": -77.404736
       },
       {
-        "name": "Chichagof Adası",
-        "country": "Amerika Birleşik Devletleri",
+        "name": "Frederick Sound",
+        "country": "null",
+        "lat": 39.414176,
+        "lng": -77.410983
+      },
+      {
+        "name": "Chatham Strait",
+        "country": "null",
+        "lat": 36.824941,
+        "lng": -79.398164
+      },
+      {
+        "name": "Chichagof Island",
+        "country": "United States",
         "lat": 57.873611,
         "lng": -135.776389
       },
       {
-        "name": "Buzul Koyu Ulusal Parkı",
-        "country": "Amerika Birleşik Devletleri",
+        "name": "Glacier Bay National Park",
+        "country": "United States",
         "lat": 58.45379,
         "lng": -135.88142
       },
       {
+        "name": "Icy Strait",
+        "country": "null",
+        "lat": 34.729027,
+        "lng": -76.57102
+      },
+      {
         "name": "Haines",
-        "country": "Amerika Birleşik Devletleri",
+        "country": "United States",
         "lat": 59.235006,
         "lng": -135.445368
       },
       {
         "name": "Juneau",
-        "country": "Amerika Birleşik Devletleri",
+        "country": "United States",
         "lat": 58.300351,
         "lng": -134.408259
       }

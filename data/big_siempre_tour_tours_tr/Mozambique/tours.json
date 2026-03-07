@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Mozambique",
+    "destination": "Mozambik",
     "mainPhoto": "",
     "id": "family-luxury-safari-beach-holiday-south-africa-mozambique",
     "tourName": "Aile lüks safari ve plaj tatili, Güney Afrika & Mozambik",
@@ -131,7 +131,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mozambique",
+    "destination": "Mozambik",
     "mainPhoto": "",
     "id": "kruger-coast-and-cape-holiday-in-southern-africa",
     "tourName": "Kruger, kıyı ve şarap tatma tatili Güney Afrika'da",
@@ -446,7 +446,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mozambique",
+    "destination": "Mozambik",
     "mainPhoto": "",
     "id": "mozambique-holiday-tailor-made",
     "tourName": "Mozambique tatili, kişiye özel",
@@ -597,7 +597,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mozambique",
+    "destination": "Mozambik",
     "mainPhoto": "",
     "id": "mozambique-marine-safari-and-beach-holiday",
     "tourName": "Mozambik deniz safari ve plaj tatili",
@@ -708,7 +708,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mozambique",
+    "destination": "Mozambik",
     "mainPhoto": "",
     "id": "mozambique-wildlife-and-nature-tour",
     "tourName": "Mozambik yaban hayatı ve doğa turu",
@@ -904,7 +904,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mozambique",
+    "destination": "Mozambik",
     "mainPhoto": "",
     "id": "mozambique-zululand-beach-small-group-safari",
     "tourName": "Mozambik, Zululand & plaj küçük grup safarisi",
@@ -1019,73 +1019,85 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Johannesburgh",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       },
       {
         "name": "KwaZulu Natal",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -29.6,
         "lng": 30.378889
       },
       {
-        "name": "Mkuzi Oyun Alanı",
-        "country": "Güney Afrika",
+        "name": "Mkuzi Game Reserve",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Greater iSimangaliso Sulak Alanı",
-        "country": "Güney Afrika",
+        "name": "Greater iSimangaliso Wetland Park",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Kosi Bay Doğa Rezervi",
-        "country": "Güney Afrika",
+        "name": "Kosi Bay Nature Reserve",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Mozambik",
-        "country": "Mozambik",
+        "name": "Swaziland",
+        "country": "Mozambique",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Hlane Game Reserve",
+        "country": "Mozambique",
+        "lat": 1.434886,
+        "lng": 30.946887
+      },
+      {
+        "name": "Mozambique",
+        "country": "Mozambique",
         "lat": -15.033279,
         "lng": 40.737503
       },
       {
         "name": "Maputo",
-        "country": "Mozambik",
+        "country": "Mozambique",
         "lat": -25.966213,
         "lng": 32.56745
       },
       {
         "name": "Inhambane",
-        "country": "Mozambik",
+        "country": "Mozambique",
         "lat": -23.865437,
         "lng": 35.385563
       },
       {
         "name": "Bilene",
-        "country": "Mozambik",
+        "country": "Mozambique",
         "lat": -25.025051,
         "lng": 33.10212
       },
       {
-        "name": "Kruger Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       }
@@ -1093,7 +1105,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mozambique",
+    "destination": "Mozambik",
     "mainPhoto": "",
     "id": "south-africa-explorer-and-mozambique-beach-holiday",
     "tourName": "Güney Afrika Kaşifi ve Mozambik Plaj Tatili",

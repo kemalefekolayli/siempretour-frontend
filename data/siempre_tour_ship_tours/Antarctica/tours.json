@@ -1,11 +1,178 @@
 [
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
+    "mainPhoto": "",
+    "id": "ocean-albatros-antarctica-buenos-aires-ushuaia",
+    "tourName": "Ocean Albatros ile Antarktika, Buenos Aires, Ushuaia",
+    "placesVisited": "Antarktika, Buenos Aires, Ushuaia",
+    "generalInfo": "Haritaların bittiği, doğanın hâlâ kuralları koyduğu bir yer düşünün. Sessizliğin bile yankılandığı, beyazın bin bir tonuyla göz kamaştıran bir kıta… Antarktika, yalnızca bir destinasyon değil; insanın kendisiyle ve gezegenle yeniden tanıştığı eşsiz bir keşif deneyimidir. Antarktika’ya yapılan bir yolculuk, klasik bir tatilin çok ötesindedir. Bu seyahat, dünyanın en bakir coğrafyasına atılan cesur bir adımdır. Burada beş yıldızlı oteller değil, milyonlarca yıldır ayakta duran buzullar vardır. Antarktika, ilk bakışta ıssız gibi görünse de aslında şaşırtıcı derecede canlıdır. <br> Binlerce penguenin koloni hâlinde yaşadığı sahiller, zarif foklar ve denizden ansızın yükselen balinalar bu kıtanın gerçek sahipleridir. Bu canlıları doğal ortamlarında, onlara zarar vermeden gözlemleme ayrıcalığına sahip olacağız. Zodyak botlarla yapacağımız keşif gezilerinde, devasa buzdağlarının arasından süzülürken zaman adeta yavaşlayacak. Antarktika’ya yapılan bir seyahat, bizim için yalnızca bir gezi değil, aynı zamanda her bir bakışta özenle yapılmış bir resmin tablosunu andıran keşif ve hayranlık dolu bir macera olacak.",
+    "durationDays": "14",
+    "price": "15340",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "Penguen, balina, mors, fok gözlemleri <b>Ocean Albatros</b> gemisinin vaadidir. <br> Modern konfor, bilimsel rehberlik ve sürdürülebilir lüks tek bir gemide buluşur. <br> Ters burun tasarımıyla öne çıkan Ocean Albatros gemisindeyiz. Tüm kabinler dış kabinli olup, deniz manzaralıdır. <br> Geleneksel keşif gemilerine göre %50’den fazla daha düşük karbon ayak izine sahip, Yeşil Girişim Programını uygulayarak misafirlerimiz için hem mutlak konfor, hem de sürdürülebilirlik sağlayan en çevre dostu gemilerden biridir. <br> Kutup manzaralı Jakuzi ve Havuz barı, fiziksel rahatlama ve görsel doyumu aynı anda sunar. Aynı zamanda Spa, Sağlıklı Yaşam Alanı ve Spor Salonu ile karada olduğunuzdan daha fazla konfor alanı sunmaktadır. <br> Ocean Albatros ile sadece bir rota değil, dünyanın en saf coğrafyalarında gerçek bir keşif deneyimi yaşarsınız. <br> Dalgayı yararak ilerler ve bu şekilde daha az sarsıntıyla daha konforlu bir seyahat ve gece uykusu sunar.",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "İstanbul – Buenos Aires",
+        "description": "Buenos Aires’e varış sonrasında, otelimize geçiş yapacağız. İyi dinlenmeler."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Buenos Aires – Ushuaia",
+        "description": "Havaalanında sıcak bir karşılama ve lüks Arakur Ushuaia Resort & Spa'ya transferin ardından, dünyanın en güneydeki şehri Ushuaia'yı keşfedip, dinleneceğiz. "
+      },
+      {
+        "dayNumber": 3,
+        "title": "",
+        "description": "Sabahınızı otelde dinlenerek geçirdikten sonra, gemiye doğru yolculuğumuza devam edeceğiz. Keşif ekibimiz ve gemi personeli sizi gemide karşılayacak ve yerleşmenize yardımcı olacak, ardından güvenlik ve oryantasyon brifingi ve kaptanımızın karşılama yemeği düzenlenecektir. Antarktika'ya doğru yola çıkıyoruz!"
+      },
+      {
+        "dayNumber": "4-5",
+        "title": "Drake Geçidi",
+        "description": "Kutup Uzmanlarımızın, büyüleyici vahşi yaşamından cesur tarihine kadar Antarktika hakkındaki engin bilgilerini paylaşmalarına katılın. Öncü Doğa Bilimi programımıza katılın veya arkanıza yaslanıp bu efsanevi yolculuğun tadını çıkarırken nadir görülen vahşi yaşamı gözlemleyin. Antarktika Yakınsama Bölgesi'ni geçip Antarktika sularına ve belirgin şekilde daha soğuk sıcaklıklara doğru ilerlerken gemimize eşlik eden birçok deniz kuşunu tanımlamak için dürbünlerinizi hazır bulundurun."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Güney Shetland Adalar",
+        "description": "Zaman içinde, Güney Shetland Adaları'nın volkanik aktivitesi, başka hiçbir şeye benzemeyen bir jeoloji yaratmıştır. Burada, Çene Bantlı ve Gentoo penguenleri de dahil olmak üzere muhteşem dağlar, buzullar ve vahşi yaşam manzarasıyla karşılaşacaksınız ve su kenarını Fil ve Kürklü foklarla paylaşmak da alışılmadık bir durum değil. Balinalar da sıklıkla görülüyor. Bu yüzden, Zodiac botlarımıza yerleşip günümüzün çoğunu keşfederek geçireceğiz. Ve kayakçılar, el değmemiş Antarktika sularının sadece birkaç santim üzerinde süzülmenin ilk tadını alma zamanı geldi."
+      },
+      {
+        "dayNumber": "7-9",
+        "title": "Muhteşem Antarktika",
+        "description": "Buzdağı bakımından zengin kanallardan ve vahşi yaşam bakımından zengin sulardan geçerken, çok sayıda pitoresk koyu ve iniş alanını keşfetme şansımız olacak. Hem denizde hem de engebeli kıyı şeritlerinde, büyüleyici penguen, fok ve balina türlerinin birçoğuna muhtemelen eşlik edeceğiz. Yıldızların altında kamp yapmak da kayıt yaptıranlar için unutulmaz bir deneyim olacak. Odak noktamız her zaman en uzun ve en maceralı gemi dışı deneyimidir. Bu nedenle Antarktika'nın sunduğu her şeyi deneyimlemeye hazır olun."
+      },
+      {
+        "dayNumber": "10-11",
+        "title": "Drake Geçidi",
+        "description": "Bu büyülü yerden ayrılıp kuzeye doğru yol alıyoruz ve efsanevi Drake Geçidi'ni bir kez daha geçiyoruz. Seferimizin sonunu özel bir slayt gösterisi ve birlikte son bir yemekle kutlayarak veda edeceğiz."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Ushuaia'da Gemiden İniş / Ushuaia - Buenos Aires ",
+        "description": "Yorgun ama mutlu yüzlerde kocaman gülümsemelerle sabah gemiden iniyoruz ve Buenos Aires'e uçmak için havaalanına transfer. Otelimize yerleşip, dinlendikten sonra tango eşliğinde akşam yemeği için ‘X’ restoranda olacağız. Keyifli bir akşam yemeğinden sonra dinlenmek üzere otelimize geçiyoruz."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Recoleta Mezarlığı",
+        "description": "Buenos Aires’i birlikte geziyoruz! Turumuza Buenos Aires’in en zarif ve tarihi bölgelerinden biri olan ‘Recoleta Mezarlığı’ ile başlıyoruz. Burası klasik bir mezarlık değil, adeta açık hava mimarlık ve heykel müzesi gibidir. Mezarlıkta yaklaşık 4.800 anıt bulunmaktadır.  Recoleta Mezarlığı, Evita Perón’un mezarına ev sahipliği yapan, Paris esintili anıt mezarlarıyla dünyanın en etkileyici mezarlıklarından biridir. <br> Sonrasında Buenos Aires’in politik kalbi olan Plaza de Mayo’ya geçeceğiz. Burada Arjantin Devlet Başkanı’nın resmi çalışma ofisi olan Casa Rosada (Pembe Ev), hemen yakınında ki koloni döneminden kalma yönetim binası Cabildo’yu ve Katedral’i göreceğiz. <br> devamında Colon Tiyatrosu, Plaza Lavalle, Adalet Sarayı ve Teatro Nacional Cervantes gibi tarihi mimari yapıları göreceğiz. Gezimizin son rotası olarak Maradona’nın mahallesi olarak bilinen La Baco’ya doğru geçiyoruz. <br>Diego Armando Maradona, yoksulluktan dünya futbolunun zirvesine uzanan hikâyesiyle Arjantin’in ruhunu temsil eder. Profesyonel kariyerinde La Boca semtiyle özdeşleşmiş, bu mahalle onun tutkusu, simgesi hâline gelmiştir.  Renkli evleri, sokak sanatı ve tango kültürüyle La Boca, Maradona’nın mirasını bugün hâlâ canlı tutar. La Boca’da, sokaklarını   keşfetmek,  yerel dükkânlardan alışveriş yapmak ve kafelerde dinlenmek için 1,5 saatlik serbest zaman verilecektir."
+      },
+      {
+        "dayNumber": 14,
+        "title": "İstanbul'a Dönüş",
+        "description": "Sabah erken saatlerde havaalanına transfer. THY uçağıyla Buenos Aires–İstanbul yolculuğumuz için iyi uçuşlar dileriz."
+      }
+    ],
+    "map": "",
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Arjantin",
+        "lat": -35.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Arjantin",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Drake Geçidi",
+        "country": "",
+        "lat": -52.3449,
+        "lng": -63.5434
+      },
+      {
+        "name": "Güney Shetland Adaları",
+        "country": "",
+        "lat": -62.0,
+        "lng": -58.0
+      },
+      {
+        "name": "Antarktika Yarımadası",
+        "country": "",
+        "lat": -63.3833,
+        "lng": -57.0
+      },
+      {
+        "name": "Drake Geçidi",
+        "country": "",
+        "lat": -52.3449,
+        "lng": -62.5434
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Arjantin",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.415137,
+        "lng": 28.97953
+      }
+    ],
+    "__trTranslated": true
+  },
+  {
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctic-explorer-cruise",
-    "tourName": "Antarctic explorer cruise",
+    "tourName": "Antarktik kaşif kruvaziyeri",
     "placesVisited": "",
-    "generalInfo": "A heady and inspiring cocktail of towering blue icebergs, vast penguin colonies, whales, seals and glaciers right in the heart of the Western Peninsula.<br/><br/>It is home to an extraordinary array of wildlife: penguins of almost all descriptions, Leopard and smaller seals and whales, seen from the shore, the Zodiacs and from on board. This is a journey that appeals to many: photographers, wildlife enthusiasts, ornithologists or those who simply want to marvel at the peaks of Deception Island or the striking colours of Iceberg Alley in the most immaculate wilderness anywhere.<br/><br/>Highlights:<br/>Explore the remarkable Antarctic Peninsula<br/>Incredible wildlife viewing including seabirds, penguins, seals and whales<br/>Travel on a small expedition vessel<br/>Accompanied by extremely qualified Expedition Staff<br/><br/>Key information:<br/>9 or 10 nights on the ship, 1 night hotel in Ushuaia<br/>Expedition cruising in comfortable conditions<br/>Countries visited: Antarctic Peninsula, Argentina, Antarctica<br/><br/>What's included:<br/>All meals while on the ship<br/>All accommodation<br/>All transport and listed activities<br/>Tour leader throughout and qualified Expedition Staff<br/>We can include flights from the UK.  Please contact us for a quote.<br/><br/>What's not included:<br/>Travel insurance<br/>Single accommodation (available on request)<br/>Visas or vaccinations",
+    "generalInfo": "Büyüleyici ve ilham verici bir karışım: devasa mavi buzdağları, geniş penguen kolonileri, balinalar, foklar ve buzul, Batı Yarımadası'nın tam kalbinde.<br/><br/>Neredeyse her türden penguen, Leopar ve daha küçük foklar ve kıyıdan, Zodiaklardan ve gemiden görülen balinalar ile olağanüstü bir yaban hayatı çeşitliliğine ev sahipliği yapmaktadır. Bu, birçok kişiye hitap eden bir yolculuktur: fotoğrafçılar, doğa severler, kuş bilimciler veya sadece Deception Adası'nın zirvelerine ya da en bakir vahşi doğada Iceberg Alley'nin çarpıcı renklerine hayran kalmak isteyenler.<br/><br/>Öne çıkanlar:<br/>Olağanüstü Antarktik Yarımadası'nı keşfedin<br/>Deniz kuşları, penguenler, foklar ve balinalar dahil inanılmaz yaban hayatı gözlemi<br/>Küçük bir keşif gemisinde seyahat edin<br/>Son derece nitelikli Keşif Ekibi eşliğinde<br/><br/>Ana bilgiler:<br/>Gemide 9 veya 10 gece, Ushuaia'da 1 gece otel<br/>Rahat koşullarda keşif kruvaziyeri<br/>Ziyaret edilen ülkeler: Antarktik Yarımadası, Arjantin, Antarktika<br/><br/>Dahil olanlar:<br/>Gemideki tüm yemekler<br/>Tüm konaklama<br/>Tüm ulaşım ve belirtilen aktiviteler<br/>Tur lideri ve nitelikli Keşif Ekibi<br/>Birleşik Krallık'tan uçuşları dahil edebiliriz. Lütfen fiyat teklifi için bizimle iletişime geçin.<br/><br/>Dahil olmayanlar:<br/>Seyahat sigortası<br/>Tek kişilik konaklama (isteğe bağlı olarak mevcut)<br/>Vize veya aşılar",
     "durationDays": "11",
     "price": "12490",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -24,44 +191,129 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Start Ushuaia, Argentina"
+        "description": "Ushuaia, Arjantin'den başlayın"
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Board ship and sail along the Beagle Channel"
+        "description": "Gemiyi board edin ve Beagle Kanalı boyunca yelken açın"
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "Cross the Drake Passage"
+        "description": "Drake Geçidi'ni geçin"
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "South Shetland Islands and Antarctic Peninsula"
+        "description": "Güney Shetland Adaları ve Antarktik Yarımadası"
       },
       {
         "dayNumber": 9,
         "title": "",
-        "description": "Sail back through the Drake Passage"
+        "description": "Drake Geçidi'nden geri yelken açın"
       },
       {
         "dayNumber": 11,
         "title": "",
-        "description": "Disembark and end in Ushuaia"
+        "description": "İniş yapın ve Ushuaia'da sona erdirin"
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Beagle Channel",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Beagle Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctic-peninsula-and-south-shetland-islands-cruise",
-    "tourName": "Antarctic Peninsula and South Shetland Islands cruise",
+    "tourName": "Antarktika Yarımadası ve Güney Shetland Adaları kruvaziyeri",
     "placesVisited": "",
-    "generalInfo": "Visit the South Shetland Islands and the channels of the Antarctic Peninsula, but skip the Drake Passage crossing by flying instead.<br/><br/>This trip is the perfect short, introductory expedition to the Antarctic Peninsula, the most pristine wilderness on earth. We reduce the Drake Passage crossing from two days to two hours by flying from Punta Arenas to King George Island in the South Shetland Islands. We spend the next four days sailing between the South Shetlands and the Antarctic Peninsula, past towering glacier-capped mountains rising from a brilliant blue sea, dotted with ice floes, and enjoying the company of sea birds, penguins, seals and whales. We hope to visit magnificent spots such as Petermann Island, Neko Harbour and the Gerlache Strait, and have the chance to scramble up to a high point for an unforgettable view of Port Lockeroy. On this adventure we will also visit penguin colonies, listen for calving glaciers, and visit both historic sites and research stations.<br/><br/>Highlights:<br/>Skip the Drake Passage and fly from Punta Arenas to King George Island<br/>Explore the remarkable Antarctic Peninsula<br/>Incredible wildlife including seabirds, penguins, seals and whales<br/>Travel on a small expedition vessel<br/>Accompanied by extremely qualified Expedition Staff<br/><br/>Key information:<br/>5 or 6 nights on the ship plus 2 nights in Punta Arenas<br/>Expedition cruising in comfortable conditions<br/>Countries visited: Antarctica, Antarctic Peninsula, Chile<br/><br/>What's included:<br/>All meals while on the ship<br/>Beer and wine during dinner<br/>All accommodation<br/>All transport and listed activities<br/>Full complement of qualified Expedition Staff<br/>We can include flights from the UK.  Please contact us for a quote.<br/><br/>What's not included:<br/>Travel insurance<br/>Single accommodation (available on request)<br/>Visas or vaccinations",
+    "generalInfo": "Güney Shetland Adaları ve Antarktika Yarımadası'nın kanallarını ziyaret edin, ancak Drake Geçidi'ni atlayarak uçuşla geçin.<br/><br/>Bu seyahat, dünyanın en bakir vahşi doğası olan Antarktika Yarımadası'na mükemmel bir kısa tanıtım keşfi sunmaktadır. Punta Arenas'tan Güney Shetland Adaları'ndaki King George Adası'na uçarak Drake Geçidi'ni iki günden iki saate indiriyoruz. Sonraki dört günü, muhteşem mavi denizden yükselen, buzulların kapladığı dağların arasında, deniz kuşları, penguenler, foklar ve balinalarla birlikte seyahat ederek geçiriyoruz. Petermann Adası, Neko Limanı ve Gerlache Boğazı gibi muhteşem yerleri ziyaret etmeyi umuyoruz ve Port Lockeroy'un unutulmaz manzarasını görmek için yüksek bir noktaya tırmanma şansına sahip olacağız. Bu macerada ayrıca penguen kolonilerini ziyaret edecek, buzulların kırılma seslerini dinleyecek ve hem tarihi yerleri hem de araştırma istasyonlarını ziyaret edeceğiz.<br/><br/>Öne Çıkanlar:<br/>Drake Geçidi'ni atlayın ve Punta Arenas'tan King George Adası'na uçun<br/>Dikkate değer Antarktika Yarımadası'nı keşfedin<br/>Deniz kuşları, penguenler, foklar ve balinalar dahil inanılmaz yaban hayatı<br/>Küçük bir keşif gemisinde seyahat edin<br/>Son derece nitelikli Keşif Ekibi eşliğinde<br/><br/>Ana bilgiler:<br/>Gemide 5 veya 6 gece artı Punta Arenas'ta 2 gece<br/>Rahat koşullarda keşif kruvaziyeri<br/>Ziyaret edilen ülkeler: Antarktika, Antarktika Yarımadası, Şili<br/><br/>Dahil olanlar:<br/>Gemideki tüm yemekler<br/>Akşam yemeği sırasında bira ve şarap<br/>Tüm konaklama<br/>Tüm ulaşım ve listelenen aktiviteler<br/>Tam donanımlı nitelikli Keşif Ekibi<br/>Birleşik Krallık'tan uçuşları dahil edebiliriz. Lütfen fiyat teklifi için bizimle iletişime geçin.<br/><br/>Dahil olmayanlar:<br/>Seyahat sigortası<br/>Tek kişilik konaklama (isteğe bağlı olarak mevcut)<br/>Vize veya aşılar",
     "durationDays": "8",
     "price": "14395",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -80,39 +332,94 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Start Punta Arenas; overnight in hotel"
+        "description": "Punta Arenas'ta başlama; otelde geceleme"
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Charter flight to King George Island; board ship and embark"
+        "description": "King George Adası'na charter uçuş; gemiye biniş ve hareket"
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "Antarctic Peninsula and the South Shetland Islands"
+        "description": "Antarktika Yarımadası ve Güney Shetland Adaları"
       },
       {
         "dayNumber": 7,
         "title": "",
-        "description": "Disembark on King George Island; charter flight to Punta Arenas and overnight in hotel"
+        "description": "King George Adası'nda karaya çıkış; Punta Arenas'a charter uçuş ve otelde geceleme"
       },
       {
         "dayNumber": 8,
         "title": "",
-        "description": "End Punta Arenas"
+        "description": "Punta Arenas'ta sona erme"
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "King George Island",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica"
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "King George Island",
+        "country": "Antarctica",
+        "lat": -62.033333,
+        "lng": -58.35
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctic-wildlife-cruise-and-penguin-safari",
-    "tourName": "Antarctic wildlife cruise and penguin safari",
+    "tourName": "Antarktik yaban hayatı kruvaziyeri ve penguen safarisi",
     "placesVisited": "",
-    "generalInfo": "Enjoy all of the highlights of South Georgia and the Antarctic peninsula<br/><br/>On this adventure, massive albatross and Pintado petrel swoop and soar around the ship, guiding us toward South Georgia. Beaches teeming with King penguins and Elephant seals greet us on this fabled island, where we’ll pay our respects to famed explorer Sir Ernest Shackleton. Antarctica awaits, with its geographic contradictions and overwhelming enormity. Relax on a Zodiac ride, hike glistening glaciers, share comical moments with inquisitive penguins, and witness the rugged peninsula. Antarctica will surprise and delight, and never disappoint.<br/><br/>Highlights:<br/>Experience the quintessential wildlife experience of the “Galapagos of the Poles”<br/>Visit South Georgia’s King penguin rookeries – the largest in the world<br/>Reflect at the resting place of the great explorer, Sir Ernest Shackleton<br/>Visit abandoned whaling stations and learn stories of inhabitants who called South Georgia home<br/>Witness abundant Antarctic wildlife, including penguins, seals, whales and more<br/>Experience western Peninsula highlights and visit iconic landing sites<br/>Travel on a small expedition vessel<br/>Accompanied by extremely qualified Expedition Staff<br/><br/>Key information:<br/>14 nights on the ship, 1 night hotel in Ushuaia<br/>Expedition cruising in comfortable condition<br/>Countries visited: Argentina, Antarctica, Antarctic Peninsula<br/><br/>What's included:<br/>All meals while on the ship<br/>Beer and wine during dinner<br/>All accommodation<br/>All transport and listed activities<br/>Tour leader throughout and qualified Expedition Staff<br/>We can include flights from the UK.  Please contact us for a quote.<br/><br/>What's not included:<br/>Travel insurance<br/>Single accommodation (available on request)<br/>Visas or vaccinations",
+    "generalInfo": "Güney Georgia ve Antarktik yarımadasının tüm öne çıkanlarını keşfedin<br/><br/>Bu macerada, dev albatroslar ve Pintado petrel, geminin etrafında süzülerek bizi Güney Georgia'ya yönlendiriyor. Bu efsanevi adada, Kral penguenler ve Fil foklarıyla dolu plajlar bizi karşılıyor; burada ünlü kaşif Sir Ernest Shackleton'a saygılarımızı sunacağız. Antarktika, coğrafi çelişkileri ve muazzam büyüklüğü ile bizi bekliyor. Bir Zodiac gezintisinde dinlenin, parlayan buzullarda yürüyüş yapın, meraklı penguenlerle komik anlar paylaşın ve engebeli yarımadayı gözlemleyin. Antarktika, sizi şaşırtacak ve memnun edecek, asla hayal kırıklığına uğratmayacak.<br/><br/>Öne Çıkanlar:<br/>“Kutup Galapagosları”nın özünü deneyimleyin<br/>Dünyanın en büyük Kral penguen kolonilerini ziyaret edin<br/>Büyük kaşif Sir Ernest Shackleton'ın dinlenme yerinde düşünün<br/>Terkedilmiş balina istasyonlarını ziyaret edin ve Güney Georgia'yı evleri olarak görenlerin hikayelerini öğrenin<br/>Penguenler, foklar, balinalar ve daha fazlası dahil olmak üzere bol miktarda Antarktik yaban hayatını gözlemleyin<br/>Batı Yarımada'nın öne çıkanlarını deneyimleyin ve ikonik iniş noktalarını ziyaret edin<br/>Küçük bir keşif gemisinde seyahat edin<br/>Son derece nitelikli Keşif Ekibi eşliğinde<br/><br/>Ana bilgiler:<br/>Gemide 14 gece, Ushuaia'da 1 gece otel<br/>Rahat koşullarda keşif kruvaziyeri<br/>Ziyaret edilen ülkeler: Arjantin, Antarktika, Antarktik Yarımadası<br/><br/>Dahil olanlar:<br/>Gemideyken tüm öğünler<br/>Akşam yemeği sırasında bira ve şarap<br/>Tüm konaklama<br/>Tüm ulaşım ve listelenen aktiviteler<br/>Tur lideri ve nitelikli Keşif Ekibi<br/>Birleşik Krallık'tan uçuşları dahil edebiliriz. Lütfen fiyat teklifi için bizimle iletişime geçin.<br/><br/>Dahil olmayanlar:<br/>Seyahat sigortası<br/>Tek kişilik konaklama (isteğe bağlı olarak mevcut)<br/>Vize veya aşılar",
     "durationDays": "16",
     "price": "20225",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -131,54 +438,119 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Start Ushuaia, Argentina"
+        "description": "Ushuaia, Arjantin'den başlayın"
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Embarkation Day"
+        "description": "Gemiye Biniş Günü"
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "At Sea"
+        "description": "Denizde"
       },
       {
         "dayNumber": 7,
         "title": "",
-        "description": "South Georgia"
+        "description": "Güney Georgia"
       },
       {
         "dayNumber": 9,
         "title": "",
-        "description": "At Sea"
+        "description": "Denizde"
       },
       {
         "dayNumber": 11,
         "title": "",
-        "description": "Antarctic Peninsula"
+        "description": "Antarktik Yarımadası"
       },
       {
         "dayNumber": 14,
         "title": "",
-        "description": "Crossing the Drake Passage"
+        "description": "Drake Geçidi'ni geçiş"
       },
       {
         "dayNumber": 16,
         "title": "",
-        "description": "Disembark in Ushuaia"
+        "description": "Ushuaia'da karaya çıkış"
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "South Georgia",
+        "country": "null"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "null"
+      },
+      {
+        "name": "Drake Passage",
+        "country": "null"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "South Georgia",
+        "country": "null",
+        "lat": -54.283307,
+        "lng": -36.495451
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "null",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Drake Passage",
+        "country": "null",
+        "lat": 47.924218,
+        "lng": -100.370606
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctica-south-georgia-falklands-luxury-cruise",
-    "tourName": "Antarctica, South Georgia & Falklands luxury cruise",
-    "placesVisited": "Ushuaia, Falklands, South Georgia, Salisbury Plain, Fortuna Bay, Grytviken, St Andrew's Bay, Gold Bay, Weddell Sea, Antarctic Peninsula, Deception Island, Half Moon Island",
-    "generalInfo": "There are 260 passengers on board this luxury cruise, and every room has a large window for iceberg-viewing – though on this amazing cruise you’ll spend much of your time on deck, out and about, and walking on Antarctica itself.<br/><br/>In 15 days you can not only touch the Antarctic Peninsula, but two other amazing stops, both crucial for birdlife. First up is the Falkland Islands, remote islands where the residents include a handful of British people, and a whole heap of penguins. <br/><br/>Then there’s South Georgia, which once played a vital role in early 20th century Antarctic exploration. The grave of Sir Ernest Shackleton, found on the island, marks the final resting place of the explorer, who led a series of extraordinarily brave polar expeditions. King penguins and enormous elephant seals live on its shores, giving you just a taste of what’s to come on Antarctica. <br/><br/>None of this will really prepare you for the Antarctic peninsula itself. It’s a beautiful, otherworldly place of pristine icy, glassy water and whales rolling slowly through the waves. Using zodiaks – small motor boats – you’ll be able to go ashore, and spend hours just exploring the waters, watching the amazing shapes of icebergs and the colonies of friendly penguins, before a stop at Deception Island on your way home.<br/><br/>Your cruise is supported by expert staff. As you head underway, staff give series of fascinating lectures on the land that awaits and how we must protect it in the coming years. ‘Life-changing experience’ doesn’t really begin to cover it.  <br/>",
+    "tourName": "Antarktika, Güney Georgia & Falklandlar lüks kruvaziyeri",
+    "placesVisited": "Ushuaia, Falklandlar, Güney Georgia, Salisbury Düzlüğü, Fortuna Koyu, Grytviken, St Andrew's Koyu, Gold Koyu, Weddell Denizi, Antarktika Yarımadası, Deception Adası, Half Moon Adası",
+    "generalInfo": "Bu lüks kruvaziyerde 260 yolcu bulunmaktadır ve her odada buzdağı manzarası için büyük bir pencere vardır – ancak bu muhteşem kruvaziyette zamanınızın çoğunu güvertede, dışarıda ve Antarktika'nın kendisinde yürüyerek geçireceksiniz.<br/><br/>15 günde sadece Antarktika Yarımadası'na dokunmakla kalmayacak, aynı zamanda kuş yaşamı için kritik öneme sahip iki başka harika durak da göreceksiniz. İlk olarak, sakinleri arasında birkaç Britanyalı ve bir sürü penguen bulunan, uzak bir ada olan Falkland Adaları.<br/><br/>Sonra, 20. yüzyılın başlarındaki Antarktika keşiflerinde hayati bir rol oynamış olan Güney Georgia var. Adada bulunan Sir Ernest Shackleton'ın mezarı, olağanüstü cesur kutup seferlerine liderlik eden kaşifin son dinlenme yerini işaret ediyor. Kral penguenleri ve dev fil fokları kıyılarında yaşamaktadır, bu da size Antarktika'da sizi bekleyenlerin sadece bir tadını veriyor.<br/><br/>Bunların hiçbiri sizi Antarktika Yarımadası'nın kendisine hazırlayamaz. Burası, bakir buzlu, cam gibi su ve dalgalar arasında yavaşça yuvarlanan balinalarla dolu, güzel ve başka bir dünyadan bir yer. Zodiaklar – küçük motorlu botlar – kullanarak karaya çıkabilir ve saatlerce sadece suları keşfederek, buzdağlarının muhteşem şekillerini ve dost canlısı penguen kolonilerini izleyerek geçirebilirsiniz, ardından dönüş yolunda Deception Adası'nda bir durak yapabilirsiniz.<br/><br/>Kruvaziyeriniz, uzman personel tarafından desteklenmektedir. Yola çıkarken, personel sizi bekleyen toprak hakkında ve önümüzdeki yıllarda onu nasıl korumamız gerektiği hakkında bir dizi ilginç konferans veriyor. 'Hayat değiştiren deneyim' ifadesi bununla başa çıkamaz.",
     "durationDays": "19",
     "price": "16440",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -197,54 +569,189 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "End of the world, start of a journey Your voyage begins where the world drops off. Ushuaia, Argentina, reputed to be the southernmost city on the planet, is located on the far southern tip of South America. Starting in the afternoon, you embark from this small resort town on Tierra del Fuego, nicknamed “The End of the World,” and sail the mountain-fringed Beagle Channel for the remainder of the evening."
+        "description": "Dünyanın sonu, bir yolculuğun başlangıcı\nYolculuğunuz, dünyanın sona erdiği yerde başlıyor. Dünyanın en güneydeki şehri olarak bilinen Ushuaia, Arjantin, Güney Amerika'nın en güney ucunda yer alıyor. Öğleden sonra, \"Dünyanın Sonu\" lakaplı bu küçük tatil beldesinden yola çıkarak, akşamın geri kalanında dağlarla çevrili Beagle Kanalı'nda yelken açıyorsunuz."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "The winged life of the westerlies Several species of albatross follow the vessel into the westerlies, along with storm petrels, shearwaters, and diving petrels."
+        "description": "Batı rüzgârlarının kanatlı yaşamı\nBirçok albatros türü, gemiyi batıya doğru takip ederken, fırtına kuşları, keskin kanatlı kuşlar ve dalış kuşları da eşlik ediyor."
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "Finding the Falklands The Falkland (Malvinas) Islands offer an abundance of wildlife that is easily approachable, though caution is always advised. These islands are largely unknown gems, the site of a 1982 war between the UK and Argentina. Not only do various species of bird live here, but chances are great you’ll see both Peale’s dolphins and Commerson’s dolphins in the surrounding waters. During this segment of the voyage, you may visit the following sites: Carcass Island – Despite its name, this island is pleasantly rodent-free and hence bounteous with birdlife. Anything from breeding Magellanic penguins and gentoos to numerous waders and passerine birds (including Cobb’s wrens and tussock-birds) live here. Saunders Island – On Saunders Island you can see the black-browed albatross and its sometimes-clumsy landings, along with breeding imperial shags and rockhopper penguins. King penguins, Magellanic penguins, and gentoos are also found here."
+        "description": "Falklandları bulmak\nFalkland (Malvinas) Adaları, kolayca yaklaşılabilen bol miktarda yaban hayat sunuyor, ancak her zaman dikkatli olmakta fayda var. Bu adalar, Birleşik Krallık ile Arjantin arasında 1982'de gerçekleşen bir savaşın sahnesi olan, büyük ölçüde bilinmeyen mücevherlerdir. Burada çeşitli kuş türleri yaşamakla kalmaz, aynı zamanda çevredeki sularda Peale'nin yunusları ve Commerson'un yunuslarını görme şansınız da yüksektir. Yolculuğun bu bölümünde şu yerleri ziyaret edebilirsiniz: Carcass Adası – Adının aksine, bu ada hoş bir şekilde kemirgenlerden arındırılmıştır ve bu nedenle kuş yaşamı açısından zengindir. Burada üreyen Magellanik penguenler ve gentoos ile birlikte birçok kıyı kuşu ve ötücü kuş (Cobb'un wrenleri ve tussock kuşları dahil) yaşamaktadır. Saunders Adası – Saunders Adası'nda, bazen beceriksiz inişler yapan siyah kaşlı albatrosu ve üreyen imparator şagları ile kayalık penguenleri görebilirsiniz. Kral penguenleri, Magellanik penguenler ve gentoos da burada bulunmaktadır."
       },
       {
         "dayNumber": 7,
         "title": "",
-        "description": "South Georgia Journey Today you arrive at the first South Georgia activity site. Please keep in mind that weather conditions in this area can be challenging, largely dictating the program. Over the next several days, you have a chance to visit the following sites: Prion Island – This location is closed during the early part of the wandering albatross breeding season (November 20 – January 7). From January on, the breeding adults have found their partners and are sitting on eggs or nursing their chicks. Enjoy witnessing the gentle nature of these animals, which possess the largest wingspan of any birds in the world. Fortuna Bay – Near beaches inhabited by various penguins and seals, you have the chance to follow the final leg of Shackleton’s route to the abandoned whaling village of Stromness. This path cuts across the mountain pass beyond Shackleton’s Waterfall, and as the terrain is partly swampy, be prepared to cross a few small streams. Salisbury Plain, St. Andrews Bay, Gold Harbour – These sites not only house the three largest king penguin colonies in South Georgia, they’re also three of the world’s largest breeding beaches for Antarctic fur seals. Literarally millions breed on South Georgia during December and January. Only during the mid-season do they peak in their breeding cycle. Watch the large bulls keep a constant vigil (and occasionally fight) over territories where dozens of females have just given birth or are about to deliver. Watch your step and stay cool when walking the beaches during this time. Grytviken – In this abandoned whaling station, king penguins walk the streets and elephant seals lie around like they own the place – because they basically do. Here you might be able to see the South Georgia Museum as well as Shackleton’s grave."
+        "description": "Güney Georgia Yolculuğu\nBugün, ilk Güney Georgia aktivite noktasına varıyorsunuz. Bu bölgedeki hava koşullarının zorlu olabileceğini unutmayın, programı büyük ölçüde belirler. Önümüzdeki birkaç gün boyunca şu yerleri ziyaret etme şansınız olacak: Prion Adası – Bu yer, göçmen albatrosların üreme sezonunun erken döneminde (20 Kasım - 7 Ocak) kapalıdır. Ocak ayından itibaren, üreyen yetişkinler partnerlerini bulmuş ve yumurtaların üzerinde oturmakta veya yavrularını emzirmektedir. Dünyadaki en büyük kanat açıklığına sahip bu hayvanların nazik doğasını izlemekten keyif alın. Fortuna Koyu – Çeşitli penguenler ve fokların yaşadığı plajların yakınında, Shackleton'ın terkedilmiş balina köyü Stromness'e giden son etabı takip etme şansınız var. Bu yol, Shackleton'ın Şelalesi'nin ötesindeki dağ geçidinden geçiyor ve arazi kısmen bataklık olduğundan, birkaç küçük akarsuyu geçmeye hazırlıklı olun. Salisbury Düzlüğü, St. Andrews Koyu, Gold Limanı – Bu yerler sadece Güney Georgia'daki üç en büyük kral penguen kolonisine ev sahipliği yapmakla kalmaz, aynı zamanda Antarktik kürk fokları için dünyanın en büyük üreme plajlarından üçüdür. Aralık ve Ocak aylarında burada milyonlarca fok üremektedir. Sadece mevsim ortasında üreme döngülerinde zirveye ulaşırlar. Bu dönemde, birçok dişi yeni doğum yapmış veya doğum yapmak üzere olan bölgelerde büyük boğaların sürekli bir gözetim altında (ve ara sıra kavga ederek) olduğunu izleyin. Bu dönemde plajlarda yürürken adımlarınıza dikkat edin ve sakin kalın. Grytviken – Bu terkedilmiş balina istasyonunda, kral penguenleri sokaklarda yürür ve fil fokları etrafta sanki buranın sahibiymiş gibi uzanır – çünkü aslında öyleler. Burada Güney Georgia Müzesi'ni ve Shackleton'ın mezarını görebilirsiniz."
       },
       {
         "dayNumber": 13,
         "title": "",
-        "description": "Last push to the Antarctic Enormous icebergs and a fair chance of fin whale sightings ensure there’s never a dull moment on this last sea voyage south. Also, your best chance to spot Antarctic petrels is here."
+        "description": "Antarktika'ya son hamle\nDev buzdağları ve fin balinalarını görme şansı, bu son deniz yolculuğunda asla sıkıcı bir an yaşamanızı sağlamaz. Ayrıca, Antarktik petreleri görme şansınız da burada en yüksektir."
       },
       {
         "dayNumber": 14,
         "title": "",
-        "description": "Awe-inspiring Antarctica If the ice conditions permit, you now sail into the Weddell Sea. Here colossal tabular icebergs herald your arrival to the eastern side of the Antarctic Peninsula. Paulet Island, with its large population of Adélie penguins, is a possible stop. You might also visit Brown Bluff, located in the ice-clogged Antarctic Sound, where you could get the chance to set foot on the Antarctic Continent itself. If conditions aren’t favorable to enter the Weddell Sea from the east, the ship will set course for Elephant Island and head into the Bransfield Strait, between South Shetland Island and the Antarctic Peninsula. Here you can attempt to access the Antarctic Sound from the northwest. The breathtaking scenery continues in the southern Gerlache Strait, and if ice conditions allow, we may even reach Lemaire Channel. Conditions on the Drake Passage determine the exact time of departure."
+        "description": "Hayranlık uyandıran Antarktika\nBuz koşulları izin verirse, şimdi Weddell Denizi'ne yelken açıyorsunuz. Burada devasa tabular buzdağları, Antarktika Yarımadası'nın doğu tarafına varışınızı müjdelemektedir. Adélie penguenlerinin büyük bir nüfusuna sahip Paulet Adası, olası bir duraktır. Ayrıca, Antarktik Ses'te buzlarla dolu Brown Bluff'u ziyaret etme şansınız olabilir, burada Antarktika Kıtası'na ayak basma fırsatını yakalayabilirsiniz. Eğer doğudan Weddell Denizi'ne girmek için koşullar uygun değilse, gemi Elephant Adası'na yönelerek Güney Shetland Adası ile Antarktika Yarımadası arasında bulunan Bransfield Boğazı'na girecektir. Burada, Antarktik Ses'e kuzeybatıdan erişim sağlamaya çalışabilirsiniz. Güney Gerlache Boğazı'ndaki muhteşem manzara devam eder ve eğer buz koşulları izin verirse, Lemaire Kanalı'na bile ulaşabiliriz. Drake Geçidi'ndeki koşullar, kalkış zamanını belirler."
       },
       {
         "dayNumber": 17,
         "title": "",
-        "description": "Familiar seas, familiar friends Your return voyage is far from lonely. While crossing the Drake, you’re again greeted by the vast array of seabirds remembered from the passage south. But they seem a little more familiar to you now, and you to them."
+        "description": "Tanıdık denizler, tanıdık dostlar\nDönüş yolculuğunuz yalnızlıktan uzak. Drake'i geçerken, güney yolculuğunda hatırladığınız geniş deniz kuşları tekrar sizi karşılıyor. Ancak şimdi size biraz daha tanıdık geliyorlar ve siz de onlara."
       },
       {
         "dayNumber": 19,
         "title": "",
-        "description": "There and back again Every adventure, no matter how grand, must eventually come to an end. It’s now time to disembark in Ushuaia, but with memories that will accompany you wherever your next adventure lies."
+        "description": "Oraya ve geri\nHer macera, ne kadar büyük olursa olsun, nihayetinde sona ermelidir. Artık Ushuaia'da gemiden inme zamanı, ancak sizi bir sonraki maceranıza götürecek anılarla."
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Falklands",
+        "country": null
+      },
+      {
+        "name": "South Georgia",
+        "country": null
+      },
+      {
+        "name": "Salisbury Plain",
+        "country": null
+      },
+      {
+        "name": "Fortuna Bay",
+        "country": null
+      },
+      {
+        "name": "Grytviken",
+        "country": null
+      },
+      {
+        "name": "St Andrew's Bay",
+        "country": null
+      },
+      {
+        "name": "Gold Bay",
+        "country": null
+      },
+      {
+        "name": "Weddell Sea",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "Deception Island",
+        "country": null
+      },
+      {
+        "name": "Half Moon Island",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Falklands",
+        "country": "Antarctica",
+        "lat": 50.5004,
+        "lng": -119.55854
+      },
+      {
+        "name": "South Georgia",
+        "country": "Antarctica",
+        "lat": -54.283307,
+        "lng": -36.495451
+      },
+      {
+        "name": "Salisbury Plain",
+        "country": "Antarctica",
+        "lat": -34.764984,
+        "lng": 138.66069
+      },
+      {
+        "name": "Fortuna Bay",
+        "country": "Antarctica",
+        "lat": 26.53305,
+        "lng": -78.608467
+      },
+      {
+        "name": "Grytviken",
+        "country": "Antarctica",
+        "lat": -54.284218,
+        "lng": -36.494513
+      },
+      {
+        "name": "St Andrew's Bay",
+        "country": "Antarctica",
+        "lat": 17.945013,
+        "lng": -76.686524
+      },
+      {
+        "name": "Gold Bay",
+        "country": "Antarctica",
+        "lat": 47.855164,
+        "lng": -121.698025
+      },
+      {
+        "name": "Weddell Sea",
+        "country": "Antarctica",
+        "lat": 38.982655,
+        "lng": -76.85141
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Deception Island",
+        "country": "Antarctica",
+        "lat": -62.976944,
+        "lng": -60.65
+      },
+      {
+        "name": "Half Moon Island",
+        "country": "Antarctica",
+        "lat": 53.361782,
+        "lng": -7.771266
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "cruise-crossing-the-antarctic-circle",
-    "tourName": "Cruise crossing the Antarctic Circle",
+    "tourName": "Antarktik Dairesi'ni Geçen Kruvaziyer",
     "placesVisited": "",
-    "generalInfo": "One of the most exciting voyages in the South Seas, going south of the Antarctic Circle and beyond, into waters untouched by all but the lucky few.<br/><br/>The aim on this voyage is to head as far south as ice and weather permit. After a few days exploring the 'deep south', there are further shore excursions on the northerly route along the Antarctic Peninsula. The ship is small enough to navigate through the narrow Lemaire Channel, with glacial walls towering high on both sides, leading to a jigsaw of jewel-like islands that are home to huge penguin rookeries, Elephant seals and countless seabirds. There are also whales: imagine a pair of Humpbacks, at least 30 tonnes of mammal, rising imperiously against a turquoise ice-wall viewed from a Zodiac only metres away, and you have the essence of the Antarctic.<br/><br/>Highlights:<br/>Be one of the few travellers to venture to 66°33'S<br/>Visit research stations along the Antarctic Peninsula<br/>Witness abundant Antarctic wildlife, including penguins, seals and whales<br/>Experience western Antarctic Peninsula highlights and visit iconic landing sites<br/>Learn about Antarctica’s history, glaciology and wildlife from onboard specialists<br/>Enjoy helicopter flightseeing from Ultramarine for a unique perspective of the Antarctic Peninsula<br/>Travel on a small expedition vessel<br/>Accompanied by extremely qualified Expedition Staff<br/><br/>Key information:<br/>12 nights on the ship, 1 night hotel in Buenos Aires<br/>Expedition cruising in comfortable conditions<br/>Countries visited: Antarctic Peninsula, Argentina, Antarctica<br/><br/>What's included:<br/>All meals while on the ship<br/>Beer and wine during dinner<br/>All accommodation<br/>All transport and listed activities<br/>Tour leader throughout and qualified Expedition Staff<br/>We can include flights from the UK.  Please contact us for a quote.<br/><br/>What's not included:<br/>Travel insurance<br/>Single accommodation (available on request)<br/>Visas and vaccinations<br/>Mandatory Charter Flights Buenos Aires to Ushuaia Return - from £850 (or equivalent in booking currency) paid on booking",
+    "generalInfo": "Güney Denizi'ndeki en heyecan verici yolculuklardan biri, Antarktik Dairesi'nin güneyine ve ötesine, sadece şanslı birkaç kişinin ulaşabildiği, dokunulmamış sularda ilerlemektir.<br/><br/>Bu yolculuktaki amaç, buz ve hava koşullarının izin verdiği kadar güneyde ilerlemektir. 'Derin güneyi' keşfettikten sonra, Antarktik Yarımadası boyunca kuzey yönünde daha fazla kıyı gezisi yapılacaktır. Gemi, her iki tarafında yüksek buzul duvarlarının yükseldiği dar Lemaire Kanalı'ndan geçecek kadar küçüktür ve dev penguen kolonileri, Fil fokları ve sayısız deniz kuşuna ev sahipliği yapan mücevher gibi adaların bulmacasına ulaşmaktadır. Ayrıca balinalar da vardır: en az 30 ton ağırlığında bir çift kambur balinanın, sadece birkaç metre uzaktan bir Zodiac'tan görülen turkuaz buz duvarına karşı gururla yükseldiğini hayal edin ve Antarktik'in özünü yakalamış olursunuz.<br/><br/>Öne Çıkanlar:<br/>66°33'S'ye giden az sayıdaki yolculardan biri olun<br/>Antarktik Yarımadası boyunca araştırma istasyonlarını ziyaret edin<br/>Penguenler, foklar ve balinalar dahil olmak üzere bol miktarda Antarktik yaban hayatını gözlemleyin<br/>Batı Antarktik Yarımadası'nın öne çıkanlarını deneyimleyin ve ikonik iniş noktalarını ziyaret edin<br/>Antarktika'nın tarihi, buzulları ve yaban hayatı hakkında gemideki uzmanlardan bilgi edinin<br/>Ultramarine'den helikopterle uçuş yaparak Antarktik Yarımadası'nın eşsiz bir perspektifini yaşayın<br/>Küçük bir keşif gemisinde seyahat edin<br/>Son derece nitelikli Keşif Ekibi ile birlikte olun<br/><br/>Ana bilgiler:<br/>Gemide 12 gece, Buenos Aires'te 1 gece otel<br/>Rahat koşullarda keşif kruvaziyeri<br/>Ziyaret edilen ülkeler: Antarktik Yarımadası, Arjantin, Antarktika<br/><br/>Dahil olanlar:<br/>Gemideki tüm yemekler<br/>Akşam yemeği sırasında bira ve şarap<br/>Tüm konaklama<br/>Tüm ulaşım ve listelenen aktiviteler<br/>Tur lideri ve nitelikli Keşif Ekibi<br/>Birleşik Krallık'tan uçuşları dahil edebiliriz. Lütfen fiyat teklifi için bizimle iletişime geçin.<br/><br/>Dahil olmayanlar:<br/>Seyahat sigortası<br/>Tek kişilik konaklama (isteğe bağlı olarak mevcut)<br/>Vize ve aşılar<br/>Zorunlu Charter Uçuşları Buenos Aires'ten Ushuaia'ya Gidiş-Dönüş - £850'dan (veya rezervasyon para birimindeki eşdeğeri) rezervasyon sırasında ödenir",
     "durationDays": "14",
     "price": "16245",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -263,54 +770,159 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Arrive Buenos Aires"
+        "description": "Buenos Aires'e varış"
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Fly to Ushuaia and embark"
+        "description": "Ushuaia'ya uçuş ve gemiye biniş"
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "Crossing The Drake Passage"
+        "description": "Drake Geçidi'ni geçiş"
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "South Shetland Islands & Antarctic Peninsula"
+        "description": "Güney Shetland Adaları & Antarktik Yarımadası"
       },
       {
         "dayNumber": 8,
         "title": "",
-        "description": "Antarctic Circle"
+        "description": "Antarktik Dairesi"
       },
       {
         "dayNumber": 10,
         "title": "",
-        "description": "Northbound Along the Peninsula"
+        "description": "Yarımada boyunca kuzeye doğru"
       },
       {
         "dayNumber": 12,
         "title": "",
-        "description": "Sail back through the Drake Passage"
+        "description": "Drake Geçidi'nden geri dönüş"
       },
       {
         "dayNumber": 14,
         "title": "",
-        "description": "Disembarkation in Ushuaia and fly to Buenos Aires"
+        "description": "Ushuaia'da iniş ve Buenos Aires'e uçuş"
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica",
+        "lat": 47.417271,
+        "lng": -105.587722
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "expedition-cruise-to-antarctica",
-    "tourName": "Expedition cruise to Antarctica",
+    "tourName": "Antarktika'ya Keşif Gemisi Turu",
     "placesVisited": "",
-    "generalInfo": "After a few days exploring the ‘deep south’, there are further shore excursions on the northerly route along the Antarctic Peninsula. The ship is small enough to navigate through the narrow Lemaire Channel, with glacial walls towering high on both sides, leading to a jigsaw of jewel-like islands that are home to huge penguin rookeries, Elephant seals and countless seabirds. There are also whales: imagine a pair of Humpbacks, at least 30 tonnes of mammal, rising imperiously against a turquoise ice-wall viewed from a Zodiac only metres away, and you have the essence of the Antarctic.<br/><br/>Highlights:<br/>Visit the stunning Antarctic Peninsula<br/>Cross the Antarctic Circle at 66° 33’ S<br/>Witness abundant Antarctic wildlife, including penguins, seals, whales and more<br/>Travel on a small expedition vessel<br/>Accompanied by extremely qualified Expedition Staff<br/><br/>Key information:<br/>12 nights on the ship, 1 night hotel in Ushuaia<br/>Expedition cruising in comfortable conditions<br/>Countries visited: Antarctic Peninsula, Argentina, Antarctica<br/><br/>What's included:<br/>All meals while on the ship<br/>All accommodation<br/>All transport and listed activities<br/>Tour leader throughout and qualified Expedition Staff<br/>We can include flights from the UK.  Please contact us for a quote.<br/><br/>What's not included:<br/>Travel insurance<br/>Single accommodation (available on request)<br/>Visas or vaccinations",
+    "generalInfo": "‘Derin Güney’i keşfettikten sonra, Antarktika Yarımadası boyunca kuzey yönünde daha fazla karaya çıkma gezisi yapılacaktır. Gemi, her iki tarafında yüksek buzul duvarlarıyla dar Lemaire Kanalı'ndan geçecek kadar küçüktür ve dev penguen kolonileri, Fil fokları ve sayısız deniz kuşuna ev sahipliği yapan mücevher gibi adaların bulmacasına ulaşır. Ayrıca balinalar da vardır: en az 30 ton ağırlığında bir çift kambur balinanın, sadece birkaç metre uzaktan bir Zodiac'tan görülen turkuaz buz duvarına karşı gururla yükseldiğini hayal edin ve Antarktika'nın özünü yakalamış olursunuz.<br/><br/>Öne Çıkanlar:<br/>Büyüleyici Antarktika Yarımadası'nı ziyaret edin<br/>66° 33’ S'de Antarktika Dairesi'ni geçin<br/>Penguenler, foklar, balinalar ve daha fazlası dahil olmak üzere bol miktarda Antarktika yaban hayatını gözlemleyin<br/>Küçük bir keşif gemisinde seyahat edin<br/>Son derece nitelikli Keşif Ekibi eşliğinde<br/><br/>Ana bilgiler:<br/>Gemide 12 gece, Ushuaia'da 1 gece otel<br/>Rahat koşullarda keşif gemisi seyahati<br/>Ziyaret edilen ülkeler: Antarktika Yarımadası, Arjantin, Antarktika<br/><br/>Dahil Olanlar:<br/>Gemideki tüm yemekler<br/>Tüm konaklama<br/>Tüm ulaşım ve belirtilen aktiviteler<br/>Tüm tur boyunca rehberlik ve nitelikli Keşif Ekibi<br/>Birleşik Krallık'tan uçuşları dahil edebiliriz. Lütfen fiyat teklifi için bizimle iletişime geçin.<br/><br/>Dahil Olmayanlar:<br/>Seyahat sigortası<br/>Tek kişilik konaklama (isteğe bağlı olarak mevcut)<br/>Vize veya aşılar",
     "durationDays": "14",
     "price": "16375",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -329,54 +941,159 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Start Ushuaia, Argentina"
+        "description": "Ushuaia, Arjantin'den başla"
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Board ship and sail along the Beagle Channel"
+        "description": "Gemiyi borda al ve Beagle Kanalı boyunca yola çık"
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "Cross the Drake Passage"
+        "description": "Drake Geçidi'ni geç"
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "South Shetland Islands and Antarctic Peninsula"
+        "description": "Güney Shetland Adaları ve Antarktika Yarımadası"
       },
       {
         "dayNumber": 8,
         "title": "",
-        "description": "Antarctic Circle"
+        "description": "Antarktika Dairesi"
       },
       {
         "dayNumber": 10,
         "title": "",
-        "description": "Northbound Along the Peninsula"
+        "description": "Yarımada boyunca kuzeye doğru ilerle"
       },
       {
         "dayNumber": 12,
         "title": "",
-        "description": "Sail back through the Drake Passage"
+        "description": "Drake Geçidi'nden geri dön"
       },
       {
         "dayNumber": 14,
         "title": "",
-        "description": "Disembark and end Ushuaia"
+        "description": "İniş yap ve Ushuaia'da turu sonlandır"
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Beagle Channel",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Beagle Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica",
+        "lat": 47.417271,
+        "lng": -105.587722
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "falklands-south-georgia-and-antarctic-circle-cruise",
-    "tourName": "Falklands, South Georgia and Antarctic Circle cruise",
+    "tourName": "Falkland Adaları, Güney Georgia ve Antarktika Dairesi kruvaziyeri",
     "placesVisited": "",
-    "generalInfo": "Discover all that Antarctica has to offer on this epic 24-day expedition that explores the Falkland Islands, South Georgia islands and the Antarctic peninsula, including crossing the rarely seen Antarctic Circle! This is our longest Antarctica trip available – a voyage of discovery aboard the Ocean Nova, where you’ll marvel at spectacularly rugged landscapes, thousands of king penguins and the abundant wildlife of the south. Glide through ice floes in a Zodiac with your Expedition Team and take part in fascinating educational presentations. Keep your eye out for predatory seals, wandering albatross and migrating whales as you pass by towering ice-blue glaciers and icebergs. Round this unforgettable adventure off by reaching latitude 66°33’S, as you cross the fabled Antarctic Circle. With optional adventures like camping on the ice (there’s no better spot to experience the sound of silence) and day paddling across icy waters, this journey of discovery and mateship is sure to be the trip of a lifetime.",
+    "generalInfo": "Falkland Adaları, Güney Georgia adaları ve Antarktika yarımadasını keşfeden bu epik 24 günlük keşif gezisinde Antarktika'nın sunduğu her şeyi keşfedin; nadiren görülen Antarktika Dairesi'ni geçmeyi de içeren! Bu, mevcut en uzun Antarktika yolculuğumuzdur – Ocean Nova gemisinde bir keşif yolculuğu, burada muhteşem dağlık manzaralar, binlerce kral penguen ve güneyin bol vahşi yaşamı karşısında hayran kalacaksınız. Keşif Ekibinizle birlikte bir Zodiac ile buzulların arasında kayın ve ilginç eğitim sunumlarına katılın. Yüksek buz mavi buzullar ve buzdağlarının yanından geçerken avcı foklar, göç eden albatroslar ve balinalar için gözlerinizi dört açın. Efsanevi Antarktika Dairesi'ni geçerken 66°33'S enlemine ulaşarak bu unutulmaz macerayı tamamlayın. Buzda kamp yapmak (sessizliğin sesini deneyimlemek için daha iyi bir yer yok) ve buzlu sularda gün boyunca kano sürmek gibi isteğe bağlı maceralarla, bu keşif ve dostluk yolculuğu hayatınızın seyahati olmaya aday.",
     "durationDays": "24",
     "price": "16064",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -394,135 +1111,214 @@
     "dayInfo": [
       {
         "dayNumber": 1,
-        "title": "Ushuaia, Argentina.",
-        "description": "Welcome to Ushuaia, Argentina – the gateway to Antarctica! Upon arrival at Ushuaia Airport, enjoy an included transfer to your hotel. Once you arrive at your hotel, you’re free to explore. Maybe head downtown for some early souvenir shopping or taste some classic Argentinian flavours at one of the local restaurants. Tonight at your hotel you’ll meet your fellow travellers and Expedition Team at an important welcome meeting, learning more about the journey ahead and the details for tomorrow’s embarkation. After, why not hit a cosy dinner spot or local bar and explore what your upcoming adventure may hold?"
+        "title": "Ushuaia, Arjantin.",
+        "description": "Antarktika'nın kapısı olan Ushuaia, Arjantin'e hoş geldiniz! Ushuaia Havalimanı'na vardığınızda, otelinize dahil bir transferin tadını çıkarın. Otele vardığınızda, keşfetmek için serbestsiniz. Belki şehir merkezine gidip erken hediyelik eşya alışverişi yapabilir veya yerel restoranlardan birinde klasik Arjantin lezzetlerini tadabilirsiniz. Bu akşam otelinizde, yolculuğunuz hakkında daha fazla bilgi edinmek ve yarınki gemiye biniş detaylarını öğrenmek için diğer yolcular ve Keşif Ekibinizle önemli bir karşılama toplantısında buluşacaksınız. Ardından, neden sıcak bir akşam yemeği yenecek bir yer veya yerel bir bara gitmeyesiniz ve yaklaşan maceranızın neler getirebileceğini keşfetmeyesiniz?"
       },
       {
         "dayNumber": 2,
-        "title": "Embarkation in Ushuaia, Argentina.",
-        "description": "After breakfast, the morning is yours to explore Ushuaia. You could stroll through the quaint town with a camera, or grab a last-minute necessity. In the afternoon, you’ll transfer to the port of Ushuaia and embark the Ocean Nova – your home on the sea. Get settled into your cabin, then set sail through the historic Beagle Channel towards Antarctica. Find the perfect spot to soak up the incredible views as you catch your last sight of Argentina – then head inside to join the excitement and learn more about what’s to come on this Antarctic adventure. This evening is an excellent opportunity to explore the ship and enjoy a delicious dinner in the dining room."
+        "title": "Ushuaia, Arjantin'de Gemide Biniş.",
+        "description": "Kahvaltıdan sonra, sabah saatlerini Ushuaia'yı keşfetmek için değerlendirin. Kameranızı alarak şirin kasabada dolaşabilir veya son dakika ihtiyaçlarınızı alabilirsiniz. Öğleden sonra, Ushuaia limanına transfer olacak ve Ocean Nova'ya bineceksiniz – denizdeki eviniz. Kabinize yerleşin, ardından Antarktika'ya doğru tarihi Beagle Kanalı'ndan yola çıkın. Arjantin'in son manzarasını yakalarken muhteşem manzaraların tadını çıkarabileceğiniz mükemmel bir yer bulun – ardından içeri girip bu Antarktika macerasında nelerin geleceğini öğrenmek için heyecana katılın. Bu akşam, gemiyi keşfetmek ve yemek salonunda lezzetli bir akşam yemeğinin tadını çıkarmak için harika bir fırsat."
       },
       {
         "dayNumber": 3,
-        "title": "At sea.",
-        "description": "As you sail, spend time out on deck or on the ship's bridge scanning the horizon for wildlife. Keep an eye out for wandering albatrosses on their lengthy migration routes, and look for the telltale splash of breaching whales or the dorsal fins of other mighty marine mammals breaking the water's surface. You could also settle in for presentations given by your expert Expedition Team, on topics like the behaviour of humpback whales, the life cycles of penguins, the formation of the Antarctic ice sheet and more. Evenings on board are equally memorable. After a day of learning and wildlife spotting, head to the warmth of the ship's Panorama Lounge. Enjoy a drink in hand as you swap stories with your fellow travellers, sharing the excitement of your journey."
+        "title": "Denizde.",
+        "description": "Yola çıkarken, güvertede veya geminin köprüsünde vahşi yaşamı gözlemleyerek zaman geçirin. Uzun göç yollarında dolaşan albatrosları gözlemleyin ve su yüzeyini kıran balinaların sıçramalarını veya diğer güçlü deniz memelilerinin sırt yüzgeçlerini arayın. Ayrıca, uzman Keşif Ekibiniz tarafından verilen sunumlara katılabilir, kambur balinaların davranışları, penguenlerin yaşam döngüleri, Antarktika buz tabakasının oluşumu gibi konular hakkında bilgi edinebilirsiniz. Gemideki akşamlar da unutulmazdır. Öğrenme ve vahşi yaşam gözlemi dolu bir günün ardından, geminin Panorama Lounge'unda sıcak bir ortamda dinlenin. Yol arkadaşlarınızla hikayelerinizi paylaşırken bir içki eşliğinde yolculuğunuzun heyecanını paylaşın."
       },
       {
         "dayNumber": 4,
-        "title": "Falkland Islands.",
-        "description": "You’ll approach the Falkland Islands this morning – a wildlife photographer’s dream. Here, you can find the largest black-browed albatross colony in the world and five species of penguins that breed on the islands, including gentoo, king, Macaroni, Magellanic, and rockhopper. Once in Stanley, the capital, learn about the intriguing and controversial past of the Falkland Islands from local experts. Near the town, you may see southern giant petrels, Falkland steamer ducks, kelp gulls, dolphin gulls, black-crowned night herons, red-backed hawks, peregrine falcons and turkey vultures. Weather permitting, you may explore Saunders Island, the second-largest island in the Falklands, and The Neck, a narrow peninsula with sandy beaches and subtle cliff faces. On the afternoon of Day 5, following our morning excursion, farewell the Falkland Islands and sail towards South Georgia."
+        "title": "Falkland Adaları.",
+        "description": "Bu sabah Falkland Adaları'na yaklaşacaksınız – bir vahşi yaşam fotoğrafçısının hayali. Burada, dünyadaki en büyük siyah kaşlı albatros kolonisini ve adalarda üreyen beş penguen türünü bulabilirsiniz; bunlar arasında Gentoo, Kral, Makaron, Magellan ve Rockhopper penguenleri bulunmaktadır. Başkent Stanley'de, yerel uzmanlardan Falkland Adaları'nın ilginç ve tartışmalı geçmişi hakkında bilgi edinin. Şehir yakınlarında, güney dev petrelleri, Falkland buharlı ördekleri, yosun martıları, yunus martıları, siyah tepe gece balıkçılları, kırmızı sırtlı şahinler, peregrin şahinler ve akbabalara rastlayabilirsiniz. Hava koşulları elverdiği takdirde, Falkland Adaları'nın ikinci en büyük adası olan Saunders Adası ve kumlu plajlar ile ince kayalık yüzeylere sahip dar bir yarımada olan The Neck'i keşfedebilirsiniz. 5. Günün öğleden sonrasında, sabah gezimizin ardından Falkland Adaları'na veda edin ve Güney Georgia'ya doğru yola çıkın."
       },
       {
         "dayNumber": 5,
-        "title": "Falkland Islands.",
+        "title": "Falkland Adaları.",
         "description": ""
       },
       {
         "dayNumber": 6,
-        "title": "At sea.",
-        "description": "From the outer decks, keep your eyes on the horizon for seabirds and other passing wildlife as we settle in for two days at sea on route to South Georgia. This remarkable destination offers many experiences, from fascinating history and geology to incredible wildlife encounters. While on board the cosy Ocean Nova, take part in engaging presentations led by your Expedition Team, designed to prepare you for the wonders that await you at South Georgia."
+        "title": "Denizde.",
+        "description": "Dış güvertelerden, Güney Georgia'ya doğru yola çıkarken deniz kuşları ve diğer geçici vahşi yaşam için ufka gözlerinizi dikin. Bu olağanüstü destinasyon, ilginç tarih ve jeoloji ile muhteşem vahşi yaşam karşılaşmaları sunar. Sıcak Ocean Nova'da, Keşif Ekibiniz tarafından sunulan ilgi çekici sunumlara katılın; bu sunumlar, Güney Georgia'da sizi bekleyen harikalar için hazırlık yapmanıza yardımcı olacaktır."
       },
       {
         "dayNumber": 7,
-        "title": "At Sea.",
+        "title": "Denizde.",
         "description": ""
       },
       {
         "dayNumber": 8,
-        "title": "South Georgia.",
-        "description": "Over the next few days, you’ll explore the island of South Georgia, once the homestead of whalers and isolated explorers, and now a protected site with dedicated Antarctic research teams. You’ll explore various landing sites and learn about the history of Sir Ernest Shackleton, known for his incredible survival during a failed expedition south. You’ll spend several days retracing some of Shackleton’s steps and visiting his grave at the ex-whaling station of Grytviken, located on the east side. Wander among hundreds of thousands of king penguins in the dramatic South Georgian light, visit old whaling stations and enjoy educational presentations on the past and present of the area. Across the island, you’ll see dark volcanic beaches backgrounded by hanging glaciers and have the chance to go on day hikes among alpine lakes."
+        "title": "Güney Georgia.",
+        "description": "Önümüzdeki birkaç gün boyunca, bir zamanlar balina avcılarının ve izole olmuş kaşiflerin evi olan Güney Georgia adasını keşfedeceksiniz; şimdi ise Antarktika araştırma ekipleri tarafından korunan bir alan. Çeşitli iniş noktalarını keşfedecek ve başarısız bir güney keşfi sırasında olağanüstü hayatta kalma hikayesiyle tanınan Sir Ernest Shackleton'ın tarihini öğreneceksiniz. Shackleton'ın bazı adımlarını takip ederek birkaç gün geçirecek ve doğu tarafında bulunan eski balina istasyonu Grytviken'deki mezarını ziyaret edeceksiniz. Dramatic Güney Georgia ışığında yüz binlerce kral penguenin arasında dolaşın, eski balina istasyonlarını ziyaret edin ve bölgenin geçmişi ve bugünü hakkında eğitim sunumlarının tadını çıkarın. Adanın dört bir yanında, asılı buzulların arka planında karanlık volkanik plajlar görecek ve alpin göllerinin arasında gün yürüyüşleri yapma şansına sahip olacaksınız."
       },
       {
         "dayNumber": 9,
-        "title": "South Georgia.",
+        "title": "Güney Georgia.",
         "description": ""
       },
       {
         "dayNumber": 10,
-        "title": "South Georgia.",
+        "title": "Güney Georgia.",
         "description": ""
       },
       {
         "dayNumber": 11,
-        "title": "South Georgia.",
+        "title": "Güney Georgia.",
         "description": ""
       },
       {
         "dayNumber": 12,
-        "title": "At Sea.",
-        "description": "During your next couple of days at sea, experience sweeping vistas from the Panorama Lounge or the outer decks. You should take this opportunity to relax and recharge or play games of cards at the bar with your shipmates. Whatever takes your fancy – the ship is yours to explore!"
+        "title": "Denizde.",
+        "description": "Sonraki birkaç gün denizde, Panorama Lounge veya dış güvertelerden geniş manzaraların tadını çıkarın. Bu fırsatı değerlendirin, dinlenin ve yeniden enerji toplayın veya gemi arkadaşlarınızla barın içinde kart oyunları oynayın. Ne isterseniz – gemi sizin keşfetmeniz için!"
       },
       {
         "dayNumber": 13,
-        "title": "At Sea.",
+        "title": "Denizde.",
         "description": ""
       },
       {
         "dayNumber": 14,
-        "title": "South Shetland Islands & Antarctic Peninsula.",
-        "description": "Today, you’ll voyage south towards continental Antarctica. For the next five days, you’ll dedicate your time to searching for wildlife from land, ship and Zodiac. Weather permitting, you can look forward to at least two excursions each day, offering plenty of chances to immerse yourself in the stunning Antarctic landscape. With numerous landing sites to explore, your Expedition Team will carefully select the best options based on weather, accessibility and wildlife activity. Depending on the conditions, you may also have the chance to enhance your journey with optional adventures like camping on the ice (a serene and silent experience like no other) or kayaking across icy waters. You’ll also have the opportunity to take a polar plunge off the Ocean Nova – a swift dip into Antarctica’s freezing waters that’s sure to leave you feeling refreshed and revitalised!"
+        "title": "Güney Shetland Adaları ve Antarktika Yarımadası.",
+        "description": "Bugün, kıtasal Antarktika'ya doğru yola çıkacaksınız. Önümüzdeki beş gün boyunca, karadan, gemiden ve Zodiac'tan vahşi yaşam arayışına kendinizi adamanız gerekecek. Hava koşulları elverdiği takdirde, her gün en az iki keşif gezisi yapmayı bekleyebilirsiniz; bu da muhteşem Antarktika manzarasına dalmak için bolca fırsat sunar. Keşif Ekibiniz, hava durumu, erişilebilirlik ve vahşi yaşam aktivitesine göre en iyi iniş noktalarını dikkatlice seçecektir. Koşullara bağlı olarak, bu yolculuğunuzu isteğe bağlı maceralarla zenginleştirme şansına sahip olabilirsiniz; bu, buzda kamp yapmak (başka hiçbir deneyimle karşılaştırılamayacak huzurlu ve sessiz bir deneyim) veya buzlu sularda kano sürmek gibi. Ayrıca Ocean Nova'dan Antarktika'nın dondurucu sularına hızlı bir dalış yapma fırsatınız olacak – bu, sizi taze ve yenilenmiş hissettirecek!"
       },
       {
         "dayNumber": 15,
-        "title": "South Shetland Islands and Antarctic Peninsula.",
+        "title": "Güney Shetland Adaları ve Antarktika Yarımadası.",
         "description": ""
       },
       {
         "dayNumber": 16,
-        "title": "South Shetland Islands and Antarctic Peninsula.",
+        "title": "Güney Shetland Adaları ve Antarktika Yarımadası.",
         "description": ""
       },
       {
         "dayNumber": 17,
-        "title": "South Shetland Islands and Antarctic Peninsula.",
+        "title": "Güney Shetland Adaları ve Antarktika Yarımadası.",
         "description": ""
       },
       {
         "dayNumber": 18,
-        "title": "South Shetland Islands and Antarctic Peninsula.",
+        "title": "Güney Shetland Adaları ve Antarktika Yarımadası.",
         "description": ""
       },
       {
         "dayNumber": 19,
-        "title": "Antarctic Circle.",
-        "description": "Venturing to the ends of the earth is a moment to treasure, as not all expeditions venture this far south. If weather permits, a celebration will be held after reaching latitude 66°33’S and crossing the fabled Antarctic Circle. Toast to the sheer rawness of the surroundings and take it all in! While not a typical landing, the crossing of the Antarctic Circle leaves a lasting memory. You’ll travel past colossal icebergs to a point where only a few travellers have ever sailed."
+        "title": "Antarktika Dairesi.",
+        "description": "Dünyanın uç noktalarına gitmek, her keşif gezisinin bu kadar güneyde gitmediği bir anı değerindedir. Hava koşulları elverdiği takdirde, 66°33'S enlemine ulaştıktan ve efsanevi Antarktika Dairesi'ni geçtikten sonra bir kutlama yapılacaktır. Etrafınızdaki saf doğaya kadeh kaldırın ve her şeyi içinize çekin! Tipik bir iniş olmasa da, Antarktika Dairesi'ni geçmek kalıcı bir anı bırakır. Sadece birkaç gezginin yelken açtığı bir noktaya, devasa buzdağlarının yanından geçerek seyahat edeceksiniz."
       },
       {
         "dayNumber": 20,
-        "title": "Antarctic Circle.",
+        "title": "Antarktika Dairesi.",
         "description": ""
       },
       {
         "dayNumber": 21,
-        "title": "South Shetland Islands and Antarctic Peninsula.",
-        "description": "As the Ocean Nova heads north, you’ll feel more confident navigating the wonders of the Antarctic waters. Test your newfound penguin expertise and sharpen your wildlife-spotting skills as you identify fur, leopard and Weddell seals. Zodiac cruises and shore landings will continue, offering ample opportunities to see the peninsula’s diverse wildlife and capture stunning photographs of your adventure."
+        "title": "Güney Shetland Adaları ve Antarktika Yarımadası.",
+        "description": "Ocean Nova kuzeye doğru ilerlerken, Antarktika sularının harikalarını keşfetme konusunda daha fazla güven kazanacaksınız. Yeni öğrendiğiniz penguen uzmanlığınızı test edin ve kürk, leopar ve Weddell foklarını tanımlarken vahşi yaşam gözlem becerilerinizi geliştirin. Zodiac gezileri ve kıyı inişleri devam edecek, bu da yarımadanın çeşitli vahşi yaşamını görme ve maceranızı muhteşem fotoğraflarla yakalama fırsatları sunacaktır."
       },
       {
         "dayNumber": 22,
-        "title": "At sea, Drake Passage.",
-        "description": "Settle back into your comfortable surroundings aboard the Ocean Nova for the return journey across the Drake Passage. The Ocean Nova will track north towards your destination of Ushuaia, Argentina, arriving into the calmer waters of the Beagle Channel by the evening of Day 23. During these final sea days, you can attend more onboard lectures and enjoy a slideshow of images captured by our Expedition Photographer during your voyage. Now is also the chance to catch up with your shipmates and share stories about your voyage over a meal or a drink at the bar."
+        "title": "Denizde, Drake Geçidi.",
+        "description": "Ocean Nova'da rahat bir ortamda geri dönüş yolculuğunuz için yerleşin. Ocean Nova, Ushuaia, Arjantin'e doğru kuzeye doğru ilerleyecek ve 23. Gün akşamında Beagle Kanalı'nın daha sakin sularına ulaşacaktır. Bu son deniz günlerinde, daha fazla gemi içi derslere katılabilir ve yolculuğunuz sırasında Keşif Fotoğrafçımız tarafından çekilen görüntülerin slayt gösterisini izleyebilirsiniz. Şimdi, gemi arkadaşlarınızla bir araya gelme ve yolculuğunuz hakkında bir yemek veya barın içinde bir içki eşliğinde hikayelerinizi paylaşma fırsatını değerlendirin."
       },
       {
         "dayNumber": 23,
-        "title": "At Sea.",
+        "title": "Denizde.",
         "description": ""
       },
       {
         "dayNumber": 24,
-        "title": "Disembarkation in Ushuaia, Argentina.",
-        "description": "After breakfast, say goodbye to the Ocean Nova, your Expedition Team and fellow travellers as you disembark in Ushuaia. A morning transfer to Ushuaia Airport or downtown is included."
+        "title": "Ushuaia, Arjantin'de Gemiden İniş.",
+        "description": "Kahvaltıdan sonra, Ushuaia'da Ocean Nova'ya, Keşif Ekibinize ve diğer yolculara veda edin. Ushuaia Havalimanı veya şehir merkezine sabah transferi dahildir."
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Falkland Islands",
+        "country": null
+      },
+      {
+        "name": "Stanley",
+        "country": "Falkland Islands"
+      },
+      {
+        "name": "South Georgia",
+        "country": null
+      },
+      {
+        "name": "Grytviken",
+        "country": "South Georgia"
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": null
+      },
+      {
+        "name": "Antarctica",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Falkland Islands",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Stanley",
+        "country": "Falkland Islands",
+        "lat": -51.674275,
+        "lng": -57.804029
+      },
+      {
+        "name": "South Georgia",
+        "country": "Antarctica",
+        "lat": -54.283307,
+        "lng": -36.495451
+      },
+      {
+        "name": "Grytviken",
+        "country": "South Georgia",
+        "lat": -54.284218,
+        "lng": -36.494513
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica",
+        "lat": 39.601887,
+        "lng": -82.945099
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "falklands-south-georgia-and-antarctica-cruise",
-    "tourName": "Falklands, South Georgia and Antarctica cruise",
-    "placesVisited": "Puerto Madryn, Argentina, Golfo Nuevo, Whale watching, Falkland Islands cruise, Magellanic and Gentoo penguins, South Georgia Island, Antarctic Convergence crossing, Prion Island, King penguin colonies, South Orkney Islands, Weddell Sea, Antarctic peninsula, Drake Passage",
-    "generalInfo": "This is an epic Antarctica cruise, taking in the Falkland Islands and South Georgia en route to the Antarctic Peninsula, on a three week expedition. You will experience some of the most extraordinary landscapes and wildlife watching opportunities – such as the Falkland Islands, which has a wonderful array of accessible wildlife, including sea lion colonies, elephant seals, five species of penguin and 200 species of birds. <br/><br/>Crossing between the Falklands and South Georgia through the famous Antarctic Convergence, we keep an eye out for whales and also myriad birdlife, including albatrosses. There are more wildlife wonders on South Georgia Island, where a dramatic 3,000m mountain ridge is the source of glaciers that tumble down to sheltered bays. It's also home to king penguins and elephant seals; we take several days here to explore its wildlife delights. <br/><br/>The next stop at sea is the South Orkney Islands, home to a few researchers and a lot of penguins, fur seals and migratory whales, a magnificent sight with its glacier covered terrain and icebergs. Next stop is the most accessible part of the Antarctic, the eponymous Peninsula, which we cruise around for several days, the route depending on conditions at that time. But it’s all extraordinary, really, seeing icebergs up close, gaping in awe at towering frozen mountains, watching ice floes and with wildlife including leopard seals and whales. And, of course, the highlight for many is setting foot on one of the last great wildernesses on earth.<br/><br/>This itinerary uses one of three expedition ships with ice-strengthened hulls with a variety of twin, triple and quadruple cabins, with 106-174 passengers sleeping in a selection of suites and cabins with windows or portholes and either private or shared facilities. Dining rooms, lecture areas, bars and observation lounges can all be found onboard with plenty of deck space as well as an open-bridge policy. <br/><br/>A shorter 19-day itinerary that spends one day less in Antarctica is also available.",
+    "tourName": "Falkland Adaları, Güney Georgia ve Antarktika kruvaziyeri",
+    "placesVisited": "Puerto Madryn, Arjantin, Golfo Nuevo, Balina gözlemi, Falkland Adaları kruvaziyeri, Magellan ve Gentoo penguenleri, Güney Georgia Adası, Antarktik Konverjans geçişi, Prion Adası, Kral penguen kolonileri, Güney Orkney Adaları, Weddell Denizi, Antarktika yarımadası, Drake Geçidi",
+    "generalInfo": "Bu, Falkland Adaları ve Güney Georgia'yı kapsayan, Antarktika Yarımadası'na giden üç haftalık bir keşif gezisi olan epik bir Antarktika kruvaziyeridir. Falkland Adaları gibi, deniz aslanı kolonileri, fil fokları, beş penguen türü ve 200 kuş türü dahil olmak üzere harika bir erişilebilir yaban hayatı yelpazesine sahip olan bazı olağanüstü manzaralar ve yaban hayatı gözlem fırsatları yaşayacaksınız. <br/><br/>Falkland Adaları ile Güney Georgia arasında ünlü Antarktik Konverjans'dan geçerken, balinaları ve albatroslar dahil olmak üzere çok sayıda kuş yaşamını gözlemlemek için dikkatli olacağız. Güney Georgia Adası'nda daha fazla yaban hayatı harikası var; burada dramatik 3,000m dağ sırası, korunaklı koylara düşen buzullara kaynaklık ediyor. Ayrıca burada kral penguenleri ve fil fokları da yaşıyor; yaban hayatı zenginliklerini keşfetmek için burada birkaç gün geçireceğiz. <br/><br/>Denizdeki bir sonraki durak Güney Orkney Adaları, birkaç araştırmacının ve çok sayıda penguen, kürk fokları ve göçmen balinaların evi; bu, buzul kaplı arazisi ve buzdağları ile muhteşem bir manzara sunuyor. Bir sonraki durak, Antarktika'nın en erişilebilir kısmı olan eponim Yarımada; burada birkaç gün boyunca, o zamanki koşullara bağlı olarak rotamız değişecek. Ama gerçekten olağanüstü, buzdağlarını yakından görmek, yükselen donmuş dağlara hayran kalmak, buz tabakalarını izlemek ve leopar fokları ve balinalar gibi yaban hayatını gözlemlemek. Ve elbette, birçok kişi için en önemli an, dünyanın son büyük vahşi doğalarından birine adım atmak. <br/><br/>Bu güzergah, 106-174 yolcunun pencereli veya porthole'lu süitler ve kabinlerde uyuyabileceği, çeşitli ikiz, üçlü ve dörtlü kabinlere sahip, buz güçlendirilmiş gövdelere sahip üç keşif gemisinden birini kullanmaktadır. Yemek odaları, konferans alanları, barlar ve gözlem salonları gemide bulunmakta ve bol miktarda güverte alanı ile açık köprü politikası mevcuttur. <br/><br/>Antarktika'da bir gün daha az geçiren daha kısa 19 günlük bir güzergah da mevcuttur.",
     "durationDays": "20",
     "price": "16000",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -541,74 +1337,149 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Ushuaia : Your fantastic Antarctica, Falklands and South Georgia expedition will begin in Ushuaia, Argentina, where after having arrived independently you will embark your ship in the afternoon. As you settle in to your cabin, your ship will sail through the scenic waterway of the Beagle Channel and turn northwards towards the Falklands. You may want to spend some time on deck capturing the sight of the city fading into distance behind you and looking out for the seabirds that follow the ship."
+        "description": "Ushuaia : Harika Antarktika, Falkland Adaları ve Güney Georgia keşif geziniz, Arjantin'in Ushuaia şehrinde başlayacak. Bağımsız olarak geldikten sonra, öğleden sonra geminize bineceksiniz. Kabinize yerleşirken, geminiz Beagle Kanalı'nın manzaralı suyolu boyunca yelken açacak ve Falkland Adaları'na doğru kuzeye dönecek. Şehir manzarasının arkanızda kaybolmasını izlemek ve gemiyi takip eden deniz kuşlarını gözlemlemek için güvertede biraz zaman geçirmek isteyebilirsiniz."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "At sea: As we make the short sea crossing towards the Falkland Islands your programme of informative and entertaining lectures and presentations will begin, covering everything from the geology and wildlife you are about to discover to the history of Antarctic exploration. There will also be safety and bio-environmental briefings in preparation for your time in the Falklands. We recommend spending some time on deck to spot the several species of albatross which will likely be following the ship along with storm petrels, shearwaters, and diving petrels."
+        "description": "Denizde: Falkland Adaları'na doğru kısa bir deniz geçişi yaparken, keşfedeceğiniz jeoloji ve yaban hayatından Antarktika keşif tarihine kadar her şeyi kapsayan bilgilendirici ve eğlenceli konferanslar ve sunumlar programınız başlayacak. Falkland Adaları'ndaki zamanınıza hazırlık olarak güvenlik ve biyolojik çevre bilgilendirmeleri de yapılacaktır. Gemiyi takip eden birkaç albatros türünü, fırtına kuşlarını, deniz kuşlarını ve dalış kuşlarını gözlemlemek için güvertede biraz zaman geçirmenizi öneririz."
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "Falkland Islands: As we arrive in the Falkland Islands, we plan to spend the day on the fascinating western side of the archipelago. The exceptionally scenic Falklands offer an abundance of wildlife and have an intriguing history. Our first adventure will be a hike along the shore of Carcass Island which will give us views of magellanic and gentoo penguins, as well as close encounters with elephant seals, water fowl, night herons and passerines. Later we will visit Saunders Island to to observe four species of breeding penguins - gentoo, king, Magellanic and rockhopper,as well as black-browed albatross and king cormorants."
+        "description": "Falkland Adaları: Falkland Adaları'na vardığımızda, takımadaların büyüleyici batı tarafında bir gün geçirmeyi planlıyoruz. Son derece manzaralı Falkland Adaları, bol miktarda yaban hayatı sunmakta ve ilginç bir tarihe sahiptir. İlk maceramız, Carcass Adası'nın kıyısında bir yürüyüş olacak; burada Magellan ve Gentoo penguenlerini görecek, fil fokları, su kuşları, gece balıkçılları ve ötücü kuşlarla yakın karşılaşmalar yaşayacağız. Daha sonra, Gentoo, kral, Magellan ve kayalık penguenleri gibi dört üreyen penguen türünü gözlemlemek için Saunders Adası'nı ziyaret edeceğiz; ayrıca siyah kaşlı albatros ve kral kormoranları da göreceğiz."
       },
       {
         "dayNumber": 4,
         "title": "",
-        "description": "Stanley, Falkland Islands: In Stanley, the capital of the Falklands, we can experience Falkland culture, which has some South American characteristics as well as English charm. In Stanley and the surrounding area we can see a number of stranded wrecks from a century ago and geese, giant petrels and other birds. All passengers are free to wander around on their own. We recommend a visit to the local museum (admission fees not included) and perhaps a drink in one of the charming pubs."
+        "description": "Stanley, Falkland Adaları: Falkland Adaları'nın başkenti Stanley'de, Güney Amerika'nın bazı özelliklerini ve İngiliz cazibesini barındıran Falkland kültürünü deneyimleyebiliriz. Stanley ve çevresinde, bir yüzyıl önceki birçok karaya oturmuş enkaza ve kazlara, dev petrelere ve diğer kuşlara rastlayabiliriz. Tüm yolcular kendi başlarına dolaşmakta serbesttir. Yerel müzeyi ziyaret etmenizi (giriş ücretleri dahil değildir) ve belki de şirin bir pubda bir içki içmenizi öneririz."
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "At sea: As we sail from the Falklands towards South Georgia we will cross the Antarctic Convergence and the temperatures will become considerably cooler. As we spend these 2 days at sea there will be excellent opportunities for bird spotting on deck with likely sightings of several species of albatross, shearwaters, petrels, prions, and skuas. The informative and entertaining lecture programme will also continue as well as briefings for your time on South Georgia."
+        "description": "Denizde: Falkland Adaları'ndan Güney Georgia'ya doğru yelken açarken, Antarktik Konverjans'ı geçeceğiz ve sıcaklıklar önemli ölçüde düşecektir. Bu 2 günü denizde geçirirken, güvertede kuş gözlemi için mükemmel fırsatlar olacak; birçok albatros, deniz kuşu, petrel, prion ve skua türünü görebiliriz. Bilgilendirici ve eğlenceli konferans programı da devam edecek ve Güney Georgia'daki zamanınız için bilgilendirmeler yapılacaktır."
       },
       {
         "dayNumber": 7,
         "title": "",
-        "description": "South Georgia: On day 7 we will arrive in the wildlife paradise of South Georgia, a remote and exceptionally scenic island that is home to millions of penguins and other birdlife and wildlife. Over the next few days we will explore the eastern coast of the island searching for wildlife, scenic opportunities and visiting sites of historical interest. Places we expect to visit include Prion Island which is closed to visitors during the early part of the wandering albatross breeding season (November 20 – January 7). As we will be in the area in mid-January the breeding adults will have found their partners and are sitting on eggs or nursing their chicks. We will be able to witness the gentle nature of these animals, which possess the largest wingspan of any birds in the world. We will also visit Fortuna Bay where a hive of wildlife activity will greet us on the beaches. You will see various penguins and seals as well as having the chance to follow the final leg of Shackleton’s route to the abandoned whaling village of Stromness. Later we will visit the areas of Salisbury Plain, St. Andrews Bay and Gold Harbour to see the three largest king penguin colonies in South Georgia. These areas are also home to three of the world’s largest breeding beaches for southern elephant seals, and you may also see a substantial number of Antarctic fur seals here during the breeding season (December – January). During our time here we will also have chance to visit the abandoned whaling station of Grytkiven where king penguins walk the streets and elephant seals are in abundance. We hope to have chance to see the South Georgia Museum as well as visiting Shackleton’s grave to pay our respects at the final resting place of one of Antarctica’s most well-known explorers."
+        "description": "Güney Georgia: 7. günde, milyonlarca penguen ve diğer kuş yaşamı ile yaban hayatı barındıran, uzak ve son derece manzaralı Güney Georgia'nın yaban hayatı cennetine varacağız. Önümüzdeki birkaç gün boyunca, yaban hayatı, manzaralı fırsatlar arayarak ve tarihi ilgi alanlarını ziyaret ederek adanın doğu kıyısını keşfedeceğiz. Ziyaret etmeyi beklediğimiz yerler arasında, gezgin albatros üreme sezonunun erken döneminde (20 Kasım - 7 Ocak) ziyaretçilere kapalı olan Prion Adası bulunmaktadır. Ocak ortasında bu bölgede olacağımız için, üreme dönemindeki yetişkinler partnerlerini bulmuş ve yumurtaların üzerinde oturmakta veya yavrularını beslemektedir. Bu hayvanların, dünyadaki en büyük kanat açıklığına sahip olan nazik doğasını gözlemleme şansımız olacak. Ayrıca, plajlarda yaban hayatı aktivitesinin yoğun olduğu Fortuna Koyu'nu ziyaret edeceğiz. Çeşitli penguenler ve foklar göreceksiniz ve Shackleton'ın terkedilmiş balina köyü Stromness'e giden son etabı takip etme şansınız olacak. Daha sonra Salisbury Düzlüğü, St. Andrews Koyu ve Gold Harbour bölgelerini ziyaret ederek Güney Georgia'daki üç en büyük kral penguen kolonisini göreceğiz. Bu bölgeler, güney fil fokları için dünyanın en büyük üreme plajlarına da ev sahipliği yapmaktadır ve üreme sezonunda (Aralık - Ocak) burada önemli sayıda Antarktika kürk fokunu da görebilirsiniz. Burada geçirdiğimiz süre boyunca, kral penguenlerinin sokaklarda yürüdüğü ve fil foklarının bolca bulunduğu terkedilmiş Grytkiven balina istasyonunu ziyaret etme şansımız da olacak. Ayrıca Güney Georgia Müzesi'ni ziyaret etme ve Antarktika'nın en tanınmış kaşiflerinden birinin son dinlenme yeri olan Shackleton'ın mezarına saygılarını sunma fırsatımız olmasını umuyoruz."
       },
       {
         "dayNumber": 11,
         "title": "",
-        "description": "At sea: As we leave South Georgia behind and sail south towards Antarctica your ship will again be followed by a multitude of seabirds so make sure to spend some time on deck for excellent photo opportunities. On our sail we may encounter some sea ice, and it is at the ice-edge where we would have a chance to see some high-Antarctic species like the McCormick skua and snow petrel. Onboard briefings will be held to prepare you for your time on the Antarctic continent and your programme of lectures and talks will continue."
+        "description": "Denizde: Güney Georgia'yı geride bırakıp Antarktika'ya doğru yelken açarken, geminiz yine çok sayıda deniz kuşu tarafından takip edilecektir; bu nedenle mükemmel fotoğraf fırsatları için güvertede biraz zaman geçirmenizi öneririz. Yelkenimiz sırasında bazı deniz buzuluna rastlayabiliriz ve buzul kenarında, McCormick skuası ve kar petreli gibi yüksek Antarktika türlerini görme şansımız olacaktır. Antarktika kıtasındaki zamanınıza hazırlık olarak gemide bilgilendirmeler yapılacak ve konferans ve konuşma programınız devam edecektir."
       },
       {
         "dayNumber": 12,
         "title": "",
-        "description": "South Orkney Islands: Before reaching the Peninsula we may stop, ice conditions dependent, on Laurie Island in the South Orkney archipelago to visit Orcadas Base, an Argentine scientific station. The personnel here will happily show you their facility, where you can enjoy expansive views of the surrounding glaciers. If a visit isn’t possible, we may instead land in Signy Island’s Shingle Cove."
+        "description": "Güney Orkney Adaları: Yarımadaya ulaşmadan önce, buz koşullarına bağlı olarak, Güney Orkney takımadalarındaki Laurie Adası'nda, Arjantin bilim istasyonu Orcadas Üssü'nü ziyaret etmek için durabiliriz. Buradaki personel, çevredeki buzullara geniş manzaralar sunan tesislerini size göstermekten mutluluk duyacaktır. Eğer bir ziyaret mümkün değilse, bunun yerine Signy Adası'nın Shingle Cove'unda karaya çıkabiliriz."
       },
       {
         "dayNumber": 13,
         "title": "",
-        "description": "At sea: SAs we make our last push towards Antarctica keep an eye out on deck for the enormous icebergs of all shapes and sizes that will dot the landscape. There are also great chances of spotting Antarctic petrels and fin whales. Next stop Antarctica!"
+        "description": "Denizde: Antarktika'ya doğru son itişimizi yaparken, güvertede her şekil ve boyutta dev buzdağlarını gözlemlemek için dikkatli olun. Antarktika petreleri ve fin balinalarını gözlemleme şansınız da oldukça yüksektir. Bir sonraki durak Antarktika!"
       },
       {
         "dayNumber": 14,
         "title": "",
-        "description": "Antarctic Peninsula: Welcome to Antarctica, a land of superlatives! Enchanting scenery, unique wildlife encounters and thrilling adventures await as we spend our days exploring by Zodiac and on foot to get up close to the action. Your exact itinerary here will be determined by weather and ice conditions with your captain choosing each day which areas to visit for optimum experiences. We plan to sail into the Weddell Sea where colossal tabular icebergs herald your arrival to the eastern side of the Antarctic Peninsula. Our first possible stops will be Paulet Island which is home to large population of Adélie penguins, and Brown Bluff in the ice-clogged Antarctic Sound which may offer our first chance to step foot on the Antarctic Continent itself. If sea conditions don’t allow for entry to the Weddell Sea from the east we will instead set course for Elephant Island and head into the Bransfield Strait in an attempt to enter the Antarctic Sound from the northwest. After an exploration of the Sound we will sail along the Peninsula where there will be opportunities for great landings in an epic landscape of alpine peaks and mammoth glaciers calving at sea level. Gentoo penguins, leopard seals, Weddell seals, humpback whales, and minke whales are often seen here. We continue to sail through the breathtaking scenery of the southern Gerlache Strait stopping to explore at select points along the Peninsula. If ice conditions allow, we may even reach the Lemaire Channel."
+        "description": "Antarktika Yarımadası: Antarktika'ya hoş geldiniz, bir süperlatifler diyarı! Büyüleyici manzaralar, benzersiz yaban hayatı karşılaşmaları ve heyecan verici maceralar, Zodyak ile ve yürüyerek keşfederken sizi bekliyor. Buradaki kesin güzergahınız hava ve buz koşullarına bağlı olarak belirlenecek; kaptanınız her gün optimum deneyimler için hangi alanları ziyaret edeceğine karar verecek. Weddell Denizi'ne yelken açmayı planlıyoruz; burada dev tabular buzdağları, Antarktika Yarımadası'nın doğu tarafına varışınızı müjdeleyecek. İlk olası duraklarımız, büyük bir Adélie penguen nüfusuna ev sahipliği yapan Paulet Adası ve Antarktik Ses'teki buzlarla kaplı Brown Bluff olacaktır; bu, Antarktika Kıtasına adım atma şansımızı sunabilir. Eğer deniz koşulları, Weddell Denizi'ne doğudan girişe izin vermezse, Elephant Adası'na yönelip Bransfield Boğazı'na gireceğiz; böylece Antarktik Ses'e kuzeybatıdan girmeye çalışacağız. Sesin keşfi sonrasında, alpin zirvelerinin ve deniz seviyesinde buzul koparan dev buzul manzarasında harika karaya çıkma fırsatları olacak şekilde Yarımada boyunca yelken açmaya devam edeceğiz. Gentoo penguenleri, leopar fokları, Weddell fokları, kambur balinalar ve minke balinaları burada sıkça görülmektedir. Yarımada boyunca seçilen noktalarda keşif yapmak için durarak, Güney Gerlache Boğazı'nın nefes kesici manzaralarından geçmeye devam edeceğiz. Eğer buz koşulları izin verirse, Lemaire Kanalı'na bile ulaşabiliriz."
       },
       {
         "dayNumber": 18,
         "title": "",
-        "description": "At sea: As our exhilarating expedition comes to end it’s time to head back north through the Drake Passage where again the ship will be followed by a vast array of seabirds. Enjoy the last presentations from your team of noted naturalists and take the time to dissolve all of the unforgettable memories you will have made on your once in a lifetime expediton."
+        "description": "Denizde: Heyecan verici keşif gezimizin sonuna yaklaşırken, Drake Geçidi'nden kuzeye doğru yelken açma zamanı geldi; burada gemi yine çok sayıda deniz kuşu tarafından takip edilecektir. Tanınmış doğa bilimcilerinizden son sunumların tadını çıkarın ve bir ömür boyu sürecek bu unutulmaz anıları sindirmek için zaman ayırın."
       },
       {
         "dayNumber": 20,
         "title": "",
-        "description": "Ushuaia: As we sail back through the scenic Beagle Channel and arrive in Ushuaia in the early morning it’s sadly time to say goodbye to your crew and fellow shipmates. After breakfast you will disembark and a group transfer will be provided to the airport for onward or homeward journeys"
+        "description": "Ushuaia: Manzaralı Beagle Kanalı'ndan geri dönerken, sabah erken saatlerde Ushuaia'ya vardığımızda, mürettebatınıza ve diğer yolcularınıza veda etme zamanı geldi. Kahvaltıdan sonra, gemiden inecek ve havaalanına gidecek grup transferi sağlanacaktır."
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Falkland Islands",
+        "country": null
+      },
+      {
+        "name": "Stanley",
+        "country": "Falkland Islands"
+      },
+      {
+        "name": "South Georgia",
+        "country": null
+      },
+      {
+        "name": "South Orkney Islands",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Falkland Islands",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Stanley",
+        "country": "Falkland Islands",
+        "lat": -51.674275,
+        "lng": -57.804029
+      },
+      {
+        "name": "South Georgia",
+        "country": "Antarctica",
+        "lat": -54.283307,
+        "lng": -36.495451
+      },
+      {
+        "name": "South Orkney Islands",
+        "country": "Antarctica",
+        "lat": 58.685556,
+        "lng": -3.116667
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "luxury-antarctica-cruise",
-    "tourName": "Luxury Antarctica cruise",
-    "placesVisited": "Drake Passage, Antarctic Peninsula, Whale watching, Options to see following: Aitcho Islands, South Shetland Islands, Brown Bluff , Tabarin Peninsula, Cuverville Island, Paradise Bay, Paulet Island, Wilhelm Archipelago, Expert expedition team",
-    "generalInfo": "This Antarctica cruise is, on average, eleven days long and starts with a couple of days’ crossing of Drake Passage, our expedition ships well able to take on the ups and downs of this notoriously rough channel. When you come through it, however, you will see that the rewards are huge, and considered by many to be the modern explorer’s final frontier. <br/><br/>As well as the magnificent sea birds, including albatrosses and whales that you will hopefully see on Drake’s Passage, you will witness some of the most amazing midnight sunsets.  Then once we get to the Antarctic Peninsula you have a world of icebergs, glaciers, towering ice cliffs and ice floes that never fail to amaze. Same goes for the wildlife that inhabits these mammoth land and seascapes, including minke, humpback and orca whales, penguins and seals. We have Zodiac boats on board our expedition ship for various excursions closer to land or indeed on land, where you will be accompanied by our expert expedition team. Anchorage points depend on conditions on the day, but It doesn’t really matter where, be it the South Shetland Islands or Paradise Bay, it is all extraordinary. <br/><br/>Our vessels<br/><br/>We use a selection of purpose built expedition ships, with strengthened hulls and Lloyd’s Register ice class notation for ease of passage through these frozen waters. Most sleep around a hundred passengers but cabin facilities vary, so do talk to us more about the ship that is scheduled for the date you hope to travel. <br/>",
+    "tourName": "Lüks Antarktika Kruvaziyeri",
+    "placesVisited": "Drake Geçidi, Antarktika Yarımadası, Balina gözlemi, Aşağıdakileri görme seçenekleri: Aitcho Adaları, Güney Shetland Adaları, Brown Bluff, Tabarin Yarımadası, Cuverville Adası, Cennet Koyu, Paulet Adası, Wilhelm Takımadaları, Uzman keşif ekibi",
+    "generalInfo": "Bu Antarktika kruvaziyeri ortalama on bir gün sürmektedir ve Drake Geçidi'nden birkaç gün süren bir geçişle başlamaktadır; keşif gemilerimiz bu ünlü zorlu kanalda karşılaşılacak dalgalara karşı oldukça dayanıklıdır. Ancak buradan geçtiğinizde, ödüllerin büyük olduğunu göreceksiniz ve birçok kişi tarafından modern kaşifin son sınırı olarak kabul edilmektedir. <br/><br/>Drake Geçidi'nde umarız göreceğiniz muhteşem deniz kuşları, albatroslar ve balinaların yanı sıra, en muhteşem gece güneş batımlarına tanıklık edeceksiniz. Antarktika Yarımadası'na ulaştığımızda ise, sizi asla hayal kırıklığına uğratmayan buzdağları, buzullar, yükselen buz kayalıkları ve buz tabakaları dünyası bekliyor. Bu devasa kara ve deniz manzaralarını paylaşan yaban hayatı da aynı şekilde etkileyici; minke, kambur ve orka balinaları, penguenler ve foklar burada yaşamaktadır. Keşif gemimizde, karaya daha yakın veya karada çeşitli geziler için Zodiac botlarımız bulunmaktadır ve bu gezilerde uzman keşif ekibimiz size eşlik edecektir. İniş noktaları günün koşullarına bağlıdır, ancak nerede olursa olsun, ister Güney Shetland Adaları ister Cennet Koyu olsun, hepsi olağanüstüdür. <br/><br/>Gemilerimiz<br/><br/>Buzlu sularda geçişi kolaylaştırmak için güçlendirilmiş gövdelere ve Lloyd's Register buz sınıfı notasyonuna sahip özel yapım keşif gemileri kullanıyoruz. Çoğu gemide yaklaşık yüz yolcu konaklayabilmektedir, ancak kabin olanakları değişiklik göstermektedir, bu nedenle seyahat etmeyi umduğunuz tarihte planlanan gemi hakkında daha fazla bilgi almak için bizimle iletişime geçin. <br/>",
     "durationDays": "12",
     "price": "11319",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -627,44 +1498,209 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "BUENOS AIRES. Meet and greet at the hotel by our local representative. Check-in from late morning. Lunch on your own and time at leisure in the afternoon. Dinner. Overnight at the hotel."
+        "description": "BUENOS AIRES. Yerel temsilcimiz tarafından otelde karşılanma. Geç öğle saatlerinde giriş. Öğle yemeği serbest, öğleden sonra serbest zaman. Akşam yemeği. Otelde konaklama."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "USHUAIA. Flight Buenos Aires/Ushuaia. Capital of Argentina's Tierra del Fuego province, Ushuaia is considered the gateway to the “Great White“ and the South Pole. Nicknamed “El fin del mundo” by the Argentinian people, this city at the end of the world nestles in the shelter of mountains surrounded by fertile plains that the wildlife seem to have chosen as the ultimate sanctuary. With its exceptional site, where the Andes plunge straight into the sea, Ushuaia is one of the most fascinating places on earth, its very name evocative of journeys to the unlikely and the inaccessible…"
+        "description": "USHUAIA. Uçuş Buenos Aires/Ushuaia. Arjantin'in Tierra del Fuego eyaletinin başkenti olan Ushuaia, \"Büyük Beyaz\" ve Güney Kutbu'na giden kapı olarak kabul edilmektedir. Arjantinliler tarafından \"El fin del mundo\" (Dünyanın Ucu) olarak adlandırılan bu şehir, dünyanın sonundaki dağların korumasında, yaban hayatının en son sığınak olarak seçtiği verimli ovalarla çevrilidir. And Dağları'nın denize doğru daldığı bu olağanüstü konumuyla Ushuaia, dünyadaki en büyüleyici yerlerden biridir; ismi bile ulaşılması zor ve imkansız yolculukları çağrıştırmaktadır…"
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "CROSSING THE DRAKE PASSAGE Use your days spent in the Drake Passage to familiarise yourself with your ship and deepen your knowledge of the Antarctic. The Expedition Leader will first present the IAATO rules of conduct that must be observed during landings in the region and will explain everything you need to know about the Zodiac® outings. Lectures about the history and wildlife of the Antarctic will be an opportunity for you to learn more about this magical region, where every cruise is a unique experience. From the ship’s bridge, you will experience exceptional sailing moments before joining the naturalist-guides on your ship’s exterior decks to look out for albatrosses, cape petrels, and other seabirds flying over the Drake Passage."
+        "description": "DRAKE GEÇİDİ'NDEN GEÇİŞ Drake Geçidi'nde geçirdiğiniz günleri geminizle tanışmak ve Antarktika hakkında bilginizi derinleştirmek için kullanın. Keşif Lideri, bölgedeki inişler sırasında uyulması gereken IAATO davranış kurallarını sunacak ve Zodiac® gezileri hakkında bilmeniz gereken her şeyi açıklayacaktır. Antarktika'nın tarihi ve yaban hayatı hakkında yapılacak dersler, bu büyülü bölge hakkında daha fazla bilgi edinme fırsatı sunacak; her kruvaziyer benzersiz bir deneyimdir. Geminin köprüsünden, Drake Geçidi üzerinde uçan albatroslar, kaplan petrelleri ve diğer deniz kuşlarını gözlemlemek için geminizin dış güvertelerinde doğa rehberleriyle buluşmadan önce olağanüstü yelken anları yaşayacaksınız."
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "ANTARCTIC PENINSULA. To learn more about ecosystems, fauna and landscapes in Antarctic regions, go to the section “Discover Antarctica” of your cruise. Succumb to the magic of a place unlike any other. To this day, the mythical Antarctic Peninsula still holds real fascination and promises its visitors unforgettable moments. Throughout your adventure in this icy realm, you will find yourself in the heart of a spectacular decor in subtle shades of blue and white, surrounded by exceptional wildlife. Penguins, humpback whales, seals and giant petrels are at home here, as are elephant seals, fur seals, Antarctic minke whales, and orcas. Depending on which sites you will be lucky enough to visit, you may get the chance to observe them and share with them the beauty of these extreme parts. Each day, based on ice conditions, the Captain and the Expedition Leader will suggest Zodiac® outings or landings to discover the infinite riches of the Antarctic Peninsula. Glaciers, ice floe, tabletop icebergs, mountain peaks that plunge straight into the sea, volcanic beaches, research stations, enchanting bays, and vestiges of the whaling industry: these are the faces of the Antarctic that will likely reveal themselves to you, in a hushed and surreal atmosphere. You will sail in the wake of Jean-Baptiste Charcot, Adrien de Gerlache and Sir Ernest Shackleton, great Antarctic explorers who, from the 19th century, set out to conquer these remote and uninhabited lands."
+        "description": "ANTARKTİKA YARIMADASI. Antarktika bölgelerindeki ekosistemler, fauna ve manzaralar hakkında daha fazla bilgi edinmek için kruvaziyerinizin \"Antarktika'yı Keşfedin\" bölümüne gidin. Eşsiz bir yerin büyüsüne kapılın. Bugüne kadar, efsanevi Antarktika Yarımadası gerçek bir çekicilik taşımakta ve ziyaretçilerine unutulmaz anlar vaat etmektedir. Bu buzlu diyar boyunca, kendinizi mavi ve beyazın ince tonlarında muhteşem bir dekorun ortasında bulacaksınız; olağanüstü yaban hayatıyla çevrili olacaksınız. Penguenler, kambur balinalar, foklar ve dev petreller burada ev sahibidir; fil fokları, kürk fokları, Antarktika minke balinaları ve orkalara da ev sahipliği yapmaktadır. Ziyaret etme şansına sahip olacağınız yerler doğrultusunda, onları gözlemleme ve bu uç noktaların güzelliklerini paylaşma fırsatını bulabilirsiniz. Her gün, buz koşullarına bağlı olarak, Kaptan ve Keşif Lideri, Antarktika Yarımadası'nın sonsuz zenginliklerini keşfetmek için Zodiac® gezileri veya inişler önerecektir. Buzullar, buz tabakaları, masa buzulları, denize doğrudan dalan dağ zirveleri, volkanik plajlar, araştırma istasyonları, büyüleyici koylar ve balina avcılığı endüstrisinin kalıntıları: bunlar, muhtemelen size sessiz ve gerçeküstü bir atmosferde kendini gösterecek Antarktika'nın yüzleridir. Jean-Baptiste Charcot, Adrien de Gerlache ve Sir Ernest Shackleton gibi büyük Antarktika kaşiflerinin izinde yelken açacaksınız; bu kaşifler, 19. yüzyıldan itibaren bu ıssız ve yerleşimsiz toprakları fethetmek için yola çıktılar."
       },
       {
         "dayNumber": 10,
         "title": "",
-        "description": "CROSSING THE DRAKE PASSAGE. If there is one place, one sea, one waterway dreaded by tourists, researchers and hardened seafarers alike, it is undoubtedly Drake Passage. Situated at the latitude of the infamous Furious Fifties winds, between Cape Horn and the South Shetland Islands, it is the shortest route to Antarctica. Seasoned navigators will tell you that you must earn your visit to the White Continent! As the Antarctic convergence zone where cold currents rising up from the South Pole meet warmer equatorial water masses, Drake Passage harbours a very diverse marine fauna. Don't forget to look to the sky to catch a glimpse of elegant albatross and Cape petrels, playfully floating about in the wind around your ship."
+        "description": "DRAKE GEÇİDİ'NDEN GEÇİŞ. Turistlerin, araştırmacıların ve deneyimli denizcilerin korktuğu bir yer, bir deniz, bir su yolu varsa, o da kesinlikle Drake Geçidi'dir. Ünlü Kızgın Elli'ler rüzgarlarının enleminde, Cape Horn ile Güney Shetland Adaları arasında yer alan bu geçit, Antarktika'ya giden en kısa yoldur. Deneyimli denizciler, Beyaz Kıtanı'na ziyaretinizi kazanmanız gerektiğini söyler! Güney Kutbu'ndan yükselen soğuk akıntıların, daha sıcak ekvator su kütleleriyle buluştuğu Antarktika birleşim bölgesi olarak, Drake Geçidi çok çeşitli deniz faunası barındırmaktadır. Geminizin etrafında rüzgarla oynayan zarif albatros ve kap petrellerini görmek için gökyüzüne bakmayı unutmayın."
       },
       {
         "dayNumber": 12,
         "title": "",
-        "description": "USHUAIA. Disembarkation. Charter flight Ushuaia to Buenos Aires."
+        "description": "USHUAIA. İniş. Kiralık uçuş Ushuaia'dan Buenos Aires'e."
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": null
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": null
+      },
+      {
+        "name": "Aitcho Islands",
+        "country": null
+      },
+      {
+        "name": "Brown Bluff",
+        "country": null
+      },
+      {
+        "name": "Tabarin Peninsula",
+        "country": null
+      },
+      {
+        "name": "Cuverville Island",
+        "country": null
+      },
+      {
+        "name": "Paradise Bay",
+        "country": null
+      },
+      {
+        "name": "Paulet Island",
+        "country": null
+      },
+      {
+        "name": "Wilhelm Archipelago",
+        "country": null
+      },
+      {
+        "name": "Drake Passage",
+        "country": null
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina"
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Aitcho Islands",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Brown Bluff",
+        "country": "Antarctica",
+        "lat": -39.48474,
+        "lng": 176.91254
+      },
+      {
+        "name": "Tabarin Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Cuverville Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Paradise Bay",
+        "country": "Antarctica",
+        "lat": 47.33363,
+        "lng": -79.52962
+      },
+      {
+        "name": "Paulet Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Wilhelm Archipelago",
+        "country": "Antarctica",
+        "lat": 12.538634,
+        "lng": -81.715833
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Argentina",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.607568,
+        "lng": -58.437089
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "patagonia-and-classic-antarctic-cruise-holiday",
-    "tourName": "Patagonia and Classic Antarctic cruise holiday",
+    "tourName": "Patagonya ve Klasik Antarktika Kruvaziyeri Tatili",
     "placesVisited": "",
-    "generalInfo": "On this itinerary, you’ll have the trip of a lifetime in the incredible Torres del Paine National Park and jaw-dropping Chilean Antarctica. Over 15 days, you will have the chance to explore the sights of Santiago and enjoy a taste of the wine valleys before venturing down to the beautiful Patagonia. Here, you will have the chance to trek to to the world-famous Torres del Paine base, as well as other amazing activities in this beautiful national park.<br/><br/>In the final part of your trip, you'll be constantly amazed as you cruise around the Antarctic coast. Your sightseeing will include Antarctica’s fascinating wildlife like whales, penguins, seals and seabirds and you will take daily land excursions to catch all the best sights. This tour includes a flight over the Drake Passage, meaning you can maximise your time on the seventh continent and enjoy a more comfortable and pleasant journey to Antarctica. <br/><br/>Short Itinerary:<br/>Day 1: Airport - Santiago / Private City Tour.<br/>Day 2: Private Wine Tour in Colchagua Valley<br/>Day 3: Santiago - Punta Arenas - Torres del Paine <br/>Days 4-6: Torres del Paine National Park<br/>Day 7: Torres del Paine - Punta Arenas<br/>Day 8: King George Island and Frei Station<br/>Days 9–12: Explore Antarctica<br/>Day 13: Punta Arenas<br/>Day 14: Punta Arenas - Santiago<br/>Day 15: Departure from Santiago<br/><br/>Inlcuded: <br/>- 3 nights at Eco Boutique Hotel Bidasoa (or similar)<br/>- 3 nights at Patagonia Camp (or similar) <br/>- 2 nights at Hotel Cabo de Hornos (or similar) <br/>- 5 nights onboard expedition ship<br/>- 1 night at Eco Boutique Hotel Bidasoa (or similar)<br/>- All Transfers.<br/>- All excursions &amp; entrance fees.<br/><br/>Meals: <br/>- Day 1: Snacks<br/>- Day 2: Breakfast and Lunch<br/>- Day 3: Breakfast, Lunch and Dinner<br/>- Day 4-6: Breakfast, Box Lunch and Dinner<br/>- Day 7: Breakfast, Dinner and Drinks.<br/>- Day 8-12: Breakfast, Lunch and Dinner<br/>- Day 13-15: Breakfast<br/>Coffee, tea, hot chocolate, water. and snacks on board the expedition ship.<br/><br/>Not Included<br/>- Meals not specified.<br/>- Travel insurance.<br/>- Domestic flights* &amp; airport taxes.<br/>- International flights &amp; airport taxes.<br/><br/>*We can book your domestic flights.",
+    "generalInfo": "Bu güzergah ile birlikte, muhteşem Torres del Paine Milli Parkı ve göz alıcı Şili Antarktikası'nda hayatınızın yolculuğunu yapacaksınız. 15 gün boyunca, Santiago'nun manzaralarını keşfetme ve şarap vadilerinin tadını çıkarma fırsatına sahip olacaksınız, ardından güzel Patagonya'ya doğru yola çıkacaksınız. Burada, dünya çapında ünlü Torres del Paine tabanına yürüyüş yapma şansınızın yanı sıra, bu güzel milli parkta başka harika aktiviteler de gerçekleştireceksiniz.<br/><br/>Seyahatinizin son kısmında, Antarktika kıyısında dolaşırken sürekli olarak hayrete düşeceksiniz. Görüş alanınız, balinalar, penguenler, foklar ve deniz kuşları gibi Antarktika'nın büyüleyici vahşi yaşamını içerecek ve en iyi manzaraları yakalamak için günlük kara gezileri yapacaksınız. Bu tur, Drake Geçidi üzerinden bir uçuşu da içermektedir, bu da yedinci kıtada zamanınızı en üst düzeye çıkarmanızı ve Antarktika'ya daha konforlu ve keyifli bir yolculuk yapmanızı sağlar.<br/><br/>Kısa Güzergah:<br/>1. Gün: Havalimanı - Santiago / Özel Şehir Turu.<br/>2. Gün: Colchagua Vadisi'nde Özel Şarap Turu<br/>3. Gün: Santiago - Punta Arenas - Torres del Paine <br/>4-6. Günler: Torres del Paine Milli Parkı<br/>7. Gün: Torres del Paine - Punta Arenas<br/>8. Gün: King George Adası ve Frei İstasyonu<br/>9-12. Günler: Antarktika'yı Keşfet<br/>13. Gün: Punta Arenas<br/>14. Gün: Punta Arenas - Santiago<br/>15. Gün: Santiago'dan Ayrılış<br/><br/>Dahil Olanlar:<br/>- 3 gece Eco Boutique Hotel Bidasoa (veya benzeri)<br/>- 3 gece Patagonia Camp (veya benzeri)<br/>- 2 gece Hotel Cabo de Hornos (veya benzeri)<br/>- 5 gece keşif gemisinde<br/>- 1 gece Eco Boutique Hotel Bidasoa (veya benzeri)<br/>- Tüm Transferler.<br/>- Tüm geziler &amp; giriş ücretleri.<br/><br/>Yemekler:<br/>- 1. Gün: Atıştırmalıklar<br/>- 2. Gün: Kahvaltı ve Öğle Yemeği<br/>- 3. Gün: Kahvaltı, Öğle Yemeği ve Akşam Yemeği<br/>- 4-6. Gün: Kahvaltı, Paket Öğle Yemeği ve Akşam Yemeği<br/>- 7. Gün: Kahvaltı, Akşam Yemeği ve İçecekler.<br/>- 8-12. Gün: Kahvaltı, Öğle Yemeği ve Akşam Yemeği<br/>- 13-15. Gün: Kahvaltı<br/>Kahve, çay, sıcak çikolata, su ve keşif gemisinde atıştırmalıklar.<br/><br/>Dahil Olmayanlar<br/>- Belirtilmemiş yemekler.<br/>- Seyahat sigortası.<br/>- Yurt içi uçuşlar* &amp; havalimanı vergileri.<br/>- Uluslararası uçuşlar &amp; havalimanı vergileri.<br/><br/>*Yurt içi uçuşlarınızı rezerve edebiliriz.",
     "durationDays": "15",
     "price": "23574",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -683,55 +1719,124 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "SANTIAGO DE CHILE - Your first day will serve to welcome you to the capital. A transfer will be waiting for you at the airport and will take you to your hotel where you’ll check in. Once you’re settled in, you will have some time for lunch before heading out on your city tour around Santiago at 2 pm. On the tour, you’ll visit all of the capital’s attractions: the seat of government, the multicultural Plaza de Armas, the picturesque Mercado Central and La Vega, as well as the San Cristóbal hill and the historical centres such as Lastarria, Bellas Artes, and Central Santiago. You’ll sample some local food delights on the tour too, before finishing the tour and heading for dinner. We recommend trying one of the traditional restaurants in the bohemian area of Bellavista!"
+        "description": "SANTIAGO DE CHILE - İlk gününüz, sizi başkente hoş geldin demek için hizmet verecek. Havalimanında sizi bekleyen bir transfer, otelinize götürecek ve burada check-in yapacaksınız. Yerleştiğinizde, öğle yemeği için biraz zamanınız olacak ve ardından saat 14:00'te Santiago'da şehir turuna çıkacaksınız. Tur sırasında, başkentin tüm cazibe merkezlerini ziyaret edeceksiniz: hükümetin merkezi, çok kültürlü Plaza de Armas, pitoresk Mercado Central ve La Vega, ayrıca San Cristóbal tepesini ve Lastarria, Bellas Artes ve Central Santiago gibi tarihi merkezleri. Tur sırasında yerel lezzetlerden de tadacaksınız, ardından turu tamamlayıp akşam yemeğine geçeceksiniz. Bohem bölgesi Bellavista'daki geleneksel restoranlardan birini denemenizi öneririz!"
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "PRIVATE WINE TOUR: COLCHAGUA VALLEY - After enjoying breakfast at your hotel, you’ll be picked up by your guide to head to one of Chile’s most famous wine-producing valleys, Colchagua. On the tour, you’ll visit three vineyards where you’ll learn how each vineyard makes its wines and taste some samples of their signature wines. At the last vineyard of the day, as well as a tour and tasting, you’ll enjoy a delicious lunch prepared specifically to match the wines like grilled meats and fish and a selection of side dishes. You’ll then be taken back to your hotel where you’ll have time to rest and have dinner in Santiago."
+        "description": "ÖZEL ŞARAP TURU: COLCHAGUA VADİSİ - Otelinizde kahvaltınızı yaptıktan sonra, sizi Şili'nin en ünlü şarap üreten vadilerinden biri olan Colchagua'ya götürmek üzere rehberiniz tarafından alınacaksınız. Tur sırasında, üç bağ evini ziyaret edecek ve her bir bağ evinin şaraplarını nasıl ürettiğini öğrenip, imza şaraplarından bazı örnekler tadacaksınız. Günün son bağ evinde, tur ve tadımın yanı sıra, şaraplarla eşleştirilmiş özel olarak hazırlanmış lezzetli bir öğle yemeği, ızgara etler ve balık ile çeşitli yan yemekler sunulacak. Ardından, sizi otelinize geri götürecekler ve burada dinlenip Santiago'da akşam yemeği için zamanınız olacak."
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "SANTIAGO DE CHILE - PUNTA ARENAS - On day 3, you will be picked up from your hotel to travel to Santiago airport for your flight to Punta Arenas. In Punta Arenas, your transfer will be waiting for you to take you to your hotel in the Torres del Paine National Park. After checking in, you can enjoy lunch at the hotel, relax and explore the local area in the afternoon."
+        "description": "SANTIAGO DE CHILE - PUNTA ARENAS - 3. günde, otelinizden alınarak Santiago havalimanına gideceksiniz ve Punta Arenas'a uçacaksınız. Punta Arenas'ta, sizi Torres del Paine Milli Parkı'ndaki otelinize götürecek bir transfer bekliyor olacak. Check-in yaptıktan sonra, otelde öğle yemeğinin tadını çıkarabilir, dinlenebilir ve öğleden sonra yerel alanı keşfedebilirsiniz."
       },
       {
         "dayNumber": 4,
         "title": "",
-        "description": "TORRES DEL PAINE NATIONAL PARK - On days 4-6, you can enjoy a delicious and nutritious breakfast before heading out each day on an activity of your choosing. Choose from a variety of hikes with a range of difficulties, including to the base of the famous Torres del Paine or the Grey Glacier, kayaking on the beautiful Lake Toro, visiting the historical cave of the Milodón, or even flyfishing!"
+        "description": "TORRES DEL PAINE MİLLİ PARKI - 4-6. günlerde, her gün seçtiğiniz bir aktiviteye çıkmadan önce lezzetli ve besleyici bir kahvaltının tadını çıkarabilirsiniz. Ünlü Torres del Paine tabanına veya Grey Buzulu'na kadar çeşitli zorluk seviyelerinde yürüyüşler, güzel Lake Toro'da kano, Milodón'un tarihi mağarasını ziyaret etme veya hatta olta balıkçılığı gibi birçok aktiviteden birini seçebilirsiniz!"
       },
       {
         "dayNumber": 7,
         "title": "",
-        "description": "PUNTA ARENAS - After breakfast and check out, your transfer will take you to Punta Arenas where you can prepare for your Antarctic expedition! You’ll check in to your and have time to explore the local area and its local restaurants for lunch. In the afternoon, you’ll attend a briefing with important information about your cruise and guidelines for Antarctic visitors. Later, you’ll gather with other travelers for a welcome dinner featuring typical foods of the region."
+        "description": "PUNTA ARENAS - Kahvaltı ve check-out sonrası, transferiniz sizi Punta Arenas'a götürecek ve burada Antarktika keşfiniz için hazırlığınızı yapabileceksiniz! Otele check-in yaptıktan sonra, yerel alanı keşfetmek ve öğle yemeği için yerel restoranları ziyaret etmek için zamanınız olacak. Öğleden sonra, kruvaziyerinizle ilgili önemli bilgiler ve Antarktika ziyaretçileri için yönergeler içeren bir bilgilendirme toplantısına katılacaksınız. Daha sonra, diğer yolcularla birlikte bölgenin tipik yemeklerini içeren hoş geldin akşam yemeği için bir araya geleceksiniz."
       },
       {
         "dayNumber": 8,
         "title": "",
-        "description": "PUNTA ARENAS - ANTARCTICA - On day 8, your Antarctic adventure begins! You’ll take a two-hour flight from Punta Arenas to King George Island in the South Shetland Islands followed by a short hike (2km/1.25mi) past the Frei and Bellingshausen Stations. From the shore, you’ll board a Zodiac that will take you to the expedition ship."
+        "description": "PUNTA ARENAS - ANTARKTİKA - 8. günde, Antarktika maceranız başlıyor! Punta Arenas'tan King George Adası'na iki saatlik bir uçuş yapacak ve ardından Frei ve Bellingshausen İstasyonları'nın yanından geçen kısa bir yürüyüş (2km/1.25mi) gerçekleştireceksiniz. Kıyıdan, sizi keşif gemisine götürecek bir Zodiac'a bineceksiniz."
       },
       {
         "dayNumber": 9,
         "title": "",
-        "description": "EXPLORING ANTARCTICA - You’ll cruise between the South Shetland Islands and the western coast of the Antarctic Peninsula, sailing along ice-filled fjords and among spectacular icebergs, while enjoying the company of seabirds, penguins, seals, and whales. Each day you’ll disembark by Zodiac and explore the landscape together with expert polar guides. On board the ship, you can attend an engaging program of educational presentations and enjoy spectacular views from the lounge while sharing your daily adventures with fellow guests. No journey is the same and flexibility is the key to success in Antarctica. The Expedition Team plans the voyage route to take advantage of the ever-changing opportunities provided by nature to make each trip a unique and extraordinary experience. While the exact itinerary changes with each expedition, you will explore several spots that offer the best possible overview of the varied Antarctic environment. Your voyage may include visits to sites in the South Shetland Islands, the Antarctic Sound, the Gerlache Strait, and the Penola Strait."
+        "description": "ANTARKTİKA'YI KEŞFETMEK - Güney Shetland Adaları ile Antarktika Yarımadası'nın batı kıyısı arasında seyahat edeceksiniz, buz dolu fiyortlar arasında ve muhteşem buzdağları arasında yelken açarken, deniz kuşları, penguenler, foklar ve balinalarla birlikte olmanın tadını çıkaracaksınız. Her gün Zodiac ile karaya çıkacak ve uzman kutup rehberleriyle birlikte manzarayı keşfedeceksiniz. Gemide, ilgi çekici eğitim sunumları programına katılabilir ve günlük maceralarınızı diğer misafirlerle paylaşırken salondan muhteşem manzaraların tadını çıkarabilirsiniz. Hiçbir yolculuk aynı değildir ve esneklik, Antarktika'daki başarının anahtarıdır. Keşif Ekibi, her yolculuğu benzersiz ve olağanüstü bir deneyim haline getirmek için doğanın sunduğu sürekli değişen fırsatları değerlendirmek üzere seyahat rotasını planlar. Kesin güzergah her keşifte değişse de, Antarktika'nın çeşitli ortamını en iyi şekilde gözlemlemenizi sağlayacak birkaç noktayı keşfedeceksiniz. Seyahatiniz, Güney Shetland Adaları, Antarktika Sesi, Gerlache Boğazı ve Penola Boğazı'ndaki yerleri ziyaret etmeyi içerebilir."
       },
       {
         "dayNumber": 13,
         "title": "",
-        "description": "ANTARCTICA - PUNTA ARENAS - Return to King George Island and bid farewell to Antarctica before boarding the flight back to Punta Arenas. Upon arrival, you’ll be transferred to your hotel for the night."
+        "description": "ANTARKTİKA - PUNTA ARENAS - King George Adası'na geri dönerek Antarktika'ya veda edecek ve ardından Punta Arenas'a dönüş uçuşunu alacaksınız. Varışta, sizi gece için otelinize transfer edecekler."
       },
       {
         "dayNumber": 14,
         "title": "",
-        "description": "PUNTA ARENAS - SANTIAGO - After breakfast, your transfer will take you to Punta Arenas airport to fly to Santiago. Take the afternoon to rest or explore the city."
+        "description": "PUNTA ARENAS - SANTIAGO - Kahvaltıdan sonra, transferiniz sizi Punta Arenas havalimanına götürecek ve Santiago'ya uçacaksınız. Öğleden sonranızı dinlenmek veya şehri keşfetmek için değerlendirebilirsiniz."
       },
       {
         "dayNumber": 15,
         "title": "",
-        "description": "SANTIAGO DE CHILE AIRPORT - Your transfer will take you to Santiago airport for your departure flight. We hope you enjoyed your trip!"
+        "description": "SANTIAGO DE CHILE HAVALİMANI - Transferiniz sizi Santiago havalimanına götürecek ve ayrılış uçuşunuza katılacaksınız. Seyahatinizden keyif aldığınızı umuyoruz!"
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      {
+        "name": "Colchagua Valley",
+        "country": "Chile"
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile"
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile"
+      },
+      {
+        "name": "King George Island",
+        "country": "null"
+      },
+      {
+        "name": "Antarctica",
+        "country": "null"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Santiago",
+        "country": "Chile",
+        "lat": -33.440643,
+        "lng": -70.64937
+      },
+      {
+        "name": "Colchagua Valley",
+        "country": "Chile",
+        "lat": -34.548615,
+        "lng": -71.40168
+      },
+      {
+        "name": "Punta Arenas",
+        "country": "Chile",
+        "lat": -53.163063,
+        "lng": -70.90529
+      },
+      {
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
+        "lat": -46.53887,
+        "lng": -71.727356
+      },
+      {
+        "name": "King George Island",
+        "country": "null",
+        "lat": -62.033333,
+        "lng": -58.35
+      }
+    ],
+    "__trTranslated": true
   }
 ]

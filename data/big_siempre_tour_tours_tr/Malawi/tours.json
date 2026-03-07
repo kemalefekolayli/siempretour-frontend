@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "east-african-budget-overland-tour",
     "tourName": "Doğu Afrika bütçe kara yolculuğu",
@@ -321,7 +321,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "luxury-zambia-and-malawi-family-safari",
     "tourName": "Lüks Zambiya ve Malawi Aile Safari",
@@ -417,30 +417,36 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Livingstone",
-        "country": "Zambiya",
+        "country": "Zambia",
         "lat": -17.853135,
         "lng": 25.861429
       },
       {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
         "name": "Mfuwe",
-        "country": "Zambiya",
+        "country": "Zambia",
         "lat": -13.110679,
         "lng": 31.797816
       },
       {
-        "name": "Güney Luangwa Milli Parkı",
-        "country": "Zambiya",
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
         "lat": -15.622586,
         "lng": 30.400955
       },
       {
-        "name": "Likoma Adası",
+        "name": "Likoma Island",
         "country": "Malawi",
         "lat": -12.065692,
         "lng": 34.73191
@@ -461,7 +467,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "majete-safari-and-lake-malawi-holiday",
     "tourName": "Majete Safari ve Malawi Gölü Tatili",
@@ -572,7 +578,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "malawi-highlights-tour-tailor-made",
     "tourName": "Malawi Vurguları Turu, özel yapım",
@@ -713,7 +719,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "malawi-luxury-holiday",
     "tourName": "Malawi lüks tatil",
@@ -819,7 +825,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "malawi-self-drive-holiday",
     "tourName": "Malavi otostop tatili",
@@ -935,7 +941,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "malawi-small-group-safari",
     "tourName": "Malavi küçük grup safari",
@@ -1106,7 +1112,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "malawi-tailor-made-holidays",
     "tourName": "Malawi'ye Özel Hazırlanmış Tatiller",
@@ -1202,7 +1208,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "malawi-wildlife-and-nature-tour",
     "tourName": "Malavi Yaban Hayatı ve Doğa Turu",
@@ -1363,7 +1369,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "malawi-zambia-culture-and-nature-tour",
     "tourName": "Malavi & Zambiya kültür ve doğa turu",
@@ -1574,7 +1580,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "safari-adventure-holiday-zambia-malawi-and-mozambique",
     "tourName": "Safari macera tatili, Zambiya, Malavi ve Mozambik",
@@ -1805,7 +1811,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "zambia-and-malawi-tailor-made-safaris",
     "tourName": "Zambia ve Malawi kişiye özel safari turları",
@@ -1941,9 +1947,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Livingstone",
@@ -1952,10 +1958,16 @@
         "lng": 25.861429
       },
       {
-        "name": "Zambezi Nehri",
+        "name": "Zambezi River",
         "country": "Zambia",
         "lat": -13.550083,
         "lng": 23.115208
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
       },
       {
         "name": "Mfuwe",
@@ -1964,7 +1976,7 @@
         "lng": 31.797816
       },
       {
-        "name": "Güney Luangwa Ulusal Parkı",
+        "name": "South Luangwa National Park",
         "country": "Zambia",
         "lat": -15.622586,
         "lng": 30.400955
@@ -1976,7 +1988,7 @@
         "lng": 33.768144
       },
       {
-        "name": "Malavi Gölü",
+        "name": "Lake Malawi",
         "country": "Malawi",
         "lat": -15.300392,
         "lng": 34.701808
@@ -1985,7 +1997,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Malawi",
+    "destination": "Malavi",
     "mainPhoto": "",
     "id": "zambia-malawi-small-group-safari",
     "tourName": "Zambiya & Malavi küçük grup safarisi",

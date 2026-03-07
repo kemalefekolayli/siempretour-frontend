@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   function buildToursUrl(country) {
-    return `./data/big_siempre_tour_tours/${country}/tours.json`;
+    return `./data/big_siempre_tour_tours_tr/${country}/tours.json`;
   }
 
   // ===============================

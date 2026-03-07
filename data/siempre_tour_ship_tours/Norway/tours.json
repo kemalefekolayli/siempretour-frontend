@@ -1,11 +1,11 @@
 [
   {
-    "destination": "Norway",
+    "destination": "Norveç",
     "mainPhoto": "",
     "id": "cruising-the-norwegian-coast-itinerary",
-    "tourName": "Cruising the Norwegian Coast Itinerary",
-    "placesVisited": "Bergen, Byggen, Alesund, Geirangerfjord, Floro, Maloy, Torvik, Molde, Hjorundfjord, Kristiansund, Trondheim, Stiftsgarden, Stokksund, Rorvik, Arctic Circle, Lofoten Islands, Bronnoysund, Sandnessjoen, Ornes, Bodo, Stamsund, Svolvaer",
-    "generalInfo": "With some vacations, you need to sit back and savor a magnificent natural setting. Cruising the fjords and exploring the islands, this is a classic nine-day journey through Norway’s natural beauty. There are waterfalls and peaks, northern lights and Arctic Circle treats. Experience colors, charm, royal history and inspiring cultures. To learn more about other Norway itineraries, visit the Norway tours page on Zicasso.",
+    "tourName": "Norveç Kıyıları'nda Gezinme İtinereri",
+    "placesVisited": "Bergen, Byggen, Alesund, Geirangerfjord, Floro, Maloy, Torvik, Molde, Hjorundfjord, Kristiansund, Trondheim, Stiftsgarden, Stokksund, Rorvik, Arctic Circle, Lofoten Adaları, Bronnoysund, Sandnessjoen, Ornes, Bodo, Stamsund, Svolvaer",
+    "generalInfo": "Bazı tatillerde muhteşem bir doğal ortamda oturup keyfini çıkarmanız gerekir. Fiyortlarda gezmek ve adaları keşfetmek, Norveç'in doğal güzellikleri içinde dokuz günlük klasik bir yolculuktur. Şelaleler ve zirveler, kuzey ışıkları ve Kuzey Kutbu lezzetleri. Renkleri, cazibeyi, kraliyet tarihini ve ilham verici kültürleri deneyimleyin. Norveç'teki diğer rotalar hakkında bilgi almak için Zicasso’nun Norveç turları sayfasını ziyaret edin.",
     "durationDays": "9",
     "price": "6,200",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -23,46 +23,175 @@
     "dayInfo": [
       {
         "dayNumber": "1",
-        "title": "Bergen – Colors of the Fjord-Side City",
-        "description": "Bergen is quick to charm. White-painted wooden houses stretch out along the cobbled streets. The old wharf is made from timber, Bryggen a World Heritage Site that’s impossible to miss when you start to explore. Stroll more of the lanes and the houses are painted greens, yellows, and reds that make every steep street appear like a postcard. It is the natural setting that makes Bergen so unique. Steeped forested slopes provide the backdrop while fjords stretch out beyond the wharf, a convergence that quickly gets you in the mood for this journey through Norway. Touch down in Norway’s second city today, and transfer to a hotel on the waterfront, within the historic center. This is the country’s former capital and Bryggen is likely to be the place you discover in the afternoon. Waterfront facades are divided by timber-filled alleyways, gables, and statues dot the area, and there’s always a memoir to the Hanseatic League. If you need energizing, try a cinnamon bun, Bergen is famous for them. Alternatively, take a walk to the fish market, where displays of shellfish decorate the stalls. Evenings are delightful here as well, walking along the dimly lit lanes of the waterfront."
+        "title": "Bergen – Fiyort Kenarındaki Şehir Renkleri",
+        "description": "Bergen hemen büyüler. Beyaz boyalı ahşap evler, taş döşeli sokaklar boyunca uzanır. Eski rıhtım, ahşaptan yapılmıştır; Bryggen, keşfetmeye başladığınızda gözden kaçırılması mümkün olmayan Birleşmiş Milletler Dünya Mirası Alanıdır. Sokaklarda dolaşırken evler, her dik sokağı bir kartpostal gibi gösteren yeşil, sarı ve kırmızı renklere boyanmıştır. Bergen'i bu kadar özel kılan doğal ortamıdır. Dik ormanlık yamaçlar sahneyi oluştururken fiyortlar rıhtımın ötesinde uzanır; bu, Norveç'teki bu yolculuğa başlamak için hemen bir ruh hali oluşturur. Bugün Norveç’in ikinci şehrine varacak ve tarihi merkezdeki su kenarındaki bir otele geçeceksiniz. Bu ülkenin eski başkenti ve Bryggen'i öğleden sonra keşfedeceğiniz yer olacaktır. Su kenarındaki cephesi ahşap dolu sokaklarla ayrılmıştır; caddelerdeki süslemeler ve heykellerle süslüdür ve her zaman Hansa Birliği'ne bir anı taşır. Enerjiye ihtiyacınız varsa, bir tarçın rulolarını deneyin; Bergen bu konuda ünlüdür. Alternatif olarak, deniz ürünlerinin sergilendiği balık pazarına doğru yürüyüşe çıkabilirsiniz. Akşam saatleri de burada keyiflidir; su kenarındaki loş ışıklı sokaklarda dolaşabilirsiniz."
       },
       {
         "dayNumber": "2",
-        "title": "Bergen – Historical Bergen Plus Galleries or Hiking",
-        "description": "After a leisurely breakfast at your hotel along the harbor, it’s time to explore the historic heart of Bergen. There was a time when this city was the political capital of the North Atlantic when the Hanseatic League established itself and instilled a bustling trade monopoly. Much of that history remains. Hear the stories as you walk through the Wharf, past the ochre and tawny-hued wooden buildings. Discover the era of trade at the Hanseatic Museum and relive the past in the elegant Schotstuene assembly rooms. It’s a leisurely half-day walking tour that continues in residential neighborhoods, where you find out about Norway’s greatest composer Edvard Grief, as well as Edvard Munch’s provocative artworks. The afternoon is left free and there are choices over what to do. Ride the funicular to Floyen, one of the seven mountains that stand guard above Bergen. Panoramic views are stunning from here, especially if you time the excursion for sunset. Hiking trails extend from the funicular station, the Tippetue path zigzagging down the mountain, or Skomakerdiket lake found behind tightly-packed pine woods. If you are inspired by Munch’s art, there are other galleries to discover. For a detailed look into the past, try Gamle Bergen, the open-air museum."
+        "title": "Bergen – Tarihi Bergen ve Galeriler veya Yürüyüş",
+        "description": "Limandakilerin yanında otelinizde rahat bir kahvaltı yaptıktan sonra, Bergen'in tarihi kalbini keşfetme zamanı. Bir dönem bu şehir, Hansa Birliği’nin yerleştiği ve canlı bir ticaret tekeline sahip olduğu Kuzey Atlas Okyanusu'nun siyasi başkenti olmuştur. Bu tarihin çoğu hâlâ duruyor. Fırtınanın içinden geçerken, sarı ve kahverengi ahşap binaların önünden geçerek hikayeleri duyun. Hansa Müzesi'nde ticaret dönemi hakkında bilgi edinin ve zarif Schotstuene toplantı odalarında geçmişi yeniden yaşayın. Bu, yerleşim bölgelerine devam eden rahat bir yarım günlük yürüyüş turudur; burada Norveç’in en büyük bestecisi Edvard Grieg ve Edvard Munch’un kışkırtıcı sanat eserleri hakkında bilgi edinirsiniz. Öğleden sonra serbest bırakılacak ve ne yapacağınız konusunda seçimleriniz olacak. Floyen'e çıkan funikülerle yolculuk yapın; Bergen’in üzerinde bekleyen yedi dağdan biridir. Buradan panoramik manzaralar etkileyicidir, özellikle ziyaretinizi gün batımına denk getirirseniz. Funiküler istasyonundan yürüyüş yolları uzanır; Tippetue patikası dağın aşağısına doğru zigzag yapar veya sıkışmış çam ormanlarının arkasında bulunan Skomakerdiket gölünü bulabilirsiniz. Munch'un sanatından esinlenirseniz, keşfedilecek diğer galeriler de vardır. Geçmişe detaylı bir bakış için Gamle Bergen açık hava müzesini deneyin."
       },
       {
         "dayNumber": "3",
-        "title": "Norwegian Coast – The Coastal Voyage Begins",
-        "description": "Today you set sail. Well, not quite sailing but cruising the fjords on a Hurtigruten, one in a fleet of ships that have covered the Norwegian coast since the late 19th century. The morning and early-afternoon are at your leisure in Bergen; even if you’re walking the same streets for the third time, it’s hard to get bored by the city’s quiet beauty. Cruising away from the Hurtigruten Terminalen you bask in the natural surroundings, the fjord extending as you cruise south before turning west and north. After dark, the fjords turn to silhouettes, rugged shapes that mark a journey beneath the stars. If you’re here in fall or spring, there’s also a great chance that this first night on board will bring the visual theater of the northern lights. You have an outside-facing suite, with a private seating area and balcony. The suites are more than double the size of the normal outside cabins and quadruple that of the inside cabins, which simply aren’t large enough for a multi-day journey. Much of the experience is made by cruising along and appreciating the scenery, which is far more enjoyable when you have a good-sized suite with balcony and seating. After dinner on board, you’ll travel through the night. Just wait till you see the views tomorrow morning."
+        "title": "Norveç Kıyıları – Kıyı Yolculuğu Başlıyor",
+        "description": "Bugün yola çıkıyorsunuz. Evet, tam anlamıyla yelken açmıyorsunuz ama fiyortlarda seyahat ediyorsunuz; 19. yüzyılın sonlarından beri Norveç kıyılarında hizmet veren Hurtigruten filosunun bir parçası. Sabah ve erken öğleden sonra Bergen'de serbest zamanınız var; aynı sokaklarda üçüncü kez yürüyorsanız, şehrin sessiz güzelliğinden sıkılmak zordur. Hurtigruten Terminalen'den uzaklaşırken doğal ortamın tadını çıkarıyorsunuz; fiyort güney yönünde ilerlerken uzanıyor, ardından batıya ve kuzeye dönüyorsunuz. Gece olunca fiyortlar siluetlere dönüşür, yıldızların altında bir yolculuğu işaret eden sert şekillerle. Eğer sonbahar veya ilkbahardaysanız, bu ilk gece gemide kuzey ışıklarının görsel tiyatrosunu yaşama şansınız da vardır. Size dışa bakan bir süit veriliyor, özel bir oturma alanı ve balkonla beraber. Süitler, normal dış kabinlerin iki katından daha fazladır ve iç kabinlerden dördüncü katıdır, bu da çok günlük bir yolculuk için yeterince büyük değildir. Deneyimin büyük bir kısmı, manzarayı takdir ederek ve seyahat ederek geçmektir; bu da iyi boyutta bir balkona ve oturma alanına sahip bir süit ile çok daha keyiflidir. Gemideki akşam yemeğinden sonra gece boyunca yolculuk edeceksiniz. Yarın sabah manzaraları göreceğiniz zamana kadar bekleyin."
       },
       {
         "dayNumber": "4",
-        "title": "Norwegian Coast – Through the Skerries and Islands to Alesund",
-        "description": "Islands dot the horizon, framed by ragged, emerald cliffs. Skerries pass by on both sides, tiny rocky islands ubiquitous along the Norwegian coastline. Slowly the ship navigates this island-strewn landscape, stopping briefly in Floro, Maloy, and Torvik before continuing north to Alesund. Disembark and take a walk, the Apotekergate and Kongensgate precincts dominated by art nouveau buildings that have a Norwegian twist. You might want to walk up Mount Aksla, bringing you supreme views over the town and fjords. Take a late lunch in one of the waterside cafes then return to the ship and an afternoon of cruising. The Hurtigruten hoots and you’re off. In summer, you traverse Geirangerfjord, cliffs and gushing waterfalls all around in this vast UNESCO World Heritage Site. Throughout the rest of the year, the boat travels Hjorunfjord, beneath the shadows of the Sunnmore Alps. A sense of solitude envelops you here, the unspoiled natural landscape admired from your private balcony. This is one of Norway’s most special fjords, the kind that produces surreal photos and memories. Spend a second night on board, dining in the restaurant then retiring to your room, perhaps with the aurora playing in the sky above."
+        "title": "Norveç Kıyıları – Kayalıklar ve Adalar Arasından Alesund’a",
+        "description": "Horizon boyunca adalar yer almakta, parçalanmış, zümrüt yeşili kayalıklar arasına sıkışmış durumda. Skerries, her iki yandan geçerken Norveç kıyılarında yaygın olan küçük kayalık adacıklardır. Geminin bu adalarla kaplı manzara içinde yavaşça ilerliyor, Floro, Maloy ve Torvik'te kısa durakladıktan sonra Alesund’a doğru yol alıyor. İniş yapın ve yürüyüşe çıkın; Apotekergate ve Kongensgate bölgeleri, Norveç’e özgü bir dokunuşa sahip sanat nouveau binalarıyla doludur. Mount Aksla'ya tırmanmak isteyebilirsiniz; bu, şehrin ve fiyortların üstün manzarasını sunar. Su kenarındaki kafelerden birinde geç bir öğle yemeği yiyin, ardından tekrar gemiye dönün ve öğleden sonrayı fiyortlarda seyahat ederek geçirin. Hurtigruten siren çalar ve yola çıkıyorsunuz. Yazın, Geirangerfjord’a, etrafını saran kayalıklar ve fışkıran şelalelerle bu geniş UNESCO Dünya Mirası Alanı'na geçebilirsiniz. Diğer mevsimlerde, tekne Hjorundfjord’a, Sunnmore Alpleri'nin gölgeleri altında gider. Burada yalnızlık hissi sizi sarar; bozulmamış doğal manzara, özel balkonunuzdan takdir edilir. Bu, Norveç’in en özel fiyortlarından biridir; gerçeküstü fotoğraflar ve anılar üretir. Gemide ikinci bir gece geçirin, restoranda akşam yemeğinizi yapın ve sonra belki de gökyüzünde aurora ile odanıza çekilin."
       },
       {
         "dayNumber": "5",
-        "title": "Norwegian Coast – Royal Trondheim and Traversing the Channels to Rorvik",
-        "description": "With four days on the Hurtigruten, you trace a classic route north with two or more land excursions each day. However, the fleet of ships means this itinerary can be adapted based on your interests. With an extended cruise, you can add more excursions, like a mountain hike in Hjorundfjord or kayaking on the River Nid. The classic route stops briefly in Kristiansund before an extended stop in Trondheim, an old royal city that seems frozen in a medieval era. Until that is, you explore with a guide. The neo-Gothic wooden bridge comes from 1861 while the glorious Gothic cathedral has almost a millennia of history, medieval musing deconstructed as you walk the sights. Norway’s crown jewels shimmer in the Archbishop’s Palace while Hanseatic storehouses stand on stilts, their use illuminated upon by the guide. The most photographed icon here is the Stiftsgarden, a rococo-style wooden building that’s now a royal residence. Trondheim can easily occupy half the day but you may use the time to go exploring instead, with tobogganing an option in winter and spring, kayaking possible for most of the year. Afterward, you travel northwest, thousands of islets and rocky outcrops covering the panorama, one of them topped by Kjeungskjaer, the country’s most spectacular lighthouse. There are other lighthouses as well and the captain will explain how they have evolved and how they are used to navigate the coast after dark. It’s your final night on board so relax in the suite."
+        "title": "Norveç Kıyıları – Kraliyet Trondheim ve Rorvik’e Geçiş Kanalları",
+        "description": "Hurtigruten'de dört gün boyunca klasik bir kuzey rotasını izliyorsunuz, her gün iki veya daha fazla kara gezisi ile. Ancak bu filo, bu itinereyi ilgi alanlarınıza göre adapte etmenizi sağlar. Uzatılmış bir yolculuk ile, Hjorundfjord'da bir dağ yürüyüşü veya Nid Nehri'nde kayak gibi daha fazla gezi ekleyebilirsiniz. Klasik rota, Kristiansund'da kısa bir durak ile başlar, ardından Trondheim’da uzunca bir mola verir; bu, sanki Orta Çağ’da donmuş bir eski kraliyet şehri gibidir. Tabii ki, bir rehberle keşfettiğinizde. Neo-Gotik ahşap köprü 1861 tarihine dayanırken, muhteşem Gotik katedral neredeyse bir bin yıllık bir geçmişe sahiptir; gezinti yaparken Orta Çağ hayalleri parçalanır. Norveç’in taç mücevherleri Başpiskopos Sarayı'nda parıldar; Hansa depoları ise direkler üzerinde durur ve kullanımları rehber tarafından aydınlatılır. Burada en çok fotoğraflanan simge, şu anda bir kraliyet ikameti olan Stiftsgarden, rococo tarzında bir ahşap binadır. Trondheim, yarım günü kolayca doldurabilir ama zamanınızı keşif yapmak için kullanmayı da seçebilirsiniz; kış ve baharda luge seçeneği ve yılın çoğu için kayak mümkündür. Sonrasında kuzeye doğru ilerleyerek, panoramada binlerce adacık ve kayalık oluşumları göreceksiniz; bunlardan biri, ülkenin en muhteşem deniz feneri Kjeungskjaer ile üzeri kaplanmıştır. Başka deniz fenerleri de vardır ve kaptan, bunların nasıl evrildiğini ve karanlıkta kıyılara rehberlik etmek için nasıl kullanıldığını açıklar. Bu gemideki son geceniz, bu nedenle süitte rahatlayın."
       },
       {
         "dayNumber": "6",
-        "title": "Lofoten Islands – Into the Arctic Circle: Islands and Lights",
-        "description": "You continue cruising north, traveling past a globe that marks your arrival in the Arctic Circle. If you haven’t been this far north before tradition dictates you get an ice cube down your shirt, an optional experience that’s always fun to watch on deck. The tradition centers on Njord, the ruler of the Seven Seas, a legend that’s been around for millennia. Soon you’re cruising through the Lofoten Islands, stopping at a handful of ports before closing in on the majestic Lofoten Wall. With this towering cliff as a compass point, the captain leads you along the coast, where colorful fishing villages and white sandy beaches await when you take a stroll. Disembark onto small islands and feel the bohemian atmosphere. Wander past the bright-red fishermen’s houses and the racks of fish that line up along the harbors. Admire tiny villages beneath towering cliffs and appreciate the harmony between nature and the manmade world. Optional excursions today include a kayaking safari to Saltstraumen and the Svartisen Glacier, a spectacle that shows the humbling scale of nature. It’s evening by the time you cruise in Svolvaer. Cast your eyes at the sky, as this is one of the best places to experience the northern lights, especially in the fall and the weeks around the equinox. You’ll be greeted by an agent at the dock and transfer to your rorbu , a classic fishermen’s hut where you stay for the next three nights."
+        "title": "Lofoten Adaları – Kuzey Kutbuna Giriş: Adalar ve Işıklar",
+        "description": "Kuzeye doğru seyrederken, Kuzey Kutbu'na ulaştığınızı simgeleyen bir küreyi geçiyorsunuz. Eğer daha önce buralara bu kadar kuzeye gelmediyseniz, gelenek gereği üzerine bir buz parçası koyulması seçeneği vardır; bu, güvertede izlenmesi her zaman keyiflidir. Gelenek, yüzyıllardır süregelen efsanevi Njord, Yedi Denizin hükümdarı ile alakalıdır. Kısa bir süre sonra Lofoten Adaları’nda seyahat ediyorsunuz ve birkaç limanda durarak muhteşem Lofoten Duvarı’na doğru yaklaşıyorsunuz. Bu heybetli kayalıkları bir pusula noktası olarak alan kaptan, kıyıda renkli balıkçı köyleri ve yürüyüş yaparken beyaz kumlu plajlar için yola çıkar. Küçük adalardan inin ve bohem atmosferini hissedin. Parlak kırmızı balıkçı evlerinin ve kamışların sıralandığı limanların önünden geçin. Yüksek kayalıkların altındaki küçük köyleri hayranlıkla izleyin ve doğa ile insan yapımı dünya arasındaki uyumu takdir edin. Bugünkü seçmeli geziler arasında Saltstraumen'de bir kayak safari ve Svartisen Buzulu bulunuyor; bu manzara, doğanın alçakgönüllü ölçeğini gösteriyor. Svolvaer'de seyrederken akşam oluyor. Gözlerinizi gökyüzüne dikin, çünkü sonbaharda ve ekvator civarında bu kuzey ışıklarını deneyimlemek için en iyi yerlerden biridir. İskelenizde bir temsilci tarafından karşılanacak ve sonraki üç gece kalacağınız klasik bir balıkçı kabininde rorbu'ya transfer olacaksınız."
       },
       {
         "dayNumber": "7",
-        "title": "Lofoten Islands (Svolvaer) – The Magic of the Archipelago",
-        "description": "Wake to the sound of silence. Look out onto the fjords. Breathe the fresh island air. Mountain peaks rise out from the sea and tower almost a kilometer above your head. Emerald green colors seem to shimmer from the islands’ surface, except when you encounter the white of sandy beaches. While the islands are many, bridges connect most of the archipelago, so you can cross the fjords and explore great swathes of what is mostly a wild and rugged wilderness. For these two days, you have a rental car. Set off without a plan and there are countless places to capture the imagination. Travel with a map and it’s amazing how much you can fit into a day, especially when you travel from March to September and when the days are longer. These two days are all about your adventure on the Lofoten Islands. A rental car can satisfy almost all interests but there are niche excursions that can also be included. Rent a bicycle and pedal your way across the islands, a great way to reach one of the untouched beaches. Paddle in two-person kayaks, a journey to islets and reefs, then along the shore of famous fjords. Raft the ocean in a rib boat, or choose to go snorkeling amid peculiar underwater flora and fauna. February to April is a superb time to join a fishing boat and see what you can pull up from the depths. It’s also a great time of year for hiking, the paths well marked but full of adventurous spirit. Whatever you do during these two days, you always return to the rorbu. Cozy on the inside and charming from the outside, the classic fisherman’s hut has been updated to provide contemporary accommodation. So you get the modern comforts without forgoing the sense of a bygone era. Of course, the rorbu is situated on the shore, a few steps from the waters of a fjord – it wouldn’t be a fisherman’s hut otherwise. You can watch the boats coming back in and inhale the exotic scents of dried cod. Laze around throughout day and evening, absorbing the beauty of Svolvaer island."
+        "title": "Lofoten Adaları (Svolvaer) – Takımadaların Büyüsü",
+        "description": "Sessizliğin sesiyle uyanın. Fiyortlara bakın. Taze ada havasını soluyun. Dağ zirveleri denizden yükselir ve neredeyse kafanızın üstünde bir kilometreye kadar uzanır. Zümrüt yeşili renkler adaların yüzeyinden parlayarak görünür, sadece beyaz kumlu plajlarla karşılaştığınızda. Adaların sayısı çok olsa da, köprüler çoğu takımadayı birleştirir, böylece fiyortları geçebilir ve büyük ölçüde vahşi ve engebeli bir doğal alanı keşfedebilirsiniz. Bu iki gün boyunca bir kiralık arabanız olacak. Plansız yola çıkın ve hayal gücünüzü yakalayacak sayısız yer bulacaksınız. Bir harita ile seyahat edin ve Mart ile Eylül arasında, günler uzun olduğu için bir günde neler sığdırabileceğinize şaşıracaksınız. Bu iki gün tamamen Lofoten Adaları'ndaki maceranıza adanmıştır. Bir kiralık araba hemen hemen her isteği karşılayabilir, ancak katılabileceğiniz özel geziler de bulunmaktadır. Bir bisiklet kiralayarak adalarda pedal çevirin, dokunulmamış plajlardan birine ulaşmanın harika bir yolu. İki kişilik kayıklarda paddling yapıp, adacıklara ve resiflere ulaşın, ardından ünlü fiyortların kıyısında sürdüğünüz yolu devam edin. Rib botla okyanusta akıntıya kapılabilir veya sıradışı su altı bitkileri ve hayvanları arasında şnorkelle yüzme seçeneğini tercih edebilirsiniz. Şubat ile Nisan arasında bir balıkçı botuna katılmak ve derinliklerden neler çıkarabileceğinizi görmek için harika bir zamandır. Ayrıca, yürüyüş için de harika bir yıldır; yollar iyi işaretlenmiştir ama macera ruhu doludur. Bu iki gün boyunca ne yaparsanız yapın, her zaman rorbu'ya geri döneceksiniz. İç kısımlarında konforlu ve dışarıdan da çekici olan klasik balıkçı kabini, günümüz konaklama imkanlarıyla güncellenmiştir. Yani, geçmişin hissiyatını kaybetmeden modern konforları elde edersiniz. Elbette ki rorbu, fiyort sularından birkaç adım ötede sahilde yer almıştır; aksi takdirde balıkçı kabini olmaktan çıkardı. Botların geri döndüğünü izleyebilir ve kuru tuzlu balığın egzotik kokusunu içinize çekebilirsiniz. Gündüz ve akşam boyunca tembellik yapın, Svolvaer adasının güzelliklerini içinize çekin."
       },
       {
         "dayNumber": "9",
-        "title": "Svolvaer – Departure",
-        "description": "Drive yourself to the airport and deliver the car. There’s no need to worry about the state of the vehicle, especially if you’ve been bumping down the roads towards beaches and had slushy snow across the bumper – a cleaning service is included in the package. From the airport you fly above the archipelago and back to the modern world; it won’t be long before you’re reminiscing about snow and fjords."
+        "title": "Svolvaer – Ayrılış",
+        "description": "Kendinizi havaalanına götürün ve aracı iade edin. Aracın durumu hakkında endişelenmenize gerek yok, özellikle plajlara giderken yolda sarsıla sarsıla gitmişseniz ve tamponun etrafında erimiş kar varsa - paket içindeki temizlik hizmeti dahil. Havaalanından, takımadaların üzerinde yeniden modern dünyaya döneceksiniz; kar ve fiyortlar hakkında nostaljik düşünmeye başlayana kadar çok uzun sürmeyecek."
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Bergen",
+        "country": "Norway"
+      },
+      {
+        "name": "Alesund",
+        "country": "Norway"
+      },
+      {
+        "name": "Geirangerfjord",
+        "country": "Norway"
+      },
+      {
+        "name": "Floro",
+        "country": "Norway"
+      },
+      {
+        "name": "Maloy",
+        "country": "Norway"
+      },
+      {
+        "name": "Torvik",
+        "country": "Norway"
+      },
+      {
+        "name": "Kristiansund",
+        "country": "Norway"
+      },
+      {
+        "name": "Trondheim",
+        "country": "Norway"
+      },
+      {
+        "name": "Stiftsgarden",
+        "country": "Norway"
+      },
+      {
+        "name": "Lofoten Islands",
+        "country": "Norway"
+      },
+      {
+        "name": "Bodo",
+        "country": "Norway"
+      },
+      {
+        "name": "Svolvaer",
+        "country": "Norway"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Bergen",
+        "country": "Norveç",
+        "lat": 60.39555,
+        "lng": 5.325952
+      },
+      {
+        "name": "Alesund",
+        "country": "Norveç",
+        "lat": 62.47293,
+        "lng": 6.156597
+      },
+      {
+        "name": "Geirangerfjord",
+        "country": "Norveç",
+        "lat": 62.101803,
+        "lng": 7.207343
+      },
+      {
+        "name": "Floro",
+        "country": "Norveç",
+        "lat": 61.599537,
+        "lng": 5.031049
+      },
+      {
+        "name": "Maloy",
+        "country": "Norveç",
+        "lat": 61.934456,
+        "lng": 5.111524
+      },
+      {
+        "name": "Torvik",
+        "country": "Norveç",
+        "lat": 60.304919,
+        "lng": 6.152394
+      },
+      {
+        "name": "Kristiansund",
+        "country": "Norveç",
+        "lat": 63.11105,
+        "lng": 7.731283
+      },
+      {
+        "name": "Trondheim",
+        "country": "Norveç",
+        "lat": 63.432697,
+        "lng": 10.397414
+      },
+      {
+        "name": "Lofoten Adaları",
+        "country": "Norveç",
+        "lat": 68.333056,
+        "lng": 14.666389
+      },
+      {
+        "name": "Bodo",
+        "country": "Norveç",
+        "lat": 67.28405,
+        "lng": 14.380707
+      },
+      {
+        "name": "Svolvaer",
+        "country": "Norveç",
+        "lat": 68.23224,
+        "lng": 14.563745
+      }
+    ],
+    "__trTranslated": true
   }
 ]

@@ -3056,49 +3056,49 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Marrakech",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 31.626928,
         "lng": -7.988117
       },
       {
         "name": "Ouarzazate",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 30.921404,
         "lng": -6.914479
       },
       {
         "name": "Mhamid",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 29.808015,
         "lng": -5.737016
       },
       {
         "name": "Foum Zguid",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 30.085873,
         "lng": -6.873537
       },
       {
         "name": "Assa",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 28.612022,
         "lng": -9.431838
       },
       {
         "name": "Guelmim",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 28.987638,
         "lng": -10.057652
       },
       {
-        "name": "Naila tuz lagünü",
-        "country": "Fas",
+        "name": "Naila salt lagoon",
+        "country": "Morocco",
         "lat": 34.604786,
         "lng": -2.219892
       },
@@ -3121,7 +3121,7 @@
         "lng": -11.620795
       },
       {
-        "name": "Terjit vahası",
+        "name": "Terjit oasis",
         "country": "Mauritania",
         "lat": 20.258163,
         "lng": -13.096455
@@ -3151,19 +3151,25 @@
         "lng": -16.076391
       },
       {
+        "name": "Banjul",
+        "country": "Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
+      },
+      {
         "name": "Ziguinchor",
         "country": "Senegal",
         "lat": 12.563493,
         "lng": -16.272461
       },
       {
-        "name": "Bijagos Takımadaları",
+        "name": "Bijagos Archipelago",
         "country": "Guinea-Bissau",
         "lat": 11.861324,
         "lng": -15.583055
       },
       {
-        "name": "Bubaque Adası",
+        "name": "Bubaque Island",
         "country": "Guinea-Bissau",
         "lat": 11.300053,
         "lng": -15.830978
@@ -3200,73 +3206,73 @@
       },
       {
         "name": "Monrovia",
-        "country": "Liberya",
+        "country": "Liberia",
         "lat": 6.297724,
         "lng": -10.779029
       },
       {
         "name": "Ganta",
-        "country": "Liberya",
+        "country": "Liberia",
         "lat": 7.228208,
         "lng": -8.989572
       },
       {
         "name": "Man",
-        "country": "Fildişi Kıyısı",
+        "country": "Ivory Coast",
         "lat": 7.409081,
         "lng": -7.55017
       },
       {
         "name": "Daloa",
-        "country": "Fildişi Kıyısı",
+        "country": "Ivory Coast",
         "lat": 6.87669,
         "lng": -6.45161
       },
       {
         "name": "Yamoussoukro",
-        "country": "Fildişi Kıyısı",
+        "country": "Ivory Coast",
         "lat": 6.809107,
         "lng": -5.273263
       },
       {
         "name": "Abidjan",
-        "country": "Fildişi Kıyısı",
+        "country": "Ivory Coast",
         "lat": 5.320357,
         "lng": -4.016107
       },
       {
         "name": "Grand Bassam",
-        "country": "Fildişi Kıyısı",
+        "country": "Ivory Coast",
         "lat": 5.212884,
         "lng": -3.743226
       },
       {
         "name": "Axim",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 4.86589,
         "lng": -2.239788
       },
       {
         "name": "Cape Coast",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 5.135057,
         "lng": -1.265911
       },
       {
         "name": "Elmina",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 5.09368,
         "lng": -1.350293
       },
       {
         "name": "Kumasi",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 6.708083,
         "lng": -1.613894
       },
       {
         "name": "Accra",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 5.661083,
         "lng": -0.202815
       },
@@ -3743,67 +3749,67 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Marrakeş",
-        "country": "Fas",
+        "name": "Marrakech",
+        "country": "Morocco",
         "lat": 31.626928,
         "lng": -7.988117
       },
       {
         "name": "Guelmime",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 28.987638,
         "lng": -10.057652
       },
       {
         "name": "Tarfaya",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 27.938314,
         "lng": -12.923756
       },
       {
         "name": "Laayoune",
-        "country": "Batı Sahra",
+        "country": "Western Sahara",
         "lat": 27.153843,
         "lng": -13.196871
       },
       {
         "name": "Dakhla",
-        "country": "Batı Sahra",
+        "country": "Western Sahara",
         "lat": 23.692513,
         "lng": -15.942004
       },
       {
         "name": "Nouadhibou",
-        "country": "Mauritanya",
+        "country": "Mauritania",
         "lat": 20.912705,
         "lng": -17.050309
       },
       {
         "name": "Chinguetti",
-        "country": "Mauritanya",
+        "country": "Mauritania",
         "lat": 20.440359,
         "lng": -12.262204
       },
       {
         "name": "Ouadane",
-        "country": "Mauritanya",
+        "country": "Mauritania",
         "lat": 20.930898,
         "lng": -11.620795
       },
       {
         "name": "Terjit",
-        "country": "Mauritanya",
+        "country": "Mauritania",
         "lat": 20.258163,
         "lng": -13.096455
       },
       {
         "name": "Nouakchott",
-        "country": "Mauritanya",
+        "country": "Mauritania",
         "lat": 18.079238,
         "lng": -15.978007
       },
@@ -3832,26 +3838,32 @@
         "lng": -15.456652
       },
       {
+        "name": "Banjul",
+        "country": "Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
+      },
+      {
         "name": "Bissau",
-        "country": "Gine-Bisau",
+        "country": "Guinea-Bissau",
         "lat": 11.861324,
         "lng": -15.583055
       },
       {
-        "name": "Bijagos Adaları",
-        "country": "Gine-Bisau",
+        "name": "Bijagos Islands",
+        "country": "Guinea-Bissau",
         "lat": 11.861324,
         "lng": -15.583055
       },
       {
-        "name": "Malinke bölgesi",
-        "country": "Gine-Bisau",
+        "name": "Malinke region",
+        "country": "Guinea-Bissau",
         "lat": 11.861324,
         "lng": -15.583055
       },
       {
         "name": "Kindia",
-        "country": "Gine",
+        "country": "Guinea",
         "lat": 10.049248,
         "lng": -12.8578
       },
@@ -3881,61 +3893,61 @@
       },
       {
         "name": "Man",
-        "country": "Fildişi Sahili",
+        "country": "Ivory Coast",
         "lat": 7.409081,
         "lng": -7.55017
       },
       {
         "name": "Daloa",
-        "country": "Fildişi Sahili",
+        "country": "Ivory Coast",
         "lat": 6.87669,
         "lng": -6.45161
       },
       {
         "name": "Yamoussoukro",
-        "country": "Fildişi Sahili",
+        "country": "Ivory Coast",
         "lat": 6.809107,
         "lng": -5.273263
       },
       {
         "name": "Abidjan",
-        "country": "Fildişi Sahili",
+        "country": "Ivory Coast",
         "lat": 5.320357,
         "lng": -4.016107
       },
       {
         "name": "Grand Bassam",
-        "country": "Fildişi Sahili",
+        "country": "Ivory Coast",
         "lat": 5.212884,
         "lng": -3.743226
       },
       {
         "name": "Axim",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 4.86589,
         "lng": -2.239788
       },
       {
         "name": "Anomabu",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 5.178346,
         "lng": -1.121541
       },
       {
         "name": "Elmina",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 5.09368,
         "lng": -1.350293
       },
       {
         "name": "Kumasi",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 6.708083,
         "lng": -1.613894
       },
       {
         "name": "Accra",
-        "country": "Gana",
+        "country": "Ghana",
         "lat": 5.661083,
         "lng": -0.202815
       },

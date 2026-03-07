@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Greenland",
+    "destination": "Grönland",
     "mainPhoto": "",
     "id": "greenland-photography-tour-uummannaq-ilulissat",
     "tourName": "Grönland fotoğraf turu, Uummannaq & Ilulissat",
@@ -81,7 +81,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Greenland",
+    "destination": "Grönland",
     "mainPhoto": "",
     "id": "greenland-sailing-expedition-scoresby-sund",
     "tourName": "Grönland yelken keşif gezisi, Scoresby Sund",
@@ -203,31 +203,55 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Bolungarvík",
-        "country": "İzlanda",
-        "lat": 66.15755,
-        "lng": -23.250727
+        "name": "Denmark Strait",
+        "country": "Greenland",
+        "lat": 33.326177,
+        "lng": -81.142093
+      },
+      {
+        "name": "Scoresby Sund",
+        "country": "Greenland",
+        "lat": -37.900845,
+        "lng": 145.21909
       },
       {
         "name": "Ittoqqortoormiit",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 70.485059,
         "lng": -21.964199
       },
       {
-        "name": "Ísafjörður",
-        "country": "İzlanda",
-        "lat": 66.07282,
-        "lng": -23.119629
+        "name": "Dunholm",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Deichmann Fjord",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Turner Sund",
+        "country": "Greenland",
+        "lat": -35.269318,
+        "lng": 149.1234
+      },
+      {
+        "name": "Denmark Strait",
+        "country": "Greenland",
+        "lat": 33.326177,
+        "lng": -81.142093
       },
       {
         "name": "Reykjavik",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 64.145847,
         "lng": -21.9436
       }

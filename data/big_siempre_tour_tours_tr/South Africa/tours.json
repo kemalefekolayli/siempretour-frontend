@@ -1,6 +1,1880 @@
 [
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
+    "mainPhoto": "",
+    "id": "AFKF",
+    "tourName": "Kruger 'den  Viktoria Şelalelerine",
+    "placesVisited": "Güney Afrika, Svaziland, Zimbabve, Zambiya",
+    "generalInfo": "İki haftada  Pretoria'dan Livingstone'a. Afrika'daki en küçük ülkelerden biri olan Svaziland'da gidin ve ülkeyi tanımlayan kültürleri öğrenin. Kruger Milli Parkı'ndaki ovalar boyu uzanan zebraları ve aslan ailelerinin sinsice dolaşmasını izleyin. Bulawayo'lu gergedanlarla birlikte yürüyün. Victoria Şelaleleri'nin güçlü gücünü görebileceğiniz Zambiya'da turunuzu sonlandırın.",
+    "durationDays": "14",
+    "price": "1199",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<p>&gt;Siempre Tour Kamyonlarıyla Kruger Milli Parkı'nda gezi</p>\n<p>&gt;Matobo Milli Parkı'nda bir tam gün gezi</p>\n<p><strong>Konaklama </strong></p>\n<p>4 gece Otel, 5 gece kulübe, 2 gece çadır kampı, 1 gece konuk evi</p>\n<p><strong>Taşımacılık</strong></p>\n<p>Büyük kamyonlar</p>\n<p><strong>Yemekler</strong></p>\n<p>1 açık büfe kahvaltı , 7 öğle yemeği , 3 yöresel kahvaltı, 4 kahvaltı, 2 akşam yemeği , 5 hafif kahvaltı , 1 yöresel öğle yemeği.</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tour tur lideri , Siempre Tour Şoförü</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Pretoria'ya varış",
+        "description": "Pretoria'ya hoş geldiniz. Konaklama birimimizin yardımıyla Johannesburg'a ve çevredeki bölgelere günlük geziler yapabilirsiniz. Neden Irkçılık , Nelson Mandela, altın, bira ve geleneksel Afrika tıbbı gibi çeşitli konulara ayrılmış büyüleyici müzeleri ziyaret etmeyesiniz ki? Walter Sisulu Botanik Bahçeleri de dahil olmak üzere başka seçenekler de var. Ya da Mai Mai pazarındaki şifacılarla tanışabilirsiniz. Ayrıca profesyonel rehberli turda Soweto'ya da gidebilirsiniz."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Mlilwane",
+        "description": "Kahvaltıdan sonra Güney Afrika'ya veda edip geçici olarak Afrika'nın en küçük ülkesi olan Svaziland Krallığı'na gidiyoruz. Bu güzel çeşitlilikteki bölge, yaban arazileri, büyüleyici yerlileri, sanat ve el sanatları, festivalleri ve geleneksel zengin kültürel mirası ile bilinir."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Hazyview",
+        "description": "Kruger Ulusal Parkı'nın sınırlarının hemen dışında yer alan Hazyview, Güney Afrika'nın Mpumalanga bölgesinde küçük bir kasabadır. Tanrı'nın Penceresi, dünyaca ünlü Blyde Nehri Kanyonu ve Lizbon Şelaleleri gibi bir dizi doğal güzellikleri olan Blyde Barajı üzerinden Hazyview'a doğru yol alacağız."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Kruger Milli Parkı",
+        "description": "Sabahın erken saatlerinde , büyük beşliyi gözleyebilmek için Kruger Ulusal Parkı'na gidiyoruz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Tshipise",
+        "description": "Kahvaltıdan sonra Kruger Milli Parkı'ndan çıkış yapıp Zimbabve sınırına yakın küçük bir kasaba olan Musina'ya doğru ilerliyoruz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Bulawayo ve Matobo Milli Parkı",
+        "description": "Güney Afrika'yı terk edip sınırı geçip Zimbabve'ye gidiyoruz ve Matobo Ulusal Parkı'nı keşfetmek için Bulawayo kasabasına doğru yol alıyoruz."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Viktorya Şelaleleri",
+        "description": "Bulawayo'dan yola çıkıyoruz ve kuzeye, Afrika'nın en büyük ilgi çeken merkezlerinden ve dünyanın en muhteşem şelalelerinden birine doğru gidiyoruz. Bir kilometreden fazla bir uzunluğa ve yüz metrenin üzerinde bir yüksekliğe sahip olan bu muhteşem doğa harikası su, Zimbabve ve Zambiya'yı ayıran sınır olarak tanımlamaktadır. Rüzgarın yönüne bağlı olarak, Afrika’nın dördüncü büyük nehri olan güçlü Zambezi’ye 40 km’ye hızla  çarpan suların gürültüsünü duyabilirsiniz."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Livingstone",
+        "description": "Zimbabve'yi geride bırakıp Zambiya ile bizi bağlayan berbat Victoria Şelaleleri Köprüsü'nü  geçiyoruz. Köprüden Zambezi Nehri'ne doğru daldığını gördüğünüz bungee jumper'lara bakabiliriniz."
+      },
+      {
+        "dayNumber": 14,
+        "title": "Livingstone'dan ayrılış",
+        "description": "Ömürlük serüveniniz bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız, manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Safari",
+    "route": [
+      {
+        "name": "Pretoria",
+        "country": "Güney Afrika"
+      },
+      {
+        "name": "Svaziland",
+        "country": "Svaziland"
+      },
+      {
+        "name": "Hazyview",
+        "country": "Güney Afrika"
+      },
+      {
+        "name": "Kruger Milli Parkı",
+        "country": "Güney Afrika"
+      },
+      {
+        "name": "Musina",
+        "country": "Güney Afrika"
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabve"
+      },
+      {
+        "name": "Matobo Milli Parkı",
+        "country": "Zimbabve"
+      },
+      {
+        "name": "Victoria Şelaleleri",
+        "country": "Zimbabve"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambiya"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Pretorya",
+        "country": "Güney Afrika",
+        "lat": -25.746304,
+        "lng": 28.190533
+      },
+      {
+        "name": "Svaziland",
+        "country": "Svaziland",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Hazyview",
+        "country": "Güney Afrika",
+        "lat": -25.03519,
+        "lng": 31.124977
+      },
+      {
+        "name": "Kruger Milli Parkı",
+        "country": "Güney Afrika",
+        "lat": -24.995052,
+        "lng": 31.592167
+      },
+      {
+        "name": "Musina",
+        "country": "Güney Afrika",
+        "lat": -22.339197,
+        "lng": 30.040491
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabve",
+        "lat": -20.15606,
+        "lng": 28.588706
+      },
+      {
+        "name": "Matobo Milli Parkı",
+        "country": "Zimbabve",
+        "lat": -20.412101,
+        "lng": 28.471157
+      },
+      {
+        "name": "Victoria Şelaleleri",
+        "country": "Zimbabve",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambiya",
+        "lat": -17.853135,
+        "lng": 25.861429
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Güney Afrika",
+    "mainPhoto": "",
+    "id": "AFSL",
+    "tourName": "Güney Afrika Macerası",
+    "placesVisited": "Güney Afrika, Svaziland, Zimbabve, Zambiya, Bostwana, Namibya",
+    "generalInfo": "Pretoria'dan Cape Town'a uzanan uzun soluklu bir macerada, Zimbabve’nin balta girmemiş ormanları  boyunca güçlü yırtıcı hayvanlara ve nesli tükenmekte olan gergedanlara ev sahipliği yapan milli parkları gezin. Huzurlu deltalardan süzülün ve gün batımında sulak arazilerin karşısında bir şeyler içmenin tadını çıkarın. Uçsuz bucaksız kanyonlardan nefes kesen manzaralara hayran kalacaksınız ve yolun her adımında dost canlısı bölgelerle tanışacaksınız.<br><br>En Yakın Uluslararası Havaalanına (geliş): Johannesburg O.R. Tambo Uluslararası Havalimanı  (JNB)<br><br>En Yakın Uluslararası Havaalanı (gidiş): Cape Town Uluslararası Havalimanı(CPT)",
+    "durationDays": "31",
+    "price": "3149",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<p>&gt;Siempre Tur kamyonlarıyla Kruger Milli Parkı’nda gezi</p>\n<p>&gt; Matobo Milli Parkı’nda tam gün gezi</p>\n<p>&gt;Chobe Nehrindeki günbatımı tekne turu</p>\n<p>&gt;Okavango Deltasındaki yürüyüş safarisi ve mokoro ( geleneksel sallar )</p>\n<p>&gt;Siempre Tur kamyonlarıyla Etosha Ulusal Parkı'nda yapılan , gün boyu süren gezi</p>\n<p>&gt;Solitaire Kasabası'ndaki oğlak dönencesinde duraklamak</p>\n<p>&gt;Sesriem Kanyonu</p>\n<p>&gt;Sossusvlei ve Ölü Vlei</p>\n<p>&gt;Balık Gölü Kanyonu</p>\n<p>&gt;Şarap Tadımı</p>\n<p><strong>Konaklama </strong></p>\n<p>14 gece Otel ,   5 gece baraka,  3 gece çadır kampı ,2 gece konukevi, 4 gece klübe , 2 gece pansiyon</p>\n<p><strong>Taşımacılık</strong></p>\n<p>Büyük kamyonlar</p>\n<p><strong>Yemekler</strong></p>\n<p>5 Açık Büfe Kahvaltı, 19 Öğle Yemeği, 7 Yöresel Kahvaltı, 12 Kahvaltı, 8 Akşam Yemeği</p>\n<p>6 Hafif Kahvaltı,1 Yöresel öğle yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tour lideri , Siempre Tur Şoförü</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Pretoria'ya varış",
+        "description": "Pretoria’ya Hoşgeldiniz."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Mlilwane",
+        "description": "Kahvaltıdan sonra Güney Afrika'ya veda edip geçici olarak Afrika'nın en küçük ülkesi olan Svaziland Krallığı'na gidiyoruz. Bu güzel çeşitlilikteki bölge, yaban arazileri, büyüleyici yerlileri, sanat ve el sanatları, festivalleri ve geleneksel zengin kültürel mirası ile bilinir."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Hazyview",
+        "description": "Kruger Ulusal Parkı'nın sınırlarının hemen dışında yer alan Hazyview, Güney Afrika'nın Mpumalanga bölgesinde küçük bir kasabadır. Tanrı'nın Penceresi, dünyaca ünlü Blyde Nehri Kanyonu ve Lizbon Şelaleleri gibi bir dizi doğal güzellikleri olan Blyde Barajı üzerinden Hazyview'a doğru yol alacağız."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Kruger Kruger Milli Parkı",
+        "description": "Sabahın erken saatlerinde , büyük beşliyi gözleyebilmek için Kruger Ulusal Parkı'na gidiyoruz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Tshipise",
+        "description": "Kahvaltıdan sonra Kruger Milli Parkı'ndan çıkış yapıp Zimbabve sınırına yakın küçük bir kasaba olan Musina'ya doğru ilerliyoruz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Bulawayo ve Matobo Milli Parkı",
+        "description": "Güney Afrika'yı terk edip sınırı geçip Zimbabve'ye gidiyoruz ve Matobo Ulusal Parkı'nı keşfetmek için Bulawayo kasabasına doğru yol alıyoruz."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Viktorya Şelaleleri",
+        "description": "Bulawayo'dan yola çıkıyoruz ve kuzeye, Afrika'nın en büyük ilgi çeken merkezlerinden ve dünyanın en muhteşem şelalelerinden birine doğru gidiyoruz. Bir kilometreden fazla bir uzunluğa ve yüz metrenin üzerinde bir yüksekliğe sahip olan bu muhteşem doğa harikası su, Zimbabve ve Zambiya'yı ayıran sınır olarak tanımlamaktadır. Rüzgarın yönüne bağlı olarak, Afrika’nın dördüncü büyük nehri olan güçlü Zambezi’ye 40 km’ye hızla  çarpan suların gürültüsünü duyabilirsiniz."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Livingstone",
+        "description": "Zimbabve'yi geride bırakıp Zambiya ile bizi bağlayan berbat Victoria Şelaleleri Köprüsü'nü  geçiyoruz. Köprüden Zambezi Nehri'ne doğru daldığını gördüğünüz bungee jumper'lara bakabiliriniz."
+      },
+      {
+        "dayNumber": 15,
+        "title": "Kasane ve Chobe Ulusal Parkı",
+        "description": "Zambiya’dan Bostvana’ya doğru maceramız devam ediyor. Chobe Ulusal Parkı’nda, çeşit çeşit vahşi hayvanların evinde kapalı kalacağız. 11.000 kilometre karelik ıssız arazi , sulak alanlar , ormanlar ve bataklıklar her türlü hayvan ve kuş yaşamını barındırır. Chobe nehrinde akşam üstü yapacağımız tekne turunda, hayvanalara farklı bir perspektiften bakın.  Burada vahşi yaşam çok fazla. Su kenarı boyunca konuşlanmakta olan  filleri, bufaloları , ceylanları, su aygırlarını , zürafaları ve su samurlarını görebilirsiniz."
+      },
+      {
+        "dayNumber": 16,
+        "title": "Filler",
+        "description": "Sıradaki durağımız çok yerel bir yer. Botswana'nın kuzeydoğu kesiminde özel koruma altındaki bir orman evi olan Elephant Sands'te kalacaksınız. Bu ev özellikle fillerden oluşan bir çok vahşi yaşama ev sahipliği yapıyor. Yüzme havuzundan çok keyif alacaksınız ve eğer şanslıysanız bu kibar devlerden birini görme şansını yakalayacaksınız."
+      },
+      {
+        "dayNumber": 17,
+        "title": "Maun",
+        "description": "Afrika'nın en büyük tatlı sulak arazilerini barındıran Okavango Deltası'ndan Kalahari Çölünün zirvesindeki Maun kasabasına ulaşacağız."
+      },
+      {
+        "dayNumber": 18,
+        "title": "Maun ve Okavango Deltası",
+        "description": "Okavango Deltası , Kavango Nehrinden beslenen ve çok yavaş akan suyun oluşturduğu büyük bir alandır. Su kalahari çöllerinin kumları üzerinde buharlaşmadan önce, nehirden kanal yolları labirentine, lagünlere ve palmiyelerle kaplı adalara doğru bir kaç kola ayrılır."
+      },
+      {
+        "dayNumber": 19,
+        "title": "Divundu",
+        "description": "Maun'dan ayrılıp Bostvana üzerinden Namibya'ya yol alıyoruz.  Sınırı geçip Caprivi Ucu adı verilen dar bölgeye ulaşıyoruz. Tüm  çıplaklığıyla Mohongo Yaşam alanındayız ve şanslıysanız benekli zebraları , zürafaları , ceylanları ve filleri görebilirsiniz."
+      },
+      {
+        "dayNumber": 20,
+        "title": "Etosha Ulusal Parkı",
+        "description": "İki gecemizi Etosha Ulusal Parkı’nda geçireceğiz. Eğer mümkünse 1 veya 2 gece parktaki pansiyonda kalmayı deneyeceğiz. Seyhatlerimiz boyunca vahşi yaşama dair en çok aklınızda kalacak yer Etosha Milli Parkı. Bütün vaktimizi en fantastik vahşi yaşam alanında geçirme fırsatı yakalayacağız."
+      },
+      {
+        "dayNumber": 22,
+        "title": "Outjo",
+        "description": "Bu sabah Etosha bölgesinden ayrılıp gece kalacağımız Outjo’ya doğru yol alıyoruz"
+      },
+      {
+        "dayNumber": 23,
+        "title": "Swakopmund",
+        "description": "Sıradaki durağımız büyüleyici sahilleriyle Swakopmund kasabası. Tarihi Alman koloni kasabası Swakopmund çöl ile sarılmıştır ve kum tepelerinin Atlas Okyanusu ile birleştiği yerdedir. Burası Namibya’nın en popüler tatil mekanıdır. Burada iki gece geçireceğiz. Koloni mimarilerinin arasında dolaşabilirsiniz ya da bir veya iki tane yerel demleme birayı tadabilirsiniz.  Adrenalin açlığınızı gidermeyi tercih ederseniz, bir çok gezi bulabilirsiniz. Kasabada ayrıca barlar , tüm yemekleri test edebileceğiniz restoranlar var. Deniz mahsülleri harika"
+      },
+      {
+        "dayNumber": 25,
+        "title": "Windhoek",
+        "description": "Deniz kenarından tekrardan karaya geçiyoruz. Yolculuğumuz Namibya'nın başkenti Windhoek'e.  Rakım 1650 metre. Windhoek kuzeydeki Eros Dağlarından Güneydeki Auas dağlarına doğru güzel bir vadiye uzanır. Bölgedeki tek şehirdir ve nüfusu 250.000 den fazladır."
+      },
+      {
+        "dayNumber": 26,
+        "title": "Sesriem",
+        "description": "Başkentten ayrılarak oğlak dönencesine doğru yola çıkıyoruz ve ancak olup biteni (sizi nelerin beklediğini)anlayabiliyorsunuz. Buradan, Namib-Naukluft Ulusal Parkı'na yakın, merkez Namibya'nın Khomas Bölgesi'nde küçük bir yerleşim yeri olan Solitaire'ye devam ediyoruz. Bu küçük çöl topluluğunda yalnızca bir benzin istasyonu, postane, fırın ve taşra marketi bulunuyor. Kamyondan inerken, bir an durup, kaktüsler ve kısmen kuma batmış eski araç karkasları ile çevrili bir film setine adım atmış gibi hissedeceksiniz."
+      },
+      {
+        "dayNumber": 27,
+        "title": "Balık Gölü Kanyonu",
+        "description": "Bu sabah, Namib Çölü'nün olağanüstü manzarası için Dune 45 tepesine tırmanma fırsatınız var. Ayrıca koyu renkli deve dikeni ağaçlarının beyaz zemine uzanarak bize eşsiz bir fotoğraf yakalama fırsatı verdiği olağanüstü Sossusvlei and Deadvlei'yi ziyaret edeceğiz. Burası gerçekten bir fotoğrafçı için cennettir."
+      },
+      {
+        "dayNumber": 28,
+        "title": "Orange Nehri",
+        "description": "Güneye, yerel olarak Oranjerivier olarak bilinen Orange Nehri'ne devam ediyoruz.. Burası Güney Afrika'nın en uzun nehridir ve Namibya ve Güney Afrika sınırı boyunca uzanmaktadır. Turuncu nehre giderken, ihtişamıyla yalnızca Kuzey Amerika'daki Büyük Kanyon'un rekabet edebileceği dünyanın en büyük kanyonlarından biri olan ve büyüklüğüyle nefes kesen Fish River (Balık Nehri) Kanyonunda duruyoruz. Kanyona bakan bir görüş açısında park edeceğiz. Kanyon boyunca kısa bir yürüyüş yapabilecek ve fotoğraf çekebileceksiniz."
+      },
+      {
+        "dayNumber": 29,
+        "title": "Cederberg",
+        "description": "Cape Town'a doğru ilerlerken, dereler, şelaleler, serin havuzlar ve muhteşem doğal kaya oluşumları ile kaplı engebeli arazisi ile Cederberg vahşi yaşam alanında bir mola vereceğiz. Burada turumuza dahil şarap tadımı ile yerel şarapları deneyimleyebileceksiniz."
+      },
+      {
+        "dayNumber": 30,
+        "title": "Cape Town",
+        "description": "Afrika'nın güney batı ucunda yer alan ve Atlantik Okyanusu ile simgeleşmiş Masa Dağı arasında yer alan Cape Town, dünyanın en güzel şehirlerinden biri olarak kabul edilmektedir."
+      },
+      {
+        "dayNumber": 31,
+        "title": "Cape Town'dan ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç saatte bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Safari",
+    "route": [
+      {
+        "name": "Güney Afrika",
+        "country": "Güney Afrika"
+      },
+      {
+        "name": "Svaziland",
+        "country": "Svaziland"
+      },
+      {
+        "name": "Zimbabve",
+        "country": "Zimbabve"
+      },
+      {
+        "name": "Matobo Milli Parkı",
+        "country": "Zimbabve"
+      },
+      {
+        "name": "Viktorya Şelaleleri",
+        "country": "Zimbabve"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambiya"
+      },
+      {
+        "name": "Kasane",
+        "country": "Bostwana"
+      },
+      {
+        "name": "Chobe Ulusal Parkı",
+        "country": "Bostwana"
+      },
+      {
+        "name": "Maun",
+        "country": "Bostwana"
+      },
+      {
+        "name": "Okavango Deltası",
+        "country": "Bostwana"
+      },
+      {
+        "name": "Divundu",
+        "country": "Namibya"
+      },
+      {
+        "name": "Etosha Ulusal Parkı",
+        "country": "Namibya"
+      },
+      {
+        "name": "Outjo",
+        "country": "Namibya"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibya"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibya"
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibya"
+      },
+      {
+        "name": "Balık Gölü Kanyonu",
+        "country": "Namibya"
+      },
+      {
+        "name": "Orange Nehri",
+        "country": "Namibya"
+      },
+      {
+        "name": "Cederberg",
+        "country": "Güney Afrika"
+      },
+      {
+        "name": "Cape Town",
+        "country": "Güney Afrika"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Güney Afrika",
+        "country": "Güney Afrika",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Svaziland",
+        "country": "Svaziland",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Matobo Milli Parkı",
+        "country": "Zimbabve",
+        "lat": -20.412101,
+        "lng": 28.471157
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambiya",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Kasane",
+        "country": "Botsvana",
+        "lat": -17.795486,
+        "lng": 25.153856
+      },
+      {
+        "name": "Chobe Ulusal Parkı",
+        "country": "Botsvana",
+        "lat": -17.799239,
+        "lng": 25.156546
+      },
+      {
+        "name": "Maun",
+        "country": "Botsvana",
+        "lat": -19.988626,
+        "lng": 23.42207
+      },
+      {
+        "name": "Divundu",
+        "country": "Namibya",
+        "lat": -18.099276,
+        "lng": 21.548803
+      },
+      {
+        "name": "Outjo",
+        "country": "Namibya",
+        "lat": -20.11079,
+        "lng": 16.156997
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibya",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibya",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibya",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Cederberg",
+        "country": "Güney Afrika",
+        "lat": -32.501175,
+        "lng": 19.258291
+      },
+      {
+        "name": "Cape Town",
+        "country": "Güney Afrika",
+        "lat": -33.922497,
+        "lng": 18.420296
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Güney Afrika",
+    "mainPhoto": "",
+    "id": "BXAKF",
+    "tourName": "Kruger, Şelaleler ve Cape Town",
+    "placesVisited": "Güney Afrika, Swaziland, Zimbabve, Zambiya, Bostavana, Namibya",
+    "generalInfo": "Bu muntazam tur, Güney Afrika'nın en büyük ilgi çekici yerlerinde toplanıyor. Güney Afrika’nın en ünlü yaşam alanı Kruger Milli Parkı'ndan geçin ve büyük beş’e göz kulak olun. Ayrıca, mokoro üzerinde, nehrin suları arasında dolaşabileceğiniz Okavango Deltası'nda kamp yapma seçeneğiniz de var. Muhteşem Masa Dağı'na teleferikle çıkabileceğiniz Cape Town’da  turunuzu sonlandırmadan önce, Güney Afrika’nın en iyi şaraplarını tadacaksınız.<br><br>En Yakın Uluslararası Havaalanına (geliş): Johannesburg O.R. Tambo Uluslararası Havalimanı  (JNB)<br><br>En Yakın Uluslararası Havaalanı (gidiş): Cape Town Uluslararası Havalimanı (CPT)",
+    "durationDays": "32",
+    "price": "1529",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>Kruger Milli Parkı gezisi</li>\n<li>Mahango  Koruma Alanı Gezisi</li>\n<li>Solitaire Kasabası ve Oğlak Dönencesi</li>\n<li>Sersiem Kanyonu</li>\n<li>Dune 45</li>\n<li>Balık Gölü Kanyonu Gezisi</li>\n</ul>\n<p><strong>Konaklama </strong></p>\n<p>27 gece çadır kampı, 4 gece Hostel </p>\n<p><strong>Taşımacılık</strong></p>\n<p>Büyük kamyonlar</p>\n<p><strong>Yemekler</strong></p>\n<p>23 Akşam Yemeği , 31 Kahvaltı , 24 Öğle Yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tour tur lideri , Siempre Tur Şoförü</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Pretoria'ya varış",
+        "description": "Turunuzun ilk günü, önceden organize edilmiş aktiviteleri olmayan bir varış günüdür. Dinlenmek ve bazı turistik yerleri görmek için önceden konaklama isteyebilirsiniz. Lütfen varışta, ön toplanmanın ne zaman yapılacağı hakkında bilgi almak için resepsiyona danışınız."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Mlilwane",
+        "description": "Svaziland diğer Afrika ülkelerinin çoğundan küçük olduğu için, Mlilwane bu inanılmaz krallığın birçok farklı alanını keşfedebileceğiniz mükemmel bir üs sağlar."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Hazyview",
+        "description": "Svaziland'a veda edip, Güney Afrika'ya tekrar girip Kruger Ulusal Parkı'na yakın bir yerdeki konaklama birimimize gidiyoruz. Bu gece Güney Afrika'nın Mpumalanga eyaletindeki küçük bir kasaba olan Hazyview'de kalıyoruz. Zamana bağlı olarak, Tanrı'nın Penceresi, dünyaca ünlü Blyde Nehri Kanyonu veya Lizbon Şelaleleri'nin harika manzaralarını görmek için rotada ek duraklar yapabiliriz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Kruger",
+        "description": "Sabahın erken saatlerinde , büyük beşliyi gözleyebilmek için Kruger Ulusal Parkı'na gidiyoruz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Musina",
+        "description": "Kahvaltıdan sonra Kruger Milli Parkı'ndan çıkış yapıp Zimbabve sınırına yakın küçük bir kasaba olan Musina'ya doğru ilerliyoruz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Bulawayo",
+        "description": "Güney Afrika'yı terk edip sınırı geçip Zimbabve'ye gidiyoruz ve Matobo Ulusal Parkı'nı keşfetmek için Bulawayo kasabasına doğru yol alıyoruz."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Viktorya Şelaleleri",
+        "description": "Bulawayo'dan yola çıkıyoruz ve kuzeye, Afrika'nın en büyük ilgi çeken merkezlerinden ve dünyanın en muhteşem şelalelerinden birine doğru gidiyoruz. Bir kilometreden fazla bir uzunluğa ve yüz metrenin üzerinde bir yüksekliğe sahip olan bu muhteşem doğa harikası su, Zimbabve ve Zambiya'yı ayıran sınır olarak tanımlamaktadır. Rüzgarın yönüne bağlı olarak, Afrika’nın dördüncü büyük nehri olan güçlü Zambezi’ye 40 km’ye hızla  çarpan suların gürültüsünü duyabilirsiniz."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Livingstone",
+        "description": "2 gece Viktoria Falls Waterfornt'da çadır kampı veya benzeri"
+      },
+      {
+        "dayNumber": 15,
+        "title": "Chobe Ulusal Parkı",
+        "description": "Chobe Ulusal Parkı’nın yanında, Botsvana'daki en çeşitli vahşi yaşam evinde kalacağız. 11.000 kilometre karelik ıssız arazi , sulak alanlar , ormanlar ve bataklıklar her türlü hayvan ve kuş yaşamını barındırır. Chobe nehrinde akşam üstü yapacağımız tekne turunda, hayvanalara farklı bir perspektiften bakın.  Burada vahşi yaşam çok fazla. Su kenarı boyunca konuşlanmakta olan  filleri, bufaloları , ceylanları, su aygırlarını , zürafaları ve su samurlarını görebilirsiniz."
+      },
+      {
+        "dayNumber": 16,
+        "title": "Maun",
+        "description": "Afrika'nın en büyük tatlı sulak arazilerini barındıran Okavango Deltası'ndan Kalahari Çölünün zirvesindeki Maun kasabasına ulaşacağız."
+      },
+      {
+        "dayNumber": 17,
+        "title": "Okavango Deltası",
+        "description": "Okavango Deltası , Kavango Nehrinden beslenen ve çok yavaş akan suyun oluşturduğu büyük bir alandır. Su kalahari çöllerinin kumları üzerinde buharlaşmadan önce, nehirden kanal yolları labirentine, lagünlere ve palmiyelerle kaplı adalara doğru bir kaç kola ayrılır."
+      },
+      {
+        "dayNumber": 18,
+        "title": "Maun",
+        "description": "Delta'dan ayrılıp, grubun geri kalanına, şoför ve aracınıza yeniden katılacağınız Maun'a ,bir geceliğine dönüyoruz."
+      },
+      {
+        "dayNumber": 19,
+        "title": "Divundu",
+        "description": "Maun'dan ayrılıp Bostvana üzerinden Namibya'ya yol alıyoruz.  Sınırı geçip Caprivi Ucu adı verilen dar bölgeye ulaşıyoruz. Tüm  çıplaklığıyla Mohongo Yaşam alanındayız ve şanslıysanız benekli zebraları , zürafaları , ceylanları ve filleri görebilirsiniz."
+      },
+      {
+        "dayNumber": 20,
+        "title": "Etosha Ulusal Parkı",
+        "description": "İki gecemizi Etosha Ulusal Parkı’nda geçireceğiz. Eğer mümkünse 1 veya 2 gece parktaki pansiyonda kalmayı deneyeceğiz. Seyhatlerimiz boyunca vahşi yaşama dair en çok aklınızda kalacak yer Etosha Milli Parkı. Bütün vaktimizi en fantastik vahşi yaşam alanında geçirme fırsatı yakalayacağız."
+      },
+      {
+        "dayNumber": 22,
+        "title": "Kamanjab",
+        "description": "Bu sabah, Etosha bölgesinden ayrılıyor ve ünlü Otjitotongwe Cheetah Park'ta gecemizi geçireceğimiz Kamanjab'a doğru yol alıyoruz. Koruma altında olan bu güzel yaratıklara, bölge etrafındaki isteğe bağlı turlara yaklaşma seçeneğine sahipsiniz. Kamanjab'da ayrıca, köylüler tarafından bakılan yetim kalan çocukların bulunduğu yerel bir Himba Kabilesini ziyaret etme fırsatına sahipsiniz. Sadece Himba çocuklarının, Namibya'da, okula devam etme zorunluluğu yoktur ve geleneksel olarak köyün yaşlıları tarafından yetiştirilirler. Topluluğa bağışlar kabul edilir ve rehberinizle bağış yapabilirsiniz."
+      },
+      {
+        "dayNumber": 23,
+        "title": "Windhoek",
+        "description": "Namibya'nın başkenti Windhoek'e hoşgeldiniz. Rakım 1650 metre. Windhoek kuzeydeki Eros Dağlarından Güneydeki Auas dağlarına doğru güzel bir vadiye uzanır. Bölgedeki tek şehirdir ve nüfusu 250.000 den fazladır."
+      },
+      {
+        "dayNumber": 24,
+        "title": "Swakopmund",
+        "description": "Sıradaki durağımız büyüleyici sahilleriyle Swakopmund kasabası. Tarihi Alman koloni kasabası Swakopmund çöl ile sarılmıştır ve kum tepelerinin Atlas Okyanusu ile birleştiği yerdedir. Burası Namibya’nın en popüler tatil mekanıdır. Swakopmund'da, bir dizi isteğe bağlı gezintiye sahip. Adrenalin açlığımızı beslemek için iki tam günümüz var. Kasabada çeşitli barlar ve restoranlar vardır. Akşamları, soğuk bir yerel bir veya iki bira eşliğinde gün içinde yaptığınız aktivitelerin videosunu izleyerek geçirebilirsiniz. Birkaç eğlenceli gece için harika bir yer."
+      },
+      {
+        "dayNumber": 27,
+        "title": "Sesriem",
+        "description": "Bugün, güzel dağlık bölgeler ve dev kum tepeleriyle ünlü Namib-Naukluft Milli Parkı'ndan geçerek Sesriem'e doğru uzanıyoruz. Namibya'nın Khomas Bölgesi'ndeki küçük bir yerleşim yeri olan Solitaire'de öğle yemeği molası vermeden önce, Oğlak dönencesinde durup fotoğraf çektiriyoruz. Sesriem'e vardığımızda, öğleden sonra, Sesriem Kanyonunda bir yürüyüşe çıkabilirsiniz. İnanılmaz çeşitlilikteki vahşi yaşam, buradaki zorlu koşullara adapte olmuştur. Birçok kertenkele türü  ile birlikte kaya güvercini, karga, sığırcık ve baykuş görebilirsiniz."
+      },
+      {
+        "dayNumber": 28,
+        "title": "Balık Gölü Kanyonu",
+        "description": "Bu sabah, Namib Çölü'nün olağanüstü manzarası için Dune 45 tepesine tırmanma fırsatınız var. Ayrıca koyu renkli deve dikeni ağaçlarının beyaz zemine uzanarak bize eşsiz bir fotoğraf yakalama fırsatı verdiği olağanüstü Sossusvlei and Deadvlei'yi ziyaret edeceğiz. Burası gerçekten bir fotoğrafçı için cennettir."
+      },
+      {
+        "dayNumber": 29,
+        "title": "Orange Nehri",
+        "description": "Güneye, yerel olarak Oranjerivier olarak bilinen Orange Nehri'ne devam ediyoruz.. Burası Güney Afrika'nın en uzun nehridir ve Namibya ve Güney Afrika sınırı boyunca uzanmaktadır. Turuncu nehre giderken, ihtişamıyla yalnızca Kuzey Amerika'daki Büyük Kanyon'un rekabet edebileceği dünyanın en büyük kanyonlarından biri olan ve büyüklüğüyle nefes kesen Fish River (Balık Nehri) Kanyonunda duruyoruz. Kanyona bakan bir görüş açısında park edeceğiz. Kanyon boyunca kısa bir yürüyüş yapabilecek ve fotoğraf çekebileceksiniz."
+      },
+      {
+        "dayNumber": 30,
+        "title": "Cederberg",
+        "description": "Cape Town'a doğru ilerlerken, dereler, şelaleler, serin havuzlar ve muhteşem doğal kaya oluşumları ile kaplı engebeli arazisi ile Cederberg vahşi yaşam alanında bir mola vereceğiz. Burada turumuza dahil şarap tadımı ile yerel şarapları deneyimleyebileceksiniz."
+      },
+      {
+        "dayNumber": 31,
+        "title": "Cape Town",
+        "description": "Afrika'nın güney batı ucunda yer alan ve Atlantik Okyanusu ile simgeleşmiş Masa Dağı arasında yer alan Cape Town, dünyanın en güzel şehirlerinden biri olarak kabul edilmektedir."
+      },
+      {
+        "dayNumber": 32,
+        "title": "Cape Town'dan ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç saatte bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Safari",
+    "route": [
+      {
+        "name": "Güney Afrika",
+        "country": "Güney Afrika"
+      },
+      {
+        "name": "Swaziland",
+        "country": "Swaziland"
+      },
+      {
+        "name": "Zimbabve",
+        "country": "Zimbabve"
+      },
+      {
+        "name": "Zambiya",
+        "country": "Zambiya"
+      },
+      {
+        "name": "Botsvana",
+        "country": "Botsvana"
+      },
+      {
+        "name": "Namibya",
+        "country": "Namibya"
+      },
+      {
+        "name": "Pretoria",
+        "country": "Güney Afrika"
+      },
+      {
+        "name": "Mlilwane",
+        "country": "Swaziland"
+      },
+      {
+        "name": "Hazyview",
+        "country": "Güney Afrika"
+      },
+      {
+        "name": "Kruger Ulusal Parkı",
+        "country": "Güney Afrika"
+      },
+      {
+        "name": "Musina",
+        "country": "Güney Afrika"
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabve"
+      },
+      {
+        "name": "Viktorya Şelaleleri",
+        "country": "Zimbabve"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambiya"
+      },
+      {
+        "name": "Chobe Ulusal Parkı",
+        "country": "Botsvana"
+      },
+      {
+        "name": "Maun",
+        "country": "Botsvana"
+      },
+      {
+        "name": "Okavango Deltası",
+        "country": "Botsvana"
+      },
+      {
+        "name": "Divundu",
+        "country": "Namibya"
+      },
+      {
+        "name": "Etosha Ulusal Parkı",
+        "country": "Namibya"
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibya"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibya"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibya"
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibya"
+      },
+      {
+        "name": "Balık Gölü Kanyonu",
+        "country": "Namibya"
+      },
+      {
+        "name": "Orange Nehri",
+        "country": "Namibya"
+      },
+      {
+        "name": "Cederberg",
+        "country": "Güney Afrika"
+      },
+      {
+        "name": "Cape Town",
+        "country": "Güney Afrika"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Güney Afrika",
+        "country": "Güney Afrika",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Svaziland",
+        "country": "Svaziland",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Pretoria",
+        "country": "Güney Afrika",
+        "lat": -25.746304,
+        "lng": 28.190533
+      },
+      {
+        "name": "Mlilwane",
+        "country": "Svaziland",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Hazyview",
+        "country": "Güney Afrika",
+        "lat": -25.03519,
+        "lng": 31.124977
+      },
+      {
+        "name": "Kruger Ulusal Parkı",
+        "country": "Güney Afrika",
+        "lat": -24.995052,
+        "lng": 31.592167
+      },
+      {
+        "name": "Musina",
+        "country": "Güney Afrika",
+        "lat": -22.339197,
+        "lng": 30.040491
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabve",
+        "lat": -20.15606,
+        "lng": 28.588706
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambiya",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Chobe Ulusal Parkı",
+        "country": "Botsvana",
+        "lat": -17.799239,
+        "lng": 25.156546
+      },
+      {
+        "name": "Maun",
+        "country": "Botsvana",
+        "lat": -19.988626,
+        "lng": 23.42207
+      },
+      {
+        "name": "Divundu",
+        "country": "Namibya",
+        "lat": -18.099276,
+        "lng": 21.548803
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibya",
+        "lat": -19.628408,
+        "lng": 14.843358
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibya",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibya",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibya",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Cederberg",
+        "country": "Güney Afrika",
+        "lat": -32.501175,
+        "lng": 19.258291
+      },
+      {
+        "name": "Cape Town",
+        "country": "Güney Afrika",
+        "lat": -33.922497,
+        "lng": 18.420296
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Güney Afrika",
+    "mainPhoto": "",
+    "id": "BXASC",
+    "tourName": "Güney Afrika Turu",
+    "placesVisited": "Güney Afrika, Lesotho, Svaziland, Zimbabve, Zambiya, Botsvana, Namibya",
+    "generalInfo": "Enerjik şehir olan Cape Town' dan başlayarak, Güney Afrika'nın kalbine doğru yol alıyoruz. Güney Afrika' nın önde gelen milli parkı Kruger' den geçin ve büyük ovalarında büyük 5'linin gezinmelerini gözlemleyin. Hem Zambiya hem de Zimbabve'den Victoria Şelaleleri' ni ziyaret edebilir ve Balık Nehri Kanyonu'ndaki manzaralara hayran kalın. Bu tur birden fazla şehirde başlayıp bitebilir, bu yüzden macera ellerinizde!<br><br><strong>En Yakın Uluslararası Havaalanına (geliş):</strong> Cape Town Uluslararası Havalimanı (CPT)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> Cape Town Uluslararası Havalimanı (CPT)",
+    "durationDays": "42",
+    "price": "2169",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>- Addo Fil Milli Parkı gezisi</li>\n<li>- Golden Gate Milli Parkı gezisi</li>\n<li>- Kruger Milli Parkı gezisi</li>\n<li>- Mahango  Koruma Alanı Gezisi</li>\n<li>- Solitaire Kasabası ve Oğlak Dönencesi</li>\n<li>- Sersiem Kanyonu</li>\n<li>- Dune 45</li>\n<li>- Balık Gölü Kanyonu Gezisi</li>\n</ul>\n<p><strong>Konaklama </strong></p>\n<p>5 gece Hostel , 35 gece çadır kampı</p>\n<p><strong>Taşımacılık</strong></p>\n<p>Büyük kamyonlar</p>\n<p><strong>Yemekler</strong></p>\n<p>41 Kahvaltı, 33 Öğle Yemeği, 30 Akşam Yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tur tur lideri , Siempre Tur Şoförü</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Cape Town' a Varış",
+        "description": "Afrika’ nın güney batı ucunda yer alan ve Atlantik Okyanusu ile simgeleşmiş Masa Dağı arasında yer alan Cape Town, dünyanın en güzel şehirlerinden biri olarak kabul edilmektedir."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Tsitsikamma",
+        "description": "Tsitsikamma Milli Parkı’ nın yanında kalıyoruz. Bahçe güzergahında yer alan tesis, Storms Nehri ve Hint Okyanusu’ nun sörf için buluştuğu noktaya bakan tepenin üzerinde yer almaktadır. Park, doğal yürüyüşler, küçük bir plaj ve nehir ağzını kapsayan ünlü Storms River asma köprüsü dahil olmak üzere sahil şeridinden oluşan bir deniz rezervini kapsamaktadır. Park, yerli bitkilerin bolluğu ve üretken kuş yaşamı ile bilinir. Sörf ve güney sağ balina yunuslar için bir göz atın. Bacaklarınızı kısa bir yürüyüş mesafesinde veya yakınlardaki bir şelaleye doğru uzatabilirsiniz, bu yüzden sıcak günleri için mayolarınızı yanınıza almayı unutmayın."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Addo Fil Milli Parkı",
+        "description": "Addo Fil Milli Parkı, Güney Afrika’ daki Port Elizabeth’ e yakın bir yerde bulunan bir fil koruma alanıdır ve ülkenin kıyı şeridindeki en güzel kumullardan bazılarına sahiptir. Parkın orijinal fil kısmı, 1931 yılında, bölgede sadece 11 fil kaldığı zaman belirlenmiştir. Bugün bu ince ayarlı ekosistem, 450’ den fazla fil, Afrika antilobu, nesli tükenmekte olan siyah gergedan, çeşitli antilop türleri, Burchell’ in zebraları ( ova zebraları ) ve Afrika yaban domuzlarına bir sığınaktır. Seyahat zamanlarımıza bağlı olarak, bir öğleden sonra ve sabah erken saatlerde park gezisi yapma şansı elde edebiliriz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Hogsback",
+        "description": "Doğu Burnu’ nda yer alan Hogsback köyü, Tyum Vadisi’ nin yukarısındaki Amatole Dağları’ nın yamaçlarında üç zirvenin hakim olduğu bir bölgede yer alır; bunlardan biri,  belirli bir açıdan Hog’ un sırtına benzeyen jeolojik kayaların bulunduğu tepedir. Görülecek  çok çeşitli kuş yaşamının olduğu çevredeki ormanı keşfetmek için biraz zamanımız var. Ayrıca yukarıdaki gölgeliklerde samango maymunlarının seslerini duyabilirsiniz. Birkaç nehir dağlardan akar ve Madonna ve Çocuk, Swallowtail ve Kettlespout gibi küçük ama muhteşem şelaleler oluşturur."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Leshetto",
+        "description": "Lesotho krallığına giriş yapıyoruz. Bu dağlık ülkeden , nefes kesici güzelliği olan Malealea’ ya doğru yol alıyoruz. Dünya, tamamı deniz seviyesinden 1000 metre yukarıda olan tek ülke olan “Gökteki Krallık” da geleneksel Basotho yaşam tarzını deneyimleme şansı bulacağız. Lesotho’ ya olan hiçbir ziyaret bir midilli gezintisi olmadan tamamlanmadı ve Malealea’ daki pansiyonumuzdan, sağlam bir midilli arkasında, manzarayı keşfetmek için bolca fırsat var. Engebeli vadileri ve dağ patikalarını yürüyerek de keşfedebilirsiniz. Konaklamanız süresince, hiç şüphesiz, Basotho halkının dayanıklılığını ve dostluğunu anlamaya ve topraklarının huzurunun tadını çıkaracaksınız."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Drakensburg",
+        "description": "Bugün bazı muhteşem dağ manzaralarından geçeceğiz. Localarımızı terk edip, arka planda muhteşem  zirveleri olan küçük çiftlik işletmelerinden ve kasabalardan geçiyoruz. Güney Afrika’ ya ve Freestate eyaletine dönerken, turuncu ve sarı kumtaşı kayalıkları ve çimleri ile göz alıcı Golden Gate Milli Parkı’ na doğru ilerliyoruz ve Afrika geyiklerini, zebraları ve kanguruları görme şansı buluyoruz. Güney Afrika’ nın Drakensberg Parkı ya da Ukhahlamba, dağlık bir harikalar diyarı ve Dünya Mirası alanıdır. Dağlar ayrıca KwaZulu-Natal eyaletini ve Lesotho’ yu ayıran bir bariyer oluşturur. Johannesburg’ a giden yolda, meşhur Amfi tiyatro ile bu resmedilmeye değer  arazide kamp yapmak için iki gecemiz olacak. Drakensburg’ daki ücretsiz bir gün boyunca bölgeyi yürüyerek ya da kamptaki kiralık dağ bisikletleriyle keşfedebilirsiniz. Kamp aynı zamanda uzun ve zorlu ama yapmaya değer  bir gezi olan Amfi Tiyatro’ ya yürüyüş  düzenlemektedir."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Pretoria",
+        "description": "Bugün Drakensburg’ dan Pretoria’ ya geçiyoruz."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Millwane",
+        "description": "Svaziland diğer Afrika ülkelerinin çoğundan küçük olduğu için, Mlilwane bu inanılmaz krallığın birçok farklı alanını keşfedebileceğiniz mükemmel bir üs sağlar."
+      },
+      {
+        "dayNumber": 15,
+        "title": "Hazyview",
+        "description": "Svaziland’ a veda edip, Güney Afrika’ ya tekrar girip Kruger Ulusal Parkı’ na yakın bir yerdeki konaklama birimimize gidiyoruz. Bu gece Güney Afrika’ nın Mpumalanga eyaletindeki küçük bir kasaba olan Hazyview’ de kalıyoruz. Zamana bağlı olarak, Tanrı’ nın Penceresi, dünyaca ünlü Blyde Nehri Kanyonu veya Lizbon Şelaleleri’ nin harika manzaralarını görmek için rotada ek duraklar yapabiliriz."
+      },
+      {
+        "dayNumber": 16,
+        "title": "Kruger",
+        "description": "Sabahın erken saatlerinde , büyük beşliyi gözleyebilmek için Kruger Ulusal Parkı’ na gidiyoruz."
+      },
+      {
+        "dayNumber": 18,
+        "title": "Musina",
+        "description": "Kahvaltıdan sonra Kruger Milli Parkı’ ndan çıkış yapıp Zimbabve sınırına yakın küçük bir kasaba olan Musina’ ya doğru ilerliyoruz."
+      },
+      {
+        "dayNumber": 19,
+        "title": "Bulawoya",
+        "description": "Güney Afrika’ yı terk edip sınırı geçip Zimbabve’ ye gidiyoruz ve Matobo Ulusal Parkı’ nı keşfetmek için Bulawayo kasabasına doğru yol alıyoruz."
+      },
+      {
+        "dayNumber": 21,
+        "title": "Viktorya Şelaleleri",
+        "description": "Bulawayo’ dan yola çıkıyoruz ve kuzeye, Afrika’ nın en büyük ilgi çeken merkezlerinden ve dünyanın en muhteşem şelalelerinden birine doğru gidiyoruz. Bir kilometreden fazla bir uzunluğa ve yüz metrenin üzerinde bir yüksekliğe sahip olan bu muhteşem doğa harikası su, Zimbabve ve Zambiya’ yı ayıran sınır olarak tanımlamaktadır. Rüzgarın yönüne bağlı olarak, Afrika’ nın dördüncü büyük nehri olan güçlü Zambezi’ ye 40 km’ ye hızla  çarpan suların gürültüsünü duyabilirsiniz."
+      },
+      {
+        "dayNumber": 22,
+        "title": "Viktorya Şelaleleri",
+        "description": "1 gece kamp çadırı"
+      },
+      {
+        "dayNumber": 22,
+        "title": "Livingstone",
+        "description": "2 gece Viktoria Falls Waterfornt’ da çadır kampı veya benzeri"
+      },
+      {
+        "dayNumber": 25,
+        "title": "Chobe Ulusal Parkı",
+        "description": "Chobe Ulusal Parkı’ nın yanında, Botsvana’ daki en çeşitli vahşi yaşam evinde kalacağız. 11.000 kilometre karelik ıssız arazi , sulak alanlar , ormanlar ve bataklıklar her türlü hayvan ve kuş yaşamını barındırır. Chobe nehrinde akşam üstü yapacağımız tekne turunda, hayvanlara farklı bir perspektiften bakın.  Burada vahşi yaşam çok fazla. Su kenarı boyunca konuşlanmakta olan  filleri, bufaloları , ceylanları, su aygırlarını , zürafaları ve su samurlarını görebilirsiniz."
+      },
+      {
+        "dayNumber": 26,
+        "title": "Maun",
+        "description": "Afrika’ nın en büyük tatlı sulak arazilerini barındıran Okavango Deltası’ ndan Kalahari Çölünün zirvesindeki Maun kasabasına ulaşacağız."
+      },
+      {
+        "dayNumber": 27,
+        "title": "Okavango Deltası",
+        "description": "Okavango Deltası , Kavango Nehrinden beslenen ve çok yavaş akan suyun oluşturduğu büyük bir alandır. Su kalahari çöllerinin kumları üzerinde buharlaşmadan önce, nehirden kanal yolları labirentine, lagünlere ve palmiyelerle kaplı adalara doğru bir kaç kola ayrılır."
+      },
+      {
+        "dayNumber": 28,
+        "title": "Maun",
+        "description": "Delta’ dan ayrılıp, grubun geri kalanına, şoför ve aracınıza yeniden katılacağınız Maun’ a ,bir geceliğine dönüyoruz."
+      },
+      {
+        "dayNumber": 29,
+        "title": "Divindu",
+        "description": "Maun’ dan ayrılıp Botsvana üzerinden Namibya’ ya yol alıyoruz.  Sınırı geçip Caprivi Ucu adı verilen dar bölgeye ulaşıyoruz. Tüm  çıplaklığıyla Mohongo Yaşam alanındayız ve şanslıysanız benekli zebraları , zürafaları , ceylanları ve filleri görebilirsiniz."
+      },
+      {
+        "dayNumber": 30,
+        "title": "Etosha Ulusal Parkı",
+        "description": "İki gecemizi Etosha Ulusal Parkı’ nda geçireceğiz. Eğer mümkünse 1 veya 2 gece parktaki pansiyonda kalmayı deneyeceğiz. Seyahatlerimiz boyunca vahşi yaşama dair en çok aklınızda kalacak yer Etosha Milli Parkı. Bütün vaktimizi en fantastik vahşi yaşam alanında geçirme fırsatı yakalayacağız."
+      },
+      {
+        "dayNumber": 32,
+        "title": "Kamanjab",
+        "description": "Bu sabah, Etosha bölgesinden ayrılıyor ve ünlü Otjitotongwe Cheetah Park’ ta gecemizi geçireceğimiz Kamanjab’ a doğru yol alıyoruz. Koruma altında olan bu güzel yaratıklara, bölge etrafındaki isteğe bağlı turlara yaklaşma seçeneğine sahipsiniz. Kamanjab’ da ayrıca, köylüler tarafından bakılan yetim kalan çocukların bulunduğu yerel bir Himba Kabilesini ziyaret etme fırsatına sahipsiniz. Sadece Himba çocuklarının, Namibya’ da, okula devam etme zorunluluğu yoktur ve geleneksel olarak köyün yaşlıları tarafından yetiştirilirler. Topluluğa bağışlar kabul edilir ve rehberinizle bağış yapabilirsiniz."
+      },
+      {
+        "dayNumber": 33,
+        "title": "Windhoek",
+        "description": "Namibya’ nın başkenti Windhoek’ e hoş geldiniz. Rakım 1650 metre. Windhoek kuzeydeki Eros Dağlarından Güneydeki Auas dağlarına doğru güzel bir vadiye uzanır. Bölgedeki tek şehirdir ve nüfusu 250.000 den fazladır."
+      },
+      {
+        "dayNumber": 34,
+        "title": "Swakopmund",
+        "description": "Sıradaki durağımız büyüleyici sahilleriyle Swakopmund kasabası. Tarihi Alman koloni kasabası Swakopmund çöl ile sarılmıştır ve kum tepelerinin Atlas Okyanusu ile birleştiği yerdedir. Burası Namibya’ nın en popüler tatil mekanıdır. Swakopmund’ da, bir dizi isteğe bağlı gezintiye sahip. Adrenalin açlığımızı beslemek için iki tam günümüz var. Kasabada çeşitli barlar ve restoranlar vardır. Akşamları, soğuk bir yerel bir veya iki bira eşliğinde gün içinde yaptığınız aktivitelerin videosunu izleyerek geçirebilirsiniz. Birkaç eğlenceli gece için harika bir yer."
+      },
+      {
+        "dayNumber": 37,
+        "title": "Sesriem",
+        "description": "Bugün, güzel dağlık bölgeler ve dev kum tepeleriyle ünlü Namib-Naukluft Milli Parkı’ ndan geçerek Sesriem’ e doğru uzanıyoruz. Namibya’ nın Khomas Bölgesi’ ndeki küçük bir yerleşim yeri olan Solitaire’ de öğle yemeği molası vermeden önce, Oğlak dönencesinde durup fotoğraf çektiriyoruz. Sesriem’ e vardığımızda, öğleden sonra, Sesriem Kanyonunda bir yürüyüşe çıkabilirsiniz. İnanılmaz çeşitlilikteki vahşi yaşam, buradaki zorlu koşullara adapte olmuştur. Birçok kertenkele türü  ile birlikte kaya güvercini, karga, sığırcık ve baykuş görebilirsiniz."
+      },
+      {
+        "dayNumber": 38,
+        "title": "Balık Gölü Kanyonu",
+        "description": "Bu sabah, Namib Çölü’ nün olağanüstü manzarası için Dune 45 tepesine tırmanma fırsatınız var. Ayrıca koyu renkli deve dikeni ağaçlarının beyaz zemine uzanarak bize eşsiz bir fotoğraf yakalama fırsatı verdiği olağanüstü Sossusvlei and Deadvlei’ yi ziyaret edeceğiz. Burası gerçekten bir fotoğrafçı için cennettir."
+      },
+      {
+        "dayNumber": 39,
+        "title": "Orange Nehri (Turuncu Nehir)",
+        "description": "Güneye, yerel olarak Oranjerivier olarak bilinen Orange Nehri’ ne devam ediyoruz.. Burası Güney Afrika’ nın en uzun nehridir ve Namibya ve Güney Afrika sınırı boyunca uzanmaktadır. Turuncu nehre giderken, ihtişamıyla yalnızca Kuzey Amerika’ daki Büyük Kanyon’ un rekabet edebileceği dünyanın en büyük kanyonlarından biri olan ve büyüklüğüyle nefes kesen Fish River (Balık Nehri) Kanyonunda duruyoruz. Kanyona bakan bir görüş açısında park edeceğiz. Kanyon boyunca kısa bir yürüyüş yapabilecek ve fotoğraf çekebileceksiniz."
+      },
+      {
+        "dayNumber": 40,
+        "title": "Cederberg",
+        "description": "Cape Town’ a doğru ilerlerken, dereler, şelaleler, serin havuzlar ve muhteşem doğal kaya oluşumları ile kaplı engebeli arazisi ile Cederberg vahşi yaşam alanında bir mola vereceğiz. Burada turumuza dahil şarap tadımı ile yerel şarapları deneyimleyebileceksiniz."
+      },
+      {
+        "dayNumber": 41,
+        "title": "Cape Town",
+        "description": "Afrika’ nın güney batı ucunda yer alan ve Atlantik Okyanusu ile simgeleşmiş Masa Dağı arasında yer alan Cape Town, dünyanın en güzel şehirlerinden biri olarak kabul edilmektedir."
+      },
+      {
+        "dayNumber": 42,
+        "title": "Cape Town' dan Ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç saatte bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Safari",
+    "route": [
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Tsitsikamma National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Addo Elephant National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Hogsback",
+        "country": "South Africa"
+      },
+      {
+        "name": "Lesotho",
+        "country": "Lesotho"
+      },
+      {
+        "name": "Drakensberg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Pretoria",
+        "country": "South Africa"
+      },
+      {
+        "name": "Mlilwane",
+        "country": "Eswatini"
+      },
+      {
+        "name": "Hazyview",
+        "country": "South Africa"
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Musina",
+        "country": "South Africa"
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana"
+      },
+      {
+        "name": "Maun",
+        "country": "Botswana"
+      },
+      {
+        "name": "Okavango Delta",
+        "country": "Botswana"
+      },
+      {
+        "name": "Maun",
+        "country": "Botswana"
+      },
+      {
+        "name": "Divundu",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia"
+      },
+      {
+        "name": "Fish River Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Cederberg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Cape Town",
+        "country": "Güney Afrika",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Tsitsikamma Ulusal Parkı",
+        "country": "Güney Afrika",
+        "lat": -33.967354,
+        "lng": 23.93007
+      },
+      {
+        "name": "Addo Fil Ulusal Parkı",
+        "country": "Güney Afrika",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Hogsback",
+        "country": "Güney Afrika",
+        "lat": -32.59805,
+        "lng": 26.938688
+      },
+      {
+        "name": "Drakensberg",
+        "country": "Güney Afrika",
+        "lat": -28.612917,
+        "lng": 29.126863
+      },
+      {
+        "name": "Pretoria",
+        "country": "Güney Afrika",
+        "lat": -25.746304,
+        "lng": 28.190533
+      },
+      {
+        "name": "Mlilwane",
+        "country": "Eswatini",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Hazyview",
+        "country": "Güney Afrika",
+        "lat": -25.03519,
+        "lng": 31.124977
+      },
+      {
+        "name": "Kruger Ulusal Parkı",
+        "country": "Güney Afrika",
+        "lat": -24.995052,
+        "lng": 31.592167
+      },
+      {
+        "name": "Musina",
+        "country": "Güney Afrika",
+        "lat": -22.339197,
+        "lng": 30.040491
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabve",
+        "lat": -20.15606,
+        "lng": 28.588706
+      },
+      {
+        "name": "Victoria Şelalesi",
+        "country": "Zimbabve",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Victoria Şelalesi",
+        "country": "Zimbabve",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambiya",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Chobe Ulusal Parkı",
+        "country": "Botsvana",
+        "lat": -17.799239,
+        "lng": 25.156546
+      },
+      {
+        "name": "Maun",
+        "country": "Botsvana",
+        "lat": -19.988626,
+        "lng": 23.42207
+      },
+      {
+        "name": "Maun",
+        "country": "Botsvana",
+        "lat": -19.988626,
+        "lng": 23.42207
+      },
+      {
+        "name": "Divundu",
+        "country": "Namibya",
+        "lat": -18.099276,
+        "lng": 21.548803
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibya",
+        "lat": -19.628408,
+        "lng": 14.843358
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibya",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibya",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibya",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Cederberg",
+        "country": "Güney Afrika",
+        "lat": -32.501175,
+        "lng": 19.258291
+      },
+      {
+        "name": "Cape Town",
+        "country": "Güney Afrika",
+        "lat": -33.922497,
+        "lng": 18.420296
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Güney Afrika",
+    "mainPhoto": "",
+    "id": "BXASJ",
+    "tourName": "Güney Afrika Gezisi",
+    "placesVisited": "Güney Afrika, Swaziland, Zimbabve, Zambiya, Bostavana, Namibya, Lesotho",
+    "generalInfo": "Pretoria'dan başlayarak Güney Afrika üzerinden bir maceraya atılıyoruz. Eşsiz Svazi gelenekleri hakkında bilgi edinebileceğiniz ve Kruger Milli Parkı'ndaki vahşi yaşamın bolluğunu Siempre Tour kamyonunun yüce yüksekliğinden hayranlıkla seyredebileceğiniz, küçük ama fazlasıyla kültürel şehir Svaziland'ı keşfedin. Yedi ülke boyunca seyahat edin.Pretoria, Cape Town veya Livingstone'dan bu destansı tura başlayabilirsiniz.<br><br>En Yakın Uluslararası Havaalanına (geliş): Johannesburg O.R. Tambo Uluslararası Havalimanı  (JNB)<br><br>En Yakın Uluslararası Havaalanı (gidiş): Johannesburg O.R. Tambo Uluslararası Havalimanı  (JNB)",
+    "durationDays": "43",
+    "price": "1949",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>Kruger Milli Parkı gezisi</li>\n<li>Mahango  Koruma Alanı Gezisi</li>\n<li>Solitaire Kasabası ve Oğlak Dönencesi</li>\n<li>Sersiem Kanyonu</li>\n<li>Dune 45</li>\n<li>Balık Gölü Kanyonu Gezisi</li>\n<li>Addo Fil Ulusal Parkı Gezisi</li>\n<li>Golden Gate Ulusal Parkı Gezisi</li>\n</ul>\n<p><strong>Konaklama </strong></p>\n<p>36 gece çadır kampı, 6 gece Hostel ,</p>\n<p><strong>Taşımacılık</strong></p>\n<p>Büyük kamyonlar</p>\n<p><strong>Yemekler</strong></p>\n<p>30 Akşam Yemeği , 40 Kahvaltı , 32 Öğle Yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tour tur lideri , Siempre Tur Şoförü</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Pretoria'ya varış",
+        "description": "Turunuzun ilk günü, önceden organize edilmiş aktiviteleri olmayan bir varış günüdür. Dinlenmek ve bazı turistik yerleri görmek için önceden konaklama isteyebilirsiniz. Lütfen varışta, ön toplanmanın ne zaman yapılacağı hakkında bilgi almak için resepsiyona danışınız."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Mlilwane",
+        "description": "Svaziland diğer Afrika ülkelerinin çoğundan küçük olduğu için, Mlilwane bu inanılmaz krallığın birçok farklı alanını keşfedebileceğiniz mükemmel bir üs sağlar."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Hazyview",
+        "description": "Svaziland'a veda edip, Güney Afrika'ya tekrar girip Kruger Ulusal Parkı'na yakın bir yerdeki konaklama birimimize gidiyoruz. Bu gece Güney Afrika'nın Mpumalanga eyaletindeki küçük bir kasaba olan Hazyview'de kalıyoruz. Zamana bağlı olarak, Tanrı'nın Penceresi, dünyaca ünlü Blyde Nehri Kanyonu veya Lizbon Şelaleleri'nin harika manzaralarını görmek için rotada ek duraklar yapabiliriz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Kruger",
+        "description": "Sabahın erken saatlerinde , büyük beşliyi gözleyebilmek için Kruger Ulusal Parkı'na gidiyoruz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Musina",
+        "description": "Kahvaltıdan sonra Kruger Milli Parkı'ndan çıkış yapıp Zimbabve sınırına yakın küçük bir kasaba olan Musina'ya doğru ilerliyoruz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Bulawayo",
+        "description": "Güney Afrika'yı terk edip sınırı geçip Zimbabve'ye gidiyoruz ve Matobo Ulusal Parkı'nı keşfetmek için Bulawayo kasabasına doğru yol alıyoruz."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Viktorya Şelaleleri",
+        "description": "Bulawayo'dan yola çıkıyoruz ve kuzeye, Afrika'nın en büyük ilgi çeken merkezlerinden ve dünyanın en muhteşem şelalelerinden birine doğru gidiyoruz. Bir kilometreden fazla bir uzunluğa ve yüz metrenin üzerinde bir yüksekliğe sahip olan bu muhteşem doğa harikası su, Zimbabve ve Zambiya'yı ayıran sınır olarak tanımlamaktadır. Rüzgarın yönüne bağlı olarak, Afrika’nın dördüncü büyük nehri olan güçlü Zambezi’ye 40 km’ye hızla  çarpan suların gürültüsünü duyabilirsiniz."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Livingstone",
+        "description": "2 gece Viktoria Falls Waterfornt'da çadır kampı veya benzeri"
+      },
+      {
+        "dayNumber": 15,
+        "title": "Chobe Ulusal Parkı",
+        "description": "Chobe Ulusal Parkı’nın yanında, Botsvana'daki en çeşitli vahşi yaşam evinde kalacağız. 11.000 kilometre karelik ıssız arazi , sulak alanlar , ormanlar ve bataklıklar her türlü hayvan ve kuş yaşamını barındırır. Chobe nehrinde akşam üstü yapacağımız tekne turunda, hayvanalara farklı bir perspektiften bakın.  Burada vahşi yaşam çok fazla. Su kenarı boyunca konuşlanmakta olan  filleri, bufaloları , ceylanları, su aygırlarını , zürafaları ve su samurlarını görebilirsiniz."
+      },
+      {
+        "dayNumber": 16,
+        "title": "Maun",
+        "description": "Afrika'nın en büyük tatlı sulak arazilerini barındıran Okavango Deltası'ndan Kalahari Çölünün zirvesindeki Maun kasabasına ulaşacağız."
+      },
+      {
+        "dayNumber": 17,
+        "title": "Okavango Deltası",
+        "description": "Okavango Deltası , Kavango Nehrinden beslenen ve çok yavaş akan suyun oluşturduğu büyük bir alandır. Su kalahari çöllerinin kumları üzerinde buharlaşmadan önce, nehirden kanal yolları labirentine, lagünlere ve palmiyelerle kaplı adalara doğru bir kaç kola ayrılır."
+      },
+      {
+        "dayNumber": 18,
+        "title": "Maun",
+        "description": "Delta'dan ayrılıp, grubun geri kalanına, şoför ve aracınıza yeniden katılacağınız Maun'a ,bir geceliğine dönüyoruz."
+      },
+      {
+        "dayNumber": 19,
+        "title": "Divundu",
+        "description": "Maun'dan ayrılıp Bostvana üzerinden Namibya'ya yol alıyoruz.  Sınırı geçip Caprivi Ucu adı verilen dar bölgeye ulaşıyoruz. Tüm  çıplaklığıyla Mohongo Yaşam alanındayız ve şanslıysanız benekli zebraları , zürafaları , ceylanları ve filleri görebilirsiniz."
+      },
+      {
+        "dayNumber": 20,
+        "title": "Etosha Ulusal Parkı",
+        "description": "İki gecemizi Etosha Ulusal Parkı’nda geçireceğiz. Eğer mümkünse 1 veya 2 gece parktaki pansiyonda kalmayı deneyeceğiz. Seyhatlerimiz boyunca vahşi yaşama dair en çok aklınızda kalacak yer Etosha Milli Parkı. Bütün vaktimizi en fantastik vahşi yaşam alanında geçirme fırsatı yakalayacağız."
+      },
+      {
+        "dayNumber": 22,
+        "title": "Kamanjab",
+        "description": "Koruma altında olan bu güzel yaratıklara, bölge etrafındaki isteğe bağlı turlara yaklaşma seçeneğine sahipsiniz. Kamanjab'da ayrıca, köylüler tarafından bakılan yetim kalan çocukların bulunduğu yerel bir Himba Kabilesini ziyaret etme fırsatına sahipsiniz. Sadece Himba çocuklarının, Namibya'da, okula devam etme zorunluluğu yoktur ve geleneksel olarak köyün yaşlıları tarafından yetiştirilirler. Topluluğa bağışlar kabul edilir ve rehberinizle bağış yapabilirsiniz."
+      },
+      {
+        "dayNumber": 23,
+        "title": "Windhoek",
+        "description": "Namibya'nın başkenti Windhoek'e hoşgeldiniz. Rakım 1650 metre. Windhoek kuzeydeki Eros Dağlarından Güneydeki Auas dağlarına doğru güzel bir vadiye uzanır. Bölgedeki tek şehirdir ve nüfusu 250.000 den fazladır."
+      },
+      {
+        "dayNumber": 24,
+        "title": "Swakopmund",
+        "description": "Sıradaki durağımız büyüleyici sahilleriyle Swakopmund kasabası. Tarihi Alman koloni kasabası Swakopmund çöl ile sarılmıştır ve kum tepelerinin Atlas Okyanusu ile birleştiği yerdedir. Burası Namibya’nın en popüler tatil mekanıdır. Swakopmund'da, bir dizi isteğe bağlı gezintiye sahip. Adrenalin açlığımızı beslemek için iki tam günümüz var. Kasabada çeşitli barlar ve restoranlar vardır. Akşamları, soğuk bir yerel bir veya iki bira eşliğinde gün içinde yaptığınız aktivitelerin videosunu izleyerek geçirebilirsiniz. Birkaç eğlenceli gece için harika bir yer."
+      },
+      {
+        "dayNumber": 27,
+        "title": "Sesriem",
+        "description": "Bugün, güzel dağlık bölgeler ve dev kum tepeleriyle ünlü Namib-Naukluft Milli Parkı'ndan geçerek Sesriem'e doğru uzanıyoruz. Namibya'nın Khomas Bölgesi'ndeki küçük bir yerleşim yeri olan Solitaire'de öğle yemeği molası vermeden önce, Oğlak dönencesinde durup fotoğraf çektiriyoruz. Sesriem'e vardığımızda, öğleden sonra, Sesriem Kanyonunda bir yürüyüşe çıkabilirsiniz. İnanılmaz çeşitlilikteki vahşi yaşam, buradaki zorlu koşullara adapte olmuştur. Birçok kertenkele türü  ile birlikte kaya güvercini, karga, sığırcık ve baykuş görebilirsiniz."
+      },
+      {
+        "dayNumber": 28,
+        "title": "Balık Gölü Kanyonu",
+        "description": "Bu sabah, Namib Çölü'nün olağanüstü manzarası için Dune 45 tepesine tırmanma fırsatınız var. Ayrıca koyu renkli deve dikeni ağaçlarının beyaz zemine uzanarak bize eşsiz bir fotoğraf yakalama fırsatı verdiği olağanüstü Sossusvlei and Deadvlei'yi ziyaret edeceğiz. Burası gerçekten bir fotoğrafçı için cennettir."
+      },
+      {
+        "dayNumber": 29,
+        "title": "Orange Nehri",
+        "description": "Güneye, yerel olarak Oranjerivier olarak bilinen Orange Nehri'ne devam ediyoruz.. Burası Güney Afrika'nın en uzun nehridir ve Namibya ve Güney Afrika sınırı boyunca uzanmaktadır. Turuncu nehre giderken, ihtişamıyla yalnızca Kuzey Amerika'daki Büyük Kanyon'un rekabet edebileceği dünyanın en büyük kanyonlarından biri olan ve büyüklüğüyle nefes kesen Fish River (Balık Nehri) Kanyonunda duruyoruz. Kanyona bakan bir görüş açısında park edeceğiz. Kanyon boyunca kısa bir yürüyüş yapabilecek ve fotoğraf çekebileceksiniz."
+      },
+      {
+        "dayNumber": 30,
+        "title": "Cederberg",
+        "description": "Cape Town'a doğru ilerlerken, dereler, şelaleler, serin havuzlar ve muhteşem doğal kaya oluşumları ile kaplı engebeli arazisi ile Cederberg vahşi yaşam alanında bir mola vereceğiz. Burada turumuza dahil şarap tadımı ile yerel şarapları deneyimleyebileceksiniz."
+      },
+      {
+        "dayNumber": 31,
+        "title": "Cape Town",
+        "description": "Afrika'nın güney batı ucunda yer alan ve Atlantik Okyanusu ile simgeleşmiş Masa Dağı arasında yer alan Cape Town, dünyanın en güzel şehirlerinden biri olarak kabul edilmektedir."
+      },
+      {
+        "dayNumber": 34,
+        "title": "Tsitsikamma",
+        "description": "Tsitsikamma Milli Parkı'nın yanında kalıyoruz. Bahçe güzergahında yer alan tesis, Storms Nehri ve Hint Okyanusu'nun sörf için buluştuğu noktaya bakan tepenin üzerinde yer almaktadır. Park, doğal yürüyüşler, küçük bir plaj ve nehir ağzını kapsayan ünlü Storms River asma köprüsü dahil olmak üzere sahil şeridinden oluşan bir deniz rezervini kapsamaktadır. Park, yerli bitkilerin bolluğu ve üretken kuş yaşamı ile bilinir. Sörf ve güney sağ balina yunuslar için bir göz atın. Bacaklarınızı kısa bir yürüyüş mesafesinde veya yakınlardaki bir şelaleye doğru uzatabilirsiniz, bu yüzden sıcak günleri için mayolarınızı yanınıza almayı unutmayın."
+      },
+      {
+        "dayNumber": 36,
+        "title": "Addo Fil Milli Parkı",
+        "description": "Addo Fil Milli Parkı, Güney Afrika'daki Port Elizabeth'e yakın bir yerde bulunan bir fil koruma alanıdır ve ülkenin kıyı şeridindeki en güzel kumullardan bazılarına sahiptir. Parkın orjinal fil kısmı, 1931 yılında, bölgede sadece 11 fil kaldığı zaman belirlenmiştir. Bugün bu ince ayarlı ekosistem, 450'den fazla fil, Afrika antilopu, nesli tükenmekte olan siyah gergedan, çeşitli antilop türleri, Burchell'in zebraları ( ova zebraları ) ve Afrika yaban domuzlarına bir sığınaktır. Seyahat zamanlarımıza bağlı olarak, bir öğleden sonra ve sabah erken saatlerde park gezisi yapma şansı elde edebiliriz."
+      },
+      {
+        "dayNumber": 37,
+        "title": "Hogsback",
+        "description": "Doğu Burnu'nda yer alan Hogsback köyü, Tyum Vadisi'nin yukarısındaki Amatole Dağları'nın yamaçlarında üç zirvenin hakim olduğu bir bölgede yer alır; bunlardan biri,  belirli bir açıdan Hog'un sırtına benzeyen jeolojik kayaların bulunduğu tepedir. Görülecek  çok çeşitli kuş yaşamının olduğu çevredeki ormanı keşfetmek için biraz zamanımız var. Ayrıca yukarıdaki gölgeliklerde samango maymunlarının seslerini duyabilirsiniz. Birkaç nehir dağlardan akar ve Madonna ve Çocuk, Swallowtail ve Kettlespout gibi küçük ama muhteşem şelaleler oluşturur."
+      },
+      {
+        "dayNumber": 38,
+        "title": "Lesotho",
+        "description": "Lesotho krallığına giriş yapıyoruz.Bu dağlık ülkeden , nefes kesici güzelliği olan Malealea'ya doğru yol alıyoruz. Dünya, tamamı deniz seviyesinden 1000 metre yukarıda olan tek ülke olan “Gökteki Krallık” da geleneksel Basotho yaşam tarzını deneyimleme şansı bulacağız. Lesotho'ya olan hiçbir ziyaret bir midilli gezintisi olmadan tamamlanmadı ve Malealea'daki pansiyonumuzdan, sağlam bir midilli arkasında, manzarayı keşfetmek için bolca fırsat var. Engebeli vadileri ve dağ patikalarını yürüyerek de keşfedebilirsiniz. Konaklamanız süresince, hiç şüphesiz, Basotho halkının dayanıklılığını ve dostluğunu anlamaya ve topraklarının huzurunun tadını çıkaracaksınız."
+      },
+      {
+        "dayNumber": 40,
+        "title": "Drakensberg",
+        "description": "Bugün bazı muhteşem dağ manzaralarından geçeceğiz. Localarımızı terkedip, arka planda muhteşem  zirveleri olan küçük çiftlik işletmelerinden ve kasabalardan geçiyoruz. Güney Afrika'ya ve Freestate eyaletine dönerken, turuncu ve sarı kumtaşı kayalıkları ve çimleri ile göz alıcı Golden Gate Milli Parkı'na doğru ilerliyoruz ve Afrika geyiklerini, zebraları ve gnuları görme şansı buluyoruz. Güney Afrika'nın Drakensberg Parkı ya da UKhahlamba, dağlık bir harikalar diyarı ve Dünya Mirası alanıdır. Dağlar ayrıca KwaZulu-Natal eyaletini ve Lesotho'yu ayıran bir bariyer oluşturur. Johannesburg'a giden yolda, meşhur Amfi tiyatro ile bu resmedilmeye değer  arazide kamp yapmak için iki gecemiz olacak. Drakensburg'daki ücretsiz bir gün boyunca bölgeyi yürüyerek ya da kamptaki kiralık dağ bisikletleriyle keşfedebilirsiniz. Kamp aynı zamanda uzun ve zorlu ama yapmaya değer  bir gezi olan Amfi Tiyatro'ya yürüyüş  düzenlemektedir."
+      },
+      {
+        "dayNumber": 42,
+        "title": "Pretoria",
+        "description": "Bugün Drakensburg'dan Pretoria'ya geçiyoruz."
+      },
+      {
+        "dayNumber": 43,
+        "title": "Pretoria'dan ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç saatte bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Safari",
+    "route": [
+      {
+        "name": "Pretoria",
+        "country": "South Africa"
+      },
+      {
+        "name": "Mlilwane",
+        "country": "Swaziland"
+      },
+      {
+        "name": "Hazyview",
+        "country": "South Africa"
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Musina",
+        "country": "South Africa"
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana"
+      },
+      {
+        "name": "Maun",
+        "country": "Botswana"
+      },
+      {
+        "name": "Okavango Delta",
+        "country": "Botswana"
+      },
+      {
+        "name": "Divundu",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia"
+      },
+      {
+        "name": "Fish River Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Cederberg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "name": "Tsitsikamma National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Addo Elephant National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Hogsback",
+        "country": "South Africa"
+      },
+      {
+        "name": "Lesotho",
+        "country": "Lesotho"
+      },
+      {
+        "name": "Drakensberg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Pretoria",
+        "country": "South Africa"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Pretoria",
+        "country": "Güney Afrika",
+        "lat": -25.746304,
+        "lng": 28.190533
+      },
+      {
+        "name": "Mlilwane",
+        "country": "Svaziland",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Hazyview",
+        "country": "Güney Afrika",
+        "lat": -25.03519,
+        "lng": 31.124977
+      },
+      {
+        "name": "Kruger Ulusal Parkı",
+        "country": "Güney Afrika",
+        "lat": -24.995052,
+        "lng": 31.592167
+      },
+      {
+        "name": "Musina",
+        "country": "Güney Afrika",
+        "lat": -22.339197,
+        "lng": 30.040491
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabve",
+        "lat": -20.15606,
+        "lng": 28.588706
+      },
+      {
+        "name": "Victoria Şelaleleri",
+        "country": "Zimbabve",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambiya",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Chobe Ulusal Parkı",
+        "country": "Botsvana",
+        "lat": -17.799239,
+        "lng": 25.156546
+      },
+      {
+        "name": "Maun",
+        "country": "Botsvana",
+        "lat": -19.988626,
+        "lng": 23.42207
+      },
+      {
+        "name": "Divundu",
+        "country": "Namibya",
+        "lat": -18.099276,
+        "lng": 21.548803
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibya",
+        "lat": -19.628408,
+        "lng": 14.843358
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibya",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibya",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibya",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Cederberg",
+        "country": "Güney Afrika",
+        "lat": -32.501175,
+        "lng": 19.258291
+      },
+      {
+        "name": "Cape Town",
+        "country": "Güney Afrika",
+        "lat": -33.922497,
+        "lng": 18.420296
+      },
+      {
+        "name": "Tsitsikamma Ulusal Parkı",
+        "country": "Güney Afrika",
+        "lat": -33.967354,
+        "lng": 23.93007
+      },
+      {
+        "name": "Addo Fil Ulusal Parkı",
+        "country": "Güney Afrika",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
+        "name": "Hogsback",
+        "country": "Güney Afrika",
+        "lat": -32.59805,
+        "lng": 26.938688
+      },
+      {
+        "name": "Drakensberg",
+        "country": "Güney Afrika",
+        "lat": -28.612917,
+        "lng": 29.126863
+      },
+      {
+        "name": "Pretoria",
+        "country": "Güney Afrika",
+        "lat": -25.746304,
+        "lng": 28.190533
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Güney Afrika",
+    "mainPhoto": "",
+    "id": "BXASS",
+    "tourName": "Safari, Swazi ve Zim",
+    "placesVisited": "Güney Afrika, Swaziland, Zimbabve, Zambiya.",
+    "generalInfo": "Yaban hayatı gözlemleme kabiliyetleriniz üzerine, dört ülkede on üç günün tadını çıkarın. Matobo Ulusal Parkı'ndaki gergedanları izleyebileceğiniz Zimbabve'ye girmeden önce muhteşem kamyonumuzdan büyük beşlisi ile ünlü Kruger Ulusal Parkı'nı ziyaret edin. Bir ton adrenalin pompalama aktivitesi yaşama şansı ile bir araya gelen bu tatlı  tur, “birazcık gürültülü” bir Afrika deneyimi isteyenler için mükemmel bir tercih!<br><br>En Yakın Uluslararası Havaalanına (geliş): Johannesburg O.R. Tambo Uluslararası Havalimanı  (JNB)<br><br>En Yakın Uluslararası Havaalanı (gidiş): Livingstone Harry Mwanga NkumbulaHavalimanı (LVI)",
+    "durationDays": "13",
+    "price": "1019",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>Kruger Milli Parkı gezisi</li>\n</ul>\n<p><strong>Konaklama </strong></p>\n<p>12 gece çadır kampı</p>\n<p><strong>Taşımacılık</strong></p>\n<p>Büyük kamyonlar</p>\n<p><strong>Yemekler</strong></p>\n<p>10 Akşam Yemeği , 12 Kahvaltı , 12 Öğle Yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tur tur lideri , Siempre Tur Şoförü</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Pretoria'ya varış",
+        "description": "Turunuzun ilk günü, önceden organize edilmiş aktiviteleri olmayan bir varış günüdür. Dinlenmek ve bazı turistik yerleri görmek için önceden konaklama isteyebilirsiniz. Lütfen varışta, ön toplanmanın ne zaman yapılacağı hakkında bilgi almak için resepsiyona danışınız."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Mlilwane",
+        "description": "Svaziland diğer Afrika ülkelerinin çoğundan küçük olduğu için, Mlilwane bu inanılmaz krallığın birçok farklı alanını keşfedebileceğiniz mükemmel bir üs sağlar."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Hazyview",
+        "description": "Svaziland'a veda edip, Güney Afrika'ya tekrar girip Kruger Ulusal Parkı'na yakın bir yerdeki konaklama birimimize gidiyoruz. Bu gece Güney Afrika'nın Mpumalanga eyaletindeki küçük bir kasaba olan Hazyview'de kalıyoruz. Zamana bağlı olarak, Tanrı'nın Penceresi, dünyaca ünlü Blyde Nehri Kanyonu veya Lizbon Şelaleleri'nin harika manzaralarını görmek için rotada ek duraklar yapabiliriz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Kruger",
+        "description": "Sabahın erken saatlerinde , büyük beşliyi gözleyebilmek için Kruger Ulusal Parkı'na gidiyoruz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Musina",
+        "description": "Kahvaltıdan sonra Kruger Milli Parkı'ndan çıkış yapıp Zimbabve sınırına yakın küçük bir kasaba olan Musina'ya doğru ilerliyoruz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Bulawayo",
+        "description": "Güney Afrika'yı terk edip sınırı geçip Zimbabve'ye gidiyoruz ve Matobo Ulusal Parkı'nı keşfetmek için Bulawayo kasabasına doğru yol alıyoruz."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Viktorya Şelaleleri",
+        "description": "Bulawayo'dan yola çıkıyoruz ve kuzeye, Afrika'nın en büyük ilgi çeken merkezlerinden ve dünyanın en muhteşem şelalelerinden birine doğru gidiyoruz. Bir kilometreden fazla bir uzunluğa ve yüz metrenin üzerinde bir yüksekliğe sahip olan bu muhteşem doğa harikası su, Zimbabve ve Zambiya'yı ayıran sınır olarak tanımlamaktadır. Rüzgarın yönüne bağlı olarak, Afrika’nın dördüncü büyük nehri olan güçlü Zambezi’ye 40 km’ye hızla  çarpan suların gürültüsünü duyabilirsiniz."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Livingstone'dan ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç saatte bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Safari",
+    "route": [
+      {
+        "name": "Pretoria",
+        "country": "South Africa"
+      },
+      {
+        "name": "Mlilwane",
+        "country": "Swaziland"
+      },
+      {
+        "name": "Hazyview",
+        "country": "South Africa"
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa"
+      },
+      {
+        "name": "Musina",
+        "country": "South Africa"
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Pretorya",
+        "country": "Güney Afrika",
+        "lat": -25.746304,
+        "lng": 28.190533
+      },
+      {
+        "name": "Mlilwane",
+        "country": "Svaziland",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Hazyview",
+        "country": "Güney Afrika",
+        "lat": -25.03519,
+        "lng": 31.124977
+      },
+      {
+        "name": "Kruger Ulusal Parkı",
+        "country": "Güney Afrika",
+        "lat": -24.995052,
+        "lng": 31.592167
+      },
+      {
+        "name": "Musina",
+        "country": "Güney Afrika",
+        "lat": -22.339197,
+        "lng": 30.040491
+      },
+      {
+        "name": "Bulawayo",
+        "country": "Zimbabve",
+        "lat": -20.15606,
+        "lng": 28.588706
+      },
+      {
+        "name": "Victoria Şelalesi",
+        "country": "Zimbabve",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambiya",
+        "lat": -17.853135,
+        "lng": 25.861429
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "7-day-big-five-safari-in-south-africa",
     "tourName": "Güney Afrika'da 7 Günlük Büyük Beş Safari",
@@ -121,7 +1995,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "cape-town-and-kwazulu-natal-adventure-south-africa",
     "tourName": "Cape Town ve Kwazulu Natal macerası, Güney Afrika",
@@ -222,7 +2096,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "cape-town-and-the-garden-route-tour",
     "tourName": "Cape Town ve Bahçe Yolu Turu",
@@ -478,7 +2352,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "cape-town-kruger-and-victoria-falls-holiday-south-africa",
     "tourName": "Cape Town, Kruger ve Victoria Şelaleleri tatili, Güney Afrika",
@@ -557,33 +2431,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
-        "name": "Timbavati Özel Doğa Rezervi",
-        "country": "Güney Afrika",
+        "name": "Timbavati Private Nature Reserve",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "null",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "cape-town-spring-flowers-holiday",
     "tourName": "Cape Town bahar çiçekleri tatili",
@@ -729,7 +2609,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "cape-town-to-johannesburg-self-drive-holiday",
     "tourName": "Cape Town'dan Johannesburg'a kendi başınıza otomobil yolculuğu tatili",
@@ -950,7 +2830,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "cape-town-to-johannesburg-tour-south-africa",
     "tourName": "Cape Town'dan Johannesburg'a tur, Güney Afrika",
@@ -1180,7 +3060,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "cape-town-to-st-helena-sailing-expedition",
     "tourName": "Cape Town'dan St Helena'ya yelkenli keşif gezisi",
@@ -1250,27 +3130,33 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
         "name": "Lüderitz",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -26.650009,
         "lng": 15.157266
+      },
+      {
+        "name": "St Helena",
+        "country": "South Africa",
+        "lat": 38.505261,
+        "lng": -122.470303
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "classic-south-africa-self-drive-holiday",
     "tourName": "Klasik Güney Afrika Kendi Kendine Sürüş Tatili",
@@ -1531,7 +3417,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "eastern-cape-self-drive-south-africa",
     "tourName": "Doğu Kıyısı kendi kendine sürüş, Güney Afrika",
@@ -1662,7 +3548,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "family-holiday-to-south-africa-swaziland",
     "tourName": "Aile tatili Güney Afrika ve Süveyş'te",
@@ -1792,43 +3678,55 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       },
       {
-        "name": "Blyde Nehri Kanyonu",
-        "country": "Güney Afrika",
+        "name": "Blyde River Canyon",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Tshukudu Oyun Koruma Alanı",
-        "country": "Güney Afrika",
+        "name": "Tshukudu Game Reserve",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Kruger Milli Parkı",
-        "country": "Güney Afrika",
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
       },
       {
-        "name": "Kosi Koyu",
-        "country": "Güney Afrika",
+        "name": "Swaziland",
+        "country": "South Africa",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Mlilwane Wildlife Sanctuary",
+        "country": "Swaziland",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Kosi Bay",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Durban",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -29.858688,
         "lng": 31.021832
       }
@@ -1836,7 +3734,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "family-horse-riding-holiday-in-south-africa",
     "tourName": "Güney Afrika'da Aile Ata Binme Tatili",
@@ -1922,21 +3820,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
+      },
+      {
+        "name": "Ants Nest",
+        "country": "South Africa",
+        "lat": 23.958311,
+        "lng": 87.69043
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "garden-route-self-drive-holiday-south-africa",
     "tourName": "Bahçe Yolu Kendinize Özel Tatil, Güney Afrika",
@@ -1962,7 +3866,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "garden-route-tour-and-safari-in-south-africa",
     "tourName": "Güney Afrika'da Garden Route turu ve safari",
@@ -2153,7 +4057,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "garden-route-tour-south-africa",
     "tourName": "Bahçe Yolu Tur, Güney Afrika",
@@ -2314,7 +4218,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "golfing-in-the-winelands-of-south-africa",
     "tourName": "Güney Afrika'nın Şarap Ülkelerindeki Golf Turu",
@@ -2430,7 +4334,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "horseback-safari-in-south-africa",
     "tourName": "Güney Afrika'da Ata Binen Safari",
@@ -2531,7 +4435,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "hwange-np-safari-and-rail-holiday-zimbabwe",
     "tourName": "Hwange NP safari ve demiryolu tatili, Zimbabwe",
@@ -2692,7 +4596,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kalahari-rare-mammals-holiday-south-africa",
     "tourName": "Kalahari Nadir Memeliler Tatili, Güney Afrika",
@@ -2843,7 +4747,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kalahari-wildlife-safari-in-south-africa",
     "tourName": "Güney Afrika'da Kalahari Yaban Hayatı Safari",
@@ -2949,7 +4853,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kitesurfing-and-houseboat-holiday-south-africa",
     "tourName": "Kitesurfing ve Hausbot Tatili, Güney Afrika",
@@ -3045,7 +4949,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kruger-coast-holiday-in-south-africa",
     "tourName": "Güney Afrika'da Kruger ve Sahil Tatili",
@@ -3191,7 +5095,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kruger-national-park-safari-south-africa",
     "tourName": "Kruger Ulusal Parkı Safari, Güney Afrika",
@@ -3267,7 +5171,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kruger-swaziland-and-south-africa-s-ggrden-route-holiday",
     "tourName": "Kruger, Swaziland ve Güney Afrika’nın Bahçe Rotası Tatili",
@@ -3653,7 +5557,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kwa-zulu-natal-and-beach-self-drive",
     "tourName": "Kwa Zulu Natal ve plaj, kendin sürüş",
@@ -3834,7 +5738,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kwa-zulu-natal-family-adventure-holiday",
     "tourName": "Kwa Zulu Natal aile macera tatili",
@@ -3925,7 +5829,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kwa-zulu-natal-safari-off-the-beaten-track",
     "tourName": "Kwa Zulu Natal safari, alışılmışın dışına çıkın",
@@ -3991,7 +5895,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kwa-zulu-natal-self-drive-holiday",
     "tourName": "Kwa Zulu Natal kendi kendine sürüş tatili",
@@ -4117,7 +6021,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kwa-zulu-natal-self-drive-south-africa-holiday",
     "tourName": "Kwa Zulu Natal kendinizin süreceği Güney Afrika tatili",
@@ -4278,7 +6182,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kwa-zulu-natal-tailor-made-tour-south-africa",
     "tourName": "Kwa-Zulu Natal özel turu, Güney Afrika",
@@ -4414,7 +6318,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kwazulu-natal-discovery-tour-south-africa",
     "tourName": "KwaZulu Natal keşif turu, Güney Afrika",
@@ -4595,7 +6499,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "langebaan-lagoon-sailing-adventure-south-africa",
     "tourName": "Langebaan Lagünü yelkenli macerası, Güney Afrika",
@@ -4686,7 +6590,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "ngo-photography-workshop-in-south-africa",
     "tourName": "Güney Afrika'da NGO Fotoğrafçılık Atölyesi",
@@ -4777,7 +6681,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "nine-day-wildlife-safari-south-africa",
     "tourName": "Dokuz günlük vahşi yaşam safarisi, Güney Afrika",
@@ -4903,7 +6807,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "self-drive-trip-into-limpopo-south-africa",
     "tourName": "Limpopo, Güney Afrika'da Kendin Sürüş Turu",
@@ -5009,7 +6913,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "snorkelling-and-diving-holiday-south-africa",
     "tourName": "Şnorkel ve dalış tatili, Güney Afrika",
@@ -5130,7 +7034,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-and-swaziland-safari-holiday",
     "tourName": "Güney Afrika ve Eswatini safari tatili",
@@ -5321,7 +7225,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-and-swaziland-safari",
     "tourName": "Güney Afrika ve Swaziland safari",
@@ -5477,7 +7381,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-and-zimbabwe-holiday-tailor-made",
     "tourName": "Güney Afrika ve Zimbabwe tatili, özel tasarım",
@@ -5568,30 +7472,36 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
-        "name": "Kruger Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
       },
       {
         "name": "Livingstone",
-        "country": "Zambiya",
+        "country": "Zambia",
         "lat": -17.853135,
         "lng": 25.861429
       },
       {
-        "name": "Hwange Ulusal Parkı",
+        "name": "Victoria Falls",
+        "country": "null",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Hwange National Park",
         "country": "Zimbabwe",
         "lat": -18.372772,
         "lng": 26.50795
@@ -5603,7 +7513,7 @@
         "lng": 28.588706
       },
       {
-        "name": "Matobo Tepeleri",
+        "name": "Matobo Hills",
         "country": "Zimbabwe",
         "lat": -20.412101,
         "lng": 28.471157
@@ -5612,7 +7522,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-botanical-holiday",
     "tourName": "Güney Afrika Botanik Tatili",
@@ -5878,7 +7788,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-coastal-adventure-holiday",
     "tourName": "Güney Afrika Kıyı Macerası Tatili",
@@ -6024,7 +7934,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-culture-and-township-stay",
     "tourName": "Güney Afrika kültürü ve kasaba konaklaması",
@@ -6255,7 +8165,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-eswatini-and-lesotho-holiday",
     "tourName": "Güney Afrika, eSwatini ve Lesotho Tatili",
@@ -6500,7 +8410,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-family-adventure-holiday",
     "tourName": "Güney Afrika aile macera tatili",
@@ -6616,7 +8526,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-garden-route-holiday-small-group",
     "tourName": "Güney Afrika Bahçe Yolu tatili, küçük grup",
@@ -6817,7 +8727,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-garden-route-luxury-holiday",
     "tourName": "Güney Afrika Bahçe Yolu Lüks Tatili",
@@ -7083,7 +8993,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-garden-route-self-drive-adventure",
     "tourName": "Güney Afrika Bahçe Rotası Kendi Kendine Sürüş Macerası",
@@ -7279,7 +9189,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-garden-route-wildlife-holiday",
     "tourName": "Güney Afrika Bahçe Yolu yaban hayatı tatili",
@@ -7400,7 +9310,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-highlights-holiday",
     "tourName": "Güney Afrika'nın Öne Çıkanları Tatili",
@@ -7641,7 +9551,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-holiday-cape-escape",
     "tourName": "Güney Afrika tatili, Cape kaçamağı",
@@ -7902,7 +9812,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-holiday-cape-town-to-kruger",
     "tourName": "Güney Afrika tatili, Cape Town'dan Kruger'a",
@@ -7994,39 +9904,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
         "name": "Table Mountain",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Kruger Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
       },
       {
         "name": "Sabi Sands",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -25.09813,
         "lng": 30.779184
+      },
+      {
+        "name": "Zambezi River",
+        "country": "South Africa",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "South Africa",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-honeymoon-self-drive",
     "tourName": "Güney Afrika balayı, kendi aracınızla",
@@ -8187,7 +10109,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-luxury-holiday-garden-route-safari",
     "tourName": "Güney Afrika lüks tatili, Bahçe Yolu & safari",
@@ -8293,7 +10215,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-multi-activity-holiday",
     "tourName": "Güney Afrika Çok Aktiviteli Tatil",
@@ -8514,7 +10436,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-safari-holiday-14-days",
     "tourName": "Güney Afrika safari tatili, 14 gün",
@@ -8680,7 +10602,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-safari-holiday-9-days",
     "tourName": "Güney Afrika safari tatili, 9 gün",
@@ -8781,7 +10703,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-self-drive-safari-in-limpopo-province",
     "tourName": "Limpopo bölgesinde Güney Afrika kendi kendine sürüş safari",
@@ -8907,7 +10829,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-shark-diving-tour",
     "tourName": "Güney Afrika Köpekbalığı Dalış Turu",
@@ -9013,7 +10935,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-small-group-tour",
     "tourName": "Güney Afrika küçük grup turu",
@@ -9224,7 +11146,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-vic-falls-active-adventure",
     "tourName": "Güney Afrika & Victoria Şelalesi Aktif Macera",
@@ -9282,31 +11204,37 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
-        "name": "Masa Dağı",
-        "country": "Güney Afrika",
+        "name": "Table Mountain",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Kruger Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
       },
       {
+        "name": "Victoria Falls",
+        "country": "null",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       }
@@ -9314,7 +11242,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-wheelchair-accessible-safari",
     "tourName": "Güney Afrika tekerlekli sandalye erişilebilir safari",
@@ -9415,7 +11343,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-wildlife-photography-safari",
     "tourName": "Güney Afrika yaban hayatı fotoğrafçılığı safarisi",
@@ -9501,7 +11429,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-wildlife-tour-sharks-and-aardvarks",
     "tourName": "Güney Afrika vahşi yaşam turu, köpekbalıkları ve aardvarklar",
@@ -9742,7 +11670,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-wine-whales-safari-self-drive-holiday",
     "tourName": "Güney Afrika, şarap, balina ve safari kendin sür tatili",
@@ -9933,7 +11861,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-wineland-tour",
     "tourName": "Güney Afrika Şarap Ülkesi Turu",
@@ -10119,7 +12047,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-african-safaris-for-families-with-teenagers",
     "tourName": "Ergenler için Güney Afrika aile safarileri",
@@ -10252,55 +12180,67 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       },
       {
         "name": "Soweto",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.245667,
         "lng": 27.924866
       },
       {
-        "name": "Hluhluwe-Imfolozi Parkı",
-        "country": "Güney Afrika",
+        "name": "Hluhluwe-Imfolozi Park",
+        "country": "South Africa",
         "lat": -28.019325,
         "lng": 32.268604
       },
       {
-        "name": "Kosi Bay Doğa Rezervi",
-        "country": "Güney Afrika",
+        "name": "Kosi Bay Nature Reserve",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Kruger Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Eswatini",
+        "country": "Swaziland",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Hlane National Park",
+        "country": "Swaziland",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
       },
       {
         "name": "Phiring",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -24.504498,
         "lng": 30.692394
       },
       {
-        "name": "Blyde Nehri Kanyonu",
-        "country": "Güney Afrika",
+        "name": "Blyde River Canyon",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       }
@@ -10308,7 +12248,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "southern-africa-small-group-tour",
     "tourName": "Güney Afrika Küçük Grup Turu",
@@ -10584,7 +12524,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "st-helena-and-south-african-winelands",
     "tourName": "St Helena ve Güney Afrika Şarap Bölgeleri",
@@ -10772,85 +12712,97 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
+        "name": "St Helena",
+        "country": "South Africa",
+        "lat": 38.505261,
+        "lng": -122.470303
+      },
+      {
+        "name": "Jamestown",
+        "country": "South Africa",
+        "lat": 42.096404,
+        "lng": -79.237894
+      },
+      {
         "name": "Table Mountain",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Robben Island",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.811634,
         "lng": 18.379477
       },
       {
         "name": "Cape Peninsula",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
         "name": "Cape Point Nature Reserve",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Cape of Good Hope",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -28.259304,
         "lng": 30.706787
       },
       {
         "name": "Boulders Beach",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Kirstenbosch Botanical Gardens",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Franschhoek",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.91183,
         "lng": 19.12048
       },
       {
         "name": "Hermanus",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -34.420567,
         "lng": 19.241768
       },
       {
         "name": "Walker Bay",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Fernkloof Nature Reserve",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Cape Nature Reserve",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       }
@@ -10858,7 +12810,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "st-helena-to-cape-town-sailing-expedition",
     "tourName": "St Helena'dan Cape Town'a Yelkenli Keşif",
@@ -10928,13 +12880,25 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "St Helena",
+        "country": "Saint Helena",
+        "lat": -15.92773,
+        "lng": -5.716087
+      },
+      {
+        "name": "South Atlantic Ocean",
+        "country": "South Africa",
+        "lat": 39.471153,
+        "lng": -74.46085
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       }
@@ -10942,7 +12906,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "the-garden-route-and-beyond-south-africa",
     "tourName": "Bahçe Yolu ve ötesi, Güney Afrika",
@@ -10968,7 +12932,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "three-reserve-safari-in-south-africa",
     "tourName": "Güney Afrika'da Üç Rezerv Safari",
@@ -11109,7 +13073,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "underwater-photography-holiday-in-south-africa",
     "tourName": "Güney Afrika’da Su Altı Fotoğrafçılığı Tatili",
@@ -11210,7 +13174,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "victoria-falls-to-johannesburg-overland-tour",
     "tourName": "Victoria Şelalesi'nden Johannesburg'a karadan tur",
@@ -11385,73 +13349,79 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelaleleri",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
-        "name": "Chobe Ulusal Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
         "name": "Maun",
-        "country": "Botsvana",
+        "country": "Botswana",
         "lat": -19.988626,
         "lng": 23.42207
       },
       {
         "name": "Swakopmund",
-        "country": "Namibya",
+        "country": "Namibia",
         "lat": -22.696565,
         "lng": 14.539054
       },
       {
+        "name": "Orange River",
+        "country": "null",
+        "lat": -23.072859,
+        "lng": 30.394539
+      },
+      {
         "name": "Stellenbosch",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.93813,
         "lng": 18.86002
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
-        "name": "Küçük Karoo",
-        "country": "Güney Afrika",
+        "name": "Little Karoo",
+        "country": "South Africa",
         "lat": -25.081411,
         "lng": 27.929525
       },
       {
-        "name": "Addo Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Addo National Park",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Cintsa",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Royal Natal Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Royal Natal National Park",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       }
@@ -11459,7 +13429,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "watersports-and-whale-watching-holiday-south-africa",
     "tourName": "Su Sporları ve Balina Gözlem Tatili, Güney Afrika",
@@ -11615,7 +13585,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "west-coast-nature-tour-south-africa",
     "tourName": "Batı Kıyısı doğa turu, Güney Afrika",
@@ -11721,7 +13691,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "western-cape-wildlife-holiday-in-south-africa",
     "tourName": "Güney Afrika Batı Cape Yaban Hayatı Tatili",
@@ -11862,7 +13832,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "wheelchair-accessible-south-africa-self-drive-holiday",
     "tourName": "Tekerlekli sandalyeye uygun Güney Afrika kendi kendine sürüş tatili",
@@ -12008,7 +13978,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "wildlife-photography-internship-south-africa",
     "tourName": "Vahşi Yaşam Fotoğrafçılığı Stajı, Güney Afrika",
@@ -12034,7 +14004,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "wine-and-art-holiday-south-africa",
     "tourName": "Şarap ve sanat tatili, Güney Afrika",
@@ -12155,7 +14125,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "10-day-south-africa-tour-kapama-winelands-and-cape-town",
     "tourName": "10 Günlük Güney Afrika Turu: Kapama, Şarap Bölgeleri ve Cape Town",
@@ -12276,7 +14246,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "11-day-highlights-of-south-africa-city-to-beach",
     "tourName": "11 Gün Güney Afrika'nın Göz Alıcı Noktaları: Şehirden Plaja",
@@ -12412,7 +14382,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "21-day-south-africa-birding-safari",
     "tourName": "21 Gün Güney Afrika: Kuş Gözlem Safarisi",
@@ -12628,7 +14598,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "a-grand-south-africa-tour-for-families-with-teenagers-cape-town-safari-more",
     "tourName": "Ergenlerle Aileler İçin Büyüleyici Güney Afrika Turu: Cape Town, Safari ve Daha Fazlası",
@@ -12754,7 +14724,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "african-safari-to-coast-explorer-a-loop-across-south-africa-tour",
     "tourName": "Afrika Safari - Sahil Keşfi: Güney Afrika Turu",
@@ -12883,49 +14853,61 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       },
       {
-        "name": "Blyde Nehri Kanyonu",
-        "country": "Güney Afrika",
+        "name": "Blyde River Canyon",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Kruger National Park",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
       },
       {
-        "name": "Sabi Sands Özel Oyun Koruma Alanı",
-        "country": "Güney Afrika",
+        "name": "Sabi Sands Private Game Reserve",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
+        "name": "Swaziland",
+        "country": "South Africa",
+        "lat": -26.314901,
+        "lng": 31.13396
+      },
+      {
+        "name": "Mlilwane Game Reserve",
+        "country": "South Africa",
+        "lat": 1.434886,
+        "lng": 30.946887
+      },
+      {
         "name": "St Lucia",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -28.374832,
         "lng": 32.411842
       },
       {
         "name": "Durban",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -29.858688,
         "lng": 31.021832
       },
       {
-        "name": "Drakensberg Dağları",
-        "country": "Güney Afrika",
+        "name": "Drakensberg Mountains",
+        "country": "South Africa",
         "lat": -28.612917,
         "lng": 29.126863
       }
@@ -12933,7 +14915,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "best-of-south-africa-safari-tour-cape-to-kruger-in-12-days",
     "tourName": "Güney Afrika Safari ve Turu: Cape'den Kruger'a 12 Günde",
@@ -13064,7 +15046,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "best-of-southern-africa-safari",
     "tourName": "Güney Afrika'nın En İyisi Safari",
@@ -13175,7 +15157,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "best-of-the-greater-kruger-luxury-safari",
     "tourName": "Büyük Kruger'in En İyisi Lüks Safari",
@@ -13311,7 +15293,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "boundless-beauty-17-day-south-africa-and-mozambique",
     "tourName": "Sınırsız Güzellik: 17 Gün Güney Afrika ve Mozambik",
@@ -13487,7 +15469,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "bush-and-beach-luxury-kruger-safari-mozambique-island-escape",
     "tourName": "Bush and Beach: Lüks Kruger Safari & Mozambique Adası Kaçamağı",
@@ -13618,7 +15600,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "cape-town-culture-history-tour",
     "tourName": "Cape Town Kültür & Tarih Turu",
@@ -13724,7 +15706,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "cape-town-vacation-explore-the-greater-western-cape",
     "tourName": "Cape Town Tatili: Büyük Batı Kıyısını Keşfedin",
@@ -13850,7 +15832,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "cape-town-vacation-for-lovers-most-romantic-destinations",
     "tourName": "Sevgililer için Cape Town Tatili: En Romantik Destinasyonlar",
@@ -13971,7 +15953,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "cape-town-vacation-stellenbosch-winelands-safari",
     "tourName": "Cape Town Tatili: Stellenbosch Şarap Ülkesi & Safari",
@@ -14077,7 +16059,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "cape-town-vineyards-tour-african-safari-in-kruger-for-couples",
     "tourName": "Cape Town, Şarap Bağları Tur & Kruger'da Afrikaca Safari Çifti için",
@@ -14203,7 +16185,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "diverse-kruger-walking-safaris-and-game-drives",
     "tourName": "Çeşitli Kruger: Yürüyüş Safarileri ve Oyun Sürüşleri",
@@ -14304,7 +16286,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "enchanting-couples-escape-south-africa-zimbabwe-and-seychelles",
     "tourName": "Büyüleyici Çiftler Kaçamağı: Güney Afrika, Zimbabve ve Seyşeller",
@@ -14423,33 +16405,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelalesi",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
-        "name": "Lion Sands Oyun Koruma Alanı",
-        "country": "Güney Afrika",
+        "name": "Lion Sands Game Reserve",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
+      },
+      {
+        "name": "Mahe",
+        "country": "Seychelles",
+        "lat": 32.00362,
+        "lng": 35.784817
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "essential-cape-town-vacation-best-of-the-mother-city",
     "tourName": "Güney Afrika'nın En Güzeli: Cape Town Turu",
@@ -14620,7 +16608,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "exclusive-private-safaris-in-sabi-sands-kruger-park",
     "tourName": "Sabi Sands ve Kruger Park'ta Özel Privet Safarileri",
@@ -14746,7 +16734,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "exclusive-safari-in-south-africa-kalahari-greater-kruger",
     "tourName": "Güney Afrika'da Özel Safari: Kalahari & Greater Kruger",
@@ -14852,7 +16840,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "exclusive-south-africa-tour-for-romantic-couples",
     "tourName": "Romantik Çiftler için Özel Güney Afrika Turu",
@@ -14983,7 +16971,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "exclusive-south-african-safari-for-couples",
     "tourName": "Çiftler için Özel Güney Afrika Safarisi",
@@ -15099,7 +17087,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "exploring-the-wilderness-winelands-tour-of-south-africa",
     "tourName": "Güney Afrika Doğasını ve Şarap Ülkelerini Keşif Turu",
@@ -15270,7 +17258,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "exquisite-south-africa-exploration-culture-to-safari",
     "tourName": "İkna Edici Güney Afrika Keşfi: Kültürden Safarilere",
@@ -15431,7 +17419,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "family-african-safari-package-victoria-falls-kruger-park-sabi-sabi",
     "tourName": "Aile Afrika Safarisi Paketi: Viktorya Şelalesi, Kruger Parkı & Sabi Sabi",
@@ -15562,7 +17550,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "family-friendly-cape-town-vacation",
     "tourName": "Aile Dostu Cape Town Tatili",
@@ -15703,7 +17691,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "family-friendly-south-africa-safari-mauritius-vacation",
     "tourName": "Aile Dostu Güney Afrika Safari & Mauritius Tatili",
@@ -15797,33 +17785,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       },
       {
-        "name": "Sabi Sands Oyun Koruma Alanı",
-        "country": "Güney Afrika",
+        "name": "Sabi Sands Game Reserve",
+        "country": "South Africa",
         "lat": -24.795286,
         "lng": 31.342764
+      },
+      {
+        "name": "Mauritius",
+        "country": "South Africa",
+        "lat": 52.26697,
+        "lng": -6.388149
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "family-friendly-southern-africa-excursion",
     "tourName": "Aile Dostu Güney Afrika Gezisi",
@@ -15931,24 +17925,30 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Thornybush Oyun Koruma Alanı",
-        "country": "Güney Afrika",
+        "name": "Thornybush Game Reserve",
+        "country": "South Africa",
         "lat": -24.375696,
         "lng": 31.160633
       },
       {
-        "name": "Kruger Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
       },
       {
-        "name": "Chobe Ulusal Parkı",
+        "name": "Victoria Falls",
+        "country": "null",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Chobe National Park",
         "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
@@ -15957,7 +17957,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "flavors-of-south-africa-tour-new-world-wine-fine-dining-classic-safari-experience",
     "tourName": "Güney Afrika'nın Lezzetleri Turu: Yeni Dünya Şarapları, Şık Yemekler & Klasik Safari Deneyimi",
@@ -16108,7 +18108,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "gastronomic-getaway-to-leading-cape-town-wine-estates",
     "tourName": "Gastronomik Kaçamak: Önde Gelen Cape Town Şarap Mesehleri",
@@ -16234,7 +18234,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "hidden-south-africa-two-week-tour",
     "tourName": "Gizli Güney Afrika İki Haftalık Turu",
@@ -16395,7 +18395,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "high-end-south-africa-luxury-safari",
     "tourName": "Yüksek Kalite Güney Afrika Lüks Safari",
@@ -16516,7 +18516,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "immersive-african-safari-more-kenya-victoria-falls-kruger",
     "tourName": "Etkileyici Afrika Safari & Daha Fazlası: Kenya, Victoria Şelalesi, Kruger",
@@ -16623,9 +18623,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Nairobi",
@@ -16634,26 +18634,32 @@
         "lng": 36.817245
       },
       {
-        "name": "Lewa Yaban Hayatı Koruma Alanı",
+        "name": "Lewa Wildlife Conservancy",
         "country": "Kenya",
         "lat": -1.3333,
         "lng": 39.8333
       },
       {
-        "name": "Maasai Mara Ulusal Rezervi",
+        "name": "Maasai Mara National Reserve",
         "country": "Kenya",
         "lat": -2.131049,
         "lng": 37.44916
       },
       {
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
-        "name": "Kruger Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
       }
@@ -16661,7 +18667,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "intimate-exploration-of-south-africa-safari-and-starry-skies",
     "tourName": "Güney Afrika'nın Sıcak Keşfi: Safari ve Yıldızlı Gökyüzü",
@@ -16777,7 +18783,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kruger-sabi-sands-safari-for-first-timers",
     "tourName": "Kruger & Sabi Sands Safari - İlk Kez Gidenler İçin",
@@ -16898,7 +18904,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "kruger-safari-cape-town-wine-lands-tour",
     "tourName": "Kruger Safari, Cape Town & Şarap Ülkeleri Turu",
@@ -17049,7 +19055,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "luxury-cape-town-winelands-tour",
     "tourName": "Lüks Cape Town & Şarap Ülkeleri Turu",
@@ -17175,7 +19181,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "luxury-south-africa-tour-for-seniors",
     "tourName": "İleri Yaşlar İçin Lüks Güney Afrika Turu",
@@ -17321,7 +19327,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "luxury-south-african-safari-tour",
     "tourName": "Lüks Güney Afrika Safari & Tur",
@@ -17462,7 +19468,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "magic-and-romance-a-honeymoon-tour-of-south-africa",
     "tourName": "Büyü ve Romantizm: Güney Afrika'da Balayı Turu",
@@ -17593,7 +19599,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "multi-country-great-limpopo-transfrontier-park-safari",
     "tourName": "Çok Ülke Büyük Limpopo Sınır Ötesi Park Safari",
@@ -17712,7 +19718,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "personalized-best-of-south-africa-safari",
     "tourName": "Kişiye Özel Güney Afrika Safarisi",
@@ -17853,7 +19859,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "personalized-south-africa-safari-greater-kruger-more",
     "tourName": "Kişiye Özel Güney Afrika Safari: Greater Kruger & Daha Fazlası",
@@ -17974,7 +19980,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "private-kruger-safari-for-first-time-senior-visitors-to-africa",
     "tourName": "Özel Kruger Safari - Afrika'ya İlk Kez Gelen İleri Yaş Ziyaretçileri için",
@@ -18085,7 +20091,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "private-south-africa-photography-tour",
     "tourName": "Özel Güney Afrika Fotoğraf Turu",
@@ -18216,7 +20222,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "remarkable-african-honeymoon-safari-and-island-paradise",
     "tourName": "Dikkat Çeken Afrika Balayı Safari ve Adalık Cennet",
@@ -18339,39 +20345,45 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelalesi",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
       {
-        "name": "Sabi Sands Özel Oyun Koruma Alanı",
-        "country": "Güney Afrika",
+        "name": "Sabi Sands Private Game Reserve",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
-        "name": "Kruger Ulusal Parkı",
-        "country": "Güney Afrika",
+        "name": "Kruger National Park",
+        "country": "South Africa",
         "lat": -24.995052,
         "lng": 31.592167
+      },
+      {
+        "name": "Mahe",
+        "country": "Seychelles",
+        "lat": 32.00362,
+        "lng": 35.784817
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "romantic-south-africa-adventure",
     "tourName": "Romantik Güney Afrika Macerası",
@@ -18532,7 +20544,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "safari-wine-romance-tour-of-south-africa",
     "tourName": "Güney Afrika Safari, Şarap ve Romantik Turu",
@@ -18673,7 +20685,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "sensual-cape-winelands-tour-on-horseback",
     "tourName": "Cazibeli Atlı Cape Winelands Turu",
@@ -18794,7 +20806,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "signature-southern-africa-cape-town-tour-kruger-safari-victoria-falls-itinerary",
     "tourName": "İmza Güney Afrika: Cape Town Turu, Kruger Safari & Victoria Şelalesi İtineri",
@@ -18935,7 +20947,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-safari-adventure-private-game-reserves-and-cape-town",
     "tourName": "Güney Afrika Safari Macerası: Özel Oyun Rezervleri ve Cape Town",
@@ -19101,7 +21113,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-safari-for-seniors-cape-town-and-sabi-sands",
     "tourName": "Güney Afrika Safari Turu - İleri Yaşlar için: Cape Town ve Sabi Sands",
@@ -19212,7 +21224,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-safari-vacation-with-teens-city-beach-and-bush",
     "tourName": "Güney Afrika Safarisi ve Gençlerle Tatil: Şehir, Plaj ve Vahşi Doğa",
@@ -19328,7 +21340,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-seychelles-honeymoon-african-journey-to-cherish",
     "tourName": "Güney Afrika & Seychelles Balayı: Hatırlanacak Afrika Yolculuğu",
@@ -19468,7 +21480,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-africa-vacation-packages-safari-winelands-history",
     "tourName": "Güney Afrika Tatil Paketleri: Safari, Şarap Bölgeleri ve Tarih",
@@ -19579,7 +21591,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "south-african-escape-for-couples-city-beach-safari",
     "tourName": "Güney Afrika Kaçamağı: Şehir, Plaj ve Safari",
@@ -19705,7 +21717,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "tailor-made-south-african-family-getaway",
     "tourName": "Özel Tasarım Güney Afrika Aile Kaçamağı",
@@ -19851,7 +21863,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "treasures-of-south-africa-tour-cape-town-kwazulu-natal-safari",
     "tourName": "Güney Afrika Hazineleri Turu: Cape Town, Kwazulu Natal, Safari",
@@ -19997,7 +22009,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "ultimate-food-and-wine-tour-of-south-africa",
     "tourName": "Güney Afrika'nın En İyi Yemek ve Şarap Turu",
@@ -20118,7 +22130,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "South Africa",
+    "destination": "Güney Afrika",
     "mainPhoto": "",
     "id": "ultimate-two-week-south-africa-tour-for-families",
     "tourName": "Aileler için Enfes İki Haftalık Güney Afrika Turu",

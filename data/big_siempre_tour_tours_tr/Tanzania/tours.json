@@ -1,6 +1,1178 @@
 [
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
+    "mainPhoto": "",
+    "id": "BXABD",
+    "tourName": "Plajlar, Safari ve Kumlar",
+    "placesVisited": "Tanzanya, Malavi, Zambiya, Bostvana, Namibya",
+    "generalInfo": "İlk birkaç gününü cennet gibi Zanzibar adasına geçirerek başlıyoruz ve güneye doğru maceramıza devam ediyoruz. Malavi Gölü kıyısında kalıyoruz ve Victoria Şelaleleri' ni ziyaret etme şansı elde ediyoruz. Tanzanya'dan Namibya'ya gezi düzenleyen bu tur, Etosha Ulusal Parkı'nın sulak alanlarının yanındaki kamplardan, güzel plajlara kadar özel deneyimlerle doludur!<br><br><strong>En Yakın Uluslararası Havaalanına (geliş):</strong> Johannesburg O.R. Tambo Uluslararası Havalimanı (JNB)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> Dar Es Salaam Julius Nyerere Uluslararası Havalimanı (DAR)",
+    "durationDays": "25",
+    "price": "2259",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>- 2 gece Zanzibar Adası Kuzey Plajı</li>\n<li>- Rehberli Baharat tarlaları turu ve yerel köyde öğle yemeği</li>\n<li>- Mahango Koruma Alanı Gezisi</li>\n</ul>\n<p><strong>Konaklama </strong></p>\n<p>5 gece hostel , 19 gece çadır kampı</p>\n<p><strong>Taşımacılık</strong></p>\n<p>Büyük kamyonlar, Feribot</p>\n<p><strong>Yemekler</strong></p>\n<p>24 kahvaltı, 18 öğle yemeği, 16 akşam yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Seimpre Tur tur lideri , Şoförü</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Dar es Salaam",
+        "description": "Dar es Salaam’ a, Hint Okyanusu’ ndaki hareketli limana ve egzotik Zanzibar adasına merhaba deyin"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Zanzibar",
+        "description": "Bugün gizemli, sarhoş edici Zanzibar adalarındayız. Konaklayacağımız yerden erkenden ayrılıp cennet adasına gidebilmek için feribot terminaline geçiyoruz. Stone Town’ da yemyeşil, tropik ortamda yetişen bol bitkiyi ve kaynağından alabileceğimiz numune baharatları keşfedebileceğimiz baharat tarlalarına rehberli bir tur düzenliyoruz. Ayrıca, yerel halkla etkileşim kurma ve onların misafirperverliğini deneyimleme şansına sahip olacağımız küçük bir köyü ziyaret edeceğiz; Burada yerli halk tarafından pişirilen geleneksel bir öğle yemeğinin tadını çıkaracağız."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Stone Town",
+        "description": "Bugün öğleden sonra keşfedeceğiniz Stone Town’ a dönüyoruz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Dar es Salaam",
+        "description": "Zanzibar Adası’ ndaki son zamanlarımız. Öğleden sonra anakaraya ulaşabilmek için feribota gidiyoruz. Kamyonumuzla yeniden buluşarak Dar es Salaam’ daki konaklama birimimize dönüyoruz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Iringa",
+        "description": "Ada’ nın dinlendirici etkisi hala üzerimizdeyken, Iringa’ ya doğru yola çıkıyoruz.Fil, zürafa, zebra ve antilopun yoldan görülebildiği Mikumi Milli Parkı’ nı geziyoruz."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Chitimba",
+        "description": "Bugün sınırı geçerek Malavi’ ye doğru yol alıyoruz. \"Afrika’ nın ılık kalbi\" olarak bilinen Malavi’ nin cazibesi ve sadeliği, hayatınızı gençleştirir ve canlandırır. Ülkeye Malavi Gölü’ nden giriş yapıyoruz ve Chitimba’ daki göl kıyısında bulunan kampımıza gidiyoruz. Malavi Gölü, Malavi’ nin toplam arazi alanının yaklaşık dörtte birini kapsamaktadır ve yerel yaşamın ayrılmaz bir parçasıdır."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Kande Beach",
+        "description": "Erken yola çıkıyoruz ve güneye doğru ilerliyoruz. Yerel pazarları ziyaret edeceğimiz Mzuzu şehrinde durup, Kande Plajı’ ndaki partimiz için kostüm alabilirsiniz. Önceki gecemizin aksine, Kande Plajı hareketli bir aktivite kovandır. Güzel plajı ve göl kenarı barı, mükemmel bir atmosfere ve büyük bir büyük kara limanına sahiptir. Burada bir ya da iki parti yapacağız."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Chipata",
+        "description": "Malavi’ ye veda ediyoruz ve sınırdan Zambiya’ ya geçiyoruz ve Chipata’ da duruyoruz. Bu kalabalık küçük kasaba, rengarenk meyve ve sebze pazarlarına ve büyük Hint topluluğundan ötürü şaşırtıcı derecede şatafatlı camilere sahiptir."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Lusaka",
+        "description": "Zambiya ile yolculuğumuza devam ediyoruz,yaklaşık 50 derece sıcaklıkla ülkenin en sıcak noktası olan Crooks Corner’ dan geçiyoruz.  Geceyi şehrin hemen dışında geçirdiğimiz Zambiya’ nın hareketli başkenti  ve en büyük şehri Lusaka’ ya varıyoruz. Bu akşam kampımızı, saz çatılı bungalovlarda ve çevredeki çalılıkların arasında serbestçe dolaşan zürafalar ve zebralarla geçiriyoruz. - gerçekten sakin bir ortam."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Livingstone",
+        "description": "Livingstone’ a Hoş geldiniz. Kasaba adını 19. yy. dan sonra İskoç misyoner kaşif Dr. David Livingstone tarafından almıştır."
+      },
+      {
+        "dayNumber": 16,
+        "title": "Chobe Ulusal Parkı",
+        "description": "Chobe Ulusal Parkı’ nın yanında, Botsvana’ daki en çeşitli vahşi yaşam evinde kalacağız. 11.000 kilometre karelik ıssız arazi , sulak alanlar , ormanlar ve bataklıklar her türlü hayvan ve kuş yaşamını barındırır. Chobe nehrinde akşam üstü yapacağımız tekne turunda, hayvanlara farklı bir perspektiften bakın.  Burada vahşi yaşam çok fazla. Su kenarı boyunca konuşlanmakta olan  filleri, bufaloları , ceylanları, su aygırlarını , zürafaları ve su samurlarını görebilirsiniz."
+      },
+      {
+        "dayNumber": 17,
+        "title": "Maun",
+        "description": "Afrika’ nın en büyük tatlı sulak arazilerini barındıran Okavango Deltası’ ndan Kalahari Çölünün zirvesindeki Maun kasabasına ulaşacağız."
+      },
+      {
+        "dayNumber": 18,
+        "title": "Okavango Deltası",
+        "description": "Okavango Deltası , Kavango Nehrinden beslenen ve çok yavaş akan suyun oluşturduğu büyük bir alandır. Su kalahari çöllerinin kumları üzerinde buharlaşmadan önce, nehirden kanal yolları labirentine, lagünlere ve palmiyelerle kaplı adalara doğru bir kaç kola ayrılır."
+      },
+      {
+        "dayNumber": 19,
+        "title": "Maun",
+        "description": "Delta’ dan ayrılıp, grubun geri kalanına, şoför ve aracınıza yeniden katılacağınız Maun’ a ,bir geceliğine dönüyoruz."
+      },
+      {
+        "dayNumber": 20,
+        "title": "Divindu",
+        "description": "Maun’ dan ayrılıp Bostvana üzerinden Namibya’ ya yol alıyoruz.  Sınırı geçip Caprivi Ucu adı verilen dar bölgeye ulaşıyoruz. Tüm  çıplaklığıyla Mohongo Yaşam alanındayız ve şanslıysanız benekli zebraları , zürafaları , ceylanları ve filleri görebilirsiniz."
+      },
+      {
+        "dayNumber": 21,
+        "title": "Etosha Ulusal Parkı",
+        "description": "İki gecemizi Etosha Ulusal Parkı’ nda geçireceğiz. Eğer mümkünse 1 veya 2 gece parktaki pansiyonda kalmayı deneyeceğiz. Seyahatlerimiz boyunca vahşi yaşama dair en çok aklınızda kalacak yer Etosha Milli Parkı. Bütün vaktimizi en fantastik vahşi yaşam alanında geçirme fırsatı yakalayacağız."
+      },
+      {
+        "dayNumber": 23,
+        "title": "Kamanjab",
+        "description": "Bu sabah, Etosha bölgesinden ayrılıyor ve ünlü Otjitotongwe Cheetah Park’ ta gecemizi geçireceğimiz Kamanjab’ a doğru yol alıyoruz. Koruma altında olan bu güzel yaratıklara, bölge etrafındaki isteğe bağlı turlara yaklaşma seçeneğine sahipsiniz. Kamanjab’ da ayrıca, köylüler tarafından bakılan yetim kalan çocukların bulunduğu yerel bir Himba Kabilesini ziyaret etme fırsatına sahipsiniz. Sadece Himba çocuklarının, Namibya’ da, okula devam etme zorunluluğu yoktur ve geleneksel olarak köyün yaşlıları tarafından yetiştirilirler. Topluluğa bağışlar kabul edilir ve rehberinizle bağış yapabilirsiniz."
+      },
+      {
+        "dayNumber": 24,
+        "title": "Windhoek",
+        "description": "Namibya’ nın başkenti Windhoek’ e hoş geldiniz. Rakım 1650 metre. Windhoek kuzeydeki Eros Dağlarından Güneydeki Auas dağlarına doğru güzel bir vadiye uzanır. Bölgedeki tek şehirdir ve nüfusu 250.000 den fazladır."
+      },
+      {
+        "dayNumber": 25,
+        "title": "Windhoek' ten Ayrılış",
+        "description": "Ömürlük serüveniniz bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız, manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Safari",
+    "route": [
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Iringa",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mikumi National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi"
+      },
+      {
+        "name": "Chitimba",
+        "country": "Malawi"
+      },
+      {
+        "name": "Kande Beach",
+        "country": "Malawi"
+      },
+      {
+        "name": "Chipata",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana"
+      },
+      {
+        "name": "Maun",
+        "country": "Botswana"
+      },
+      {
+        "name": "Okavango Delta",
+        "country": "Botswana"
+      },
+      {
+        "name": "Divundu",
+        "country": "Namibia"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzanya",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzanya",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzanya",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Iringa",
+        "country": "Tanzanya",
+        "lat": -7.779097,
+        "lng": 35.697053
+      },
+      {
+        "name": "Mikumi Ulusal Parkı",
+        "country": "Tanzanya",
+        "lat": -7.397705,
+        "lng": 36.973422
+      },
+      {
+        "name": "Malavi Gölü",
+        "country": "Malavi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Chitimba",
+        "country": "Malavi",
+        "lat": -14.24057,
+        "lng": 34.269951
+      },
+      {
+        "name": "Kande Plajı",
+        "country": "Malavi",
+        "lat": -11.936088,
+        "lng": 34.107306
+      },
+      {
+        "name": "Chipata",
+        "country": "Zambiya",
+        "lat": -13.639131,
+        "lng": 32.645844
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambiya",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambiya",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Chobe Ulusal Parkı",
+        "country": "Botsvana",
+        "lat": -17.799239,
+        "lng": 25.156546
+      },
+      {
+        "name": "Maun",
+        "country": "Botsvana",
+        "lat": -19.988626,
+        "lng": 23.42207
+      },
+      {
+        "name": "Divundu",
+        "country": "Namibya",
+        "lat": -18.099276,
+        "lng": 21.548803
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibya",
+        "lat": -19.628408,
+        "lng": 14.843358
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibya",
+        "lat": -22.560084,
+        "lng": 17.072984
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Tanzanya",
+    "mainPhoto": "",
+    "id": "BXACC",
+    "tourName": "Afrika'da Sahilden Sahile",
+    "placesVisited": "Tanzanya, Malavi, Zambiya, Bostvana, Namibya, Güney Afrika",
+    "generalInfo": "Zanzibar'ın güzel kuzey sahillerinden, sahil kenti olan Cape Town' a, bu destansı macerada Afrika'nın büyüsünü keşfedin. Birden fazla milli parkları keşfedin ve Etosha Ulusal Parkı'ndaki sulak arazilerde yaban hayatla birlikte tüm geceyi geçirin. Sesriem Kanyonu üzerinde güneşin batışını izleyin ve hayran kalacağınız çöl manzarası için Dune 45' in tepesine çıkın.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş): </strong>Dar Es Salaam Julius Nyerere Ulurlararası Havalimanı (DAR)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> Cape Town Uluslararası Havalimanı (CPT)",
+    "durationDays": "33",
+    "price": "1749",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>- 2 gece Zanzibar Adası Kuzey Plajı</li>\n<li>- Rehberli Baharat tarlaları turu ve yerel köyde öğle yemeği</li>\n<li>- Mahango  Koruma Alanı Gezisi</li>\n<li>- Solitaire Kasabası ve Oğlak Dönencesi</li>\n<li>- Sersiem Kanyonu</li>\n<li>- Dune 45</li>\n<li>- Balık Gölü Kanyonu Gezisi</li>\n</ul>\n<p><strong>Konaklama </strong></p>\n<p>9 gece Hostel , 23 gece çadır kampı</p>\n<p><strong>Taşımacılık</strong></p>\n<p>Büyük kamyonlar, Feribot</p>\n<p><strong>Yemekler</strong></p>\n<p>31 Kahvaltı , 23 Öğle Yemeği , 20 Akşam Yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tur tur lideri, Şoförü</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Dar es Salaam",
+        "description": "Dar es Salaam’ a, Hint Okyanusu’ ndaki hareketli limana ve egzotik Zanzibar adasına merhaba deyin"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Zanzibar",
+        "description": "Bugün gizemli, sarhoş edici Zanzibar adalarındayız. Konaklayacağımız yerden erkenden ayrılıp cennet adasına gidebilmek için feribot terminaline geçiyoruz. Stone Town’ da yemyeşil, tropik ortamda yetişen bol bitkiyi ve kaynağından alabileceğimiz numune baharatları keşfedebileceğimiz baharat tarlalarına rehberli bir tur düzenliyoruz. Ayrıca, yerel halkla etkileşim kurma ve onların misafirperverliğini deneyimleme şansına sahip olacağımız küçük bir köyü ziyaret edeceğiz; Burada yerli halk tarafından pişirilen geleneksel bir öğle yemeğinin tadını çıkaracağız."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Stone Town",
+        "description": "Bugün öğleden sonra keşfedeceğiniz Stone Town’ a dönüyoruz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Dar es Salaam",
+        "description": "Zanzibar Adası’ ndaki son zamanlarımız. Öğleden sonra anakaraya ulaşabilmek için feribota gidiyoruz. Kamyonumuzla yeniden buluşarak Dar es Salaam’ daki konaklama birimimize dönüyoruz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Iringa",
+        "description": "Ada’ nın dinlendirici etkisi hala üzerimizdeyken, Iringa’ ya doğru yola çıkıyoruz.Fil, zürafa, zebra ve antilobun yoldan görülebildiği Mikumi Milli Parkı’ nı geziyoruz."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Chitimba",
+        "description": "Bugün sınırı geçerek Malavi’ ye doğru yol alıyoruz. \"Afrika’ nın ılık kalbi\" olarak bilinen Malavi’ nin cazibesi ve sadeliği, hayatınızı gençleştirir ve canlandırır. Ülkeye Malavi Gölü’ nden giriş yapıyoruz ve Chitimba’ daki göl kıyısında bulunan kampımıza gidiyoruz. Malavi Gölü, Malavi’ nin toplam arazi alanının yaklaşık dörtte birini kapsamaktadır ve yerel yaşamın ayrılmaz bir parçasıdır."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Kande Beach",
+        "description": "Erken yola çıkıyoruz ve güneye doğru ilerliyoruz. Yerel pazarları ziyaret edeceğimiz Mzuzu şehrinde durup, Kande Plajı’ ndaki partimiz için kostüm alabilirsiniz. Önceki gecemizin aksine, Kande Plajı hareketli bir aktivite kovandır. Güzel plajı ve göl kenarı barı, mükemmel bir atmosfere ve büyük bir büyük kara limanına sahiptir. Burada bir ya da iki parti yapacağız."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Chipata",
+        "description": "Malavi’ ye veda ediyoruz ve sınırdan Zambiya’ ya geçiyoruz ve Chipata’ da duruyoruz. Bu kalabalık küçük kasaba, rengarenk meyve ve sebze pazarlarına ve büyük Hint topluluğundan ötürü şaşırtıcı derecede şatafatlı camilere sahiptir."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Lusaka",
+        "description": "Zambiya ile yolculuğumuza devam ediyoruz,yaklaşık 50 derece sıcaklıkla ülkenin en sıcak noktası olan Crooks Corner’ dan geçiyoruz.  Geceyi şehrin hemen dışında geçirdiğimiz Zambiya’ nın hareketli başkenti  ve en büyük şehri Lusaka’ ya varıyoruz. Bu akşam kampımızı, saz çatılı bungalovlarda ve çevredeki çalılıkların arasında serbestçe dolaşan zürafalar ve zebralarla geçiriyoruz. - gerçekten sakin bir ortam."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Livingstone",
+        "description": "Livingstone’ a Hoş geldiniz. Kasaba adını 19. yy. dan sonra İskoç misyoner kaşif Dr. David Livingstone tarafından almıştır."
+      },
+      {
+        "dayNumber": 16,
+        "title": "Chobe Ulusal Parkı",
+        "description": "Chobe Ulusal Parkı’ nın yanında, Botsvana’ daki en çeşitli vahşi yaşam evinde kalacağız. 11.000 kilometre karelik ıssız arazi , sulak alanlar , ormanlar ve bataklıklar her türlü hayvan ve kuş yaşamını barındırır. Chobe nehrinde akşam üstü yapacağımız tekne turunda, hayvanlara farklı bir perspektiften bakın.  Burada vahşi yaşam çok fazla. Su kenarı boyunca konuşlanmakta olan  filleri, bufaloları , ceylanları, su aygırlarını , zürafaları ve su samurlarını görebilirsiniz."
+      },
+      {
+        "dayNumber": 17,
+        "title": "Maun",
+        "description": "Afrika’ nın en büyük tatlı sulak arazilerini barındıran Okavango Deltası’ ndan Kalahari Çölünün zirvesindeki Maun kasabasına ulaşacağız."
+      },
+      {
+        "dayNumber": 18,
+        "title": "Okavango Deltası",
+        "description": "Okavango Deltası , Kavango Nehrinden beslenen ve çok yavaş akan suyun oluşturduğu büyük bir alandır. Su kalahari çöllerinin kumları üzerinde buharlaşmadan önce, nehirden kanal yolları labirentine, lagünlere ve palmiyelerle kaplı adalara doğru bir kaç kola ayrılır."
+      },
+      {
+        "dayNumber": 19,
+        "title": "Maun",
+        "description": "Delta’ dan ayrılıp, grubun geri kalanına, şoför ve aracınıza yeniden katılacağınız Maun’ a ,bir geceliğine dönüyoruz."
+      },
+      {
+        "dayNumber": 20,
+        "title": "Divindu",
+        "description": "Maun’ dan ayrılıp Botsvana üzerinden Namibya’ ya yol alıyoruz.  Sınırı geçip Caprivi Ucu adı verilen dar bölgeye ulaşıyoruz. Tüm  çıplaklığıyla Mohongo Yaşam alanındayız ve şanslıysanız benekli zebraları , zürafaları , ceylanları ve filleri görebilirsiniz."
+      },
+      {
+        "dayNumber": 21,
+        "title": "Etosha Ulusal Parkı",
+        "description": "İki gecemizi Etosha Ulusal Parkı’ nda geçireceğiz. Eğer mümkünse 1 veya 2 gece parktaki pansiyonda kalmayı deneyeceğiz. Seyahatlerimiz boyunca vahşi yaşama dair en çok aklınızda kalacak yer Etosha Milli Parkı. Bütün vaktimizi en fantastik vahşi yaşam alanında geçirme fırsatı yakalayacağız."
+      },
+      {
+        "dayNumber": 23,
+        "title": "Kamanjab",
+        "description": "Bu sabah, Etosha bölgesinden ayrılıyor ve ünlü Otjitotongwe Cheetah Park’ ta gecemizi geçireceğimiz Kamanjab’ a doğru yol alıyoruz. Koruma altında olan bu güzel yaratıklara, bölge etrafındaki isteğe bağlı turlara yaklaşma seçeneğine sahipsiniz. Kamanjab’ da ayrıca, köylüler tarafından bakılan yetim kalan çocukların bulunduğu yerel bir Himba Kabilesini ziyaret etme fırsatına sahipsiniz. Sadece Himba çocuklarının, Namibya’ da, okula devam etme zorunluluğu yoktur ve geleneksel olarak köyün yaşlıları tarafından yetiştirilirler. Topluluğa bağışlar kabul edilir ve rehberinizle bağış yapabilirsiniz."
+      },
+      {
+        "dayNumber": 24,
+        "title": "Windhoek",
+        "description": "Yolculuğumuz Namibya’ nın başkenti Windhoek’ e hoş geldiniz. Rakım 1650 metre. Windhoek kuzeydeki Eros Dağlarından Güneydeki Auas dağlarına doğru güzel bir vadiye uzanır. Bölgedeki tek şehirdir ve nüfusu 250.000 den fazladır."
+      },
+      {
+        "dayNumber": 25,
+        "title": "Swakopmund",
+        "description": "Sıradaki durağımız büyüleyici sahilleriyle Swakopmund kasabası. Tarihi Alman koloni kasabası Swakopmund çöl ile sarılmıştır ve kum tepelerinin Atlas Okyanusu ile birleştiği yerdedir. Burası Namibya’ nın en popüler tatil mekanıdır. Swakopmund’ da, bir dizi isteğe bağlı gezintiye sahip. Adrenalin açlığımızı beslemek için iki tam günümüz var. Kasabada çeşitli barlar ve restoranlar vardır. Akşamları, soğuk bir yerel bir veya iki bira eşliğinde gün içinde yaptığınız aktivitelerin videosunu izleyerek geçirebilirsiniz. Birkaç eğlenceli gece için harika bir yer."
+      },
+      {
+        "dayNumber": 28,
+        "title": "Sesriem",
+        "description": "Bugün, güzel dağlık bölgeler ve dev kum tepeleriyle ünlü Namib-Naukluft Milli Parkı’ ndan geçerek Sesriem’ e doğru uzanıyoruz. Namibya’ nın Khomas Bölgesi’ ndeki küçük bir yerleşim yeri olan Solitaire’ de öğle yemeği molası vermeden önce, Oğlak dönencesinde durup fotoğraf çektiriyoruz. Sesriem’ e vardığımızda, öğleden sonra, Sesriem Kanyonunda bir yürüyüşe çıkabilirsiniz. İnanılmaz çeşitlilikteki vahşi yaşam, buradaki zorlu koşullara adapte olmuştur. Birçok kertenkele türü  ile birlikte kaya güvercini, karga, sığırcık ve baykuş görebilirsiniz."
+      },
+      {
+        "dayNumber": 29,
+        "title": "Balık Gölü Kanyonu",
+        "description": "Bu sabah, Namib Çölü’ nün olağanüstü manzarası için Dune 45 tepesine tırmanma fırsatınız var. Ayrıca koyu renkli deve dikeni ağaçlarının beyaz zemine uzanarak bize eşsiz bir fotoğraf yakalama fırsatı verdiği olağanüstü Sossusvlei and Deadvlei’ yi ziyaret edeceğiz. Burası gerçekten bir fotoğrafçı için cennettir."
+      },
+      {
+        "dayNumber": 30,
+        "title": "Orange Nehri (Turuncu Nehir)",
+        "description": "Güneye, yerel olarak Oranjerivier olarak bilinen Orange Nehri’ ne devam ediyoruz.. Burası Güney Afrika’ nın en uzun nehridir ve Namibya ve Güney Afrika sınırı boyunca uzanmaktadır. Turuncu nehre giderken, ihtişamıyla yalnızca Kuzey Amerika’ daki Büyük Kanyon’ un rekabet edebileceği dünyanın en büyük kanyonlarından biri olan ve büyüklüğüyle nefes kesen Fish River (Balık Nehri) Kanyonunda duruyoruz. Kanyona bakan bir görüş açısında park edeceğiz. Kanyon boyunca kısa bir yürüyüş yapabilecek ve fotoğraf çekebileceksiniz."
+      },
+      {
+        "dayNumber": 31,
+        "title": "Cederberg",
+        "description": "Cape Town’ a doğru ilerlerken, dereler, şelaleler, serin havuzlar ve muhteşem doğal kaya oluşumları ile kaplı engebeli arazisi ile Cederberg vahşi yaşam alanında bir mola vereceğiz. Burada turumuza dahil şarap tadımı ile yerel şarapları deneyimleyebileceksiniz."
+      },
+      {
+        "dayNumber": 32,
+        "title": "Cape Town",
+        "description": "Afrika’ nın güney batı ucunda yer alan ve Atlantik Okyanusu ile simgeleşmiş Masa Dağı arasında yer alan Cape Town, dünyanın en güzel şehirlerinden biri olarak kabul edilmektedir."
+      },
+      {
+        "dayNumber": 33,
+        "title": "Cape Town' dan Ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç saatte bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Safari",
+    "route": [
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Iringa",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mikumi National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Malawi",
+        "country": null
+      },
+      {
+        "name": "Lake Malawi",
+        "country": "Malawi"
+      },
+      {
+        "name": "Chitimba",
+        "country": "Malawi"
+      },
+      {
+        "name": "Kande Beach",
+        "country": "Malawi"
+      },
+      {
+        "name": "Chipata",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      },
+      {
+        "name": "Chobe National Park",
+        "country": "Botswana"
+      },
+      {
+        "name": "Maun",
+        "country": "Botswana"
+      },
+      {
+        "name": "Okavango Delta",
+        "country": "Botswana"
+      },
+      {
+        "name": "Etosha National Park",
+        "country": "Namibia"
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibia"
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibia"
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibia"
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibia"
+      },
+      {
+        "name": "Fish River Canyon",
+        "country": "Namibia"
+      },
+      {
+        "name": "Cederberg",
+        "country": "South Africa"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzanya",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzanya",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzanya",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Iringa",
+        "country": "Tanzanya",
+        "lat": -7.779097,
+        "lng": 35.697053
+      },
+      {
+        "name": "Mikumi Ulusal Parkı",
+        "country": "Tanzanya",
+        "lat": -7.397705,
+        "lng": 36.973422
+      },
+      {
+        "name": "Malavi",
+        "country": "Tanzanya",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Malavi Gölü",
+        "country": "Malavi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Chitimba",
+        "country": "Malavi",
+        "lat": -14.24057,
+        "lng": 34.269951
+      },
+      {
+        "name": "Kande Plajı",
+        "country": "Malavi",
+        "lat": -11.936088,
+        "lng": 34.107306
+      },
+      {
+        "name": "Chipata",
+        "country": "Zambiya",
+        "lat": -13.639131,
+        "lng": 32.645844
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambiya",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambiya",
+        "lat": -17.853135,
+        "lng": 25.861429
+      },
+      {
+        "name": "Chobe Ulusal Parkı",
+        "country": "Botsvana",
+        "lat": -17.799239,
+        "lng": 25.156546
+      },
+      {
+        "name": "Maun",
+        "country": "Botsvana",
+        "lat": -19.988626,
+        "lng": 23.42207
+      },
+      {
+        "name": "Kamanjab",
+        "country": "Namibya",
+        "lat": -19.628408,
+        "lng": 14.843358
+      },
+      {
+        "name": "Windhoek",
+        "country": "Namibya",
+        "lat": -22.560084,
+        "lng": 17.072984
+      },
+      {
+        "name": "Swakopmund",
+        "country": "Namibya",
+        "lat": -22.696565,
+        "lng": 14.539054
+      },
+      {
+        "name": "Sesriem",
+        "country": "Namibya",
+        "lat": -24.500798,
+        "lng": 15.789153
+      },
+      {
+        "name": "Cederberg",
+        "country": "Güney Afrika",
+        "lat": -32.501175,
+        "lng": 19.258291
+      },
+      {
+        "name": "Cape Town",
+        "country": "Güney Afrika",
+        "lat": -33.922497,
+        "lng": 18.420296
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Tanzanya",
+    "mainPhoto": "",
+    "id": "BXAZT",
+    "tourName": "Zanzibar' dan Zambezi' ye",
+    "placesVisited": "Tanzanya, Malavi, Zambiya",
+    "generalInfo": "Zanzibar'ın cennet gibi adalarında bu maceraya başlayın, şnorkelli yüzme olanaklarından ve muhteşem kumlu plajlarından yararlanın. Anakaraya geri dönersek, Kande' deki yerel gelenekleri öğrenebileceğiniz Malavi'ye girmeden önce, Mikumi Ulusal Parkında, bir vahşi yaşam gezisi düzenleyebiliriz. Turu, büyük Victoria Şelaleleri' nin kapısı olan Livingstone' da sonlandırıyoruz!<br><br><strong>En Yakın Uluslararası Havaalanına (geliş): </strong>Dar Es Salaam Julius Nyerere Ulurlararası Havalimanı (DAR)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş): </strong>Livingstone Harry Mwanga Nkumbula Havalimanı (LVI)",
+    "durationDays": "14",
+    "price": "659",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>- 2 gece Zanzibar Adası Kuzey Plajı</li>\n<li>- Rehberli Baharat tarlaları turu ve yerel köyde öğle yemeği</li>\n</ul>\n<p><strong>Konaklama </strong></p>\n<p>5 gece Hostel , 8 gece çadır kampı</p>\n<p><strong>Taşımacılık</strong></p>\n<p>Büyük kamyonlar</p>\n<p><strong>Yemekler</strong></p>\n<p>13 Kahvaltı , 9 Öğle Yemeği , 7 Akşam Yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tur tur lideri , Siempre Tur Şoförü</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Dar es Salaam",
+        "description": "Dar es Salaam’ a, Hint Okyanusu’ ndaki hareketli limana ve egzotik Zanzibar adasına merhaba deyin."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Zanzibar",
+        "description": "Bugün gizemli, sarhoş edici Zanzibar adalarındayız.  Konaklayacağımız yerden erkenden ayrılıp cennet adasına gidebilmek için feribot terminaline geçiyoruz.  Stone Town’ da yemyeşil, tropik ortamda yetişen bol bitkiyi ve kaynağından alabileceğimiz numune baharatları keşfedebileceğimiz baharat tarlalarına rehberli bir tur düzenliyoruz.  Ayrıca, yerel halkla etkileşim kurma ve onların misafirperverliğini deneyimleme şansına sahip olacağımız küçük bir köyü ziyaret edeceğiz; Burada yerli halk tarafından pişirilen geleneksel bir öğle yemeğinin tadını çıkaracağız."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Stone Town",
+        "description": "Bugün öğleden sonra keşfedeceğiniz Stone Town’ a dönüyoruz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Dar es Salaam",
+        "description": "Zanzibar Adası’ ndaki son zamanlarımız.  Öğleden sonra anakaraya ulaşabilmek için feribota gidiyoruz.  Kamyonumuzla yeniden buluşarak Dar es Salaam’ daki konaklama birimimize dönüyoruz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Iringa",
+        "description": "Ada’ nın dinlendirici etkisi hala üzerimizdeyken, Iringa’ ya doğru yola çıkıyoruz. Fil, zürafa, zebra ve antilobun yoldan görülebildiği Mikumi Milli Parkı’ nı geziyoruz."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Chitimba",
+        "description": "Bugün sınırı geçerek Malavi’ ye doğru yol alıyoruz.  \"Afrika’ nın ılık kalbi\" olarak bilinen Malavi’ nin cazibesi ve sadeliği, hayatınızı gençleştirir ve canlandırır.  Ülkeye Malavi Gölü’ nden giriş yapıyoruz ve Chitimba’ daki göl kıyısında bulunan kampımıza gidiyoruz.  Malavi Gölü, Malavi’ nin toplam arazi alanının yaklaşık dörtte birini kapsamaktadır ve yerel yaşamın ayrılmaz bir parçasıdır."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Kande Beach",
+        "description": "Erken yola çıkıyoruz ve güneye doğru ilerliyoruz.  Yerel pazarları ziyaret edeceğimiz Mzuzu şehrinde durup, Kande Plajı’ ndaki partimiz için kostüm alabilirsiniz.  Önceki gecemizin aksine, Kande Plajı hareketli bir aktivite kovandır.  Güzel plajı ve göl kenarı barı, mükemmel bir atmosfere ve büyük bir büyük kara limanına sahiptir.  Burada bir ya da iki parti yapacağız."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Chipata",
+        "description": "Malavi’ ye veda ediyoruz ve sınırdan Zambiya’ ya geçiyoruz ve Chipata’ da duruyoruz.  Bu kalabalık küçük kasaba, rengarenk meyve ve sebze pazarlarına ve büyük Hint topluluğundan ötürü şaşırtıcı derecede şatafatlı camilere sahiptir."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Lusaka",
+        "description": "Zambiya ile yolculuğumuza devam ediyoruz, yaklaşık 50 derece sıcaklıkla ülkenin en sıcak noktası olan Crooks Corner’ dan geçiyoruz.   Geceyi şehrin hemen dışında geçirdiğimiz Zambiya’ nın hareketli başkenti  ve en büyük şehri Lusaka’ ya varıyoruz.  Bu akşam kampımızı, saz çatılı bungalovlarda ve çevredeki çalılıkların arasında serbestçe dolaşan zürafalar ve zebralarla geçiriyoruz.  - gerçekten sakin bir ortam."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Livingstone",
+        "description": "Livingstone’ a Hoş geldiniz.  Kasaba adını 19.  yy.  dan sonra İskoç misyoner kaşif Dr.  David Livingstone tarafından almıştır."
+      },
+      {
+        "dayNumber": 14,
+        "title": "Livingstone' dan Ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor.  Geç saatte bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Safari",
+    "route": [
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Iringa",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mikumi National Park",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Malawi",
+        "country": "Malawi"
+      },
+      {
+        "name": "Malawi Lake",
+        "country": "Malawi"
+      },
+      {
+        "name": "Chitimba",
+        "country": "Malawi"
+      },
+      {
+        "name": "Kande Beach",
+        "country": "Malawi"
+      },
+      {
+        "name": "Chipata",
+        "country": "Zambia"
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambia"
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambia"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Dar es Salaam",
+        "country": "Tanzanya",
+        "lat": -6.816084,
+        "lng": 39.280358
+      },
+      {
+        "name": "Zanzibar",
+        "country": "Tanzanya",
+        "lat": -6.197813,
+        "lng": 39.199436
+      },
+      {
+        "name": "Stone Town",
+        "country": "Tanzanya",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
+        "name": "Iringa",
+        "country": "Tanzanya",
+        "lat": -7.779097,
+        "lng": 35.697053
+      },
+      {
+        "name": "Mikumi Ulusal Parkı",
+        "country": "Tanzanya",
+        "lat": -7.397705,
+        "lng": 36.973422
+      },
+      {
+        "name": "Malavi",
+        "country": "Malavi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Malavi Gölü",
+        "country": "Malavi",
+        "lat": -15.300392,
+        "lng": 34.701808
+      },
+      {
+        "name": "Chitimba",
+        "country": "Malavi",
+        "lat": -14.24057,
+        "lng": 34.269951
+      },
+      {
+        "name": "Kande Plajı",
+        "country": "Malavi",
+        "lat": -11.936088,
+        "lng": 34.107306
+      },
+      {
+        "name": "Chipata",
+        "country": "Zambiya",
+        "lat": -13.639131,
+        "lng": 32.645844
+      },
+      {
+        "name": "Lusaka",
+        "country": "Zambiya",
+        "lat": -15.419,
+        "lng": 28.282
+      },
+      {
+        "name": "Livingstone",
+        "country": "Zambiya",
+        "lat": -17.853135,
+        "lng": 25.861429
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Tanzanya",
+    "mainPhoto": "",
+    "id": "RTZKL",
+    "tourName": "Kilimangaro - Lemosho Rotası",
+    "placesVisited": "Tanzanya",
+    "generalInfo": "Tanzanya' nın Kenya ile olan kuzey sınırına yakın, görkemli buzla kaplı Kilimanjaro Dağı, deniz seviyesinden 5.896 metre yüksekliğiyle, Ekvator çizgisinde oturur. Shira Yaylası olarak bilinen volkanik krater üzerinde yürüyüş yapın. Lemosho Rotası turistlere kapalıdır. Yürüyüşçüler çevrelerindeki manzaraların ve muhteşem görüntülerin verdiği huzurun tadını çıkarabilirler.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş): </strong>Moshi Kilimanjaro Uluslararası Havalimanı (JRO), Moshi Havalimanı (QSI)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş): </strong>Moshi Kilimanjaro Uluslararası Havalimanı (JRO), Moshi Havalimanı (QSI)",
+    "durationDays": "9",
+    "price": "1979",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Konaklama</strong></p>\n<p>2 gece otel,  6 gece Kamp</p>\n<p><strong>Yemekler</strong></p>\n<p>8 Akşam Yemeği, 8 Kahvaltı, 7 Öğle Yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tur tur lideri , Siempre Tur Şoförü</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Moshi' ye Varış",
+        "description": "Moshi’ ye varıyoruz.  Bu gece,  akşam yemeğinin tadını çıkarabilir ve gezintiniz hakkında bilgilendirme alabilirsiniz."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Mt Mkubwa Kampı",
+        "description": "Doyurucu bir kahvaltıdan sonra rehberinizle tanışacak ve Lemosho Glades’ e doğru yola çıkacaksınız.  Bugün,  ormanın içinde yer alan Mt Mkubwa Kampı’ na gidiyoruz.  Yolda görülmesi bir hayli zor olan Colobus maymunları için gözlerinizi açık tutun."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Shira Kampı 1",
+        "description": "Bugün yürüyüşünüzde epeyce yükseleceğiz.  Ormandan geçerek,  çalılıklar ve bozkırlardan tırmanacağız.  Shira yayla vadisine inen kayalık bir sırt boyunca yürüyeceğiz.  Western Breach ‘ e baktığımızda,  muhteşem buzulların ilk bakışını yakalayabileceksiniz ve bu gece Shira Kampı 1 de kalacağız.  Bugün oldukça zorlu olsa da,  güzel manzaralar  favori yürüyüşünüz  haline geliyor."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Shira Kampı 2",
+        "description": "Bugün,  Shira Platosu’ nda çalılıklar ve bozkırlar boyunca daha yavaş tempolu bir yürüyüşümüz var.  Bir sonraki kampımız olan Shira Kampı 2’ ye doğal bir yürüyüş yolu."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Barranco Kampı",
+        "description": "Bugün,  Oehler Tepesi’ nin bağlantı noktasını geçip doğudan Lava Kulesi’ ne doğru,  güney-doğuya  devam eden,  uzun bir yürüyüş günüdür.  Bu gece Barranco Kampında kamp kuruyoruz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Barafu Kampı",
+        "description": "Çarpıcı Great Barranco Duvarına gitmeden önce ıssız bölgeye  giriyoruz.  Zirvedeki ödülümüz,  çarpıcı Heim Buzulu’ nun manzaraları.  Ardından Karanga Vadisi’ ndeki tepeyi aşıp ,  sol taraftaki  Barafu kampına ulaşıyoruz.  Buradan,  aynı gece zirveye son çıkışımızı yapacağız."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Mweka Kampı",
+        "description": "Gece yarısından hemen önce kalkacaksınız,  hızlıca bir şeyler atıştırın ve zirveye ulaşmak için son bir çaba göstererek,  sabahın erken saatlerinde yürüyüşe başlayın.  Yürüyüş krater kenarındaki Stella Point’ e doğru zorlu çakıllarla yükselmeye başlar.  Burada bir mola verebiliriz ve hava koşulları bakımından şanslıysak,  deneyimleyebileceğiniz en güzel günlerden birini görün.  Buradan,  Afrika’ nın en yüksek noktası olan Uhuru Zirvesi’ ne iki saat var.  Zirveden Barafu kampına ve oradan Mweka kampına geri dönüyoruz.  Son dört günü tekrar ederek çakıllar,  bozkır ve ormandan geçerek geri dönüyoruz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Mweka Kapısından geçiş.  Moshi’ ye dönüş",
+        "description": "Son gün,  kayıt defterini imzalamak ve zirve sertifikası almak için Mweka Kapısı ve Milli Park merkezine geri döneceksiniz.  Daha sonra hizmetlerin sona erdiği Moshi’ ye geri döneceğiz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Moshi' den Ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor.  Geç bir uçuşunuz varsa veya konaklama turu ekleyerek konaklamanızı uzattıysanız,  turistik yerleri keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "Moshi",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mt Mkubwa",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Shira Camp 1",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Shira Camp 2",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Barranco Camp",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Barafu Camp",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mweka Camp",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mweka Gate",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzanya",
+        "lat": -3.342779,
+        "lng": 37.329261
+      },
+      {
+        "name": "Mweka Kampı",
+        "country": "Tanzanya",
+        "lat": -3.225632,
+        "lng": 37.336609
+      },
+      {
+        "name": "Mweka Kapısı",
+        "country": "Tanzanya",
+        "lat": -3.225632,
+        "lng": 37.336609
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Tanzanya",
+    "mainPhoto": "",
+    "id": "RTZKM",
+    "tourName": "Klimangaro - Machame Rotası",
+    "placesVisited": "Tanzanya",
+    "generalInfo": "Tanzanya'nın Kenya ile olan kuzey sınırına yakın, görkemli buzla kaplı Kilimanjaro Dağı, deniz seviyesinden 5.896 metre yüksekliğiyle, Ekvator çizgisinde oturur. Her yıl yüzlerce insan tarafından başarıyla sonuçlanan  bu yürüyüş, Machame rotasını izleyerek Afrika'nın en yüksek dağına yükselme şansını ve üç volkanik tepenin altındaki milli parkta yemyeşil tarım alanlarının, ormanların ve çalılıklarla bozkırların muhteşem manzaralarının keyfini sunuyor.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş): </strong>Moshi Kilimanjaro Uluslararası Havalimanı (JRO), Moshi Havalimanı (QSI)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> Moshi Kilimanjaro Uluslararası Havalimanı (JRO), Moshi Havalimanı (QSI)",
+    "durationDays": "9",
+    "price": "1979",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Konaklama</strong></p>\n<p>2 gece otel,  6 gece Kamp</p>\n<p><strong>Yemekler</strong></p>\n<p>8 Akşam Yemeği, 8 Kahvaltı, 7 Öğle Yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tur tur lideri , Siempre Tur Şoförü</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Moshi' ye Varış",
+        "description": "Moshi’ ye varıyoruz.  Bu gece,  akşam yemeğinin tadını çıkarabilir ve gezintiniz hakkında bilgilendirme alabilirsiniz."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Macame Kampı",
+        "description": "Moshi’ den toparlanıp ve Kilimanjaro yürüyüşümüzün başlangıcına gidiyoruz,  rehberlerinizin ve hamallarınızın yürüyüş ve ekipmanlarınızı hazırlayacakları Machame Kapısı’ nda duruyoruz.  Neredeyse yükselmeye başlar başlamaz yağmur ormanları tarafından kuşatılmış olacaksınız.  Yürüyüş bazen oldukça çamurlu ve kaygan olabilir.  Machame kampına ulaşana kadar devam edeceğiz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Shira Kampı",
+        "description": "Bugün erken bir başlangıç yaparak,  Machame kampından çıkıyoruz ve ormanı aşıyoruz ve daha sonra bozkırlar boyunca daha hafif bir yoldan devam ediyoruz.  Öğle yemeğinden sonra Shira platosuna kayalık bir sırt boyunca tırmanacağız.  Western Breach ‘ e baktığımızda,  muhteşem buzulların ilk bakışını yakalayabileceksiniz.  Bu gece,  ıssız ve etkileyici topoğrafya ile çevrili,  açık bir kamp olan Shira kampında kalacağız."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Barranco Kampı",
+        "description": "Yürüyüş yolumuza çalılık ve bozkırlar,  kayalık dağ eteği yamaçları ve müthiş nehir vadisi ile devam ediyoruz.  Bu gece,  korunaklı bir vadide yer alan Barranco Kampında kalıyoruz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Karanga Kampı",
+        "description": "Bugün farklı bir ilkimi tadacağız.  Çarpıcı Great Barranco Duvarına gitmeden önce ıssız bölgeye  giriyoruz.  Zirvedeki ödülümüz,  çarpıcı Heim Buzulu’ nun manzaraları.  Ardından Karanga Vadisi’ ndeki tepeyi aşıp ,  sol taraftaki  Barafu kampına ulaşıyoruz.  Buradan,  aynı gece zirveye son çıkışımızı yapacağız."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Barafu Kampı",
+        "description": "Bu,  yarınki zirve günü için sizi hazırlayan kısa bir yürüyüş günüdür.  Mweka Kavşağı yönünden doğuya,  Barafu Kampı’ na doğru yürüyüşe devam edeceksiniz."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Mweka Kampı",
+        "description": "Gece yarısından hemen önce kalkacaksınız,  hızlıca bir şeyler atıştırın ve zirveye ulaşmak için son bir çaba göstererek,  sabahın erken saatlerinde yürüyüşe başlayın.  Yürüyüş krater kenarındaki Stella Point’ e doğru zorlu çakıllarla yükselmeye başlar.  Burada bir mola verebiliriz ve hava koşulları bakımından şanslıysak,  deneyimleyebileceğiniz en güzel günlerden birini görün.  Buradan,  Afrika’ nın en yüksek noktası olan Uhuru Zirvesi’ ne iki saat var.  Zirveden Barafu kampına ve oradan Mweka kampına geri dönüyoruz.  Son dört günü tekrar ederek çakıllar,  bozkır ve ormandan geçerek geri dönüyoruz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Mweka Kapısından geçiş.  Moshi’ ye dönüş",
+        "description": "Son gün,  kayıt defterini imzalamak ve zirve sertifikası almak için Mweka Kapısı ve Milli Park merkezine geri döneceksiniz.  Daha sonra hizmetlerin sona erdiği Moshi’ ye geri döneceğiz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Moshi' den Ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor.  Geç bir uçuşunuz varsa veya konaklama turu ekleyerek konaklamanızı uzattıysanız,  turistik yerleri keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "Moshi",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Machame Camp",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Shira Camp",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Barranco Camp",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Karanga Camp",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Barafu Camp",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mweka Camp",
+        "country": "Tanzania"
+      },
+      {
+        "name": "Mweka Gate",
+        "country": "Tanzania"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Moshi",
+        "country": "Tanzanya",
+        "lat": -3.342779,
+        "lng": 37.329261
+      },
+      {
+        "name": "Kilimanjaro",
+        "country": "Tanzanya",
+        "lat": -3.348646,
+        "lng": 37.343525
+      },
+      {
+        "name": "Machame Kampı",
+        "country": "Tanzanya",
+        "lat": -3.212046,
+        "lng": 37.223658
+      },
+      {
+        "name": "Karanga Kampı",
+        "country": "Tanzanya",
+        "lat": -3.343699,
+        "lng": 37.303286
+      },
+      {
+        "name": "Mweka Kampı",
+        "country": "Tanzanya",
+        "lat": -3.225632,
+        "lng": 37.336609
+      },
+      {
+        "name": "Mweka Kapısı",
+        "country": "Tanzanya",
+        "lat": -3.225632,
+        "lng": 37.336609
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "8-day-great-migration-safari-in-tanzania",
     "tourName": "Tanzanya'da 8 Günlük Büyük Göç Safari",
@@ -125,7 +1297,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "best-of-tanzania-tailor-made-holiday",
     "tourName": "Tanzanya'nın En İyisi Özel Yapım Tatil",
@@ -260,7 +1432,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "dik-dik-safari-circuit-in-tanzania-wildlife-culture",
     "tourName": "Tanzanya'da Dik Dik safari rotası, yaban hayatı ve kültür",
@@ -395,7 +1567,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "exciting-family-holiday-in-tanzania",
     "tourName": "Tanzanya'da Heyecan Verici Aile Tatili",
@@ -570,7 +1742,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "great-migration-photography-holiday-tanzania",
     "tourName": "Büyük göç fotoğrafçılığı tatili, Tanzanya",
@@ -724,7 +1896,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "great-migration-small-group-safari-tanzania",
     "tourName": "Büyük Göç Küçük Grup Safarisi, Tanzanya",
@@ -833,49 +2005,55 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Kilimanjaro",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -3.348646,
         "lng": 37.343525
       },
       {
         "name": "Arusha",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -3.369683,
         "lng": 36.688079
       },
       {
         "name": "Lake Manyara",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -4.210064,
         "lng": 35.749149
       },
       {
-        "name": "Serengeti Ulusal Parkı",
-        "country": "Tanzanya",
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
         "lat": -2.191953,
         "lng": 33.869237
       },
       {
+        "name": "Lake Victoria",
+        "country": "Tanzania",
+        "lat": 0.241579,
+        "lng": 33.127865
+      },
+      {
         "name": "Speke Bay",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -3.342256,
         "lng": 33.51129
       },
       {
         "name": "Mwanza",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -2.519691,
         "lng": 32.901442
       },
       {
         "name": "Dar es Salaam",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -6.816084,
         "lng": 39.280358
       }
@@ -883,7 +2061,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "impala-safari-route-in-tanzania",
     "tourName": "Tanzanya'daki Impala safari rotası",
@@ -998,7 +2176,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "kaka-circuit-safari-in-tanzania",
     "tourName": "Kaka Circuit safari Tanzanya'da",
@@ -1193,7 +2371,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "luxury-tanzania-safari-and-zanzibar-beach-holiday",
     "tourName": "Lüks Tanzanya safari ve Zanzibar plaj tatili",
@@ -1328,7 +2506,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "luxury-tanzania-safari-lake-victoria",
     "tourName": "Lüks Tanzanya safari & Victoria Gölü",
@@ -1443,7 +2621,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "mbede-safari-circuit-luxury-in-tanzania",
     "tourName": "Mbede safari turu lüksü Tanzanya'da",
@@ -1642,7 +2820,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "northern-tanzania-and-zanzibar-guided-safari",
     "tourName": "Kuzey Tanzanya ve Zanzibar rehberli safari",
@@ -1767,7 +2945,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "northern-tanzania-fly-in-luxury-safari",
     "tourName": "Kuzey Tanzanya Uçuşlu Lüks Safari",
@@ -1912,7 +3090,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "northern-tanzania-luxury-guided-holiday",
     "tourName": "Kuzey Tanzanya Lüks Rehberli Tatil",
@@ -2076,7 +3254,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "northern-tanzania-private-safari-holiday",
     "tourName": "Kuzey Tanzanya özel safari tatili",
@@ -2211,7 +3389,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "nyerere-and-ruaha-safari-and-zanzibar-holiday-tanzania",
     "tourName": "Nyerere ve Ruaha Safari ve Zanzibar Tatili, Tanzanya",
@@ -2327,7 +3505,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "nyerere-np-mafia-island-holiday-in-tanzania",
     "tourName": "Nyerere NP & Mafia Adası tatili Tanzanya'da",
@@ -2442,7 +3620,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "ona-circuit-luxury-safari-tanzania",
     "tourName": "Ona Circuit lüks safarisi Tanzanya",
@@ -2582,7 +3760,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "premium-tanzania-holiday-small-group",
     "tourName": "Premium Tanzanya tatili, küçük grup",
@@ -2707,7 +3885,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "safari-and-zanzibar-beach-holiday-tanzania",
     "tourName": "Safari ve Zanzibar plaj tatili, Tanzanya",
@@ -2877,7 +4055,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "selous-safari-mafia-islands-diving-holiday",
     "tourName": "Selous safari ve Mafia Adaları dalış tatili",
@@ -2971,7 +4149,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "serengeti-great-migration-safari-tanzania",
     "tourName": "Serengeti büyük göç safarisi, Tanzanya",
@@ -3106,7 +4284,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "serengeti-holiday-in-tanzania-the-big-five",
     "tourName": "Tanzanya'da Serengeti Tatili, Beş Büyük",
@@ -3234,7 +4412,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "serengeti-migration-safari-in-tanzania",
     "tourName": "Tanzanya'da Serengeti Göç Safarisi",
@@ -3382,7 +4560,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "southern-tanzania-luxury-safari-holiday",
     "tourName": "Güney Tanzanya Lüks Safari Tatili",
@@ -3497,7 +4675,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-6-day-safari",
     "tourName": "Tanzanya 6 Günlük Safari",
@@ -3622,7 +4800,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-camping-safari-selous-and-ruaha",
     "tourName": "Tanzanya kamplı safari, Selous ve Ruaha",
@@ -3791,7 +4969,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-cultural-safari-holiday",
     "tourName": "Tanzanya kültürel safari tatili",
@@ -3964,7 +5142,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-culture-and-community-holiday",
     "tourName": "Tanzanya kültür ve toplum tatili",
@@ -4153,7 +5331,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-family-camping-safari",
     "tourName": "Tanzanya aile kamp safari",
@@ -4296,7 +5474,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-family-safari",
     "tourName": "Tanzanya Aile Safarisi",
@@ -4411,7 +5589,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-fly-in-safari-and-beach",
     "tourName": "Tanzanya uçuşlu safari ve plaj",
@@ -4532,7 +5710,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-green-season-safari-holiday",
     "tourName": "Tanzanya yeşil sezon safari tatili",
@@ -4677,7 +5855,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-highlights-holiday",
     "tourName": "Tanzanya Vahşi Yaşamı Tatili",
@@ -4811,7 +5989,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-luxury-family-safari-and-beach-holiday",
     "tourName": "Tanzanya lüks aile safarisi ve plaj tatili",
@@ -4892,7 +6070,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-luxury-safari-and-beach-holiday",
     "tourName": "Tanzanya lüks safari ve plaj tatili",
@@ -4977,7 +6155,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-luxury-safari-holiday",
     "tourName": "Tanzanya Lüks Safari Tatili",
@@ -5130,7 +6308,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-luxury-safari",
     "tourName": "Tanzanya lüks safarisi",
@@ -5270,7 +6448,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-national-park-holiday-off-the-beaten-path",
     "tourName": "Tanzanya ulusal park tatili, keşfedilmemiş yerler",
@@ -5448,7 +6626,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-northern-circuit-luxury-safari",
     "tourName": "Tanzanya Kuzey Çevresi lüks safari",
@@ -5618,7 +6796,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-nyerere-safari-holiday-zanzibar",
     "tourName": "Tanzanya Nyerere safari tatili & Zanzibar",
@@ -5748,7 +6926,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-on-a-budget-4-day-tour",
     "tourName": "Tanzanya'da Bütçe Dostu, 4 Günlük Tur",
@@ -5853,7 +7031,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-photography-safari-tour",
     "tourName": "Tanzanya fotoğraf safarisi turu",
@@ -5973,7 +7151,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-safari-and-great-migration-holiday",
     "tourName": "Tanzanya safari ve Büyük Göç tatili",
@@ -6113,7 +7291,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-safari-and-zanzibar-beach-holiday",
     "tourName": "Tanzanya safarisi ve Zanzibar plaj tatili",
@@ -6229,7 +7407,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-safari-holiday-in-the-serengeti",
     "tourName": "Serengeti'de Tanzanya safarisi tatili",
@@ -6353,7 +7531,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-safari-holiday-tailor-made",
     "tourName": "Tanzanya safari tatili, özel yapım",
@@ -6473,7 +7651,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-safari-tailor-made",
     "tourName": "Tanzanya safari, özel olarak hazırlanmış",
@@ -6617,7 +7795,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-small-group-holiday-safari-serengeti",
     "tourName": "Tanzanya küçük grup tatili, safari & Serengeti",
@@ -6762,7 +7940,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-small-group-safari",
     "tourName": "Tanzanya küçük grup safarisi",
@@ -6957,7 +8135,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-small-group-tour-savannahs-sands",
     "tourName": "Tanzanya küçük grup turu, savanlar ve kumlar",
@@ -7158,7 +8336,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-wildlife-adventure",
     "tourName": "Tanzanya vahşi yaşam macerası",
@@ -7307,7 +8485,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-wildlife-holiday-serengeti-safari",
     "tourName": "Tanzanya vahşi yaşam tatili, Serengeti safarisi",
@@ -7432,7 +8610,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-wildlife-holidays-flamingo-safari",
     "tourName": "Tanzanya yaban hayatı tatilleri, Flamingo safarisi",
@@ -7581,7 +8759,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-wildlife-safari-holiday",
     "tourName": "Tanzanya vahşi yaşam safari tatili",
@@ -7695,7 +8873,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "uganda-and-tanzania-luxury-safari",
     "tourName": "Uganda ve Tanzanya Lüks Safari",
@@ -7870,7 +9048,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "zanzibar-beach-holiday",
     "tourName": "Zanzibar plaj tatili",
@@ -7946,7 +9124,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "7-day-tanzania-safari-tour-serengeti-ngorongoro-crater-lake-manyara-olduvai-gorge",
     "tourName": "7 Günlük Tanzanya Safari Turu: Serengeti, Ngorongoro Krateri, Lake Manyara & Olduvai Kanyonu",
@@ -8056,7 +9234,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "8-day-tanzania-big-five-and-traditional-culture",
     "tourName": "8 Gün Tanzanya: Büyük Beşli ve Geleneksel Kültür",
@@ -8175,7 +9353,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "9-day-tanzania-northern-circuit-itinerary",
     "tourName": "9 Günlük Tanzanya Kuzey Turu Rotası",
@@ -8295,7 +9473,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "a-perfect-serengeti-safari-in-the-private-concessions",
     "tourName": "Özel İzinlerde Mükemmel Bir Serengeti Safarisi",
@@ -8409,7 +9587,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "african-family-vacation-safari-and-sandy-beaches",
     "tourName": "Afrika Aile Tatili: Safari ve Kumlu Plajlar",
@@ -8545,7 +9723,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "africas-greatest-wildlife-show-a-classic-serengeti-safari",
     "tourName": "Afrika'nın En Büyük Vahşi Yaşam Gösterisi: Klasik Serengeti Safari",
@@ -8645,7 +9823,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "best-of-both-worlds-serengeti-safari-spice-island-vacation",
     "tourName": "Her İki Dünyanın En İyisi: Serengeti Safari & Baharat Adası Tatili",
@@ -8796,7 +9974,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "best-of-tanzania-safari-zanzibar-beach",
     "tourName": "Tanzanya ve Zanzibar'ın En İyileri Safari & Plaj Turu",
@@ -8955,7 +10133,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "best-of-tanzania-tour-kilimanjaro-trekking-serengeti-safaris-and-zanzibar",
     "tourName": "Tanzanya'nın En İyisi Turu: Kilimanjaro Dağ Yürüyüşü, Serengeti Safarileri ve Zanzibar",
@@ -9117,63 +10295,75 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Moshi",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -3.342779,
         "lng": 37.329261
       },
       {
         "name": "Kilimanjaro",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -3.348646,
         "lng": 37.343525
       },
       {
         "name": "Arusha",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -3.369683,
         "lng": 36.688079
       },
       {
-        "name": "Lake Manyara Ulusal Parkı",
-        "country": "Tanzanya",
+        "name": "Lake Manyara National Park",
+        "country": "Tanzania",
         "lat": -4.210064,
         "lng": 35.749149
       },
       {
         "name": "Mto Wa Mbu",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -3.37671,
         "lng": 35.8558
       },
       {
-        "name": "Serengeti Ulusal Parkı",
-        "country": "Tanzanya",
+        "name": "Serengeti National Reserve",
+        "country": "Tanzania",
         "lat": -2.191953,
         "lng": 33.869237
       },
       {
-        "name": "Ngorongoro Koruma Alanı",
-        "country": "Tanzanya",
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
         "lat": -8.545507,
         "lng": 39.084682
       },
       {
+        "name": "Stone Town",
+        "country": "Zanzibar",
+        "lat": -6.156214,
+        "lng": 39.204181
+      },
+      {
         "name": "Zanzibar",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -6.197813,
         "lng": 39.199436
+      },
+      {
+        "name": "Kendwa",
+        "country": "Zanzibar",
+        "lat": -5.778762,
+        "lng": 39.298497
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "best-of-uganda-and-tanzania-safari",
     "tourName": "Uganda ve Tanzanya'nın En İyileri Safari",
@@ -9328,7 +10518,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "exclusive-romantic-vacation-of-safari-hidden-beach-in-tanzania",
     "tourName": "Tanzanya'da Gizli Plaj ve Safarinin Eşsiz Romantik Tatili",
@@ -9462,7 +10652,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "exclusive-serengeti-horse-riding-safari-expedition",
     "tourName": "Özel Serengeti Ata Biniş Safarisi",
@@ -9557,7 +10747,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "exquisite-africa-a-zambia-southern-tanzania-luxury-safari",
     "tourName": "Zarif Afrika: Zambia ve Güney Tanzanya Lüks Safari",
@@ -9672,57 +10862,63 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Dar es Salaam",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -6.816084,
         "lng": 39.280358
       },
       {
-        "name": "Ruaha Ulusal Parkı",
-        "country": "Tanzanya",
+        "name": "Ruaha National Park",
+        "country": "Tanzania",
         "lat": -10.096791,
         "lng": 39.571773
       },
       {
-        "name": "Rufiji Nehri",
-        "country": "Tanzanya",
+        "name": "Rufiji River",
+        "country": "Tanzania",
         "lat": -7.838297,
         "lng": 38.347679
       },
       {
-        "name": "Güney Luangwa Ulusal Parkı",
-        "country": "Zambiya",
+        "name": "South Luangwa National Park",
+        "country": "Zambia",
         "lat": -15.622586,
         "lng": 30.400955
       },
       {
-        "name": "Kuzey Luangwa Ulusal Parkı",
-        "country": "Zambiya",
+        "name": "North Luangwa National Park",
+        "country": "Zambia",
         "lat": -15.622586,
         "lng": 30.400955
       },
       {
         "name": "Livingstone",
-        "country": "Zambiya",
+        "country": "Zambia",
         "lat": -17.853135,
         "lng": 25.861429
       },
       {
-        "name": "Zambezi Nehri",
-        "country": "Zambiya",
+        "name": "Zambezi River",
+        "country": "Zambia",
         "lat": -13.550083,
         "lng": 23.115208
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Tanzania",
+        "lat": -17.941389,
+        "lng": 25.826298
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "exquisite-one-week-tanzania-fly-in-safari-for-seniors",
     "tourName": "İleri Yaş İçin Olağanüstü Bir Haftalık Tanzanya Uçuşlu Safari",
@@ -9837,7 +11033,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "exquisite-overland-tanzania-safari-for-seniors",
     "tourName": "İleri Yaşlar için Eşsiz Karada Tanzanya Safarisi",
@@ -9957,7 +11153,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "highlights-of-east-africa-safari-kenya-and-tanzania",
     "tourName": "Doğu Afrika Safarisi: Kenya ve Tanzanya'nın Gözde Noktaları",
@@ -10111,7 +11307,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "intimate-two-week-safari-serengeti-katavi-mahale-chimps",
     "tourName": "Samimi İki Haftalık Safari: Serengeti, Katavi & Mahale Şimpanzeleri",
@@ -10230,7 +11426,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "luxury-bespoke-east-africa-safari-rwanda-kenya-tanzania",
     "tourName": "Lüks Kişiye Özel Doğu Afrika Safarisi: Ruanda, Kenya ve Tanzanya",
@@ -10370,7 +11566,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "luxury-northern-circuit-tanzania-safari-tour",
     "tourName": "Lüks Kuzey Turuna Tanzanya Safari Turu",
@@ -10534,7 +11730,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "luxury-romantic-getaway-to-the-serengeti-zanzibar",
     "tourName": "Serengeti ve Zanzibar'da Lüks Romantik Kaçamak",
@@ -10680,7 +11876,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "mufasa-inspired-family-lion-king-safari-pride-of-africa",
     "tourName": "Mufasa İlhamlı Aile Aslan Kral Safari: Afrika'nın Gururu",
@@ -10850,7 +12046,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "opulent-serengeti-safari-finest-camps-on-private-reserves",
     "tourName": "Göz Alıcı Serengeti Safari: Özel Rezerve Bütünlüklü Kamplar",
@@ -10970,7 +12166,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "peaceful-zanzibar-safari-vacation-for-seniors",
     "tourName": "Ileri Yaş için Huzurlu Zanzibar ve Safari Tatili",
@@ -11106,7 +12302,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "personalized-tanzania-safari-serengeti-more",
     "tourName": "Kişiye Özel Tanzanya Safari: Serengeti ve Daha Fazlası",
@@ -11211,7 +12407,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "private-plane-serengeti-safari-for-families-young-rangers-program",
     "tourName": "Aileler İçin Özel Uçak Serengeti Safari & Genç Kaşifler Programı",
@@ -11330,7 +12526,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "private-serengeti-safari-for-wildlife-photographers",
     "tourName": "Yaban Hayatı Fotoğrafçıları için Özel Serengeti Safari",
@@ -11453,63 +12649,69 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Kilimanjaro Uluslararası Havalimanı",
-        "country": "Tanzanya",
+        "name": "Kilimanjaro International Airport",
+        "country": "Tanzania",
         "lat": -3.348646,
         "lng": 37.343525
       },
       {
         "name": "Arusha",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -3.369683,
         "lng": 36.688079
       },
       {
-        "name": "Ngorongoro Koruma Alanı",
-        "country": "Tanzanya",
+        "name": "Ngorongoro Conservation Area",
+        "country": "Tanzania",
         "lat": -8.545507,
         "lng": 39.084682
       },
       {
-        "name": "Ngorongoro Krateri",
-        "country": "Tanzanya",
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
         "lat": -8.545507,
         "lng": 39.084682
       },
       {
         "name": "Ndutu",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -4.163296,
         "lng": 37.919367
       },
       {
         "name": "Serengeti",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -2.191953,
         "lng": 33.869237
       },
       {
-        "name": "Orta Serengeti",
-        "country": "Tanzanya",
+        "name": "Central Serengeti",
+        "country": "Tanzania",
         "lat": -2.191953,
         "lng": 33.869237
       },
       {
-        "name": "Serengeti Milli Parkı",
-        "country": "Tanzanya",
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
         "lat": -2.191953,
         "lng": 33.869237
+      },
+      {
+        "name": "Maasai Mara",
+        "country": "null",
+        "lat": -0.940234,
+        "lng": 35.42232
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "romantic-safari-adventure-across-southern-tanzania",
     "tourName": "Güney Tanzanya'da Romantik Safari Macerası",
@@ -11672,7 +12874,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "romantic-tanzanian-safari-for-couples",
     "tourName": "Çiftler İçin Romantik Tanzanya Safari",
@@ -11827,7 +13029,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "safari-and-seascape-9-day-tanzania-and-zanzibar",
     "tourName": "Safari ve Deniz Manzarası: 9 Gün Tanzanya ve Zanzibar",
@@ -11933,7 +13135,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "safari-honeymoon-to-botswana-tanzania",
     "tourName": "Botsvana ve Tanzanya'ya Safari Balayı",
@@ -12041,25 +13243,31 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Chobe Milli Parkı",
-        "country": "Botsvana",
+        "name": "Chobe National Park",
+        "country": "Botswana",
         "lat": -17.799239,
         "lng": 25.156546
       },
       {
-        "name": "Ngorongoro Krateri",
-        "country": "Tanzanya",
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "lat": -17.941389,
+        "lng": 25.826298
+      },
+      {
+        "name": "Ngorongoro Crater",
+        "country": "Tanzania",
         "lat": -8.545507,
         "lng": 39.084682
       },
       {
-        "name": "Serengeti Milli Parkı",
-        "country": "Tanzanya",
+        "name": "Serengeti National Park",
+        "country": "Tanzania",
         "lat": -2.191953,
         "lng": 33.869237
       }
@@ -12067,7 +13275,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "serengeti-and-selous-safaris-contrasts-of-tanzanias-diverse-wildlife",
     "tourName": "Serengeti ve Selous Safarileri: Tanzanya'nın Çeşitli Vahşi Yaşamının Zıtları",
@@ -12192,7 +13400,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "serengeti-great-migration-safari-january-to-march",
     "tourName": "Serengeti Büyük Göç Safarisi: Ocak - Mart",
@@ -12313,7 +13521,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "serengeti-great-migration-safari-natures-greatest-spectacle",
     "tourName": "Serengeti Büyük Göç Safari: Doğanın En Büyük Gösterisi",
@@ -12449,7 +13657,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "serengeti-iconic-northern-tanzania-safari-for-first-timers",
     "tourName": "Serengeti & İkonik Kuzey Tanzanya Safari İlk Kez Gidenler İçin",
@@ -12569,7 +13777,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "serengeti-safari-maasai-mara-adventure-tour-for-couples",
     "tourName": "Serengeti Safari & Maasai Mara Macera Turu Çiftler İçin",
@@ -12704,7 +13912,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "serengeti-wildlife-safari-tanzania-cultural-tour",
     "tourName": "Serengeti Yaban Hayatı Safari & Tanzanya Kültürel Turu",
@@ -12820,7 +14028,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "signature-tanzania-safari-ngorongoro-crater-serengeti-and-more",
     "tourName": "İmza Tanzanya Safarisi: Ngorongoro Krateri, Serengeti ve Daha Fazlası",
@@ -12989,7 +14197,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "spectacular-two-week-safari-and-beach-romantic-escape",
     "tourName": "Göz Alıcı İki Haftalık Safari ve Plaj Romantik Kaçamağı",
@@ -13178,7 +14386,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-family-friendly-safari-with-teenagers",
     "tourName": "Tanzanya Aile Dostu Safari - Gençlerle",
@@ -13303,7 +14511,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-family-safari-wildlife-culture",
     "tourName": "Tanzanya Aile Safarisi: Vahşi Hayat ve Kültür",
@@ -13427,7 +14635,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-luxury-safari-zanzibar-beach-vacation",
     "tourName": "Tanzanya Lüks Safari & Zanzibar Plaj Tatili",
@@ -13552,7 +14760,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-photographic-safari-tarangire-lake-manyara-ngorongoro-crater-serengeti",
     "tourName": "Tanzanya Fotoğraf Safarisi: Tarangire, Lake Manyara, Ngorongoro Krateri & Serengeti",
@@ -13682,7 +14890,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-safari-from-august-to-december-serengeti-grumeti-namiri",
     "tourName": "Tanzanya Safari Ağustos'tan Aralık'a: Serengeti, Grumeti, Namiri",
@@ -13792,7 +15000,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "tanzania-safari-gorilla-trekking-adventure",
     "tourName": "Tanzanya Safari & Goril Trekking Macerası",
@@ -13941,7 +15149,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "the-great-migration-photo-safari-to-tanzania",
     "tourName": "Büyük Göç Foto Safari - Tanzanya",
@@ -14071,7 +15279,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "the-lion-king-inspired-safari-for-families",
     "tourName": "Aslan Kral İlhamlı Aile Safarisi",
@@ -14206,7 +15414,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "the-tanzanian-safari-of-adventure-and-romance",
     "tourName": "Macera ve Romantizmin Tanzanya Safarisi",
@@ -14331,7 +15539,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "ultimate-tanzania-luxury-safari",
     "tourName": "Son Derece Konforlu Tanzanya Safari",
@@ -14451,7 +15659,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "unparalleled-east-africa-safari-trip-of-a-lifetime",
     "tourName": "Eşsiz Doğu Afrika Safarisi - Hayat Dönümüm",
@@ -14636,7 +15844,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Tanzania",
+    "destination": "Tanzanya",
     "mainPhoto": "",
     "id": "untouched-east-africa-11-day-tanzania-kenya-and-uganda",
     "tourName": "Dokunulmamış Doğu Afrika: 11 Günlük Tanzanya, Kenya ve Uganda Turu",

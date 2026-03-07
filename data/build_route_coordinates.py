@@ -11,14 +11,13 @@ from tqdm import tqdm
 # =====================================================
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-ROOT_DIR = os.path.join(BASE_DIR, "big_siempre_tour_tours")
+ROOT_DIR = os.path.join(BASE_DIR, "siempretour_tours")
 CACHE_PATH = os.path.join(BASE_DIR, "geocode_cache.json")
 
-MAPBOX_TOKEN = ""
+MAPBOX_TOKEN = ""  # <-- doldur
 
 SLEEP_BETWEEN_REQUESTS = 0.1
-MAX_RETRIES = 3
-
+MAX_RETRIES = 4  # biraz artırdım
 
 # =====================================================
 # FULL COUNTRY → ISO2 MAP
@@ -84,7 +83,18 @@ ALIASES = {
 # NORMALIZE
 # =====================================================
 
+def to_text(x) -> str:
+    if x is None:
+        return ""
+    if isinstance(x, str):
+        return x
+    try:
+        return json.dumps(x, ensure_ascii=False)
+    except Exception:
+        return str(x)
+
 def normalize_text(text):
+    text = to_text(text)
     if not text:
         return ""
     text = unicodedata.normalize("NFKD", text)
@@ -103,6 +113,8 @@ def normalize_country(country):
             return official
     return country
 
+def normalize_place_name(name):
+    return normalize_text(name)
 
 # =====================================================
 # CACHE
@@ -110,46 +122,58 @@ def normalize_country(country):
 
 def load_cache():
     if os.path.exists(CACHE_PATH):
-        with open(CACHE_PATH,"r",encoding="utf-8") as f:
+        with open(CACHE_PATH, "r", encoding="utf-8") as f:
             return json.load(f)
     return {}
 
 def save_cache(cache):
-    with open(CACHE_PATH,"w",encoding="utf-8") as f:
-        json.dump(cache,f,ensure_ascii=False,indent=2)
+    with open(CACHE_PATH, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
 
-def make_cache_key(name,country):
-    return f"{name.strip()}||{country.strip()}".lower()
-
+def make_cache_key(name, country):
+    n = normalize_place_name(name)
+    c = normalize_country(country)
+    return f"{n}||{c}".lower()
 
 # =====================================================
 # MAPBOX SAFE GEOCODE
 # =====================================================
 
-def mapbox_geocode(name,country):
+def mapbox_geocode(name, country):
+    if not MAPBOX_TOKEN or not MAPBOX_TOKEN.strip():
+        raise RuntimeError("MAPBOX_TOKEN is empty. Fill it before geocoding (avoid poisoning the cache).")
 
     country = normalize_country(country)
+    name = normalize_place_name(name)
+
     query = f"{name}, {country}" if country else name
     encoded_query = urllib.parse.quote(query)
 
     url = f"https://api.mapbox.com/geocoding/v5/mapbox.places/{encoded_query}.json"
-
     params = {
         "access_token": MAPBOX_TOKEN,
-        "limit":1,
-        "types":"place,locality,region,poi"
+        "limit": 1,
+        "types": "place,locality,region,poi"
     }
 
     iso2 = COUNTRY_TO_ISO2.get(country)
     if iso2:
         params["country"] = iso2
 
+    backoff = 1.0
     for _ in range(MAX_RETRIES):
         try:
-            r = requests.get(url,params=params,timeout=20)
-            if r.status_code != 200:
-                time.sleep(1)
+            r = requests.get(url, params=params, timeout=20)
+
+            # rate limit / transient
+            if r.status_code in (429, 500, 502, 503, 504):
+                time.sleep(backoff)
+                backoff *= 2
                 continue
+
+            if r.status_code != 200:
+                # permanent-ish fail; don't retry too much
+                return None
 
             data = r.json()
             if not data.get("features"):
@@ -158,136 +182,156 @@ def mapbox_geocode(name,country):
             feature = data["features"][0]
 
             returned_country = None
-            for c in feature.get("context",[]):
-                if "country" in c.get("id",""):
+            for c in feature.get("context", []):
+                if "country" in c.get("id", ""):
                     returned_country = normalize_country(c.get("text"))
 
             if country and returned_country and returned_country != country:
                 return None
 
-            lng,lat = feature["center"]
-            return {"lat":lat,"lng":lng}
+            lng, lat = feature["center"]
+            return {"lat": lat, "lng": lng}
 
         except Exception:
-            time.sleep(1)
+            time.sleep(backoff)
+            backoff *= 2
 
     return None
-
 
 # =====================================================
 # COLLECT UNIQUE PLACES
 # =====================================================
 
 def collect_unique_places():
-    places=set()
-    files=[]
+    places = set()
+    files = []
 
     for folder in os.listdir(ROOT_DIR):
-        path=os.path.join(ROOT_DIR,folder,"tours.json")
+        path = os.path.join(ROOT_DIR, folder, "tours.json")
         if not os.path.exists(path):
             continue
 
         files.append(path)
 
-        with open(path,"r",encoding="utf-8") as f:
-            tours=json.load(f)
+        with open(path, "r", encoding="utf-8") as f:
+            tours = json.load(f)
+
+        if not isinstance(tours, list):
+            continue
 
         for tour in tours:
-            route=tour.get("route")
-            if not isinstance(route,list):
+            if not isinstance(tour, dict):
                 continue
+            route = tour.get("route")
+            if not isinstance(route, list):
+                continue
+
             for item in route:
-                name=(item.get("name") or "").strip()
-                country=(item.get("country") or "").strip()
+                if not isinstance(item, dict):
+                    continue
+                name = to_text(item.get("name")).strip()
+                country = to_text(item.get("country")).strip()
                 if name:
-                    places.add((name,country))
+                    places.add((name, country))
 
-    return sorted(places),files
-
+    return sorted(places), files
 
 # =====================================================
 # GEOCODE UNIQUE WITH PROGRESS
 # =====================================================
 
-def geocode_all(unique,cache):
+def geocode_all(unique, cache):
+    missing = [p for p in unique if make_cache_key(*p) not in cache]
 
-    missing=[p for p in unique if make_cache_key(*p) not in cache]
+    print("\n🧠 Total Unique Places:", len(unique))
+    print("📍 Missing:", len(missing))
 
-    print("\n🧠 Total Unique Places:",len(unique))
-    print("📍 Missing:",len(missing))
+    for name, country in tqdm(missing, desc="🌍 Geocoding", unit="place"):
+        key = make_cache_key(name, country)
 
-    for name,country in tqdm(missing,desc="🌍 Geocoding",unit="place"):
-
-        result=mapbox_geocode(name,country)
+        try:
+            result = mapbox_geocode(name, country)
+        except Exception as e:
+            # token boş gibi kritik şeylerde burada patlar, cache yazmayız
+            print(f"\n❌ Geocode hard-fail for {name}, {country}: {e}")
+            raise
 
         if result:
-            cache[make_cache_key(name,country)]={"found":True,**result}
+            cache[key] = {"found": True, **result}
         else:
-            cache[make_cache_key(name,country)]={"found":False}
+            cache[key] = {"found": False}
 
         save_cache(cache)
         time.sleep(SLEEP_BETWEEN_REQUESTS)
 
     return cache
 
-
 # =====================================================
 # WRITE ROUTE COORDS WITH PROGRESS
 # =====================================================
 
-def write_coords_all(files,cache):
+def write_coords_all(files, cache):
+    for path in tqdm(files, desc="📝 Writing routeCoordinates", unit="file"):
+        with open(path, "r", encoding="utf-8") as f:
+            tours = json.load(f)
 
-    for path in tqdm(files,desc="📝 Writing routeCoordinates",unit="file"):
+        if not isinstance(tours, list):
+            continue
 
-        with open(path,"r",encoding="utf-8") as f:
-            tours=json.load(f)
-
-        changed=False
+        changed = False
 
         for tour in tours:
+            if not isinstance(tour, dict):
+                continue
+
             if tour.get("routeCoordinates"):
                 continue
 
-            route=tour.get("route")
-            if not isinstance(route,list):
+            route = tour.get("route")
+            if not isinstance(route, list):
                 continue
 
-            destination=normalize_country(tour.get("destination",""))
-            coords=[]
+            destination = normalize_country(tour.get("destination", ""))
+            coords = []
 
             for item in route:
-                name=(item.get("name") or "").strip()
-                country=normalize_country(item.get("country") or destination)
-                key=make_cache_key(name,country)
-                cached=cache.get(key)
+                if not isinstance(item, dict):
+                    continue
+
+                name = to_text(item.get("name")).strip()
+                if not name:
+                    continue
+
+                country = normalize_country(item.get("country") or destination)
+                key = make_cache_key(name, country)
+                cached = cache.get(key)
 
                 if cached and cached.get("found"):
                     coords.append({
-                        "name":name,
-                        "country":country,
-                        "lat":cached["lat"],
-                        "lng":cached["lng"]
+                        "name": name,
+                        "country": country if country else None,
+                        "lat": cached["lat"],
+                        "lng": cached["lng"]
                     })
 
             if coords:
-                tour["routeCoordinates"]=coords
-                changed=True
+                tour["routeCoordinates"] = coords
+                changed = True
 
         if changed:
-            with open(path,"w",encoding="utf-8") as f:
-                json.dump(tours,f,ensure_ascii=False,indent=2)
-
+            with open(path, "w", encoding="utf-8") as f:
+                json.dump(tours, f, ensure_ascii=False, indent=2)
 
 # =====================================================
 # MAIN
 # =====================================================
 
 def main():
-    cache=load_cache()
-    unique,files=collect_unique_places()
-    cache=geocode_all(unique,cache)
-    write_coords_all(files,cache)
+    cache = load_cache()
+    unique, files = collect_unique_places()
+    cache = geocode_all(unique, cache)
+    write_coords_all(files, cache)
     print("\n🚀 DONE")
 
-if __name__=="__main__":
+if __name__ == "__main__":
     main()

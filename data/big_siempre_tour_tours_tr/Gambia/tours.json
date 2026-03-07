@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Gambia",
+    "destination": "Gambiya",
     "mainPhoto": "",
     "id": "fes-to-accra-overland-adventure-11-weeks",
     "tourName": "Fes'ten Accra'ya karadan macera, 11 hafta",
@@ -153,21 +153,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Marrakech",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 31.626928,
         "lng": -7.988117
       },
       {
         "name": "Essaouira",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 31.513723,
         "lng": -9.771017
+      },
+      {
+        "name": "Western Sahara",
+        "country": "Gambia",
+        "lat": 29.964354,
+        "lng": 77.546265
       },
       {
         "name": "Atar",
@@ -192,6 +198,12 @@
         "country": "Senegal",
         "lat": 14.712019,
         "lng": -17.457171
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
       },
       {
         "name": "Ziguinchor",
@@ -237,13 +249,13 @@
       },
       {
         "name": "Yamoussoukro",
-        "country": "Fildişi Sahili",
+        "country": "Ivory Coast",
         "lat": 6.809107,
         "lng": -5.273263
       },
       {
         "name": "Abidjan",
-        "country": "Fildişi Sahili",
+        "country": "Ivory Coast",
         "lat": 5.320357,
         "lng": -4.016107
       },
@@ -281,7 +293,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Gambia",
+    "destination": "Gambiya",
     "mainPhoto": "",
     "id": "gambia-and-senegal-river-cruise",
     "tourName": "Gambiya ve Senegal Nehir Turu",
@@ -414,9 +426,45 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
+      },
+      {
+        "name": "Tendaba",
+        "country": "Gambia",
+        "lat": 13.438952,
+        "lng": -15.807317
+      },
+      {
+        "name": "Kuntaur",
+        "country": "Gambia",
+        "lat": 13.670615,
+        "lng": -14.889486
+      },
+      {
+        "name": "Janjanbureh",
+        "country": "Gambia",
+        "lat": 13.539083,
+        "lng": -14.761229
+      },
+      {
+        "name": "Wassu",
+        "country": "Gambia",
+        "lat": 13.692398,
+        "lng": -14.878805
+      },
+      {
+        "name": "Kaur",
+        "country": "Gambia",
+        "lat": 13.702177,
+        "lng": -15.333881
       },
       {
         "name": "Dakar",
@@ -435,12 +483,18 @@
         "country": "Senegal",
         "lat": 14.154629,
         "lng": -16.832686
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Gambia",
+    "destination": "Gambiya",
     "mainPhoto": "",
     "id": "senegal-and-gambia-river-cruise",
     "tourName": "Senegal ve Gambia Nehir Turu",
@@ -610,9 +664,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Dakar",
@@ -627,13 +681,13 @@
         "lng": -16.504869
       },
       {
-        "name": "Djoudj Ulusal Kuş Cenneti",
+        "name": "Djoudj National Bird Sanctuary",
         "country": "Senegal",
         "lat": 13.435366,
         "lng": -13.42683
       },
       {
-        "name": "Langue de Barberie Milli Parkı",
+        "name": "Langue de Barberie National Park",
         "country": "Senegal",
         "lat": 14.15468,
         "lng": -15.37554
@@ -651,7 +705,31 @@
         "lng": -16.076391
       },
       {
-        "name": "Fadiout Adaları",
+        "name": "Georgetown",
+        "country": "Gambia",
+        "lat": 13.534676,
+        "lng": -14.753169
+      },
+      {
+        "name": "Wassu Stone Circles",
+        "country": "Gambia",
+        "lat": 13.692398,
+        "lng": -14.878805
+      },
+      {
+        "name": "Tendaba",
+        "country": "Gambia",
+        "lat": 13.438952,
+        "lng": -15.807317
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
+      },
+      {
+        "name": "Fadiout Islands",
         "country": "Senegal",
         "lat": 14.152081,
         "lng": -16.82345
@@ -666,7 +744,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Gambia",
+    "destination": "Gambiya",
     "mainPhoto": "",
     "id": "senegal-the-gambia-tour",
     "tourName": "Senegal ve Gambiya Turu",
@@ -809,9 +887,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Dakar",
@@ -850,13 +928,25 @@
         "lng": -15.456652
       },
       {
+        "name": "Jufureh",
+        "country": "Gambia",
+        "lat": 13.338239,
+        "lng": -16.381497
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
+      },
+      {
         "name": "Saly",
         "country": "Senegal",
         "lat": 14.441115,
         "lng": -17.01483
       },
       {
-        "name": "Bandia Parkı",
+        "name": "Bandia Park",
         "country": "Senegal",
         "lat": 14.623721,
         "lng": -17.027504
@@ -865,7 +955,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Gambia",
+    "destination": "Gambiya",
     "mainPhoto": "",
     "id": "west-africa-river-cruise",
     "tourName": "Batı Afrika Nehir Turu",
@@ -994,9 +1084,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Dakar",
@@ -1009,6 +1099,42 @@
         "country": "Senegal",
         "lat": 13.935077,
         "lng": -16.76296
+      },
+      {
+        "name": "Banjul",
+        "country": "Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
+      },
+      {
+        "name": "Tendaba",
+        "country": "Gambia",
+        "lat": 13.438952,
+        "lng": -15.807317
+      },
+      {
+        "name": "Kuntaur",
+        "country": "Gambia",
+        "lat": 13.670615,
+        "lng": -14.889486
+      },
+      {
+        "name": "Janjanbureh",
+        "country": "Gambia",
+        "lat": 13.539083,
+        "lng": -14.761229
+      },
+      {
+        "name": "Wassu",
+        "country": "Gambia",
+        "lat": 13.692398,
+        "lng": -14.878805
+      },
+      {
+        "name": "Kaur",
+        "country": "Gambia",
+        "lat": 13.702177,
+        "lng": -15.333881
       }
     ],
     "__trTranslated": true

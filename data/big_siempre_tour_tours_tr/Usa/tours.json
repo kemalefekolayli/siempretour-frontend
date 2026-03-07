@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "7-days-in-chicago-holiday-usa",
     "tourName": "Chicago'da 7 Günlük Tatil, ABD",
@@ -90,7 +90,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "arizona-and-new-mexico-self-drive-holiday",
     "tourName": "Arizona ve New Mexico kendi aracınızla tatil",
@@ -249,13 +249,19 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Cumbres & Toltec Scenic Railway",
+        "country": "United States",
+        "lat": 36.782333,
+        "lng": -114.007
       },
       {
         "name": "Denver",
-        "country": "Amerika Birleşik Devletleri",
+        "country": "United States",
         "lat": 39.741681,
         "lng": -104.986109
       }
@@ -263,7 +269,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "arizona-self-drive-holiday-usa",
     "tourName": "Arizona kendi kendine sürüş tatili, ABD",
@@ -375,10 +381,18 @@
         "country": "USA"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      }
+    ]
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "best-of-washington-holiday-usa",
     "tourName": "Washington En İyisi Tatili, ABD",
@@ -488,7 +502,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "coastal-california-self-drive-holiday",
     "tourName": "Kıyı Kaliforniya Kendi Aracınızla Tatil",
@@ -638,7 +652,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "colorado-holiday-self-drive-tour-usa",
     "tourName": "Colorado tatili, kendi aracınızla tur, ABD",
@@ -879,7 +893,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "deep-south-delta-blues-tour-in-america",
     "tourName": "Amerika’da Derin Güney Delta Blues Turu",
@@ -987,10 +1001,18 @@
         "country": "USA"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      }
+    ]
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "family-rafting-holiday-on-the-salmon-river-idaho-usa",
     "tourName": "Salmon Nehri'nde Aile Rafting Tatili, Idaho, ABD",
@@ -1152,7 +1174,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "lake-tahoe-and-yosemite-tour-usa",
     "tourName": "Lake Tahoe ve Yosemite turu, ABD",
@@ -1262,7 +1284,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "las-vegas-to-san-francisco-tour-usa",
     "tourName": "Las Vegas'tan San Francisco'ya Turu ABD",
@@ -1401,7 +1423,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "maine-and-massachusetts-self-drive-holiday",
     "tourName": "Maine ve Massachusetts Kendinize Ait Sürüş Tatili",
@@ -1535,7 +1557,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "maine-self-drive-holiday-usa",
     "tourName": "Maine kendi sürüş tatili, ABD",
@@ -1655,7 +1677,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "new-york-state-holiday-usa",
     "tourName": "New York Eyaleti tatili, ABD",
@@ -1795,10 +1817,18 @@
         "country": "USA"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      }
+    ]
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "new-york-to-boston-small-group-tour",
     "tourName": "New York'tan Boston'a, küçük grup turu",
@@ -1874,10 +1904,18 @@
         "country": "USA"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      }
+    ]
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "new-york-to-san-francisco-tour-in-america",
     "tourName": "New York'tan San Francisco'ya Amerika Turu",
@@ -2067,7 +2105,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "oregon-self-drive-holiday-usa",
     "tourName": "Oregon kendi kendine sürüş tatili, ABD",
@@ -2243,7 +2281,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "rogue-river-rafting-holiday-in-the-usa",
     "tourName": "Amerika'da Rogue Nehri rafting tatili",
@@ -2333,37 +2371,55 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Medford",
-        "country": "Amerika Birleşik Devletleri",
+        "country": "United States",
         "lat": 42.418226,
         "lng": -71.10976
       },
       {
         "name": "Merlin",
-        "country": "Amerika Birleşik Devletleri",
+        "country": "United States",
         "lat": 42.517163,
         "lng": -123.423532
       },
       {
-        "name": "Rogue Nehri",
-        "country": "Amerika Birleşik Devletleri",
+        "name": "Rogue River",
+        "country": "United States",
         "lat": 42.43316,
         "lng": -123.168994
       },
       {
-        "name": "Rogue Nehri Ranch",
-        "country": "Amerika Birleşik Devletleri",
+        "name": "Black Bar Lodge",
+        "country": "United States",
+        "lat": 13.74445,
+        "lng": -60.981782
+      },
+      {
+        "name": "Rogue River Ranch",
+        "country": "United States",
         "lat": 42.43316,
         "lng": -123.168994
+      },
+      {
+        "name": "Marial Lodge",
+        "country": "United States",
+        "lat": 33.333294,
+        "lng": -79.47424
+      },
+      {
+        "name": "Half Moon Bar Lodge",
+        "country": "United States",
+        "lat": 37.463634,
+        "lng": -122.429242
       },
       {
         "name": "Foster Bar",
-        "country": "Amerika Birleşik Devletleri",
+        "country": "United States",
         "lat": 38.801406,
         "lng": -84.213655
       }
@@ -2371,7 +2427,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "salmon-river-rafting-holiday-in-idaho-usa",
     "tourName": "Idaho, ABD'deki Salmon Nehri rafting tatili",
@@ -2592,7 +2648,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "san-francisco-to-la-tour-usa",
     "tourName": "San Francisco'dan LA'ya tur, ABD",
@@ -2772,7 +2828,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "self-drive-tour-of-the-national-parks-of-america",
     "tourName": "Amerika'nın Milli Parkları'nda Kendin Sürüş Turu",
@@ -3067,7 +3123,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "snake-river-rafting-holiday-in-hells-canyon-north-america",
     "tourName": "Hells Canyon'da Snake Nehri rafting tatili, Kuzey Amerika",
@@ -3238,7 +3294,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "south-carolina-self-drive-holiday-in-usa",
     "tourName": "Güney Carolina'da kendinize ait sürüş tatili, ABD",
@@ -3356,10 +3412,18 @@
         "country": "USA"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      }
+    ]
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "usa-s-deep-south-small-group-holiday",
     "tourName": "ABD'nin Derin Güney küçük grup tatili",
@@ -3476,10 +3540,18 @@
         "country": "USA"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      }
+    ]
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "utah-adventure-holiday-usa",
     "tourName": "Utah macera tatili, ABD",
@@ -3690,7 +3762,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "utah-national-parks-adventure-holiday-usa",
     "tourName": "Utah Ulusal Parkları macera tatili, ABD",
@@ -3795,7 +3867,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "west-coast-tours-in-america",
     "tourName": "Amerika'nın Batı Kıyısı Turları",
@@ -3992,7 +4064,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "wolf-watching-holiday-in-yellowstone-usa",
     "tourName": "Yellowstone, ABD'de Kurt İzleme Tatili",
@@ -4071,7 +4143,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "yellowstone-winter-wildlife-tour",
     "tourName": "Yellowstone Kış Yaban Hayatı Turu",
@@ -4153,7 +4225,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Usa",
+    "destination": "Amerika Birleşik Devletleri",
     "mainPhoto": "",
     "id": "yosemite-adventure-holiday-usa",
     "tourName": "Yosemite macera tatili, ABD",

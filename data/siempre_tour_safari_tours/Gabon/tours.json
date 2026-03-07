@@ -3,9 +3,9 @@
     "destination": "Gabon",
     "mainPhoto": "",
     "id": "gabon-tour",
-    "tourName": "Gabon tour",
-    "placesVisited": "Libreville, Mitshogo village, Lambarene, Schweitzer Hospital, Oguemoue Lake",
-    "generalInfo": "Gabon has been described as a paradise for wildlife enthusiasts, with a huge proportion of its land designated as national parks and home to some of the continent’s most impressive wildlife. This short Gabon tour takes you to the heart of its rainforests, a land of primeval jungles, wetlands and savannah, made famous by the explorer Mike Fay in his epic trek through Central Africa. Starting in Libreville, we trek in the forests of the Raponda Walker Arboretum and spend some time exploring the city, before travelling to the old colonial town of Lambarene where we delve into the secrets of Bwiti, a bizarre and fascinating belief system found nowhere else, and are privileged to witness a unique local ceremony and gain insights into this almost mystical religion. We take a thrilling boat journey on the Ogooue? River, penetrating further into the rainforest, and at Lake Oguemoue, we stay in a tented camp as part of a community based tourism project and explore the surrounding forest and waterways in search of Gabon’s rich wildlife. We also have opportunities to meet local villagers going about their daily lives here. This short trip offers the chance to see Africa at its wildest, where nature rules supreme and the jungle is king. Gabon has often been called ‘Africa’s last Eden’ – come and find out why.",
+    "tourName": "Gabon turu",
+    "placesVisited": "Libreville, Mitshogo köyü, Lambarene, Schweitzer Hastanesi, Oguemoue Gölü",
+    "generalInfo": "Gabon, doğa severler için bir cennet olarak tanımlanmıştır; topraklarının büyük bir kısmı milli parklara ayrılmış ve kıtanın en etkileyici vahşi yaşamına ev sahipliği yapmaktadır. Bu kısa Gabon turu, sizi yağmur ormanlarının kalbine, ilkel junglar, sulak alanlar ve savanlarla ünlü bir bölgeye götürür; bu bölgeyi, Central Africa'daki destansı yürüyüşüyle ünlü kaşif Mike Fay ile tanımaktadır. Libreville’de başlayarak, Raponda Walker Arboretum ormanlarında yürüyüş yapıyoruz ve şehri keşfetmek için biraz zaman harcıyoruz, ardından Bwiti'nin sırlarına derinlemesine dalacağımız, başka hiçbir yerde bulunmayan tuhaf ve etkileyici bir inanç sistemiyle tanınan eski sömürge kasabası Lambarene'ye seyahat ediyoruz. Yerel bir törene tanıklık etmek ve bu neredeyse mistik dine dair içgörüler kazanmak için ayrıcalığa sahibiz. Ogooué Nehri'nde heyecan verici bir bot yolculuğuna çıkarak, yağmur ormanlarına daha da derinleşiyoruz ve Oguemoue Gölü'nde, Gabon'un zengin vahşi yaşamını ararken topluluk temelli bir turizm projesinin parçası olarak çadır kampında kalıyoruz. Burada yerel köylülerle tanışma fırsatımız da olacak. Bu kısa gezi, Afrika'nın en vahşi haliyle tanışma fırsatını sunuyor; burada doğa hüküm sürmektedir ve orman kraldır. Gabon sık sık 'Afrika'nın son Eden'i' olarak anılır - nedenini keşfetmek için gelin.",
     "durationDays": "10",
     "price": "4499",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -24,54 +24,93 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Libreville - Arrive in Libreville and transfer to your hotel. Overnight Tropicana Hotel or similar."
+        "description": "Libreville - Libreville'e varış ve otele transfer. Geceleme Tropicana Hotel veya benzeri."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Libreville - We start the day with a visit to the Raponda Walker Arboretum, an area of protected forest that covers around 6,747 hectares and is home to various equatorial rainforest trees and plants. We trek in the forest, learning about the properties of medicinal plants that we come across, and reach the coast where we have a picnic on the beach. Head back to Libreville in the afternoon to explore some of the city. Overnight Tropicana Hotel or similar. (BL)"
+        "description": "Libreville - Güne Raponda Walker Arboretum ziyareti ile başlıyoruz. Yaklaşık 6,747 hektarlık koruma altındaki bu orman alanı, çeşitli ekvator yağmur ormanı ağaçları ve bitkileri barındırmaktadır. Ormanda yürüyüş yaparak, karşılaştığımız tıbbi bitkilerin özelliklerini öğreniyoruz ve sahile ulaşarak plajda piknik yapıyoruz. Öğleden sonra Libreville'e geri dönerek şehrin bazı kısımlarını keşfediyoruz. Geceleme Tropicana Hotel veya benzeri. (BL)"
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "Lambarene - In the morning we continue exploring Libreville with a visit to the St Michel Church and other sites. The church showcases an interesting mix of traditional Gabonese and Christian art styles. In the afternoon we head to Lambarene, on an island in the Ogooué River. Lambarene is known for its lakes, with several endemic bird and fish species, as well as the Schweitzer Hospital, established in the early 20th century and a centre for research into malaria. We spend the night in the hospital guest rooms for a sense of the history of this town. (BD)"
+        "description": "Lambarene - Sabah Libreville'i, St Michel Kilisesi ve diğer yerleri ziyaret ederek keşfetmeye devam ediyoruz. Kilise, ilginç bir Gabon tarzı ve Hristiyan sanat stillerinin karışımını sergiliyor. Öğleden sonra Ogooué Nehri üzerindeki bir adada yer alan Lambarene'ye hareket ediyoruz. Lambarene, gölleriyle tanınır; burada birkaç endemik kuş ve balık türü bulunmanın yanı sıra, 20. yüzyılın başlarında kurulan ve sıtma araştırmaları için bir merkez olan Schweitzer Hastanesi bulunmaktadır. Bu kasabanın tarihini hissetmek için hastanenin misafir odalarında geceleme yapıyoruz. (BD)"
       },
       {
         "dayNumber": 4,
         "title": "",
-        "description": "Lambarene - In the morning we explore the hospital and the house of Albert Schweitzer which now houses a museum. We have the afternoon to relax and enjoy the beautiful surroundings here, before driving to the outskirts of Lambarene in the evening to witness a very special – and unique to Gabon – ceremony, that of the Bwiti belief system. This is a ‘secret’ society based on indigenous beliefs, where initiates seek to communicate with spirit world, and a highlight of the trip. Overnight Albert Schweitzer Hospital or similar. (BLD)"
+        "description": "Lambarene - Sabah hastaneyi ve şu anda bir müze olan Albert Schweitzer'in evini keşfediyoruz. Güzel çevrede dinlenmek ve keyif almak için öğleden arka günümüz var. Akşam Lambarene'nin kenar mahallelerine giderek Gabon’a özgü çok özel bir tören olan Bwiti inanç sisteminin tanıklığını yapıyoruz. Bu, yerel inançlara dayanan ‘gizli’ bir topluluktur. Yola çıkışından itibaren tripin zirve noktalarından biri. Geceleme Albert Schweitzer Hastanesi veya benzeri. (BLD)"
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "Lambarene - Free morning to relax or take a walk after a late night. In the afternoon we explore Lambarene town, visiting the Isaac market and Ogooué river. Overnight Albert Schweitzer Hospital or similar. (BLD)"
+        "description": "Lambarene - Geç bir gece sonrasında dinlenmek ya da yürüyüş yapmak için serbest sabah. Öğleden sonra Lambarene kasabasını gezip, Isaac pazarını ve Ogooué nehrini ziyaret ediyoruz. Geceleme Albert Schweitzer Hastanesi veya benzeri. (BLD)"
       },
       {
         "dayNumber": 6,
         "title": "",
-        "description": "Oguemoue Lake - This morning we travel by boat along the Ogooué River, a stunning journey which gives a sense of how the first European explorers of this region must have felt. We then reach our base for the next few days, Oguemoue Lake, and set out to try and catch our first glimpse of the local wildlife. Overnight tented camp. (BLD)"
+        "description": "Oguemoue Gölü - Bu sabah Ogooué Nehri boyunca bot ile seyahat ediyoruz; bu muhteşem yolculuk, ilk Avrupalı kaşiflerin bu bölgede nasıl hissetmiş olabileceğine dair bir his veriyor. Ardından, önümüzdeki birkaç gün boyunca kalacağımız Oguemoue Gölü'ne ulaşıyoruz ve yerel yaban hayatını ilk kez yakından görmeyi umarak yola çıkıyoruz. Geceleme çadır kampında. (BLD)"
       },
       {
         "dayNumber": 9,
         "title": "",
-        "description": "Lambarene - Libreville - After breakfast we make our way back to Lambarene and continue to Libreville in the afternoon. Overnight Hotel Tropicana or similar. (BL)"
+        "description": "Lambarene - Libreville - Kahvaltıdan sonra Lambarene'ye geri dönüyoruz ve öğleden sonra Libreville'e devam ediyoruz. Geceleme Hotel Tropicana veya benzeri. (BL)"
       },
       {
         "dayNumber": 10,
         "title": "",
-        "description": "Libreville - We spend the day exploring Libreville with visits to some interesting workshops including those of wood sculptors and painters. We also visit the Museum of Arts and Traditions and there will be the opportunity to purchase traditional musical instruments as well as items used in traditional Bwiti ceremonies. Transfer to the airport in the evening for your flight home. (B)"
+        "description": "Libreville - Günü Libreville'i keşfederek geçireceğiz; ahşap heykeltraşlar ve ressamlara ait bazı ilginç atölyeleri ziyaret ediyoruz. Ayrıca Sanat ve Gelenekler Müzesi'ni ziyaret edeceğiz ve geleneksel müzik aletlerinin yanı sıra, geleneksel Bwiti törenlerinde kullanılan eşyaları satın alma fırsatımız olacak. Akşam üzeri havaalanına transfer edilerek ev uçuşunuza hazırlanıyoruz. (B)"
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon"
+      },
+      {
+        "name": "Lambarene",
+        "country": "Gabon"
+      },
+      {
+        "name": "Oguemoue Lake",
+        "country": "Gabon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon",
+        "lat": 0.400015,
+        "lng": 9.456696
+      },
+      {
+        "name": "Lambarene",
+        "country": "Gabon",
+        "lat": -0.695844,
+        "lng": 10.221596
+      }
+    ],
+    "__trTranslated": true
   },
   {
     "destination": "Gabon",
     "mainPhoto": "",
     "id": "gabon-wildlife-holiday-mandrills-and-gorillas",
-    "tourName": "Gabon wildlife holiday, mandrills and gorillas",
+    "tourName": "Gabon yaban hayatı tatili, mandriller ve goriller",
     "placesVisited": "",
-    "generalInfo": "Travel to the country of Gabon in Central Africa and track down some of the world's most enigmatic primates including the colourful mandrill and the huge and endearing lowland gorilla (among other awesome species).<br/><br/>Introduction:<br/>Gabon is a natural paradise. The ‘jewel in the crown’ of Gabon’s natural parks is Loango National Park, where there’s almost no humans living around the park and where wild animals live protected by the rivers surrounding this natural part of Central Africa. <br/><br/>Any traveller here can easily spot big mammals such as the forest elephant, red forest buffalo, red river hogs (with their furry ears), sitatunga, various duiker species, a variety of monkey species, a huge array of birds, western lowland gorillas and chimpanzees (rarely seen). <br/><br/>This itinerary also visits Lope National Park with the most beautiful landscape of Gabon and the largest population of accessible mandrills in the world. <br/><br/>Gabon is also the home of one of the world's most iconic and famous species of primate; the Mandrill. Immortalized by Rafiki in The Lion King, the world's largest species of monkey is found here and can be seen easier than anywhere else in the world. <br/><br/>But it is not just mandrills that are the attraction for this tour. As mentioned above we will spend time with lowland gorillas and also have a fantastic chance to see forest elephants, red river hogs and other species known from the Central African tropical rainforest.<br/><br/>There is so much life in the forests of Gabon it is hard to say what else we may or may not see. <br/><br/>All in all we believe that this tour is one that any wildlife enthusiast and particularly anyone interested in primates will love. We are exploring a seldom visited country with expert local guides on the trail of some of Africa's most incredible wildlife.<br/><br/>Price Includes:<br/><br/>Everything mentioned in the itinerary is included. Including three meals per day (breakfast, lunch and dinner) where mentioned, in some locations lunch and dinner are not included (please refer to the itinerary), such as in Libreville. There will be bottled water (approx 1ltr) available for each guest each day. We have our own private air conditioned 4x4 vehicles with an excellent driver for all transfers. Where possible we use two brilliant guides; first a professional zoologist (when available - zoologists are not always available, if you wish to have a zoologist escort your trip, please inquire with us) who will escort you on all your excursions and we also have very knowledgeable English speaking local naturalist guides who have decades of experience working and guiding through Gabon. Your naturalist escort will be able to help you identify the different species as well as interpret you what behaviours you are seeing. The local guides have spent years searching out the best wildlife watching locations and have an unrivalled knowledge where we are going to visit. Where needed we further employ local guides at specific locations where their intimate knowledge of individual reserves and parks is invaluable in finding our targeted species. We also include all vehicle safaris, cruises, guided walks, park entrance fees and spotlighting fees where mentioned on the itinerary. We include more time spent in the field searching for wildlife per day than any other tour operator around (including spotlighting every night we are allowed and there is the possibility of nocturnal wildlife); only if you request to have a rest day will we not arrange a safari into the Gabonese forests. A comprehensive species list (which states the relative chances of seeing animals based on past tours) is included in the pre-departure pack. There is also a reference book library available for your use throughout the trip as well as some documentaries on the wildlife that you are likely to see which are available to watch throughout the tour (subject to availability of a zoologist guide).<br/><br/>Seasons:<br/><br/>This tour is focused around the Mandrills and this species aggregates in the June / July each year to bred. During this period various troops of mandrills come together and form huge groups (sometimes 200-250 strong). So we only really recommend this tour for June or July.<br/><br/>Why Choose this Tour:<br/><br/>• All of our wildlife watching holidays are guided by an experienced naturalist as well as local drivers and also scientists or researchers where possible, this not only gives you numerous sets of trained eyes to find the animals but also gives you the chance to understand the behaviours and habits of the wildlife you’re watching.<br/>•\tOur zoologist (where available - if you wish to have a zoologist please contact us and we can check availability - not all tours include a zoologist) that escorts tours (where available) has a great wealth of knowledge.<br/>• We can also offer further wildlife watching activities if they present themselves whilst on the trip. For example our local guides keep their ears to the ground and have many contacts and if and when a new location of animal is known and reliably seen we can head there to experience it.<br/>• We will stay in a variety of accommodation when on this tour, from well established wildlife eco lodges to guest houses and chalets deep inside privately run forest reserves. <br/>• We will split our focus and activity depending on where we are and what we are looking for. So we are flexible in our ability to move from diurnal to nocturnal rhythms. <br/>• All the above reasons give this, our specialist tour for Gabon’s wildlife including mandrills and other mammal species a great success rate of seeing the best wildlife around here. We have an unrivalled network of experts and guides throughout Gabon and the rest of Central Africa so that we can try and find and observe animals such as the Lowland gorilla, Sun-tailed guenon, Forest elephant, Forest buffalo and Red-river hogs and many more species. We also have the ability to organise and run wildlife tours of Gabon at other times of year and focusing on other species such as Giant pangolins and the famous 'surfing' Hippos and many other rare mammals of Gabon. Please inform us if you wish to receive more information about any of these locations and booking a safari.<br/>• Unlike many tour operators we are willing to run this tour for a single person (on request).<br/><br/>Locations:<br/><br/>This tour is mostly focused around two national parks, Lope and Loango National Parks. However we also have the options to visit other wildlife watching locations such as Mikongo.<br/><br/>Fitness levels required:<br/><br/>Whilst most of the wildlife watching activities in this itinerary will be on foot (particularly when looking for mandrills, gorillas and other primates in the forest); the terrain is largely flat, however we are not in control of where wildlife is and so some trips can include undulating / steep sections. Also sometimes the gorillas in Loango National Park enter swamps which need to be tranversed. The heat and humidity is probably the only cause of concern, however in the forest you will be out of the sun and there is no rush when walking. So we take our time and bring plenty of water, so we only require people who are used to walking for more than 4-5 hours, no special physical fitness is needed for this tour other than the ability to walk in rough, tropical forest conditions.<br/><br/>Equipment list:<br/><br/>When you book onto the tour we will send you a comprehensive pre-departure pack which will include a full packing list of recommended equipment; but as a rule of thumb we recommend you bring along your own binoculars or spotting scope (although this is not always very useful in the forests) as well as appropriate clothing; which should be hard wearing clothing which you do not mind getting muddy. Long trousers and long sleeved shirts are a good idea as the vegetation in the forests can be spiny and there are some stinging nettles. Travelling shorts and short sleeves are also recommended. It is a rainforest so waterproofs, including ponchos, are a very good idea. Comfortable and broken in waterproof walking boots with ankle supports are a must. Insect repellent is needed. Any medication, books or other items of a personal nature is of course up to you to bring along. Oh and please bring plenty of memory cards or film for your camera. Also do not forget sun cream, sun hat and sun glasses as the sun can be very strong here during the day.<br/><br/>Minimum age: 18 years old",
+    "generalInfo": "Orta Afrika'daki Gabon ülkesine seyahat edin ve dünyanın en gizemli primatlarından bazılarını takip edin; renkli mandriller ve büyük, sevimli alçakland goril (diğer harika türler arasında).<br/><br/>Giriş:<br/>Gabon, doğal bir cennettir. Gabon’un doğal parklarının ‘tahtına değer taş’ı Loango Ulusal Parkı’dır; burada parkın çevresinde neredeyse hiç insan yaşamamaktadır ve vahşi hayvanlar, bu doğal bölümün çevresindeki nehirler tarafından korunan alanlarda yaşamaktadır.<br/><br/>Buradaki her bir gezgin, kolayca büyük memelileri, orman fili, kırmızı orman bufalosu, tüylü kulaklı kırmızı nehir domuzu, sitatunga, çeşitli duiker türlerini, birçok maymun türünü, geniş bir kuş çeşitliliğini, batı alçakland gorillerini ve chimpanzeleri (nadiren görülen) görebilir.<br/><br/>Bu güzergah aynı zamanda dünya üzerindeki en büyük erişilebilir mandrill nüfusuna sahip ve Gabon'un en güzel manzaralarına sahip olan Lope Ulusal Parkı’nı da ziyaret ediyor.<br/><br/>Gabon, dünyanın en ikonik ve ünlü primat türlerinden birine, yani Mandrill’e de ev sahipliği yapmaktadır. The Lion King’de Rafiki tarafından ölümsüzleştirilen, dünyanın en büyük maymun türü burada bulunmakta ve başka hiçbir yerde olmadığı kadar kolayca görülebilmektedir.<br/><br/>Ancak bu tur için cazibe kaynağı yalnızca mandriller değildir. Daha önce de bahsettiğimiz gibi, alçakland gorilleri ile vakit geçirecek ve ayrıca orman filleri, kırmızı nehir domuzları ve Orta Afrika tropikal yağmur ormanlarından tanınan diğer türleri görme şansımız olacak.<br/><br/>Gabon ormanlarında o kadar çok yaşam var ki, neyi göreceğimizi veya göremeyeceğimizi söylemek zor.<br/><br/>Sonuç olarak, bu turun her yaban hayatı meraklısı ve özellikle primatlarla ilgilenen herkesin seveceğine inanıyoruz. Afrika'nın en inanılmaz yaban hayatlarının peşinde, uzman yerel rehberlerle nadiren ziyaret edilen bir ülkeyi keşfediyoruz.<br/><br/>Fiyata Dahil Olanlar:<br/><br/>Güzergahda belirtilen her şey dahil. Belirtilen yerlerde günlük üç yemek (kahvaltı, öğle yemeği ve akşam yemeği) dahil, bazı yerlerde öğle ve akşam yemekleri dahil değildir (lütfen güzergahı kontrol edin), örneğin Libreville'de. Her gün her misafir için (yaklaşık 1 litre) şişelenmiş su sağlanacaktır. Tüm transferler için mükemmel bir sürücü ile özel klima ile donatılmış 4x4 araçlarımız var. Mümkün olduğunda, ilk olarak doğa bilimcisi olan iki harika rehber kullanıyoruz; ilk olarak, tüm gezintilerinizde sizi eşlik edecek profesyonel bir zoolog (mevcut olduğunda - zoologlar her zaman mevcut değil, eğer seyahatinizde bir zoolog bulunmasını istiyorsanız, lütfen bizimle iletişime geçin) ve çok bilgili İngilizce konuşan yerel doğa rehberlerimiz var; Gabon'da çalışmak ve rehberlik yapmak konusunda birçok deneyime sahip. Doğa rehberiniz, farklı türleri tanımlamak ve gördüğünüz davranışları yorumlamanızı sağlamak konusunda yardımcı olacaktır. Yerel rehberler, en iyi yaban hayatı izleme yerlerini bulmak için yıllarını harcayarak, gideceğimiz yerler konusunda eşsiz bir bilgiye sahipler. Gerekirse, bireysel koruma alanları ve parkların özel yerlerinde yerel rehberleri daha fazla istihdam ediyoruz; onların içten bilgi birikimi, hedef aldığımız türleri bulmak için çok değerlidir. Ayrıca, güzergahda belirtilen tüm araç safari, tekne gezisi, rehberli yürüyüş, park girişi ücretleri ve spot ışığı ücretleri de dahildir. Günlük yaban hayatı arayışında, diğer tur operatörlerine göre daha fazla zaman harcıyoruz (her gece, izin verildiğinde ve gece hayvanları görme şansı varsa spot ışığı kullanarak); yalnızca bir dinlenme günü istemeniz durumunda Gabon ormanlarına safari düzenlemeyeceğiz. Ayrılmadan önce, hayvanları görme olasılıklarını içeren kapsamlı bir tür listesi başlangıç paketinde yer almaktadır. Ayrıca, seyahatiniz boyunca yararlanabileceğiniz bir referans kitabı kütüphanesi ve görebileceğiniz yaban hayatlarına dair bazı belgeler de mevcuttur (zoolog rehberinin mevcut olmasına bağlı).<br/><br/>Sezonlar:<br/><br/>Bu tur, mandriller etrafında yoğunlaşmıştır ve bu tür her yıl Haziran / Temmuz ayında üreme amacıyla bir araya gelir. Bu dönemde çeşitli mandriller grupları bir araya gelerek büyük gruplar (bazen 200-250 kadar) oluşturur. Bu nedenle gerçekten bu turu yalnızca Haziran veya Temmuz için öneriyoruz.<br/><br/>Neden Bu Turu Seçmelisiniz:<br/><br/>• Tüm yaban hayatı izleme tatillerimiz, mümkün olduğunda deneyimli bir doğa bilimci ve yerel sürücüler ve bilim insanları veya araştırmacılar tarafından rehberlik edilmektedir; bu, hayvanları bulmak için birçok eğitimli göz seti sağlamaz, aynı zamanda izlediğiniz hayvanların davranışlarını ve alışkanlıklarını anlamanızı sağlar.<br/>•  Turlara eşlik eden zoologumuz (mevcut olduğunda - eğer bir zoolog istemek isterseniz lütfen bizimle iletişime geçin ve mevcutluğu kontrol edelim - tüm turlar bir zoologu kapsamaz) zengin bir bilgiye sahiptir.<br/>• Ayrıca yolculuk sırasında başka yaban hayatı izleme aktiviteleri sunabiliriz. Örneğin, yerel rehberlerimiz zemini dinleyerek birçok bağlantıya sahiptir; yeni bir hayvan lokasyonu keşfedildiğinde ve güvenilir şekilde görüldüğünde oraya gitme imkanımız olacaktır.<br/>• Bu turda, iyi yapılandırılmış yaban hayatı ekolojik konaklama yerlerinden, özel olarak işletilen orman rezervlerinin derinliklerindeki misafir evlerine ve dağ evlerine çeşitli konaklama seçenekleri sunacağız.<br/>• Nerede olduğumuza ve ne aradığımıza bağlı olarak odak noktalarımızı ve aktivitelerimizi paylaşacağız. Yani gündüz ve gece ritimlerine geçme yeteneğimiz açısından esnekiz.<br/>• Yukarıdaki tüm nedenler, Gabon'un yaban hayatı, mandriller ve diğer memeli türleri için uzmanlaşmış turumuzun en iyi yaban hayatı görme başarı oranına sahip olmasını sağlar. Gabon ve Orta Afrika'nın diğer bölgelerinde eşsiz bir uzman ve rehber ağına sahibiz. Böylece Alçakland goril, Güneş kuyruklu guenon, Orman fili, Orman bufalosu ve Kırmızı nehir domuzu gibi hayvanları bulup gözlemleme imkanımız var. Ayrıca, Gabon'un diğer zaman dilimlerinde ve diğer türler üzerinde şişman pangolinler ve ünlü 'sörf yapan' Hipopotamlar gibi yaban hayatı turları düzenleyip gerçekleştirme kabiliyetimiz var. Bu yerler hakkında daha fazla bilgi almak veya bir safari rezervasyonu yapmak isterseniz, lütfen bizlerle iletişime geçin.<br/>• Birçok tur operatörünün aksine bu turu tek bir kişi için (isteğe bağlı olarak) düzenlemeye istekliyiz.<br/><br/>Yerler:<br/><br/>Bu tur esas olarak Lope ve Loango Ulusal Parklarına odaklanmıştır. Ancak Mikongo gibi diğer yaban hayatı izleme yerlerini ziyaret etme seçeneklerimiz de bulunmaktadır.<br/><br/>Gerekli fitness seviyesi:<br/><br/>Bu güzergahda çoğu yaban hayatı izleme aktivitesi yürüyerek gerçekleştirilecektir (özellikle mandriller, goriller ve diğer primatları ormanda ararken); arazi büyük ölçüde düzdür, ancak yaban hayvanlarının nerede olduğunu kontrol edemediğimiz için bazı turlar inişli çıkışlı / dik bölümler içerebilir. Ayrıca bazen Loango Ulusal Parkı'ndaki goriller bataklıklara girebilir ve bu bataklıkları geçmek gerekebilir. Isı ve nem, muhtemel tek sorun olsa da, ormanda güneşten uzak olacaksınız ve yürüyüşte acele yoktur. Bu nedenle, yavaş gideriz ve bol su getiririz. Yalnızca 4-5 saatten fazla yürüyüş yapmaya alışkın olan kişiler için geçerlidir; bu tur için özel bir fiziksel yeterlilik gerekmez, yalnızca zorlu tropikal orman koşullarında yürüyüş yeteneği gerekmektedir.<br/><br/>Ekipman listesi:<br/><br/>Tura kaydolduğunuzda, size kapsamlı bir kalkış öncesi paket göndereceğiz; bu, önerilen ekipmanın tam bir paket listesini içerecektir. Ancak genel bir kural olarak, yanınızda kendi dürbününüzü veya izleme teleskopunuzu (bu ormanlarda her zaman çok faydalı olmayabilir) ve uygun giysiler getirmenizi öneriyoruz; bu, bataklık olmaktan rahatsız olmayacağınız sağlam kıyafetler olmalıdır. Uzun pantolonlar ve uzun kollu gömlekler iyi bir fikirdir; çünkü ormandaki bitki örtüsü dikenli olabilir ve bazı batı sapları da vardır. Seyahat şortları ve kısa kollu tişörtler de önerilmektedir. Burası bir yağmur ormanı olduğu için su geçirmeyen giysiler, ponçolar dahil, çok iyi bir fikirdir. Rahat ve kullanıma uygun, bilek destekli suya dayanıklı yürüyüş botları gerekmektedir. Sinek kovucu kullanılmalıdır. Herhangi bir ilaç, kitap veya diğer kişisel nitelikteki eşyaları getirmeniz elbette ki size bağlıdır. Ah, ve kameranız için bol miktarda bellek kartı veya film getirmenizi unutmayın. Ayrıca, gün boyunca güneş burada çok güçlü olabileceğinden, güneş kremi, güneş şapkası ve güneş gözlüğü getirmeyi unutmayın.<br/><br/>Minimum yaş: 18 yaş",
     "durationDays": "10",
     "price": "8150",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -90,54 +129,147 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Libreville - Arrival in Libreville where your local guide will be meet you and transfer you to the hotel for the night. Overnight - Hotel Tropicana or Onomo (Breakfast only)"
+        "description": "Libreville - Libreville'e varışta yerel rehberiniz sizi karşılayacak ve gece konaklamanız için otele transfer edecektir. Geceleme - Hotel Tropicana veya Onomo (sadece kahvaltı)"
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Liberville to Lope National Park This morning will be free for you to relax around the hotel or to walk and bath in the beach and then depart in the afternoon to the train station at 04:00pm. The departure is at 06:50pm and we will reach to Lope around 01:00am. On arrival we will transfer to the hotel for rest of the night. Transfer to Lope hotel. (breakfast only)"
+        "description": "Libreville'den Lope Ulusal Parkı'na Bu sabah otel etrafında dinlenmek veya plajda yürümek ve yüzmek için serbest olacak, ardından 04:00'te tren istasyonuna hareket edeceğiz. Hareket saati 06:50'dir ve Lope'ye yaklaşık 01:00'de ulaşacağız. Varışta, gece için dinlenme amacıyla otele transfer olacağız. Lope oteline transfer."
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "Lope National Park - Today is your final day in the park and you will further explore the forest looking for wildlife. Later today you will have a night transfer to the train station for the Ndjole train. This train is overnight and arrives in Ndjole at 4am tomorrow. (breakfast only included)."
+        "description": "Lope Ulusal Parkı - Bugün parkta geçirdiğiniz son gün; yaban hayatı arayışınızı daha da derinleştireceksiniz. Bugün akşam, Ndjole treni için tren istasyonuna gece transferiniz olacak. Bu tren, gece boyunca yol alacak ve yarın sabah 04:00'te Ndjole'ye varacaktır. (sadece kahvaltı dahil)."
       },
       {
         "dayNumber": 6,
         "title": "",
-        "description": "Ndjole - Lambarene This morning your train will arrive into Ndjole at 04:00am and you will be taken to a hotel (Hotel Papaye or similar) to rest until 08:00am and after breakfast we continue the trip. Our objective is the colonial town of Lambarené, a river island town famous for its many natural lakes with several endemic bird and fish species and the Albert Schweitzer Hospital and Museum. This unique hospital was established in 1913 by German Doctor Albert Schweitzer. Its Medical Research Unit is one of the leading scientific institutions in Africa working to end the scourge of malaria, and also serves as a highly-regarded training site for African physicians and scientists. We will visit the hospital, the house (now museum) of Albert Schweitzer and its beautiful natural surroundings. This afternoon we will leave the hospital to travel to a nearby mangrove forest along the banks of the rivers / lagoons which dot this part of Gabon. Our goal is to see the amazing and range restricted northern talapoin monkey and other species can be seen as well, including red-capped mangabey and possibly brief views of the endangered West African manatee. We will return to the hospital for dinner. Overnight - Albert Schweitzer Hospital Guestrooms (Breakfast, lunch and dinner)"
+        "description": "Ndjole - Lambarene Bu sabah treniniz 04:00'te Ndjole'ye varacak ve sizi bir otele (Hotel Papaye veya benzeri) dinlenmeniz için 08:00'e kadar götürecektir. Kahvaltıdan sonra yolculuğumuza devam edeceğiz. Amacımız, birçok doğal gölü ve birkaç yerel kuş ve balık türü ile ünlü Lambarene adlı kolonyal kasabadır. Bu benzersiz hastane, 1913 yılında Alman doktor Albert Schweitzer tarafından kurulmuştur. Tıbbi Araştırma Birimi, Afrika'da sıtmayı yok etmeye yönelik önemli bilimsel kuruluşlardan biridir ve aynı zamanda Afrika hekimleri ve bilim insanları için oldukça saygın bir eğitim alanı olarak hizmet vermektedir. Hastaneyi, Albert Schweitzer'ın evi (şu anda müze) ve güzel doğal çevresini ziyaret edeceğiz. Bu öğleden sonra hastaneden ayrılarak, Gabon'un bu kısmını süsleyen nehirler/lagoonların kıyısındaki yakın bir mangrov ormanına seyahat edeceğiz. Hedefimiz, kuzey talapoin maymunu ve ayrıca, kırmızı tepeli mangabey ve muhtemelen nesli tükenme tehlikesi altında olan Batı Afrika manatusunu görmek olacaktır. Akşam yemeği için hastaneye döneceğiz. Geceleme - Albert Schweitzer Hastanesi Misafir Odaları (Kahvaltı, öğle yemeği ve akşam yemeği)"
       },
       {
         "dayNumber": 7,
         "title": "",
-        "description": "Lambarene - Ogooue River – Omboue – Loango National Park - After breakfast you will depart along the river on a speed boat trip to Omboué town along the Ogooué River. The trip lasts around 5hr and it is just amazing. The traveler gets a real feeling of how the first explorers felt navigating along the Africa tropical rivers. We will reach to Omboue and drive (2h) to the Iguela Lagoon, in the Loango National Park. Accomodation in Loango Lodge. (Breakfast, lunch and dinner)"
+        "description": "Lambarene - Ogooue Nehri – Omboue – Loango Ulusal Parkı - Kahvaltıdan sonra, Ogooue Nehri boyunca Omboué kasabasına hızlı bir tekne gezisine çıkacaksınız. Seyahat süresi yaklaşık 5 saat ve harika bir deneyim. Gezgin, Afrika tropikal nehirlerinde dolanan ilk kaşiflerin hissettiği gerçek duyguyu deneyimleyecek. Omboué'ye ulaştıktan sonra, Loango Ulusal Parkı'ndaki Iguela Lagünü'ne (2 saat) gideceğiz. Loango Lodge'da konaklama. (Kahvaltı, öğle yemeği ve akşam yemeği)"
       },
       {
         "dayNumber": 8,
         "title": "",
-        "description": "Loango National Park - After breakfast, you will enter the park looking for wildlife on foot, vehicle and boat. The eco-system at Loango is one of the richest and most complex in Central Africa: here, we find mangroves, beaches, river forest, Congolese forest and inland forest with huge trees, and even tropical meadows. A true mosaic of landscapes with breathtaking vegetation and wildlife. The traveler can easily spot big mammals such as the forest elephant, red forest buffalo, red river hogs with furry ears, hippos, etc. Inside the park’s lagoons it is possible to observe the slender snouted crocodiles, sitatunga, duikers, a variety of monkeys, a huge array of birds, western lowland gorillas and chimpanzees. Today we will visit the recently opened habituated lowland gorillas here and continue to the Akaka river for wildlife. Accommodation in Akaka Camp (breakfast, lunch and dinner)"
+        "description": "Loango Milli Parkı - Kahvaltıdan sonra, yürüyerek, araçla ve botla yaban hayatı aramak için parka gireceksiniz. Loango'daki ekosistem, Orta Afrika'nın en zengin ve en karmaşık olanlarından biridir: burada mangrovlar, plajlar, nehir ormanı, Kongolu ormanı ve dev ağaçlarla dolu iç orman ile tropikal çayırlar buluyoruz. Müthiş bitki örtüsü ve yaban hayatıyla gerçek bir manzara mozaiği. Seyahatçiler, orman fili, kırmızı orman bufalosu, tüylü kulaklı kırmızı nehir domuzu, su aygırı gibi büyük memelileri kolaylıkla görebilir. Parkın lagünlerinde ince burunlu timsahlar, sitatunga, duikerler, çeşitli maymunlar, muazzam bir kuş çeşidi, batı alçak orman gorilleri ve şempanzeleri gözlemlemek mümkündür. Bugün burada yeni açılan alıştırılmış alçak orman gorillerini ziyaret edeceğiz ve yaban hayatı aramak için Akaka Nehri'ne devam edeceğiz. Konaklama Akaka Kampında (kahvaltı, öğle yemeği ve akşam yemeği)."
       },
       {
         "dayNumber": 9,
         "title": "",
-        "description": "Loango National Park - After breakfast you will once again enter the park, but this time you will explore the Akaka River and the Iguela lagoon looking for wildlife. Accommodation in Loango Lodge. (Breakfast, Lunch and Dinner)."
+        "description": "Loango Milli Parkı - Kahvaltıdan sonra bir kez daha parka gireceksiniz, fakat bu sefer yaban hayatı aramak için Akaka Nehri ve Iguela lagününü keşfedeceksiniz. Konaklama Loango Lodge'da. (Kahvaltı, Öğle Yemeği ve Akşam Yemeği)."
       },
       {
         "dayNumber": 10,
         "title": "",
-        "description": "Loango National Park - Port Gentil - Liberville This morning after breakfast we will depart from Loango and travel towards Port Gentil (5-6h), Gabon’s economic capital. On arrival we will catch a flight back to Libreville in the evening. We recommend you arrange your flight home from Libreville for around 8-9pm tonight. However we can accommodate another night in Libreville for flights departing tomorrow if you wish. (Breakfast & lunch)"
+        "description": "Loango Milli Parkı - Port Gentil - Libreville Bu sabah kahvaltıdan sonra Loango'dan ayrılacak ve Gabon'un ekonomik başkenti Port Gentil'e gideceğiz (5-6 saat). Varışta akşam üzeri Libreville'e dönüş uçuşunu yakalayacağız. Bugün akşam 8-9 civarında Libreville'den evinize uçuşunuzu ayarlamanızı öneririz. Ancak isterseniz, yarın kalkacak uçuşlar için Libreville'de bir gece daha konaklayabiliriz. (Kahvaltı ve öğle yemeği)."
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon"
+      },
+      {
+        "name": "Lope National Park",
+        "country": "Gabon"
+      },
+      {
+        "name": "Ndjole",
+        "country": "Gabon"
+      },
+      {
+        "name": "Lambarene",
+        "country": "Gabon"
+      },
+      {
+        "name": "Ogooue River",
+        "country": "Gabon"
+      },
+      {
+        "name": "Omboue",
+        "country": "Gabon"
+      },
+      {
+        "name": "Loango National Park",
+        "country": "Gabon"
+      },
+      {
+        "name": "Port Gentil",
+        "country": "Gabon"
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon",
+        "lat": 0.400015,
+        "lng": 9.456696
+      },
+      {
+        "name": "Ndjole",
+        "country": "Gabon",
+        "lat": -1.28301,
+        "lng": 12.290857
+      },
+      {
+        "name": "Lambarene",
+        "country": "Gabon",
+        "lat": -0.695844,
+        "lng": 10.221596
+      },
+      {
+        "name": "Omboue",
+        "country": "Gabon",
+        "lat": -1.572696,
+        "lng": 9.265303
+      },
+      {
+        "name": "Loango Milli Parkı",
+        "country": "Gabon",
+        "lat": -2.668959,
+        "lng": 10.818955
+      },
+      {
+        "name": "Port Gentil",
+        "country": "Gabon",
+        "lat": -0.704394,
+        "lng": 8.775819
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon",
+        "lat": 0.400015,
+        "lng": 9.456696
+      }
+    ],
+    "__trTranslated": true
   },
   {
     "destination": "Gabon",
     "mainPhoto": "",
     "id": "gabon-wildlife-tour",
-    "tourName": "Gabon wildlife tour",
+    "tourName": "Gabon vahşi yaşam turu",
     "placesVisited": "",
-    "generalInfo": "Travel to the country of Gabon in Central Africa and track down some of the world's most enigmatic primates including the colourful mandrill and the huge and endearing lowland gorilla (among other awesome species).<br/><br/>Introduction:<br/>Gabon is a natural paradise. The ‘jewel in the crown’ of Gabon’s natural parks is Loango National Park, where there’s almost no humans living around the park and where wild animals live protected by the rivers surrounding this natural part of Central Africa. <br/><br/>Any traveller here can easily spot big mammals such as the forest elephant, red forest buffalo, red river hogs (with their furry ears), sitatunga, various duiker species, a variety of monkey species, a huge array of birds, western lowland gorillas and chimpanzees (rarely seen). <br/><br/>This itinerary also visits Lope National Park with the most beautiful landscape of Gabon and the largest population of accessible mandrills in the world. <br/><br/>Gabon is also the home of one of the world's most iconic and famous species of primate; the Mandrill. Immortalized by Rafiki in The Lion King, the world's largest species of monkey is found here and can be seen easier than anywhere else in the world. <br/><br/>But it is not just mandrills that are the attraction for this tour. As mentioned above we will spend time with lowland gorillas and also have a fantastic chance to see forest elephants, red river hogs and other species known from the Central African tropical rainforest.<br/><br/>There is so much life in the forests of Gabon it is hard to say what else we may or may not see. <br/><br/>All in all we believe that this tour is one that any wildlife enthusiast and particularly anyone interested in primates will love. We are exploring a seldom visited country with expert local guides on the trail of some of Africa's most incredible wildlife.<br/><br/>Price Includes:<br/><br/>Everything mentioned in the itinerary is included. Including three meals per day (breakfast, lunch and dinner) where mentioned, in some locations lunch and dinner are not included (please refer to the itinerary), such as in Libreville. There will be bottled water (approx 1ltr) available for each guest each day. We have our own private air conditioned 4x4 vehicles with an excellent driver for all transfers. Where possible we use two brilliant guides; first a professional zoologist (when available - zoologists are not always available, if you wish to have a zoologist escort your trip, please inquire with us) who will escort you on all your excursions and we also have very knowledgeable English speaking local naturalist guides who have decades of experience working and guiding through Gabon. Your naturalist escort will be able to help you identify the different species as well as interpret you what behaviours you are seeing. The local guides have spent years searching out the best wildlife watching locations and have an unrivalled knowledge where we are going to visit. Where needed we further employ local guides at specific locations where their intimate knowledge of individual reserves and parks is invaluable in finding our targeted species. We also include all vehicle safaris, cruises, guided walks, park entrance fees and spotlighting fees where mentioned on the itinerary. We include more time spent in the field searching for wildlife per day than any other tour operator around (including spotlighting every night we are allowed and there is the possibility of nocturnal wildlife); only if you request to have a rest day will we not arrange a safari into the Gabonese forests. A comprehensive species list (which states the relative chances of seeing animals based on past tours) is included in the pre-departure pack. There is also a reference book library available for your use throughout the trip as well as some documentaries on the wildlife that you are likely to see which are available to watch throughout the tour (subject to availability of a zoologist guide).<br/><br/>Seasons:<br/><br/>This tour is focused around the Mandrills and this species aggregates in the June / July each year to bred. During this period various troops of mandrills come together and form huge groups (sometimes 200-250 strong). So we only really recommend this tour for June or July.<br/><br/>Why Choose this Tour:<br/><br/>• All of our wildlife watching holidays are guided by an experienced naturalist as well as local drivers and also scientists or researchers where possible, this not only gives you numerous sets of trained eyes to find the animals but also gives you the chance to understand the behaviours and habits of the wildlife you’re watching.<br/>•\tOur zoologist (where available - if you wish to have a zoologist please contact us and we can check availability - not all tours include a zoologist) that escorts tours (where available) has a great wealth of knowledge.<br/>• We can also offer further wildlife watching activities if they present themselves whilst on the trip. For example our local guides keep their ears to the ground and have many contacts and if and when a new location of animal is known and reliably seen we can head there to experience it.<br/>• We will stay in a variety of accommodation when on this tour, from well established wildlife eco lodges to guest houses and chalets deep inside privately run forest reserves. <br/>• We will split our focus and activity depending on where we are and what we are looking for. So we are flexible in our ability to move from diurnal to nocturnal rhythms. <br/>• All the above reasons give this, our specialist tour for Gabon’s wildlife including mandrills and other mammal species a great success rate of seeing the best wildlife around here. We have an unrivalled network of experts and guides throughout Gabon and the rest of Central Africa so that we can try and find and observe animals such as the Lowland gorilla, Sun-tailed guenon, Forest elephant, Forest buffalo and Red-river hogs and many more species. We also have the ability to organise and run wildlife tours of Gabon at other times of year and focusing on other species such as Giant pangolins and the famous 'surfing' Hippos and many other rare mammals of Gabon. Please inform us if you wish to receive more information about any of these locations and booking a safari.<br/>• Unlike many tour operators we are willing to run this tour for a single person (on request).<br/><br/>Locations:<br/><br/>This tour is mostly focused around two national parks, Lope and Loango National Parks. However we also have the options to visit other wildlife watching locations such as Mikongo.<br/><br/>Fitness levels required:<br/><br/>Whilst most of the wildlife watching activities in this itinerary will be on foot (particularly when looking for mandrills, gorillas and other primates in the forest); the terrain is largely flat, however we are not in control of where wildlife is and so some trips can include undulating / steep sections. Also sometimes the gorillas in Loango National Park enter swamps which need to be tranversed. The heat and humidity is probably the only cause of concern, however in the forest you will be out of the sun and there is no rush when walking. So we take our time and bring plenty of water, so we only require people who are used to walking for more than 4-5 hours, no special physical fitness is needed for this tour other than the ability to walk in rough, tropical forest conditions.<br/><br/>Equipment list:<br/><br/>When you book onto the tour we will send you a comprehensive pre-departure pack which will include a full packing list of recommended equipment; but as a rule of thumb we recommend you bring along your own binoculars or spotting scope (although this is not always very useful in the forests) as well as appropriate clothing; which should be hard wearing clothing which you do not mind getting muddy. Long trousers and long sleeved shirts are a good idea as the vegetation in the forests can be spiny and there are some stinging nettles. Travelling shorts and short sleeves are also recommended. It is a rainforest so waterproofs, including ponchos, are a very good idea. Comfortable and broken in waterproof walking boots with ankle supports are a must. Insect repellent is needed. Any medication, books or other items of a personal nature is of course up to you to bring along. Oh and please bring plenty of memory cards or film for your camera. Also do not forget sun cream, sun hat and sun glasses as the sun can be very strong here during the day.<br/><br/>Minimum age: 18 years old",
+    "generalInfo": "Orta Afrika'daki Gabon ülkesine seyahat edin ve dünyanın en gizemli primatlarından bazılarını, renkli mandrilleri ve dev sevimli alçaklandgorilları (ve diğer harika türleri) takip edin.<br/><br/>Giriş:<br/>Gabon doğal bir cennettir. Gabon'un doğal parklarının 'tahtında yer alan mücevher' Loango Milli Parkı'dır; burada parkın etrafında neredeyse insan yaşamıyor ve vahşi hayvanlar, bu doğal Orta Afrika parçasını çevreleyen nehirler tarafından korunmaktadır. <br/><br/>Buradaki her gezgin, orman fili, kırmızı orman bufalosu, tüyleriyle kaplı kulaklara sahip kırmızı nehir domuzları, sitatunga, çeşitli duiker türleri, çok sayıda maymun türü, geniş bir kuş çeşitliliği, batı alçaklandgorilleri ve (nadiren görülen) şempanzeleri kolayca görebilir.<br/><br/>Bu güzergah ayrıca Gabon'un en güzel manzarasına sahip olan ve dünyanın en büyük erişilebilir mandril nüfusunu barındıran Lope Milli Parkı'nı da ziyaret etmektedir.<br/><br/>Gabon, dünyanın en ikonik ve ünlü primat türlerinden biri olan mandrillerin de evidir. Kral Aslan filmindeki Rafiki ile ölümsüzleşen dünyanın en büyük maymun türü burada bulunur ve dünya genelinde başka hiçbir yerde olmadığı kadar kolay bir şekilde gözlemlenir.<br/><br/>Ancak bu tur için cazibe merkezi sadece mandriller değildir. Yukarıda belirtildiği gibi, alçaklandgorillerle vakit geçireceğiz ve aynı zamanda orman filleri, kırmızı nehir domuzları ve Orta Afrika tropik yağmur ormanlarından bilinen diğer türleri gözlemlemek için de harika bir şansa sahip olacağız.<br/><br/>Gabon ormanlarında öyle çok hayat var ki, başka ne görebileceğimiz veya göremeyeceğimiz konusunda kesin bir şey söylemek zor.<br/><br/>Her şey göz önüne alındığında, bu turun her vahşi yaşam meraklısı, özellikle de primatlara ilgi duyan herkesin seveceği bir tur olduğuna inanıyoruz. Afrika'nın en inanılmaz vahşi yaşamını keşfetmek için uzman yerel rehberler eşliğinde az ziyaret edilen bir ülkeyi araştırıyoruz.<br/><br/>Fiyata Dahil Olanlar:<br/><br/>Güzergahda belirtilen her şey dâhildir. Belirtilen tüm yerlerde günde üç öğün (kahvaltı, öğle yemeği ve akşam yemeği) dahil olup, bazı yerlerde (Libreville gibi) öğle ve akşam yemekleri dâhil değildir (lütfen güzergahı inceleyin). Her misafir için günde yaklaşık 1 litre şişelenmiş su olacaktır. Tüm transferler için mükemmel bir sürücü ile özel klimalı 4x4 araçlarımız bulunmaktadır. Mümkün olduğunda iki harika rehber kullanıyoruz; biri profesyonel bir zoolog (mevcut olduğunda - zoologlar her zaman mevcut değildir, gezinizde bir zoolog eşliğini istemeniz durumunda, lütfen bizimle iletişime geçin) tüm gezilerinizde size eşlik edecek ve ayrıca Gabon'da çalışma ve rehberlik konusunda on yıllık deneyime sahip çok bilgili İngilizce konuşan yerel doğa rehberlerimiz olacaktır. Doğa rehberiniz, farklı türleri tanımlamanıza ve gördüğünüz davranışları yorumlamanıza yardımcı olacaktır. Yerel rehberler, en iyi vahşi yaşam izleme yerlerini bulmak için yıllarını harcadı ve gideceğimiz yerler hakkında eşsiz bir bilgi sahibi. Gerekli yerlerde belirli rezerv ve parklar hakkında derinlemesine bilgileri olan yerel rehberler de istihdam ediyoruz. Ayrıca seyahat süresince, güzergahda belirtilen her türlü araç safarisi, tekne gezisi, rehberli yürüyüş, park giriş ücretleri ve spotlamalar dâhildir. Diğer tur operatörlerine kıyasla, her gün alanlarda daha fazla zaman geçiriyoruz (her gece izin verilen her alanda spotlama yapmak dâhil). Sadece bir dinlenme günü talep etmeniz durumunda Gabon ormanlarına safari düzenlemeyeceğiz. Önceden harekete geçiş paketinde (geçmiş turlara dayalı olarak hayvanları görme şanslarını belirten) detaylı bir tür listesi bulunmaktadır. Ayrıca, seyahat boyunca kullanılmak üzere sizlere sunulan bir referans kitaplık ve muhtemel gördüğünüz vahşi yaşam hakkında bazı belgeler (zoolog rehberinin uygunluğuna bağlı olarak) mevcuttur.<br/><br/>Sezonlar:<br/><br/>Bu tur mandriller etrafında şekilleniyor ve bu tür her yıl Haziran / Temmuz aylarında üremek için bir araya geliyor. Bu dönemde çeşitli mandril grupları bir araya gelir ve büyük gruplar oluştururlar (bazen 200-250 kişilik). Bu nedenle bu turu sadece Haziran veya Temmuz ayları için öneriyoruz.<br/><br/>Neden Bu Turu Seçmelisiniz:<br/><br/>• Tüm vahşi yaşam izleme tatillerimiz, deneyimli bir doğa rehberi, yerel sürücüler ve mümkünse bilim insanları veya araştırmacılar eşliğinde yönlendirilir; bu sadece hayvanları bulmak için birden çok uzman göz seti sağlamakla kalmaz, aynı zamanda gözlemlediğiniz vahşi yaşamın davranış ve alışkanlıklarını anlama fırsatı da verir.<br/>• Turlar boyunca (mevcut olduğunda) bize eşlik eden zoologumuz (zoolog istemeniz durumunda, lütfen bizimle iletişime geçin, mevcutluğu araştırabiliriz - tüm turlar zoolog içermez) büyük bir bilgi birikimine sahiptir.<br/>• Seyahat sırasında yeni bir hayvan yeri keşfedildiğinde ek vahşi yaşam gözlem aktiviteleri de sunabiliriz. Yerel rehberlerimiz, zeminle bağlantıda kalır ve birçok bağlantıya sahiptir; eğer yeni bir hayvan yeri güvenilir bir şekilde görülürse, oraya gidip deneyimleme şansına sahip oluruz.<br/>• Bu tur boyunca bir dizi konaklama seçeneği sunacağız; iyi kurulmuş ekoturizm tesislerinden özel orman rezervlerinin derinliklerindeki misafirhanelere kadar.<br/>• Farklı konumlarda bulunduğumuz ve aradığımız şeylere bağlı olarak, odak ve aktivitemizi böleceğiz. Bu nedenle, gündüz ve gece ritimleri arasında esneklik sağlıyoruz.<br/>• Yukarıdaki tüm nedenler, mandriller ve diğer memeli türlerini içeren Gabon'un vahşi yaşamına yönelik uzman turumuzun yüksek başarı oranı kazanmasını sağlıyor. Gabon ve Orta Afrika'nın geri kalanında bir dizi uzman ve rehber ağına sahibiz, bu sayede Alçaklandgoril, Güneş kuyruklu guenon, Orman fili, Orman bufalosu ve Kırmızı nehir domuzları gibi hayvanları bulma ve gözlemleme şansımız var. Ayrıca, Gabon'da diğer mevsimlerde yürütülebilecek ve dev pangolinler ile ünlü 'sörf yapan' hipopotamlar ve Gabon'un birçok nadir memelisi gibi diğer türlere odaklanmış vahşi yaşam turları düzenleme yeteneğine sahibiz. Bu yerler hakkında daha fazla bilgi edinmek ve bir safari rezervasyonu yapmak isterseniz lütfen bizimle iletişime geçin.<br/>• Birçok tur operatörünün aksine, bu turu tek bir kişi için (talep üzerine) düzenlemeye istekluyuz.<br/><br/>Yerler:<br/><br/>Bu tur çoğunlukla Lope ve Loango Milli Parkları çevresinde yoğunlaşmaktadır. Ancak, Mikongo gibi diğer vahşi yaşam izleme yerlerini ziyaret etme seçeneklerimiz de bulunmaktadır.<br/><br/>Gerekli Fiziksel Yeterlilik Düzeyi:<br/><br/>Bu güzergah içindeki çoğu vahşi yaşam izleme aktivitesi yürüyerek yapılacak (özellikle mandriller, goriller ve diğer primatları ormanda ararken); arazi büyük ölçüde düz olmakla birlikte, vahşi yaşamın nerede olduğunu kontrol edemediğimiz için bazı turlar engebeli / dik bölümleri içerebilir. Ayrıca bazen Loango Milli Parkında goriller bataklıklara girebilir ve bu geçilmesi gerekebilir. Sıcaklık ve nem muhtemelen tek kaygı kaynağıdır, ancak ormanda güneşten uzakta olacaksınız ve yürürken acele etmeyeceğiz. Bu nedenle, zaman alırız ve bolca su getiririz, böylece sadece 4-5 saatten fazla yürüyüş yapmaya alışık olan insanlara ihtiyacımız var, bu tur için özel bir fiziksel yeterlilik gerekmiyor, sadece engebeli, tropikal orman koşullarında yürüyebilme yeteneği yeterlidir.<br/><br/>Ekipman Listesi:<br/><br/>Tura kaydolduğunuzda, tam bir ekipman öneri listesi de dâhil olmak üzere kapsamlı bir ön seyahat paketi göndereceğiz; ancak genel bir kural olarak, kendi dürbününüzü veya gözlem teleskobunuzu getirmenizi öneriyoruz (bu her zaman ormanlarda çok işe yaramasa da) ve uygun kıyafetler getirin; bu da, kirlenmeye hazır dayanıklı giysiler olmalıdır. Uzun pantolonlar ve uzun kollu gömlekler iyi bir fikirdir, çünkü ormanda yetişen bitkiler dikenli olabilir ve bazılarının batıcı otları vardır. Seyahat şortları ve kısa kollu giysiler de önerilmektedir. Bu bir yağmur ormanı olduğundan, su geçirmez giysiler, özellikle de poncho’lar, harika bir fikirdir. Konforlu, yıpranmış ve ayak bileği desteği olan su geçirmez yürüyüş botları şarttır. Sivrisinek kovucu gereklidir. Herhangi bir ilaç, kitap veya diğer kişisel eşyalarınızı yanınıza almanız gerektiği elbette size kalmıştır. Oh, kameranız için yeterince bellek kartı veya film getirmeyi unutmayın. Ayrıca, lütfen güneş kremi, güneş şapkası ve güneş gözlüğü getirin çünkü burada gün boyunca güneş oldukça güçlü olabilmektedir.<br/><br/>Minimum yaş: 18 yaş",
     "durationDays": "10",
     "price": "8195",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -156,22 +288,22 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Libreville - Arrival in Libreville where your local guide will be meet you and transfer you to the hotel for the night. Overnight - Hotel Tropicana or Onomo (Breakfast only)."
+        "description": "Libreville - Libreville'e varışta yerel rehberiniz sizi karşılayacak ve gece için otele transfer edecektir. Geceleme - Hotel Tropicana veya Onomo (sadece kahvaltı)."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Liberville to Lope National Park This morning will be free for you to relax around the hotel or to walk and bath in the beach and then depart in the afternoon to the train station at 04:00pm. The departure is at 06:50pm and we will reach to Lope around 01:00am. On arrival we will transfer to the hotel for rest of the night. Transfer to Lope hotel. (breakfast only)"
+        "description": "Liberia'den Lope Milli Parkı'na Bu sabah otel etrafında dinlenmek veya plajda yürüyüş yapıp yüzmek için serbest olacak ve ardından öğleden sonra saat 16:00'da tren istasyonuna hareket edeceğiz. Hareket saat 18:50'dir ve Lope'ye yaklaşık 01:00'de ulaşacağız. Varışta otele transfer edilecektir. Lope oteline transfer. (sadece kahvaltı)"
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "Lope National Park - Today is your final day in the park and you will further explore the forest looking for wildlife. Later today you will have a night transfer to the train station for the Ndjole train. This train is overnight and arrives in Ndjole at 4am tomorrow. (breakfast only included)."
+        "description": "Lope Milli Parkı - Bugün parkta son gününüz ve vahşi yaşamı aramak için ormanı keşfedeceksiniz. Bugün ilerleyen saatlerde Ndjole trenine ait gece transferiniz olacak. Bu tren gece yolculuk yapacak ve yarın sabah 04:00'te Ndjole'ye varacak. (sadece kahvaltı dâhil)."
       },
       {
         "dayNumber": 6,
         "title": "",
-        "description": "Ndjole - Lambarene This morning your train will arrive into Ndjole at 04:00am and you will be taken to a hotel (Hotel Papaye or similar) to rest until 08:00am and after breakfast we continue the trip. Our objective is the colonial town of Lambarené, a river island town famous for its many natural lakes with several endemic bird and fish species and the Albert Schweitzer Hospital and Museum. This unique hospital was established in 1913 by German Doctor Albert Schweitzer. Its Medical Research Unit is one of the leading scientific institutions in Africa working to end the scourge of malaria, and also serves as a highly-regarded training site for African physicians and scientists. We will visit the hospital, the house (now museum) of Albert Schweitzer and its beautiful natural surroundings. This afternoon we will leave the hospital to travel to a nearby mangrove forest along the banks of the rivers / lagoons which dot this part of Gabon. Our goal is to see the amazing and range restricted northern talapoin monkey and other species can be seen as well, including red-capped mangabey and possibly brief views of the endangered West African manatee. We will return to the hospital for dinner. Overnight - Albert Schweitzer Hospital Guestrooms (Breakfast, lunch and dinner)"
+        "description": "Ndjole - Lambarene Bu sabah treniniz saat 04:00'te Ndjole'ye varacak ve 08:00'e kadar dinlenmeniz için bir otele (Hotel Papaye veya benzeri) götürüleceksiniz. Kahvaltıdan sonra yolculuğumuza devam edeceğiz. Hedefimiz, birçok doğal göl, çeşitli endemik kuş ve balık türleri ile ünlü olan ve Albert Schweitzer Hastanesi ve Müzesi'ne sahip olan Lambarene adlı kolonyal kasabadır. Bu eşsiz hastane, 1913 yılında Alman doktor Albert Schweitzer tarafından kurulmuştur. Tıbbi Araştırma Birimi, sıtma salgını ile mücadele eden Afrika'daki önde gelen bilim kurumlarından biridir ve ayrıca Afrikalı hekimler ve bilim insanları için yüksek bir itibara sahip eğitim alanıdır. Hastaneyi, Albert Schweitzer'in evi (şimdi müze) ve güzel doğal çevresini ziyaret edeceğiz. Bu öğleden sonra, hastaneden ayrılarak Gabon'un bu bölgesini kapsayan nehirlerin/mangrov ormanlarının kenarındaki bitkisel zenginliğe sahip mangrove ormanına gideceğiz. Amacımız, harika ve sınırlı bir alana sahip olan kuzey talapoin maymununu görmek ve kırmızı tepeli mangabe ve belki de nesli tehlikede olan Batı Afrika manatisinin kısa bir gözlemini yapmaktır. Akşam yemeği için hastaneye döneceğiz. Geceleme - Albert Schweitzer Hastanesi Misafirhaneleri (kahvaltı, öğle yemeği ve akşam yemeği)"
       },
       {
         "dayNumber": 7,
@@ -181,20 +313,113 @@
       {
         "dayNumber": 8,
         "title": "",
-        "description": "Loango National Park - After breakfast, you will enter the park looking for wildlife on foot, vehicle and boat. The eco-system at Loango is one of the richest and most complex in Central Africa: here, we find mangroves, beaches, river forest, Congolese forest and inland forest with huge trees, and even tropical meadows. A true mosaic of landscapes with breathtaking vegetation and wildlife. The traveler can easily spot big mammals such as the forest elephant, red forest buffalo, red river hogs with furry ears, hippos, etc. Inside the park’s lagoons it is possible to observe the slender snouted crocodiles, sitatunga, duikers, a variety of monkeys, a huge array of birds, western lowland gorillas and chimpanzees. Today we will visit the recently opened habituated lowland gorillas here and continue to the Akaka river for wildlife. Accommodation in Akaka Camp (breakfast, lunch and dinner)"
+        "description": "Loango Milli Parkı - Kahvaltıdan sonra, parkı yaya, araç ve botla vahşi yaşamı aramak için gireceksiniz. Loango'daki ekosistem, Orta Afrika'nın en zengin ve en karmaşık olanlarından biridir: burada mangrovlar, plajlar, nehir ormanları, Kongo ormanları ve dev ağaçlar içeren iç ormanlar ve hatta tropik meralar buluyoruz. Büyüleyici bitki örtüsü ve vahşi yaşamla dolu gerçek bir manzara mozaiği. Seyahat edenler, orman fili, kırmızı orman bufalosu, tüylü kulaklı kırmızı nehir domuzları, su aygırları gibi büyük memelileri kolayca görebilir. Parkın lagünlerinde ince burunlu timsahlar, sitatunga, duikerler, çeşitli maymunlar, geniş bir kuş çeşidi, batı alçakland gorilleri ve şempanzeleri gözlemlemek mümkündür. Bugün, burada açılan alıştırılmış alçakland gorillerini ziyaret edeceğiz ve ardından vahşi yaşam için Akaka Nehri'ne devam edeceğiz. Akaka Kampında konaklama (kahvaltı, öğle yemeği ve akşam yemeği)."
       },
       {
         "dayNumber": 9,
         "title": "",
-        "description": "Loango National Park - After breakfast you will once again enter the park, but this time you will explore the Akaka River and the Iguela lagoon looking for wildlife. Accommodation in Iguela Lodge. (Breakfast, Lunch and Dinner)."
+        "description": "Loango Milli Parkı - Kahvaltıdan sonra bir kez daha parka gireceksiniz, ancak bu sefer vahşi yaşamı arayarak Akaka Nehri ve Iguela lagününü keşfedeceksiniz. Iguela Lodge’da konaklama. (Kahvaltı, Öğle Yemeği ve Akşam Yemeği)."
       },
       {
         "dayNumber": 10,
         "title": "",
-        "description": "Loango National Park - Port Gentil - Liberville This morning after breakfast we will depart from Loango and travel towards Port Gentil (5-6h), Gabon’s economic capital. On arrival we will catch a flight back to Libreville in the evening. We recommend you arrange your flight home from Libreville for around 10pm or later tonight. However we can accommodate another night in Libreville for flights departing tomorrow if you wish. (Breakfast & lunch)."
+        "description": "Loango Milli Parkı - Port Gentil - Libreville Bu sabah kahvaltıdan sonra Loango'dan ayrılacak ve Gabon'un ekonomik başkenti Port Gentil’e doğru seyahat edeceğiz (5-6 saat). Varışta akşam Libreville'e geri dönüş uçuşumuzu alacağız. Uçuşunuzu Libreville’den bu gece saat 10 civarında veya daha geç bir saate ayarlamanızı öneriyoruz. Ancak isterseniz, yarın kalkacak uçuşlar için Libreville'de bir gece daha konaklayabiliriz. (Kahvaltı ve öğle yemeği)."
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon"
+      },
+      {
+        "name": "Lope National Park",
+        "country": "Gabon"
+      },
+      {
+        "name": "Ndjole",
+        "country": "Gabon"
+      },
+      {
+        "name": "Lambarene",
+        "country": "Gabon"
+      },
+      {
+        "name": "Ogooue River",
+        "country": "Gabon"
+      },
+      {
+        "name": "Omboue",
+        "country": "Gabon"
+      },
+      {
+        "name": "Loango National Park",
+        "country": "Gabon"
+      },
+      {
+        "name": "Port Gentil",
+        "country": "Gabon"
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon",
+        "lat": 0.400015,
+        "lng": 9.456696
+      },
+      {
+        "name": "Ndjole",
+        "country": "Gabon",
+        "lat": -1.28301,
+        "lng": 12.290857
+      },
+      {
+        "name": "Lambarene",
+        "country": "Gabon",
+        "lat": -0.695844,
+        "lng": 10.221596
+      },
+      {
+        "name": "Omboue",
+        "country": "Gabon",
+        "lat": -1.572696,
+        "lng": 9.265303
+      },
+      {
+        "name": "Loango Milli Parkı",
+        "country": "Gabon",
+        "lat": -2.668959,
+        "lng": 10.818955
+      },
+      {
+        "name": "Port Gentil",
+        "country": "Gabon",
+        "lat": -0.704394,
+        "lng": 8.775819
+      },
+      {
+        "name": "Libreville",
+        "country": "Gabon",
+        "lat": 0.400015,
+        "lng": 9.456696
+      }
+    ],
+    "__trTranslated": true
   }
 ]

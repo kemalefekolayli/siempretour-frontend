@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Guinea",
+    "destination": "Gine",
     "mainPhoto": "",
     "id": "guinea-liberia-and-sierra-leone-expedition",
     "tourName": "Gine, Liberya ve Sierra Leone Keşfi",
@@ -253,7 +253,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Guinea",
+    "destination": "Gine",
     "mainPhoto": "",
     "id": "guinea-liberia-and-sierra-leone-tour",
     "tourName": "Gine, Liberya ve Sierra Leone Turu",
@@ -466,7 +466,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Guinea",
+    "destination": "Gine",
     "mainPhoto": "",
     "id": "guinea-bissau-tours",
     "tourName": "Gine Bissau turları",
@@ -637,7 +637,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Guinea",
+    "destination": "Gine",
     "mainPhoto": "",
     "id": "senegal-guinea-bissau-cultural-holiday",
     "tourName": "Senegal & Guinea Bissau kültürel tatili",
@@ -904,7 +904,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Guinea",
+    "destination": "Gine",
     "mainPhoto": "",
     "id": "west-africa-explorer-guinea-bissau-senegal",
     "tourName": "Batı Afrika Keşfi, Gine-Bissau & Senegal",
@@ -1036,9 +1036,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Dakar",
@@ -1065,6 +1065,12 @@
         "lng": -15.456652
       },
       {
+        "name": "Banjul",
+        "country": "Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
+      },
+      {
         "name": "Ziguinchor",
         "country": "Senegal",
         "lat": 12.563493,
@@ -1072,7 +1078,7 @@
       },
       {
         "name": "Bissau",
-        "country": "Gine-Bissau",
+        "country": "Guinea-Bissau",
         "lat": 11.861324,
         "lng": -15.583055
       }
@@ -1080,7 +1086,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Guinea",
+    "destination": "Gine",
     "mainPhoto": "",
     "id": "western-sahara-overland-tour-marrakech-to-bissau",
     "tourName": "Batı Sahra karadan turu, Marrakech'ten Bissau'ya",
@@ -1287,49 +1293,49 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Marrakech",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 31.626928,
         "lng": -7.988117
       },
       {
         "name": "Tarfaya",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 27.938314,
         "lng": -12.923756
       },
       {
         "name": "Nouadhibou",
-        "country": "Mauritanya",
+        "country": "Mauritania",
         "lat": 20.912705,
         "lng": -17.050309
       },
       {
         "name": "Chinguetti",
-        "country": "Mauritanya",
+        "country": "Mauritania",
         "lat": 20.440359,
         "lng": -12.262204
       },
       {
         "name": "Ouadane",
-        "country": "Mauritanya",
+        "country": "Mauritania",
         "lat": 20.930898,
         "lng": -11.620795
       },
       {
         "name": "Terjit",
-        "country": "Mauritanya",
+        "country": "Mauritania",
         "lat": 20.258163,
         "lng": -13.096455
       },
       {
         "name": "Nouakchott",
-        "country": "Mauritanya",
+        "country": "Mauritania",
         "lat": 18.079238,
         "lng": -15.978007
       },
@@ -1358,13 +1364,19 @@
         "lng": -15.456652
       },
       {
+        "name": "Banjul",
+        "country": "Gambia",
+        "lat": 13.45535,
+        "lng": -16.575646
+      },
+      {
         "name": "Bissau",
         "country": "Guinea-Bissau",
         "lat": 11.861324,
         "lng": -15.583055
       },
       {
-        "name": "Bijagos Adaları",
+        "name": "Bijagos Islands",
         "country": "Guinea-Bissau",
         "lat": 11.861324,
         "lng": -15.583055

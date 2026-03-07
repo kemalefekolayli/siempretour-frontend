@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Scotland",
+    "destination": "İskoçya",
     "mainPhoto": "",
     "id": "scotland-wildlife-photography-holiday",
     "tourName": "İskoçya Yaban Hayatı Fotoğrafçılığı Turu",
@@ -86,7 +86,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Scotland",
+    "destination": "İskoçya",
     "mainPhoto": "",
     "id": "wildlife-holiday-in-the-isle-of-mull-scotland",
     "tourName": "İskoçya'nın Mull Adası'nda Vahşi Yaşam Tatili",
@@ -149,6 +149,26 @@
         "country": "Scotland"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Oban",
+        "country": "Scotland",
+        "lat": 56.414654,
+        "lng": -5.4726
+      },
+      {
+        "name": "Isle of Mull",
+        "country": "Scotland",
+        "lat": 56.62299,
+        "lng": -6.06591
+      }
+    ]
   }
 ]

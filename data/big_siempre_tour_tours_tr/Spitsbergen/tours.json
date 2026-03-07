@@ -87,15 +87,45 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Norway",
+        "lat": 78.223156,
+        "lng": 15.646366
       },
       {
         "name": "Ny-Ålesund",
-        "country": "Norveç",
+        "country": "Norway",
         "lat": 62.47293,
         "lng": 6.156597
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Norway",
+        "lat": 78.223156,
+        "lng": 15.646366
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Norway",
+        "lat": 78.223156,
+        "lng": 15.646366
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
       }
     ],
     "__trTranslated": true

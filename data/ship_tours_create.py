@@ -6,7 +6,7 @@ import json
 # ===============================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-SOURCE_ROOT = os.path.join(BASE_DIR, "big_siempre_tour_tours")
+SOURCE_ROOT = os.path.join(BASE_DIR, "big_siempre_tour_tours_tr")
 TARGET_ROOT = os.path.join(BASE_DIR, "siempre_tour_ship_tours")
 
 TARGET_CATEGORY = "Ship/Cruise"

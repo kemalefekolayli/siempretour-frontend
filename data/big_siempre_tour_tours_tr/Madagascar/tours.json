@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "classic-madagascar-discovery-tour-tailor-made",
     "tourName": "Klasik Madagaskar keşif turu, kişiye özel",
@@ -200,7 +200,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "eastern-madagascar-small-group-tour",
     "tourName": "Doğu Madagaskar Küçük Grup Turu",
@@ -359,7 +359,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "family-wildlife-luxury-tour-in-madagascar",
     "tourName": "Madagaskar'da Aile Dostu Yaban Hayatı Lüks Turu",
@@ -503,7 +503,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "highlights-of-madagascar-tour",
     "tourName": "Madagaskar'ın En Önemli Noktaları Turu",
@@ -692,7 +692,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "honeymoons-in-madagascar",
     "tourName": "Madagaskar'da Balayı",
@@ -887,7 +887,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "landscapes-of-madagascar-holiday",
     "tourName": "Madagaskar Manzaraları Tatili",
@@ -1145,7 +1145,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "luxury-honeymoon-in-madagascar",
     "tourName": "Madagaskar'da Lüks Balayı",
@@ -1300,7 +1300,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-2-week-wildlife-holiday",
     "tourName": "Madagaskar 2 haftalık vahşi yaşam tatili",
@@ -1474,7 +1474,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-2-week-wildlife-tour",
     "tourName": "Madagaskar 2 haftalık vahşi yaşam turu",
@@ -1648,7 +1648,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-adventure-holiday-21-days",
     "tourName": "Madagaskar macera tatili, 21 gün",
@@ -1946,7 +1946,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-and-mauritius-holiday",
     "tourName": "Madagaskar ve Mauritius tatili",
@@ -2094,57 +2094,63 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Antananarivo",
-        "country": "Madagaskar",
+        "country": "Madagascar",
         "lat": -18.909775,
         "lng": 47.52709
       },
       {
-        "name": "Isalo Milli Parkı",
-        "country": "Madagaskar",
+        "name": "Isalo National Park",
+        "country": "Madagascar",
         "lat": -19.73672,
         "lng": 45.43856
       },
       {
         "name": "Ambalavao",
-        "country": "Madagaskar",
+        "country": "Madagascar",
         "lat": -19.096058,
         "lng": 47.53055
       },
       {
-        "name": "Anja Rezervi",
-        "country": "Madagaskar",
+        "name": "Anja Reserve",
+        "country": "Madagascar",
         "lat": -21.43414,
         "lng": 44.330334
       },
       {
-        "name": "Ranomafana Milli Parkı",
-        "country": "Madagaskar",
+        "name": "Ranomafana National Park",
+        "country": "Madagascar",
         "lat": -21.260815,
         "lng": 47.45523
       },
       {
         "name": "Antsirabe",
-        "country": "Madagaskar",
+        "country": "Madagascar",
         "lat": -13.880381,
         "lng": 48.143883
       },
       {
-        "name": "Andasibe-Mantadia Milli Parkı",
-        "country": "Madagaskar",
+        "name": "Andasibe-Mantadia National Park",
+        "country": "Madagascar",
         "lat": -17.302492,
         "lng": 48.99023
+      },
+      {
+        "name": "Mauritius",
+        "country": "Mauritius",
+        "lat": 52.26697,
+        "lng": -6.388149
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-and-seychelles-honeymoon",
     "tourName": "Madagaskar ve Seyşeller balayı",
@@ -2297,57 +2303,69 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Antananarivo",
-        "country": "Madagaskar",
+        "country": "Madagascar",
         "lat": -18.909775,
         "lng": 47.52709
       },
       {
         "name": "Antsirabe",
-        "country": "Madagaskar",
+        "country": "Madagascar",
         "lat": -13.880381,
         "lng": 48.143883
       },
       {
         "name": "Ranomafana National Park",
-        "country": "Madagaskar",
+        "country": "Madagascar",
         "lat": -21.260815,
         "lng": 47.45523
       },
       {
         "name": "Fianarantsoa",
-        "country": "Madagaskar",
+        "country": "Madagascar",
         "lat": -19.394962,
         "lng": 47.620153
       },
       {
         "name": "Isalo National Park",
-        "country": "Madagaskar",
+        "country": "Madagascar",
         "lat": -19.73672,
         "lng": 45.43856
       },
       {
         "name": "Zombitse National Park",
-        "country": "Madagaskar",
+        "country": "Madagascar",
         "lat": -22.880859,
         "lng": 44.758547
       },
       {
         "name": "Andasibe Mantadia National Park",
-        "country": "Madagaskar",
+        "country": "Madagascar",
         "lat": -17.302492,
         "lng": 48.99023
+      },
+      {
+        "name": "Seychelles",
+        "country": "Madagascar",
+        "lat": 45.80401,
+        "lng": 3.339349
+      },
+      {
+        "name": "Mahe",
+        "country": "Madagascar",
+        "lat": 32.00362,
+        "lng": 35.784817
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-family-adventure-holiday-canoes-camping",
     "tourName": "Madagaskar aile macera tatili, kano ve kamp",
@@ -2562,7 +2580,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-family-adventure-holiday",
     "tourName": "Madagaskar aile macera tatili",
@@ -2716,7 +2734,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-family-holiday-wild-country-whales",
     "tourName": "Madagaskar aile tatili, vahşi doğa ve balinalar",
@@ -2911,7 +2929,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-guided-nature-tour",
     "tourName": "Madagaskar rehberli doğa turu",
@@ -3150,7 +3168,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-guided-wildlife-adventure-tour",
     "tourName": "Madagaskar rehberli yaban hayatı macera turu",
@@ -3381,7 +3399,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-holiday-lemurs-canals-mountains",
     "tourName": "Madagaskar tatili, Lemurlar, kanallar ve dağlar",
@@ -3611,7 +3629,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-holiday-overland-adventure",
     "tourName": "Madagaskar tatili, karada macera",
@@ -3918,7 +3936,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-holidays-the-lost-continent",
     "tourName": "Madagaskar tatilleri, Kaybolan kıta",
@@ -4146,7 +4164,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-in-depth-small-group-tour",
     "tourName": "Derinlemesine Madagaskar, küçük grup turu",
@@ -4456,7 +4474,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-luxury-private-tour",
     "tourName": "Madagaskar lüks özel tur",
@@ -4547,21 +4565,57 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Antananarivo",
-        "country": "Madagaskar",
+        "country": "Madagascar",
         "lat": -18.909775,
         "lng": 47.52709
+      },
+      {
+        "name": "beachside lodge",
+        "country": "Madagascar",
+        "lat": 41.14876,
+        "lng": -102.6369
+      },
+      {
+        "name": "primary rainforest",
+        "country": "Madagascar",
+        "lat": 1.064589,
+        "lng": 34.161955
+      },
+      {
+        "name": "coral reefs",
+        "country": "Madagascar",
+        "lat": 43.362133,
+        "lng": -85.402963
+      },
+      {
+        "name": "coastal forests",
+        "country": "Madagascar",
+        "lat": 50.90816,
+        "lng": -0.917445
+      },
+      {
+        "name": "island",
+        "country": "Madagascar",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Malagasy Tombs",
+        "country": "Madagascar",
+        "lat": 31.714086,
+        "lng": -110.067783
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-luxury-tour-12-days",
     "tourName": "Madagaskar Lüks Turu, 12 gün",
@@ -4718,7 +4772,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-north-coast-adventure-holiday",
     "tourName": "Madagaskar Kuzey Kıyısı macera tatili",
@@ -4912,7 +4966,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-off-the-beaten-track-holiday",
     "tourName": "Madagaskar keşfedilmemiş tatil",
@@ -5092,7 +5146,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-photography-holiday",
     "tourName": "Madagaskar Fotoğrafçılık Tatili",
@@ -5353,7 +5407,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-private-tour-with-tracking-and-camping",
     "tourName": "Madagaskar özel turu, izleme ve kamp ile",
@@ -5610,7 +5664,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-small-group-holiday",
     "tourName": "Madagaskar küçük grup tatili",
@@ -5833,7 +5887,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-small-ship-cruise-nosy-be-to-durban",
     "tourName": "Madagaskar küçük gemi turu, Nosy Be'den Durban'a",
@@ -5992,7 +6046,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-tailor-made-honeymoon-adventure",
     "tourName": "Madagaskar özel balayı macerası",
@@ -6226,7 +6280,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-tailor-made-wildlife-holiday",
     "tourName": "Madagaskar kişiye özel vahşi yaşam tatili",
@@ -6517,7 +6571,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-to-zanzibar-sailing-expedition",
     "tourName": "Madagaskar'dan Zanzibar'a Yelkenli Keşif",
@@ -6645,7 +6699,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-tour-grand-discovery",
     "tourName": "Madagaskar turu, büyük keşif",
@@ -6999,7 +7053,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-tour-rainforest-beaches",
     "tourName": "Madagaskar turu, yağmur ormanları ve plajlar",
@@ -7165,7 +7219,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-tour-with-north-or-south-extensions",
     "tourName": "Kuzey veya Güney Uzantılı Madagaskar Turu",
@@ -7315,7 +7369,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-wildlife-and-beaches-holiday",
     "tourName": "Madagaskar vahşi yaşam ve plaj tatili",
@@ -7555,7 +7609,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-wildlife-experience-holiday",
     "tourName": "Madagaskar vahşi yaşam deneyimi tatili",
@@ -7740,7 +7794,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-wildlife-holiday",
     "tourName": "Madagaskar Yaban Hayatı Tatili",
@@ -7924,7 +7978,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-wildlife-small-group-tour",
     "tourName": "Madagaskar yaban hayatı küçük grup turu",
@@ -7950,7 +8004,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "madagascar-wildlife-tour-15-days",
     "tourName": "Madagaskar vahşi yaşam turu, 15 gün",
@@ -8150,7 +8204,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "north-madagascar-adventure-and-wildlife-holiday",
     "tourName": "Kuzey Madagascar macerası ve yaban hayatı tatili",
@@ -8425,7 +8479,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "northern-madagascar-private-tour",
     "tourName": "Kuzey Madagaskar özel turu",
@@ -8646,7 +8700,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "nosy-be-cruise-and-tsarabanjina-resort-holiday-madagascar",
     "tourName": "Nosy Be kruvaziyeri ve Tsarabanjina tatili, Madagaskar",
@@ -8806,7 +8860,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "private-madagascar-tour",
     "tourName": "Özel Madagaskar Turu",
@@ -9059,7 +9113,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "seychelles-to-madagascar-sailing-expedition",
     "tourName": "Seyşeller'den Madagaskar'a yelkenli keşif gezisi",
@@ -9168,7 +9222,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "small-group-holidays-to-madagascar",
     "tourName": "Madagaskar'a Küçük Grup Turları",
@@ -9431,7 +9485,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "southern-madagascar-lemurs-baobabs-beaches",
     "tourName": "Güney Madagascar, Lemurlar, baobab ağaçları ve plajlar",
@@ -9600,7 +9654,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "southern-madagascar-tour",
     "tourName": "Güney Madagaskar Turu",
@@ -9801,7 +9855,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "tour-of-madagascar-tailor-made",
     "tourName": "Madagaskar Turu, özel yapım",
@@ -10083,7 +10137,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Madagascar",
+    "destination": "Madagaskar",
     "mainPhoto": "",
     "id": "wild-madagascar-tour-small-group",
     "tourName": "Vahşi Madagascar Turu, Küçük Grup",

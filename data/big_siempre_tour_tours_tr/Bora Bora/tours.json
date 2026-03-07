@@ -1164,33 +1164,45 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Queenstown",
-        "country": "Yeni Zelanda",
+        "country": "New Zealand",
         "lat": -45.032063,
         "lng": 168.66133
       },
       {
         "name": "Milford Sound",
-        "country": "Yeni Zelanda",
+        "country": "New Zealand",
         "lat": -44.669468,
         "lng": 167.92795
       },
       {
         "name": "Rotorua",
-        "country": "Yeni Zelanda",
+        "country": "New Zealand",
         "lat": -38.136875,
         "lng": 176.2534
       },
       {
-        "name": "Waiheke Adası",
-        "country": "Yeni Zelanda",
+        "name": "Waiheke Island",
+        "country": "New Zealand",
         "lat": -36.781643,
         "lng": 175.00844
+      },
+      {
+        "name": "Tahiti",
+        "country": "null",
+        "lat": -17.6368,
+        "lng": -149.4556
+      },
+      {
+        "name": "Bora Bora",
+        "country": "null",
+        "lat": -16.494444,
+        "lng": -151.736389
       }
     ],
     "__trTranslated": true

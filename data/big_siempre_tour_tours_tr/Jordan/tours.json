@@ -1,6 +1,350 @@
 [
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
+    "mainPhoto": "",
+    "id": "MEJI",
+    "tourName": "İsrail ve Ürdün En İyileri",
+    "placesVisited": "Ürdün, İsrail",
+    "generalInfo": "Ürdün ve İsrail'in kutsal toprakları arasında 11 günlük bir maceraya çıkıyoruz. Petra'nın gül şehri ve Bethlehem'in İncil şehri gibi UNESCO Dünya Mirası Alanlarını göreceksiniz.",
+    "durationDays": "11",
+    "price": "1429",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Konaklama: </strong></p>\n<ul>\n<li>- Otellerde 9 gece, çadır kamplarında 1 gece konaklama</li>\n</ul>\n<p><strong>Yemekler: </strong></p>\n<ul>\n<li>- 10 Kahvaltı, 5 Akşam Yemeği</li>\n</ul>\n<p><strong>Geziler: </strong></p>\n<ul>\n<li>- Jerash ve Umm Qais'e günlük gezi,</li>\n<li>- Madaba pazar kentini ziyaret ,</li>\n<li>- Mount Nebo &amp; Umm ar Rases,</li>\n<li>- Petra rehberli tur,</li>\n<li>- Wadi Rum'da bir gecede çöl deneyimi,</li>\n<li>- Karak ve Wadi Mujib kanyonunu ziyaret,</li>\n<li>- Ölü Deniz'de tam gün,</li>\n<li>- Zeytin Dağı, Kudüs Batı Şeria Turu,</li>\n<li>- Pater Noster Kilisesi,</li>\n<li>- Gethsemane Bahçesi,</li>\n<li>- Bütün Milletler Kilisesi,</li>\n<li>- Bethlehem'e ve şarap tadımı deneyimi günlük gezi,</li>\n<li>- Tabor Dağı üzerinden Nasıra'ya günlük gezi.</li>\n<li>- Saint Joseph Atölyesi ve Cana de Galilee Ziyareti ,</li>\n<li>- Ayrılış Transferi</li>\n</ul>\n<p><strong>Ulaşım : </strong></p>\n<ul>\n<li>- Özel Araç</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Amman'a Varış",
+        "description": "Göz kamaştırıcı Ürdün'ün başkenti Amman'a hoş geldiniz. Bu modern şehrin tarihi İ.Ö. 13. yüzyıla dayanır. Eski ve yeninin büyüleyici birleşimine hayran olacaksınız.Kaleye gitmeden önce Jebel Al Weibdeh bölgesinde öğleden sonra ve akşam gezebilir müzeleri, camileri ve galerileri keşfedebilirsiniz. Kale, Amman'ın en yüksek tepesinde yer alır ve Herkül'ün büyük tapınağından ve Ümmayad Sarayı'ndan oluşur."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Jerash ve Umm Qais",
+        "description": "Bu sabah özel araçla Jerash antik kentine gitmeden önce tur liderinizle kahvaltıda buluşacaksınız. Bu kalıntılar, Ürdün’ün en iyi Yunan-Roma mimarisi örneklerini sunar ve çok iyi korunurlar, genellikle “Ortadoğu Pompeii” olarak bilinir. Arnavut kaldırımlı sokaklarında dolaşıp görkemli anıtlarına, tapınaklarına ve tiyatrolarına hayran kalarak eski halkın yaşamını kolaylıkla tahmin edebileceksiniz. Hadrian's Arch'a hayran kalacaksınız ve Roma egemenliği boyunca binlerce izleyiciye araba yarışları düzenleyen ünlü Hipodrom'u keşfedeceksiniz. Sabah turdan sonra, kuzeybatıya Umm Qais şehrine gideceğiz. Bir zamanlar Gadara şehri olarak bilinen Umm Qais, Galilee Denizi’nin panoramik manzarasını ve tarihin bir parçası gibi hissetmenizi sağlayacak antik kalıntıları sunmaktadır. Günün ilerleyen saatlerinde, grubunuzla günün etkinliklerini hatırlayacağınız bir akşam yemeği için modern Amman'a geri dönüyoruz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Madaba'dan Petra'ya Mt Nebo, Wadi Mujib Canyon & Umm ar Rasas",
+        "description": "Bu sabah, 'Mozaikler Şehri' olarak da bilinen Madaba pazar şehrine gidiyoruz, en önemlisi şehir, 6. yüzyılda Kudüs ve Kutsal Topraklar Mozaik haritasına ev sahipliği yapıyor. Kilisenin tabanının bir parçasını oluşturan bu ünlü, renkli mozaiği görmek için zamanınız olacak olan 19. yüzyıl Bizans Yunan Ortodoks St George Kilisesi'nde mola veriyoruz."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Petra",
+        "description": "Rehberli şehir turunda bu sabah Petra'yı göreceğiz. Ürdün halkı için değerli olan bu arkeolojik hazineyi göreceksiniz, öyle ki ülkenin ulusal bir sembolü olarak kabul edilir. Dünyanın Yedi Yeni Harikası'ndan biri olan bu gizli mücevher, mezarlardan, tapınaklardan ve şehrin içinde oyulmuş, göze çarpan kırmızı gül kumtaşı kaya'dan oluşur.Öğleden sonra serbest zaman,keşfetmeye devam etme şansına sahip olacaksınız.."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Wadi Rum",
+        "description": "Maceramız, Wadi Rum'un vahşi çöl doğasına doğru devam ediyor. Kızıl kumlu çölün ve çevresindeki kaya oluşumlarının doğal güzelliğini göreceksiniz. Bu gece yıldızlara bakmak için mükemmel bir seçenek olan geleneksel Bedevi çadırlarında kalacaksınız, yataklar, özel banyo ve bir oturma alanınız olacak."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Dead Sea",
+        "description": "Ölü Deniz tuzları ve minerallerinden oluşan masmavi sularıyla dikkat çeken Dead Sea Resort'un tadını çıkaracaksınz. Güneşin tadını çıkarırken ve otel havuzunda yüzerken, ylezzetli Arap mutfağında yemek yiyip günün geri kalanı boyunca Ürdün Doğu Sahili'nin muhteşem manzaralarını izlerken otel personeli size yardımcı olmak için tüm gün orada olacak.."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Olives Dağları, Pater Noster Kilisesi,  Gethsemane & Jerusalem Bahçesi",
+        "description": "Kudüs'ün kutsal kentine olan yolculuğumuza başlayacağız. Ürdün sınırını geçince yeni İsrail rehberiniz tarafından karşılanacaksınız. İsrail maceranızdaki ilk durağımız, İncil'de  önemli bir yer olmasıyla ünlü olan Kudüs’ün eski kentinin doğusuna bakan bir dağ sırtı olan Zeytin Dağı olacak. Yamaçlarında, kilisenin etrafındaki duvarlarda plaklara oyulmuş 140'ın üzerinde farklı dile çevrilmiş olarak Tanrı'nın Duası'nı bulacağınız Pater Noster Kilisesi yer almaktadır. Bunu takiben Dominus Flevit Kilisesi'ne doğru ilerliyoruz. Buradan, İsa'nın Kudüs'e baktığı ve kentin geleceğini ele geçirdiği söyleniyor. İsa'nın, Lazarus'un dirilişinden sonra Kudüs'e girdiği son yürüyüşü temsil eden ünlü Palm Sunday Route boyunca yürümek için rehberli turumuza devam ediyoruz. İsa’nın son ayak izlerini takiben, tutuklanmadan önceki son gecesini geçirdiği Gethsemane Bahçesine ulaştıktan sonra çarmıha gerilmden önce  dua ettiği kayanın üzerine inşa edilen Bütün Milletler Kilisesi'ni ziyaret ediyoruz. Via Dolorosa boyunca, İsa'nın gömüldüğü ve yeniden dirildiği söylenen Holy Sepulcher Kilisesi'ne doğru son bir yürüyüşe çıkacağız. Akşam yemeğinde gün  içinde gördüklerimizi konuşarak  tadını çıkaracağız."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Bethlehem ve Şarap Tadımı",
+        "description": "Kahvaltıdan sonra ünlü Bethlehem şehrine girmek için yola çıkacağız. İsa Mesih'in doğum yeri olan Bethlehem asırlarca tarihe sahiptir ve UNESCO listesindedir. The Church of the Nativity - dünyanın en eski kiliselerinden biri, ziyaret etme şansına sahip olacaksınız. Güzel Cremisan Vadisi'ne devam etmeden önce İncil'in çevrildiği St Jerome Mağarası gibi dini yerleri ziyaret edeceğiz. Burada Cremisan Mahzenlerinde şarap tadımı yapabiliriz. Yoğun bir günün ardından Kudüs'teki otele geri döneceğiz."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Nazareth",
+        "description": "Bugün Meryem ve Yusuf'un evi olan Nasıra'ya bir günlük gezi yapacağız. Yolda, birçok insanın Kutsal Kitaptaki Başkalaşımın yeri olduğuna inandığı Tabor Dağı'nda mola vermek için engin Jezreel Vadisi'ne gideceğiz. Daha sonra Nasıra’ya devam edeceğiz ve Yusuf’un marangozluk atölyesinde inşa edilen Aziz Joseph Kilisesi’ni ziyaret edeceğiz. Daha sonra, İsa'nın suyu şaraba dönüştürerek ilk mucizesini gerçekleştirdiği söylenen Cana of Galilee'ye yolculuk ediyoruz. Son grup akşam yemeği için Kudüs'teki otele döneceğiz."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Kudüs",
+        "description": "Bir ömür boyu hatırlayacağınız maceranız bugün sona eriyor.Uçuşunuz geç saatte ise veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız, turistik yerleri keşfetmek için daha fazla zamanınız olacaktır. Tel Aviv Havaalanı'na transfer olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Culture",
+    "route": [
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Umm Qais",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount of Olives",
+        "country": "Israel"
+      },
+      {
+        "name": "Jerusalem",
+        "country": "Israel"
+      },
+      {
+        "name": "Bethlehem",
+        "country": "Israel"
+      },
+      {
+        "name": "Nazareth",
+        "country": "Israel"
+      },
+      {
+        "name": "Cana of Galilee",
+        "country": "Israel"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Ürdün",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Ürdün",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Umm Qais",
+        "country": "Ürdün",
+        "lat": 32.654033,
+        "lng": 35.68446
+      },
+      {
+        "name": "Madaba",
+        "country": "Ürdün",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Petra",
+        "country": "Ürdün",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Zeytin Dağı",
+        "country": "İsrail",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Kudüs",
+        "country": "İsrail",
+        "lat": 31.773315,
+        "lng": 35.18679
+      },
+      {
+        "name": "Bethlehem",
+        "country": "İsrail",
+        "lat": 32.838971,
+        "lng": 35.371174
+      },
+      {
+        "name": "Nasıra",
+        "country": "İsrail",
+        "lat": 32.70381,
+        "lng": 35.299755
+      },
+      {
+        "name": "Galile'deki Kana",
+        "country": "İsrail",
+        "lat": 32.838971,
+        "lng": 35.371174
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Ürdün",
+    "mainPhoto": "",
+    "id": "MEJJ",
+    "tourName": "Ürdün Yolculuğu",
+    "placesVisited": "Ürdün",
+    "generalInfo": "Şaşırtıcı manzaralarından kutsal yerlere kadar, bu küçük Arap ülkesinin dünyanın dört bir yanından gelen gezginlere sunacak birçok güzellikleri vardır. Ortadoğu'nun bu değerli mücevherine yapacağınız 8 günlük macera, sizi modern şehirler, çöl manzaraları ve UNESCO Dünya Mirası Alanlarına götürüyor.",
+    "durationDays": "8",
+    "price": "679",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Konaklama: </strong></p>\n<ul>\n<li>- Otelde 6 gece, 1 gece kamp</li>\n</ul>\n<p><strong>Yemek:</strong></p>\n<ul>\n<li>- 7 Kahvaltı, 2 Akşam Yemeği</li>\n</ul>\n<p><strong>Geziler:</strong></p>\n<ul>\n<li>- Jerash ve Umm Qais'e günlük gezi,</li>\n<li>- Madaba pazar kentini ziyaret,</li>\n<li>- Nebo ve Umm ar Rases ,</li>\n<li>- Petra rehberli tur,</li>\n<li>- Wadi Rum'da bir gece çöl deneyimi,</li>\n<li>- Karak ve Wadi Mujib kanyonunu ziyaret,</li>\n<li>- Ölü Denizde Tam Gün</li>\n</ul>\n<p><strong>Ulaşım:</strong></p>\n<ul>\n<li>- Özel Araç</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Amman'a Varış",
+        "description": "Göz kamaştırıcı Ürdün'ün başkenti Amman'a hoş geldiniz. Bu modern şehrin tarihi İ.Ö. 13. yüzyıla dayanır. Eski ve yeninin büyüleyici birleşimine hayran olacaksınız.Kaleye gitmeden önce Jebel Al Weibdeh bölgesinde öğleden sonra ve akşam gezebilir müzeleri, camileri ve galerileri keşfedebilirsiniz. Kale, Amman'ın en yüksek tepesinde yer alır ve Herkül'ün büyük tapınağından ve Ümmayad Sarayı'ndan oluşur."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Jerash ve Umm Qais",
+        "description": "Bu sabah özel araçla Jerash antik kentine gitmeden önce tur liderinizle kahvaltıda buluşacaksınız. Bu kalıntılar, Ürdün’ün en iyi Yunan-Roma mimarisi örneklerini sunar ve çok iyi korunurlar, genellikle “Ortadoğu Pompeii” olarak bilinir. Arnavut kaldırımlı sokaklarında dolaşıp görkemli anıtlarına, tapınaklarına ve tiyatrolarına hayran kalarak eski halkın yaşamını kolaylıkla tahmin edebileceksiniz. Hadrian's Arch'a hayran kalacaksınız ve Roma egemenliği boyunca binlerce izleyiciye araba yarışları düzenleyen ünlü Hipodrom'u keşfedeceksiniz. Sabah turdan sonra, kuzeybatıya Umm Qais şehrine gideceğiz. Bir zamanlar Gadara şehri olarak bilinen Umm Qais, Galilee Denizi’nin panoramik manzarasını ve tarihin bir parçası gibi hissetmenizi sağlayacak antik kalıntıları sunmaktadır. Günün ilerleyen saatlerinde, grubunuzla günün etkinliklerini hatırlayacağınız bir akşam yemeği için modern Amman'a geri dönüyoruz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Mabada, Nebo Dağı, Umm Ar Rases",
+        "description": "Bu sabah, 'Mozaikler Şehri' olarak da bilinen Madaba pazar şehrine gidiyoruz, en önemlisi şehir, 6. yüzyılda Kudüs ve Kutsal Topraklar Mozaik haritasına ev sahipliği yapıyor. Kilisenin tabanının bir parçasını oluşturan bu ünlü, renkli mozaiği görmek için zamanınız olacak, 19. yüzyıl Bizans Yunan Ortodoks St. George Kilisesi'nde mola veriyoruz."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Petra",
+        "description": "Rehberli şehir turunda bu sabah Petra'yı göreceğiz. Ürdün halkı için değerli olan bu arkeolojik hazineyi göreceksiniz, öyle ki ülkenin ulusal bir sembolü olarak kabul edilir. Dünyanın Yedi Yeni Harikası'ndan biri olan bu gizli mücevher, mezarlardan, tapınaklardan ve şehrin içinde oyulmuş, göze çarpan kırmızı gül kumtaşı kaya'dan oluşur.Öğleden sonra serbest zaman,keşfetmeye devam etme şansına sahip olacaksınız.."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Wadi Rum",
+        "description": "Maceramız, Wadi Rum'un vahşi çöl doğasına doğru devam ediyor. Kızıl kumlu çölün ve çevresindeki kaya oluşumlarının doğal güzelliğini göreceksiniz. Bu gece yıldızlara bakmak için mükemmel bir seçenek olan geleneksel Bedevi çadırlarında kalacaksınız, yataklar, özel banyo ve bir oturma alanınız olacak."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Ölü Deniz",
+        "description": "Bugün Karak kentine doğru ilerliyoruz, burada yerel şehrin kalbine yerleştirilmiş bir tepenin üstünde antik bir müstahkem kale bulacaksınız. Haçlılar tarafından 12. yüzyılda inşa edilen, kalenin stratejik konumu, açık bir günde Ölü Deniz'e kadar manzaraya izin verir."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Ölü Deniz",
+        "description": "Ölü Deniz tuzları ve minerallerinden oluşan masmavi sularıyla dikkat çeken Dead Sea Resort'un tadını çıkaracaksınz. Güneşin tadını çıkarırken ve otel havuzunda yüzerken, ylezzetli Arap mutfağında yemek yiyip günün geri kalanı boyunca Ürdün Doğu Sahili'nin muhteşem manzaralarını izlerken otel personeli size yardımcı olmak için tüm gün orada olacak.."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Ölü Deniz'den Ayrılış",
+        "description": "Bir ömür boyu hayırlayacağınız maceranız bugün sona eriyor. Uçuşunuz geç saatte ise veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız, turistik yerleri keşfetmek için daha fazla zamanınız olacaktır. Ayrıca Amman havaalanına transfer talep ederseniz, bu konuda size yardımcı olabiliriz."
+      }
+    ],
+    "map": "",
+    "category": "Culture",
+    "route": [
+      {
+        "name": "Amman",
+        "country": "Jordan"
+      },
+      {
+        "name": "Jerash",
+        "country": "Jordan"
+      },
+      {
+        "name": "Umm Qais",
+        "country": "Jordan"
+      },
+      {
+        "name": "Madaba",
+        "country": "Jordan"
+      },
+      {
+        "name": "Mount Nebo",
+        "country": "Jordan"
+      },
+      {
+        "name": "Petra",
+        "country": "Jordan"
+      },
+      {
+        "name": "Wadi Rum",
+        "country": "Jordan"
+      },
+      {
+        "name": "Dead Sea",
+        "country": "Jordan"
+      },
+      {
+        "name": "Karak",
+        "country": "Jordan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Amman",
+        "country": "Ürdün",
+        "lat": 31.952248,
+        "lng": 35.932407
+      },
+      {
+        "name": "Jerash",
+        "country": "Ürdün",
+        "lat": 32.276337,
+        "lng": 35.893703
+      },
+      {
+        "name": "Umm Qais",
+        "country": "Ürdün",
+        "lat": 32.654033,
+        "lng": 35.68446
+      },
+      {
+        "name": "Madaba",
+        "country": "Ürdün",
+        "lat": 31.718527,
+        "lng": 35.792347
+      },
+      {
+        "name": "Petra",
+        "country": "Ürdün",
+        "lat": 30.321444,
+        "lng": 35.480034
+      },
+      {
+        "name": "Karak",
+        "country": "Ürdün",
+        "lat": 31.184722,
+        "lng": 35.704722
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "adventure-holiday-in-jordan",
     "tourName": "Ürdün'de Macera Tatili",
@@ -118,51 +462,57 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Amman",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 31.952248,
         "lng": 35.932407
       },
       {
         "name": "Jerash",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 32.276337,
         "lng": 35.893703
       },
       {
         "name": "Madaba",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 31.718527,
         "lng": 35.792347
       },
       {
         "name": "Petra",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 30.321444,
         "lng": 35.480034
       },
       {
-        "name": "Shobak Kalesi",
-        "country": "Ürdün",
+        "name": "Shobak Castle",
+        "country": "Jordan",
         "lat": 30.518513,
         "lng": 35.539623
       },
       {
         "name": "Aqaba",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 29.530264,
         "lng": 35.004093
+      },
+      {
+        "name": "Red Sea",
+        "country": "null",
+        "lat": 27.226487,
+        "lng": 33.835062
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "aqaba-diving-holiday-in-jordan-with-petra",
     "tourName": "Ürdün'de Aqaba dalış tatili, Petra ile birlikte",
@@ -256,33 +606,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Amman",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 31.952248,
         "lng": 35.932407
       },
       {
         "name": "Petra",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 30.321444,
         "lng": 35.480034
       },
       {
         "name": "Aqaba",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 29.530264,
         "lng": 35.004093
+      },
+      {
+        "name": "Red Sea",
+        "country": "Jordan",
+        "lat": 27.226487,
+        "lng": 33.835062
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "best-of-jordan-holiday-7-days",
     "tourName": "Ürdün'ün En İyisi tatili, 7 gün",
@@ -444,7 +800,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "christmas-and-new-year-jordan-tour",
     "tourName": "Noel ve Yeni Yıl Ürdün Turu",
@@ -611,7 +967,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "classic-jordan-highlights-tour",
     "tourName": "Klasik Ürdün Vurguları Turu",
@@ -783,7 +1139,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "exciting-family-holiday-in-jordan",
     "tourName": "Üvergöz Family Holiday in Jordan",
@@ -897,51 +1253,57 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Amman",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 31.952248,
         "lng": 35.932407
       },
       {
         "name": "Jerash",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 32.276337,
         "lng": 35.893703
       },
       {
         "name": "Ajlun",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 32.33252,
         "lng": 35.751705
       },
       {
         "name": "Petra",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 30.321444,
         "lng": 35.480034
       },
       {
-        "name": "Dana Doğa Koruma Alanı",
-        "country": "Ürdün",
+        "name": "Dana Nature Reserve",
+        "country": "Jordan",
         "lat": 30.675192,
         "lng": 35.610282
       },
       {
         "name": "Aqaba",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 29.530264,
         "lng": 35.004093
+      },
+      {
+        "name": "Red Sea",
+        "country": "Jordan",
+        "lat": 27.226487,
+        "lng": 33.835062
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "family-adventure-holiday-in-jordan",
     "tourName": "Ürdün'de Aile Macerası Tatili",
@@ -1094,7 +1456,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "family-holiday-to-jordan-journey-to-the-lost-city",
     "tourName": "Ailenizle Ürdün’e Tatil, Kayıp Şehre Yolculuk",
@@ -1211,63 +1573,69 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Amman",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 31.952248,
         "lng": 35.932407
       },
       {
-        "name": "Ajloun Orman Rezervi",
-        "country": "Ürdün",
+        "name": "Ajloun Forest Reserve",
+        "country": "Jordan",
         "lat": 32.33252,
         "lng": 35.751705
       },
       {
         "name": "Jerash",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 32.276337,
         "lng": 35.893703
       },
       {
         "name": "Madaba",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 31.718527,
         "lng": 35.792347
       },
       {
-        "name": "Dana Köyü",
-        "country": "Ürdün",
+        "name": "Dana Village",
+        "country": "Jordan",
         "lat": 30.675192,
         "lng": 35.610282
       },
       {
         "name": "Petra",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 30.321444,
         "lng": 35.480034
       },
       {
-        "name": "Küçük Petra",
-        "country": "Ürdün",
+        "name": "Little Petra",
+        "country": "Jordan",
         "lat": 30.321444,
         "lng": 35.480034
       },
       {
         "name": "Aqaba",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 29.530264,
         "lng": 35.004093
+      },
+      {
+        "name": "Red Sea",
+        "country": "Jordan",
+        "lat": 27.226487,
+        "lng": 33.835062
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "family-tour-of-jordan",
     "tourName": "Ürdün Aile Turu",
@@ -1430,7 +1798,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "highlights-of-jordan-holiday",
     "tourName": "Ürdün Tatili: Öne Çıkanlar",
@@ -1583,7 +1951,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-adventure-holiday",
     "tourName": "Ürdün Macera Tatili",
@@ -1759,7 +2127,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-adventure-tour",
     "tourName": "Ürdün Macera Turu",
@@ -1854,39 +2222,45 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Amman",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 31.952248,
         "lng": 35.932407
       },
       {
-        "name": "Küçük Petra",
-        "country": "Ürdün",
+        "name": "Little Petra",
+        "country": "Jordan",
         "lat": 30.321444,
         "lng": 35.480034
       },
       {
         "name": "Petra",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 30.321444,
         "lng": 35.480034
       },
       {
         "name": "Aqaba",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 29.530264,
         "lng": 35.004093
+      },
+      {
+        "name": "Red Sea",
+        "country": "null",
+        "lat": 27.226487,
+        "lng": 33.835062
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-and-saudi-arabia-tour",
     "tourName": "Ürdün ve Suudi Arabistan Turu",
@@ -2087,7 +2461,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-budget-tour-one-week",
     "tourName": "Ürdün bütçe turu, bir hafta",
@@ -2252,7 +2626,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-cultural-tour-petra-and-wadi-rum",
     "tourName": "Ürdün Kültürel Turu, Petra ve Wadi Rum",
@@ -2445,7 +2819,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-culture-holiday-with-camel-safari",
     "tourName": "Ürdün Kültür Tatili ve Deve Safarisi",
@@ -2578,7 +2952,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-family-holiday-the-lost-city-of-petra",
     "tourName": "Ürdün Ailesi Tatili, Petra'nın Kayıp Şehri",
@@ -2746,7 +3120,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-highlights-luxury-tour",
     "tourName": "Ürdün Öne Çıkanlar Lüks Turu",
@@ -2904,7 +3278,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-historical-tour",
     "tourName": "Ürdün Tarihi Turu",
@@ -3081,7 +3455,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-history-and-castles-tour",
     "tourName": "Ürdün Tarihi ve Şatolar Turu",
@@ -3378,7 +3752,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-holiday-a-week-in-jordan",
     "tourName": "Ürdün Tatili, Ürdün'de bir hafta",
@@ -3507,7 +3881,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-holiday-beyond-petra",
     "tourName": "Ürdün tatili, Petra'nın ötesinde",
@@ -3747,7 +4121,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-holiday-highlights-hidden-gems",
     "tourName": "Ürdün tatili, öne çıkanlar ve gizli hazineler",
@@ -3964,7 +4338,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-holiday-on-a-shoestring",
     "tourName": "Ücretli Jordan Tatili",
@@ -4097,7 +4471,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-holiday-small-group",
     "tourName": "Ürdün tatili, küçük grup",
@@ -4240,7 +4614,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-luxury-adventure-tour",
     "tourName": "Ürdün Lüks Macera Turu",
@@ -4393,7 +4767,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-luxury-tailor-made-tour",
     "tourName": "Ürdün Lüks Özel Turu",
@@ -4566,7 +4940,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-multi-sport-adventure-tour",
     "tourName": "Ürdün Çoklu Spor Macera Turu",
@@ -4699,7 +5073,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-perseid-meteor-shower-tour",
     "tourName": "Ürdün Perseid meteor yağmuru turu",
@@ -4837,7 +5211,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-photography-tour",
     "tourName": "Ürdün Fotoğraf Turu",
@@ -4994,7 +5368,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-self-drive-holiday",
     "tourName": "Ürdün kendi kendine sürüş tatili",
@@ -5121,49 +5495,55 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Aman",
-        "country": "Ürdün",
+        "name": "Amman",
+        "country": "Jordan",
         "lat": 31.952248,
         "lng": 35.932407
       },
       {
         "name": "Jerash",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 32.276337,
         "lng": 35.893703
       },
       {
         "name": "Madaba",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 31.718527,
         "lng": 35.792347
       },
       {
-        "name": "Karak Şövalyeleri Kalesi",
-        "country": "Ürdün",
+        "name": "Karak Crusaders castle",
+        "country": "Jordan",
         "lat": 31.184722,
         "lng": 35.704722
       },
       {
         "name": "Petra",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 30.321444,
         "lng": 35.480034
       },
       {
-        "name": "Akabe",
-        "country": "Ürdün",
+        "name": "Aqaba",
+        "country": "Jordan",
         "lat": 29.530264,
         "lng": 35.004093
       },
       {
-        "name": "Wadi Araba Çölü",
-        "country": "Ürdün",
+        "name": "Red Sea",
+        "country": "Jordan",
+        "lat": 27.226487,
+        "lng": 33.835062
+      },
+      {
+        "name": "Wadi Araba desert",
+        "country": "Jordan",
         "lat": 29.526648,
         "lng": 35.007543
       }
@@ -5171,7 +5551,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-small-group-escorted-tour",
     "tourName": "Ürdün Küçük Grup Rehberli Tur",
@@ -5352,7 +5732,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-small-group-holiday",
     "tourName": "Ürdün Küçük Grup Tatili",
@@ -5453,31 +5833,37 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Amman",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 31.952248,
         "lng": 35.932407
       },
       {
-        "name": "Akaba",
-        "country": "Ürdün",
+        "name": "Aqaba",
+        "country": "Jordan",
         "lat": 29.530264,
         "lng": 35.004093
       },
       {
+        "name": "Red Sea",
+        "country": "null",
+        "lat": 27.226487,
+        "lng": 33.835062
+      },
+      {
         "name": "Petra",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 30.321444,
         "lng": 35.480034
       },
       {
         "name": "Jerash",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 32.276337,
         "lng": 35.893703
       }
@@ -5485,7 +5871,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-small-group-tour-for-under-35s",
     "tourName": "35 yaş altı için Ürdün küçük grup turu",
@@ -5629,7 +6015,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-small-group-tour",
     "tourName": "Ürdün Küçük Grup Turu",
@@ -5762,7 +6148,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-tailor-made-holiday",
     "tourName": "Ürdün Özel Tatil",
@@ -5852,7 +6238,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "jordan-wildlife-and-nature-tour",
     "tourName": "Jordanya yaban hayatı ve doğa turu",
@@ -6058,7 +6444,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "lebanon-and-jordan-tour",
     "tourName": "Lübnan ve Ürdün Turu",
@@ -6330,7 +6716,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "luxury-history-tour-of-jordan",
     "tourName": "Ürdün'ün Lüks Tarih Turu",
@@ -6562,7 +6948,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "petra-to-the-pyramids-holiday",
     "tourName": "Petra'dan Piramitlere Tatil",
@@ -6814,7 +7200,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "short-break-to-petra-jordan",
     "tourName": "Ürdün, Petra'ya Kısa Ara",
@@ -6932,7 +7318,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "small-group-tour-of-jordan",
     "tourName": "Ürdün Küçük Grup Turu",
@@ -7100,7 +7486,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "south-jordan-short-break",
     "tourName": "Güney Ürdün Kısa Molası",
@@ -7200,7 +7586,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "tailor-made-holidays-to-jordan",
     "tourName": "Ürdün'e Özel Tatil Turları",
@@ -7323,51 +7709,57 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Amman",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 31.952248,
         "lng": 35.932407
       },
       {
         "name": "Jerash",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 32.276337,
         "lng": 35.893703
       },
       {
-        "name": "Ajloun Milli Parkı",
-        "country": "Ürdün",
+        "name": "Ajloun National Park",
+        "country": "Jordan",
         "lat": 32.33252,
         "lng": 35.751705
       },
       {
         "name": "Petra",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 30.321444,
         "lng": 35.480034
       },
       {
         "name": "Kerak",
-        "country": "Ürdün",
+        "country": "Jordan",
         "lat": 31.18498,
         "lng": 35.70423
       },
       {
-        "name": "Dana Doğa Koruma Alanı",
-        "country": "Ürdün",
+        "name": "Dana Nature Reserve",
+        "country": "Jordan",
         "lat": 30.675192,
         "lng": 35.610282
+      },
+      {
+        "name": "Sea of Galilee",
+        "country": "Jordan",
+        "lat": 40.945847,
+        "lng": 40.266544
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "treasures-of-jordan-small-group-tour-with-added-comfort",
     "tourName": "Ürdün’ün Hazineleri, ek konforlu küçük grup turu",
@@ -7535,7 +7927,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "winter-activity-holiday-in-jordan",
     "tourName": "Ürdün'de Kış Aktiviteleri Tatili",
@@ -7672,7 +8064,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "14-day-itinerary-to-israel-with-unfrequented-destinations",
     "tourName": "14 Günlük İsrail İleri Yaş Seyahati yerine Olmayan Destinasyonlar",
@@ -7857,7 +8249,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "from-petra-to-the-pyramids-the-complete-highlights-of-jordan-egypt-tour",
     "tourName": "Petra'dan Piramitlere: Ürdün ve Mısır'ın Tam Normları Turu",
@@ -8052,7 +8444,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "mystique-of-ancient-realms-an-egypt-jordan-adventure-tour",
     "tourName": "Antik Krallıkların Gizemi: Mısır ve Ürdün Macera Turu",
@@ -8236,7 +8628,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "signature-five-star-egypt-and-jordan-tour",
     "tourName": "İmza Beş Yıldızlı Mısır ve Ürdün Turu",
@@ -8401,7 +8793,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Jordan",
+    "destination": "Ürdün",
     "mainPhoto": "",
     "id": "stunning-natural-beauty-of-middle-east-sea-to-mountain-to-desert-tour",
     "tourName": "Orta Doğu'nun Göz Kamaştırıcı Doğal Güzellikleri: Denizden Dağa, Çöl Turu",

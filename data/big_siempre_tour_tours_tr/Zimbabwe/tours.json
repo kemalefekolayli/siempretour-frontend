@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "game-count-safari-at-hwange-national-park-zimbabwe",
     "tourName": "Hwange Ulusal Parkı, Zimbabwe'de Oyun Sayım Safarisi",
@@ -81,7 +81,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "hwange-safari-in-zimbabwe-tailor-made",
     "tourName": "Zimbabve'de Hwange safari, özel tasarım",
@@ -155,27 +155,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelaleleri",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
-        "name": "Hwange Ulusal Parkı",
-        "country": "Zimbabve",
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
         "lat": -18.372772,
         "lng": 26.50795
+      },
+      {
+        "name": "Deteema Springs",
+        "country": "Zimbabwe",
+        "lat": -26.24423,
+        "lng": 28.430613
+      },
+      {
+        "name": "Verney's Camp",
+        "country": "Zimbabwe",
+        "lat": -22.90286,
+        "lng": -47.057137
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "victoria-falls-hwange-and-mana-pools-zimbabwe",
     "tourName": "Victoria Şelalesi, Hwange ve Mana Pools, Zimbabve",
@@ -285,7 +297,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "victoria-falls-photography-holiday-zimbabwe",
     "tourName": "Victoria Falls fotoğraf tatili, Zimbabwe",
@@ -311,7 +323,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "zimbabwe-camping-safari",
     "tourName": "Zimbabve kamp safarisi",
@@ -431,7 +443,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "zimbabwe-family-safari",
     "tourName": "Zimbabye aile safarisi",
@@ -522,7 +534,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "zimbabwe-holidays-tailormade",
     "tourName": "Zimbabve tatilleri, özel tasarım",
@@ -677,7 +689,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "zimbabwe-riding-safari-holiday",
     "tourName": "Zimbabve atlı safari tatili",
@@ -778,7 +790,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "zimbabwe-safari-holiday-tailor-made",
     "tourName": "Zimbabwe safari tatili, özel olarak hazırlanmış",
@@ -853,39 +865,45 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelalesi",
+        "name": "Victoria Falls",
         "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
-        "name": "Linkwasha İzni",
+        "name": "Linkwasha Concession",
         "country": "Zimbabwe",
         "lat": -17.372672,
         "lng": 30.952824
       },
       {
-        "name": "Hwange Ulusal Parkı",
+        "name": "Hwange National Park",
         "country": "Zimbabwe",
         "lat": -18.372772,
         "lng": 26.50795
       },
       {
-        "name": "Kariba Gölü",
+        "name": "Lake Kariba",
         "country": "Zimbabwe",
         "lat": -16.527274,
         "lng": 28.775548
+      },
+      {
+        "name": "Zambezi River",
+        "country": "Zimbabwe",
+        "lat": -22.909534,
+        "lng": -43.209934
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "zimbabwe-safari-tour-tailor-made",
     "tourName": "Zimbabwe safari turu, özel yapım",
@@ -986,7 +1004,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "zimbabwe-tailor-made-holiday",
     "tourName": "Zimbabve özel tatil",
@@ -1071,7 +1089,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "zimbabwe-tailor-made-holidays",
     "tourName": "Zimbabve’e özel tatiller",
@@ -1200,7 +1218,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "zimbabwe-wildlife-holidays",
     "tourName": "Zimbabve yaban hayatı tatilleri",
@@ -1294,7 +1312,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "best-of-zimbabwe-and-chobe-private-safari",
     "tourName": "Zimbabve ve Chobe Özel Safarisi'nin En İyileri",
@@ -1389,19 +1407,25 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelalesi",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
-        "name": "Hwange Ulusal Parkı",
-        "country": "Zimbabve",
+        "name": "Chobe National Park",
+        "country": "null",
+        "lat": -17.799239,
+        "lng": 25.156546
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
         "lat": -18.372772,
         "lng": 26.50795
       }
@@ -1409,7 +1433,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "best-of-zimbabwe-safari-exclusive-camps-and-experiences",
     "tourName": "Zimbabahve'nin En İyisi Safari: Özel Kamplar ve Deneyimler",
@@ -1543,31 +1567,37 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelalesi",
-        "country": "Zimbabahve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
-        "name": "Hwange Ulusal Parkı",
-        "country": "Zimbabahve",
+        "name": "Zambezi River",
+        "country": "Zimbabwe",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
         "lat": -18.372772,
         "lng": 26.50795
       },
       {
-        "name": "Kariba Gölü",
-        "country": "Zimbabahve",
+        "name": "Lake Kariba",
+        "country": "Zimbabwe",
         "lat": -16.527274,
         "lng": 28.775548
       },
       {
-        "name": "Matobo Tepeleri Ulusal Parkı",
-        "country": "Zimbabahve",
+        "name": "Matobo Hills National Park",
+        "country": "Zimbabwe",
         "lat": -20.412101,
         "lng": 28.471157
       }
@@ -1575,7 +1605,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "best-of-zimbabwe-safari-in-12-days",
     "tourName": "Zimbabve'nin En İyisi Safarisi - 12 Günde",
@@ -1694,7 +1724,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "exclusive-zimbabwe-safari-the-best-camps-for-africas-most-authentic-safari",
     "tourName": "Özel Zimbabve Safari: Afrika'nın En Gerçek Safarisi İçin En İyi Kamplar",
@@ -1813,7 +1843,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "into-the-wild-zimbabwe-walking-canoeing-safari",
     "tourName": "Yerli Hayatın İzinde: Zimbabve Yürüyüş ve Kano Safarisi",
@@ -1937,7 +1967,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "luxury-highlights-of-zimbabwe-safari-in-10-days",
     "tourName": "Zimbabve'de 10 Günlük Lüks Safari İhtişamı",
@@ -2047,25 +2077,31 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Hwange Ulusal Parkı",
-        "country": "Zimbabve",
+        "name": "Zambezi River",
+        "country": "Zimbabwe",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
         "lat": -18.372772,
         "lng": 26.50795
       },
       {
-        "name": "Makalolo İzni",
-        "country": "Zimbabve",
+        "name": "Makalolo Concession",
+        "country": "Zimbabwe",
         "lat": -17.372672,
         "lng": 30.952824
       },
       {
-        "name": "Victoria Şelaleleri",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       }
@@ -2073,7 +2109,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "multi-country-zimbabwe-and-zambia-safari",
     "tourName": "Çok Ülkeli Zimbabve ve Zambiya Safari",
@@ -2192,31 +2228,31 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Harare",
-        "country": "Zimbabve",
+        "country": "Zimbabwe",
         "lat": -17.831773,
         "lng": 31.045686
       },
       {
-        "name": "Kariba Gölü",
-        "country": "Zimbabve",
+        "name": "Lake Kariba",
+        "country": "Zimbabwe",
         "lat": -16.527274,
         "lng": 28.775548
       },
       {
-        "name": "Hwange Ulusal Parkı",
-        "country": "Zimbabve",
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
         "lat": -18.372772,
         "lng": 26.50795
       },
       {
-        "name": "Victoria Şelalesi",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
@@ -2227,7 +2263,13 @@
         "lng": 25.861429
       },
       {
-        "name": "Lower Zambezi Ulusal Parkı",
+        "name": "Zambezi River",
+        "country": "Zimbabwe",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Lower Zambezi National Park",
         "country": "Zambia",
         "lat": -13.550083,
         "lng": 23.115208
@@ -2242,7 +2284,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "raw-africa-safari-in-zimbabwes-unknown-parks",
     "tourName": "Ham Afrika: Zimbabve'nin Bilinmeyen Parklarında Safari",
@@ -2369,7 +2411,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "romantic-zimbabwe-safari-for-couples",
     "tourName": "Romantik Zimbabwe Safari Çiftler için",
@@ -2483,9 +2525,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Harare",
@@ -2500,28 +2542,34 @@
         "lng": 28.775548
       },
       {
-        "name": "Bazaruto Takımadası",
-        "country": "Mozambik",
+        "name": "Bazaruto Archipelago",
+        "country": "Mozambique",
         "lat": -15.033279,
         "lng": 40.737503
       },
       {
-        "name": "Benguerra Adası",
-        "country": "Mozambik",
+        "name": "Benguerra Island",
+        "country": "Mozambique",
         "lat": -15.033279,
         "lng": 40.737503
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
+      },
+      {
+        "name": "Mozambique",
+        "country": "Zimbabwe",
+        "lat": -15.033279,
+        "lng": 40.737503
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "signature-one-week-zimbabwe-safari",
     "tourName": "İmza Bir Haftalık Zimbabve Safari",
@@ -2610,19 +2658,25 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelalesi",
-        "country": "Zimbabve",
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
-        "name": "Hwange Ulusal Parkı",
-        "country": "Zimbabve",
+        "name": "Zambezi River",
+        "country": "Zimbabwe",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
         "lat": -18.372772,
         "lng": 26.50795
       }
@@ -2630,7 +2684,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "zimbabwe-dry-season-safari-june-to-september",
     "tourName": "Zimbabve Kuru Sezon Safari: Haziran - Eylül",
@@ -2741,25 +2795,31 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelalesi",
-        "country": "Zimbabve",
+        "name": "Zambezi River",
+        "country": "Zimbabwe",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
-        "name": "Hwange Ulusal Parkı",
-        "country": "Zimbabve",
+        "name": "Hwange National Park",
+        "country": "Zimbabwe",
         "lat": -18.372772,
         "lng": 26.50795
       },
       {
-        "name": "Kariba Gölü",
-        "country": "Zimbabve",
+        "name": "Lake Kariba",
+        "country": "Zimbabwe",
         "lat": -16.527274,
         "lng": 28.775548
       }
@@ -2767,7 +2827,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Zimbabwe",
+    "destination": "Zimbabve",
     "mainPhoto": "",
     "id": "zimbabwe-green-season-safari-december-to-march",
     "tourName": "Zimbabve Yeşil Mevsim Safari: Aralık - Mart",
@@ -2864,24 +2924,30 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Victoria Şelaleleri",
+        "name": "Victoria Falls",
         "country": "Zimbabwe",
         "lat": -17.941389,
         "lng": 25.826298
       },
       {
-        "name": "Hwange Milli Parkı",
+        "name": "Zambezi River",
+        "country": "Zimbabwe",
+        "lat": -22.909534,
+        "lng": -43.209934
+      },
+      {
+        "name": "Hwange National Park",
         "country": "Zimbabwe",
         "lat": -18.372772,
         "lng": 26.50795
       },
       {
-        "name": "Matobo Tepeleri Milli Parkı",
+        "name": "Matobo Hills National Park",
         "country": "Zimbabwe",
         "lat": -20.412101,
         "lng": 28.471157

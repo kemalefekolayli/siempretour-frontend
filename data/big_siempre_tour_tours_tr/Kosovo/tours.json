@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Kosovo",
+    "destination": "Kosova",
     "mainPhoto": "",
     "id": "kosovo-multi-activity-holiday",
     "tourName": "Kosova çok etkinlikli tatil",
@@ -117,57 +117,81 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Prishtina",
-        "country": "Kosova",
+        "country": "Kosovo",
         "lat": 42.663877,
         "lng": 21.164085
       },
       {
         "name": "Peja",
-        "country": "Kosova",
+        "country": "Kosovo",
         "lat": 42.659399,
         "lng": 20.288576
       },
       {
         "name": "Rugova",
-        "country": "Kosova",
+        "country": "Kosovo",
         "lat": 42.330958,
         "lng": 20.5779
       },
       {
-        "name": "Beyaz Drini Doğal Parkı",
-        "country": "Kosova",
+        "name": "Liqenati Mountain Lakes",
+        "country": "Kosovo",
+        "lat": 41.911163,
+        "lng": 24.702593
+      },
+      {
+        "name": "Accursed Mountains",
+        "country": "Kosovo",
+        "lat": 41.911163,
+        "lng": 24.702593
+      },
+      {
+        "name": "White Drini Natural Park",
+        "country": "Kosovo",
         "lat": 43.133056,
         "lng": 20.768124
       },
       {
-        "name": "Batllava Gölü",
-        "country": "Kosova",
+        "name": "Sleeping Beauty Cave",
+        "country": "Kosovo",
+        "lat": 31.648848,
+        "lng": 74.883026
+      },
+      {
+        "name": "Batllava Lake",
+        "country": "Kosovo",
         "lat": 42.836741,
         "lng": 21.252817
       },
       {
         "name": "Prizren",
-        "country": "Kosova",
+        "country": "Kosovo",
         "lat": 42.213015,
         "lng": 20.736334
       },
       {
-        "name": "Sharr Dağları",
-        "country": "Kosova",
+        "name": "Sharr Mountains",
+        "country": "Kosovo",
         "lat": 42.061581,
         "lng": 20.653367
+      },
+      {
+        "name": "Mt. Korab",
+        "country": "Kosovo",
+        "lat": 39.027701,
+        "lng": -83.91972
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Kosovo",
+    "destination": "Kosova",
     "mainPhoto": "",
     "id": "north-albania-and-kosovo-guided-tour",
     "tourName": "Kuzey Arnavutluk ve Kosova rehberli turu",
@@ -328,109 +352,127 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Sofia",
-        "country": "Bulgaristan",
+        "country": "Bulgaria",
         "lat": 42.69489,
         "lng": 23.320782
       },
       {
         "name": "Melnik",
-        "country": "Bulgaristan",
+        "country": "Bulgaria",
         "lat": 41.522942,
         "lng": 23.393246
       },
       {
-        "name": "Pirin Dağları",
-        "country": "Bulgaristan",
+        "name": "Pirin Mountains",
+        "country": "Bulgaria",
         "lat": 41.546165,
         "lng": 23.561146
       },
       {
         "name": "Bitola",
-        "country": "Kuzey Makedonya",
+        "country": "North Macedonia",
         "lat": 41.031601,
         "lng": 21.330251
       },
       {
         "name": "Ohrid",
-        "country": "Kuzey Makedonya",
+        "country": "North Macedonia",
         "lat": 41.11702,
         "lng": 20.801739
       },
       {
         "name": "Kalishta",
-        "country": "Kuzey Makedonya",
+        "country": "North Macedonia",
         "lat": 41.152956,
         "lng": 20.649887
       },
       {
         "name": "Radozda",
-        "country": "Kuzey Makedonya",
+        "country": "North Macedonia",
         "lat": 41.104549,
         "lng": 20.633154
       },
       {
         "name": "Skopje",
-        "country": "Kuzey Makedonya",
+        "country": "North Macedonia",
         "lat": 41.996092,
         "lng": 21.43165
       },
       {
         "name": "Prizren",
-        "country": "Kosova",
+        "country": "Kosovo",
         "lat": 42.213015,
         "lng": 20.736334
       },
       {
+        "name": "Prekaz",
+        "country": "Kosovo",
+        "lat": 59.29147,
+        "lng": 40.717579
+      },
+      {
+        "name": "Gazimestan",
+        "country": "Kosovo",
+        "lat": 41.911163,
+        "lng": 24.702593
+      },
+      {
         "name": "Prishtina",
-        "country": "Kosova",
+        "country": "Kosovo",
         "lat": 42.663877,
         "lng": 21.164085
       },
       {
         "name": "Gracanica",
-        "country": "Kosova",
+        "country": "Kosovo",
         "lat": 42.599971,
         "lng": 21.192285
       },
       {
+        "name": "Ulpiana",
+        "country": "Kosovo",
+        "lat": 41.911163,
+        "lng": 24.702593
+      },
+      {
         "name": "Peja",
-        "country": "Kosova",
+        "country": "Kosovo",
         "lat": 42.659399,
         "lng": 20.288576
       },
       {
         "name": "Visoki Decani",
-        "country": "Kosova",
+        "country": "Kosovo",
         "lat": 42.540224,
         "lng": 20.28822
       },
       {
         "name": "Gjakova",
-        "country": "Kosova",
+        "country": "Kosovo",
         "lat": 42.379879,
         "lng": 20.431623
       },
       {
         "name": "Valbona",
-        "country": "Arnavutluk",
+        "country": "Albania",
         "lat": 42.453137,
         "lng": 19.893176
       },
       {
-        "name": "Koman Gölü",
-        "country": "Arnavutluk",
+        "name": "Lake Koman",
+        "country": "Albania",
         "lat": 42.09536,
         "lng": 19.81155
       },
       {
         "name": "Rubik",
-        "country": "Arnavutluk",
+        "country": "Albania",
         "lat": 41.773561,
         "lng": 19.784286
       }

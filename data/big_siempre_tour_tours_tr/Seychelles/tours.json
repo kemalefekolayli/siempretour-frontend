@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Seychelles",
+    "destination": "Seyşeller",
     "mainPhoto": "",
     "id": "praslin-and-denis-island-holiday-in-the-seychelles",
     "tourName": "Seyşeller'de Praslin ve Denis Adası tatili",
@@ -93,21 +93,33 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Seychelles",
+        "country": "Seychelles",
+        "lat": 45.80401,
+        "lng": 3.339349
       },
       {
         "name": "La Digue",
-        "country": "Seyşeller",
+        "country": "Seychelles",
         "lat": -4.359773,
         "lng": 55.838233
+      },
+      {
+        "name": "Mahe",
+        "country": "Seychelles",
+        "lat": 32.00362,
+        "lng": 35.784817
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Seychelles",
+    "destination": "Seyşeller",
     "mainPhoto": "",
     "id": "seychelles-8-day-sailing-cruise",
     "tourName": "Seyşeller 8 Günlük Yelkenli Cruise",
@@ -228,19 +240,25 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Mahe",
+        "country": "Seychelles",
+        "lat": 32.00362,
+        "lng": 35.784817
       },
       {
         "name": "Baie St Anne",
-        "country": "Seyşeller",
+        "country": "Seychelles",
         "lat": -4.321972,
         "lng": 55.750249
       },
       {
         "name": "La Digue",
-        "country": "Seyşeller",
+        "country": "Seychelles",
         "lat": -4.359773,
         "lng": 55.838233
       }
@@ -248,7 +266,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Seychelles",
+    "destination": "Seyşeller",
     "mainPhoto": "",
     "id": "seychelles-island-hopping-holiday",
     "tourName": "Seyşel Adaları Ziyaret Turu",
@@ -350,19 +368,25 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Mahe",
+        "country": "Seychelles",
+        "lat": 32.00362,
+        "lng": 35.784817
       },
       {
         "name": "La Digue",
-        "country": "Seyşeller",
+        "country": "Seychelles",
         "lat": -4.359773,
         "lng": 55.838233
       },
       {
         "name": "Victoria",
-        "country": "Seyşeller",
+        "country": "Seychelles",
         "lat": -4.620366,
         "lng": 55.454901
       }
@@ -370,7 +394,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Seychelles",
+    "destination": "Seyşeller",
     "mainPhoto": "",
     "id": "seychelles-mini-cruise",
     "tourName": "Seyşeller mini kruvaziyer",
@@ -460,13 +484,19 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Mahe",
+        "country": "Seychelles",
+        "lat": 32.00362,
+        "lng": 35.784817
       },
       {
         "name": "Baie St. Anne",
-        "country": "Seyşeller",
+        "country": "Seychelles",
         "lat": -4.321972,
         "lng": 55.750249
       }
@@ -474,7 +504,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Seychelles",
+    "destination": "Seyşeller",
     "mainPhoto": "",
     "id": "seychelles-small-ship-cruise-7-days",
     "tourName": "Seyşeller küçük gemi turu, 7 gün",
@@ -595,19 +625,25 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Mahé",
+        "country": "Seychelles",
+        "lat": 32.00362,
+        "lng": 35.784817
       },
       {
         "name": "Baie Sainte Anne",
-        "country": "Seyşeller",
+        "country": "Seychelles",
         "lat": -4.321972,
         "lng": 55.750249
       },
       {
         "name": "La Digue",
-        "country": "Seyşeller",
+        "country": "Seychelles",
         "lat": -4.359773,
         "lng": 55.838233
       }
@@ -615,7 +651,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Seychelles",
+    "destination": "Seyşeller",
     "mainPhoto": "",
     "id": "zanzibar-to-the-seychelles-sailing-expedition",
     "tourName": "Zanzibar'dan Seyşeller'e Yelken Yolculuğu",
@@ -710,27 +746,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Stone Town",
-        "country": "Tanzanya",
+        "country": "Tanzania",
         "lat": -6.156214,
         "lng": 39.204181
       },
       {
-        "name": "Pemba Adası",
-        "country": "Tanzanya",
+        "name": "Pemba Island",
+        "country": "Tanzania",
         "lat": -5.999957,
         "lng": 37.515777
       },
       {
+        "name": "Indian Ocean",
+        "country": "Seychelles",
+        "lat": -22.366481,
+        "lng": 40.346572
+      },
+      {
         "name": "Victoria",
-        "country": "Seyşeller",
+        "country": "Seychelles",
         "lat": -4.620366,
         "lng": 55.454901
+      },
+      {
+        "name": "Mahé",
+        "country": "Seychelles",
+        "lat": 32.00362,
+        "lng": 35.784817
       }
     ],
     "__trTranslated": true

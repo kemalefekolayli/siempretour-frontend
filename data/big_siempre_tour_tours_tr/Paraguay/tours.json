@@ -115,9 +115,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Asuncion",
@@ -151,9 +151,15 @@
       },
       {
         "name": "Foz do Iguazu",
-        "country": "Brezilya",
+        "country": "Brazil",
         "lat": -25.542088,
         "lng": -54.58742
+      },
+      {
+        "name": "Iguazu Falls",
+        "country": "Paraguay",
+        "lat": 38.882264,
+        "lng": -77.171148
       }
     ],
     "__trTranslated": true

@@ -1,6 +1,482 @@
 [
   {
-    "destination": "Morocco",
+    "destination": "Fas",
+    "mainPhoto": "",
+    "id": "RMOBM",
+    "tourName": "Fas'ın En İyileri",
+    "placesVisited": "Fas",
+    "generalInfo": "Bu Kuzey Afrika macera turunda Fas'ın minarelerinin ve medinelerinin büyüsünü keşfedin. Marakeş Djemaa el-Fna meydanı, yılan büyücüleri, mistik kimseler ve müzisyenler ile dikkat çekiyor. Sahile doğru ilerlediğimizde plajlara ve Essaouira'nın çarpıcı kalesine gidiyoruz. Özellikleri arasında Orta Çağ pazarları ve Fes'deki renkli boya çukurları, Volubilis'in Roma kalıntıları, Sahra Çölü boyunca bir gece deve safarisi ve Todra Gorge'nin yüksek uçurumları sayılabilir.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş): </strong>Marrakech Menara Havalimanı (RAK)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş): </strong>Marrakech Menara Havalimanı (RAK)",
+    "durationDays": "15",
+    "price": "1179",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "12",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>- Varış transferi</li>\n<li>- Rabat Turu</li>\n<li>- Tam gün Fes Turu</li>\n<li>- Develerle Gezi / Berber Kampı</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<ul>\n<li>- 13 gece otel,  1 gece Berber Kampı</li>\n</ul>\n<p><strong>Taşımacılık</strong></p>\n<ul>\n<li>- Özel Araçlar, 4x4 , Deve</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 5 Akşam Yemeği, 14 Kahvaltı, 3 Öğle Yemeği</li>\n</ul>\n<p><strong>Diğer</strong></p>\n<ul>\n<li>- Siempre Tur tur lideri , Siempre Tur Şoförü</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Marakeş'e Varış",
+        "description": "Fas'ın gözde şehirlerinden biri olan Marakeş'e hoş geldiniz. Ülkenin “güneydeki incisi” olarak bilinir ve Atlas Dağları'nın muhteşem zirveleri ile çevrilidir. Zamanında bir adım atın ve rehberli bir şehir turunda antik Medine'de pazarlar ve baharat pazarlarının hayretiyle kendinizi kaybedin. Parlak mavi gökyüzüne karşı başınızın üstünde kurumaya çalışan renkli yün çilelerinin altındaki tezgahları hayranlıkla dolaşın. Skooterla giderken,yerel halkın yanı sıra eşeklerden de kaçının ve özenle dekore edilmiş, prinç lambalarla kaplı dar yollardan dikkatlice geçin. Esnafları, ürünlerini satmalarını izleyin. Dost  bir satıcı ile şakalaşmanın ve alışverişin tadını çıkarın, daha sonra yenilenmek için geleneksel bir nane çayı veya kalın Fas kahvesinde şımartın."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Casablanca",
+        "description": "Kazablanka Müzikali'nde, Humphrey Bogart tarafından ünlenen Kazablanka'ya gidiyoruz. Burada 25.000 insanın ibadet edebildiği, II. Hasan Camii'ni ziyaret edebilirsiniz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Meknes",
+        "description": "Sabahı, Rabat'ta Oudaia Kasbah, Hassan kulesi, Kraliyet sarayı ve Chellah'ı ziyaret ederek geçiriyoruz. Öğle yemeğinden sonra, dinlenmek için boş zamanların tadını çıkarabileceğiniz imparatorluk şehri Meknes'e doğru yola çıkıyoruz."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Chefchaouen",
+        "description": "Chefchaouen'e giderken, Fas'ın en eski bölgesi olan Milattan Sonra 40'a kadar uzanan Volubilis'in Roma kalıntılarını ziyaret ediyoruz. UNESCO tarafından listelenen bir site olan Roma yerleşimi bir zamanlar Moritanya vilayetini yönetmiştir.."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Fes",
+        "description": "Chefchaouen'de keyifli bir sabah geçirdikten sonra öğleden sonra Fes'e gidiyoruz. Burada, şehrin büyüleyici tarihi hakkında bilgi edinerek, Fes'te rehberli bir turun tadını çıkartıyoruz.bir site olan Roma yerleşimi bir zamanlar Moritanya vilayetini yönetmiştir."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Midelt",
+        "description": "Bugün Moyen Atlas'a gidiyoruz ve Midelt'de duruyoruz. Güzel dağ ortamının keyfini çıkarın ve öğleden sonraları küçük bir yürüyüşe çıkın."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Sahara Çölü",
+        "description": "Bugün, muhteşem Sahara Çölü'ne doğru uzanan doğal bir sürüşün tadını çıkarabiliriz. Lezzetli bir Fas öğle yemeği ve öğleden sonra yüzmek ve rahatlamak için duruyoruz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Todra Gorge",
+        "description": "Bu sabah Ait Benhaddou'ya veda ediyoruz ve renkli balıkçı kasabası Essaouira'ya gidiyoruz."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Aït Benhaddou",
+        "description": "Bugün Todra Gorge'a veda ediyoruz."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Essaouira",
+        "description": "Bugün Todra Gorge'a veda ediyoruz."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Marrakech",
+        "description": "Hayranlık uyandıran Matobo Tepeleri'nde yer alan ve toplam 44.500 hektarlık bir alanı kaplayan Matobo Ulusal Parkı, büyük bir siyah-beyaz gergedan popülasyonunun başarıyla ürediği bir koruma bölgesine ev sahipliği yapmaktadır. 1953 yılında kurulan park, 2003 yılında UNESCO Dünya Mirası statüsüne layık görülmüştür."
+      },
+      {
+        "dayNumber": 15,
+        "title": "Depart Marrakech",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç bir uçuşunuz varsa veya konaklama turu ekleyerek konaklamanızı uzattıysanız, turistik yerleri keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Culture",
+    "route": [
+      {
+        "name": "Marrakech",
+        "country": "Morocco"
+      },
+      {
+        "name": "Casablanca",
+        "country": "Morocco"
+      },
+      {
+        "name": "Rabat",
+        "country": "Morocco"
+      },
+      {
+        "name": "Meknes",
+        "country": "Morocco"
+      },
+      {
+        "name": "Chefchaouen",
+        "country": "Morocco"
+      },
+      {
+        "name": "Volubilis",
+        "country": "Morocco"
+      },
+      {
+        "name": "Fes",
+        "country": "Morocco"
+      },
+      {
+        "name": "Midelt",
+        "country": "Morocco"
+      },
+      {
+        "name": "Sahara Desert",
+        "country": "Morocco"
+      },
+      {
+        "name": "Todra Gorge",
+        "country": "Morocco"
+      },
+      {
+        "name": "Aït Benhaddou",
+        "country": "Morocco"
+      },
+      {
+        "name": "Essaouira",
+        "country": "Morocco"
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Marrakeş",
+        "country": "Fas",
+        "lat": 31.626928,
+        "lng": -7.988117
+      },
+      {
+        "name": "Kazablanka",
+        "country": "Fas",
+        "lat": 33.594074,
+        "lng": -7.621656
+      },
+      {
+        "name": "Rabat",
+        "country": "Fas",
+        "lat": 34.016323,
+        "lng": -6.834995
+      },
+      {
+        "name": "Meknes",
+        "country": "Fas",
+        "lat": 33.899357,
+        "lng": -5.547927
+      },
+      {
+        "name": "Şefşaun",
+        "country": "Fas",
+        "lat": 35.167957,
+        "lng": -5.261387
+      },
+      {
+        "name": "Fes",
+        "country": "Fas",
+        "lat": 34.034294,
+        "lng": -5.017115
+      },
+      {
+        "name": "Midelt",
+        "country": "Fas",
+        "lat": 32.6797,
+        "lng": -4.735672
+      },
+      {
+        "name": "Essaouira",
+        "country": "Fas",
+        "lat": 31.513723,
+        "lng": -9.771017
+      },
+      {
+        "name": "Marrakeş",
+        "country": "Fas",
+        "lat": 31.626928,
+        "lng": -7.988117
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Fas",
+    "mainPhoto": "",
+    "id": "RMOHMM",
+    "tourName": "Fas'ın Önemli Noktaları",
+    "placesVisited": "Fas",
+    "generalInfo": "Fas'a yapılacak bu egzotik macera, baştan çıkarıcı bir deneyim sunuyor. Bir Berber kampında kalmak için Sahara çölünün derinliklerinde deve ile yolculuk yapmadan önce, Fes'teki ortaçağ kalıntılarının üzerini açın. Todra Gorge'nin duvarlarındaki renklerin nasıl değiştiğine hayran olun ve Marakeş'teki pazarlarda kaybolun.",
+    "durationDays": "9",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "12",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Dahil Olan Hizmetler</strong></p>\n<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>- Varış transferi</li>\n<li>- Rabat Turu</li>\n<li>- Rehber eşliğinde Volubilis turu</li>\n<li>- Tam gün Fes Turu</li>\n<li>- Develerle Gezi / Berber Kampı</li>\n<li>- Rehber eşliğinde Ait Benhaddou turu</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<ul>\n<li>- 7 gece otel,  1 gece Berber Kampı</li>\n</ul>\n<p><strong>Taşımacılık</strong></p>\n<ul>\n<li>- Özel Araçlar, Deve</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 6 Akşam Yemeği,  8 Kahvaltı, 1 Öğle Yemeği</li>\n</ul>\n<p><strong>Diğer</strong></p>\n<ul>\n<li>- Siempre Tur tur lideri , Siempre Tur Şoförü</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Marakeş'e Varış",
+        "description": "Fas'ın gözde şehirlerinden biri olan Marakeş'e hoş geldiniz. Ülkenin “güneydeki incisi” olarak bilinir ve Atlas Dağları'nın muhteşem zirveleri ile çevrilidir. Zamanında bir adım atın ve rehberli bir şehir turunda antik Medine'de pazarlar ve baharat pazarlarının hayretiyle kendinizi kaybedin. Parlak mavi gökyüzüne karşı başınızın üstünde kurumaya çalışan renkli yün çilelerinin altındaki tezgahları hayranlıkla dolaşın.Skooterla giderken,yerel halkın yanı sıra eşeklerden de kaçının ve özenle dekore edilmiş, prinç lambalarla kaplı dar yollardan dikkatlice geçin. Esnafları, ürünlerini satmalarını izleyin. Dost  bir satıcı ile şakalaşmanın ve alışverişin tadını çıkarın, daha sonra yenilenmek için geleneksel bir nane çayı veya kalın Fas kahvesinde şımartın."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Casablanca",
+        "description": "Kraliyet sarayına ve Chellah'a gideceğiz. Şehrin en eski bölümünü Oudaia Kasbah'ı rehber eşliğinde gezeceğiz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Fes",
+        "description": "Kahvaltıdan sonra Fes'e doğru ilerliyoruz ama önce Kazablanka'daki II. Hasan Camii'ni ziyaret etme seçeneğimiz var. Fes'e giderken, Meknes'de duruyoruz. Bu  imparatorluk şehrini içimize çekmek için serbest zamanımız var.. Öğle yemeğinden sonra Fas'ın en büyük yeri olan M.S. 40'a kadar uzanan Volubilis'in Roma kalıntılarına yöneliyoruz. Geceyi geçirdiğimiz Fes'e gitmeden önce Roma yerleşiminde rehberli bir turun keyfini çıkarın.."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Sahara Çölü",
+        "description": "Bugün, muhteşem Sahara Çölü'ne doğru uzanan doğal bir sürüşün tadını çıkarabiliriz. Lezzetli bir Fas öğle yemeği ve öğleden sonra yüzmek ve rahatlamak için duruyoruz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Todra Gorge",
+        "description": "Bu sabah Ait Benhaddou'ya veda ediyoruz ve renkli balıkçı kasabası Essaouira'ya gidiyoruz."
+      },
+      {
+        "dayNumber": 7,
+        "title": "AÏt Benhaddou",
+        "description": "Bugün Todra Gorge'a veda ediyoruz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Marrakech",
+        "description": "Hayranlık uyandıran Matobo Tepeleri'nde yer alan ve toplam 44.500 hektarlık bir alanı kaplayan Matobo Ulusal Parkı, büyük bir siyah-beyaz gergedan popülasyonunun başarıyla ürediği bir koruma bölgesine ev sahipliği yapmaktadır. 1953 yılında kurulan park, 2003 yılında UNESCO Dünya Mirası statüsüne layık görülmüştür."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Marakeş'ten Ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç bir uçuşunuz varsa veya konaklama turu ekleyerek konaklamanızı uzattıysanız, turistik yerleri keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Adventure",
+    "route": [
+      {
+        "name": "Marrakech",
+        "country": "Morocco"
+      },
+      {
+        "name": "Casablanca",
+        "country": "Morocco"
+      },
+      {
+        "name": "Fes",
+        "country": "Morocco"
+      },
+      {
+        "name": "Meknes",
+        "country": "Morocco"
+      },
+      {
+        "name": "Volubilis",
+        "country": "Morocco"
+      },
+      {
+        "name": "Sahara Desert",
+        "country": "Morocco"
+      },
+      {
+        "name": "Todra Gorge",
+        "country": "Morocco"
+      },
+      {
+        "name": "Aït Benhaddou",
+        "country": "Morocco"
+      },
+      {
+        "name": "Essaouira",
+        "country": "Morocco"
+      },
+      {
+        "name": "Matobo National Park",
+        "country": "null"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Marrakeş",
+        "country": "Fas",
+        "lat": 31.626928,
+        "lng": -7.988117
+      },
+      {
+        "name": "Kazablanka",
+        "country": "Fas",
+        "lat": 33.594074,
+        "lng": -7.621656
+      },
+      {
+        "name": "Fes",
+        "country": "Fas",
+        "lat": 34.034294,
+        "lng": -5.017115
+      },
+      {
+        "name": "Meknes",
+        "country": "Fas",
+        "lat": 33.899357,
+        "lng": -5.547927
+      },
+      {
+        "name": "Essaouira",
+        "country": "Fas",
+        "lat": 31.513723,
+        "lng": -9.771017
+      },
+      {
+        "name": "Matobo Ulusal Parkı",
+        "country": "null",
+        "lat": -20.412101,
+        "lng": 28.471157
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Fas",
+    "mainPhoto": "",
+    "id": "RMOMS",
+    "tourName": "Fas ve Sahara",
+    "placesVisited": "Fas",
+    "generalInfo": "Fas'ın bu turunda ortaçağ medreselerini, sömürge Fransız mimarisini, Ortadoğu tarihini ve Afrika atmosferini keşfederek, zamanımızdan bir adım geriye gidin. Marakeş çarşısına çıkın, Sahra' da bir gece deve safarisinde bir \"Berber viskisi\" deneyin ve Ait Benhaddou'nun kalesini tutun.",
+    "durationDays": "8",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "12",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>- Varış transferi</li>\n<li>- Develerle Gezi / Berber Kampı</li>\n<li>- Rehber eşliğinde Ait Benhaddou turu</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<ul>\n<li>- 6 gece otel,  1 gece Berber Kampı</li>\n</ul>\n<p><strong>Taşımacılık</strong></p>\n<ul>\n<li>- Özel Araçlar, Deve</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 6 Akşam Yemeği,  7 Kahvaltı, 3 Öğle Yemeği</li>\n</ul>\n<p><strong>Diğer</strong></p>\n<ul>\n<li>- Siempre Tur tur lideri , Siempre Tur Şoförü</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Marakeş'e Varış",
+        "description": "Fas'ın gözde şehirlerinden biri olan Marakeş, ülkenin “güneydeki incisi” olarak bilinir ve Atlas Dağları'nın muhteşem zirveleri ile çevrilidir. Zamanda bir adım atın ve rehberli bir şehir turunda antik Medine'de pazarlar ve baharat pazarlarının hayretiyle kendinizi kaybedin. Parlak mavi gökyüzüne karşı başınızın üstünde kurumaya çalışan renkli yün çilelerinin altındaki tezgahları hayranlıkla dolaşın. Skooterla giderken,yerel halkın yanı sıra eşeklerden de kaçının ve özenle dekore edilmiş, prinç lambalarla kaplı dar yollardan dikkatlice geçin. Esnafları, ürünlerini satmalarını izleyin. Dost  bir satıcı ile şakalaşmanın ve alışverişin tadını çıkarın, daha sonra yenilenmek için geleneksel bir nane çayı veya kalın Fas kahvesinde şımartın."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Ouarzazate",
+        "description": "Bugün, Afrikalı tüccarlar tarafından geleneksel durağı olan Ouarzazate'e gidiyoruz. Burası, Alexander the Great ve The Last Temptation of Christ gibi birçok harika filmin bir parçası olarak kullanılmıştır. Burada film stüdyolarının isteğe bağlı turunun keyfini çıkarma veya Ouarzazate'yi dört bisiklet üzerinde keşfetme şansına sahibiz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Sahara Çölü",
+        "description": "Bugün, muhteşem Sahara Çölü'ne doğru uzanan doğal bir sürüşün tadını çıkarabiliriz. Lezzetli bir Fas öğle yemeği ve öğleden sonra yüzmek ve rahatlamak için duruyoruz."
+      },
+      {
+        "dayNumber": 4,
+        "title": "AÏt Benhaddou",
+        "description": "Kum tepelerinde leziz bir kahvaltının ardından, Fas'ın 'Büyük Kanyonu' olarak da bilinen 1000 fitlik Todra boğazına yolculuk ederken, büyük kireçtaşı kayaları vadisi ve engebeli manzaralara şaşırmaya hazır olun. Öğleden sonra Kasbahs'ı ziyaret etmek için Ait Benhaddou'ya devam ediyoruz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Essaouira",
+        "description": "Bugün Essaouira'nın manzaralarını ve seslerini keşfetmekte özgürüz. Plajdaki güneşi içinize çekin, yakındaki bir kafeden bir kahve alın ya da UNESCO listesindeki Medine'de çeşitli pazarları gezin. Ertesi gün kahvaltıdan sonra, otelimizde dinlenebilmek için serbest zamanınız olacak. Dilerseniz öğleden sonra bir şehir turuna katılabilirsiniz. Sonrasında, son gecemiz için Marakeş'e döneceğiz."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Marrakech",
+        "description": "kahvaltıdan sonra, otelimizde dinlenebilmek için serbest zamanınız olacak. Dilerseniz öğleden sonra bir şehir turuna katılabilirsiniz. Sonrasında, son gecemiz için Marakeş'e dönüyoruz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Marakeş'ten Ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç bir uçuşunuz varsa veya konaklama turu ekleyerek konaklamanızı uzattıysanız, turistik yerleri keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Culture",
+    "route": [
+      {
+        "name": "Marrakech",
+        "country": "Morocco"
+      },
+      {
+        "name": "Ouarzazate",
+        "country": "Morocco"
+      },
+      {
+        "name": "Sahara Desert",
+        "country": "Morocco"
+      },
+      {
+        "name": "Aït Benhaddou",
+        "country": "Morocco"
+      },
+      {
+        "name": "Essaouira",
+        "country": "Morocco"
+      },
+      {
+        "name": "Marrakech",
+        "country": "Morocco"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Marrakeş",
+        "country": "Fas",
+        "lat": 31.626928,
+        "lng": -7.988117
+      },
+      {
+        "name": "Ouarzazate",
+        "country": "Fas",
+        "lat": 30.921404,
+        "lng": -6.914479
+      },
+      {
+        "name": "Essaouira",
+        "country": "Fas",
+        "lat": 31.513723,
+        "lng": -9.771017
+      },
+      {
+        "name": "Marrakeş",
+        "country": "Fas",
+        "lat": 31.626928,
+        "lng": -7.988117
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "18-29s-holiday-in-morocco",
     "tourName": "18-29 yaş arası tatil Marakeş'te",
@@ -169,7 +645,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "agafay-desert-and-coast-adventure-morocco",
     "tourName": "Agafay Çölü ve Kıyı Macerası, Fas",
@@ -285,7 +761,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "authentic-morocco-escorted-tour",
     "tourName": "Gerçek Fas Turu",
@@ -434,7 +910,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "casablanca-to-marrakech-tour-morocco",
     "tourName": "Casablanca'dan Marrakech'e tur, Fas",
@@ -629,7 +1105,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "essential-morocco-small-group-cultural-tour",
     "tourName": "Temel Fas Kültürel Turu - Küçük Grup",
@@ -755,10 +1231,10 @@
     ],
     "routeCoordinates": [
       {
-        "name": "Istanbul",
+        "name": "İstanbul",
         "country": "Turkey",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Marrakech",
@@ -807,12 +1283,18 @@
         "country": "Morocco",
         "lat": 33.594074,
         "lng": -7.621656
+      },
+      {
+        "name": "Eljadida",
+        "country": "Morocco",
+        "lat": 33.25217,
+        "lng": -8.502427
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "grand-tour-of-morocco-13-days",
     "tourName": "Büyük Fas Turu, 13 gün",
@@ -986,7 +1468,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "grand-tour-of-morocco",
     "tourName": "Fas'ın Büyük Turu",
@@ -1315,7 +1797,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "highlights-of-morocco-holiday",
     "tourName": "Fas Tatilinin Gözdesi",
@@ -1541,7 +2023,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "highlights-of-morocco-small-group-tour",
     "tourName": "Fas'ın İhtişamı Küçük Grup Turu",
@@ -1743,7 +2225,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "highlights-of-morocco-tour",
     "tourName": "Fas'ın Zirveleri Turu",
@@ -1961,7 +2443,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "holiday-in-morocco-imperial-cities-deserts",
     "tourName": "Fas'ta Tatil, İmparatorluk Şehirleri ve Çöller",
@@ -2209,7 +2691,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "imperial-cities-of-morocco-tour",
     "tourName": "Fas İmparatorluk Şehirleri Turu",
@@ -2360,7 +2842,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "madrid-to-marrakech-tour",
     "tourName": "Madrid'dan Marrakech'e tur",
@@ -2704,7 +3186,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "madrid-to-marrakech-via-portugal",
     "tourName": "Madrid'dan Marrakech'e, Portekiz Üzerinden",
@@ -2910,7 +3392,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "marrakech-and-atlas-mountains-holiday-in-morocco",
     "tourName": "Fas'ta Marrakech ve Atlas Dağları Tatili",
@@ -3001,7 +3483,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "marrakech-sahara-private-tour-morocco",
     "tourName": "Marrakech & Sahara özel tur, Fas",
@@ -3128,7 +3610,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "marrakech-the-sahara-holiday-in-morocco",
     "tourName": "Fas'ta Marrakech ve Sahara Tatili",
@@ -3279,7 +3761,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "moroccan-adventure-holiday",
     "tourName": "Fas Macerası Tatili",
@@ -3431,7 +3913,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "moroccan-highlights-private-tour",
     "tourName": "Fas'ın göz alıcı yönleri, özel tur",
@@ -3607,7 +4089,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "moroccan-highlights-tour-from-casablanca",
     "tourName": "Kasımpaşa'dan Fas Öne Çıkanlar Turu",
@@ -3805,7 +4287,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-12-day-tour",
     "tourName": "Fas 12 Gün Turu",
@@ -3982,7 +4464,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-2-week-tour-encompassed",
     "tourName": "Fas 2 haftalık tur, kapsadığı",
@@ -4203,7 +4685,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-9-day-cultural-tour",
     "tourName": "Fas 9 Günlük Kültürel Tur",
@@ -4389,7 +4871,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-adventure-cultural-highlights-tour",
     "tourName": "Fas Macerası ve Kültürel Zirveler Turu",
@@ -4589,7 +5071,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-adventure-tour-for-families",
     "tourName": "Aileler için Fas macera turu",
@@ -4742,7 +5224,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-and-the-atlantic-coast-holiday",
     "tourName": "Fas ve Atlantik Kıyısı tatili",
@@ -4907,7 +5389,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-and-western-sahara-tour",
     "tourName": "Fas ve Batı Sahra Turu",
@@ -5008,39 +5490,45 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Agadir",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 30.418049,
         "lng": -9.597018
       },
       {
         "name": "Sidi Ifni",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 29.379313,
         "lng": -10.174499
       },
       {
         "name": "Guelmime",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 28.987638,
         "lng": -10.057652
       },
       {
-        "name": "Naila Lagünü",
-        "country": "Fas",
+        "name": "Naila Lagoon",
+        "country": "Morocco",
         "lat": 34.604786,
         "lng": -2.219892
+      },
+      {
+        "name": "Western Sahara",
+        "country": "Morocco",
+        "lat": 29.964354,
+        "lng": 77.546265
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-berber-cultural-tour",
     "tourName": "Fas Berberi Kültür Turu",
@@ -5230,7 +5718,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-budget-tour",
     "tourName": "Mısır Bütçe Turu",
@@ -5357,7 +5845,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-cultural-tour-from-casablanca",
     "tourName": "Casablanca'dan Fas kültür turu",
@@ -5527,7 +6015,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-cultural-tour",
     "tourName": "Fas kültür turu",
@@ -5753,7 +6241,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-desert-and-cultural-adventure",
     "tourName": "Fas Çölü ve Kültürel Macera",
@@ -5953,7 +6441,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-discovery-tour-from-casablanca",
     "tourName": "Fas keşif turu, Casablanca'dan",
@@ -6111,7 +6599,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-express-tour",
     "tourName": "Fas Ekspres Turu",
@@ -6237,7 +6725,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-family-adventure-holiday",
     "tourName": "Fas aile macera tatili",
@@ -6400,7 +6888,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-family-holiday-with-teenagers",
     "tourName": "Ergenlerle birlikte Fas aile tatili",
@@ -6517,7 +7005,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-family-holiday",
     "tourName": "Fas aile tatili",
@@ -6652,7 +7140,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-family-tour-camels-kasbahs-beach",
     "tourName": "Fas Aile Turu, develer, kasbahlar & plaj",
@@ -6817,7 +7305,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-grand-tour-tailor-made",
     "tourName": "Fas büyük turu, kişiye özel hazırlanmış",
@@ -7071,7 +7559,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-guided-discovery-tour-from-marrakech",
     "tourName": "Marrakech'ten Fas rehberli keşif turu",
@@ -7239,7 +7727,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-highlights-hidden-gems",
     "tourName": "Fas'ın En Güzel Yerleri & Gizli Hazine Noktaları",
@@ -7420,7 +7908,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-highlights-holiday-with-added-comfort",
     "tourName": "Morocco'un öne çıkan yerleri turları, ek konfor ile",
@@ -7570,7 +8058,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-highlights-luxury-adventure",
     "tourName": "Fas'ın Göz Alıcı Lüks Macerası",
@@ -7749,7 +8237,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-highlights-tour",
     "tourName": "Fas Öne Çıkanlar Turu",
@@ -7893,7 +8381,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-holiday-central-highlights",
     "tourName": "Fas tatili, merkezi öne çıkan yerler",
@@ -8056,7 +8544,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-holiday-deserts-and-valleys",
     "tourName": "Fas tatili, çöller ve vadiler",
@@ -8206,7 +8694,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-holiday-marrakech-to-the-sahara",
     "tourName": "Fas Tatili, Marrakech'ten Sahara'ya",
@@ -8304,39 +8792,57 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Marrakech",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 31.626928,
         "lng": -7.988117
       },
       {
+        "name": "Tellougui",
+        "country": "Morocco",
+        "lat": 36.775361,
+        "lng": 3.060188
+      },
+      {
         "name": "Tamegroute",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 30.260784,
         "lng": -5.680562
       },
       {
         "name": "Tazenahkt",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 30.576822,
         "lng": -7.204946
       },
       {
         "name": "Zagora",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 30.331186,
         "lng": -5.837793
+      },
+      {
+        "name": "Erg Lihoudi",
+        "country": "Morocco",
+        "lat": 15.69867,
+        "lng": -11.104349
+      },
+      {
+        "name": "Zaouiate Sidi Ben Abdenbi",
+        "country": "Morocco",
+        "lat": 33.04505,
+        "lng": -7.929182
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-holiday-on-a-shoestring",
     "tourName": "Bütçeye Uygun Fas Tatili",
@@ -8481,7 +8987,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-holiday-small-group",
     "tourName": "Fas tatili, küçük grup",
@@ -8701,7 +9207,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-holiday-tailor-made",
     "tourName": "Fas tatili, kişiye özel",
@@ -8816,7 +9322,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-in-depth-tour-with-added-comfort",
     "tourName": "Derinlemesine Fas Turu, ek konfor ile",
@@ -9042,7 +9548,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-off-the-beaten-track-tailor-made",
     "tourName": "Farklı rotalarda Marakeş, özel tasarım",
@@ -9199,7 +9705,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-overland-holiday-small-group",
     "tourName": "Fas kara yolu tatili, küçük grup",
@@ -9486,7 +9992,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-photography-holiday",
     "tourName": "Fas fotoğraf tatili",
@@ -9607,61 +10113,67 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Marrakech",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 31.626928,
         "lng": -7.988117
       },
       {
         "name": "Ourazazate",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 30.921404,
         "lng": -6.914479
       },
       {
         "name": "M’hamid",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 29.808015,
         "lng": -5.737016
       },
       {
+        "name": "Erg Lihoudi",
+        "country": "Morocco",
+        "lat": 15.69867,
+        "lng": -11.104349
+      },
+      {
         "name": "Foum Zguid",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 30.085873,
         "lng": -6.873537
       },
       {
         "name": "Taznakht",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 30.576822,
         "lng": -7.204946
       },
       {
         "name": "Taliouine",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 30.532213,
         "lng": -7.923769
       },
       {
         "name": "Taroudant",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 30.468676,
         "lng": -8.879748
       },
       {
         "name": "Agadir",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 30.418049,
         "lng": -9.597018
       },
       {
         "name": "Essaouira",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 31.513723,
         "lng": -9.771017
       }
@@ -9669,7 +10181,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-short-break-holiday-5-days",
     "tourName": "Fas kısa tatil, 5 gün",
@@ -9751,33 +10263,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Marrakeş",
-        "country": "Fas",
+        "name": "Marrakech",
+        "country": "Morocco",
         "lat": 31.626928,
         "lng": -7.988117
       },
       {
         "name": "Amizmiz",
-        "country": "Fas",
+        "country": "Morocco",
         "lat": 31.216873,
         "lng": -8.232828
       },
       {
-        "name": "Lalla Takerkoust Barajı",
-        "country": "Fas",
+        "name": "Lalla Takerkoust Dam",
+        "country": "Morocco",
         "lat": 31.352783,
         "lng": -8.130446
+      },
+      {
+        "name": "Berber family house",
+        "country": "Morocco",
+        "lat": 40.823902,
+        "lng": -77.82891
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-short-break",
     "tourName": "Fas kısa kaçamak",
@@ -9877,7 +10395,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-sights-sounds-tour-13-days",
     "tourName": "Fas Görsel ve İşitsel Turu, 13 Gün",
@@ -10061,7 +10579,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-tours-marrakech-coast-and-mountains",
     "tourName": "Fas turları, Marrakech, sahil ve dağlar",
@@ -10171,7 +10689,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-tours-with-added-comfort",
     "tourName": "Konforla Marakeş Turları",
@@ -10321,7 +10839,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "motorcycle-tour-of-morocco-southern-spain",
     "tourName": "Fas ve Güney İspanya Motosiklet Turu",
@@ -10611,7 +11129,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "north-morocco-adventure-holiday",
     "tourName": "Kuzey Fas Macera Tatili",
@@ -10770,7 +11288,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "northern-morocco-11-day-tour",
     "tourName": "Kuzey Fas 11 Günlük Tur",
@@ -10940,7 +11458,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "private-morocco-cultural-tour-tailor-made",
     "tourName": "Özel Fas Kültürel Turu, kişiye özel hazırlanmış",
@@ -11167,7 +11685,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "private-morocco-highlights-tailor-made",
     "tourName": "Özel Fas Vurguları, Özel Tasarım",
@@ -11361,7 +11879,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "railway-tour-of-morocco",
     "tourName": "Fas Demiryolu Turu",
@@ -11520,7 +12038,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "sahara-desert-and-anti-atlas-mountain-tour",
     "tourName": "Sahara Çölü ve Anti Atlas Dağları Turu",
@@ -11677,7 +12195,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "spain-and-morocco-vacation",
     "tourName": "İspanya ve Fas Tatili",
@@ -11898,7 +12416,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "ultimate-morocco-small-group-tour",
     "tourName": "Son Derece Küçük Gruplar için Fas Turu",
@@ -12103,7 +12621,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "western-sahara-desert-wildlife-tour",
     "tourName": "Batı Sahra çölü yaban hayatı turu",
@@ -12152,10 +12670,18 @@
         "country": "Morocco"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      }
+    ]
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "12-day-best-of-spain-and-morocco-itinerary",
     "tourName": "İspanya ve Fas'ın En İyisi: 12 Günlük Gezi Programı",
@@ -12344,7 +12870,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "12-day-northern-morocco-amazing-history-landscapes-and-cities",
     "tourName": "12 Gün Kuzey Fas: Harika Tarih, Manzaralar ve Şehirler",
@@ -12485,7 +13011,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "8-day-morocco-artistry-luxury-and-wonder",
     "tourName": "8 Günlük Fas: Sanat, Lüks ve Harikalar",
@@ -12600,7 +13126,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "a-perfect-morocco-family-vacation-package",
     "tourName": "Mükemmel Fas Aile Tatil Paketi",
@@ -12719,7 +13245,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "adventurous-10-day-luxury-tour-of-morocco-for-seniors",
     "tourName": "İleri Yaşlar İçin Lüks 10 Günlük Macera Turu, Fas",
@@ -12888,7 +13414,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "ancient-cultures-of-morocco-tour",
     "tourName": "Fas'ın Antik Kültürleri Turu",
@@ -13004,7 +13530,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "ancient-heritage-to-hot-sands-immersive-morocco-tour",
     "tourName": "Antik Miras ve Sıcak Kumlar: Etkileyici Fas Turu",
@@ -13124,7 +13650,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "art-and-soul-of-morocco-luxury-tour",
     "tourName": "Fas'ın Sanatı ve Ruhuyla Lüks Turu",
@@ -13245,7 +13771,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "best-of-marrakech-essaouira-ouarzazate-tour",
     "tourName": "Marrakeş, Essaouira & Ouarzazate Turu",
@@ -13355,7 +13881,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "best-of-morocco-tour",
     "tourName": "Fas'ın En İyileri Turu",
@@ -13575,7 +14101,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "colorful-exploration-of-morocco-ancient-cities-and-expansive-deserts",
     "tourName": "Fas'ın Renkli Keşfi: Antik Şehirler ve Geniş Çöl Manzaraları",
@@ -13745,7 +14271,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "discovering-the-lost-artisans-of-morocco-tour",
     "tourName": "Fas'ın Kayıp Zanaatkârlarını Keşfetme Turu",
@@ -13900,7 +14426,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "essential-morocco-experience-12-day-vacation",
     "tourName": "Temel Fas Deneyimi: 12 Günlük Tatil",
@@ -14079,7 +14605,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "exclusive-one-week-morocco-tour-for-couples",
     "tourName": "Çiftler İçin Özel Bir Haftalık Fas Turu",
@@ -14185,7 +14711,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "family-friendly-morocco-tour-in-one-week",
     "tourName": "Aile Dostu Fas Turu - Bir Haftada",
@@ -14291,7 +14817,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "family-vacation-to-spain-morocco",
     "tourName": "İspanya ve Fas Aile Turu",
@@ -14510,7 +15036,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "grand-morocco-10-day-family-tour",
     "tourName": "Büyüleyici Fas 10 Günlük Aile Turu",
@@ -14625,7 +15151,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "grand-tour-of-morocco-an-in-depth-experience",
     "tourName": "Fas'ın Büyük Turu: Derinlemesine Bir Deneyim",
@@ -14871,7 +15397,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "highlights-of-morocco-luxury-8-day-city-to-desert",
     "tourName": "Fas'ın İhtişamı: Lüks 8 Gün Şehirden Çölde",
@@ -14986,7 +15512,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "immersive-one-week-morocco-seniors-tour",
     "tourName": "Etkileyici Bir Haftalık Fas Turu - İleri Yaş Seyahatleri",
@@ -15136,7 +15662,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "imperial-cities-of-morocco-luxury-tour",
     "tourName": "Fas'ın İmparatorluk Şehirleri Lüks Turu",
@@ -15292,7 +15818,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "imperial-cities-sahara-desert-tour-of-morocco",
     "tourName": "Fas'ın İmparatorluk Şehirleri & Sahara Çölü Turu",
@@ -15451,7 +15977,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "jewish-heritage-tour-of-morocco-retracing-history-culture",
     "tourName": "Fas'taki Yahudi Mirası Turu: Tarih ve Kültürü İzlemek",
@@ -15606,7 +16132,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "luxury-private-tours-of-morocco",
     "tourName": "Fas'ın Lüks Özel Turları",
@@ -15835,7 +16361,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "magical-best-of-morocco-itinerary-in-12-days",
     "tourName": "Büyüleyici Fas İtinereri 12 Günde",
@@ -16016,7 +16542,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "mesmerizing-morocco-tour-one-week-off-the-beaten-path",
     "tourName": "Büyüleyici Fas Turu: Vaha Dışında Bir Hafta",
@@ -16152,7 +16678,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-expedition-tour-mystique-wonders",
     "tourName": "Fas Keşif Turu: Gizem ve Harikalar",
@@ -16283,7 +16809,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-family-friendly-tour-casablanca-rabat-fez-marrakech",
     "tourName": "Fas Aile Dostu Tur: Kazablanka, Rabat, Fes & Marakeş",
@@ -16414,7 +16940,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-jewish-heritage-tour",
     "tourName": "Fas Yahudi Mirası Turu",
@@ -16640,7 +17166,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "morocco-tour-of-imperial-cities-a-historical-cultural-exploration",
     "tourName": "İmparatorluk Şehirlerinin Fas Turu: Tarihsel ve Kültürel Bir Keşif",
@@ -16761,7 +17287,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "north-to-south-morocco-tour-chefchaouen-to-marrakech",
     "tourName": "Kuzeyden Güney Fas Turu: Chefchaouen'dan Marrakech'e",
@@ -16904,7 +17430,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "old-world-treasures-of-morocco-in-12-days",
     "tourName": "Fas'ın Eski Dünya Hazineleri - 12 Gün",
@@ -17050,7 +17576,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "privately-guided-morocco-tour-for-seniors-culture-enchantment",
     "tourName": "Ileri Yaş için Özel Rehberli Fas Turu: Kültür ve Büyü",
@@ -17243,7 +17769,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "remarkable-morocco-tour-for-seniors-legacies-and-natural-beauty",
     "tourName": "İleri Yaşlar için Dikkate Değer Fas Turu: Miraslar ve Doğal Güzellik",
@@ -17393,7 +17919,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "romantic-morocco-tour-beauty-indulgence-luxury",
     "tourName": "Romantik Fas Turu: Güzellik, Şımartma ve Lüks",
@@ -17504,7 +18030,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "signature-tour-of-morocco-adventure-luxury-and-history",
     "tourName": "Fas'ın İmza Turu: Macera, Lüks ve Tarih",
@@ -17629,7 +18155,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "the-best-of-morocco-9-day-tour",
     "tourName": "Fas’ın En İyisi: 9 Günlük Tur",
@@ -17803,7 +18329,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "ultimate-one-week-morocco-tour",
     "tourName": "Son Derece Benzersiz Bir Haftalık Fas Turu",
@@ -17948,7 +18474,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "vip-morocco-custom-tour-exploration-in-luxury",
     "tourName": "VIP Fas Özel Turu: Lüks Keşif",
@@ -18104,7 +18630,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Morocco",
+    "destination": "Fas",
     "mainPhoto": "",
     "id": "wonders-of-north-morocco-one-week-tour",
     "tourName": "Kuzey Fas'ın Harikaları - Bir Haftalık Tur",

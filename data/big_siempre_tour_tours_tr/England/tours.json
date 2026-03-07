@@ -1,6 +1,6 @@
 [
   {
-    "destination": "England",
+    "destination": "İngiltere",
     "mainPhoto": "images/tour-photos/England/01/01.webp",
     "id": "south-west-england-rail-holiday-self-guided",
     "tourName": "Güney Batı İngiltere Demiryolu Tatili, Kendinize Özel Yürüyüş",
@@ -161,7 +161,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "England",
+    "destination": "İngiltere",
     "mainPhoto": "images/tour-photos/England/02/01.webp",
     "id": "southern-england-luxury-self-drive-vacation",
     "tourName": "Güney İngiltere Lüks Kendin Sür Turu",
@@ -356,6 +356,134 @@
         "country": "England"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "London",
+        "country": "England",
+        "lat": 51.5073,
+        "lng": -0.127647
+      },
+      {
+        "name": "East Sussex",
+        "country": "England",
+        "lat": 52.38146,
+        "lng": -0.676182
+      },
+      {
+        "name": "Seven Sisters",
+        "country": "England",
+        "lat": 53.892296,
+        "lng": -0.313176
+      },
+      {
+        "name": "Battle of Hastings",
+        "country": "England",
+        "lat": 50.857094,
+        "lng": 0.585109
+      },
+      {
+        "name": "Rye",
+        "country": "England",
+        "lat": 50.951607,
+        "lng": 0.731979
+      },
+      {
+        "name": "West Sussex",
+        "country": "England",
+        "lat": 52.38146,
+        "lng": -0.676182
+      },
+      {
+        "name": "Lewes",
+        "country": "England",
+        "lat": 50.873123,
+        "lng": 0.010435
+      },
+      {
+        "name": "Arundel Castle",
+        "country": "England",
+        "lat": 50.854576,
+        "lng": -0.554132
+      },
+      {
+        "name": "Petworth House",
+        "country": "England",
+        "lat": 50.986126,
+        "lng": -0.608514
+      },
+      {
+        "name": "Portsmouth",
+        "country": "England",
+        "lat": 50.803683,
+        "lng": -1.075614
+      },
+      {
+        "name": "Jurassic Coast",
+        "country": "England",
+        "lat": 50.98045,
+        "lng": -2.780375
+      },
+      {
+        "name": "Lulworth Cove",
+        "country": "England",
+        "lat": 50.620247,
+        "lng": -2.252834
+      },
+      {
+        "name": "Durdle Door",
+        "country": "England",
+        "lat": 50.941284,
+        "lng": -2.813074
+      },
+      {
+        "name": "Corfe Castle",
+        "country": "England",
+        "lat": 50.63936,
+        "lng": -2.056571
+      },
+      {
+        "name": "Lyme Regis",
+        "country": "England",
+        "lat": 50.724586,
+        "lng": -2.933381
+      },
+      {
+        "name": "Bath",
+        "country": "England",
+        "lat": 51.381386,
+        "lng": -2.359696
+      },
+      {
+        "name": "Cotswolds",
+        "country": "England",
+        "lat": 52.38146,
+        "lng": -0.676182
+      },
+      {
+        "name": "Broadway",
+        "country": "England",
+        "lat": 52.03545,
+        "lng": -1.86243
+      },
+      {
+        "name": "Blenheim Palace",
+        "country": "England",
+        "lat": 52.38146,
+        "lng": -0.676182
+      },
+      {
+        "name": "Henley-on-Thames",
+        "country": "England",
+        "lat": 51.537567,
+        "lng": -0.904607
+      }
+    ]
   }
 ]

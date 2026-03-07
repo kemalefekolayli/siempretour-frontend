@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "11-day-introduction-to-spitsbergen-holiday",
     "tourName": "11 Gün Spitsbergen'e Giriş Tatili",
@@ -89,25 +89,43 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Helsinki",
-        "country": "Finlandiya",
+        "country": "Finland",
         "lat": 60.167507,
         "lng": 24.941822
       },
       {
-        "name": "14 Temmuz Buzulu",
-        "country": "Norveç",
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Norway",
+        "lat": 78.223156,
+        "lng": 15.646366
+      },
+      {
+        "name": "Hornsund",
+        "country": "Norway",
+        "lat": 77.00156,
+        "lng": 15.544538
+      },
+      {
+        "name": "14th of July Glacier",
+        "country": "Norway",
         "lat": 64.176209,
         "lng": 13.835835
       },
       {
-        "name": "Hinlopen Boğazı",
-        "country": "Norveç",
+        "name": "Hinlopen Strait",
+        "country": "Norway",
         "lat": 58.189843,
         "lng": 7.929012
       }
@@ -115,7 +133,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "arctic-icebreaker-cruise-spitsbergen",
     "tourName": "Arktik buz kırıcı turu, Spitsbergen",
@@ -256,45 +274,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Ny Ålesund",
-        "country": "Norveç",
-        "lat": 62.47293,
-        "lng": 6.156597
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
       },
       {
-        "name": "Andøya",
-        "country": "Norveç",
-        "lat": 69.1,
-        "lng": 15.716667
+        "name": "Monaco Glacier",
+        "country": "Norway",
+        "lat": 43.732482,
+        "lng": 7.418962
       },
       {
-        "name": "Hinlopen Boğazı",
-        "country": "Norveç",
+        "name": "Hinlopen Strait",
+        "country": "Norway",
         "lat": 58.189843,
         "lng": 7.929012
       },
       {
-        "name": "Ytre Norskøya",
-        "country": "Norveç",
-        "lat": 61.506728,
-        "lng": 7.695012
+        "name": "Nordaustlandet",
+        "country": "Norway",
+        "lat": 79.8,
+        "lng": 22.4
       },
       {
         "name": "Prins Karls Forland",
-        "country": "Norveç",
+        "country": "Norway",
         "lat": 58.263604,
         "lng": 7.021703
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "arctic-sailing-voyages-north-spitsbergen",
     "tourName": "Kuzey Spitsbergen Kutup Yelkenli Seyahatleri",
@@ -320,7 +344,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "baffin-island-cruising-expedition-canada",
     "tourName": "Baffin Adası kruvaziyer keşif gezisi, Kanada",
@@ -477,127 +501,133 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Toronto",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 43.647938,
         "lng": -79.38355
       },
       {
         "name": "Kangerlussuaq",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 67.008677,
         "lng": -50.691336
       },
       {
         "name": "Nuuk",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 64.176,
         "lng": -51.7389
       },
       {
-        "name": "Baffin Adası",
-        "country": "Kanada",
+        "name": "Maniitsoq",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Baffin Island",
+        "country": "Canada",
         "lat": 69,
         "lng": -72
       },
       {
         "name": "Pangnirtung",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 66.14586,
         "lng": -65.71699
       },
       {
         "name": "Kekerten",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 65.7153,
         "lng": -65.8278
       },
       {
         "name": "Cape Mercy",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 47.62968,
         "lng": -80.060507
       },
       {
         "name": "Qikiqtarjuak",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 67.558624,
         "lng": -64.01825
       },
       {
-        "name": "Isabella Koyu",
-        "country": "Kanada",
+        "name": "Isabella Bay",
+        "country": "Canada",
         "lat": 45.170155,
         "lng": -64.743195
       },
       {
-        "name": "Sam Ford Fiyordu",
-        "country": "Kanada",
+        "name": "Sam Ford Fjord",
+        "country": "Canada",
         "lat": 56.46676,
         "lng": -61.193128
       },
       {
         "name": "Pond Inlet",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 72.70018,
         "lng": -77.9576
       },
       {
-        "name": "Dundas Limanı",
-        "country": "Kanada",
+        "name": "Dundas Harbour",
+        "country": "Canada",
         "lat": 74.531414,
         "lng": -82.383497
       },
       {
-        "name": "Croker Koyu",
-        "country": "Kanada",
+        "name": "Croker Bay",
+        "country": "Canada",
         "lat": 49.731148,
         "lng": -101.23577
       },
       {
-        "name": "Radstock Koyu",
-        "country": "Kanada",
+        "name": "Radstock Bay",
+        "country": "Canada",
         "lat": 46.04644,
         "lng": -71.07622
       },
       {
-        "name": "Beechey Adası",
-        "country": "Kanada",
+        "name": "Beechey Island",
+        "country": "Canada",
         "lat": 50.876587,
         "lng": -107.38366
       },
       {
-        "name": "Somerset Adası",
-        "country": "Kanada",
+        "name": "Somerset Island",
+        "country": "Canada",
         "lat": 73.25,
         "lng": -93.5
       },
       {
         "name": "Fort Ross",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 49.761616,
         "lng": -96.43418
       },
       {
         "name": "Zenith Point",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 55.51485,
         "lng": -97.986009
       },
       {
         "name": "Resolute",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 74.696014,
         "lng": -94.83863
       },
       {
         "name": "Toronto",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 43.647938,
         "lng": -79.38355
       }
@@ -605,7 +635,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "canada-to-greenland-cruise-northwest-passage",
     "tourName": "Kanada'dan Grönland'a kruvaziyer, Kuzeybatı Geçidi",
@@ -775,127 +805,175 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Calgary",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 51.0457,
         "lng": -114.067955
       },
       {
         "name": "Cambridge Bay",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 69.11751,
         "lng": -105.05406
       },
       {
-        "name": "King William Adası",
-        "country": "Kanada",
+        "name": "Northwest Passage",
+        "country": "Arctic Cruises",
+        "lat": 52.348305,
+        "lng": 4.823998
+      },
+      {
+        "name": "King William Island",
+        "country": "Canada",
         "lat": 68.966667,
         "lng": -97.233333
       },
       {
-        "name": "Prince of Wales Adası",
-        "country": "Kanada",
+        "name": "Victory Point",
+        "country": "Arctic Cruises",
+        "lat": 16.238655,
+        "lng": -61.534733
+      },
+      {
+        "name": "Prince of Wales Island",
+        "country": "Canada",
         "lat": 72.6,
         "lng": -98.533333
       },
       {
-        "name": "Somerset Adası",
-        "country": "Kanada",
+        "name": "Bellot Strait",
+        "country": "Arctic Cruises",
+        "lat": 1.274202,
+        "lng": 103.86088
+      },
+      {
+        "name": "Somerset Island",
+        "country": "Canada",
         "lat": 73.25,
         "lng": -93.5
       },
       {
         "name": "Fort Ross",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 49.761616,
         "lng": -96.43418
       },
       {
-        "name": "Prince Leopold Adası",
-        "country": "Kanada",
+        "name": "Prince Leopold Island",
+        "country": "Canada",
         "lat": 46.535934,
         "lng": -84.501274
       },
       {
-        "name": "Cunningham Girişi",
-        "country": "Kanada",
+        "name": "Cunningham Inlet",
+        "country": "Canada",
         "lat": 45.784768,
         "lng": -75.310327
       },
       {
-        "name": "Beechey Adası",
-        "country": "Kanada",
+        "name": "Beechey Island",
+        "country": "Canada",
         "lat": 50.876587,
         "lng": -107.38366
       },
       {
         "name": "Lancaster Sound",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 45.13987,
         "lng": -74.49949
       },
       {
-        "name": "Devon Adası",
-        "country": "Kanada",
+        "name": "Devon Island",
+        "country": "Canada",
         "lat": 75.133333,
         "lng": -87.85
       },
       {
-        "name": "Dundas Limanı",
-        "country": "Kanada",
+        "name": "Dundas Harbour",
+        "country": "Canada",
         "lat": 74.531414,
         "lng": -82.383497
       },
       {
         "name": "Pond Inlet",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 72.70018,
         "lng": -77.9576
       },
       {
-        "name": "Bylot Adası",
-        "country": "Kanada",
+        "name": "Bylot Island",
+        "country": "Canada",
         "lat": 53.41889,
         "lng": -112.185
       },
       {
-        "name": "Sillem Adası",
-        "country": "Kanada",
+        "name": "Sillem Island",
+        "country": "Canada",
         "lat": 53.41889,
         "lng": -112.185
       },
       {
-        "name": "Baffin Adası",
-        "country": "Kanada",
+        "name": "Baffin Island",
+        "country": "Canada",
         "lat": 69,
         "lng": -72
       },
       {
+        "name": "Baffin Bay",
+        "country": "Arctic Cruises",
+        "lat": 28.419409,
+        "lng": -81.58259
+      },
+      {
+        "name": "Greenland",
+        "country": "Arctic Cruises",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
         "name": "Ilulissat",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 69.219713,
         "lng": -51.098638
       },
       {
+        "name": "Ilulissat Icefjord",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Disko Island",
+        "country": "Greenland",
+        "lat": 53.88062,
+        "lng": -6.540425
+      },
+      {
+        "name": "Eternity Fjord",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
         "name": "Sisimiut",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 66.937191,
         "lng": -53.666482
       },
       {
         "name": "Nuuk",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 64.176,
         "lng": -51.7389
       },
       {
         "name": "Toronto",
-        "country": "Kanada",
+        "country": "Canada",
         "lat": 43.647938,
         "lng": -79.38355
       }
@@ -903,7 +981,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "east-greenland-cruise",
     "tourName": "Doğu Grönland kruvaziyeri",
@@ -1004,25 +1082,43 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Akureyri",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 65.682636,
         "lng": -18.091299
       },
       {
+        "name": "Denmark Strait",
+        "country": "Arctic Cruises",
+        "lat": 33.326177,
+        "lng": -81.142093
+      },
+      {
+        "name": "Volquart Boons Coast",
+        "country": "Arctic Cruises",
+        "lat": 8.202121,
+        "lng": -7.727766
+      },
+      {
+        "name": "Sydkap",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
         "name": "Ittoqqortoormiit",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 70.485059,
         "lng": -21.964199
       },
       {
         "name": "Akureyri",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 65.682636,
         "lng": -18.091299
       }
@@ -1030,7 +1126,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "greenland-adventure-and-diving-expedition",
     "tourName": "Grönland macerası ve dalış ekspedisyonu",
@@ -1229,37 +1325,139 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Reykjavik",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 64.145847,
         "lng": -21.9436
       },
       {
         "name": "Akureyri",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 65.682636,
         "lng": -18.091299
       },
       {
+        "name": "Arctic Circle",
+        "country": "Arctic Cruises",
+        "lat": 39.601887,
+        "lng": -82.945099
+      },
+      {
+        "name": "Brewster",
+        "country": "Arctic Cruises",
+        "lat": 41.394695,
+        "lng": -73.619458
+      },
+      {
+        "name": "Scoresbysund",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Volquart Boons Kyst",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Vikingebugt",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Milne Land",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Charcot Havn",
+        "country": "Greenland",
+        "lat": 35.99445,
+        "lng": -94.17835
+      },
+      {
+        "name": "Charcot Glacier",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Harefjord",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Sydkap",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Hall Bredning",
+        "country": "Greenland",
+        "lat": 35.99445,
+        "lng": -94.17835
+      },
+      {
+        "name": "Holger Danskes Briller",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Satakajik",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Liverpool Land",
+        "country": "Greenland",
+        "lat": 53.407154,
+        "lng": -2.991665
+      },
+      {
+        "name": "Hurry Inlet",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
         "name": "Ittoqqortoormiit",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 70.485059,
         "lng": -21.964199
       },
       {
+        "name": "Blosseville Coast",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Turner Sound",
+        "country": "Greenland",
+        "lat": -35.269318,
+        "lng": 149.1234
+      },
+      {
         "name": "Akureyri",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 65.682636,
         "lng": -18.091299
       },
       {
         "name": "Reykjavik",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 64.145847,
         "lng": -21.9436
       }
@@ -1267,7 +1465,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "greenland-sailing-cruise-and-northern-lights",
     "tourName": "Grönland yelkenli kruvaziyeri ve kuzey ışıkları",
@@ -1367,37 +1565,55 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Reykjavik",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 64.145847,
         "lng": -21.9436
       },
       {
+        "name": "Denmark Strait",
+        "country": "Arctic Cruises",
+        "lat": 33.326177,
+        "lng": -81.142093
+      },
+      {
+        "name": "Scoresby Sund",
+        "country": "Greenland",
+        "lat": -37.900845,
+        "lng": 145.21909
+      },
+      {
         "name": "Ittoqqortoormiit",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 70.485059,
         "lng": -21.964199
       },
       {
-        "name": "Kuzeydoğu Grönland Milli Parkı",
-        "country": "Grönland",
+        "name": "Northeast Greenland National Park",
+        "country": "Greenland",
         "lat": 77.343406,
         "lng": -31.362971
       },
       {
-        "name": "Batı Fiyortları",
-        "country": "İzlanda",
+        "name": "Denmark Strait",
+        "country": "Arctic Cruises",
+        "lat": 33.326177,
+        "lng": -81.142093
+      },
+      {
+        "name": "Westfjords",
+        "country": "Iceland",
         "lat": 66.072692,
         "lng": -23.119354
       },
       {
         "name": "Reykjavik",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 64.145847,
         "lng": -21.9436
       }
@@ -1405,7 +1621,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "highlights-of-spitsbergen-holiday",
     "tourName": "Spitsbergen Tatilinin Öne Çıkanları",
@@ -1489,21 +1705,57 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Oslo",
-        "country": "Norveç",
+        "country": "Norway",
         "lat": 59.91333,
         "lng": 10.73897
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Norway",
+        "lat": 78.223156,
+        "lng": 15.646366
+      },
+      {
+        "name": "Monaco Glacier",
+        "country": "Arctic Cruises",
+        "lat": 43.732482,
+        "lng": 7.418962
+      },
+      {
+        "name": "Moffen Island",
+        "country": "Arctic Cruises",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Barentsburg",
+        "country": "Norway",
+        "lat": 78.06183,
+        "lng": 13.620126
+      },
+      {
+        "name": "Alkehornet mountain",
+        "country": "Arctic Cruises",
+        "lat": 36.55668,
+        "lng": -79.31942
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "iceland-to-greenland-cruise",
     "tourName": "İzlanda'dan Grönland'a cruise",
@@ -1625,51 +1877,75 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Reykjavik",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 64.145847,
         "lng": -21.9436
       },
       {
-        "name": "Batı Fiyortları",
-        "country": "İzlanda",
+        "name": "Westfjords",
+        "country": "Iceland",
         "lat": 66.072692,
         "lng": -23.119354
       },
       {
+        "name": "Prins Christian Sund",
+        "country": "Greenland",
+        "lat": 35.99445,
+        "lng": -94.17835
+      },
+      {
         "name": "Aappilattoq",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 60.150752,
         "lng": -44.285106
       },
       {
+        "name": "Tasermiut Fjord",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
         "name": "Kangerlussuaq",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 67.008677,
         "lng": -50.691336
       },
       {
+        "name": "Hvalsey",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
         "name": "Qassiarsuk",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 61.154759,
         "lng": -45.515506
       },
       {
         "name": "Nuuk",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 64.176,
         "lng": -51.7389
+      },
+      {
+        "name": "Eternity Fjord",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "luxury-spitsbergen-small-ship-cruise",
     "tourName": "Lüks Spitsbergen küçük gemi turu",
@@ -1734,10 +2010,42 @@
         "country": "Norway"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Norway",
+        "lat": 78.223156,
+        "lng": 15.646366
+      },
+      {
+        "name": "Svalbard",
+        "country": "Norway",
+        "lat": 78.223156,
+        "lng": 15.646366
+      },
+      {
+        "name": "Nordaustlandet",
+        "country": "Norway",
+        "lat": 79.8,
+        "lng": 22.4
+      }
+    ]
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "north-pole-expedition-cruise",
     "tourName": "Kuzey Kutbu keşif gemi turu",
@@ -1834,27 +2142,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Ny-Ålesund",
-        "country": "Norveç",
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Norway",
+        "lat": 78.223156,
+        "lng": 15.646366
+      },
+      {
+        "name": "Geographic North Pole",
+        "country": "Arctic Cruises",
+        "lat": 64.750623,
+        "lng": -147.350777
+      },
+      {
+        "name": "Ny-Alesund",
+        "country": "Norway",
         "lat": 62.47293,
         "lng": 6.156597
       },
       {
-        "name": "Spitsbergen'in Kuzey-Batı bölgesi",
-        "country": "Norveç",
+        "name": "North-West region of Spitsbergen",
+        "country": "Norway",
         "lat": 61.068273,
         "lng": 5.805013
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "norway-and-spitsbergen-luxury-cruise-tromso-roundtrip",
     "tourName": "Norveç ve Spitsbergen lüks kruvaziyeri, Tromsø gidiş-dönüş",
@@ -1954,7 +2286,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "scotland-to-spitsbergen-cruise",
     "tourName": "İskoçya'dan Spitsbergen'e cruise",
@@ -2056,27 +2388,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Aberdeen",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 57.148243,
         "lng": -2.092809
       },
       {
         "name": "Fair Isle",
-        "country": "Birleşik Krallık",
+        "country": "United Kingdom",
         "lat": 59.53,
         "lng": -1.63
+      },
+      {
+        "name": "Faroe Islands",
+        "country": "Arctic Cruises",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Jan Mayen",
+        "country": "Arctic Cruises",
+        "lat": 70.985852,
+        "lng": -8.400148
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Arctic Cruises",
+        "lat": 78.715404,
+        "lng": 20.294606
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Arctic Cruises",
+        "lat": 78.21651,
+        "lng": 15.634256
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "south-west-greenland-cruise",
     "tourName": "Güney & Batı Grönland Kruvaziyeri",
@@ -2250,67 +2606,121 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Reykjavik",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 64.145847,
         "lng": -21.9436
       },
       {
+        "name": "Denmark Strait",
+        "country": "Arctic Cruises",
+        "lat": 33.326177,
+        "lng": -81.142093
+      },
+      {
         "name": "Tasiilaq",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 65.615257,
         "lng": -37.637815
       },
       {
+        "name": "Ikateq",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
         "name": "Kuummiut",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 65.864461,
         "lng": -37.004268
       },
       {
+        "name": "Sermilik Fjord",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Skjoldungen",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Kap Farvel",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Prins Christian Sund",
+        "country": "Greenland",
+        "lat": 35.99445,
+        "lng": -94.17835
+      },
+      {
         "name": "Aappilattoq",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 60.150752,
         "lng": -44.285106
       },
       {
+        "name": "Tunulliarfik Fjord",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
         "name": "Itilleq",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 66.577408,
         "lng": -53.498193
       },
       {
         "name": "Igaliku",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 60.989138,
         "lng": -45.421044
       },
       {
         "name": "Qassiarsuk",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 61.154759,
         "lng": -45.515506
       },
       {
         "name": "Nuuk",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 64.176,
         "lng": -51.7389
       },
       {
-        "name": "Kangerlussuaq Fiyordu",
-        "country": "Grönland",
+        "name": "Kangaamiut",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Evighedsfjorden",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Kangerlussuaq Fjord",
+        "country": "Greenland",
         "lat": 67.008677,
         "lng": -50.691336
       },
       {
-        "name": "Kopenhag",
-        "country": "Danimarka",
+        "name": "Copenhagen",
+        "country": "Denmark",
         "lat": 55.675313,
         "lng": 12.569734
       }
@@ -2318,7 +2728,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "spitsbergen-and-north-east-greenland-cruises",
     "tourName": "Spitsbergen ve Kuzeydoğu Grönland kruvaziyerleri",
@@ -2496,25 +2906,109 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
+        "name": "Moffen",
+        "country": "Norway",
+        "lat": 48.928177,
+        "lng": 7.942042
+      },
+      {
+        "name": "Foster Bay",
+        "country": "Greenland",
+        "lat": 35.99445,
+        "lng": -94.17835
+      },
+      {
+        "name": "Myggebugten",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Kaiser Franz Josef Fjord",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Teufelschloss",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Antarctic Sound",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Alpefjord",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Antarcticahavn",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Scoresbysund",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Danmark Island",
+        "country": "Greenland",
+        "lat": 53.88062,
+        "lng": -6.540425
+      },
+      {
+        "name": "Sydkap",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
+        "name": "Liverpool Land",
+        "country": "Greenland",
+        "lat": 53.407154,
+        "lng": -2.991665
       },
       {
         "name": "Ittoqqortoormiit",
-        "country": "Grönland",
+        "country": "Greenland",
         "lat": 70.485059,
         "lng": -21.964199
       },
       {
+        "name": "Blosseville Coast",
+        "country": "Greenland",
+        "lat": 43.037025,
+        "lng": -70.832356
+      },
+      {
         "name": "Akureyri",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 65.682636,
         "lng": -18.091299
       },
       {
         "name": "Reykjavik",
-        "country": "İzlanda",
+        "country": "Iceland",
         "lat": 64.145847,
         "lng": -21.9436
       }
@@ -2522,7 +3016,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "spitsbergen-arctic-cruise",
     "tourName": "Spitsbergen Kutup Turu",
@@ -2639,15 +3133,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Oslo",
-        "country": "Norveç",
+        "country": "Norway",
         "lat": 59.91333,
         "lng": 10.73897
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Svalbard",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
+        "name": "Northwest Spitsbergen National Park",
+        "country": "Svalbard",
+        "lat": 78.223156,
+        "lng": 15.646366
       },
       {
         "name": "Kongsfjord",
@@ -2656,14 +3162,32 @@
         "lng": 20.294606
       },
       {
+        "name": "Eastern Spitsbergen",
+        "country": "Svalbard",
+        "lat": 78.223156,
+        "lng": 15.646366
+      },
+      {
+        "name": "Hornsund",
+        "country": "Svalbard",
+        "lat": 77.00156,
+        "lng": 15.544538
+      },
+      {
         "name": "Bellsund",
         "country": "Svalbard",
         "lat": 78.715404,
         "lng": 20.294606
       },
       {
+        "name": "Longyearbyen",
+        "country": "Svalbard",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
         "name": "Oslo",
-        "country": "Norveç",
+        "country": "Norway",
         "lat": 59.91333,
         "lng": 10.73897
       }
@@ -2671,7 +3195,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "spitsbergen-cruise-6-days",
     "tourName": "Spitsbergen kruvaziyeri, 6 gün",
@@ -2770,21 +3294,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
+        "name": "Barentsburg",
+        "country": "Norway",
+        "lat": 78.06183,
+        "lng": 13.620126
+      },
+      {
+        "name": "Moffen",
+        "country": "Arctic Cruises",
+        "lat": 48.928177,
+        "lng": 7.942042
+      },
+      {
+        "name": "Kongsfjorden",
+        "country": "Arctic Cruises",
+        "lat": 60.042272,
+        "lng": 9.207654
       },
       {
         "name": "Ny-Ålesund",
-        "country": "Norveç",
+        "country": "Norway",
         "lat": 62.47293,
         "lng": 6.156597
+      },
+      {
+        "name": "Isfjorden",
+        "country": "Arctic Cruises",
+        "lat": 62.577896,
+        "lng": 7.793753
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "spitsbergen-in-depth-cruise",
     "tourName": "Spitsbergen Derinliklerinde Kruvaziyer",
@@ -2841,10 +3395,36 @@
         "country": "Norway"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
+        "name": "Svalbard Archipelago",
+        "country": "Norway",
+        "lat": 78.223156,
+        "lng": 15.646366
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Norway",
+        "lat": 78.223156,
+        "lng": 15.646366
+      }
+    ]
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "spitsbergen-wildlife-cruise",
     "tourName": "Spitsbergen yaban hayatı kruvaziyeri",
@@ -2921,19 +3501,43 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Helsinki",
-        "country": "Finlandiya",
+        "country": "Finland",
         "lat": 60.167507,
         "lng": 24.941822
       },
       {
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
+        "name": "Spitsbergen",
+        "country": "Norway",
+        "lat": 78.223156,
+        "lng": 15.646366
+      },
+      {
+        "name": "Svalbard Archipelago",
+        "country": "Norway",
+        "lat": 78.223156,
+        "lng": 15.646366
+      },
+      {
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
         "name": "Helsinki",
-        "country": "Finlandiya",
+        "country": "Finland",
         "lat": 60.167507,
         "lng": 24.941822
       }
@@ -2941,7 +3545,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Arctic Cruises",
+    "destination": "Arktik Kruvaziyer",
     "mainPhoto": "",
     "id": "svalbard-luxury-cruise-in-the-arctic",
     "tourName": "Svalbard lüks kruvaziyeri Arktik'te",
@@ -3045,31 +3649,43 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "14 Temmuz Buzulu",
-        "country": "Norveç",
+        "name": "Longyearbyen",
+        "country": "Norway",
+        "lat": 78.21651,
+        "lng": 15.634256
+      },
+      {
+        "name": "Fourteenth of July Glacier",
+        "country": "Norway",
         "lat": 64.176209,
         "lng": 13.835835
       },
       {
-        "name": "Ny Ålesund",
-        "country": "Norveç",
-        "lat": 62.47293,
-        "lng": 6.156597
+        "name": "Monaco Glacier",
+        "country": "Norway",
+        "lat": 43.732482,
+        "lng": 7.418962
+      },
+      {
+        "name": "Hornsund",
+        "country": "Norway",
+        "lat": 77.00156,
+        "lng": 15.544538
       },
       {
         "name": "Bell Sund",
-        "country": "Norveç",
+        "country": "Norway",
         "lat": 68.00516,
         "lng": 13.207977
       },
       {
         "name": "Isfjorden",
-        "country": "Norveç",
+        "country": "Norway",
         "lat": 62.577896,
         "lng": 7.793753
       }

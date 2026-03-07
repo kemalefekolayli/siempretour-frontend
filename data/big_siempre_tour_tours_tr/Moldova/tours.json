@@ -112,12 +112,12 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Çiçinau",
+        "name": "Chisinau",
         "country": "Moldova",
         "lat": 47.02416,
         "lng": 28.837374
@@ -133,6 +133,24 @@
         "country": "Moldova",
         "lat": 47.492275,
         "lng": 28.635016
+      },
+      {
+        "name": "Transdniestr",
+        "country": "Moldova",
+        "lat": 18.479528,
+        "lng": -69.94257
+      },
+      {
+        "name": "Tiraspol",
+        "country": "Moldova",
+        "lat": 46.83711,
+        "lng": 29.610999
+      },
+      {
+        "name": "Tighina",
+        "country": "Moldova",
+        "lat": 44.573154,
+        "lng": 24.295488
       },
       {
         "name": "Cricova",
@@ -151,6 +169,12 @@
         "country": "Moldova",
         "lat": 46.3007,
         "lng": 28.656317
+      },
+      {
+        "name": "Gagauzia",
+        "country": "Moldova",
+        "lat": 46.301119,
+        "lng": 28.655881
       }
     ],
     "__trTranslated": true
@@ -263,9 +287,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Chisinau",
@@ -308,6 +332,24 @@
         "country": "Moldova",
         "lat": 48.155106,
         "lng": 28.30202
+      },
+      {
+        "name": "Transdniestr",
+        "country": "null",
+        "lat": 46.83711,
+        "lng": 29.610999
+      },
+      {
+        "name": "Tiraspol",
+        "country": "null",
+        "lat": 46.83711,
+        "lng": 29.610999
+      },
+      {
+        "name": "Causeni",
+        "country": "null",
+        "lat": 46.639591,
+        "lng": 29.405663
       }
     ],
     "__trTranslated": true

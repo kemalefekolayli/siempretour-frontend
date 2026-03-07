@@ -1,11 +1,11 @@
 [
   {
-    "destination": "Scotland",
+    "destination": "İskoçya",
     "mainPhoto": "",
     "id": "wildlife-holiday-in-the-isle-of-mull-scotland",
-    "tourName": "Wildlife holiday in the Isle of Mull, Scotland",
-    "placesVisited": "Isle of Mull, Full day wildlife safari, 6 hour whale watching trip, Exert wildlife guides",
-    "generalInfo": "This five day tailor made holiday to see Isle of Mull wildlife in all its glory starts in Oban, where you will take the ferry over to the island. An island with fecund fauna, you will have the services of naturalist guides, expert in Hebrides wildlife. With two full days of guided wildlife safaris, one will focus on land, with bird watching treats that include golden eagles sweeping over the island’s tranquil valleys and sea eagles dipping in and out of the island’s rocky and sandy bays. The island’s marshlands are perfect habitats for hen harriers and walks on quiet, rural lanes are great times to spot cuckoos, mistle thrush or skylarks. The highlight of your day may be stealthily watching otters at play by the loch shore.<br/><br/>The second guided safari is at sea, this time to go wildlife and whale watching, guided by expert local guides who are also local conservationists. Your trip supports their work to monitor and protect minke whales, dolphins and porpoises as well as basking sharks. On your trip, you will search for all of these species, which frequent the waters off Mull over the summer months. Orca, or killer whales, pass through from time to time if you are very lucky.<br/><br/>Small but perfectly formed, your small hotel resides amidst Tobermorys elegant conservation area. High above the harbour, you can escape the village bustle yet are still just a short walk from Main Street. Sweeping views across the bay can be enjoyed from large comfortable sofas in one of the two guest lounges. With just six small, but beautifully furnished, bedrooms two even have a four-poster bed the friendly owners aim to make your stay a rather luxurious home from home.",
+    "tourName": "İskoçya'nın Mull Adası'nda Vahşi Yaşam Tatili",
+    "placesVisited": "Mull Adası, Tam gün vahşi yaşam safari, 6 saatlik balina izleme gezisi, Uzman vahşi yaşam rehberleri",
+    "generalInfo": "Bu beş günlük özel tatil, Mull Adası’ndaki vahşi yaşamı tüm güzelliğiyle görme fırsatı sunuyor ve Oban'da başlayarak adaya feribotla geçiyorsunuz. Verimli fauna ile dolu bir ada olan Mull, Hebridler'in vahşi yaşamında uzman doğa rehberlerinin hizmetindedir. İki tam gün süren rehberli vahşi yaşam safariyle, bir gün karaya odaklanacak; bu sırada, adanın huzur dolu vadilerinde süzülen altın kartallar ve kayalık ve kumlu koylarda gezinen deniz kartallarını gözlemleyeceksiniz. Adanın bataklık alanları, dişi şahinler için mükemmel yaşam alanlarıdır ve sakin kırsal yollarda yürüyüş yapmak, yılkı kuşları, oğul otu veya skylark'ları görmek için harika fırsatlar sunar. Gününüzün en önemli anı, Loch kıyısında oyun oynayan fokları gizlice izlemek olabilir.<br/><br/>İkinci rehberli safari denizde olacak; bu kez vahşi yaşam ve balina izleme gezisi için, yerel korumacılardan oluşan uzman rehberler eşliğinde çıkacaksınız. Geziniz, minke balinaları, yunuslar ve sazan köpekbalıkları gibi türleri izlemekte ve korumakta yürüttükleri çalışmalara destek oluyor. Yolculuğunuz sırasında, yaz aylarında Mull sularında sıkça görülen bu türlerin peşinde olacaksınız. Eğer çok şanslıysanız, katil balinalar da bazen geçebilir.<br/><br/>Küçük ama mükemmel bir şekilde tasarlanmış, oteliniz Tobermory'nin zarif koruma alanında yer alıyor. Limanın yükseklerinde, köyün kalabalığından kaçış sağlayabilirken, yine de Main Street'ten sadece kısa bir yürüyüş mesafesindesiniz. İki misafir salonundan birinde büyük, konforlu koltuklarda koydan muhteşem manzaraların tadını çıkarabilirsiniz. Sadece altı küçük ama zarif döşenmiş yatak odası bulunmaktadır; bunlardan ikisi bile dört ayaklı bir yatağa sahiptir ve dostane sahipleri, konaklamanızı biraz lüks bir ev gibi hissettirmeyi amaçlıyor.",
     "durationDays": "5",
     "price": "1045",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -24,30 +24,65 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Take the ferry from Oban to the Isle of Mull"
+        "description": "Oban'dan Mull Adası'na feribotla geçin"
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Full day \"wildlife safari\" to spot eagles, otters and more"
+        "description": "Altın kartalları, fokları ve daha fazlasını görmek için tam gün \"vahşi yaşam safari\""
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "Wildlife and whale-watching boat trip"
+        "description": "Vahşi yaşam ve balina izleme bot gezisi"
       },
       {
         "dayNumber": 4,
         "title": "",
-        "description": "Day at leisure to explore the island"
+        "description": "Adayı keşfetmek için serbest zaman"
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "Return home"
+        "description": "Eve dönüş"
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Oban",
+        "country": "Scotland"
+      },
+      {
+        "name": "Isle of Mull",
+        "country": "Scotland"
+      }
+    ],
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Oban",
+        "country": "Scotland",
+        "lat": 56.414654,
+        "lng": -5.4726
+      },
+      {
+        "name": "Isle of Mull",
+        "country": "Scotland",
+        "lat": 56.62299,
+        "lng": -6.06591
+      }
+    ]
   }
 ]

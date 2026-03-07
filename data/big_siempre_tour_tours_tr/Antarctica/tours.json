@@ -1,6 +1,206 @@
 [
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
+    "mainPhoto": "",
+    "id": "RACA",
+    "tourName": "Klasik Antarktika",
+    "placesVisited": "Antarktika, Arjantin",
+    "generalInfo": "Bu muhteşem Antarktika  turu için bize katılın! Uzak Beyaz Kıta İki yüzyıl boyunca, bilim adamları ve kaşifleri hep kendine çekti ve şimdi bu donmuş topraklar  kapılarını macera gezginlerine açıyor.<br><br>Tierra del Fuego'nun büyüleyici takımadalarından Antarktika Yarımadasına yolculuk yapın ve eşsiz vahşi yaşam, görkemli buzdağları ve muhteşem manzaralarla büyülenin. Büyük penguen kolonileri, görkemli balinalar ve nefes kesen buzdağlarının manzaraları her geçen güne göre daha inanılmaz olacak.<br><br>Antartika, diğer yerlere  göre  zamanın ve dünyanın son büyük, bozulmamış vahşi doğalarından biri olarak tarif edilen bir bölgedir.<br><br>Bir zamanlar sadece en cesur maceracıların gittiği bu zorlu kıtaya  şimdi küçük maceraperest grupları buza dayanıklı Antarktika keşif gemileriyle gidiyor. Uzman bir ekibin desteği  ile karaya çıkış ve yürüyüşler  ve muhteşem yaban hayatı izleme fırsatını deneyimleme şansı veriyor.<br><br>Antarktika, dünyanın en soğuk, en rüzgarlı ve en kuru yeridir, o kadar az yağış vardır ki, teknik olarak çöldür ya da ağaç yoktur. kalın buz tabakalarının altındaki arazi yaklaşık % 98 buz ve % 2 çorak kayadır. bu yüzden dağlar, volkanlar, çöller, meteorlar, dinozor fosillerinden oluşan bu  bu dinamik ve farklı kıtayı  görmek için Antarktika'ya gidin. Kuzey Kutbu'ndan farklı olarak, kıtada yerli memeliler yoktur, ancak Antarktika'ya yapılan bu tur sırasında çeşitli türlerde penguenleri, balinaları ve deniz kuşlarını fotoğraflamak mümkündür.",
+    "durationDays": "10",
+    "price": "7000",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Konaklama:</strong></p>\n<ul>\n<li>- Teknede 9 gece</li>\n</ul>\n<p><strong>Yemekler </strong></p>\n<ul>\n<li>- 9 Kahvaltı, 8 Öğlen Yemekleri, 8 Akşam Yemeği</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Ushuaia'ya Giden - M / V Ushuaia",
+        "description": "Gemimizi, M / V Ushuaia'ya saat 16.00'da Ushuaia'nın Tierra del Fuego Limanı'na bineriz ve Beagle Kanalı, Mackinley Geçidi ile 7: 00'de yelken açarak Logos batığını geçeriz. Ushuaia, yaklaşık 42.000 nüfusu ile Arjantin Tierra del Fuego'dadır. Dünyanın en güneydeki şehri Ushuaia, karla kaplı tepeler, güzel bir koy ve Charles Darwin'in 1830'ların keşif gemisinden adını alan Beagle Kanalı ile çevrilidir. Ushuaia'nın tarihi, eski binalarının çoğunda hala görülebilir ve birkaç mükemmel müze de vardır."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Denizde",
+        "description": "1578 yılında bu suları gezen ünlü kaşif Sir Frances Drake'in adını taşıyan Drake Geçidi, soğuk kutup sularının daha sıcak suların altına çöktüğü biyolojik bir bariyer olan Antarktika birleşim yerini de işaret ediyor. Denizdeki alt su tabakasının üste doğru çıkması  , bu bölgenin biyo çeşitliliğini sürdürebilmesini  sağlayan büyük bir besin kaynağı yaratır. Drake Geçidi de birçok Antarktik deniz kuşunun kuzey sınırını işaret ediyorGeçit boyunca ilerlerken, rehberiniz güvertede  , albatroslar dahil olmak üzere deniz kuşlarının muhteşem çeşitliliği hakkında bilgi vermek  için sizinle birlikte olacaklar."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Güney Shetland Adaları - Antarktika Yarımadası",
+        "description": "Güney Shetland Adaları yaban hayatı için bir cennettir. Antarktik kürk fokları ve güney fil foklarının hükmettiği  bu plajlar ve penguen gezileri, bu muhteşem  ada grubundaki  her günü unutulmaz hale getiriyor.   Deception Adası'nın su altındaki kalderasına açılan dar geçitte yelken açmak ve Pendolum Koyu'nun kaplıcalarında yüzme şansı sizi gerçekten şaşırtacak. Güney Shetland Adaları'nın en büyüğü olan Kral George ve  Livingston Adası, yosun martıları, mavi gözlü karabataklar, deniz kırlangıçları  Adélie,  Chinstrap , Gentoo Penguenleri , dev fırtına kuşları ve fil foklarına ev sahipliği yapıyor."
+      },
+      {
+        "dayNumber": 8,
+        "title": "At sea – Drake Passage",
+        "description": "Antarktika'dan ayrılıp ve Drake Geçidi boyunca kuzeye gidiyoruz. güvertede deniz kuşlarını ve balinaları araştırmak  ve son derslerin tadını çıkarmak için , öğretim üyelerimizle ve doğa bilimcilerimizle buluşuyoruz. Ushuaia'ya dönüşte, geçmiş günlerin büyüleyici maceralarını rahatlama ve düşünme şansını yakalayın."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Ushuaia'dan Ayrılış",
+        "description": "Adelie Penguenleri ve Mavi Gözlü karabataklarını görebileceğimiz Pleneau ve Petermann Adası'na giden muhteşem Lemaire Kanalı'ndan geçiyoruz. Burada Kambur, Minke ve Fin Balinaları ile  karşılaşma şansı var.  Antarktika'daki bilimsel istasyonlardan birine yapılacak bir ziyaret, Beyaz Kıta üzerinde çalışan modern Antarktikaların hayatı hakkında size bir fikir verecek. Daha güneyde  de Ukrayna Vernadsky İstasyonu'nu ziyaret ediyoruz. Daha sonra  Neumayer Kanalı'ndan kuzeye doğru yelken açıyoruz. Leopar ve yengeçyiyen fokları  ve balinalarla karşılaşabileceğimiz buzdağları ile çok güzel bir manzaraya sahip Melchior Adaları'na varıyoruz."
+      }
+    ],
+    "map": "",
+    "category": "Polar",
+    "route": [
+      {
+        "name": "Antarktika",
+        "country": null
+      },
+      {
+        "name": "Arjantin",
+        "country": "Arjantin"
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Arjantin"
+      },
+      {
+        "name": "Drake Geçidi",
+        "country": null
+      },
+      {
+        "name": "Güney Shetland Adaları",
+        "country": null
+      },
+      {
+        "name": "Antarktika Yarımadası",
+        "country": null
+      },
+      {
+        "name": "Deception Adası",
+        "country": null
+      },
+      {
+        "name": "Kral George Adası",
+        "country": null
+      },
+      {
+        "name": "Livingston Adası",
+        "country": null
+      },
+      {
+        "name": "Pleneau Adası",
+        "country": null
+      },
+      {
+        "name": "Petermann Adası",
+        "country": null
+      },
+      {
+        "name": "Lemaire Kanalı",
+        "country": null
+      },
+      {
+        "name": "Ukrayna Vernadsky İstasyonu",
+        "country": null
+      },
+      {
+        "name": "Neumayer Kanalı",
+        "country": null
+      },
+      {
+        "name": "Melchior Adaları",
+        "country": null
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Arjantin",
+        "country": "Arjantin",
+        "lat": -29.53495,
+        "lng": -62.26615
+      },
+      {
+        "name": "Ushuaia",
+        "country": "Arjantin",
+        "lat": -54.806793,
+        "lng": -68.3064
+      },
+      {
+        "name": "Drake Geçidi",
+        "country": "Antarktika",
+        "lat": 47.924218,
+        "lng": -100.370606
+      },
+      {
+        "name": "Güney Shetland Adaları",
+        "country": "Antarktika",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Deception Adası",
+        "country": "Antarktika",
+        "lat": -62.976944,
+        "lng": -60.65
+      },
+      {
+        "name": "Kral George Adası",
+        "country": "Antarktika",
+        "lat": -62.033333,
+        "lng": -58.35
+      },
+      {
+        "name": "Livingston Adası",
+        "country": "Antarktika",
+        "lat": -62.6,
+        "lng": -60.5
+      },
+      {
+        "name": "Pleneau Adası",
+        "country": "Antarktika",
+        "lat": 45.081936,
+        "lng": 19.221844
+      },
+      {
+        "name": "Petermann Adası",
+        "country": "Antarktika",
+        "lat": 45.081936,
+        "lng": 19.221844
+      },
+      {
+        "name": "Lemaire Kanalı",
+        "country": "Antarktika",
+        "lat": 36.917126,
+        "lng": 30.674244
+      },
+      {
+        "name": "Ukrayna Vernadsky İstasyonu",
+        "country": "Antarktika",
+        "lat": 40.827354,
+        "lng": 29.321386
+      },
+      {
+        "name": "Neumayer Kanalı",
+        "country": "Antarktika",
+        "lat": 36.917126,
+        "lng": 30.674244
+      },
+      {
+        "name": "Melchior Adaları",
+        "country": "Antarktika",
+        "lat": 40.87472,
+        "lng": 29.12828
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "ocean-albatros-antarctica-buenos-aires-ushuaia",
     "tourName": "Ocean Albatros ile Antarktika, Buenos Aires, Ushuaia",
@@ -167,7 +367,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "active-argentina-and-antarctic-cruise-holiday",
     "tourName": "Aktif Arjantin ve Antarktika Kruvaziyeri Tatili",
@@ -281,37 +481,61 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Buenos Aires",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -34.607568,
         "lng": -58.437089
       },
       {
         "name": "El Chalten",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -49.331,
         "lng": -72.88523
       },
       {
         "name": "El Calafate",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -50.337997,
         "lng": -72.26468
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
         "name": "Buenos Aires",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -34.607568,
         "lng": -58.437089
       }
@@ -319,7 +543,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctic-diving-expedition",
     "tourName": "Antarktik dalış ekspedisyonu",
@@ -453,21 +677,123 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Melchior Islands",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Schollaert Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Brabant Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Anvers Island",
+        "country": "Antarctica",
+        "lat": -64.6,
+        "lng": -63.5
+      },
+      {
+        "name": "Cuverville Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Danco Island",
+        "country": "Antarctica",
+        "lat": 5.76667,
+        "lng": 37.55
+      },
+      {
+        "name": "Neko Harbour",
+        "country": "Antarctica",
+        "lat": 38.98866,
+        "lng": -80.08428
+      },
+      {
+        "name": "Paradise Bay",
+        "country": "Antarctica",
+        "lat": 47.33363,
+        "lng": -79.52962
+      },
+      {
+        "name": "Port Lockroy",
+        "country": "Antarctica",
+        "lat": 38.688194,
+        "lng": 0.133074
+      },
+      {
+        "name": "Goudier Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Jougla Point",
+        "country": "Antarctica",
+        "lat": 16.238655,
+        "lng": -61.534733
+      },
+      {
+        "name": "Pléneau Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Petermann Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Lemaire Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Wilhelmina Bay",
+        "country": "Antarctica",
+        "lat": 28.419409,
+        "lng": -81.58259
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctic-expedition-cruise-fly-the-drake-passage",
     "tourName": "Antarktika keşif kruvaziyeri, Drake Boğazı'nı uçarak geçin",
@@ -581,27 +907,99 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Punta Arenas",
-        "country": "Şili",
+        "country": "Chile",
         "lat": -53.163063,
         "lng": -70.90529
       },
       {
-        "name": "King George Adası",
-        "country": "Antarktika",
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "King George Island",
+        "country": "Antarctica",
         "lat": -62.033333,
         "lng": -58.35
+      },
+      {
+        "name": "Fildes Bay",
+        "country": "Antarctica",
+        "lat": 14.181805,
+        "lng": 121.28256
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Cierva Cove",
+        "country": "Antarctica",
+        "lat": 29.805069,
+        "lng": -94.839982
+      },
+      {
+        "name": "Port Lockroy",
+        "country": "Antarctica",
+        "lat": 38.688194,
+        "lng": 0.133074
+      },
+      {
+        "name": "Petermann Island",
+        "country": "Antarctica",
+        "lat": 54.60346,
+        "lng": -5.887237
+      },
+      {
+        "name": "Paradise Bay",
+        "country": "Antarctica",
+        "lat": 47.33363,
+        "lng": -79.52962
+      },
+      {
+        "name": "Lemaire Channel",
+        "country": "Antarctica",
+        "lat": 45.212761,
+        "lng": -72.231493
+      },
+      {
+        "name": "Prospect",
+        "country": "Antarctica",
+        "lat": 38.345452,
+        "lng": -85.615913
+      },
+      {
+        "name": "Fish Islands",
+        "country": "Antarctica",
+        "lat": 29.967646,
+        "lng": -91.543465
+      },
+      {
+        "name": "Polar Circle",
+        "country": "Antarctica",
+        "lat": 39.601887,
+        "lng": -82.945099
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctic-explorer-cruise",
     "tourName": "Antarktik kaşif kruvaziyeri",
@@ -692,19 +1090,49 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "Beagle Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       }
@@ -712,7 +1140,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctic-peninsula-and-south-shetland-islands-cruise",
     "tourName": "Antarktika Yarımadası ve Güney Shetland Adaları kruvaziyeri",
@@ -786,27 +1214,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Punta Arenas",
-        "country": "Şili",
+        "country": "Chile",
         "lat": -53.163063,
         "lng": -70.90529
       },
       {
-        "name": "King George Adası",
-        "country": "Antarktika",
+        "name": "King George Island",
+        "country": "Antarctica",
         "lat": -62.033333,
         "lng": -58.35
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctic-peninsula-and-weddell-sea-cruise",
     "tourName": "Antarktika Yarımadası ve Weddell Denizi kruvaziyeri",
@@ -905,21 +1345,69 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
+      },
+      {
+        "name": "Beagle Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "Half Moon Island",
+        "country": "Antarctica",
+        "lat": 53.361782,
+        "lng": -7.771266
+      },
+      {
+        "name": "Deception Island",
+        "country": "Antarctica",
+        "lat": -62.976944,
+        "lng": -60.65
+      },
+      {
+        "name": "Weddell Sea",
+        "country": "Antarctica",
+        "lat": 38.982655,
+        "lng": -76.85141
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Elephant Island",
+        "country": "Antarctica",
+        "lat": -61.133333,
+        "lng": -55.116667
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctic-peninsula-crossing-the-polar-circle-cruise",
     "tourName": "Antarktik Yarımadası Kutuplar Çizgisi Geçişi Kruvaziyeri",
@@ -1021,19 +1509,67 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "Beagle Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "Deception Island",
+        "country": "Antarctica",
+        "lat": -62.976944,
+        "lng": -60.65
+      },
+      {
+        "name": "Petermann Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Pleneau Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Detaille Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       }
@@ -1041,7 +1577,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctic-peninsula-cruise",
     "tourName": "Antarktika Yarımadası Kruvaziyeri",
@@ -1128,19 +1664,43 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Beagle Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       }
@@ -1148,7 +1708,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctic-peninsula-cruises",
     "tourName": "Antarktika Yarımadası Kruvaziyerleri",
@@ -1282,21 +1842,123 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Melchior Islands",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Schollaert Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Brabant Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Anvers Island",
+        "country": "Antarctica",
+        "lat": -64.6,
+        "lng": -63.5
+      },
+      {
+        "name": "Cuverville Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Danco Island",
+        "country": "Antarctica",
+        "lat": 5.76667,
+        "lng": 37.55
+      },
+      {
+        "name": "Neko Harbour",
+        "country": "Antarctica",
+        "lat": 38.98866,
+        "lng": -80.08428
+      },
+      {
+        "name": "Paradise Bay",
+        "country": "Antarctica",
+        "lat": 47.33363,
+        "lng": -79.52962
+      },
+      {
+        "name": "Port Lockroy",
+        "country": "Antarctica",
+        "lat": 38.688194,
+        "lng": 0.133074
+      },
+      {
+        "name": "Goudier Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Booth Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Pléneau Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Petermann Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Lemaire Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Wilhelmina Bay",
+        "country": "Antarctica",
+        "lat": 28.419409,
+        "lng": -81.58259
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctic-wildlife-cruise-and-penguin-safari",
     "tourName": "Antarktik yaban hayatı kruvaziyeri ve penguen safarisi",
@@ -1389,19 +2051,37 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "South Georgia",
+        "country": "null",
+        "lat": -54.283307,
+        "lng": -36.495451
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "null",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Drake Passage",
+        "country": "null",
+        "lat": 47.924218,
+        "lng": -100.370606
+      },
+      {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       }
@@ -1409,7 +2089,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctica-fly-cruise",
     "tourName": "Antarktika uçuşlu gemi turu",
@@ -1487,27 +2167,45 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Punta Arenas",
-        "country": "Şili",
+        "country": "Chile",
         "lat": -53.163063,
         "lng": -70.90529
       },
       {
-        "name": "King George Adası",
-        "country": "Antarktika",
+        "name": "King George Island",
+        "country": "Antarctica",
         "lat": -62.033333,
         "lng": -58.35
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Deception Island",
+        "country": "Antarctica",
+        "lat": -62.976944,
+        "lng": -60.65
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctica-semi-circumnavigation-expedition-cruise",
     "tourName": "Antarktika yarım çevirme keşif gemi turu",
@@ -1729,49 +2427,187 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Buenos Aires",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -34.607568,
         "lng": -58.437089
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
-        "name": "Macquarie Adası",
-        "country": "Avustralya",
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Deception Island",
+        "country": "Antarctica",
+        "lat": -62.976944,
+        "lng": -60.65
+      },
+      {
+        "name": "Neko Harbor",
+        "country": "Antarctica",
+        "lat": 39.93648,
+        "lng": -82.44786
+      },
+      {
+        "name": "Paradise Bay",
+        "country": "Antarctica",
+        "lat": 47.33363,
+        "lng": -79.52962
+      },
+      {
+        "name": "Lemaire Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Petermann Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica",
+        "lat": 39.601887,
+        "lng": -82.945099
+      },
+      {
+        "name": "Marguerite Bay",
+        "country": "Antarctica",
+        "lat": 28.419409,
+        "lng": -81.58259
+      },
+      {
+        "name": "Stonington Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Bellingshausen Sea",
+        "country": "Antarctica",
+        "lat": 47.603243,
+        "lng": -122.330286
+      },
+      {
+        "name": "Amundsen Sea",
+        "country": "Antarctica",
+        "lat": 47.603243,
+        "lng": -122.330286
+      },
+      {
+        "name": "Ross Sea",
+        "country": "Antarctica",
+        "lat": -42.89756,
+        "lng": 170.8158
+      },
+      {
+        "name": "Ross Island",
+        "country": "Antarctica",
+        "lat": -77.5,
+        "lng": 168
+      },
+      {
+        "name": "Cape Royds",
+        "country": "Antarctica",
+        "lat": 8.457232,
+        "lng": 123.21364
+      },
+      {
+        "name": "Cape Evans",
+        "country": "Antarctica",
+        "lat": 42.650122,
+        "lng": -79.03343
+      },
+      {
+        "name": "McMurdo Station",
+        "country": "Antarctica",
+        "lat": 52.071407,
+        "lng": 4.318335
+      },
+      {
+        "name": "Mount Erebus",
+        "country": "Antarctica",
+        "lat": 50.482548,
+        "lng": -4.612778
+      },
+      {
+        "name": "Discovery Hut",
+        "country": "Antarctica",
+        "lat": -7.128638,
+        "lng": 110.40715
+      },
+      {
+        "name": "Victoria Land",
+        "country": "Antarctica",
+        "lat": -37.00919,
+        "lng": 143.1347
+      },
+      {
+        "name": "Terra Nova Bay",
+        "country": "Antarctica",
+        "lat": 10.509168,
+        "lng": 11.673815
+      },
+      {
+        "name": "Cape Adare",
+        "country": "Antarctica",
+        "lat": 52.564156,
+        "lng": -8.790634
+      },
+      {
+        "name": "Balleny Islands",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Macquarie Island",
+        "country": "Australia",
         "lat": -54.63,
         "lng": 158.86
       },
       {
-        "name": "Campbell Adası",
-        "country": "Yeni Zelanda",
+        "name": "Campbell Island",
+        "country": "New Zealand",
         "lat": -52.534215,
         "lng": 169.166525
       },
       {
-        "name": "Auckland Adaları",
-        "country": "Yeni Zelanda",
+        "name": "Auckland Islands",
+        "country": "New Zealand",
         "lat": -36.846996,
         "lng": 174.76591
       },
       {
         "name": "Lyttelton",
-        "country": "Yeni Zelanda",
+        "country": "New Zealand",
         "lat": -43.602966,
         "lng": 172.72267
       },
       {
         "name": "Christchurch",
-        "country": "Yeni Zelanda",
+        "country": "New Zealand",
         "lat": -43.533516,
         "lng": 172.63503
       }
@@ -1779,7 +2615,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctica-small-ship-cruises",
     "tourName": "Antarktika küçük gemi turları",
@@ -1920,27 +2756,87 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "Beagle Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Falkland Islands",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
         "name": "Stanley",
-        "country": "Falkland Adaları",
+        "country": "Falkland Islands",
         "lat": -51.674275,
         "lng": -57.804029
+      },
+      {
+        "name": "South Georgia",
+        "country": "Antarctica",
+        "lat": -54.283307,
+        "lng": -36.495451
+      },
+      {
+        "name": "Shackleton's grave",
+        "country": "South Georgia",
+        "lat": 31.77023,
+        "lng": -84.52017
+      },
+      {
+        "name": "South Orkney Islands",
+        "country": "Antarctica",
+        "lat": 58.685556,
+        "lng": -3.116667
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Half Moon Island",
+        "country": "Antarctica",
+        "lat": 53.361782,
+        "lng": -7.771266
+      },
+      {
+        "name": "Deception Island",
+        "country": "Antarctica",
+        "lat": -62.976944,
+        "lng": -60.65
+      },
+      {
+        "name": "Hannah point",
+        "country": "Antarctica",
+        "lat": 40.082874,
+        "lng": -74.06832
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "antarctica-south-georgia-falklands-luxury-cruise",
     "tourName": "Antarktika, Güney Georgia & Falklandlar lüks kruvaziyeri",
@@ -2061,21 +2957,87 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
+      },
+      {
+        "name": "Falklands",
+        "country": "Antarctica",
+        "lat": 50.5004,
+        "lng": -119.55854
+      },
+      {
+        "name": "South Georgia",
+        "country": "Antarctica",
+        "lat": -54.283307,
+        "lng": -36.495451
+      },
+      {
+        "name": "Salisbury Plain",
+        "country": "Antarctica",
+        "lat": -34.764984,
+        "lng": 138.66069
+      },
+      {
+        "name": "Fortuna Bay",
+        "country": "Antarctica",
+        "lat": 26.53305,
+        "lng": -78.608467
+      },
+      {
+        "name": "Grytviken",
+        "country": "Antarctica",
+        "lat": -54.284218,
+        "lng": -36.494513
+      },
+      {
+        "name": "St Andrew's Bay",
+        "country": "Antarctica",
+        "lat": 17.945013,
+        "lng": -76.686524
+      },
+      {
+        "name": "Gold Bay",
+        "country": "Antarctica",
+        "lat": 47.855164,
+        "lng": -121.698025
+      },
+      {
+        "name": "Weddell Sea",
+        "country": "Antarctica",
+        "lat": 38.982655,
+        "lng": -76.85141
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Deception Island",
+        "country": "Antarctica",
+        "lat": -62.976944,
+        "lng": -60.65
+      },
+      {
+        "name": "Half Moon Island",
+        "country": "Antarctica",
+        "lat": 53.361782,
+        "lng": -7.771266
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "argentina-antarctica-1-month-holiday",
     "tourName": "Arjantin & Antarktika 1 aylık tatil",
@@ -2200,31 +3162,55 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Buenos Aires",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -34.607568,
         "lng": -58.437089
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "West Falklands",
+        "country": "null",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
         "name": "Stanley",
-        "country": "Falkland Adaları",
+        "country": "Falkland Islands",
         "lat": -51.674275,
         "lng": -57.804029
       },
       {
+        "name": "South Georgia",
+        "country": "null",
+        "lat": -54.283307,
+        "lng": -36.495451
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "null",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Drake Passage",
+        "country": "null",
+        "lat": 47.924218,
+        "lng": -100.370606
+      },
+      {
         "name": "Pampas",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -29.53495,
         "lng": -62.26615
       }
@@ -2232,7 +3218,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "best-of-antarctica-holiday",
     "tourName": "Antarktika'nın En İyisi Tatili",
@@ -2319,27 +3305,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "Beagle Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
         "name": "Tierra del Fuego",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806933,
         "lng": -68.307325
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "cruise-crossing-the-antarctic-circle",
     "tourName": "Antarktik Dairesi'ni Geçen Kruvaziyer",
@@ -2448,31 +3458,61 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Buenos Aires",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -34.607568,
         "lng": -58.437089
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica",
+        "lat": 47.417271,
+        "lng": -105.587722
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
         "name": "Buenos Aires",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -34.607568,
         "lng": -58.437089
       }
@@ -2480,7 +3520,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "epic-antarctica-cruise",
     "tourName": "Epik Antarktika Kruvaziyeri",
@@ -2605,33 +3645,63 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Buenos Aires",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -34.607568,
         "lng": -58.437089
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
-        "name": "Falkland Adaları",
+        "name": "Falkland Islands",
         "country": "Islas Malvinas",
         "lat": 22.28154,
         "lng": 113.93624
+      },
+      {
+        "name": "South Georgia",
+        "country": "Antarctica",
+        "lat": -54.283307,
+        "lng": -36.495451
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica",
+        "lat": 39.601887,
+        "lng": -82.945099
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "expedition-cruise-to-antarctica",
     "tourName": "Antarktika'ya Keşif Gemisi Turu",
@@ -2740,19 +3810,61 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "Beagle Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica",
+        "lat": 47.417271,
+        "lng": -105.587722
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       }
@@ -2760,7 +3872,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "falklands-south-georgia-and-antarctic-circle-cruise",
     "tourName": "Falkland Adaları, Güney Georgia ve Antarktika Dairesi kruvaziyeri",
@@ -2941,33 +4053,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "Falkland Islands",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
         "name": "Stanley",
-        "country": "Falkland Adaları",
+        "country": "Falkland Islands",
         "lat": -51.674275,
         "lng": -57.804029
       },
       {
+        "name": "South Georgia",
+        "country": "Antarctica",
+        "lat": -54.283307,
+        "lng": -36.495451
+      },
+      {
         "name": "Grytviken",
-        "country": "Güney Georgia",
+        "country": "South Georgia",
         "lat": -54.284218,
         "lng": -36.494513
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica",
+        "lat": 39.601887,
+        "lng": -82.945099
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "falklands-south-georgia-and-antarctica-cruise",
     "tourName": "Falkland Adaları, Güney Georgia ve Antarktika kruvaziyeri",
@@ -3084,27 +4214,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "Falkland Islands",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
         "name": "Stanley",
-        "country": "Falkland Adaları",
+        "country": "Falkland Islands",
         "lat": -51.674275,
         "lng": -57.804029
+      },
+      {
+        "name": "South Georgia",
+        "country": "Antarctica",
+        "lat": -54.283307,
+        "lng": -36.495451
+      },
+      {
+        "name": "South Orkney Islands",
+        "country": "Antarctica",
+        "lat": 58.685556,
+        "lng": -3.116667
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "journey-to-the-antarctic-circle-holiday",
     "tourName": "Antarktika Dairesi'ne Yolculuk Tatili",
@@ -3201,21 +4355,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
+      },
+      {
+        "name": "Beagle Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Antarctic Circle",
+        "country": "Antarctica",
+        "lat": 39.601887,
+        "lng": -82.945099
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "luxury-antarctica-cruise",
     "tourName": "Lüks Antarktika Kruvaziyeri",
@@ -3338,31 +4522,97 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Buenos Aires",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -34.607568,
         "lng": -58.437089
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Aitcho Islands",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Brown Bluff",
+        "country": "Antarctica",
+        "lat": -39.48474,
+        "lng": 176.91254
+      },
+      {
+        "name": "Tabarin Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Cuverville Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Paradise Bay",
+        "country": "Antarctica",
+        "lat": 47.33363,
+        "lng": -79.52962
+      },
+      {
+        "name": "Paulet Island",
+        "country": "Antarctica",
+        "lat": 22.28154,
+        "lng": 113.93624
+      },
+      {
+        "name": "Wilhelm Archipelago",
+        "country": "Antarctica",
+        "lat": 12.538634,
+        "lng": -81.715833
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
         "name": "Buenos Aires",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -34.607568,
         "lng": -58.437089
       }
@@ -3370,7 +4620,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "luxury-chile-antarctic-cruise-holiday",
     "tourName": "Lüks Şili ve Antarktika Kruvaziyer Tatili",
@@ -3520,7 +4770,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "patagonia-and-antarctica-holiday",
     "tourName": "Patagonya ve Antarktika tatili",
@@ -3616,25 +4866,49 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Buenos Aires",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -34.607568,
         "lng": -58.437089
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
       },
       {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
         "name": "Buenos Aires",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -34.607568,
         "lng": -58.437089
       }
@@ -3642,7 +4916,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "patagonia-and-classic-antarctic-cruise-holiday",
     "tourName": "Patagonya ve Klasik Antarktika Kruvaziyeri Tatili",
@@ -3749,39 +5023,45 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Santiago",
-        "country": "Şili",
+        "country": "Chile",
         "lat": -33.440643,
         "lng": -70.64937
       },
       {
-        "name": "Colchagua Vadisi",
-        "country": "Şili",
+        "name": "Colchagua Valley",
+        "country": "Chile",
         "lat": -34.548615,
         "lng": -71.40168
       },
       {
         "name": "Punta Arenas",
-        "country": "Şili",
+        "country": "Chile",
         "lat": -53.163063,
         "lng": -70.90529
       },
       {
-        "name": "Torres del Paine Milli Parkı",
-        "country": "Şili",
+        "name": "Torres del Paine National Park",
+        "country": "Chile",
         "lat": -46.53887,
         "lng": -71.727356
+      },
+      {
+        "name": "King George Island",
+        "country": "null",
+        "lat": -62.033333,
+        "lng": -58.35
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "ross-sea-antarctic-circle-voyage",
     "tourName": "Ross Denizi & Antarktika Dairesi yolculuğu",
@@ -3926,37 +5206,79 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Queenstown",
-        "country": "Yeni Zelanda",
+        "country": "New Zealand",
         "lat": -45.032063,
         "lng": 168.66133
       },
       {
-        "name": "Auckland Adaları",
-        "country": "Yeni Zelanda",
+        "name": "Auckland Islands",
+        "country": "New Zealand",
         "lat": -36.846996,
         "lng": 174.76591
       },
       {
-        "name": "Campbell Adası",
-        "country": "Yeni Zelanda",
+        "name": "Campbell Island",
+        "country": "New Zealand",
         "lat": -52.534215,
         "lng": 169.166525
       },
       {
-        "name": "Possession Adaları",
+        "name": "Ross Sea",
+        "country": "null",
+        "lat": -77.5,
+        "lng": 168
+      },
+      {
+        "name": "Cape Adare",
+        "country": "null",
+        "lat": 52.564156,
+        "lng": -8.790634
+      },
+      {
+        "name": "Cape Hallett",
+        "country": "null",
+        "lat": 36.232913,
+        "lng": -96.567869
+      },
+      {
+        "name": "Franklin Island",
+        "country": "null",
+        "lat": 35.924863,
+        "lng": -86.868696
+      },
+      {
+        "name": "Possession Islands",
         "country": "null",
         "lat": 22.28154,
         "lng": 113.93624
       },
       {
-        "name": "Bluff Limanı",
-        "country": "Yeni Zelanda",
+        "name": "Ross Ice Shelf",
+        "country": "null",
+        "lat": -77.5,
+        "lng": 168
+      },
+      {
+        "name": "Ross Island",
+        "country": "null",
+        "lat": 13.300616,
+        "lng": 93.0752
+      },
+      {
+        "name": "Terra Nova Bay",
+        "country": "null",
+        "lat": -12.404969,
+        "lng": -38.620132
+      },
+      {
+        "name": "Port of Bluff",
+        "country": "New Zealand",
         "lat": -46.599014,
         "lng": 168.34438
       }
@@ -3964,7 +5286,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Antarctica",
+    "destination": "Antarktika",
     "mainPhoto": "",
     "id": "whale-watching-and-wildlife-cruise-in-antarctica",
     "tourName": "Antarktika'da Balina İzleme ve Vahşi Yaşam Turu",
@@ -4077,15 +5399,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Ushuaia",
-        "country": "Arjantin",
+        "country": "Argentina",
         "lat": -54.806793,
         "lng": -68.3064
+      },
+      {
+        "name": "Drake Passage",
+        "country": "Antarctica",
+        "lat": -20.394005,
+        "lng": -43.446693
+      },
+      {
+        "name": "Antarctic Peninsula",
+        "country": "Antarctica",
+        "lat": 41.241208,
+        "lng": -81.548044
+      },
+      {
+        "name": "South Shetland Islands",
+        "country": "Antarctica",
+        "lat": 60.15313,
+        "lng": -1.142721
+      },
+      {
+        "name": "Beagle Channel",
+        "country": "Antarctica",
+        "lat": 29.776708,
+        "lng": -95.114206
       }
     ],
     "__trTranslated": true

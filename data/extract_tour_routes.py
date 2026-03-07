@@ -8,31 +8,90 @@ from tqdm import tqdm
 # CONFIG (PATH SAFE)
 # ===============================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-ROOT_DIR = os.path.join(BASE_DIR, "big_siempre_tour_tours")
+ROOT_DIR = os.path.join(BASE_DIR, "siempretour_tours")
 
 MODEL = "gpt-4o-mini"
-SLEEP_BETWEEN_CALLS = 0.3  # rate limit safety
+SLEEP_BETWEEN_CALLS = 0.3  # base rate limit safety
 
 client = OpenAI()
+
+# ===============================
+# HELPERS (FORMAT SAFE)
+# ===============================
+def _to_text(x) -> str:
+    """Safely convert possibly-non-string fields to text without crashing."""
+    if x is None:
+        return ""
+    if isinstance(x, str):
+        return x.strip()
+    try:
+        return json.dumps(x, ensure_ascii=False).strip()
+    except Exception:
+        return str(x).strip()
+
+def _build_itinerary(day_infos) -> str:
+    """Build itinerary text robustly from dayInfo that may be list/dict/str/mixed."""
+    if not day_infos:
+        return ""
+
+    lines = []
+
+    # If dayInfo is a dict (single day or blob)
+    if isinstance(day_infos, dict):
+        title = _to_text(day_infos.get("title"))
+        desc = _to_text(day_infos.get("description"))
+        if title and desc:
+            return f"Day 1: {title} — {desc}".strip()
+        if desc:
+            return f"Day 1: {desc}".strip()
+        if title:
+            return f"Day 1: {title}".strip()
+        # fallback stringify
+        blob = _to_text(day_infos)
+        return f"Day 1: {blob}".strip() if blob else ""
+
+    # If dayInfo is a string
+    if isinstance(day_infos, str):
+        return day_infos.strip()
+
+    # If dayInfo is a list (expected)
+    if isinstance(day_infos, list):
+        for i, day in enumerate(day_infos, start=1):
+            if isinstance(day, dict):
+                title = _to_text(day.get("title"))
+                desc = _to_text(day.get("description"))
+
+                if title and desc:
+                    lines.append(f"Day {i}: {title} — {desc}")
+                elif desc:
+                    lines.append(f"Day {i}: {desc}")
+                elif title:
+                    lines.append(f"Day {i}: {title}")
+                else:
+                    continue
+
+            elif isinstance(day, str) and day.strip():
+                lines.append(f"Day {i}: {day.strip()}")
+            else:
+                continue
+
+        return "\n".join(lines).strip()
+
+    # Unknown type fallback
+    blob = _to_text(day_infos)
+    return blob
 
 # ===============================
 # GPT ROUTE CALL (JSON GUARANTEED)
 # ===============================
 def extract_route_for_tour(tour: dict):
-    destination = (tour.get("destination") or "").strip()
-    places_visited = (tour.get("placesVisited") or "").strip()
-    general_info = (tour.get("generalInfo") or "").strip()
+    destination = _to_text(tour.get("destination"))
+    places_visited = _to_text(tour.get("placesVisited"))
+    general_info = _to_text(tour.get("generalInfo"))
 
-    # Build itinerary text from dayInfo
-    day_infos = tour.get("dayInfo", []) or []
-    itinerary_lines = []
-    for i, day in enumerate(day_infos):
-        desc = (day.get("description") or "").strip()
-        if desc:
-            itinerary_lines.append(f"Day {i+1}: {desc}")
-    itinerary = "\n".join(itinerary_lines).strip()
+    day_infos = tour.get("dayInfo") or []
+    itinerary = _build_itinerary(day_infos)
 
-    # IMPORTANT: f-string kullanıyoruz -> .format yok -> {} problemi yok
     prompt = f"""
 Extract the ordered geographic locations from this tour itinerary.
 
@@ -50,22 +109,22 @@ Rules:
 - If the country is unknown, set it to null.
 - Use destination as a strong hint for country when appropriate.
 
-Tour destination: {destination}
+Tour destination:
+{destination}
 
 Places visited (may be empty):
 {places_visited}
 
-General information:
+General information (may be empty):
 {general_info}
 
-Day-by-day itinerary:
+Day-by-day itinerary (may be empty):
 {itinerary}
 """.strip()
 
     response = client.chat.completions.create(
         model=MODEL,
         temperature=0,
-        # JSON output'u kilitliyor (markdown vs. engeller)
         response_format={"type": "json_object"},
         messages=[
             {"role": "system", "content": "Return only valid JSON. No markdown. No extra text."},
@@ -97,6 +156,29 @@ Day-by-day itinerary:
 
     return cleaned
 
+# ===============================
+# OPENAI CALL WRAPPER (BACKOFF)
+# ===============================
+def extract_route_with_backoff(tour: dict, max_retries: int = 6):
+    """
+    Retries on rate limits / transient errors using exponential backoff.
+    Keeps other exceptions as-is.
+    """
+    base_delay = 1.0
+    for attempt in range(max_retries):
+        try:
+            return extract_route_for_tour(tour)
+        except Exception as e:
+            msg = str(e).lower()
+            is_rate = ("429" in msg) or ("rate limit" in msg) or ("too many requests" in msg)
+            is_transient = ("timeout" in msg) or ("temporarily" in msg) or ("server" in msg) or ("503" in msg)
+
+            if attempt < max_retries - 1 and (is_rate or is_transient):
+                sleep_s = base_delay * (2 ** attempt)
+                print(f"\n⏳ Retry {attempt+1}/{max_retries-1} after {sleep_s:.1f}s due to: {e}")
+                time.sleep(sleep_s)
+                continue
+            raise
 
 # ===============================
 # MAIN PROCESS (RESUME SAFE)
@@ -127,7 +209,7 @@ def process_all_countries():
 
         for tour in tqdm(tours, desc=f"{country} tours"):
             # ✅ RESUME LOGIC: route varsa tekrar çağırma
-            if "route" in tour and tour["route"]:
+            if tour.get("route"):
                 continue
 
             # dayInfo yoksa skip (çok zayıf sinyal)
@@ -135,9 +217,10 @@ def process_all_countries():
                 continue
 
             try:
-                route = extract_route_for_tour(tour)
+                route = extract_route_with_backoff(tour)
                 tour["route"] = route
                 changed = True
+
                 time.sleep(SLEEP_BETWEEN_CALLS)
 
             except Exception as e:
@@ -150,7 +233,6 @@ def process_all_countries():
             print(f"✅ Updated: {tours_path}")
         else:
             print(f"ℹ️ No changes: {tours_path}")
-
 
 # ===============================
 # RUN

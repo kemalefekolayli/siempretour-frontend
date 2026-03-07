@@ -495,43 +495,49 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Sabah Çay Plantasyonu",
-        "country": "Malezya",
+        "name": "Borneo",
+        "country": "Malaysia",
+        "lat": 45.285878,
+        "lng": -61.908989
+      },
+      {
+        "name": "Sabah Tea Plantation",
+        "country": "Malaysia",
         "lat": 5.978007,
         "lng": 116.072899
       },
       {
         "name": "Malacca",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 2.196443,
         "lng": 102.25013
       },
       {
         "name": "Kuala Lumpur",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 3.151696,
         "lng": 101.694237
       },
       {
         "name": "Penang",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.41558,
         "lng": 100.3314
       },
       {
         "name": "George Town",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.414162,
         "lng": 100.328735
       },
       {
         "name": "Langkawi",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 6.320134,
         "lng": 99.84938
       }
@@ -933,21 +939,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Kota Kinabalu",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.978924,
         "lng": 116.07284
       },
       {
         "name": "Sandakan",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.839194,
         "lng": 118.11557
+      },
+      {
+        "name": "Turtle Island",
+        "country": "Malaysia",
+        "lat": 6.073525,
+        "lng": 118.31396
       }
     ],
     "__trTranslated": true
@@ -1303,39 +1315,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Kuching",
-        "country": "Malazya",
+        "country": "Malaysia",
         "lat": 1.556249,
         "lng": 110.350624
       },
       {
         "name": "Bako National Park",
-        "country": "Malazya",
+        "country": "Malaysia",
         "lat": 1.222887,
         "lng": 110.511002
       },
       {
         "name": "Limbang",
-        "country": "Malazya",
+        "country": "Malaysia",
         "lat": 4.75571,
         "lng": 115.00837
       },
       {
         "name": "Kota Kinabalu",
-        "country": "Malazya",
+        "country": "Malaysia",
         "lat": 5.978924,
         "lng": 116.07284
       },
       {
+        "name": "Dusun Village",
+        "country": "Malaysia",
+        "lat": 39.867332,
+        "lng": -75.42566
+      },
+      {
         "name": "Sandakan",
-        "country": "Malazya",
+        "country": "Malaysia",
         "lat": 5.839194,
         "lng": 118.11557
+      },
+      {
+        "name": "Turtle Island",
+        "country": "Malaysia",
+        "lat": 6.073525,
+        "lng": 118.31396
       }
     ],
     "__trTranslated": true
@@ -1471,19 +1495,25 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Sandakan",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.839194,
         "lng": 118.11557
       },
       {
+        "name": "Abai Jungle Lodge",
+        "country": "Malaysia",
+        "lat": 33.333294,
+        "lng": -79.47424
+      },
+      {
         "name": "Lahad Datu",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.020468,
         "lng": 118.32694
       }
@@ -4018,10 +4048,10 @@
     ],
     "routeCoordinates": [
       {
-        "name": "Istanbul",
+        "name": "İstanbul",
         "country": "Turkey",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Kota Kinabalu",
@@ -4046,6 +4076,12 @@
         "country": "Malaysia",
         "lat": 5.839194,
         "lng": 118.11557
+      },
+      {
+        "name": "Sulu Sea",
+        "country": "Borneo",
+        "lat": 38.982655,
+        "lng": -76.85141
       },
       {
         "name": "Pitas Lake",
@@ -5398,25 +5434,37 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Kuala Lumpur",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 3.151696,
         "lng": 101.694237
       },
       {
         "name": "Sandakan",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.839194,
         "lng": 118.11557
       },
       {
+        "name": "Borneo",
+        "country": "Borneo",
+        "lat": 45.285878,
+        "lng": -61.908989
+      },
+      {
+        "name": "Abai",
+        "country": "Borneo",
+        "lat": 29.349827,
+        "lng": 47.54145
+      },
+      {
         "name": "Kota Kinabalu",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.978924,
         "lng": 116.07284
       }
@@ -6088,27 +6136,39 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Kuching",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 1.556249,
         "lng": 110.350624
       },
       {
         "name": "Kota Kinabalu",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.978924,
         "lng": 116.07284
       },
       {
         "name": "Sandakan",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.839194,
         "lng": 118.11557
+      },
+      {
+        "name": "Abai Jungle Lodge",
+        "country": "Borneo",
+        "lat": 33.333294,
+        "lng": -79.47424
+      },
+      {
+        "name": "Pitas Oxbow Lake",
+        "country": "Borneo",
+        "lat": 28.713824,
+        "lng": -110.34801
       }
     ],
     "__trTranslated": true
@@ -6242,25 +6302,37 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Kota Kinabalu",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.978924,
         "lng": 116.07284
       },
       {
+        "name": "Dusun village",
+        "country": "Borneo",
+        "lat": 39.867332,
+        "lng": -75.42566
+      },
+      {
         "name": "Sandakan",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.839194,
         "lng": 118.11557
       },
       {
-        "name": "Sandakan Savaş Anıtı",
-        "country": "Malezya",
+        "name": "Turtle Island",
+        "country": "Malaysia",
+        "lat": 6.073525,
+        "lng": 118.31396
+      },
+      {
+        "name": "Sandakan War Memorial",
+        "country": "Malaysia",
         "lat": 5.839194,
         "lng": 118.11557
       }
@@ -6523,43 +6595,49 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Sandakan",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.839194,
         "lng": 118.11557
       },
       {
-        "name": "Pitas Gölü",
-        "country": "Malezya",
+        "name": "Abai",
+        "country": "Malaysia",
+        "lat": 29.349827,
+        "lng": 47.54145
+      },
+      {
+        "name": "Pitas Lake",
+        "country": "Malaysia",
         "lat": 6.730318,
         "lng": 117.054365
       },
       {
         "name": "Kuching",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 1.556249,
         "lng": 110.350624
       },
       {
-        "name": "Bako Milli Parkı",
-        "country": "Malezya",
+        "name": "Bako National Park",
+        "country": "Malaysia",
         "lat": 1.222887,
         "lng": 110.511002
       },
       {
-        "name": "Batang Ai barajı",
-        "country": "Malezya",
+        "name": "Batang Ai reservoir",
+        "country": "Malaysia",
         "lat": 4.819644,
         "lng": 100.67198
       },
       {
-        "name": "Pulau Damai Plajı",
-        "country": "Malezya",
+        "name": "Pulau Damai Beach",
+        "country": "Malaysia",
         "lat": 2.024175,
         "lng": 111.91705
       }
@@ -6979,43 +7057,49 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Kuching",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 1.556249,
         "lng": 110.350624
       },
       {
-        "name": "Bako Milli Parkı",
-        "country": "Malezya",
+        "name": "Bako National Park",
+        "country": "Malaysia",
         "lat": 1.222887,
         "lng": 110.511002
       },
       {
         "name": "Batang Ai",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 4.819644,
         "lng": 100.67198
       },
       {
         "name": "Sandakan",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.839194,
         "lng": 118.11557
       },
       {
+        "name": "Abai",
+        "country": "Malaysia",
+        "lat": 29.349827,
+        "lng": 47.54145
+      },
+      {
         "name": "Lahad Datu",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.020468,
         "lng": 118.32694
       },
       {
         "name": "Kota Kinabalu",
-        "country": "Malezya",
+        "country": "Malaysia",
         "lat": 5.978924,
         "lng": 116.07284
       }

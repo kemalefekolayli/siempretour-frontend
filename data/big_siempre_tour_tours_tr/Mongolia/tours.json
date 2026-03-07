@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "discover-mongolia-holiday-small-group",
     "tourName": "Moğolistan'ı Keşfet Tatili, Küçük Grup",
@@ -145,7 +145,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "eagle-festival-tour-in-mongolia",
     "tourName": "Moğolistan'da Kartal Festivali Turu",
@@ -313,7 +313,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "genghis-khan-warrior-training-in-mongolia",
     "tourName": "Cengiz Han savaşçı eğitimi - Moğolistan",
@@ -441,7 +441,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "gobi-desert-explorer-tour-in-mongolia",
     "tourName": "Moğolistan'da Gobi Çölü Keşif Turu",
@@ -651,7 +651,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "highlights-of-mongolia-small-group-tour",
     "tourName": "Moğolistan'ın Güzellikleri, küçük grup turu",
@@ -775,39 +775,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Ulaan Baatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
       },
       {
         "name": "Dalanzadgad",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 43.57273,
         "lng": 104.42779
       },
       {
-        "name": "Gurvansaikhan Milli Parkı",
-        "country": "Moğolistan",
+        "name": "Gurvansaikhan National Park",
+        "country": "Mongolia",
         "lat": 45.532047,
         "lng": 107.04265
       },
       {
         "name": "Bayanzag",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 44.144477,
         "lng": 103.723053
       },
       {
         "name": "Ongi",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 48.96798,
         "lng": 89.96887
+      },
+      {
+        "name": "Ulaan Baatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "horse-trekking-in-mongolia-tailor-made",
     "tourName": "Mongolistan'da Atlı Trekking, Özel Hazırlık",
@@ -951,7 +963,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-adventure-holiday-off-the-beaten-track",
     "tourName": "Moğolistan macera tatili, alışılmışın dışında",
@@ -1070,7 +1082,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-adventure-holiday-small-group",
     "tourName": "Moğolistan macera tatili, küçük grup",
@@ -1224,37 +1236,43 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Ulaan Baatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
       },
       {
         "name": "Karakorum",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 47.189884,
         "lng": 102.82083
       },
       {
-        "name": "Erdene Zuu Manastırı",
-        "country": "Moğolistan",
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia",
         "lat": 44.445683,
         "lng": 111.08373
       },
       {
-        "name": "Ikh Bogd Dağı",
-        "country": "Moğolistan",
+        "name": "Ikh Bogd Mountain",
+        "country": "Mongolia",
         "lat": 44.671467,
         "lng": 102.17284
       },
       {
-        "name": "Gobi Gurvansaikhan Ulusal Parkı",
-        "country": "Moğolistan",
+        "name": "Gobi Gurvansaikhan National Park",
+        "country": "Mongolia",
         "lat": 45.532047,
         "lng": 107.04265
       },
       {
         "name": "Bayanzag",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 44.144477,
         "lng": 103.723053
       }
@@ -1262,7 +1280,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-adventure-holiday-with-festival-option",
     "tourName": "Festival seçeneği ile Moğolistan macera tatili",
@@ -1508,7 +1526,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-eagle-festival-holiday",
     "tourName": "Moğolistan Kartal Festivali tatili",
@@ -1748,7 +1766,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-eagle-hunting-festival-holiday",
     "tourName": "Moğolistan şahin avı festivali tatili",
@@ -1928,7 +1946,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-family-adventure-holiday",
     "tourName": "Moğolistan aile macera tatili",
@@ -2083,7 +2101,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-family-holiday-for-all-ages",
     "tourName": "Mongolistan aile tatili her yaş için",
@@ -2251,51 +2269,63 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Tsenkher Sıcak Su Kaynakları",
-        "country": "Mongolistan",
+        "name": "Ulaan Bataar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
+      },
+      {
+        "name": "Tsenkher Hot Springs",
+        "country": "Mongolia",
         "lat": 47.320724,
         "lng": 101.657673
       },
       {
         "name": "Karakorum",
-        "country": "Mongolistan",
+        "country": "Mongolia",
         "lat": 47.189884,
         "lng": 102.82083
       },
       {
-        "name": "Erdene Zuu Manastırı",
-        "country": "Mongolistan",
+        "name": "Erdene Zuu Monastery",
+        "country": "Mongolia",
         "lat": 44.445683,
         "lng": 111.08373
       },
       {
-        "name": "Ongi Manastırı",
-        "country": "Mongolistan",
+        "name": "Ongi Monastery",
+        "country": "Mongolia",
         "lat": 48.96798,
         "lng": 89.96887
       },
       {
-        "name": "Flaming Klifleri",
-        "country": "Mongolistan",
+        "name": "Flaming Cliffs",
+        "country": "Mongolia",
         "lat": 44.144477,
         "lng": 103.723053
       },
       {
         "name": "Baga Gazariin Chuluu",
-        "country": "Mongolistan",
+        "country": "Mongolia",
         "lat": 47.53641,
         "lng": 100.22557
+      },
+      {
+        "name": "Ulaan Bataar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-holidays",
     "tourName": "Moğolistan tatilleri",
@@ -2527,7 +2557,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-horse-riding-holiday-altai-taster",
     "tourName": "Moğolistan at biniş tatili, Altai Taster",
@@ -2656,7 +2686,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-lunar-new-year-tour-tsagaan-sar",
     "tourName": "Moğolistan Yeni Ay Turu, Tsagaan Sar",
@@ -2770,7 +2800,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-naadam-festival-tour",
     "tourName": "Moğolistan Naadam Festivali turu",
@@ -2921,51 +2951,63 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Ulaan Bataar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
       },
       {
         "name": "Baga Gazriin Chuluu",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 47.53641,
         "lng": 100.22557
       },
       {
-        "name": "Khongor Kumulları",
-        "country": "Moğolistan",
+        "name": "Khongor Sand Dunes",
+        "country": "Mongolia",
         "lat": 49.307446,
         "lng": 105.93338
       },
       {
         "name": "Bayanzag",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 44.144477,
         "lng": 103.723053
       },
       {
-        "name": "Ongi Manastırı",
-        "country": "Moğolistan",
+        "name": "Ongi Monastery",
+        "country": "Mongolia",
         "lat": 48.96798,
         "lng": 89.96887
       },
       {
         "name": "Arvaikheer",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 46.26753,
         "lng": 102.787704
       },
       {
         "name": "Kharkhorin",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 47.189884,
         "lng": 102.82083
+      },
+      {
+        "name": "Ulaan Bataar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-nomad-horse-riding-holiday",
     "tourName": "Moğolistan göçebe ata binme tatili",
@@ -3129,7 +3171,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-s-naadam-festival-tour-at-lake-khovsgol",
     "tourName": "Mongolistan'ın Khovsgol Gölü'ndeki Naadam Festivali Turu",
@@ -3348,7 +3390,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-tour-land-of-the-great-khan",
     "tourName": "Moğolistan turu, Büyük Han'ın toprağı",
@@ -3576,7 +3618,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-tour-mountains-nomads",
     "tourName": "Moğolistan turu, dağlar & göçebeler",
@@ -3725,7 +3767,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-tour-winter-landscapes-and-khovsgol-ice-festival",
     "tourName": "Moğolistan turu, kış manzaraları ve Khovsgol buz festivali",
@@ -3914,7 +3956,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-tours-small-group",
     "tourName": "Moğolistan turları, küçük grup",
@@ -4133,7 +4175,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-tsaatan-reindeer-herders-group-tour",
     "tourName": "Moğolistan Tsaatan Ren Geyiği Çobanları Grup Turu",
@@ -4275,7 +4317,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolia-winter-holiday",
     "tourName": "Moğolistan kış tatili",
@@ -4398,7 +4440,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "mongolian-eagle-adventure-holiday",
     "tourName": "Moğol Kartal Macera Tatili",
@@ -4504,45 +4546,57 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Ulaan Baatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
       },
       {
         "name": "Ulgii",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 48.96798,
         "lng": 89.96887
       },
       {
         "name": "Altai",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 44.617905,
         "lng": 94.91962
       },
       {
         "name": "Ulaankhuus",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 49.03865,
         "lng": 89.43958
       },
       {
         "name": "Tavan Bogd",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 44.671467,
         "lng": 102.17284
       },
       {
         "name": "Ulgii",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 48.96798,
         "lng": 89.96887
+      },
+      {
+        "name": "Ulaan Baatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "naadam-and-gobi-desert-tour-mongolia",
     "tourName": "Naadam ve Gobi Çölü Turu, Moğolistan",
@@ -4758,7 +4812,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "naadam-festival-gobi-desert-tour-mongolia",
     "tourName": "Naadam Festivali ve Gobi Çölü Turu, Moğolistan",
@@ -4970,7 +5024,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "naadam-festival-holiday-in-mongolia",
     "tourName": "Moğolistan'daki Naadam Festivali tatili",
@@ -5121,37 +5175,43 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Ulaan Baatar",
+        "country": "Mongolia",
+        "lat": 47.918468,
+        "lng": 106.917702
       },
       {
         "name": "Karakorum",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 47.189884,
         "lng": 102.82083
       },
       {
         "name": "Arvaikheer",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 46.26753,
         "lng": 102.787704
       },
       {
-        "name": "Kongoriin Els kumulları",
-        "country": "Moğolistan",
+        "name": "Kongoriin Els sand dunes",
+        "country": "Mongolia",
         "lat": 49.246944,
         "lng": 105.37532
       },
       {
-        "name": "Gobi Gurvansaikhan Milli Parkı",
-        "country": "Moğolistan",
+        "name": "Gobi Gurvansaikhan National Park",
+        "country": "Mongolia",
         "lat": 45.532047,
         "lng": 107.04265
       },
       {
         "name": "Bayanzag",
-        "country": "Moğolistan",
+        "country": "Mongolia",
         "lat": 44.144477,
         "lng": 103.723053
       }
@@ -5159,7 +5219,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "naadam-festival-holidays-in-mongolia",
     "tourName": "Moğolistan'daki Naadam Festivali tatilleri",
@@ -5281,7 +5341,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "small-group-holiday-in-mongolia",
     "tourName": "Moğolistan'da Küçük Grup Tatili",
@@ -5525,7 +5585,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "western-mongolia-tour-the-altai-mountains-eagles",
     "tourName": "Batı Moğolistan turu, Altai Dağları ve kartallar",
@@ -5636,7 +5696,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "wild-mongolia-golden-eagle-festival-holiday",
     "tourName": "Vahşi Moğolistan & Altın Şahin Festivali tatili",
@@ -5855,7 +5915,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Mongolia",
+    "destination": "Moğolistan",
     "mainPhoto": "",
     "id": "zavkhan-horse-riding-holiday-in-mongolia",
     "tourName": "Mongolistan'da Zavkhan atlı tatili",

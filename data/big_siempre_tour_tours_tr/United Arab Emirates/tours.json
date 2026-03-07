@@ -1,6 +1,6 @@
 [
   {
-    "destination": "United Arab Emirates",
+    "destination": "Birleşik Arap Emirlikleri",
     "mainPhoto": "",
     "id": "best-of-the-emirates-holiday",
     "tourName": "Birleşik Arap Emirlikleri'nin En İyisi tatili",
@@ -131,7 +131,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "United Arab Emirates",
+    "destination": "Birleşik Arap Emirlikleri",
     "mainPhoto": "",
     "id": "dubai-abu-dhabi-holiday-on-a-shoestring",
     "tourName": "Dubai & Abu Dabi tatili uygun fiyatlarla",
@@ -227,7 +227,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "United Arab Emirates",
+    "destination": "Birleşik Arap Emirlikleri",
     "mainPhoto": "",
     "id": "dubai-abu-dhabi-tailor-made-holiday",
     "tourName": "Dubai & Abu Dhabi kişiye özel tatil",
@@ -323,7 +323,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "United Arab Emirates",
+    "destination": "Birleşik Arap Emirlikleri",
     "mainPhoto": "",
     "id": "dubai-holidays-5-days-in-dubai",
     "tourName": "Dubai tatilleri, Dubai'de 5 gün",
@@ -519,7 +519,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "United Arab Emirates",
+    "destination": "Birleşik Arap Emirlikleri",
     "mainPhoto": "",
     "id": "dubai-tour-one-week-in-dubai",
     "tourName": "Dubai turu, Dubai'de bir hafta",
@@ -620,43 +620,49 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Dubai",
-        "country": "Birleşik Arap Emirlikleri",
+        "country": "United Arab Emirates",
         "lat": 25.25809,
         "lng": 55.297558
       },
       {
         "name": "Burj Khalifa",
-        "country": "Birleşik Arap Emirlikleri",
+        "country": "United Arab Emirates",
         "lat": 25.774899,
         "lng": 55.937153
       },
       {
-        "name": "Çöl",
-        "country": "Birleşik Arap Emirlikleri",
+        "name": "Desert",
+        "country": "United Arab Emirates",
         "lat": 25.774899,
         "lng": 55.937153
+      },
+      {
+        "name": "Musandam Peninsula",
+        "country": "null",
+        "lat": 26.180182,
+        "lng": 56.249618
       },
       {
         "name": "Abu Dhabi",
-        "country": "Birleşik Arap Emirlikleri",
+        "country": "United Arab Emirates",
         "lat": 24.453524,
         "lng": 54.377438
       },
       {
-        "name": "Louvre Müzesi",
-        "country": "Birleşik Arap Emirlikleri",
+        "name": "Louvre Museum",
+        "country": "United Arab Emirates",
         "lat": 25.774899,
         "lng": 55.937153
       },
       {
-        "name": "Sheikh Zayed Büyük Camii",
-        "country": "Birleşik Arap Emirlikleri",
+        "name": "Sheikh Zayed Grand Mosque",
+        "country": "United Arab Emirates",
         "lat": 25.774899,
         "lng": 55.937153
       }
@@ -664,7 +670,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "United Arab Emirates",
+    "destination": "Birleşik Arap Emirlikleri",
     "mainPhoto": "",
     "id": "emirates-cultural-tour-tailor-made",
     "tourName": "Emirates kültürel turu, kişiye özel",
@@ -780,7 +786,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "United Arab Emirates",
+    "destination": "Birleşik Arap Emirlikleri",
     "mainPhoto": "",
     "id": "oman-dubai-holiday-six-senses-zighy-bay",
     "tourName": "Umman & Dubai tatili, Six Senses Zighy Bay",
@@ -871,7 +877,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "United Arab Emirates",
+    "destination": "Birleşik Arap Emirlikleri",
     "mainPhoto": "",
     "id": "uae-and-oman-holiday",
     "tourName": "BAE ve Umman Tatili",
@@ -1061,7 +1067,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "United Arab Emirates",
+    "destination": "Birleşik Arap Emirlikleri",
     "mainPhoto": "",
     "id": "united-arab-emirates-holiday",
     "tourName": "Birleşik Arap Emirlikleri tatili",

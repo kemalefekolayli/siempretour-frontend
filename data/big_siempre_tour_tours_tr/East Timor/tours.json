@@ -1,6 +1,6 @@
 [
   {
-    "destination": "East Timor",
+    "destination": "Doğu Timor",
     "mainPhoto": "",
     "id": "east-timor-cultural-tour",
     "tourName": "Doğu Timor Kültürel Turu",
@@ -146,10 +146,90 @@
         "country": "East Timor"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Dili",
+        "country": "East Timor",
+        "lat": -8.553681,
+        "lng": 125.578409
+      },
+      {
+        "name": "Baucau",
+        "country": "East Timor",
+        "lat": -8.465046,
+        "lng": 126.458562
+      },
+      {
+        "name": "Com",
+        "country": "East Timor",
+        "lat": -8.553681,
+        "lng": 125.578409
+      },
+      {
+        "name": "Tutuala",
+        "country": "East Timor",
+        "lat": -8.394101,
+        "lng": 127.25592
+      },
+      {
+        "name": "Jaco Island",
+        "country": "East Timor",
+        "lat": -8.425,
+        "lng": 127.325
+      },
+      {
+        "name": "Venilale",
+        "country": "East Timor",
+        "lat": -8.64306,
+        "lng": 126.378
+      },
+      {
+        "name": "Laleia",
+        "country": "East Timor",
+        "lat": -8.538083,
+        "lng": 126.164416
+      },
+      {
+        "name": "Maubisse",
+        "country": "East Timor",
+        "lat": -8.8377,
+        "lng": 125.59781
+      },
+      {
+        "name": "Mount Ramelau",
+        "country": "East Timor",
+        "lat": -8.8994,
+        "lng": 125.41738
+      },
+      {
+        "name": "Suai",
+        "country": "East Timor",
+        "lat": -9.3097,
+        "lng": 125.25458
+      },
+      {
+        "name": "Balibo",
+        "country": "East Timor",
+        "lat": -8.968681,
+        "lng": 125.040598
+      },
+      {
+        "name": "Maubara",
+        "country": "East Timor",
+        "lat": -8.61296,
+        "lng": 125.206174
+      }
+    ]
   },
   {
-    "destination": "East Timor",
+    "destination": "Doğu Timor",
     "mainPhoto": "",
     "id": "east-timor-holiday",
     "tourName": "Doğu Timor tatili",
@@ -289,6 +369,62 @@
         "country": "East Timor"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Dili",
+        "country": "East Timor",
+        "lat": -8.553681,
+        "lng": 125.578409
+      },
+      {
+        "name": "Maubisse",
+        "country": "East Timor",
+        "lat": -8.8377,
+        "lng": 125.59781
+      },
+      {
+        "name": "Mt Ramelau",
+        "country": "East Timor",
+        "lat": -8.8994,
+        "lng": 125.41738
+      },
+      {
+        "name": "Baucau",
+        "country": "East Timor",
+        "lat": -8.465046,
+        "lng": 126.458562
+      },
+      {
+        "name": "Venilale",
+        "country": "East Timor",
+        "lat": -8.64306,
+        "lng": 126.378
+      },
+      {
+        "name": "Laga",
+        "country": "East Timor",
+        "lat": -8.47222,
+        "lng": 126.597
+      },
+      {
+        "name": "Tutuala",
+        "country": "East Timor",
+        "lat": -8.394101,
+        "lng": 127.25592
+      },
+      {
+        "name": "Jaco Island",
+        "country": "East Timor",
+        "lat": -8.425,
+        "lng": 127.325
+      }
+    ]
   }
 ]

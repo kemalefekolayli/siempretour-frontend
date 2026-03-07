@@ -1,11 +1,122 @@
 [
   {
-    "destination": "Costa Rica",
+    "destination": "Kosta Rika",
+    "mainPhoto": "",
+    "id": "TCS",
+    "tourName": "San Jose’ den San Jose’ ye",
+    "placesVisited": "Kosta Rika",
+    "generalInfo": "Sıcak sularda yüzün, kumlu plajlarda rahatlayın ve dünyadaki en zengin vahşi yaşama bir göz atın. Kosta Rika, bolca yaban hayatı, aktif volkanları ve dost canlısı yerel halkıyla birlikte korumalı milli parklarla kaplıdır. Bu kısa turda, bu inanılmaz farklı ülkeyi en iyi şekilde deneyimleyeceksiniz.<br><br><strong>Lütfen dikkat: </strong>Deniz kaplumbağalarını görmek için bu geziyi yapacağınız en iyi zaman Temmuz’ dan Ekim’ e kadar devam eden yuvalama dönemidir.",
+    "durationDays": "9",
+    "price": "669",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li> Tortuguero Milli Parkı</li>\n</ul>\n<p><strong>Konaklama:</strong> </p>\n<p>Otellerde 8 gece</p>\n<p><strong>Yemekler:</strong>  </p>\n<p>8 kahvaltı</p>\n<p><strong>Diğerleri:</strong>  </p>\n<p>Siempre Tour Tur Lideri</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "San Jose' ye Varış",
+        "description": "Kosta Rika’ nın başkenti San Jose kahve ve şeker kamışı çiftlikleri arasında verimli bir vadide yer almaktadır. Depremlerden dolayı sömürgecilik dönemi mimarisinden pek bir şey kalmamıştır geriye. Fakat 1897’ de inşa edilen Ulusal Tiyatro kesinlikle görülmeye değer. Belki buradayken bir performansa denk gelecek kadar şanslısınızdır. Altın Müzesi, Jade Müzesi ve Ulusal Müzeler de yine ziyaret etmek için kesinlikle önerilir."
+      },
+      {
+        "dayNumber": 2,
+        "title": "La Fortuna",
+        "description": "Central Valley’ den Kosta Rika’ nın kuzeyindeki uykulu bir kasaba olan La Fortuna’ ya seyahat ediyoruz. La Fortuna’ daki ana cazibe merkezi, 1968 ile 2010 yılları arasında sürekli patlayan Arenal Volkanı’ dır. Artık patlamamasına rağmen, ara sıra buhar püskürmesi görülebilir. Otelimize yerleştikten sonra sakin bir öğle yemeği yemek ve şehri keşfetmek için zamanınız olacak. Rahatlatıcı bir dalış yapmak amacıyla zengin yerel kaplıcaları ziyaret edebilirsiniz."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Tortuguero",
+        "description": "Otobüsle Limon yakınlarındaki Moin limanına gidiyoruz, burada bir tekne bizi Atlantik / Karayip kıyılarında bulunan iç orman kanallarına ve Tortuguero Milli Parkı’ na götürmeyi bekliyor olacak. Yaban hayatı ile çevrili ve yoğun bitki örtüsüyle kaplı uzak bir orman kulübesinde iki gece geçiriyoruz. Maymunlara, tembellere, timsahlara, kaplumbağalara, sayısız farklı kuş türüne ve “Jesus Lizard” da dâhil olmak üzere büyük bir hayvan çeşitliliğine tanıklık edeceğiz. Suyun üzerinde yürüdüğü için böyle bir isim verilmiş."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Cahuita",
+        "description": "Cahuita Milli Parkı’ na yakın küçük sahil kasabası Cahuita’ ya devam ediyoruz. Öğle vakti oraya vardığımızda, Karayip kıyılarının en iyi milli parklarından birini keşfetmek için bolca zamanımız olacak. Kosta Rika’ daki en güzel plajlardan birinin yanı sıra, bizi güzel manzaralara götürecek olan yürüyüş rotaları ve patika yollar mevcut. Maymunlara, tembellere, kertenkelelere, kurbağalara ve diğer vahşi yaşam olaylarına dikkat edin. Cahuita ayrıca ülkedeki tek mercan kayalıklarına da ev sahipliği yapmaktadır. Kayalıklar üzerinden şnorkelle dalmanın tek yolu rehberli bir turdur, bu noktada sizi kayalıklara çıkarması için yerel bir rehber kiralayabilirsiniz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "San Jose",
+        "description": "Başka bir gece için San Jose’ ye dönüyoruz. Akşamları, özellikle hafta sonu buradaysanız, dünya standartlarında restoranlarda yemek yiyebilir ve harika gece hayatına dalabilirsiniz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "San Jose' den Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "category": "Safari",
+    "route": [
+      {
+        "name": "San Jose",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "La Fortuna",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Tortuguero",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Cahuita",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "San Jose",
+        "country": "Costa Rica"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Jose",
+        "country": "Kosta Rika",
+        "lat": 9.932607,
+        "lng": -84.07486
+      },
+      {
+        "name": "La Fortuna",
+        "country": "Kosta Rika",
+        "lat": 10.471361,
+        "lng": -84.64452
+      },
+      {
+        "name": "Cahuita",
+        "country": "Kosta Rika",
+        "lat": 9.738303,
+        "lng": -82.84133
+      },
+      {
+        "name": "San Jose",
+        "country": "Kosta Rika",
+        "lat": 9.932607,
+        "lng": -84.07486
+      }
+    ],
+    "__routeTranslated": true
+  },
+  {
+    "destination": "Kosta Rika",
     "mainPhoto": "",
     "id": "costa-rica-conservation-tour-tailormade",
-    "tourName": "Costa Rica conservation tour, tailormade",
-    "placesVisited": "San José, Brauillo Carillo National Park, Tortuguero Canal, Tortuguero National Park, Caribbean coast, Rainforest and Leatherback Turtle Reserve, banana plantations, La Selva Research Station, Osa Peninsula, Corcovado National Park, Drake’s Bay, Caño Island Biological Reserve, Optional night time beach patrol at the Leatherback Turtle Reserve",
-    "generalInfo": "This journey from the Pacific to the Caribbean coast of Costa Rica takes you to some of Central America’s best wildlife and marine life viewing opportunities. It also provides an intense experience of rainforest, cloud forest, marine turtle and primate research and conservation.<br/><br/>Corcovado National Park<br/>For wildlife and marine life, the Corcovado National Park in the Osa Peninsula is a must for any visit to Costa Rica. The area has been described by National Geographic magazine as '..the most wildlife intense place on earth', both because of its primaeval forest and abundant offshore life. The western side of the Corcovado provides more than 30 miles of beach where the rainforest meets the Pacific Ocean. Populations of howler, capuchin, spider and squirrel monkeys are so healthy along the coast that they live in closer proximity than you are ever likely to find elsewhere.<br/><br/>Offshore, humpback whales from both the northern and southern hemispheres migrate. 17 kilometres from the coast of the northern Corcovado is the Caño Island Biological Reserve. Aside from Cocos Island way out in the Pacific, this is where you will find the country’s best marine life, both on the surface and beneath it. Dolphins are a feature of most visits to the island. Olive Ridley turtles and manta rays are also often seen at the surface and below. The coral reefs and steep drop-offs provide excellent snorkeling if you wish, with some huge shoals of fish and pelagic visitors such as sharks and barracudas. We can pre-arrange diving for certified divers.<br/><br/>Whilst you will experience the Corcovado based from a premium ecolodge, we begin your visit to the Caribbean coast ‘on location’ at one of Costa Rica’s most important leatherback turtle reserves. It was initially established to protect one of Central America’s most important nesting grounds for the giant Leatherback Turtles. It also protects a growing area of rainforest, the future protection of which your visit with us helps to protect.<br/><br/>Leatherback Turtle Conservation<br/>Giant Leatherbacks are the largest of the marine turtles, with the biggest measured specimen some 2.4 metres in length. Between mid March and early June, hundreds of leatherbacks come to our reserve to lay their eggs. Whilst they can move around freely in water, their quest to lay eggs is a monumental struggle. A pregnant female must first locate a beach and then drag her huge body five or more metres out of the sea using fins designed for water. These same fins then need to dig a metre deep hole in which she lays her eggs before covering them back over with sand. You can’t help but feel the strain of her quest and gain a sense of her vulnerability out of the water.<br/><br/>Fortunately, nesting leatherbacks are protected by law in Costa Rica and projects like those you will visit on this extension help to protect leatherback eggs from poachers and dogs. You will be asked to take great care in watching this process. Once a female has begun this process it is unlikely she will stop, but it is important to avoid upsetting her with torches or camera flashes.<br/><br/>The Leatherback Turtle Reserve was established to protect 6 kilometres of some of the most important leatherback nesting sites in Central America. Green turtles also arrive in large numbers here, but the Tortuguero National Park is best known for green turtles. Tortuguero literally means ‘place of turtles’ and it is the green turtles largest nesting site in the Western Hemisphere in fact. They start to arrive in July, which is about halfway into the period when leatherback hatchlings climb their way up through the sand and run the gauntlet of predators into the sea. Green turtle egg laying usually runs until October and hatchlings can be seen taking to the sea as late as November.<br/><br/>Both the reserve and the Tortuguero National Park are fantastic locations for spotting lowland rainforest wildlife and birdlife. Jaguars sometimes appear on the beaches in Tortuguero and puma tracks are often found at the reserve, as well as peccary and more than 265 species of bird. Howler monkeys and white fronted capuchins can be seen everyday, and for part of the year you will be able to follow and assist a primate researcher in her twice daily studies in the behaviour of this, the New World’s most intelligent primate.<br/><br/>In travelling between the Pacifc and Caribbean you will experience the stunning cloud forest scenery of the Braulio Carillo National Park and the La Selva Research Station. Here you will be able to learn about one of the longest established research projects in Costa Rica and observe some of the incredible 448 species of birds found here.",
+    "tourName": "Kosta Rika Koruma Turu, Özel Hazırlık",
+    "placesVisited": "San José, Braulio Carillo Ulusal Parkı, Tortuguero Kanalı, Tortuguero Ulusal Parkı, Karayip Kıyısı, Yağmur Ormanı ve Derin Deniz Tutkunu Koruma Alanı, muz plantasyonları, La Selva Araştırma İstasyonu, Osa Yarımadası, Corcovado Ulusal Parkı, Drake Koyu, Caño Adası Biyolojik Rezervi, İsteğe Bağlı Gece Plaj Devriyesi (Derin Deniz Tutkunu Koruma Alanı)",
+    "generalInfo": "Bu yolculuk, Kosta Rika'nın Pasifik'ten Karayip kıyısına kadar, Orta Amerika'nın en iyi yaban hayatı ve deniz yaşamı gözlem fırsatlarına sizi götürüyor. Ayrıca yağmur ormanları, bulut ormanları, deniz kaplumbağaları ve primat araştırmaları ile korunmaları hakkında yoğun bir deneyim sunuyor.<br/><br/>Corcovado Ulusal Parkı<br/>Yaban hayatı ve deniz yaşamı için Osa Yarımadası'ndaki Corcovado Ulusal Parkı, Kosta Rika'yı ziyaret eden herkese tavsiye edilen bir yerdir. Bu bölge, National Geographic dergisi tarafından '..dünyadaki en yoğun yaban hayatı alanı' olarak tanımlanmıştır, hem ilkel ormanları hem de bol miktarda açık deniz yaşamı nedeniyle. Corcovado'nun batı tarafı, yağmur ormanının Pasifik Okyanusu ile buluştuğu 30 milden fazla plaja ev sahipliği yapmaktadır. Yöredeki nasılar, kapuçinler, örümcek ve sincap maymunları, kıyıda, başka yerlerde bulamayacağınız kadar sağlıklı bir nüfusa sahiptir.<br/><br/>Açık denizde, hem kuzey hem de güney yarımkürelerden gelen humpback balinaları göç etmektedir. Kuzey Corcovado açıklarında, 17 kilometre mesafede, Caño Adası Biyolojik Rezervi bulunmaktadır. Pasifik'te yer alan Cocos Adası haricinde, yüzeyde ve altında Kosta Rika'nın en iyi deniz yaşamını burada bulacaksınız. Adayı ziyaretlerinizin çoğunda yunuslar görülmektedir. Zeytin Ridley kaplumbağaları ve manta raylar da genellikle yüzeyde ve aşağıda görülmektedir. Mercan resifleri ve dik düşüşler, isterseniz mükemmel şnorkelle dalma fırsatları sunmakta, köpekbalıkları ve baraküdalar gibi büyük balık sürüleri ve pelajik ziyaretçiler bulunmaktadır. Sertifikalı dalgıçlar için önceden dalış düzenleyebiliriz.<br/><br/>Corcovado'da lüks bir ekolojik otelden konaklayacak olsanız da, Karayip kıyısını ziyaretinize Kosta Rika'nın en önemli derin deniz kaplumbağası koruma alanlarından birinde 'yerde' başladık. Başlangıçta, Orta Amerika'nın en önemli yumurtlama alanlarından birini korumak için tesis edilmiştir. Ayrıca, büyüyen bir yağmur ormanı alanını koruyarak, bizimle yaptığınız ziyaretin gelecekteki korunmasına yardımcı olur.<br/><br/>Derin Deniz Kaplumbağası Koruma<br/>Dev Derin Deniz Kaplumbağaları, en büyük deniz kaplumbağası türüdür; en büyük ölçülen örneği yaklaşık 2.4 metre uzunluğundadır. Mart ortası ile Haziran başı arasında, yüzlerce derin deniz kaplumbağası yumurtlamak üzere koruma alanımıza gelir. Su içinde serbestçe hareket edebilseler de, yumurta bırakma çabaları büyük bir mücadele gerektirir. Hamile bir dişi önce bir plaj bulmalı ve ardından kocaman bedenini su üzerinden beş metre veya daha fazla sürüklemelidir. Bu aynı yüzgeçler, yumurtalarını bırakmadan önce bir metre derinliğinde bir delik açmak zorundadır. Tüm bu süreçte onun mücadelesini hissedebilir ve su dışında daha savunmasız olduğunu anlayabilirsiniz.<br/><br/>Neyse ki, Kosta Rika'da yumurtlayan derin deniz kaplumbağaları yasal olarak korunmaktadır ve bu uzantıda ziyaret edeceğiniz projeler, derin deniz kaplumbağası yumurtalarını kaçak avcılardan ve köpeklerden korumaya yardımcı olmaktadır. Bu süreci izlerken tamamen dikkatli olmanız istenecektir. Bir dişi bu sürece başladıktan sonra durması beklenmez; ancak onu meşaleler veya kamera flaşlarıyla rahatsız etmemek önemlidir.<br/><br/>Derin Deniz Kaplumbağası Koruma Alanı, Orta Amerika'daki en önemli derin deniz kaplumbağası yumurtlama alanlarından birinin 6 kilometresini korumak amacıyla kurulmuştur. Yeşil kaplumbağalar da burada büyük sayılarda gelmektedir, ancak Tortuguero Ulusal Parkı en çok yeşil kaplumbağalarıyla tanınmaktadır. Tortuguero, kelime anlamıyla 'kaplumbağa yeri' demektir ve aslında Batı Yarımküre'deki en büyük yeşil kaplumbağa yumurtlama alanıdır. Temmuz ayında gelmeye başlarlar; bu dönem, derin deniz kaplumbağası yavrularının kumdan çiğneyerek denize doğru koşmaya başladığı zamandır. Yeşil kaplumbağa yumurtlama dönemi genellikle Ekim ayına kadar sürmekte ve yavruları en geç Kasım ayında denize doğru hareket ederken görebilirsiniz.<br/><br/>Hem rezerv hem de Tortuguero Ulusal Parkı, alçak yağmur ormanı yaban hayatı ve kuş yaşamını gözlemlemek için harika yerlerdir. Jaguarlar bazen Tortuguero plajlarında görünmektedir ve rezervde puma izleri sıkça rastlanmaktadır; ayrıca pekari ve 265'ten fazla kuş türü de bulunmaktadır. Nasılar ve beyaz yüzlü kapuçinler her gün görülebilmektedir; yılın bir kısmında, bir primat araştırmacısının çalışma sırasında davranışlarını takip etme ve ona yardımcı olma fırsatına sahip olacaksınız.<br/><br/>Pasifik ve Karayipler arasında seyahat ederken, Braulio Carillo Ulusal Parkı'nın ve La Selva Araştırma İstasyonu'nun muhteşem bulut ormanı manzaralarının tadını çıkaracaksınız. Burada, Kosta Rika'daki en uzun süredir devam eden araştırma projelerinden birinin detaylarını öğrenebilecek ve burada bulunan 448 tür kuşun bazılarını gözlemleyebileceksiniz.",
     "durationDays": "12",
     "price": "2470",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -24,59 +135,154 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Arrive San José, Costa Rica where you will be met and transferred to the El Presidente Hotel in the centre of San Jose (subject to availability)."
+        "description": "San José, Kosta Rika'ya vardığınızda karşılanacak ve San José merkezindeki El Presidente Oteli'ne transfer edileceksiniz (müsaitlik durumuna bağlıdır)."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Day to rest and acclimatize in San Jose."
+        "description": "San José'de dinlenmek ve adaptasyon süreci için bir gün."
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "You will be collected early from your hotel and transferred from San José overland through the Brauillo Carillo National Park to the Tortuguero Canal. Here you will meet a motor canoe from where you will be taken north to your jungle lodge in the Tortuguero National."
+        "description": "Otelinizden erken bir saatte alınacak ve San José'den Braulio Carillo Ulusal Parkı üzerinden Tortuguero Kanalı'na kara yoluyla transfer edileceksiniz. Burada, sizi derin denizdeki konaklamanıza götürecek bir motor kanosu ile karşılaşacaksınız."
       },
       {
         "dayNumber": 4,
         "title": "",
-        "description": "Explore Tortuguero National Park."
+        "description": "Tortuguero Ulusal Parkı'nı keşfedin."
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "From the Tortuguero National Park you will be transferred privately by motor canoe half way down the Caribbean coast of Costa Rica to our Rainforest and Leatherback Turtle Reserve."
+        "description": "Tortuguero Ulusal Parkı'ndan, Kosta Rika'nın Karayip kıyısında özel motor kanosu ile yarım yolculuk yapacaksınız, Rainforest ve Derin Deniz Kaplumbağası Koruma Alanı'na."
       },
       {
         "dayNumber": 8,
         "title": "",
-        "description": "You will be transferred further south along the Tortuguero Canal to a river dock east of Matina. Here you will be met by a private vehicle and driver / guide who will take you through coastal banana plantations before ascending into the Braulio Carillo National Park and the La Selva Research Station and reserve. You will explore the La Selva Reserve and visitor centre led by the station staff. After spending a few days in lowland rainforest you will find this montane forest noticeably cooler. Later you will be transferred back to your hotel in San Jose."
+        "description": "Tortuguero Kanalı boyunca daha güneyde, Matina'nın doğusundaki bir nehir rıhtımına transfer edileceksiniz. Burada, sizi özel bir araç ve rehber/şoför karşılayacak ve sizi kıyı muz plantasyonları üzerinden Braulio Carillo Ulusal Parkı ve La Selva Araştırma İstasyonu'na götürecekler. La Selva Rezervi ve ziyaretçi merkezi, istasyon ekibi tarafından keşfedilecektir. Birkaç gün boyunca alçak yağmur ormanında geçirdikten sonra, bu montan ormanın dikkate değer derecede serin olduğunu bulacaksınız. Daha sonra sizi San José'deki otelinize geri transfer edilecek."
       },
       {
         "dayNumber": 9,
         "title": "",
-        "description": "You will be collected form your hotel early and driven to the airport for your flight to the south west of Costa Rica. You will be met upon arrival and transferred overland and by boat to the Osa Peninsula."
+        "description": "Otelinizden erken bir saatte alınacak ve Kosta Rika'nın güneybatısına giden uçuşunuz için havaalanına götürüleceksiniz. Varışta karşılanacak ve Osa Yarımadası'na karayolu ve botla transfer edileceksiniz."
       },
       {
         "dayNumber": 12,
         "title": "",
-        "description": "You will be transferred overland and by water to Palmar Sur airport (or Drake’s Bay) and flown back to San José. You will be met upon arrival and taken back to your hotel in San Jose."
+        "description": "Palmar Sur havaalanına (veya Drake Koyu'na) kara ve su yoluyla transfer edileceksiniz ve San José'ye geri uçacaksınız. Varışta karşılanacak ve San José'deki otelinize geri götürüleceksiniz."
       },
       {
         "dayNumber": 13,
         "title": "",
-        "description": "You will be collected from your hotel and taken to the airport for your flight home or for your onwards flight to Panama City."
+        "description": "Otelinizden alınacak ve evinize veya Panama Şehri'ne devam eden uçuşunuza gitmek üzere havaalanına transfer edileceksiniz."
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San José",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Braulio Carillo National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Tortuguero Canal",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Tortuguero National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Caribbean coast",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Rainforest and Leatherback Turtle Reserve",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "La Selva Research Station",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Osa Peninsula",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Corcovado National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Drake’s Bay",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Caño Island Biological Reserve",
+        "country": "Costa Rica"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San José",
+        "country": "Kosta Rika",
+        "lat": 9.932607,
+        "lng": -84.07486
+      },
+      {
+        "name": "Braulio Carillo Ulusal Parkı",
+        "country": "Kosta Rika",
+        "lat": 10.550809,
+        "lng": -85.69744
+      },
+      {
+        "name": "Tortuguero Kanalı",
+        "country": "Kosta Rika",
+        "lat": 10.426823,
+        "lng": -85.09148
+      },
+      {
+        "name": "Tortuguero Ulusal Parkı",
+        "country": "Kosta Rika",
+        "lat": 10.008598,
+        "lng": -84.02936
+      },
+      {
+        "name": "Osa Yarımadası",
+        "country": "Kosta Rika",
+        "lat": 8.962273,
+        "lng": -83.45919
+      },
+      {
+        "name": "Corcovado Ulusal Parkı",
+        "country": "Kosta Rika",
+        "lat": 10.008598,
+        "lng": -84.02936
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Costa Rica",
+    "destination": "Kosta Rika",
     "mainPhoto": "",
     "id": "costa-rica-wildlife-holiday-coastal-secrets",
-    "tourName": "Costa Rica wildlife holiday, Coastal Secrets",
-    "placesVisited": "Tortuguero National Park, Cahuita National Park, Turrialba Valley, Savegre Cloud Forest, Osa Peninsula, Drake Bay, Caño Island, Dolphin and whale watching in season, Sierpe, Corcovado National Park",
-    "generalInfo": "This two-week Costa Rica wildlife holiday, travelling with a small group and expert wildlife leader, takes you from one stunning Costa Rican coast to the other, with a cornucopia of creatures in between. Even though it is a small country, it is bursting with biodiversity, and this trip covers many of its most beautiful spots, visiting national parks, cloud forests and islands. <br/><br/>It is also superbly set up for tourism, allowing us to stay in small and locally owned accommodation along the way, from ecolodges located in tropical gardens to a waterfront accommodation on the Osa Peninsula only accessible by boat. <br/><br/>The trip starts inland, in the capital San Jose and then, using private minibus, we head to the Caribbean Coast to explore two amazing national parks, with two days in each. First, we go to Tortuguero National Park, which we travel through by boat as this is the only way to access it and see its eponymous turtles, otters, caiman and manatees. On land, we hope to see monkeys, caiman, iguanas, butterflies and myriad birdlife. From here to Cahuita National Park, where you can hike on trails that dip in and out of coast and jungle, or take an optional snorkelling trip out on the reef. One more inland idyll before hitting the Pacific coast is Savegre Cloud Forest, where we have two nights to enjoy, in particular, its extraordinary birdlife. The forest is most famous for being home to the elusive and exquisite resplendent quetzal. <br/><br/>There are few things more resplendent, however, than the final few days of this trip which are spent on the Osa Peninsula and Corcovado National Park. This is home to about 50 percent of Costa Rica’s incredible wildlife, from scarlet macaws to manatees, tayras to tapirs. We take a trip to Caño Island, where we hope to see dolphins and, in season, humpback or even orca whales. The former come here between July-November and the latter December-April. Osa Peninsula is one of the best ways to end a wildlife holiday, with plenty of beach time too so that you can chill out before your return home. <br/>",
+    "tourName": "Kosta Rika Yaban Hayatı Tatili, Kıyı Sırları",
+    "placesVisited": "Tortuguero Ulusal Parkı, Cahuita Ulusal Parkı, Turrialba Vadisi, Savegre Bulut Ormanı, Osa Yarımadası, Drake Koyu, Caño Adası, Dönemsel yunus ve balina izleme, Sierpe, Corcovado Ulusal Parkı",
+    "generalInfo": "Bu iki haftalık Kosta Rika yaban hayatı tatili, küçük bir grup ve uzman bir yaban hayatı lideri eşliğinde, bir muhteşem Kosta Rika kıyısından diğerine sizi götürüyor. Küçük bir ülke olmasına rağmen, biyolojik çeşitlilik açısından dolup taşıyor ve bu seyahat, ulusal parklara, bulut ormanlarına ve adalara yapacağınız birçok güzel yeri kapsıyor. <br/><br/>Ayrıca, yerel sahipli küçük konaklamalarda kalmamızı sağlamak için mükemmel bir şekilde düzenlenmiştir; tropik bahçelerde bulunan eko-lodgelerden, sadece botla erişilebilen Osa Yarımadası'ndaki su kenarındaki konaklamalara kadar. <br/><br/>Seyahatimiz, başkent San Jose’den iç kısımda başlıyor ve ardından özel minibüs ile Karayip Kıyısı'na gidiyoruz ve burada her biri iki gün süren iki harika ulusal parkı keşfediyoruz. İlk olarak, ulaşımın sadece botla sağlandığı ve burada ismini aldığı kaplumbağaları, su samurlarını, caymanları ve manatiyi görebildiğimiz Tortuguero Ulusal Parkı’na gidiyoruz. Karada, maymunlar, caymanlar, iguanalar, kelebekler ve sayısız kuş yaşamını görmeyi umuyoruz. Buradan Cahuita Ulusal Parkı’na geçiyoruz, burada kıyı ve ormanın içlerinde kaybolan patikalarda yürüyüş yapabilir veya resif üzerinde isteğe bağlı bir şnorkel gezintisi yapabilirsiniz. Pasifik kıyısına gitmeden önceki bir başka iç cennetimiz Savegre Bulut Ormanı’dır; burada özellikle olağanüstü kuş yaşamını keşfetmek için iki gece geçiriyoruz. Orman, kaçık ve zarif resplendent quetzal kuşuna ev sahipliği yapmasıyla ünlüdür. <br/><br/> Ancak, bu seyahatin son günleri Osa Yarımadası ve Corcovado Ulusal Parkı'nda geçirdiğimiz günlerden daha muhteşem bir şey yoktur. Burası, Kosta Rika'nın muhteşem yaban hayatının yaklaşık %50'sine ev sahipliği yapmaktadır; kırmızı makavlardan manatilere, tayralardan tapirlere kadar. Caño Adası'na bir gezinti yapıyoruz; burada yunusları ve mevsiminde, kambur veya hatta orka balinalarını görmeyi umuyoruz. Eskileri Temmuz-Kasım arasında buraya gelirken, diğerleri Aralık-Nisan arasındadır. Osa Yarımadası, bir yaban hayatı tatilini sonlandırmanın en iyi yollarından biridir; yeterince plaj zamanı da var, böylece evinize dönüşünüzden önce rahatlayabilirsiniz. <br/>",
     "durationDays": "15",
     "price": "5199",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -95,89 +301,212 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Begin your adventure in San José, the culture-rich capital of Costa Rica. A complimentary transfer from the airport to the hotel is available. Check in and take it easy, there’s plenty of excitement on this trip, so today’s all about relaxing and easing ourselves into the adventure. Around 7.30pm, say hola to your tour leader and fellow travellers when we gather as a group for a short briefing and dinner together. Our main briefing takes place tomorrow afternoon in Tortuguero due to the late arrival of some flights today. Want to explore San Jose further? Secure pre-tour hotel nights through your sales representative. Accommodation: Presidente Hotel (or similar) Upgrade to a superior room today – speak to your sales representative for more details"
+        "description": "Maceralınıza Kosta Rika’nın kültür zengini başkenti San José’de başlayın. Havalimanından otele ücretsiz bir ulaşım mevcuttur. Giriş yapın ve rahatlayın; bu yolculukta birçok heyecan var, bu yüzden bugünün amacı dinlenmek ve maceraya yavaş yavaş alışmaktır. Akşam saat 19.30 civarında, tur lideriniz ve diğer seyahat arkadaşlarınıza merhaba demek için grup olarak toplanıyoruz; kısa bir brifing ve birlikte akşam yemeği yapacağız. Ana brifingimiz yarın öğleden sonra Tortuguero’da geç gelecek bazı uçuşlar sebebiyle olacaktır. San Jose’yi daha fazla keşfetmek mi istiyorsunuz? Ön tur otel gecelerini satış temsilciniz aracılığıyla ayırtabilirsiniz. Konaklama: Presidente Hotel (veya benzeri) Bugün daha iyi bir odaya yükseltmeyi düşünün - daha fazla bilgi için satış temsilcinizle konuşun."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Our adventure begins early this morning, leaving San Jose behind as we travel to Tortuguero National Park in northeast Costa Rica. Accessible only by boat or light aircraft, Tortuguero has a vast network of waterways, canals and swamps that are remarkably tranquil, unspoilt and devoid of noise pollution. On reaching the pier, we board a small motorboat for the journey to our lodge (up to 1hr 30min) , which is a short distance from the main lagoon. Please note the transfer from San José to Tortuguero is not private for our groups. This afternoon your tour leader will host the main welcome briefing when we gather as a group to get to know each other and learn more about the adventures ahead. We also visit Tortuguero village, where it’s possible to enter the Sea Turtle Museum (a donation is requested at the entrance). Tortuguero is probably most famous as a nesting site for the endangered green turtle, which can be seen coming ashore to lay eggs from late July to October (as part of an optional excursion). Hawksbill, loggerhead, and giant leatherback turtles also nest in this region, and from late August through to November, baby turtles hatch and make their way to the ocean. Today's travel time will be in the region of six hours including a stop for breakfast. Accommodation: Aninga Lodge/Evergreen Lodge (or similar)"
+        "description": "Maceralara bu sabah erken başlıyoruz; San Jose’yi geride bırakıp, Kosta Rika'nın kuzeydoğusundaki Tortuguero Ulusal Parkı’na doğru yola çıkıyoruz. Sadece bot veya hafif uçakla ulaşılabilen Tortuguero, sakin, bozulmamış ve gürültü kirliliğinden uzak bir dizi su yolu, kanal ve bataklağa sahiptir. İskelenin ulaşmasıyla birlikte, ana lagünden kısa bir mesafede bulunan konaklama yerimize ulaşmak için küçük bir motorlu tekneye biniyoruz (1 saat 30 dakika kadar). Lütfen San José’den Tortuguero’ya olan ulaşımın gruplarımız için özel olmadığını unutmayın. Bu öğleden sonra, tur liderinizin öncülüğünde hoş geldin brifingimize katılmak üzere grup olarak bir araya geleceğiz ve birbirimizi tanıyıp, önümüzdeki maceralar hakkında daha fazla bilgi edineceğiz. Tortuguero köyünü de ziyaret ediyoruz; burada Deniz Kaplumbağası Müzesi’ne girmek mümkündür (girişte gönüllü bağış isteniyor). Tortuguero, nesli tükenmekte olan yeşil kaplumbağalara yuva yaptığı yer olarak da ünlüdür; bu kaplumbağaların yumurta bırakmak için kıyıya çıktıklarını, Temmuz'un sonlarından Ekim'e kadar görebilirsiniz (isteğe bağlı bir gezinti olarak). Hawksbill, loggerhead ve dev deri sırt kaplumbağaları da bu bölgede yuva yapmaktadır; Ağustos sonundan Kasım’a kadar, bebek kaplumbağaların yumurtadan çıktığına ve okyanusa yöneldiğine şahit olabilirsiniz. Bugün yolculuk süresi, bir kahvaltı molası dahil olmak üzere altı saat civarında olacaktır. Konaklama: Aninga Lodge/Evergreen Lodge (veya benzeri) "
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "This morning we board a small boat, enabling us to discover the extraordinary flora and fauna of Tortuguero as we pass serenely along the waterways. In the morning wildlife is usually at its most active and with the help of our expert guide we are likely to encounter monkeys, caiman, iguanas, butterflies and many of the 300-plus bird species recorded here. We’ll take a second boat trip this afternoon or you can relax at the lodge and enjoy the facilities. Accommodation: Aninga Lodge/Evergreen Lodge (or similar)"
+        "description": "Bu sabah küçük bir tekneye biniyoruz ve Tortuguero'nun olağanüstü florasını ve faunasını keşfetmek için su yolları boyunca huzur içinde ilerliyoruz. Sabah saatlerinde yaban hayatı genellikle en aktif zamanında olur ve uzman rehberimizin yardımıyla maymunlar, caymanlar, iguanalar, kelebekler ve burada kaydedilen 300'den fazla kuş türüyle karşılaşma olasılığımız yüksektir. Bu öğleden sonra ikinci bir tekne gezisi yapacağız ya da konaklama yerinde rahatlayarak olanaklardan faydalanabilirsiniz. Konaklama: Aninga Lodge/Evergreen Lodge (veya benzeri)"
       },
       {
         "dayNumber": 4,
         "title": "",
-        "description": "We leave Tortuguero the same way we arrived, by taking a small boat to Siquirres pier. Our bus will be at the pier waiting to drive us to the Cahuita region on the Caribbean coast, where we check into our hotel. Caribbean culture pervades this part of Costa Rica and is reflected in the music, food and laid-back lifestyle. The white-sand beach here is fringed by tall palms, behind which is the dense, wet tropical forest of Cahuita National Park. Accommodation: Ciudad Perdida (or similar)"
+        "description": "Tortuguero'dan, geldiğimiz yolla ayrılıyoruz; Siquirres iskelesine küçük bir botla gidiyoruz. Otobüsümüz iskelede bizi bekliyor ve Karayip kıyısındaki Cahuita bölgesine doğru gidiyoruz; burada otelimize giriş yapıyoruz. Karayip kültürü, Kosta Rika'nın bu kısmını sarar ve müzikte, yemekte ve rahat yaşam tarzında kendini gösterir. Buradaki beyaz kumlu plaj, yüksek palmiyelerle çevrilidir; arkasında Cahuita Ulusal Parkı'nın yoğun, yağmurlu tropik ormanı vardır. Konaklama: Ciudad Perdida (veya benzeri)"
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "Cahuita National Park has 2,711 acres (1,097ha) of land and 600 acres (243ha) of coral reef, the largest reef system in Costa Rica. Today we visit the national park, taking a walk that follows the coastline through rainforest and past impressive Caribbean beaches. Although fairly small in size, there is plenty of diversity in the park. The rest of the afternoon is yours to explore the beach, join an optional snorkelling excursion (subject to local conditions) or simply relax. Accommodation: Ciudad Perdida (or similar)"
+        "description": "Cahuita Ulusal Parkı, 2,711 dönüm (1,097ha) kara ve 600 dönüm (243ha) mercan resifine sahiptir; bu, Kosta Rika'daki en büyük resif sistemi. Bugün ulusal parkı ziyaret ediyoruz; yağmur ormanları ve etkileyici Karayip plajlarının yanından geçerek kıyı boyunca yürüyüş yapıyoruz. Boyut olarak oldukça küçük olmasına rağmen, parkta birçok çeşitlilik bulunmaktadır. Öğleden sonra geri kalan zaman sizin; plajda keşfe çıkabilir, isteğe bağlı bir şnorkel gezisine katılabilir (yerel koşullara bağlıdır) veya sadece dinlenebilirsiniz. Konaklama: Ciudad Perdida (veya benzeri)"
       },
       {
         "dayNumber": 6,
         "title": "",
-        "description": "Today is yours to relax into the Caribbean pace of life and enjoy free time around Cahuita. It is possible to join an optional excursion to the indigenous communities of Kekoldi & Bri Bri Reserve, where you'll learn about the properties and uses of native plants, plus the process of making artisanal chocolate. Chocolate is very important in Bri Bri culture and used for purification rituals, food and medicine. During the excursion, there is also the opportunity for a refreshing swim at a waterfall. Accommodation: Ciudad Perdida (or similar)"
+        "description": "Bugün, Karayip yaşamının huzuruna dalmak ve Cahuita çevresinde özgür zaman geçirmek için sizin. Kekoldi & Bri Bri Rezervi'ndeki yerli topluluklara yönelik isteğe bağlı bir geziye katılmak mümkün; burada yerel bitkilerin özellikleri ve kullanımları, ayrıca el yapımı çikolata yapım süreci hakkında bilgi alacaksınız. Bri Bri kültüründe çikolata, arınma ritüelleri, yiyecek ve ilaç olarak çok önemlidir. Bu gezi esnasında, ayrıca serinletici bir şelale yüzme fırsatı da bulunur. Konaklama: Ciudad Perdida (veya benzeri)"
       },
       {
         "dayNumber": 7,
         "title": "",
-        "description": "Our next destination is Turrialba Valley, a rich agricultural region in the Central Highlands. The topography of this region is mountainous, with waterfalls, rivers and caves – the varied elevation supports a wide range of plants (including orchids, bromeliads, lichens and mosses) and animals (including anteaters, ocelots and tapirs). In the afternoon, enjoy a guided tour around Aquiares, one of the most prominent coffee estates in Costa Rica. Of course, you’ll learn about the coffee-making process and taste the final product, but the tour also reveals how the Aquiares team is putting a strong emphasis on sustainability by reducing their carbon footprint and supporting the local community. Accommodation: Villa Florencia (or similar) Upgrade to a superior room today – speak to your sales representative for more details"
+        "description": "Bir sonraki hedefimiz, Orta Yükseklikler'deki zengin tarım bölgesi Turrialba Vadisi. Bu bölgenin topografyası dağlıktır; şelaleler, nehirler ve mağaralar ile - çeşitli yükseklikler, orkide, bromelya, likenler ve yosunlar gibi çeşitli bitkiler ile, anteater, ocelot ve tapir gibi hayvan çeşitlerini destekler. Öğleden sonra, Kosta Rika'nın en önde gelen kahve üretim alanlarından biri olan Aquiares çevresinde rehberli bir tur yapın. Elbette, kahve yapım sürecini öğrenip, son ürünü tadacaksınız, ancak tur, Aquiares ekibinin nasıl sürdürülebilirliğe büyük bir önem verdiğini, karbon ayak izlerini azaltarak ve yerel topluluğu destekleyerek gözler önüne seriyor. Konaklama: Villa Florencia (veya benzeri) Bugün daha iyi bir odaya yükseltmeyi düşünün - daha fazla bilgi için satış temsilcinizle konuşun."
       },
       {
         "dayNumber": 8,
         "title": "",
-        "description": "After breakfast, we depart for CATIE (Centro Agronómico Tropical de Investigación y Enseñanza), an international institute for agricultural development and biological conservation. Our visit includes a guided walk in the Dr Jorge León Arguedas Botanical Garden, during which we will see and learn about the approximately 400 different species that are observed and interpreted here, as well as receive an explanation of myriad exotic fruits that are found at the facility. After lunch, we continue to San Gerardo de Dota and Savegre Valley Cloud Forest. This is said to be one of the best places in Costa Rica to see the beautiful, colourful and notoriously shy resplendent quetzal and we have two nights here to discover the region. These endangered birds rely on the cloud forest for their habitat; the males are particularly striking with a green crest, red breast and tail feathers that can reach a metre in length. A good pair of binoculars will be helpful for quetzal spotting as these birds camouflage themselves well among the wet leaves. After lunch, we take a short walk into the cloud forest. Accommodation: Savegre Hotel, Nature Reserve & Spa or Trogon Lodge (or similar) Upgrade to a master-suite today – speak to your sales representative for more details"
+        "description": "Kahvaltıdan sonra, tarımsal gelişim ve biyolojik koruma için uluslararası bir enstitü olan CATIE (Centro Agronómico Tropical de Investigación y Enseñanza) yönüne doğru yola çıkıyoruz. Ziyaretimiz, Dr. Jorge León Arguedas Botanik Bahçesi’nde rehberli bir yürüyüş içeriyor; bu sürede burada gözlemlenen ve yorumlanan yaklaşık 400 farklı türü görecek ve burada yer alan birçok egzotik meyve hakkında bilgi alacaksınız. Öğle yemeğinden sonra, San Gerardo de Dota ve Savegre Vadisi Bulut Ormanı'na devam ediyoruz. Burası, Kosta Rika'da güzel, renkli ve ünlü bir şekilde utangaç resplendent quetzalları görmenin en iyi yerlerinden biri olarak bilinir ve burada bölgeyi keşfetmek için iki gecemiz var. Bu tehlike altında olan kuşlar, yaşam alanı olarak bulut ormanına bağımlıdır; erkekleri, yeşil bir tepeliğin, kırmızı bir göğsün ve bir metre uzunluğa kadar ulaşabilen kuyruk tüylerine sahiptir. Bu kuşları gözlemlemek için iyi bir dürbün faydalı olacaktır; çünkü bu kuşlar, ıslak yapraklar arasında iyi bir şekilde kamufle olurlar. Öğle yemeğinden sonra, bulut ormanına kısa bir yürüyüş yapıyoruz. Konaklama: Savegre Hotel, Nature Reserve & Spa veya Trogon Lodge (veya benzeri) Bugün bir master süite yükseltmeyi düşünün - daha fazla bilgi için satış temsilcinizle konuşun."
       },
       {
         "dayNumber": 9,
         "title": "",
-        "description": "Today is free to relax and explore Savegre Valley. Bring your binoculars to spot some of the 170 bird species, trek through the tropical cloud forest or simply enjoy the incredible view from the lodge. Your leader will suggest walks for today so you can discover the tropical cloud forest and sub-Alpine vegetation of the area. Birds here include hummingbirds, woodpeckers tanagers and trogons, and if you are lucky tapirs and squirrel monkeys. Accommodation: Savegre Hotel, Nature Reserve & Spa or Trogon Lodge (or similar) Upgrade to a master-suite today – speak to your sales representative for more details"
+        "description": "Bugün, Savegre Vadisi’ni keşfetmek ve dinlenmek için serbestsiniz. 170 kuş türünden bazılarını görmek için dürbünlerinizi getirin; tropik bulut ormanında yürüyüş yapın veya konaklama yerinden muhteşem manzaraların tadını çıkarın. Lideriniz, bugünkü yürüyüşler için önerilerde bulunacak; böylece tropik bulut ormanını ve bölgedeki alt-Alpin bitki örtüsünü keşfedebilirsiniz. Buradaki kuşlar arasında sokar, ağaçkakan, tanager ve trogonlar bulunur; eğer şanslıysanız, tapirler ve sincaboynuzlu maymunlar görebilirsiniz. Konaklama: Savegre Hotel, Nature Reserve & Spa veya Trogon Lodge (veya benzeri) Bugün bir master süite yükseltmeyi düşünün - daha fazla bilgi için satış temsilcinizle konuşun."
       },
       {
         "dayNumber": 10,
         "title": "",
-        "description": "Early in the morning, our journey continues towards the small town of Sierpe, where we board a small motorboat to Drake Bay on the Osa Peninsula. Passing the huge mangrove swamps that line the Sierpe River, our boat crosses the ocean before arriving at Drake Bay. This region is very remote and with extremely limited road access, which means most supplies, visitors and locals, must arrive by boat. Getting here is part of the adventure. The bay is spectacular, with just a handful of lodges on the horizon and the rest thick verdant forest and rocky coves as far as the eye can see. Our next three nights will be spent at the Drake Bay Wilderness Resort, a family-run property close to the 'town' of Drake Bay and with ocean views from every corner. Accommodation: Drake Bay Wilderness Resort (or similar)"
+        "description": "Erken sabah, Sierpe isimli küçük kasabaya doğru yola çıkıyoruz; burada Osa Yarımadası’ndaki Drake Koyu’na gitmek üzere küçük bir motorlu tekneye biniyoruz. Sierpe Nehri'ni saran dev mangrov bataklıklarından geçerken, tekneğimiz okyanusu aşarak Drake Koyu'na ulaşıyor. Bu bölge, oldukça uzak ve son derece sınırlı kara erişimine sahip; bu nedenle çoğu tedarik, ziyaretçi ve yerel halk botla gelmek zorundadır. Buraya ulaşmak zaten bir maceradır. Koy muhteşem, ufukta sadece birkaç konaklama yeri ile geri kalan tüm alan, göz alabildiğine kalın yeşil orman ve kayalık koylarla doludur. Önümüzdeki üç geceyi Drake Bay Wilderness Resort'ta geçireceğiz; bu, 'şehir' olan Drake Bay'a yakın ve her köşeden okyanus manzarasına sahip aile tarafından işletilen bir konaklama yeri. Konaklama: Drake Bay Wilderness Resort (veya benzeri)"
       },
       {
         "dayNumber": 11,
         "title": "",
-        "description": "December to August (drier months) This morning, we board a small boat towards Caño Island. During this 45-minute boat ride, there may be opportunities to spot migrating whales or playful dolphins (orca are occasionally spotted here between December to April and humpbacks might be seen in July and August). Marine life is the biggest highlight of this area, with hawksbill and olive ridley turtles, manta rays and white-tipped reef sharks just some of the likely encounters on today’s snorkelling excursion. This area has been rated as having some of the best snorkelling in Costa Rica, with a huge marine diversity living in the protected reef (visibility subject to weather conditions). On returning to Drake Bay, we enjoy lunch then embark on a 1mi (1.5km) walk to Cocalito Beach. Wildlife including iguanas, macaws and toucans are often spotted along the route, and elusive tapirs are also seen less frequently. There is time to rest on the golden sands and take in the secluded beauty of Cocalito before returning to the hotel. September to November (wetter months) Today we visit a community rural tourism project that has developed to protect the area's flora and fauna, and provide an economic benefit to the local people. We start the day with a short boat ride to the village of Drake Bay then take a 30-minute transfer to Finca Paz y Flora, home to many bird species who are attracted by the resplendent gardens. We walk on the Trillo de la Danta, or Tapir's Trail, within a primary tropical forest. Keep an eye out for collared peccaries, agouti, monkeys and shy tapirs. Towards the end of the walk, we reach a scenic waterfall where it's possible to cool off with a dip in the clear waters. We enjoy a traditional lunch served in banana leaves before returning to our hotel. Accommodation: Drake Bay Wilderness Resort (or similar)"
+        "description": "Aralık'tan Ağustos'a (kuru aylar) Bu sabah, Caño Adası'na doğru küçük bir tekneye biniyoruz. Bu 45 dakikalık tekne yolculuğu sırasında, göç eden balinaları veya oyuncu yunusları (orta sıkça Aralık'tan Nisan'a kadar burada orkalara rastlanabilir ve Temmuz ve Ağustos'ta kambur balinaları görülebilir) izleme fırsatımız olabilir. Deniz yaşamı, bu bölgenin en büyük cazibesidir; burada, hawksbill ve zeytin ridley kaplumbağaları, manta rayları ve beyaz uçlu resif köpekbalıkları gibi muhtemel karşılaşmalar vardır. Bu bölge, Kosta Rika’daki en iyi şnorkelle yüzme yerlerinden biri olarak değerlendirilmiştir; burada korunan resifte olağanüstü bir deniz çeşitliliği yaşamaktadır (görüş mesafesi hava koşullarına bağlıdır). Drake Koyu'na döndüğümüzde, öğle yemeği alıyoruz ve ardından Cocalito Plajı’na 1 mil (1.5km) yürüyüşe çıkıyoruz. Hayvan yaşamı, rota boyunca iguanalar, makavlar ve tukangalar gibi sıklıkla görünmektedir; ayrıca, kaçık tapirler de nadir olarak gözlemlenmektedir. Cocalito’nun saklı güzelliklerini görmek için altın kumlarda dinlenme zamanı vardır; sonra otelimize dönüyoruz. Eylül'den Kasım'a (yağışlı aylar) Bugün, bölgenin florasını ve faunasını korumak ve yerel halk için ekonomik yarar sağlamak amacıyla geliştirilen bir topluluk kırsal turizm projesini ziyaret ediyoruz. Güne, Drake Bay köyüne kısa bir tekne yolculuğu ile başlıyor; ardından Finca Paz y Flora’ya 30 dakikalık bir transfer yapıyoruz; burada birçok kuş türü, muhteşem bahçeler tarafından çekilmektedir. Birincil tropik ormanın içinde, Tapir Patikası olan Trillo de la Danta’da yürüyüş yapıyoruz. Collar peccaries, agouti, maymunlar ve utangaç tapirleri gözlemlemek için dikkatli olun. Yürüyüşün sonunda, berrak sularda serinlemek için bir şelale ile karşılaşıyoruz. Geri dönüş öncesinde muz yapraklarında servis edilen geleneksel bir öğle yemeğinin tadını çıkarıyoruz. Konaklama: Drake Bay Wilderness Resort (veya benzeri)"
       },
       {
         "dayNumber": 12,
         "title": "",
-        "description": "When National Geographic describes an area as “the most biologically intense place on Earth,” it must be worthy of investigation. This morning, we board a small boat for a 30-minute journey to San Pedrillo Ranger Station, our entrance point to Corcovado National Park. This is undoubtedly the most secluded and tranquil region in Costa Rica. Protecting around one-third of the Osa Peninsula (some 164sqmi/425sqkm), Corcovado is the largest national park in Costa Rica and encompasses 13 major ecosystems across various elevations, with montane forest, cloud forest, fresh water and mangrove swamps among them. Scientists have recorded half of all the species in Costa Rica on this peninsula alone. On today's hike along the parks trails, we may see all four monkey species in Costa Rica (squirrel, howler, white-faced capuchin and spider), tamandua (anteaters), two- and three-toed sloths, peccary, tapirs (including the endangered Baird’s tapir) and many reptiles, insects and amphibians. Puma and jaguar also prowl this area, but are very difficult to see. With more than 500 tree species, the bird count stands at an impressive 365 and the park protects the largest population of scarlet macaws in the country, which can frequently be seen and heard flying overhead. In October, when the national park is closed, we typically visit El Camino de la Danta, a wildlife-rich trail home to white-faced monkeys, scarlet macaws, toucans and more. Accommodation: Drake Bay Wilderness Resort (or similar)"
+        "description": "National Geographic bir bölgeyi \"Dünyanın en biyolojik yoğun yeri\" olarak tanımladığında, bu alanın araştırmaya değer olduğunu belirtmek gerekir. Bu sabah, Corcovado Milli Parkı'na giriş noktamız olan San Pedrillo Ranger İstasyonu'na 30 dakikalık bir yolculuk için küçük bir tekneye biniyoruz. Kesinlikle Costa Rica'nın en ıssız ve huzurlu bölgesidir. Osa Yarımadası'nın yaklaşık üçte birini (yaklaşık 164 sqmi/425 sqkm) koruyan Corcovado, Costa Rica'nın en büyük milli parkı olup, çeşitli yüksekliklerde 13 ana ekosistem içermektedir; bunlar arasında dağ ormanı, sisli orman, tatlı su ve mangrov bataklıkları yer almaktadır. Bilim insanları, yalnızca bu yarımadada Costa Rica'daki tüm türlerin yarısını kaydetmiştir. Bugün parkın patikaları boyunca yapacağımız yürüyüşte, Costa Rica'daki dört maymun türünü (sıçan, howler, beyaz yüzlü kapuçin ve örümcek), tamanduaları (yiyici), iki ve üç parmaklı tembellere, pekkerilere, tapirlere (tehdit altındaki Baird's tapiri dahil) ve pek çok sürücüsüz hayvan, böcek ve amfibi görebiliriz. Puma ve jaguar da bu bölgede dolaşmaktadır, ancak görünmesi oldukça zordur. 500'den fazla ağaç türü ile kuş sayısı etkileyici bir şekilde 365'tir ve park, ülkedeki en büyük kırmızı makav popülasyonunu korumakta olup, sıkça uçarken görülüp duyulmaktadır. Ekim ayında milli park kapalıyken, genellikle beyaz yüzlü maymunlar, kırmızı makavlar, tukangalar ve daha fazlasını barındıran, zengin bir yaban hayatına sahip El Camino de la Danta'ya gideriz. Konaklama: Drake Bay Wilderness Resort (veya benzeri)"
       },
       {
         "dayNumber": 13,
         "title": "",
-        "description": "After an early breakfast, we board another boat and return to Sierpe town. On the way, our boat will take a short tour of the huge mangrove forest that lines the Sierpe River. Delving into the network of tributary rivers and streams offers a chance to learn more about the role of mangroves in the ecosystem and the numerous creatures that depend on them, including fish, crabs, birds, molluscs and shellfish. In Sierpe town, we transfer to our private minibus and commence our journey to San José. Accommodation: Presidente Hotel (or similar) Upgrade to a superior room today – speak to your sales representative for more details"
+        "description": "Erken bir kahvaltının ardından, diğer bir tekneye biniyor ve Sierpe kasabasına dönüyoruz. Yolculuğumuz sırasında, tekne Sierpe Nehri'ni çevreleyen dev mangrov ormanında kısa bir tur yapacak. Akarsuların ve derelerin ağlarına dalmak, ekosistemde mangrovun rolü ve bunlara bağımlı olan sayısız yaratık hakkında daha fazla bilgi edinme fırsatı sunmaktadır; bunlar arasında balıklar, yengeçler, kuşlar, Mollusca ve kabuklu deniz ürünleri bulunmaktadır. Sierpe kasabasında, özel minibüsümüze transfer oluyoruz ve San José'ye doğru yolculuğumuza başlıyoruz. Konaklama: Presidente Hotel (veya benzeri) Bugün bir üst odaya yükseltme yapın – daha fazla bilgi için satış temsilcinizle konuşun."
       },
       {
         "dayNumber": 14,
         "title": "",
-        "description": "Begin with a trip to Irazu Volcano National Park in the Cartago province, located within the Central Mountain Range around a 90-minute journey from San José. Passing different vegetation, we drive towards the summit and then follow a path that leads to a wonderful view across the huge crater. Irazu is one of the most active volcanoes in Costa Rica, though it has recently entered a dormant phase – a relief to the farmers and property owners who make their living on the fertile slopes. On a clear day, you can see both the Caribbean and Pacific coastlines from the summit. Remember to bring a jacket as it can be windy and cold at the viewpoint of this elevation (Irazu summit is 11,260ft/3,432m high). After, we continue to Cartago city, home to a spectacular domed basilica, where we have lunch. It’s then back to San José, where we visit Avenida Central and explore the main city highlights. We stop at the Central Market, a lively and traditional space where you can find a variety of local goods, including souvenirs, handicrafts, coffee, and typical Costa Rican snacks – a great spot to pick up gifts. Accommodation: Presidente Hotel (or similar) Upgrade to a superior room today – speak to your sales representative for more details"
+        "description": "Irazu Volkan Milli Parkı'na yapılacak bir seyahat ile başlayarak, San José'den yaklaşık 90 dakikalık bir yolculukla, Cartago eyaletinde yer alan Orta Dağlar Ranges'e doğru ilerliyoruz. Farklı bitki örtülerinin arasından geçerken zirveye doğru sürüyoruz ve ardından büyük kraterin muhteşem manzarasına kadar giden bir patikayı takip ediyoruz. Irazu, Costa Rica'nın en aktif volkanlarından biridir, ancak son zamanlarda uyku haline girmiştir - bu, verimli yamaçlarda geçimini sağlayan çiftçiler ve arazi sahipleri için bir rahatlama kaynağıdır. Açık bir günde zirveden hem Karayip hem de Pasifik kıyılarını görebilirsiniz. Bu yükseklikte manzara noktasında rüzgarlı ve soğuk olabileceğini unutmayın, bu yüzden bir ceket getirin (Irazu zirvesi 11,260 ft/3,432 m yüksekliğindedir). Daha sonra, muhteşem bir kubbeli bazilikanın bulunduğu Cartago şehrine ilerliyoruz ve orada öğle yemeğimizi alıyoruz. Ardından San José'ye geri dönüyoruz ve Avenida Central'ı ziyaret ederek şehrin ana görkemli noktalarını keşfediyoruz. Çeşitli yerel ürünler bulabileceğiniz, canlı ve geleneksel bir mekan olan Merkez Pazarı'nda duruyoruz; hediyelik eşyalar, el yapımı ürünler, kahve ve tipik Costa Rican atıştırmalıkları dahil olmak üzere pek çok şey mevcut – harika bir hediye alma noktası. Konaklama: Presidente Hotel (veya benzeri) Bugün bir üst odaya yükseltme yapın – daha fazla bilgi için satış temsilcinizle konuşun."
       },
       {
         "dayNumber": 15,
         "title": "",
-        "description": "Our adventure comes to an end today after breakfast and it's time to bid Costa Rica and the rest of the group goodbye. If you aren’t quite ready to leave, speak to your sales representative about extending your adventure – relax on the beach, treat yourself to some spa time, or discover more nature. To ensure total relaxation, you can stay for as many nights as you wish in a range of hotels, and we’ll organise airport transfers in either direction for you."
+        "description": "Macera bugün kahvaltıdan sonra sona eriyor ve Costa Rica'ya ve gruptaki diğer katılımcılara veda etme zamanı. Eğer daha gitmeye hazır hissetmiyorsanız, maceranızı uzatmak için satış temsilcinizle konuşun – plajda dinlenin, kendinize bir spa keyfi yaşatın veya daha fazla doğayı keşfedin. Tam bir rahatlama sağlamak için, istediğiniz kadar gece farklı otellerde kalabilir ve gidiş dönüş havaalanı transferlerinizi bizimle organize edebiliriz."
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San José",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Tortuguero National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Cahuita National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Turrialba Valley",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Savegre Cloud Forest",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Osa Peninsula",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Drake Bay",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Caño Island",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Sierpe",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Corcovado National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Irazu Volcano National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Cartago",
+        "country": "Costa Rica"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San José",
+        "country": "Costa Rica",
+        "lat": 9.932607,
+        "lng": -84.07486
+      },
+      {
+        "name": "Tortuguero Milli Parkı",
+        "country": "Costa Rica",
+        "lat": 10.008598,
+        "lng": -84.02936
+      },
+      {
+        "name": "Cahuita Milli Parkı",
+        "country": "Costa Rica",
+        "lat": 9.738303,
+        "lng": -82.84133
+      },
+      {
+        "name": "Turrialba Vadisi",
+        "country": "Costa Rica",
+        "lat": 9.90509,
+        "lng": -83.685074
+      },
+      {
+        "name": "Savegre Sisli Ormanı",
+        "country": "Costa Rica",
+        "lat": 9.327269,
+        "lng": -83.95759
+      },
+      {
+        "name": "Osa Yarımadası",
+        "country": "Costa Rica",
+        "lat": 8.962273,
+        "lng": -83.45919
+      },
+      {
+        "name": "Sierpe",
+        "country": "Costa Rica",
+        "lat": 8.861568,
+        "lng": -83.47079
+      },
+      {
+        "name": "Corcovado Milli Parkı",
+        "country": "Costa Rica",
+        "lat": 10.008598,
+        "lng": -84.02936
+      },
+      {
+        "name": "Irazu Volkan Milli Parkı",
+        "country": "Costa Rica",
+        "lat": 9.208063,
+        "lng": -83.44774
+      },
+      {
+        "name": "Cartago",
+        "country": "Costa Rica",
+        "lat": 9.864186,
+        "lng": -83.91655
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Costa Rica",
+    "destination": "Kosta Rika",
     "mainPhoto": "",
     "id": "costa-rica-wildlife-tour-tailor-made",
-    "tourName": "Costa Rica Wildlife tour, tailor made",
+    "tourName": "Kosta Rika Yaban Hayatı Turu, özel tasarım",
     "placesVisited": "",
-    "generalInfo": "Immerse yourself in the Costa Rica’s coastal canals, magical cloud forests and lush rainforest as you discover flora and fauna in one of the most protected and varied ecosystems in the world. In evocative  jungles come face to face with white faced capuchin monkeys. In the brackish waters where the river Tarcoles meets the Pacific  great American Crocodiles sleep. You will visit some of the most extensive and biodiverse National Parks in Costa Rica, providing you with extraordinary bird watching as well as getting the chance to see animals like the Two-Toed Sloth, the Great Anteater, Margay Cat, Poison-arrow frogs, Jaguars, Tapirs, Monkeys and much more.",
+    "generalInfo": "Kosta Rika’nın kıyı kanallarında, sihirli bulut ormanlarında ve yemyeşil yağmur ormanlarında kendinizi kaybedin. Dünyanın en korunmuş ve çeşitli ekosistemlerinden birinde flora ve fauna keşfedin. Tutkulu ormanlarda, beyaz yüzlü kapuçin maymunlarıyla yüz yüze gelin. Tarcoles Nehri’nin tuzlu sularında, Büyük Amerikan Krokodilleri uyur. Kosta Rika’daki en geniş ve biyoçeşitlilik açısından zengin Ulusal Parkları ziyaret edecek, İki Parmaklı Tembel Hayvan, Büyük Anteater, Margay Kedisi, Zehirli Ok Kurbağaları, Jaguarlar, Tapirler, Maymunlar ve daha pek çok hayvanı görme şansına sahip olacaksınız.",
     "durationDays": "11",
     "price": "3250",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -196,64 +525,159 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "ARRIVE IN COSTA RICA: After arriving at San Jose (SJO) Airport, we will transfer to our hotel in the San Jose City. The city of San Jose, located in the center of the country, has served as the main hub for the exploration of Costa Rica. Attractions in San Jose include the National Theater, the National Museum, the Art Museum or the Pre-Columbian Gold Museum, the picturesque Central Market Place and several art cafes. Shopping also finds its birthplace in San Jose, from the modern malls to the little souvenir shops spread out all over the city."
+        "description": "KOSTA RİKA'YA VARIŞ: San Jose (SJO) Havalimanı’na vardığınızda, sizi San Jose şehrindeki otelimize transfer edeceğiz. Ülkenin merkezinde bulunan San Jose, Kosta Rika'nın keşfi için ana merkez olarak hizmet vermektedir. San Jose'deki görülecek yerler arasında Ulusal Tiyatro, Ulusal Müzesi, Sanat Müzesi ya da Ön Kolomb Dönemi Altın Müzesi, pitoresk Merkez Pazarı ve pek çok sanat kafe bulunmaktadır. Alışveriş de San Jose'de doğar; modern alışveriş merkezlerinden, şehrin dört bir yanına yayılmış küçük hediyelik eşya dükkanlarına kadar."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Tortuguero (B, L, D) This morning we will head to Pachira Lodge, where you will stay for a couple of nights, giving you a chance to explore the area. Meals and boat transfers are all included. Additionally, you will have a guided walk in the Tortuguero National Park (tickets not included), where you will get to see Leatherback Turtles, Agarni Heron, Wild Felines, Sloths, and Monkeys. You will also have a guided visit to The Sea Turtle Conservatory (tickets not included). Costa Rica is home to 5 of the 7 sea turtles in the world, and the Caribbean beaches and waters are used by the Leatherback, Green, Hawksbill and Loggerhead turtles."
+        "description": "TORTUGUERO (K, Ö, A) Bu sabah, birkaç gece kalacağınız Pachira Lodge’a doğru yola çıkacağız ve bu bölgeyi keşfetme fırsatınız olacak. Tüm yemekler ve bot transferleri dahildir. Ayrıca, Tortuguero Ulusal Parkı'nda (biletler dahil değildir) rehberli bir yürüyüş yapacaksınız ve burada Derin Deniz Kaplumbağaları, Agarni Leylek, Yabani Kedi, Tembel Hayvanlar ve Maymunları göreceksiniz. Ayrıca, Deniz Kaplumbağası Koruma Merkezi'ni (biletler dahil değildir) de rehberli bir ziyaret edeceksiniz. Kosta Rika, dünyadaki 7 deniz kaplumbağasından 5'ine ev sahipliği yapmakta ve Karibe plajları ve suları, Derin Deniz, Yeşil, Kafa Yapraklı ve Akdeniz Kaplumbağaları tarafından kullanılmaktadır."
       },
       {
         "dayNumber": 4,
         "title": "",
-        "description": "LEAVE LIRIO LODGE AND HEAD TO SARAPIQUI (B) Today we will depart Tortuguero and head towards Sarapiqui. Here you will be able to go on a night safari to spot some of Costa Rica’s nocturnal animals. Sarapiqui is known throughout Costa Rica for its amazing and rich biodiversity as well as for being an adventure seeker’s dream destination. If you enjoy the outdoors, there are plenty of hiking and nature walk opportunities in this region as well as white water rafting down the River Sarapiqui. A boat trip down the Sarapiqui River is a great way to catch a glimpse of the region’s wildlife including; monkeys, birds, turtles and caimans. If you are an avid bird watcher, coming here is the perfect way to see some of Costa Rica’s many bird species in their natural environment such as hummingbirds, quetzals, dippers, guans, agoutis and quatamundis."
+        "description": "LİRIO LODGE’DEN AYRILMA VE SARAPIQUI'YE YOLCULUK (K) Bugün Tortuguero'dan ayrılacak ve Sarapiqui'ye doğru yola çıkacağız. Burada Kosta Rika’nın gece hayvanlarını görebileceğiniz bir gece safarisine çıkma fırsatına sahip olacaksınız. Sarapiqui, Kosta Rika genelinde muhteşem ve zengin biyoçeşitliliği ile ünlüdür ve macera arayanların hayalindeki destinasyondur. Doğada olmayı seviyorsanız, bu bölgede yürüyüş ve doğa yürüyüşü fırsatları ile birlikte Sarapiqui Nehri’nde beyaz su rafting yapma şansınız da var. Sarapiqui Nehri boyunca yapılacak bir bot turu, bölgenin yaban hayatından maymunlar, kuşlar, kaplumbağalar ve timsahları görmenin harika bir yoludur. Eğer bir kuş gözlemcisiyseniz, burası Kosta Rika’nın birçok kuş türünü doğal ortamlarında görmek için mükemmel bir yerdir; örneğin sinek kuşları, quetzal kuşları, su kuşları, guan kuşları, agouti ve quatamundi."
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "WHITE WATER RAFTING/ SAFARI BOAT TOUR (B, L) After breakfast in Sarapiqui, you will be transferred to Sarapiqui River where you will take part in White water rafting! If you are not up for White Water Rafting then you can take on a Safari Float Tour that will give you a chance to view the area’s wildlife from a different perspective. Lunch will be provided during the day After your river adventure, you will be transferred with guide/driver to Arenal where you will spend the night. One you arrive at Arenal you’ll have an opportunity to undertake horseback riding tour to La Fortuna Waterfall."
+        "description": "Beyaz Su Raftingi/ Safari Bot Turu (K, Ö, A) Sarapiqui’deki kahvaltının ardından, Sarapiqui Nehri’ne transfer olacaksınız ve Beyaz Su Rafting'de yer alacaksınız! Eğer beyaz su rafting için uygun hissetmiyorsanız, farklı bir perspektiften bölgenin yaban hayatını görebileceğiniz bir Safari Float Turu’na katılabilirsiniz. Gün boyunca öğle yemeği sağlanacaktır. Nehir maceranızın ardından, Arenal’a gitmek üzere rehber/şoförle transfer olacaksınız ve burada bir gece geçireceksiniz. Arenal’a vardığınızda, La Fortuna Şelalesi'ne at sırtında bir tur yapmak için fırsatınız olacak."
       },
       {
         "dayNumber": 6,
         "title": "",
-        "description": "LA FORTUNA WATERFALLS, HANGING BRIDGES & HOT SPRINGS (B, D) Today we wake early for an action packed day in and around Arenal, starting with a guided visit to picturesque La Fortuna Waterfall. With a 75m drop into a bright blue pool, this attraction is the perfect postcard of the Costa Rican Jungle. Located just 6km from the town of La Fortuna and at the base of the Cerro Chato Volcano, this is a great day out. After exploring La Fortuna Waterfall, we will head off on a guided walk to the Hanging Bridges, spotting different monkeys and birds along the way. Finish the day in the relaxing Hot Springs"
+        "description": "LA FORTUNA ŞELALELERİ, ASILI BRİDGE’LER & TERMAL SPRİNG (K, A) Bugün erken uyanarak Arenal çevresinde dolu dolu bir gün geçiriyoruz, öncelikle pitoresk La Fortuna Şelalesi'ni rehberli bir ziyaret ile başlayacağız. 75 m’lik bir yükseklikten parlak mavi bir havuza düşen bu cazibe merkezi, Kosta Rika Ormanı’nın mükemmel bir kartpostalını sunuyor. La Fortuna kasabasına sadece 6 km uzaklıkta ve Cerro Chato Volkanı’nın eteklerinde bulunan bu yer harika bir günü dışarıda geçirmek için idealdir. La Fortuna Şelalesi'ni keşfettikten sonra, yol boyunca farklı maymunlar ve kuşlar göreceğimiz Asılı Köprüler'e rehberli bir yürüyüşe çıkacağız. Günü rahatlatıcı sıcak su kaynaklarında bitireceğiz."
       },
       {
         "dayNumber": 7,
         "title": "",
-        "description": "BRAULIO CARRILLO NATIONAL PARK (B) After breakfast, you will get a private transfer with your guide/driver to Braulio Carrillo National Park. Braulio Carrillo National Park is one of the most extensive national parks in Costa Rica. The park covers an area of over 44,099 hectares and encompasses seven diverse habitats. It is home to more than 500 species of birds, 6000 species of trees and plants and over 135 species of animals. Toucans, guans, eagles, jaguars, tapirs and monkeys are just some of the many birds and mammals that can be spotted throughout the park. Once you arrive at Braulio National Park, you will undergo another night walking safari to spot some more of Costa Rica’s nocturnal animals."
+        "description": "BRAULIO CARRILLO ULUSAL PARKI (K) Kahvaltıdan sonra, rehber/şoförle birlikte Braulio Carrillo Ulusal Parkı’na özel transfer alacaksınız. Braulio Carrillo Ulusal Parkı, Kosta Rika’nın en geniş ulusal parklarından biridir. Park, 44,099 hektardan fazla bir alanı kapsar ve yedi farklı habitatı barındırır. 500’den fazla kuş türü, 6000’den fazla ağaç ve bitki türü ve 135’in üzerinde hayvan türüne ev sahipliği yapmaktadır. Tukanlar, guan kuşları, kartallar, jaguarlar, tapirler ve maymunlar, park boyunca gözlemleyebileceğiniz sadece birkaç kuş ve memelidir. Braulio Ulusal Parkı’na vardığınızda, Kosta Rika’nın gece hayvanlarını gözlemlemek için bir gece yürüyüş safarisi yapacaksınız."
       },
       {
         "dayNumber": 8,
         "title": "",
-        "description": "BRAULIO CARRILLO NATIONAL PARK (B) After breakfast, you will spend the morning on a bird watching tour. Your guide will take you along the trails of the Braulio Carrillo National Park where you will be able to spot some of the 500+ species of birds, including the Dull-Mantled, Antbird, Nightingale Wren and Snowcap. After your bird watching tour you will have two options. To have a ride on the Aerial Tram that takes you through the forest canopy, providing you with magnificent views of the Braulio Carrillo National Par and allowing you to absorb this fantastic nature experience. Or you can take on a zip lining canopy tour. Ascend into the tree tops and enjoy the thrill of the glide through the canopy back down to the forest floor. With climbing into the tree tops, flying through the beautiful canopy, and walking along the forest trails; you really immerse yourself in the vibrant foliage of the rainforest. Spend another night at the Tapirus Lodge."
+        "description": "BRAULIO CARRILLO ULUSAL PARKI (K) Kahvaltının ardından, sabahınızı kuş gözlem turuyla geçireceksiniz. Rehberiniz, Braulio Carrillo Ulusal Parkı’nın patikalarında sizi yönlendirecek ve burada 500'den fazla kuş türünü, Dull-Mantled, Antbird, Nightingale Wren ve Snowcap gibi türleri görme fırsatına sahip olacaksınız. Kuş gözlem turunuzun ardından, iki seçeneğiniz olacak. Ormanın kanopisine sizi götüren Aerial Tram ile yolculuk yaparak Braulio Carrillo Ulusal Parkı’nın muhteşem manzaralarını deneyimleme fırsatı bulabilirsiniz. Ya da bir zip lining kanopi turuna katılabilirsiniz. Ağaçların zirvelerine çıkarak, orman tabanına geri inmeden önce kanopi boyunca kaymanın heyecanını yaşayın. Ağaçların zirvelerine tırmanmak, güzel kanopinin içinde uçmak ve orman patikalarında yürümek, sizi yağmur ormanının canlı bitki örtüsüne gerçekten daldıracaktır. Tapirus Lodge’da bir gece daha geçireceksiniz."
       },
       {
         "dayNumber": 9,
         "title": "",
-        "description": "CARARA NATIONAL PARK (B) After breakfast, you will be transferred with your guide/driver to the Carara National Park. Carara is one of Costa Rica’s most popular National Parks (so prepare for more people). A few of the local animals include Opossum, Two-toed Sloths, Agouti, Armadillo, Pacas, Great Anteater, Kinkajou, Tayra, Margay Cat, Collared Peccary, White-tailed Deer, Poison-arrow Frogs, and the Omnipresent Monkeys."
+        "description": "CARARA ULUSAL PARKI (K) Kahvaltının ardından, rehber/şoförle birlikte Carara Ulusal Parkı’na transfer olacaksınız. Carara, Kosta Rika’nın en popüler ulusal parklarından biridir (bu yüzden daha fazla insanla karşılaşmaya hazırlıklı olun). Yerel hayvanlardan bazıları; Oppossum, İki Parmaklı Tembel Hayvanlar, Agouti, Kafes Hayvanı, Pacas, Büyük Anteater, Kinkajou, Tayra, Margay Kedisi, Collared Peccary, Beyaz Kuyruklu Geyik, Zehirli Ok Kurbağaları ve her yerde bulunan Maymunlardır."
       },
       {
         "dayNumber": 10,
         "title": "",
-        "description": "TARCOLES RIVER BOAT TOUR (B) After breakfast, we will head to the Central Pacific with our guide/driver. We will stop on-route at the Tarcoles River where you will be taken on a boat tour. Here you will be able to see the great American Crocodiles of all shapes and sizes as you float down the Tarcole River. Enjoy spectacular rainforest scenery and cruise through the dense mangrove forest canals. Spot some of the beautiful exotic birds as well as huge green iguanas, mangrove crabs, monkeys and racoons."
+        "description": "TARCOLES NEHRİ BOT TURU (K) Kahvaltının ardından, rehber/şoförle birlikte Merkez Pasifik’e doğru yola çıkacağız. Yol boyunca Tarcoles Nehri'nde bir bot turuna çıkacağız. Burada Tarcoles Nehri boyunca yüzerken, her boyutta Büyük Amerikan Krokodilleri'ni görebileceksiniz. Muhteşem yağmur ormanı manzarasının tadını çıkarın ve yoğun mangrov ormanı kanallarında yol alın. Güzel egzotik kuşların yanı sıra dev yeşil iguanalar, mangrov yengeçleri, maymunlar ve rakunlar da göreceksiniz."
       },
       {
         "dayNumber": 11,
         "title": "",
-        "description": "DEPARTING COSTA RICA (B) All good things must come to an end at some point. After breakfast at the Hotel you will be transferred with your guide/driver to San Jose Airport where you will get your flight home."
+        "description": "KOSTA RİKA'DAN AYRILIŞ (K) Tüm güzel şeylerin bir gün sona ereceği gibi, burada da sona geliyor. Oteldeki kahvaltının ardından, rehber/şoförle birlikte San Jose Havalimanı’na transfer olacaksınız ve uçağınıza bineceksiniz."
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Jose",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Tortuguero National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Sarapiqui",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Arenal",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "La Fortuna Waterfall",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Braulio Carrillo National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Carara National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Tarcoles River",
+        "country": "Costa Rica"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Jose",
+        "country": "Kosta Rika",
+        "lat": 9.932607,
+        "lng": -84.07486
+      },
+      {
+        "name": "Tortuguero Ulusal Parkı",
+        "country": "Kosta Rika",
+        "lat": 10.008598,
+        "lng": -84.02936
+      },
+      {
+        "name": "Sarapiqui",
+        "country": "Kosta Rika",
+        "lat": 10.455763,
+        "lng": -84.00818
+      },
+      {
+        "name": "Arenal",
+        "country": "Kosta Rika",
+        "lat": 10.544717,
+        "lng": -84.89545
+      },
+      {
+        "name": "La Fortuna Şelalesi",
+        "country": "Kosta Rika",
+        "lat": 10.471361,
+        "lng": -84.64452
+      },
+      {
+        "name": "Braulio Carrillo Ulusal Parkı",
+        "country": "Kosta Rika",
+        "lat": 10.550809,
+        "lng": -85.69744
+      },
+      {
+        "name": "Carara Ulusal Parkı",
+        "country": "Kosta Rika",
+        "lat": 9.726579,
+        "lng": -84.567665
+      },
+      {
+        "name": "Tarcoles Nehri",
+        "country": "Kosta Rika",
+        "lat": 9.718496,
+        "lng": -84.62849
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Costa Rica",
+    "destination": "Kosta Rika",
     "mainPhoto": "",
     "id": "rare-wildlife-holiday-costa-rica",
-    "tourName": "Rare wildlife holiday, Costa Rica",
+    "tourName": "Nadirdeki yaban hayat tatili, Costa Rica",
     "placesVisited": "",
-    "generalInfo": "We’ve focussed this particular trip on a spectacular area of Costa Rica that takes you ‘off the beaten track’ yet captures some of the best wildlife areas and experiences to be had in Central America. Starting in Alujuela Province, just beyond the city limits, you’ll instantly be immersed into a rural Costa Rican landscape where escaping into the cloud forests to marvel at the vast myriad of flora and fauna is a must. The following days are spent at the beautiful Cano Negro Wildlife Reserve on the border with Nicaragua, featuring waterways, dense jungle and shallow wetlands. Jaguars are frequently spotted along with capuchin monkeys, alligators, black river turtles and white-tailed deer. Tenoria national park sits just to the North of the better-known Arenal, yet with the turquoise blue waters of Rio Celeste and lush, jungle-clad Tenoria, it’s a standout destination in its own right. Nosara sits on the western fringes of Guanacaste and is one of the most beautifully remote beaches in the country- as perfect for surfing as it is for turtles and marine life.",
+    "generalInfo": "Bu özel turu, sizi ‘turistik alanların dışına çıkaran’ ve Orta Amerika'daki en iyi vahşi yaşam alanlarını ve deneyimlerini sunan Costa Rica'nın muhteşem bir bölgesine odaklandık. Şehir sınırlarının hemen dışında bulunan Alujuela Eyaleti'nde başlayarak, hemen kırsal bir Costa Rica manzarasına dalacaksınız; burada bulut ormanlarına kaçarak çeşitli flora ve fauna ile büyülenmek zorunludur. Takip eden günler, Nikaragua sınırında yer alan güzel Cano Negro Yaban Hayatı Koruma Alanı'nda geçecek; burada su yolları, yoğun orman ve sığ bataklıklar bulunuyor. Jaguar, kapuçin maymunları, timsahlar, siyah nehir kaplumbağaları ve beyaz kuyruklu geyikler sıkça görülen hayvanlar arasında. Tenoria milli parkı, daha bilinen Arenal'ın hemen kuzeyinde yer alıyor; ancak Rio Celeste'nin turkuaz mavi sularıyla ve yemyeşil, orman kaplı Tenoria ile kendi başına öne çıkan bir destinasyon. Nosara, Guanacaste'in batı kıyısında yer alan ve ülkedeki en güzel, ıssız plajlardan biri olup, hem sörf hem de deniz kaplumbağaları ve deniz yaşamı için mükemmeldir.",
     "durationDays": "12",
     "price": "3785",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -272,69 +696,144 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Welcome to Costa Rica – San Ramon Once you arrive, you'll quickly notice that Costa Rica culture abounds in this small city and that the pace of life is slow, relaxed, and focused on forging strong community ties. San Ramon Located in the Alajuela Province in Costa Rica, the laid-back colonial city of San Ramon has been dubbed the ‘City of Presidents and Poets’. It has played an important role in Costa Rica’s history as it has been home to many local literary heroes and political leaders including one of Costa Rica’s most influential leaders, Jose Figueres Ferrer. This small city is surrounded by lush rainforest as well as coffee and sugar cane fields. Visitors can explore the many historical sights dotted around the city, experience a rainforest canopy tour just beyond the city limits, and enjoy an array of restaurants, cafes, and bars serving up local delights. Don’t miss the opportunity to hike through the beautiful tropical forests and spot a variety of animals such as monkeys, deer, and sloths as well as abundant birdlife. Private Transfer from Juan Santamaria International Airport [SJO] to Villa Blanca Cloud Forest Hotel & Nature Reserve."
+        "description": "Costa Rica'ya hoş geldiniz – San Ramon Varır varmaz, bu küçük şehirde Costa Rica kültürünün hakim olduğunu ve hayatın temposunun yavaş, rahat ve güçlü topluluk bağları kurmaya odaklandığını hemen fark edeceksiniz. San Ramon, Costa Rica'daki Alajuela Eyaleti'nde yer alan, rahat bir sömürge şehri olan San Ramon, ‘Cumhurbaşkanları ve Şairler Şehri’ olarak anılmaktadır. Hayatı boyunca birçok yerel edebi kahramana ve siyasi liderin evi olduğu için Costa Rica tarihinin önemli bir parçasıdır; bunlar arasında Costa Rica'nın en etkili liderlerinden biri olan Jose Figueres Ferrer yer alır. Bu küçük şehir, yemyeşil yağmur ormanları ve kahve ve şeker kamışı tarlalarıyla çevrilidir. Ziyaretçiler, şehirdeki birçok tarihi yeri keşfedebilir, şehir sınırlarının hemen ötesinde bir yağmur ormanı kanopi turuna katılabilir ve yerel lezzetleri sunan birçok restoran, kafe ve barın tadını çıkarabilirler. Güzel tropik ormanlarda yürüyüş yapma şansını kaçırmayın; maymunlar, geyikler ve slothlar dahil olmak üzere çeşitli hayvanları ve bol kuş yaşamını gözlemleyebilirsiniz. Juan Santamaria Uluslararası Havalimanı'ndan [SJO] Villa Blanca Bulut Ormanı Oteli & Doğa Koruma Alanı'na özel transfer."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Cano Negro Wildlife Refuge A stunning natural refuge, Caño Negro is considered by many to be the third most important wetland in the world. A must visit place when in Costa Rica, this sanctuary was named the ‘Wetland of International Importance’ in 1991, and is one of the most significant humid zones in the country. Private Transfer from Villa Blanca Cloud Forest Hotel & Nature Reserve to Natural Lodge Cano Negro Cano Negro Wildlife Refuge Situated near the Nicaraguan border within northern Costa Rica, the remote Cano Negro Wildlife Refuge forms part of the Arenal Huetar Norte Conservation Area. It is a thrilling off-the-beaten-track destination known for its lush landscapes featuring countless waterways, dense jungles and shallow wetlands. A wondrous playground for nature lovers and adventure seekers alike, activities such as boating, rafting, zip-lining, fishing, kayaking, horse riding and rappelling down waterfalls are in abundance. Commonly spotted wildlife includes jaguar, capuchin monkey, bull shark, alligator, black river turtle, white ibis and white-tailed deer. It is well worth venturing off the well-trodden tourist path to visit this fantastic refuge and its surrounding scenic landscapes."
+        "description": "Cano Negro Yaban Hayatı Koruma Alanı Muhteşem bir doğal koruma alanı olan Caño Negro, birçok kişi tarafından dünyanın üçüncü en önemli sulak alanı olarak kabul edilmektedir. Costa Rica'da mutlaka ziyaret edilmesi gereken bir yer olan bu sığınak, 1991 yılında ‘Uluslararası Öneme Sahip Sulak Alan’ olarak adlandırılmıştır ve ülkenin en önemli nemli bölgelerinden biridir. Villa Blanca Bulut Ormanı Oteli & Doğa Koruma Alanı'ndan Natural Lodge Cano Negro'ya özel transfer. Cano Negro Yaban Hayatı Koruma Alanı Nikaragua sınırına yakın, Costa Rica'nın kuzeyinde yer alan uzak Cano Negro Yaban Hayatı Koruma Alanı, Arenal Huetar Norte Koruma Alanı'nın bir parçasını oluşturmaktadır. Sayısız su yolları, yoğun ormanlık alanlar ve sığ bataklıklar içeren yemyeşil manzaralarıyla keşfedilmeyi bekleyen, macera arayan doğa severler için heyecan verici bir destinasyon. Bot gezileri, rafting, zip-lining, balık tutma, kano, at binme ve şelalelerden aşağı tırmanma gibi aktivitelerle dolup taşmaktadır. Sıklıkla görülen hayvanlar arasında jaguar, kapuçin maymunu, boğa köpekbalığı, timsah, siyah nehir kaplumbağası, beyaz ibis ve beyaz kuyruklu geyik bulunmaktadır. Bu harika sığınağı ve çevresindeki görsel manzaraları ziyaret etmek için iyi bir zaman ayırmaya değer."
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "Cano Negro Wildlife Refuge There are 160 species of mammals, of which 90 are bats and 70 are terrestrial mammals. The avifauna (with species considered rare or endemic) is one of the most diverse and important groups in the area. It is made up of 307 species, of which 206 are resident and 101 are migratory. Another important group is the fish, since the water system of this wetland favors their abundance. Cano Nergo Wildlife Safari boat tour on Rio Frio: Wildlife Safari boat tour on Rio Frio takes place at the Caño Negro Wildlife Refuge, located near the border between Costa Rica and Nicaragua and is one of the most important wetlands of the country. Travel along the river in search of monkeys, herons, sloths, caiman, turtles, and hundreds of other species of flora and fauna that inhabit the area around the Caño Negro Wildlife Refuge."
+        "description": "Cano Negro Yaban Hayatı Koruma Alanı 160 memeli türü bulunmaktadır; bunların 90'ı yarasa ve 70'i kara memelidir. Avifauna (nadir veya endemik sayılan türlerle), bölgedeki en çeşitli ve önemli gruplardandır. 307 türden oluşan bu grup, 206 yerli ve 101 göçmen türden oluşmaktadır. Önemli bir diğer grup ise balıklardır, çünkü bu sulak alanın su sistemi onların bol miktarda bulunmasını sağlamaktadır. Cano Negro Yaban Hayatı Safari tekne turu Rio Frio'da: Rio Frio'daki Yaban Hayatı Safari tekne turu, Costa Rica ve Nikaragua sınırına yakın bulunan Caño Negro Yaban Hayatı Koruma Alanı'nda gerçekleştirilmektedir ve ülkenin en önemli sulak alanlarından biridir. Nehir boyunca seyahat edin ve maymunlar, balıkçıl kuşları, tembel hayvanlar, caiman, kaplumbağalar ve Caño Negro Yaban Hayatı Koruma Alanı çevresinde bulunan yüzlerce diğer flora ve fauna türünü arayın."
       },
       {
         "dayNumber": 4,
         "title": "",
-        "description": "Bijagua Tenorio has everything you could want in a tropical forest natural area and every time we visit we find something new to love. Hiking to the sky blue Celeste waterfall is a highlight, but the hanging bridges in the rainforest and trail to Lago Danta through the cloud forest from the Heliconias entrance are equally amazing. Transfer from Natural Lodge Cano Negro to Casitas Tenorio Tree Chocolate Tour Welcome to the sweetest experience of your life! Located in the foothills of the Tenorio Volcano, our farm is the ultimate destination for cocoa and cuisine lovers. We offer exclusive tours of our chocolate factory, located on site. You will see (and taste!) every step of the chocolate making process from the trees to the finished chocolate bars. You will also be able to taste our delicious and exclusive Tsuru or Yok Chocolate, a 100% handmade chocolate. You will undoubtedly enjoy a unique experience! Tenorio Volcano National Park Set in the north of Costa Rica, Tenorio Volcano National Park is home to a magnificent volcano from which it received its name. The park is covered in natural tropical forests and decorated with rivers and waterfalls. One of the many highlights here is a hike to the magnificent Celeste Waterfall, known for its stunning blue waters. Visitors can also enjoy walking over the many suspension bridges in the rainforest, visiting the Blue Lagoon, and climbing through the cloud forest along the Crater Trail to the top of the volcano to view the steaming Lago Dante. Hikers are likely to spot a variety of wildlife, possibly even the shy tapir and puma. The park also provides the opportunity to bathe in wonderful natural hot springs."
+        "description": "Bijagua Tenorio, tropikal bir orman doğal alanında ihtiyaç duyabileceğiniz her şeyi sunmakta ve her ziyaretimizde seveceğimiz yeni bir şey bulmaktayız. Celeste şelalesine yürüyüş yapmak bir vurgu olsa da, yağmur ormanlarındaki asma köprüler ve Heliconias girişinden bulut ormanı boyunca Lago Danta'ya giden patika da o kadar muhteşemdir. Natural Lodge Cano Negro'dan Casitas Tenorio'ya transfer. Çikolata Turu Tatlı deneyiminize hoş geldiniz! Tenorio Volkanı'nın eteklerinde yer alan çiftliğimiz, kakao ve mutfak tutkunları için nihai bir destinasyondur. Sitede bulunan çikolata fabrikamızda özel turlar sunuyoruz. Ağaçlardan bitmiş çikolata barlarına kadar çikolata yapım sürecinin her adımını göreceksiniz (ve tadacaksınız!). Ayrıca, %100 el yapımı Tsuru veya Yok Çikolatası'nın lezzetini de tadabilirsiniz. Kesinlikle eşsiz bir deneyim yaşayacaksınız! Tenorio Volkanı Milli Parkı Costa Rica'nın kuzeyinde yer alan Tenorio Volkanı Milli Parkı, adını aldığı muhteşem bir volkan barındırmaktadır. Park, doğal tropikal ormanlarla kaplı ve nehirler ve şelalelerle süslenmiştir. Buradaki birçok vurgulardan biri, muhteşem mavi sularıyla ünlü Celeste Şelalesi'ne yapılan bir yürüyüştür. Ziyaretçiler, yağmur ormanlarındaki birçok asma köprüde yürüyüş yapma, Mavi Lagün'ü ziyaret etme ve Krater Patikası boyunca bulut ormanına tırmanarak buharlaşan Lago Dante'yi görmek için volkanın zirvesine ulaşma imkanına sahip olabilirler. Yürüyüşçüler, utangaç tapir ve puma dahil olmak üzere çeşitli hayvanları görmek için şanslı olabilirler. Park ayrıca harika doğal sıcak sularda yüzme fırsatı sunmaktadır."
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "Bijagua Free day at leisure."
+        "description": "Bijagua Boş gün."
       },
       {
         "dayNumber": 6,
         "title": "",
-        "description": "Bijagua Located in northern Costa Rica, the Tenorio Volcano National Park is one of the country's youngest parks. Taking its name from the Tenorio Volcano, this national park boasts stunning river views and plenty of opportunities for wildlife adventures. The park was created in 1995 to protect the Tenorio Volcano, which is still active today. The park features four different life zones as well as the beautiful aqua-hued Rio Celeste. Tenorio Volcano National Park Set in the north of Costa Rica, Tenorio Volcano National Park is home to a magnificent volcano from which it received its name. The park is covered in natural tropical forests and decorated with rivers and waterfalls. One of the many highlights here is a hike to the magnificent Celeste Waterfall, known for its stunning blue waters. Visitors can also enjoy walking over the many suspension bridges in the rainforest, visiting the Blue Lagoon, and climbing through the cloud forest along the Crater Trail to the top of the volcano to view the steaming Lago Dante. Hikers are likely to spot a variety of wildlife, possibly even the shy tapir and puma. The park also provides the opportunity to bathe in wonderful natural hot springs."
+        "description": "Bijagua Costa Rica'nın kuzeyinde yer alan Tenorio Volkanı Milli Parkı, ülkenin en genç parklarından biridir. Adını Tenorio Volkanı'ndan alan bu milli park, muhteşem nehir manzaralarına ve bol miktarda yaban hayatı macerası fırsatlarına sahiptir. Park, 1995 yılında Tenorio Volkanı'nı koruma amacıyla oluşturulmuştur ve bu hala günümüzde aktiftir. Park, dört farklı yaşam alanı ile birlikte güzel aqua tonlu Rio Celeste'yi içermektedir. Tenorio Volkanı Milli Parkı, Costa Rica'nın kuzeyinde yer alan muhteşem bir volkan barındırmaktadır. Park, doğal tropikal ormanlarla kaplı ve nehirler ile şelalelerle süslenmiştir. Buradaki birçok vurgulardan biri, muhteşem mavi sularıyla ünlü Celeste Şelalesi'ne yapılan bir yürüyüştür. Ziyaretçiler, yağmur ormanlarındaki birçok asma köprüde yürüyüş yapma, Mavi Lagün'ü ziyaret etme ve Krater Patikası boyunca bulut ormanına tırmanarak buharlaşan Lago Dante'yi görmek için volkanın zirvesine ulaşma imkanına sahip olabilirler. Yürüyüşçüler, utangaç tapir ve puma dahil olmak üzere çeşitli hayvanları görmek için şanslı olabilirler. Park ayrıca harika doğal sıcak sularda yüzme fırsatı sunmaktadır."
       },
       {
         "dayNumber": 7,
         "title": "",
-        "description": "Nosara Looking for a little beach town surrounded by mangroves, forests and sandy long stretches of beach? You found it! Nosara has it all and more, beautiful hotels, a convenient downtown with variety of restaurants and juice bars, artsy shops and …oh! Wonderful waves for surfing, a refreshing ocean to go swimming and amazing sunsets. Located in Guanacaste, in the northern part of the country, it offers a wide variety of activities for your enjoyment, like visiting the surrounding villas and farms, absorb some of the local culture and learn salsa dancing or experience soothing yoga sessions immersed in serene, amazing landscapes. Nosara Resting on the outer western edge of Costa Rica’s Nicoya Peninsula, between the popular beach towns of Playa Samara and Playa Tamarindo, the surfer’s town Nosara is known for its wildlife, watersports opportunities, and long-standing yoga culture. A long stretch of white-sand beaches fringed by palm trees and verdant jungle make Nosara a prime destination for holidaymakers, and it is one of the only coastal towns with minimal development along the beachfront. Rated as one of the top twenty surfing destinations by National Geographic, the town attracts surfers from all over the world to enjoy its clean, plentiful waves. Animal lovers, hikers, and nature photographers should make sure to visit the Nosara Biological Reserve, where they'll be able to spot monkeys, turtles, and numerous other species."
+        "description": "Nosara Mangrovlar, ormanlar ve uzun kumlu plajlarla çevrili küçük bir plaj kasabası mı arıyorsunuz? Buldunuz! Nosara her şeye sahip; güzel oteller, çeşitli restoranlar ve meyve suyu barlarıyla dolu elverişli bir şehir merkezi, sanatsal dükkanlar ve … oh! Sörf için harika dalgalar, yüzmek için ferah bir okyanus ve harika gün batımları. Ülkenin kuzeyinde, Guanacaste'te yer alan Nosara, çevresindeki villaları ve çiftlikleri ziyaret etmek, yerel kültürü deneyimlemek, salsa dansı öğrenmek veya huzurlu, harika manzaralar içinde rahatlatıcı yoga seansları yaşamak gibi zevkiniz için çeşitli aktiviteler sunmaktadır. Nosara, Costa Rica’nın Nicoya Yarımadası’nın batı kenarında, popüler plaj kasabaları Playa Samara ve Playa Tamarindo arasında yer almakta olup, sörfçüler için tanınmış bir kasabadır. Palmiyelerle çevrili uzun beyaz kumlu plajlar, Nosara'yı tatilciler için öncelikli bir destinasyon haline getirirken, plaj boyunca minimum gelişim ile bulunan nadir kıyı kasabalarından biridir. National Geographic tarafından en iyi yirmi sörf destinasyonu arasında listelenen bu kasaba, temiz ve bol dalgaları için dünyanın dört bir yanından sörfçüleri çekmektedir. Hayvan severler, yürüyüşçüler ve doğa fotoğrafçıları, maymunları, kaplumbağaları ve birçok diğer türü görebilecekleri Nosara Biyolojik Rezervi'ni ziyaret etmelidir."
       },
       {
         "dayNumber": 8,
         "title": "",
-        "description": "Nosara Free day at leisure."
+        "description": "Nosara Boş gün."
       },
       {
         "dayNumber": 9,
         "title": "",
-        "description": "Nosara See the sights from the deck of your own private sailing tour or make new friends in a group tour. It’s a unique and personal Costa Rican cruise that regular tourist tour boats can't match. Boat River Tour A boat river tour through Costa Rica is a fantastic way to explore the country's lush natural beauty and diverse wildlife. Costa Rica is home to several rivers that wind their way through dense rainforests, rugged mountains, and rolling hills, providing a unique and unforgettable way to experience the country's stunning landscapes."
+        "description": "Nosara Kendi özel yelkenli turunuzun güvertesinden manzaraları görün veya grup turunda yeni arkadaşlar edinin. Bu, sıradan turist turlarının karşılayamayacağı kapsamlı ve kişisel bir Costa Rica gezisidir. Bot Nehir Turu Costa Rica'da bir bot nehir turu, ülkenin yemyeşil doğasının ve çeşitli yaban hayatının keşfedilmesi için harika bir yoldur. Costa Rica, yoğun yağmur ormanlarından, engebeli dağlardan ve dalgalı tepelerden geçerek kıvrılarak ilerleyen birçok nehri barındırmaktadır ve bu, ülkenin muhteşem manzaralarını deneyimlemenin benzersiz ve unutulmaz bir yolunu sunmaktadır."
       },
       {
         "dayNumber": 10,
         "title": "",
-        "description": "Nosara The Ostional National Wildlife Refuge was officially created in 1984 but was declared a protected area in 1982. The refuge was initially construed as being 200 m wide from Punta India to the mouth of Rio Nosara. This area was increased to include the 200 m strip to Punta Guiones in 1985. Finally, in 1992, with the institution of the new \"Wildlife Law\", came the final definition of the refuge and in 1993 the amplification to the three-mile maritime limit as it is today. After an undetermined waiting time, close to the last quarter of the moon cycle, the \"arribada\" will begin. At first, few hundred turtles will come out on the beach, followed by a steady stream of animals for the next three to seven days. This is the only place in the world where it is legal to harvest turtle eggs. This practice is designed prevent poaching and to help the local community."
+        "description": "Nosara Ostional Ulusal Yaban Hayatı Koruma Alanı, resmi olarak 1984 yılında kurulmuş ancak 1982 yılında koruma alanı olarak ilan edilmiştir. Sığınak, başlangıçta Punta India'dan Rio Nosara ağzına kadar 200 m genişliğinde olarak inşa edilirken, 1985 yılında Punta Guiones'a kadar 200 m'lik alan genişletilmiştir. Son olarak, 1992 yılında yeni “Yaban Hayat Yasası”nın yürürlüğe girmesiyle, sığınak nihai tanımını almış ve 1993 yılında bugünkü haline gelen üç mil deniz sınırına genişletilmiştir. Belirsiz bir bekleme süresinin ardından, ay döngüsünün son çeyreğine yakın “arribada” başlayacaktır. İlk olarak, birkaç yüz kaplumbağa sahile çıkacak, ardından önümüzdeki üç ila yedi gün boyunca sürekli bir akış başlayacaktır. Bu, kaplumbağa yumurtalarını toplamanın yasal olduğu dünyadaki tek yerdir. Bu uygulama, yasadışı avlanmayı önlemek ve yerel topluluğa yardımcı olmak amacıyla tasarlanmıştır."
       },
       {
         "dayNumber": 11,
         "title": "",
-        "description": "San Jose Back to the city! Today you get to fly back to San Jose and relax in your hotel or go outside and check out the city. San Jose San Jose, affectionately known to its residents as 'Chepe', lies in the heart of Costa Rica and is home to almost two-thirds of the country’s population. With few buildings over 100 years old, the mountainous capital is relatively modern compared to its Latin American counterparts, but still has a significant amount of culture, art and history for visitors to discover. With a number of theatres full of Costa Rican culture, museums that include the largest collection of American jade in the world, and streets full of bright murals and painted buses, San Jose is an eclectic city waiting to be experienced."
+        "description": "San Jose Şehre geri dön! Bugün San Jose'ye geri uçacak ve otelinizde dinlenecek veya dışarı çıkarak şehri keşfedeceksiniz. San Jose San Jose, sakinleri tarafından sevgiyle 'Chepe' olarak anılmaktadır; Costa Rica'nın kalbinde yer almakta ve ülke nüfusunun neredeyse üçte ikisine ev sahipliği yapmaktadır. 100 yıldan daha eski birkaç yapıyla, dağlık başkent, Latin Amerika'daki akranlarına kıyasla oldukça modern bir şekilde görünse de, ziyaretçilerin keşfetmesi için hala önemli bir kültür, sanat ve tarih barındırmaktadır. Costa Rica kültürüne sahip birçok tiyatro, dünyanın en büyük Amerikan yeşil jade koleksiyonuna sahip müzeler ve rengarenk duvar resimleri ve boyalı otobüslerle dolu sokaklarıyla San Jose, keşfedilmeyi bekleyen eklektik bir şehirdir."
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San Ramon",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Cano Negro Wildlife Refuge",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Bijagua",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Tenorio Volcano National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Nosara",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "San Jose",
+        "country": "Costa Rica"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San Ramon",
+        "country": "Costa Rica",
+        "lat": 10.089356,
+        "lng": -84.46949
+      },
+      {
+        "name": "Cano Negro Yaban Hayatı Koruma Alanı",
+        "country": "Costa Rica",
+        "lat": 10.892018,
+        "lng": -84.786125
+      },
+      {
+        "name": "Bijagua",
+        "country": "Costa Rica",
+        "lat": 10.729941,
+        "lng": -85.05754
+      },
+      {
+        "name": "Tenorio Volkanı Milli Parkı",
+        "country": "Costa Rica",
+        "lat": 9.208063,
+        "lng": -83.44774
+      },
+      {
+        "name": "Nosara",
+        "country": "Costa Rica",
+        "lat": 9.980796,
+        "lng": -85.65362
+      },
+      {
+        "name": "San Jose",
+        "country": "Costa Rica",
+        "lat": 9.932607,
+        "lng": -84.07486
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Costa Rica",
+    "destination": "Kosta Rika",
     "mainPhoto": "",
     "id": "tailor-made-costa-rica-wildlife-holiday",
-    "tourName": "Tailor made Costa Rica wildlife holiday",
-    "placesVisited": "San José, Brauillo Carillo National Park, Tortuguero Canal, Tortuguero National Park, Caribbean coast, Guapiles, Arenal Volcano, mountain biking or horse riding in Arenal NP, natural thermal baths, Monteverde aerial walkway, Santa Elena Cloud Forest Reserve, Osa Peninsula, Corcovado National Park, guided bird watching, Caño Island Biological Reserve, Optional activities include zip-lining or horse riding in Monteverde and snorkelling or diving within Caño Island Biological Reserve",
-    "generalInfo": "From the Pacific Ocean to the Caribbean Sea, this experience combines Costa Rica's most abundant lowland rainforest habitats, some of its best marine life and a huge variety of ecological zones from coast to coast, with its cloud forest-clad volcanic Central Highlands in between.<br/><br/>Expert local guides will help you to explore 7 of the country's most important protected areas. Three of these are in the highlands of Costa Rica comprising the Monteverde National Park, the inspiring community owned cloud forest reserve of Santa Elena, and cloud forests of the Arenal Volcano National Park. On the Pacific coast we take you to the Corcovado National Park where primary rainforest runs unbroken from hilltops to the sea.  On the Caribbean Coast, the similarly rich Tortuguero National Park forests are bisected throughout by a system of waterways which allows us to explore by small boat, or kayak too if you wish. At Caño Island Biological Reserve we find the country's most abundant marine life, which almost always includes dolphins; and regularly includes whales above the water; turtles, sharks, rays and coral reefs beneath.<br/><br/>The Corcovado National Park in the Osa Peninsula is undoubtedly a wildlife highlight for any visit to Costa Rica. The area has been described by National Geographic magazine as '..the most wildlife intense place on earth', both because of its primaeval forest and abundant offshore life. The western side of the Corcovado provides more than 30 miles of beach where the rainforest meets the Pacific Ocean. This is where terrestrial and marine ecosystems combine with coatis, macaws, and tapir coming out of the forest and onto the beaches; whilst turtles and even bull sharks come in from the sea, swimming into the Corcovado's tidal streams. Flocks of pelicans look like pterodactyls as they glide low over the Pacific waves and float in formation above your head. This coastline feels truly primordial.<br/><br/>17 kilometres from the coast, close to Osa's northern Drake's Bay, is the Caño Island Biological Reserve. Aside from Cocos Island way out in the Pacific, this is where  you will find the country's best marine life, both on the surface and beneath it. Dolphins are a regular sight, but you may also be lucky enough to see Humpback Whales. These can be seen both on northwards and southwards migrations along the coast. Olive Ridley turtles and manta rays are also often seen at the surface and below. The coral reefs and steep drop-offs provide good snorkelling if you wish, with some large schools of fish, ubiquitous white-tipped reef sharks and dense clusters of barracudas. We can pre-arrange diving for certified divers.<br/><br/>The Tortuguero National Park on Costa Rica's north eastern Caribbean coast is another excellent place to see lowland rainforest wildlife and birdlife. There are 309 species of bird here; and between July - October it is one of the best places in the world to see green turtles laying their eggs on its beaches. From late March to early June, Tortuguero can also be a good place from which to see giant leatherback turtles nesting. Many of your explorations here will be by boat, but for those keen to experience the forest in paddled tranquillity, we can incorporate guided day break forest wilderness kayaking.<br/><br/>Of Costa Rica's cloud forests, Monteverde is probably the most famous. Costa Rica's national bird, the Resplendent Quetzal, is an important draw here; as well as its abundant hummingbirds, insects and cloud forest flora. We will take you to explore the forests here, privately guided; as well as providing the option of an exhilarating descent along 15 canopy zip lines. <br/><br/>For some focused guided natural history and scenic treks we take you to the Santa Elena Cloud Forest Reserve and pathways into the cloud forests of the Arenal National Park. Again, this will be privately guided. Alternatives we can incorporate at Arenal are horseback riding, mountain biking and zip lines, for a more energetic experience of the fantastic landscapes here. <br/><br/>A privately-guided boat trip to the Caño Negro Refuge is something else which we include in these trips. Close to the Nicaraguan border, this area provides a wonderful combination of wetland and rainforest habitats - excellent for seeing wading birds such as roseate spoonbills, glossy ibis and black-necked stilts; as well as millions of migratory birds which escape the northern hemisphere Winter. Spectacled caiman are a constant threat to these birds, with good opportunities to see these; as well as the potential for larger crocodiles, spider monkeys, capuchins and howler monkeys.<br/><br/>Like any of our Costa Rica experiences, this one can be tailored to meet your timings, preferences and special interests. We can easily add in, or swap locations to incorporate more relaxation, adventure, a higher standard of ecolodge where available, or allow for a more intensive look at certain birdlife, wildlife or marine life. Other locations you may be interested to consider add include the  Manuel Antonio National Park on the Central Pacific coast.",
+    "tourName": "Özel Tasarım Costa Rica Yaban Hayatı Tatili",
+    "placesVisited": "San José, Brauillo Carillo Milli Parkı, Tortuguero Kanalı, Tortuguero Milli Parkı, Karayip kıyısı, Guapiles, Arenal Volkanı, Arenal NP'de dağ bisikleti veya ata binme, doğal termal havuzlar, Monteverde havadan yürüyüş yolu, Santa Elena Bulut Ormanı Koruma Alanı, Osa Yarımadası, Corcovado Milli Parkı, rehberli kuş gözlemi, Caño Adası Biyolojik Rezervi, İsteğe bağlı aktiviteler arasında Monteverde'de zip-line veya ata binme ve Caño Adası Biyolojik Rezervi'nde şnorkelle dalış veya dalış bulunmaktadır.",
+    "generalInfo": "Pasifik Okyanusu'ndan Karayip Denizi'ne uzanan bu deneyim, Costa Rica'nın en bol alçak orman habitatlarını, en iyi deniz yaşamlarından bazılarını ve kıyıdan kıyıya büyük bir ekolojik bölge çeşitliliğini, bulut ormanlarıyla kaplı volkanik Orta Yükseklikleri arasında bir araya getiriyor.<br/><br/>Uzman yerel rehberler, ülkenin en önemli 7 koruma alanını keşfetmenizde size yardımcı olacaktır. Bu alanlardan üçü, Costa Rica'nın yüksek bölgelerinde yer alan Monteverde Milli Parkı, ilham verici topluluk mülkiyetindeki Santa Elena bulut ormanı koruma alanı ve Arenal Volkanı Milli Parkı'ndaki bulut ormanlarını içermektedir. Pasifik kıyısında, engebeli bölgelerden denize kesintisiz uzanan birinci derecede yağmur ormanı ile sizi Corcovado Milli Parkı'na götürmekteyiz. Karayip Kıyısı'nda, benzer zenginlikteki Tortuguero Milli Parkı ormanları, küçük botla ya da dilerseniz kayakla keşfetmemizi sağlayan su yolları ile kesilmektedir. Caño Adası Biyolojik Rezervi'nde, ülkenin en bol deniz yaşamını buluyoruz; bu genellikle yunusları içeriyor; ve sıklıkla su yüzeyinde balinaları görebiliyoruz; suyun altında ise kaplumbağalar, köpekbalıkları, vatozlar ve mercan resifleri bulunmaktadır.<br/><br/>Osa Yarımadasındaki Corcovado Milli Parkı, Costa Rica'ya yapılan herhangi bir ziyaret için kuşkusuz bir yaban hayatı zirvesidir. Bölge, uluslararası üne sahip National Geographic dergisi tarafından 'dünyada en yoğun yaban hayatı olan yer' olarak tanımlanmıştır; bu hem birinci sınıf ormanı hem de bol miktardaki açık deniz yaşamından dolayıdır. Corcovado'nun batı tarafı, yağmur ormanlarının Pasifik Okyanusu ile buluştuğu 30 milden fazla kumsallara ev sahipliği yapmaktadır. Bu noktada, kara ve deniz ekosistemleri, ormandan kumsallara çıkan koati, ara parka ve tapirler ile birleşmektedir; denizden gelen kaplumbağalar ve hatta boğa köpekbalıkları, Corcovado'nun gelgit akıntılarına batarak çıkıyor. Pelikan sürüleri, Pasifik dalgalarının üzerinde alçak uçuş yaparken pterodaktil gibi görünmekte ve başınızın üzerinde formasyon halinde süzülmektedir. Bu kıyı gerçekten ilkel bir atmosfer sunuyor.<br/><br/>Kıyıdan 17 kilometre uzakta, Osa'nın kuzeyindeki Drake Koyu'na yakın bir yerde Caño Adası Biyolojik Rezervi bulunmaktadır. Pasifik'teki Cocos Adası dışında, burası yüzeyde ve altında ülkenin en iyi deniz yaşamını bulacağınız yerdir. Yunuslar, sık sık gözlemlenen bir manzara; ama belki de şansınız yaver giderse, Kuzey-Güney göçleri sırasında görülebilen Sarkık Balinaları da görebilirsiniz. Zeytin Ridley kaplumbağaları ve manta vatozları da genellikle yüzeyde ve altında sıkça görülmektedir. Mercan resifleri ve dik düşüşler, istiyorsanız şnorkelle dalış için mükemmel bir ortam sağlamaktadır; büyük balık sürüleri, her zaman var olan beyaz uçlu resif köpekbalıkları ve yoğun baraküda kümeleri mevcut. Sertifikalı dalgıçlar için dalış önceden ayarlanabilir.<br/><br/>Costa Rica'nın kuzeydoğusundaki Karayip kıyısındaki Tortuguero Milli Parkı, alçak orman yaban hayatını ve kuşları görmek için başka bir mükemmel yerdir. Burada 309 kuş türü bulunmaktadır; ve Temmuz - Ekim arasında, tüm dünyada yeşil kaplumbağaların yumurtladıkları en iyi yerlerden biridir. Mart sonundan Haziran başına kadar, Tortuguero ayrıca dev derin sırt kaplumbağalarının yumurtladığı iyi bir yer olabilir. Burada birçok keşif ve gözlem gemi ile yapılacak; ama ormanda huzur içinde deneyimlemek isteyenler için, rehberli gündoğumu orman kayakları ekleyebiliriz.<br/><br/>Costa Rica'nın bulut ormanlarından Monteverde muhtemelen en ünlüsüdür. Costa Rica'nın ulusal kuşu olan Resplendent Quetzal, burada önemli bir çekim noktasıdır; ayrıca bolca bulunan sinek kuşları, böcekler ve bulut ormanı bitki örtüsü de buna dahildir. Buradaki ormanları keşfetmek üzere, özel rehberinizle sizi alacağız; ayrıca 15 kanopi zipline ile heyecan verici bir iniş yapma seçeneği de sunacağız.<br/><br/>Daha kapsamlı rehberli doğal tarih ve manzara yürüyüşleri için, Santa Elena Bulut Ormanı Koruma Alanı ve Arenal Milli Parkı'nın bulut ormanlarındaki patikalara gideceğiz. Yine, bu özel rehberli olacaktır. Arenal'da daha enerjik bir deneyim için, ata binme, dağ bisikleti sürme ve zipline gibi alternatifleri de ekleyebiliriz. <br/><br/>Caño Negro Koruma Alanı'na özel rehberli bir bot gezisi de bu geziler arasında yer alıyor. Nikaragua sınırına yakın, bu alan harika bir sulak alan ve yağmur ormanı habitatı kombinasyonu sunuyor - gül renkli kaşıkçılar, parlak ibises ve siyah boyunlu uzun bacaklılar gibi su kuşlarını görmek için mükemmel; ayrıca kuzey yarımküre kışına kaçan milyonlarca göçmen kuş. Gözlüklü caiman bu kuşlar için sürekli bir tehdit olup, bunları görme şansı sağlar; daha büyük timsahlar, örümcek maymunlar, kapuçinler ve boğuk maymunlar için de potansiyel vardır.<br/><br/>Costa Rica deneyimlerinin hepsinde olduğu gibi, bu deneyimi de zamanlamalarınıza, tercihlerinizin ve özel ilgi alanlarınıza göre uyarlayabiliriz. Daha fazla dinlenme, macera, mevcut olan daha yüksek standartlı bir ekolojik lodge ya da belirli bir kuş yaşamı, yaban hayatı veya deniz yaşamına daha yoğun bir bakış için yurtta daha kolay yer değiştirerek ayarlamalar yapabiliriz. Değerlendirmek isteyebileceğiniz diğer yerler arasında Manuel Antonio Milli Parkı da bulunuyor.",
     "durationDays": "15",
     "price": "4125",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -353,80 +852,223 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Arrive San José where you will be met and transferred to your hotel close to San José's Central Plaza. (If you wish, we can upgrade you to a hacienda in the highlands). Your driver guide will be more than happy to introduce you to San Jose and Costa Rica more widely; and chat through any questions you might have."
+        "description": "San José'ye ulaştığınızda, San José'nin Merkez Plazası'na yakın otelinize transfer edileceksiniz. (İsterseniz, sizi yükseklerde bir hacienda'ya yükseltebiliriz). Sürücü rehberiniz, San José'yi ve daha geniş anlamda Costa Rica'yı tanıtmak için fazlasıyla istekli olacaktır; ve sahip olabileceğiniz tüm sorularla ilgili sohbet edecektir."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "You will be collected early from your hotel and transferred from San José overland through the Brauillo Carillo National Park to the Tortuguero Canal. Here you will meet a motor canoe from where you will be taken north to your jungle lodge in the Tortuguero National. You will have lunch soon after your arrival and begin your exploration of the forest and waterways of Tortuguero National Park. (B,L,D)"
+        "description": "Otelinizden sabah erken alınacak ve San José'den karadan Brauillo Carillo Milli Parkı üzerinden Tortuguero Kanalı'na transfer edileceksiniz. Burada, sizi Tortuguero Milli Parkı'ndaki orman lodge'unuz olan kuzeye götürecek bir motor kanosu ile buluşacaksınız. Varışınızdan kısa bir süre sonra öğle yemeğinizi yedikten sonra Tortuguero Milli Parkı'nın ormanlarını ve su yollarını keşfetmeye başlayacaksınız. (K,Ö,Ý)"
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "You will spend today exploring the Tortuguero National Park. (B,L,D)"
+        "description": "Bugün Tortuguero Milli Parkı'nı keşfetmek için geçireceksiniz. (K,Ö,Ý)"
       },
       {
         "dayNumber": 4,
         "title": "",
-        "description": "After breakfast on the Caribbean coast of the Tortuguero National Park, you will be transported by motor canoe and overland to Guapiles; and from here privately overland to your mountain lodge overlooking Arenal Volcano. (B)"
+        "description": "Tortuguero Milli Parkı'nın Karayip kıyısındaki kahvaltıdan sonra sizi motor kanosu ile Guapiles'e ve buradan karadan özel olarak Arenal Volkanı'nın manzarasına bakan dağ lodge'unuza transfer edeceğiz. (K)"
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "First thing this morning, you will be collected from your hotel for your privately guided trek to Arenal Volcano. The trip begins at El Silencio Private Reserve and from there, you will begin a 1km walk along a trail of volcanic rock, rated as moderate in difficulty, to reach the observation point. This is the closest to the base of this active volcano we are permitted to take you. At the observation point, your guide will provide information regarding the formation of the Arenal Volcano, its activity periods, and unedited details of its major eruption in 1968; as well as giving you the opportunity to enjoy incredible views of the Arenal Volcano and the Arenal Lake. Afterwards, you will begin the return trip down the same trail to the starting point. For the next stage of the expedition, scenery will change and enter into regenerating forest and small area of primary rainforest found at the base of the Arenal Volcano. This trail is about 1.5km in length and with a little luck, you will have the opportunity to see a large variety of flora and fauna, including toucans, orioles, snakes and monkeys. (B)"
+        "description": "Bu sabah başında, Arenal Volkanı'na özel rehberli yürüyüşünüz için otelinizden alınacaksınız. Gezi, El Silencio Özel Rezervi'nde başlayacak ve buradan başlayarak, zorluk seviyesi orta derece olan volkanik kaya patikasında 1 km yürüyeceksiniz; gözlem noktası olarak adlandırılan yere ulaşmak için. Bu, aktif volkanın tabanına götüren en yakın noktadır. Gözlem noktasında, rehberiniz Arenal Volkanı'nın oluşumu, etkinlik dönemleri ve 1968'deki büyük patlamasıyla ilgili verileri içeren bilgiler verecek; aynı zamanda Arenal Volkanı ve Arenal Gölü'nün inanılmaz manzaralarını da yaşama fırsatı sunacak. Ardından, başlangıç noktasına geri döneceksiniz. Keşif gezisinin bir sonraki aşamasında, manzara değişerek Arenal Volkanı'nın tabanındaki yenilenen orman ve küçük birinci derecede yağmur ormanı alanına gireceğiz. Bu patika yaklaşık 1.5 km uzunluğundadır ve biraz şansınız varsa, tukangolar, oryolar, yılanlar ve maymunlar da dahil olmak üzere çeşitli flora ve fauna görme fırsatınız olacaktır. (K)"
       },
       {
         "dayNumber": 6,
         "title": "",
-        "description": "07:00 You will be collected from your hotel for your privately guided boat trip to explore the wildlife of the Caño Negro Reserve. The Caño Negro Wildlife Refuge is near the border between Costa Rica and Nicaragua and is one of the most important wetlands in the country. It was declared an area of global importance, receiving the RAMSAR category due to the number of migratory birds that are frequently here; and for the protection of endangered species. The Río Frío, on the bounds of the refuge, is its largest source of water, bringing this magical area to life. Here you have good chances of observing several species of animals. On the road to the town called Los Chiles, you can see the traditional crops of the area such as pineapple and sugarcane, as well as livestock farms. Once there, you will board your comfortable boat to navigate the river. The boat is covered in case of rain with good visibility from the deck. Together with your naturalist guide, you will travel along the river for approx. 2 hours in search of monkeys, sloths, alligators, turtles and hundreds of species of flora and fauna that inhabit the refuge. You will have part of the afternoon to enjoy Arenal area cloud forests again. (B)"
+        "description": "07:00 Otelinizden Caño Negro Rezervi'nde yaban hayatını keşfetmek üzere özel rehberli bot gezinizi başlatmak üzere alınacaksınız. Caño Negro Yaban Hayatı Koruma Alanı, Costa Rica ile Nikaragua sınırına yakın ve ülkedeki en önemli sulak alanlardan biridir. Burası, sık sık bulunan göçmen kuşları ve nesli tehlikede olan türlerin korunması nedeniyle dünya çapında öneme sahip bir alan olarak ilan edilmiştir. Kaçınılmaz olarak Río Frío, korumanın en büyük su kaynağıdır ve bu büyülü alanı canlı tutmaktadır. Burada bir dizi hayvan türünü gözlemleme şansınız bulunmaktadır. Los Chiles adlı kasabaya giden yolda, ananas ve şeker kamışı gibi geleneksel bitkileri, ayrıca büyükbaş hayvancılık çiftliklerini görebilirsiniz. Oraya vardığınızda, sizin için rahat bir botta nehirde yola çıkacaksınız. Bot yağmur durumunda kapaklı olup, güvertedeki görünüm oldukça iyidir. Doğal rehberinizle birlikte yaklaşık 2 saat boyunca nehirde gezerek maymunlar, slothlar, aligatörler, kaplumbağalar ve koruma altında bulunan alanı iskan eden yüzlerce bitki ve hayvan türünü arayacaksınız. Öğle sonrası ise Arenal bölgesindeki bulut ormanlarını tekrar keşfetmek için vaktiniz olacaktır. (K)"
       },
       {
         "dayNumber": 7,
         "title": "",
-        "description": "Transfer from Arenal to Monteverde, including a boat across Lake Arenal. From the boat, you will be taken to your hotel in Monteverde. You will have time for some self-guided walks in the cloud forest. (B)"
+        "description": "Arenal'dan Monteverde'ye transfer, Arenal Gölü üzerinden bir bot geçişi dahil. Bot ile, Monteverde'deki otelinize aktarılarak transfer edileceksiniz. Bulut ormanında bazı kendi başınıza yürüyüşlere zaman ayırabilirsiniz. (K)"
       },
       {
         "dayNumber": 8,
         "title": "",
-        "description": "This morning, you will be taken into the Monteverde for privately guided exploration of the cloud forest. In the afternoon, you will experience this stunning cloud forest area by means of an exciting series of zip lines …. or if you prefer, a shared guided walk. (B)"
+        "description": "Bu sabah, Monteverde'ye özel rehberli bulut ormanı keşfi için sizi alacağız. Öğleden sonra, bu muhteşem bulut ormanı bölgesinin heyecan verici zip line serisi ile deneyimleyeceksiniz.... veya isterseniz, bir ortak rehberli yürüyüş ile. (K)"
       },
       {
         "dayNumber": 9,
         "title": "",
-        "description": "In the morning you will be taken on a privately guided exploration of the Santa Elena Cloud Forest Reserve. Santa Elena has a similar cloud forest environment to Monteverde, but with considerably fewer visitors. (B)"
+        "description": "Sabah, Santa Elena Bulut Ormanı Koruma Alanı'nda özel bir keşfe götürüleceksiniz. Santa Elena, Monteverde ile benzer bir bulut ormanı ortamına sahip, ancak önemli ölçüde daha az ziyaretçi alır. (K)"
       },
       {
         "dayNumber": 10,
         "title": "",
-        "description": "You will join a transfer back to San José and the Gran hotel there. (B)"
+        "description": "San José'ye dönüş yapacak ve orada Gran otele transfer edileceksiniz. (K)"
       },
       {
         "dayNumber": 11,
         "title": "",
-        "description": "You will be collected from your hotel and taken by private transfer to San José airport. Fly San José to the Osa Peninsula. Upon arrival at Drake Bay you will be transferred by land and boat to your lodge nestled in a forested coastal inlet, north from the Corcovado National Park. If there is time, you can easily take a self-guided walk across a hanging bridge and trail which leads to a beach. It is not uncommon to see troops of capuchin monkeys at close range along this trail; and sometimes black howler monkeys and spider monkeys higher in the trees too. Scarlet macaws are a common site on exposed coastal trees. You can make use of sit on top kayaks to explore the small forest bay; and depending upon the tide, paddle beneath the hanging bridge into the steep-sided river valley upstream. Watch out for herons in the bay and a sloth or two upstream. (B, D)"
+        "description": "Otelinizden alınacak ve özel transfer ile San José havaalanına götürüleceksiniz. San José'den Osa Yarımadası'na uçacaksınız. Drake Bay'e varışta, sizi karadan ve botla, Corcovado Milli Parkı'nın kuzeyinde, ormanla çevrili bir koyda bulunan lodge'unuza transfer edeceğiz. Eğer zaman varsa, kendiniz bir askı köprüsü ve plaja doğru giden bir patikada yürüyüşe çıkabilirsiniz. Bu patika boyunca koçin maymun gruplarını yakın mesafeden görmek alışılmadık bir durum değildir; bazen de siyah boğuk maymunlar ve örümcek maymunlarını ağaçların üst kısımlarında görebilirsiniz. Kırmızı kakalak, açık kıyı ağaçlarında yaygın olarak görülmektedir. Küçük orman koyunu keşfetmek için, üstüne oturulan kayıkları kullanabilir ve gelgit durumuna göre, askı köprüsünün altına kadar giderek dik yamaçlı nehir vadisine kadar kürek çekebilirsiniz. Koyda balıkçıl kuşlarına ve yukarıdaki bir veya iki sloth'a dikkat edin. (K,Ý)"
       },
       {
         "dayNumber": 12,
         "title": "",
-        "description": "Early AM: Guided birdwatching. After breakfast, a boat visit to the Caño Island Biological Reserve, some 17 kilometres offshore. Here you can find some of the country's best marine life, both at the surface and below it. Dolphins are a regular sight, but you may also be lucky enough to see Humpback Whales which can be seen both on the northwards and southwards migrations along the coast. Olive Ridley turtles and manta rays are also often seen at the surface and below. The coral reefs and steep drop-offs provide excellent snorkeling if you wish with some huge shoals of fish and pelagic visitors such as sharks and barracudas. Snorkelling can be pre-arranged if you wish with equipment provided, as can diving for certified divers (at an additional cost). (B,L,D)"
+        "description": "Sabah erken: Rehberli kuş gözlemi. Kahvaltıdan sonra, yaklaşık 17 kilometre açık denizde bulunan Caño Adası Biyolojik Rezervi'ne bir bot ziyareti olacak. Burada yüzeyde ve altında ülkenin en iyi deniz yaşamlarından bazılarının bulunduğunu bulabilirsiniz. Yunuslar düzenli olarak görülmektedir, ancak kuzey-güney göçleri sırasında Humpback Balinaları'nı da görebilirsiniz. Zeytin Ridley kaplumbağaları ve manta vatozları da genellikle yüzeyde ve altında gözlemlenmektedir. Mercan resifleri ve dik düşüşler, isterseniz şnorkelle dalış için mükemmel olanak sunmaktadır; büyük balık sürüleri ve pelajik misafirler olan köpekbalıkları ve baraküdalara ev sahipliği yapmaktadır. Dalış için ekipmanın sağlandığı (ek bir ücretle) şnorkelle dalış önceden ayarlanabilir. (K,Ö,Ý)"
       },
       {
         "dayNumber": 13,
         "title": "",
-        "description": "Full day visit to the magnificent lowland rainforests of the Corcovado National Park. To reach the park, you will head out to sea by speed boat, landing at one of the ranger stations to step ashore and explore. Watch for dolphins as you travel back and forth; and enjoy some fantastic coastal rainforest scenery. (B,L,D)"
+        "description": "Corcovado Milli Parkı'nın muhteşem alçak yağmur ormanlarına tam gün ziyareti. Parka ulaşmak için, hız botu ile denize çıkacak ve kıyıda keşfe çıkmak için bir ranger istasyonuna iniş yapacaksınız. Yola çıkarken yunusları gözetlemeyi unutmayın; ve büyüleyici kıyı yağmur ormanı manzaralarının keyfini çıkarın. (K,Ö,Ý)"
       },
       {
         "dayNumber": 14,
         "title": "",
-        "description": "After breakfast you will be transferred to the airstrip for your flight back to San José. You will met upon arrival and taken to your hotel by private transfer. (B)"
+        "description": "Kahvaltıdan sonra, San José'ye dönüş için hava alanına transfer olacaksınız. Varışta, sizi özel transfer ile otelinize götürecekler. (K)"
       },
       {
         "dayNumber": 15,
         "title": "",
-        "description": "You will be transferred privately to the airport for your flight home. (B)"
+        "description": "Evinize dönüş uçağınız için havaalanına özel olarak transfer edileceksiniz. (K)"
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "San José",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Brauillo Carillo National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Tortuguero Canal",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Tortuguero National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Caribbean coast",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Guapiles",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Arenal Volcano",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Arenal National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Monteverde",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Santa Elena Cloud Forest Reserve",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Osa Peninsula",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Corcovado National Park",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Caño Island Biological Reserve",
+        "country": "Costa Rica"
+      },
+      {
+        "name": "Caño Negro Wildlife Refuge",
+        "country": "Costa Rica"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "San José",
+        "country": "Costa Rica",
+        "lat": 9.932607,
+        "lng": -84.07486
+      },
+      {
+        "name": "Brauillo Carillo Ulusal Parkı",
+        "country": "Kosta Rika",
+        "lat": 10.550809,
+        "lng": -85.69744
+      },
+      {
+        "name": "Tortuguero Kanalı",
+        "country": "Kosta Rika",
+        "lat": 10.426823,
+        "lng": -85.09148
+      },
+      {
+        "name": "Tortuguero Ulusal Parkı",
+        "country": "Kosta Rika",
+        "lat": 10.008598,
+        "lng": -84.02936
+      },
+      {
+        "name": "Guapiles",
+        "country": "Kosta Rika",
+        "lat": 10.21547,
+        "lng": -83.78975
+      },
+      {
+        "name": "Arenal Volkanı",
+        "country": "Kosta Rika",
+        "lat": 10.544717,
+        "lng": -84.89545
+      },
+      {
+        "name": "Arenal Ulusal Parkı",
+        "country": "Kosta Rika",
+        "lat": 10.544717,
+        "lng": -84.89545
+      },
+      {
+        "name": "Monteverde",
+        "country": "Kosta Rika",
+        "lat": 10.317069,
+        "lng": -84.82451
+      },
+      {
+        "name": "Santa Elena Bulut Ormanı Koruma Alanı",
+        "country": "Kosta Rika",
+        "lat": 10.942201,
+        "lng": -85.68075
+      },
+      {
+        "name": "Osa Yarımadası",
+        "country": "Kosta Rika",
+        "lat": 8.962273,
+        "lng": -83.45919
+      },
+      {
+        "name": "Corcovado Ulusal Parkı",
+        "country": "Kosta Rika",
+        "lat": 10.008598,
+        "lng": -84.02936
+      },
+      {
+        "name": "Caño Negro Vahşi Hayat Sığınakları",
+        "country": "Kosta Rika",
+        "lat": 10.892018,
+        "lng": -84.786125
+      }
+    ],
+    "__trTranslated": true
   }
 ]

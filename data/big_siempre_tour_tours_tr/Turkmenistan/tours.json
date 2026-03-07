@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Turkmenistan",
+    "destination": "Türkmenistan",
     "mainPhoto": "",
     "id": "silk-road-tour-cities-of-the-silk-road",
     "tourName": "İpek Yolu turu, İpek Yolu'nun şehirleri",
@@ -198,7 +198,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Turkmenistan",
+    "destination": "Türkmenistan",
     "mainPhoto": "",
     "id": "turkmenistan-cultural-tour-mysteries-of-the-desert",
     "tourName": "Türkmenistan kültürel turu, çölün sırları",
@@ -366,37 +366,43 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Aşkabat",
-        "country": "Türkmenistan",
+        "name": "Ashgabat",
+        "country": "Turkmenistan",
         "lat": 37.940465,
         "lng": 58.382349
       },
       {
         "name": "Balkanabat",
-        "country": "Türkmenistan",
+        "country": "Turkmenistan",
         "lat": 39.511765,
         "lng": 54.35379
       },
       {
-        "name": "Türkmenbaşı",
-        "country": "Türkmenistan",
+        "name": "Caspian Sea",
+        "country": "null",
+        "lat": 38.982655,
+        "lng": -76.85141
+      },
+      {
+        "name": "Turkmenbashi",
+        "country": "Turkmenistan",
         "lat": 40.006207,
         "lng": 52.99377
       },
       {
-        "name": "Daşoğuz",
-        "country": "Türkmenistan",
+        "name": "Dashoguz",
+        "country": "Turkmenistan",
         "lat": 41.837807,
         "lng": 59.95314
       },
       {
-        "name": "Karakum Çölü",
-        "country": "Türkmenistan",
+        "name": "Karakum Desert",
+        "country": "Turkmenistan",
         "lat": 37.799706,
         "lng": 62.039078
       }
@@ -404,7 +410,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Turkmenistan",
+    "destination": "Türkmenistan",
     "mainPhoto": "",
     "id": "turkmenistan-small-group-holiday",
     "tourName": "Türkmenistan küçük grup tatili",
@@ -580,7 +586,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Turkmenistan",
+    "destination": "Türkmenistan",
     "mainPhoto": "",
     "id": "uzbekistan-turkmenistan-holiday-silk-road-explorer",
     "tourName": "Özbekistan & Türkmenistan tatili, İpek Yolu kaşifleri",

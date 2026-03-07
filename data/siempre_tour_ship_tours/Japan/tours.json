@@ -1,11 +1,11 @@
 [
   {
-    "destination": "Japan",
+    "destination": "Japonya",
     "mainPhoto": "",
     "id": "the-best-of-japan-luxury-cruise",
-    "tourName": "The best of Japan luxury cruise",
+    "tourName": "Japonya'nın En İyisi Lüks Cruise",
     "placesVisited": "Osaka, Tamano, Hiroshima, Uwajima, Kagoshima, Nagasaki, Busan, Sakaiminato, Maizuru",
-    "generalInfo": "Take the long way round. The interesting cities of Osaka and Maizuru are on close but opposite coasts of Japan’s Honshu Island, but this cruise between the two takes its time. Over nine days you’ll get to visit cities on Shikoku and Kyushu, some of Japan’s other islands, and you’ll even make a stop in South Korea. <br/><br/>Start by exploring Osaka – known as ‘Japan’s kitchen’ for its great delicacies. Once you’ve had your fill of the city, it’s time to set off on the boat, cruising to Tamano in the densely forested Okayama district. The cities en-route are very varied. Kagoshima sits in front of an active volcano, whilst Uwajima keeps traditional customs alive around its 17th century castle. <br/><br/>Hiroshima is a must-see, the city’s Peace Memorial Park a place of peace and hope, and its Miyajima Sanctuary is best known for its photogenic ‘floating’ Torii (gates). The cruise next makes a stop in Busan, South Korea’s second largest city, then head back to Honshu, disembarking in Maizuru. <br/><br/>Whilst on board you can enjoy lectures on Japanese culture and art – which are put into context by the art you’ll see on land in the Taga temple at Uwajima, the ancient sites at Nagasaki, Busan’s art galleries and Sakaiminato, a town that celebrates being the birthplace of one of Japan’s greatest manga artists, Shigeru Mizuki. <br/>",
+    "generalInfo": "Uzun bir yolculuğa çıkın. Osaka ve Maizuru, Japonya'nın Honshu Adası'nın yakın ama zıt kıyılarında yer alan ilginç şehirlerdir, ancak bu cruise ikisi arasında zaman alır. Dokuz gün boyunca, Şikoku ve Kyushu'daki bazı şehirleri ve hatta Güney Kore'de bir durak yapma fırsatı bulacaksınız. <br/><br/>Osaka'da keşfe başlayın – harika lezzetleri nedeniyle ‘Japonya'nın mutfağı’ olarak bilinir. Şehirden doyana kadar zevk aldıktan sonra, yoğun ormanlarla kaplı Okayama bölgesinden Tamano'ya doğru tekneyle yola çıkma zamanı. Yol üzerindeki şehirler oldukça çeşitlidir. Kagoshima, aktif bir volkanın önünde yer alırken, Uwajima 17. yüzyıldan kalma kalesinin etrafında geleneksel alışkanlıkları yaşatmakta. <br/><br/>Hiroshima kesinlikle görülmesi gereken bir yerdir, şehrin Barış Anıt Parkı huzur ve umut dolu bir yerdir ve Miyajima Tapınağı, fotojenik ‘yüzen’ Torii kapılarıyla ünlüdür. Cruise, Güney Kore'nin ikinci büyük şehri Busan'da bir durak yapar, ardından Honshu'ya geri dönerek Maizuru'da karaya iner. <br/><br/>Gemideyken Japon kültürü ve sanatı üzerine dersler almanın keyfini çıkarabilirsiniz – bunlar, Uwajima'daki Taga Tapınağı'ndaki sanat, Nagasaki'deki antik alanlar, Busan'daki sanat galerileri ve en büyük manga sanatçılarından biri olan Shigeru Mizuki'nin doğum yeri olarak kutlanan Sakaiminato'da göreceğiniz sanatla bağlam kazanır. <br/>",
     "durationDays": "9",
     "price": "10000",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -24,45 +24,150 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Osaka Like its big sister Tokyo, Osaka is the product of ancestral traditions and amazing technological innovations. And despite its size, its location on the Pacific Ocean give it a sense of serenity. The main historic landmark is the 16th century Osaka Castle, which stands proud in the midst of majestic skyscrapers. The lively streets of Dotomburi and the bizarre Shinsekai district attract thousands of locals and visitors. A multitude of restaurants offer menus full of regional specialities: takoyaki, made with octopus, and other succulent dishes such as kushikatsu kebabs."
+        "description": "Osaka Tokyo'nun büyük kız kardeşi gibi, Osaka da atalarımızın geleneklerinden ve etkileyici teknolojik yeniliklerinden oluşan bir üründür. Boyutuna rağmen, Pasifik Okyanusu'ndaki konumu ona bir huzur hissi kazandırır. Ana tarihi simge 16. yüzyıldan kalma Osaka Kalesi, görkemli gökdelenlerin ortasında gururla yükseliyor. Dotomburi'nin canlı sokakları ve ilginç Shinsekai bölgesi, binlerce yerli ve ziyaretçiyi kendine çekiyor. Çok sayıda restoran, takoyaki gibi bölgesel lezzetlerle dolu menüler sunuyor ve diğer lezzetli yemekler arasında kushikatsu şiş kebapları da var."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Inujima (Okayama) A small verdant island in the Seto Inland Sea, Inujima charms lovers of rugged landscapes and art. A flourishing centre of the mining industry more than a century ago, particularly for copper extraction, the island is now a favourite destination of modern art enthusiasts, due to the activities developed since the 1980s. It is notably home to the Seirensho Art Museum, designed around the remaining blackened walls of a former copper refinery. Inujima offers an ideal mix of wild landscapes, industrial past, and contemporary art. The island will be the perfect port of call for relaxing, enjoying this exceptional panorama, and admiring singular and ambitious works of art."
+        "description": "Inujima (Okayama) Seto İç Denizi'ndeki küçük, yeşil bir ada olan Inujima, engebeli manzaralar ve sanat tutkunlarını büyülemektedir. Bir asırdan uzun bir süre önce, bakır çıkarımı için özellikle gelişen bir madencilik merkezi olan ada, 1980'lerden beri geliştirilmiş etkinlikler sayesinde modern sanat meraklılarının gözdesi haline gelmiştir. Özellikle, eski bir bakır rafinerisinin kalan siyah duvarları etrafında tasarlanmış Seirensho Sanat Müzesi'ne ev sahipliği yapmaktadır. Inujima, vahşi manzaralar, sanayi geçmişi ve çağdaş sanat arasında mükemmel bir karışım sunmaktadır. Ada, dinlendirici anlar geçirmek, bu olağanüstü manzarayı keyifle izlemek ve özgün ve iddialı sanat eserlerini hayranlıkla incelemek için mükemmel bir durak olacaktır."
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "Tomonura Anchored to the south-eastern end of the Nunakama Peninsula, facing the calm and clear waters of the Seto Inland Sea, Tomonoura is a destination particularly appreciated for its authentic and old-fashioned atmosphere that gives it an incomparable charm. In the past used as a port where boats would moor while waiting for a favourable wind, the charming and picturesque village now serves to inspire many filmmakers and artists. With good reason, since its craggy landscapes, its cherry trees in blossom, its gentle way of life, its traditional wooden houses and its port, preserved since the Edo era, notably enabled the artist Hayao Miyazaki to make the animated film Ponyo. Anchored on the northern shores of the Seto Inland Sea, in the Hiroshima prefecture, the historical city of Onomichi extends from the main island of Honshu to certain neighbouring islands, linked by the bridges of the Shimanami Kaido motorway. Before becoming this peaceful town with its charming, sloping little streets, Onomichi established itself in the 7th century as a nerve centre of the rice trade for the entire Japanese archipelago. Although its activity is diminished today, the port remains at the centre of the town’s culture. Onomichi now stands out for its exceptional heritage. With good reason, since it can boast over twenty temples and shrines, saved from the bombing of the Second World War. Among them are Senko-ji, offering an outstanding panoramic view over the whole town, Saikoku-ji and its three-storied pagoda, and Jodo-ji and its emblematic eleven-faced statue of the goddess Guanyin."
+        "description": "Tomonura Nunakama Yarımadası'nın güneydoğusundaki sakin ve temiz Seto İç Denizi’ne bakan Tomonoura, eşsiz bir cazibe sunan otantik ve eski tarz atmosferi ile özellikle beğenilen bir destinasyondur. Geçmişte, rüzgarın uygun olduğu zamanı bekleyen botların demirlediği bir liman olarak kullanılan bu büyüleyici ve pitoresk köy, şimdi birçok film yapımcısı ve sanatçıya ilham vermektedir. Bu nedenle, engebeli manzaraları, açan kiraz ağaçları, huzurlu yaşam tarzı, geleneksel ahşap evleri ve Edo döneminden kalma limanı sayesinde, sanatçı Hayao Miyazaki'nin Ponyo adlı animasyon filmini çekmesine yardımcı olmuştur. Seto İç Denizi'nin kuzey kıyılarında, Hiroshima ilinde yer alan tarihi Onomichi, Honshu ana adasından belirli komşu adalara doğru uzanmakta ve Shimanami Kaido otoyolunun köprüleriyle bağlanmaktadır. Bu huzurlu kasabaya dönüşmeden önce, Onomichi 7. yüzyılda Japonya'nın tüm adaları için pirinç ticaretinin merkezi olarak kurulmuştur. Günümüzde faaliyeti azalmış olsa da, liman, kasabanın kültüründe merkezi bir konumda kalmaya devam etmektedir. Onomichi şimdi olağanüstü mirasıyla dikkat çekmektedir. Çok sayıda tapınak ve kutsal alana ev sahipliği yaptığı için bu durumu hak ediyor, II. Dünya Savaşı bombalarından kurtulan senfonik zenginliği ile övünebilir. Bunlar arasında, şehrin genel manzarasına harika bir panoramik görünüm sunan Senko-ji, üç katlı pagodasıyla Saikoku-ji ve sembolik on bir yüzlü Guanyin heykeli ile Jodo-ji bulunmaktadır."
       },
       {
         "dayNumber": 4,
         "title": "",
-        "description": "Mitarai & Shimokamagri A charming fishing village nestling in the east of Osaki Shimojima Island, on the edge of the Seto Inland Sea, Mitarai is appreciated for its traditional charm and authentic character. A trip back in time to the Edo Period, where the hustle and bustle of modern cities is replaced by the gentle sound of fishing boats. Thanks to its 19th century wooden dwellings lining the small, narrow streets, its great causeway, its centuries-old sanctuaries and its gangi stairs, a stone structure giving on to the sea, the old town was classed as a Preservation District by the Japanese state in 1994. The island of Shimokamagari stretches into the heart of the Seto Inland Sea, off the coast of the town of Kure, in the Hiroshima prefecture. A historical city during the feudal period, the island was the theatre of major diplomatic missions for the future and the Empire’s trade relationships, notably with repeated visits from mainly Korean, but also Chinese and Dutch, emissaries. Registered since 2017 on the UNESCO Memory of the World Programme, documentary heritage of these encounters is conserved in the Shotoen Garden, one of the emblems of this lush islet. A magnificent Japanese garden with perfectly kept grounds, interspersed with raked pebbles and surrounded with majestic trees, it is home to a Rantokaku Museum complex, consisting of four exhibition rooms tracing the island’s naval history."
+        "description": "Mitarai & Shimokamagri Seto İç Denizi'nin kıyısında, Osaki Shimojima Adası'nın doğusunda yer alan sevimli bir balıkçı köyü olan Mitarai, geleneksel cazibesi ve otantik karakteri ile takdir edilmektedir. Edo Dönemi'ne geri dönme fırsatı sunan bu yer, modern şehirlerin gürültüsünün yerini balıkçı teknelerinin yumuşak sesi almıştır. 19. yüzyıldan kalma ahşap evleri, dar sokakları boyunca sıralanmış, geniş yaya yolları, yüzlerce yıllık tapınakları ve denize açılan taş yapısı olan gangi merdivenleri sayesinde, eski şehir 1994 yılında Japon devletinin Koruma Bölgesi olarak sınıflandırılmıştır. Shimokamagari Adası, Hiroshima ilindeki Kure kasabasının açıklarında, Seto İç Denizi'nin kalbine doğru uzanmaktadır. Feodal dönem boyunca tarihi bir şehir olan ada, geleceğin ve İmparatorluk ticaret ilişkilerinin büyük diplomatik görevlerine ev sahipliği yapmış, özellikle Kore, Çin ve Hollanda gibi ülkelerden birçok elçiye ev sahipliği yapmıştır. 2017 yılından beri UNESCO Dünya Belleği Programı'na kayıtlı olan bu buluşmaların belgeleri, bu yemyeşil adanın sembollerinden biri olan Shotoen Bahçesi'nde korunmaktadır. Zahmetsizce bakımlı alanları, birbiri ardına dizilmiş çakıllar ve görkemli ağaçlarla çevrili, muhteşem bir Japon bahçesi olan Rantokaku Müzesi kompleksine ev sahipliği yapmaktadır, bu kompleks adanın denizcilik tarihini izleyen dört sergi odasından oluşmaktadır."
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "Hagi In the south of Honshu island, surrounded by mountains, Hagi is a city of water. For good reason; it was built on the delta of the Abu-gawa river. Its castle was built in the 17th century and its outer walls remain in the lovely Shizuki Park. The old town was one of the cradles of the Meiji revolution. You will discover its rich past in streets lined with old houses and samurai manors, or within the walls of the many museums and Hagi-yaki ceramics workshops."
+        "description": "Hagi Honshu adasının güneyinde, dağlarla çevrili Hagi, bir su şehridir. Bunun iyi bir nedeni var; Abu-gawa nehrinin deltası üzerine kurulmuştur. Kalesi 17. yüzyılda inşa edilmiştir ve dış duvarları güzel Shizuki Parkı'nda korunmaktadır. Eski kent, Meiji devriminin beşlerinden biriydi. Eski evlerle ve samuray malikaneleriyle dolu sokaklarda, veya birçok müze ve Hagi-yaki seramik atölyesinin duvarları içinde zengin tarihini keşfedeceksiniz."
       },
       {
         "dayNumber": 6,
         "title": "",
-        "description": "Tsushima A mountainous island nestling in the heart of the Sea of Japan, between the Japanese archipelago and the shores of South Korea, Tsushima is made up of two distinct islands, separated by the captivating Aso Bay. This deep fjord, separating the northern and southern parts of the island, will enthral you with its remarkable ria coastline and its string of luxuriant islets. Naturally preserved, Tsushima is almost 90% covered with natural vegetation. This green setting in the Iki-Tsushima Quasi-National Park is notably the natural habitat of the Tsushima leopard cat, an endemic species on the Japanese Red List of Endangered Species."
+        "description": "Tsushima Japonya'nın ana adası ile Güney Kore'nin kıyıları arasında yer alan, Japon Denizi'nin merkezinde bulunan dağlık bir ada olan Tsushima, büyüleyici Aso Körfezi tarafından ayıran iki ayrı adadan oluşmaktadır. Bu derin fiyort, adanın kuzey ve güney kısımlarını ayırarak dikkat çekici ria kıyısı ve zengin adalardan oluşan bir dizi sunmaktadır. Doğal olarak korunmuş olan Tsushima, neredeyse %90 doğal bitki örtüsü ile kaplıdır. Iki-Tsushima Yarı-Nasyonal Parkı'ndaki bu yeşil ortam, aynı zamanda Japonya Kırmızı Liste'sinde tehlikedeki türler arasında yer alan Tsushima leopar kedisinin doğal yaşam alanıdır."
       },
       {
         "dayNumber": 7,
         "title": "",
-        "description": "Yeosu Yeosu is a charming coastal city in South Korea’s South Jeolla Province. It is part of an archipelago comprising more than 317 verdant islands. Yeosu is known for being a hidden gem with picturesque scenery, but also for its strong naval history. And with good reason since, in the early 14th century, the city became home to naval headquarters during the Joseon Dynasty. This destination, with a mix of modern architecture and vestiges of a strong past, will enthrall you with its stunning beaches edged by the pure and warm waters of the Sea of Japan."
+        "description": "Yeosu Yeosu, Güney Kore'nin Güney Jeolla Eyaleti'nde yer alan şirin bir kıyı şehridir. 317'den fazla yemyeşil adadan oluşan bir takımadaya aittir. Yeosu, göz alıcı manzaraları ile gizli bir cevher olmasıyla tanınmakta, aynı zamanda güçlü denizcilik geçmişi ile de bilinir. 14. yüzyılın başlarında Joseon Hanedanlığı döneminde deniz üslerinin merkezi haline geldiği için geçerli olduğu gibi. Modern mimari ve güçlü bir geçmişin kalıntılarıyla harmanlanmış bu destinasyon, Japon Denizi'nin saf ve sıcak sularıyla çevrili muhteşem plajları ile sizi büyüleyecek."
       },
       {
         "dayNumber": 8,
         "title": "",
-        "description": "Fukuoka At the northern tip of the subtropical island of Kyushu, Fukuoka stands proudly at the centre of a veritable natural setting, between lush mountains and the crystal-clear and calm waters of Hakata Bay. A modern city and high-tech hub, which has earned it the nickame of the Japanese “Silicon Valley” in particular, the seventh town in Japan stands out for its rich cultural and historical heritage. Promoted as one of the nerve centres of maritime trade from the 15th century onward, it experienced long decades of prosperity. A period of splendour which, among other things, saw the construction of many spiritual buildings, including the Sumiyoshi-jinja shrine and the Tochoji temple, as well as its emblematic Maizuru Castle, erected in the 17th century."
+        "description": "Fukuoka Subtropikal Kyushu adasının kuzey ucunda yer alan Fukuoka, yemyeşil dağlar ile Hakata Körfezi'nin kristal berraklığındaki sakin sularının ortasında gururla durmaktadır. Modern bir şehir ve yüksek teknoloji merkezi olan bu yer, özellikle Japonya'nın “Silicon Valley”si olarak adlandırılmasına yol açmıştır, ayrıca Japonya'nın yedinci şehri olarak da öne çıkmaktadır. 15. yüzyıldan itibaren deniz ticaretinin merkezi olarak tanınmış olup uzun yıllar süren bir refah dönemi yaşamıştır. Bu ihtişamlı dönem, birçok manevi yapının inşasını da kapsamakta olup, Sumiyoshi-jinja tapınağı ve Tochoji tapınağı gibi önemli yapıların yanı sıra, 17. yüzyılda inşa edilen emblematik Maizuru Kalesi'ni de içermektedir."
       }
     ],
     "map": "",
-    "category": "Ship/Cruise"
+    "category": "Ship/Cruise",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Osaka",
+        "country": "Japan"
+      },
+      {
+        "name": "Tamano",
+        "country": "Japan"
+      },
+      {
+        "name": "Hiroshima",
+        "country": "Japan"
+      },
+      {
+        "name": "Uwajima",
+        "country": "Japan"
+      },
+      {
+        "name": "Kagoshima",
+        "country": "Japan"
+      },
+      {
+        "name": "Nagasaki",
+        "country": "Japan"
+      },
+      {
+        "name": "Busan",
+        "country": "South Korea"
+      },
+      {
+        "name": "Sakaiminato",
+        "country": "Japan"
+      },
+      {
+        "name": "Maizuru",
+        "country": "Japan"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Osaka",
+        "country": "Japonya",
+        "lat": 34.683594,
+        "lng": 135.50078
+      },
+      {
+        "name": "Tamano",
+        "country": "Japonya",
+        "lat": 34.49502,
+        "lng": 133.95183
+      },
+      {
+        "name": "Hiroshima",
+        "country": "Japonya",
+        "lat": 34.39292,
+        "lng": 132.46326
+      },
+      {
+        "name": "Uwajima",
+        "country": "Japonya",
+        "lat": 33.222225,
+        "lng": 132.56512
+      },
+      {
+        "name": "Kagoshima",
+        "country": "Japonya",
+        "lat": 31.590626,
+        "lng": 130.55516
+      },
+      {
+        "name": "Nagasaki",
+        "country": "Japonya",
+        "lat": 32.744102,
+        "lng": 129.87819
+      },
+      {
+        "name": "Busan",
+        "country": "Güney Kore",
+        "lat": 35.179953,
+        "lng": 129.075236
+      },
+      {
+        "name": "Sakaiminato",
+        "country": "Japonya",
+        "lat": 35.546124,
+        "lng": 133.22896
+      },
+      {
+        "name": "Maizuru",
+        "country": "Japonya",
+        "lat": 35.470486,
+        "lng": 135.34843
+      }
+    ],
+    "__trTranslated": true
   }
 ]

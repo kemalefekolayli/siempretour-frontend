@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "central-asia-silk-road-holiday-kyrgyzstan-uzbekistan",
     "tourName": "Orta Asya İpek Yolu tatili, Kırgızistan & Özbekistan",
@@ -165,67 +165,73 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Bişkek",
-        "country": "Kırgızistan",
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
         "lat": 42.87779,
         "lng": 74.606693
       },
       {
         "name": "Kazarman",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 41.40628,
         "lng": 74.027621
       },
       {
-        "name": "Cilalabad",
-        "country": "Kırgızistan",
+        "name": "Djalal Abad",
+        "country": "Kyrgyzstan",
         "lat": 40.929818,
         "lng": 73.00119
       },
       {
-        "name": "Oş",
-        "country": "Kırgızistan",
+        "name": "Osh",
+        "country": "Kyrgyzstan",
         "lat": 40.53619,
         "lng": 72.803362
       },
       {
+        "name": "Dustlik",
+        "country": "Kyrgyzstan",
+        "lat": 40.52492,
+        "lng": 68.03437
+      },
+      {
         "name": "Margilan",
-        "country": "Özbekistan",
+        "country": "Uzbekistan",
         "lat": 40.4776,
         "lng": 71.72356
       },
       {
-        "name": "Taşkent",
-        "country": "Özbekistan",
+        "name": "Tashkent",
+        "country": "Uzbekistan",
         "lat": 41.312336,
         "lng": 69.278708
       },
       {
-        "name": "Nükus",
-        "country": "Özbekistan",
+        "name": "Nukus",
+        "country": "Uzbekistan",
         "lat": 42.46143,
         "lng": 59.616844
       },
       {
-        "name": "Hiva",
-        "country": "Özbekistan",
+        "name": "Khiva",
+        "country": "Uzbekistan",
         "lat": 41.378586,
         "lng": 60.358856
       },
       {
-        "name": "Buhara",
-        "country": "Özbekistan",
+        "name": "Bukhara",
+        "country": "Uzbekistan",
         "lat": 39.772476,
         "lng": 64.41867
       },
       {
-        "name": "Semerkand",
-        "country": "Özbekistan",
+        "name": "Samarkand",
+        "country": "Uzbekistan",
         "lat": 39.655785,
         "lng": 66.9774
       }
@@ -233,7 +239,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "horse-trekking-in-tian-shan-mountains-kyrgyzstan",
     "tourName": "Tian Shan Dağları'nda At Turu, Kırgızistan",
@@ -419,7 +425,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "kyrgyzstan-9-day-tour-nomadic-life",
     "tourName": "Kırgızistan 9 Günlük Tur, Göçebe Hayatı",
@@ -601,7 +607,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "kyrgyzstan-and-tajikistan-small-group-holiday",
     "tourName": "Kırgızistan ve Tacikistan küçük grup tatili",
@@ -870,7 +876,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "kyrgyzstan-and-uzbekistan-holiday",
     "tourName": "Kırgızistan ve Özbekistan tatili",
@@ -1086,85 +1092,91 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Bişkek",
-        "country": "Kırgızistan",
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
         "lat": 42.87779,
         "lng": 74.606693
       },
       {
-        "name": "İssık Kul Gölü",
-        "country": "Kırgızistan",
+        "name": "Issyk Kul Lake",
+        "country": "Kyrgyzstan",
         "lat": 42.491681,
         "lng": 78.390173
       },
       {
         "name": "Karakol",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 42.479821,
         "lng": 78.381067
       },
       {
         "name": "Kochkor",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 42.211744,
         "lng": 75.751474
       },
       {
-        "name": "Suusamır Vadisi",
-        "country": "Kırgızistan",
+        "name": "Suusamyr Valley",
+        "country": "Kyrgyzstan",
         "lat": 42.181507,
         "lng": 73.958956
       },
       {
-        "name": "Toktogul Barajı",
-        "country": "Kırgızistan",
+        "name": "Toktogul Reservoir",
+        "country": "Kyrgyzstan",
         "lat": 40.825075,
         "lng": 73.400659
       },
       {
-        "name": "Cabal-Abad",
-        "country": "Kırgızistan",
+        "name": "Djalal-Abad",
+        "country": "Kyrgyzstan",
         "lat": 40.929818,
         "lng": 73.00119
       },
       {
         "name": "Arslanbob",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 41.337624,
         "lng": 72.927713
       },
       {
         "name": "Osh",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 40.53619,
         "lng": 72.803362
       },
       {
-        "name": "Taşkent",
-        "country": "Özbekistan",
+        "name": "Fergana Valley",
+        "country": "null",
+        "lat": 40.386223,
+        "lng": 71.786835
+      },
+      {
+        "name": "Tashkent",
+        "country": "Uzbekistan",
         "lat": 41.312336,
         "lng": 69.278708
       },
       {
         "name": "Khiva",
-        "country": "Özbekistan",
+        "country": "Uzbekistan",
         "lat": 41.378586,
         "lng": 60.358856
       },
       {
         "name": "Bukhara",
-        "country": "Özbekistan",
+        "country": "Uzbekistan",
         "lat": 39.772476,
         "lng": 64.41867
       },
       {
-        "name": "Semerkand",
-        "country": "Özbekistan",
+        "name": "Samarkand",
+        "country": "Uzbekistan",
         "lat": 39.655785,
         "lng": 66.9774
       }
@@ -1172,7 +1184,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "kyrgyzstan-discovery-tour",
     "tourName": "Kırgızistan keşif turu",
@@ -1317,63 +1329,75 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Bişkek",
-        "country": "Kırgızistan",
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
         "lat": 42.87779,
         "lng": 74.606693
       },
       {
-        "name": "Issy Kul Gölü",
-        "country": "Kırgızistan",
+        "name": "Issy Kul Lake",
+        "country": "Kyrgyzstan",
         "lat": 42.491681,
         "lng": 78.390173
       },
       {
         "name": "Cholpan Ata",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 42.638126,
         "lng": 77.048308
       },
       {
+        "name": "Reina Kench Farm",
+        "country": "Kyrgyzstan",
+        "lat": 64.909424,
+        "lng": -147.6859
+      },
+      {
         "name": "Karakol",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 42.479821,
         "lng": 78.381067
       },
       {
         "name": "Naryn",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 41.425494,
         "lng": 76.00578
       },
       {
         "name": "Kyzil Tuu",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 42.184306,
         "lng": 76.673316
       },
       {
         "name": "Kochkor",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 42.211744,
         "lng": 75.751474
       },
       {
-        "name": "Chon-Kemin Vadisi",
-        "country": "Kırgızistan",
+        "name": "Chon-Kemin Valley",
+        "country": "Kyrgyzstan",
         "lat": 42.788288,
         "lng": 75.697228
+      },
+      {
+        "name": "Ashu",
+        "country": "Kyrgyzstan",
+        "lat": 56.162518,
+        "lng": 37.945972
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "kyrgyzstan-holiday-small-group",
     "tourName": "Kırgızistan tatili, küçük grup",
@@ -1597,7 +1621,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "kyrgyzstan-silk-road-holiday",
     "tourName": "Kırgızistan İpek Yolu tatili",
@@ -1848,7 +1872,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "kyrgyzstan-small-group-holidays",
     "tourName": "Kırgızistan küçük grup tatilleri",
@@ -1970,7 +1994,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "kyrgyzstan-tian-shan-mountains-hiking-tour",
     "tourName": "Kırgızistan Tian Shan Dağları yürüyüş turu",
@@ -2161,7 +2185,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "kyrgyzstan-tour-mountains-lakes-and-nomads",
     "tourName": "Kırgızistan turu, dağlar, göller ve göçebeler",
@@ -2408,7 +2432,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "kyrgyzstan-world-nomad-games-tour-2026",
     "tourName": "Kırgızistan & Dünya Göçebe Oyunları Turu 2026",
@@ -2646,7 +2670,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "silk-road-cultural-holiday-kyrgyzstan-uzbekistan",
     "tourName": "İpek Yolu kültürel tatili, Kırgızistan & Özbekistan",
@@ -2885,7 +2909,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "silk-road-highlights-tour",
     "tourName": "İpek Yolu Öne Çıkanlar Turu",
@@ -2968,49 +2992,61 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Bişkek",
-        "country": "Kırgızistan",
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
         "lat": 42.87779,
         "lng": 74.606693
       },
       {
-        "name": "Duşanbe",
-        "country": "Tacikistan",
+        "name": "Dushanbe",
+        "country": "Tajikistan",
         "lat": 38.576271,
         "lng": 68.786357
       },
       {
-        "name": "Oş",
-        "country": "Kırgızistan",
+        "name": "Osh",
+        "country": "Kyrgyzstan",
         "lat": 40.53619,
         "lng": 72.803362
       },
       {
-        "name": "Aşkabat",
-        "country": "Türkmenistan",
+        "name": "Ashgabat",
+        "country": "Turkmenistan",
         "lat": 37.940465,
         "lng": 58.382349
       },
       {
-        "name": "Semerkand",
-        "country": "Özbekistan",
+        "name": "Pamir Highway",
+        "country": "Kyrgyzstan",
+        "lat": 14.578888,
+        "lng": 121.0511
+      },
+      {
+        "name": "Fann Mountains",
+        "country": "Kyrgyzstan",
+        "lat": 40.671672,
+        "lng": -74.357686
+      },
+      {
+        "name": "Samarkand",
+        "country": "Uzbekistan",
         "lat": 39.655785,
         "lng": 66.9774
       },
       {
-        "name": "Buhara",
-        "country": "Özbekistan",
+        "name": "Bukhara",
+        "country": "Uzbekistan",
         "lat": 39.772476,
         "lng": 64.41867
       },
       {
-        "name": "Hiva",
-        "country": "Özbekistan",
+        "name": "Khiva",
+        "country": "Uzbekistan",
         "lat": 41.378586,
         "lng": 60.358856
       }
@@ -3018,7 +3054,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "tajikistan-and-kyrgyzstan-holiday",
     "tourName": "Tacikistan ve Kırgızistan tatili",
@@ -3278,7 +3314,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "tajikistan-kyrgyzstan-holiday-the-pamir-highway",
     "tourName": "Tacikistan & Kırgızistan Tatili, Pamir Yolu",
@@ -3456,91 +3492,97 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Duşanbe",
-        "country": "Tacikistan",
+        "name": "Dushanbe",
+        "country": "Tajikistan",
         "lat": 38.576271,
         "lng": 68.786357
       },
       {
         "name": "Kalaikhumb",
-        "country": "Tacikistan",
+        "country": "Tajikistan",
         "lat": 37.387888,
         "lng": 68.664106
       },
       {
-        "name": "Horog",
-        "country": "Tacikistan",
+        "name": "Khorog",
+        "country": "Tajikistan",
         "lat": 37.491242,
         "lng": 71.545081
       },
       {
         "name": "Garm Chashma",
-        "country": "Tacikistan",
+        "country": "Tajikistan",
         "lat": 37.202685,
         "lng": 71.539283
       },
       {
         "name": "Yamchun",
-        "country": "Tacikistan",
+        "country": "Tajikistan",
         "lat": 36.963014,
         "lng": 72.268763
       },
       {
         "name": "Bibi Fatima",
-        "country": "Tacikistan",
+        "country": "Tajikistan",
         "lat": 37.387888,
         "lng": 68.664106
       },
       {
         "name": "Vrang",
-        "country": "Tacikistan",
+        "country": "Tajikistan",
         "lat": 37.004779,
         "lng": 72.373151
       },
       {
         "name": "Murgab",
-        "country": "Tacikistan",
+        "country": "Tajikistan",
         "lat": 38.151432,
         "lng": 73.955174
       },
       {
-        "name": "Karakul Gölü",
-        "country": "Tacikistan",
+        "name": "Karakul Lake",
+        "country": "Tajikistan",
         "lat": 37.387888,
         "lng": 68.664106
       },
       {
         "name": "Sary Tash",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 39.725935,
         "lng": 73.24219
       },
       {
-        "name": "Oş",
-        "country": "Kırgızistan",
+        "name": "Osh",
+        "country": "Kyrgyzstan",
         "lat": 40.53619,
         "lng": 72.803362
       },
       {
         "name": "Uzgen",
-        "country": "Kırgızistan",
+        "country": "Kyrgyzstan",
         "lat": 40.770765,
         "lng": 73.297805
       },
       {
-        "name": "Çiçkan Kanyonu",
-        "country": "Kırgızistan",
-        "lat": 42.273996,
-        "lng": 77.784038
+        "name": "Chichkan Gorge",
+        "country": "Kyrgyzstan",
+        "lat": 47.101013,
+        "lng": -1.30292
       },
       {
-        "name": "Bişkek",
-        "country": "Kırgızistan",
+        "name": "Tian Shan mountains",
+        "country": "Kyrgyzstan",
+        "lat": 21.51224,
+        "lng": 98.009836
+      },
+      {
+        "name": "Bishkek",
+        "country": "Kyrgyzstan",
         "lat": 42.87779,
         "lng": 74.606693
       }
@@ -3548,7 +3590,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "the-world-nomad-games-tour-in-kyrgyzstan-2026",
     "tourName": "Kırgızistan'daki Dünya Göçebe Oyunları Turu 2026",
@@ -3677,7 +3719,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "turkmenistan-to-kyrgyzstan-overland-tour",
     "tourName": "Türkmenistan'dan Kırgızistan'a kara yoluyla tur",
@@ -3847,7 +3889,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Kyrgyzstan",
+    "destination": "Kırgızistan",
     "mainPhoto": "",
     "id": "uzbekistan-and-kyrgyzstan-11-day-tour",
     "tourName": "Özbekistan ve Kırgızistan 11 Günlük Tur",

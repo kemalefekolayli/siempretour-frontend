@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Swaziland",
+    "destination": "Svaziland",
     "mainPhoto": "",
     "id": "lesotho-and-eswatini-holiday-southern-africa",
     "tourName": "Lesotho ve Eswatini Tatili, Güney Afrika",
@@ -129,21 +129,27 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Johannesburg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -26.204678,
         "lng": 28.042114
       },
       {
         "name": "Underberg",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -29.79362,
         "lng": 29.494995
+      },
+      {
+        "name": "Sani Pass",
+        "country": "null",
+        "lat": -22.776148,
+        "lng": 30.182241
       },
       {
         "name": "Thaba Bosiu",
@@ -171,30 +177,30 @@
       },
       {
         "name": "Clarens",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -28.515364,
         "lng": 28.42062
       },
       {
-        "name": "Golden Gate Rezervi",
-        "country": "Güney Afrika",
+        "name": "Golden Gate Reserve",
+        "country": "South Africa",
         "lat": -23.072859,
         "lng": 30.394539
       },
       {
         "name": "Ladysmith",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -28.559689,
         "lng": 29.78082
       },
       {
-        "name": "Ezulwini Vadisi",
+        "name": "Ezulwini Valley",
         "country": "Eswatini",
         "lat": -26.401819,
         "lng": 31.178316
       },
       {
-        "name": "Mkhaya Oyun Alanı",
+        "name": "Mkhaya Game Reserve",
         "country": "Eswatini",
         "lat": -26.314901,
         "lng": 31.13396
@@ -203,7 +209,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Swaziland",
+    "destination": "Svaziland",
     "mainPhoto": "",
     "id": "swaziland-wildlife-and-culture-tour",
     "tourName": "Swaziland yaban hayatı ve kültür turu",

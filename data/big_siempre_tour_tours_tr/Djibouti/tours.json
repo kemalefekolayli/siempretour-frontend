@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Djibouti",
+    "destination": "Cibuti",
     "mainPhoto": "",
     "id": "dijbouti-and-somaliland-tour-the-horn-of-africa",
     "tourName": "Cibuti ve Somaliland Turu, Afrika Boynuzu",
@@ -123,33 +123,69 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Cibuti",
-        "country": "Cibuti",
+        "name": "Djibouti",
+        "country": "Djibouti",
         "lat": 11.59369,
         "lng": 43.147272
       },
       {
         "name": "Lac Abbe",
-        "country": "Cibuti",
+        "country": "Djibouti",
         "lat": 11.59369,
         "lng": 43.147272
       },
       {
         "name": "Tadjourah",
-        "country": "Cibuti",
+        "country": "Djibouti",
         "lat": 11.733157,
         "lng": 42.681588
+      },
+      {
+        "name": "Borama",
+        "country": "Somaliland",
+        "lat": 9.93717,
+        "lng": 43.18339
+      },
+      {
+        "name": "Dhagax Khoure",
+        "country": "Somaliland",
+        "lat": 10.089983,
+        "lng": 19.48625
+      },
+      {
+        "name": "Hargeisa",
+        "country": "Somaliland",
+        "lat": 9.574826,
+        "lng": 44.034897
+      },
+      {
+        "name": "Las Geel",
+        "country": "Somaliland",
+        "lat": 51.161083,
+        "lng": 4.990319
+      },
+      {
+        "name": "Berbera",
+        "country": "Somaliland",
+        "lat": 10.442195,
+        "lng": 45.00844
+      },
+      {
+        "name": "Sheikh",
+        "country": "Somaliland",
+        "lat": 9.931344,
+        "lng": 45.191147
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Djibouti",
+    "destination": "Cibuti",
     "mainPhoto": "",
     "id": "ethiopia-djibouti-holiday-danakil-depression",
     "tourName": "Etyopya ve Cibuti tatili, Danakil Çöküntüsü",
@@ -319,7 +355,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Djibouti",
+    "destination": "Cibuti",
     "mainPhoto": "",
     "id": "somaliland-and-djibouti-tailor-made-tour",
     "tourName": "Somaliland ve Cibuti Özel Yapım Turu",
@@ -434,33 +470,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Cibuti Şehri",
-        "country": "Cibuti",
-        "lat": 11.59369,
-        "lng": 43.147272
-      },
-      {
-        "name": "Abbé Gölü",
-        "country": "Cibuti",
+        "name": "Djibouti City",
+        "country": "Djibouti",
         "lat": 11.59369,
         "lng": 43.147272
       },
       {
         "name": "Tadjourah",
-        "country": "Cibuti",
+        "country": "Djibouti",
         "lat": 11.733157,
         "lng": 42.681588
+      },
+      {
+        "name": "Borama",
+        "country": "Somaliland",
+        "lat": 9.93717,
+        "lng": 43.18339
+      },
+      {
+        "name": "Hargeisa",
+        "country": "Somaliland",
+        "lat": 9.574826,
+        "lng": 44.034897
+      },
+      {
+        "name": "Laas Geel",
+        "country": "Somaliland",
+        "lat": 51.161083,
+        "lng": 4.990319
+      },
+      {
+        "name": "Berbera",
+        "country": "Somaliland",
+        "lat": 10.442195,
+        "lng": 45.00844
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "Djibouti",
+    "destination": "Cibuti",
     "mainPhoto": "",
     "id": "tour-of-ethiopia-djibouti-and-somaliland",
     "tourName": "Etiyopya, Djibouti ve Somaliland Turu",
@@ -635,9 +689,9 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Djibouti",
@@ -653,39 +707,63 @@
       },
       {
         "name": "Lake Afrera",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 13.207287,
         "lng": 40.860443
       },
       {
         "name": "Afar Desert",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 11.79231,
         "lng": 41.008916
       },
       {
         "name": "Erta Ale lava lake",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 9.52528,
         "lng": 42.31889
       },
       {
         "name": "Ahmedela salt mines",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 9.66667,
         "lng": 37.76667
       },
       {
         "name": "Dallol",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 14.239424,
         "lng": 40.293699
       },
       {
         "name": "Addis Ababa",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 9.010793,
         "lng": 38.761253
+      },
+      {
+        "name": "Hargeisa",
+        "country": "Somaliland",
+        "lat": 9.574826,
+        "lng": 44.034897
+      },
+      {
+        "name": "Las Geel",
+        "country": "Somaliland",
+        "lat": 51.161083,
+        "lng": 4.990319
+      },
+      {
+        "name": "Dhagax Khoure",
+        "country": "Somaliland",
+        "lat": 10.089983,
+        "lng": 19.48625
+      },
+      {
+        "name": "Berbera",
+        "country": "Somaliland",
+        "lat": 10.442195,
+        "lng": 45.00844
       }
     ],
     "__trTranslated": true

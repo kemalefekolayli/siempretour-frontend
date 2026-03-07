@@ -1,11 +1,11 @@
 [
   {
-    "destination": "Cameroon",
+    "destination": "Kamerun",
     "mainPhoto": "",
     "id": "central-african-republic-wildlife-holiday",
-    "tourName": "Central African Republic wildlife holiday",
-    "placesVisited": "Yaounde, Ba’aka village visits, Dzanga-Sangha Reserve, gorilla tracking, Dzanga Bai elephants, Yokadouma, Bertoua",
-    "generalInfo": "Dzanga-Ndoki National Park in the Central African Republic preserve some of the most beautiful rainforests in Africa, and the last of their kind on the planet. Created in 1990, Dzanga-Ndoki covers an area of just over a thousand square kilometres and is home to important populations of forest elephants, western lowland gorillas, chimpanzees and many other endangered mammals.<br/><br/>Starting in the Cameroonian capital of Yaounde we journey on rough roads to the east before crossing into the Central African Republic. From here we continue to Dzanga-Ndoki, to discover a world untainted by man, an intact jungle where nature rules. We venture into the heart of this primeval jungle to Dzanga Bai, a beautiful forest clearing which attracts spectacular wildlife, including large herds of forest elephants, and we have the unforgettable experience of tracking these lowland gorillas, getting close to a habituated family and seeing how they make the forest their home. Spending our time fully immersed in the jungle we learn about the complex biodiversity of this fragile ecosystem.<br/><br/>We also learn about the human inhabitants of the forest, spending a night in the company of Ba’Aka pygmies, learning from them as they go about their daily lives in the rainforest. This is an uncompromising trip, travelling through one of the last wildernesses on earth in search of some of the planet’s most enigmatic wildlife and treading where few have ever set foot before.<br/>",
+    "tourName": "Orta Afrika Cumhuriyeti vahşi yaşam tatili",
+    "placesVisited": "Yaounde, Ba’aka köy ziyaretleri, Dzanga-Sangha Rezervi, goril izleme, Dzanga Bai fili, Yokadouma, Bertoua",
+    "generalInfo": "Orta Afrika Cumhuriyeti'ndeki Dzanga-Ndoki Millî Parkı, Afrika'nın en güzel yağmur ormanlarından bazılarını ve dünyanın son kalıntılarını korumaktadır. 1990 yılında yaratılan Dzanga-Ndoki, yedi yüzden fazla kilometrekarelik bir alanı kaplar ve önemli orman fili, batı alçakland gorilleri, şempanzeler ve birçok diğer tehdit altındaki memelilerin evindedir.<br/><br/>Kamerun'un başkenti Yaounde'den başlayarak, doğuya doğru bozuk yollarda seyahat ediyoruz ve Orta Afrika Cumhuriyeti'ne geçiyoruz. Buradan Dzanga-Ndoki'ye devam ediyor, insanın el değmediği, doğanın hüküm sürdüğü bir dünyayı keşfediyoruz. Bu ilkel ormanın kalbine, büyük orman fil sürülerinin çekildiği güzel bir orman açıklığı olan Dzanga Bai'ye açılırız ve bu alçakland gorillerin izini sürmenin unutulmaz deneyimini yaşarız, alıştırılmış bir aileye yaklaşarak ormanı nasıl evleri haline getirdiklerini görürüz. Ormanda geçirdiğimiz bu zaman boyunca, bu hassas ekosistemin karmaşık biyolojik çeşitliliğini öğreniriz.<br/><br/>Ormanın insan sakinleri hakkında da bilgi ediniriz, Ba’Aka pigmelerinin yanında bir gece geçirerek, onların yağmur ormanındaki günlük yaşamları hakkında bilgi ediniriz. Bu, gezegenimizin en karmaşık vahşi yaşamından bazılarını ararken, dünyanın son vahşi alanlarından birinde seyahat eden keskin bir yolculuktur ve azın ayak bastığı yerlere adım atmamızı sağlar.<br/>",
     "durationDays": "10",
     "price": "4999",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -24,54 +24,129 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Yaounde - Arrive in Yaounde and transfer to the hotel. The rest of the day is free to relax or explore. Overnight Hotel Jouvence or similar."
+        "description": "Yaounde - Yaounde'ye varış ve otele transfer. Günün geri kalanı, dinlenmek veya keşfetmek için serbest. Geceleme Hotel Jouvence veya benzeri."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Youkadouma - A long drive to the far east of Cameroon, driving via patches of forest, small villages and markets along the way. Overnight Hotel Youkadouma or similar. (B)"
+        "description": "Yokadouma - Kamerun'un en doğusuna uzun bir sürüş, yol boyunca orman, küçük köyler ve pazarlar üzerinden geçerken. Geceleme Hotel Youkadouma veya benzeri. (B)"
       },
       {
         "dayNumber": 3,
         "title": "",
-        "description": "Lidjombo – Dzanga-Sangha Reserve – Cross the mighty Sangha River and the border with the Central African Republic. After border formalities we continue to our accommodation, Doli Lodge, which will be our base for exploring the Dzanga-Sangha Reserve. (LD)"
+        "description": "Lidjombo – Dzanga-Sangha Rezervi – Güçlü Sangha Nehri'ni ve Orta Afrika Cumhuriyeti sınırını geçiyoruz. Sınır işlemlerinden sonra Dzanga-Sangha Rezervi'ni keşfetmek için temelimiz olacak Doli Lodge'a devam ediyoruz. (LD)"
       },
       {
         "dayNumber": 4,
         "title": "",
-        "description": "Gorilla tracking - One of the highlights of the trip – today we track a family of habituated western lowland gorillas in the forest, getting close to this most magnificent of animals in the company of experienced trackers and guides. There are few experiences that can ever equal spending time with gorillas, and it ranks among the best that Africa can offer. Overnight Doli Lodge. (BLD)"
+        "description": "Goril izleme - Seyahatin en önemli anlarından biri - bugün ormanda alıştırılmış batı alçakland gorillerinin bir ailesinin izini sürüyoruz, deneyimli iz sürücüler ve rehberler eşliğinde bu muhteşem hayvanlarla yakından tanışıyoruz. Gorillerle vakit geçirmenin eşsiz deneyimleri arasında olduğu az şey vardır ve bu, Afrika'nın sunabileceği en iyi deneyimler arasındadır. Geceleme Doli Lodge. (BLD)"
       },
       {
         "dayNumber": 5,
         "title": "",
-        "description": "Mangabey tracking - This morning we track a different primate – mangabeys, of which troops of two to three hundred are not uncommon. Later we take dug out canoes along one of the tributaries of the Sangha River, in the company of locals extracting raffia wine from the palm trees. Overnight Doli Lodge. (BLD)"
+        "description": "Mangabey izleme - Bu sabah farklı bir primat olan mangabeylerin izini sürüyoruz; bunlar arasında iki yüz ila üç yüz kişilik gruplar pek nadir değildir. Daha sonra, Sangha Nehri'nin bir kolu boyunca, palmiye ağaçlarından raffia şarabı çıkaran yerel halkla birlikte oyma kanolarla dolaşacağız. Geceleme Doli Lodge. (BLD)"
       },
       {
         "dayNumber": 6,
         "title": "",
-        "description": "Dzanga Bai - Drive and walk to Dzanga Bai. Here you can often see herds of between fifty and a hundred forest elephants that have come here to consume the mineral rich soil, along with other forest wildlife such as buffalo, sitatunga and bongo. Overnight Doli Lodge. (BLD)"
+        "description": "Dzanga Bai - Dzanga Bai'ye sürüş ve yürüyüş. Burada, mineral bakımından zengin toprağı tüketmek için gelen elli ile yüz arasında orman fili sürüleri sıkça görülebilir, ayrıca diğer orman vahşi yaşamı olan bufalo, sitatunga ve bongo da gözlemlenebilir. Geceleme Doli Lodge. (BLD)"
       },
       {
         "dayNumber": 7,
         "title": "",
-        "description": "Dzanga-Sangha Reserve - Today we have a full day with the Ba’Aka pygmies. Accompanied by our hosts we explore the surrounding area and have a unique opportunity to learn how they live, gathering honey and medicinal plants to sustain their lifestyle. Overnight Doli Lodge. (BLD)"
+        "description": "Dzanga-Sangha Rezervi - Bugün Ba’Aka pigmeleriyle tam bir gün geçiriyoruz. Ev sahiplerimiz eşliğinde çevreyi keşfediyoruz ve onların yaşam tarzlarını sürdürmeleri için bal ve tıbbi bitki toplamayı öğrenme fırsatına sahibiz. Geceleme Doli Lodge. (BLD)"
       },
       {
         "dayNumber": 10,
         "title": "",
-        "description": "Yaounde - Transfer to the airport for your onward flight. (B)"
+        "description": "Yaounde - Devam eden uçuşunuz için havalimanına transfer. (B)"
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Yokadouma",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Dzanga-Sangha Reserve",
+        "country": "Central African Republic"
+      },
+      {
+        "name": "Dzanga Bai",
+        "country": "Central African Republic"
+      },
+      {
+        "name": "Ba’aka village",
+        "country": "Central African Republic"
+      },
+      {
+        "name": "Bertoua",
+        "country": "Cameroon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yaounde",
+        "country": "Kamerun",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Yokadouma",
+        "country": "Kamerun",
+        "lat": 3.516912,
+        "lng": 15.052066
+      },
+      {
+        "name": "Dzanga-Sangha Rezervi",
+        "country": "Orta Afrika Cumhuriyeti",
+        "lat": 5.21309,
+        "lng": 25.224701
+      },
+      {
+        "name": "Dzanga Bai",
+        "country": "Orta Afrika Cumhuriyeti",
+        "lat": 6.775785,
+        "lng": 16.129504
+      },
+      {
+        "name": "Ba’aka köyü",
+        "country": "Orta Afrika Cumhuriyeti",
+        "lat": 4.272608,
+        "lng": 16.370809
+      },
+      {
+        "name": "Bertoua",
+        "country": "Kamerun",
+        "lat": 4.577726,
+        "lng": 13.684441
+      }
+    ],
+    "__trTranslated": true
   },
   {
-    "destination": "Cameroon",
+    "destination": "Kamerun",
     "mainPhoto": "",
     "id": "congo-rainforest-safari",
-    "tourName": "Congo rainforest safari",
+    "tourName": "Kongo Yağmur Ormanı Safarisi",
     "placesVisited": "",
-    "generalInfo": "This tour is unique in that it takes you deep into the Congo Rainforest of Central Africa and to one of the largest bai's in search of wildlife. Forest elephants, forest buffaloes, bongo, red-river hogs, lowland gorillas and many other species are all commonly seen.<br/><br/>Introduction:<br/>We are specialists in tailoring wildlife watching all over the world and we have a great range of wildlife watching tours which visit very off the beaten track locations. These trips are geared towards people with a vested interest in seeing some of the world's rarest and most elusive species. This particular trip is unique, we spend extended amounts of time looking for wildlife and staking out the large clearings which are meccas for wildlife in the dense rainforest. These clearings are called bai's and we spend considerable time in a raised platform looking at wildlife and also included gorilla tracking in the forest.<br/><br/>This tour is a pioneering tour and you will be among the few people who visit this secluded and wonderful lodge each year. <br/><br/>As well as the larger and more commonly seen species such as gorillas, elephants and red-river hogs there is always a chance for smaller and rarer mammals such as tree &amp; white-bellied pangolin, various species of duiker, Congo clawless otter and many primate species.<br/><br/>Price Includes:<br/><br/>Everything mentioned in the itinerary is included. Including three meals per day (breakfast, lunch and dinner where mentioned. There will be bottled or filtered water available for each guest each day. We have our own private heated 4x4 vehicles with an excellent driver for all transfers. And we charter a flight from Cameroon to get us quickly to and from the lodge as it is often cheaper this way than coming through Bangui. You will have local guides with years of experience throughout. We include more time spent in the field searching for wildlife per day than any other tour operator around; only if you request to not go out in the forest of bai each day we will not spend time looking for wildlife. A comprehensive species list (which states the relative chances of seeing animals based on past tours) is included in the pre-departure pack. There is also a reference book library available for your use throughout the trip as well as some documentaries on the wildlife that you are likely to see which are available to watch throughout the tour (subject to availability of a zoologist guide).<br/><br/>Seasons:<br/><br/>The best time to do this tour would be from December – May, whilst it is a good time to visit in December, this is the start of the dry season and so animals like the bongo and red river hog visit the bai less than they do later in the dry season. With May being the optimal time for sightings of these two species. But the elephants and gorillas (as well as other species) are seen throughout the year.<br/><br/>Why Choose this Tour:<br/><br/>• All of our wildlife watching holidays are guided by an experienced local naturalist or ranger as well as local drivers and also scientists or researchers where possible, this not only gives you numerous sets of trained eyes to find the animals but also gives you the chance to understand the behaviours and habits of the wildlife you’re watching.<br/>•\tOur zoologist (where available - if you wish to have a zoologist please contact us and we can check availability - not all tours include a zoologist) that escorts tours (where available) has a great wealth of knowledge.<br/>• We can also offer further wildlife watching activities if they present themselves whilst on the trip. For example our local guides keep their ears to the ground and have many contacts and if and when a new location of animal is known and reliably seen we can head there to experience it.<br/>• You will have the opportunity to join the local Pygmy village in an immersive experience which is as authentic as any in Africa.<br/>• All the above reasons give this, our unique Wildlife Safari of the Central African Republic a great success rate of seeing many incredible, beautiful and rare species. We also have the ability to organise and run wildlife tours of other parts of Central and Africa at other times of year and focusing on other species such as Mandrills and even Okapi as well as many other species. Please inform us if you wish to receive more information about any of these locations and booking a safari.<br/>• Unlike many tour operators we are willing to run this tour for a single person (on request).<br/><br/>Locations:<br/><br/>This tour starts and ends in Yaounde, Cameroon. But this is just our entrance and exit port to charter a flight and get direct to the lodge in the middle of the huge and incredible Dzanga-Ndoki National Park in the far south-west of Central African Republic.<br/><br/>Fitness Level:<br/><br/>There is some walking involved in this trip, such as when getting to and from the raised platform in the bai and also when tracking the lowland gorillas and agile mangabeys. However the terrain is mostly flat and so no real physical fitness is needed. Just being able to walk for 1-2 hours in the heat and humidity.<br/><br/>Equipment:<br/><br/>When you book onto the tour we will send you a comprehensive pre-departure pack which will include a full packing list of recommended equipment; the equipment list will vary from tour to tour and from location to location so it is best to contact us or wait until you receive the pre-departure pack after booking.<br/><br/>Minimum Age: 18 Years Old<br/><br/>Pictures credits:<br/>Pierre Fidenci <br/>U.S. Fish and Wildlife Service Headquarters <br/>Daniel Ramirez<br/>Steve Wilson<br/>Tyler Brenot<br/>Official photographer of the U.S.Embassy in Ghana<br/>Damiano Luchetti",
+    "generalInfo": "Bu tur, Kongo Yağmur Ormanı'nın derinliklerine ve vahşi yaşam peşinde bir av için en büyük bai'lerden birine götürmesi bakımından eşsizdir. Orman fili, orman bufalosu, bongo, kırmızı nehir domuzu, alçak ağaç gorilleri ve birçok diğer tür sıkça görülmektedir.<br/><br/>Tanıtım:<br/>Biz, dünya genelinde vahşi yaşam gözlemi düzenlemede uzmanız ve yerleşik yollardan uzak yerleri ziyaret eden çeşitlilikte vahşi yaşam gözlem turları sunuyoruz. Bu geziler, dünyanın en nadir ve en zor görülen türlerini görmeye hevesli kişiler için düzenlenmiştir. Bu özel tur benzersizdir; vahşi yaşam arayışında uzun zaman harcıyor ve yoğun yağmur ormanındaki vahşi yaşam için birer mekke olan geniş açıklıkları gözlemlemek için daha fazla zaman geçiriyoruz. Bu açıklıklar bai olarak adlandırılır ve vahşi yaşamı gözlemlemek üzere yükseltilmiş platformda önemli zaman geçiriyoruz, ayrıca ormandaki goril takibi de dahil edilmiştir.<br/><br/>Bu tur, yenilikçi bir tur olup her yıl bu izole ve harika otele giden birkaç kişiden biri olacaksınız.<br/><br/>Daha büyük ve daha yaygın görülen türler olan goriller, fillar ve kırmızı nehir domuzlarının yanı sıra her zaman ağaç ve beyaz karnı pangolin, çeşitli duiker türleri, Kongo tüyü olmayan su samurunu ve birçok primat türü gibi daha küçük ve nadir memelileri görme şansı da bulunmaktadır.<br/><br/>Fiyat Dahildir:<br/><br/>Güzergâhta belirtilen her şey dahildir. Günde üç öğün yemek (kahvaltı, öğle ve akşam yemeği belirtilen yerlerde) dahil. Her misafir için her gün şişelenmiş veya filtrelenmiş su sağlanacaktır. Tüm transferler için mükemmel bir şoförü olan özel ısıtmalı 4x4 araçlarımız var. Ayrıca hızlıca otele gidip geri dönmemiz için Kamerun'dan bir uçuş kiralayacağız çünkü genellikle Bangui üzerinden gelmekten daha ucuzdur. Tüm geziler boyunca yılların deneyimine sahip yerel rehberlerimiz olacaktır. Diğer tur operatörlerine göre, vahşi yaşam arayışı için günde daha fazla zaman harcadığımızı belirtmek isteriz; yalnızca her gün bai ormanına çıkmamayı talep ederseniz, vahşi yaşamı aramak için zaman harcamayacağız. (Geçmiş turlara dayanan hayvanları görme olasılıklarını belirten) kapsamlı bir tür listesi, önceden kalkış paketi ile birlikte verilecektir. Ayrıca, seyahat süresince kullanabileceğiniz bir referans kitaplığı da mevcuttur ve göreceğiniz vahşi yaşam hakkında belgeler de bulunmaktadır (zoolog rehberinin mevcut olmasına bağlıdır).<br/><br/>Sezonlar:<br/><br/>Bu tur için en iyi zaman Aralık - Mayıs dönemidir. Aralık, kuru sezonun başlangıcı olduğu için iyi bir ziyaret dönemidir, bu dönemde bongo ve kırmızı nehir domuzu bai'yi daha az ziyaret ederler. Mayıs ise bu iki türün görülmesi için en uygun zamandır. Ancak filler ve goriller (diğer türler ile birlikte) yıl boyunca görülmektedir.<br/><br/>Neden Bu Turu Seçmelisiniz:<br/><br/>• Tüm vahşi yaşam gözlem tatillerimiz, deneyimli bir yerel doğa bilimci veya ranger tarafından, mümkünse yerel sürücüler ve bilim insanları veya araştırmacılar tarafından yönlendirilmektedir. Bu durum, hayvanları bulmak için çok sayıda eğitimli göz seti sağlar ve izlediğiniz vahşi yaşamın davranışlarını ve alışkanlıklarını anlamanızı sağlar.<br/>• Tur rehberliğini üstlenen zoologumuz (mevcut olduğunda - zoolog istemeniz durumunda lütfen bizimle iletişime geçin ve uygunluk kontrol edelim - tüm turlar zoolog içermez) büyük bir bilgi birikimine sahiptir.<br/>• Seyahat sırasında kendiliğinden gelişen daha fazla vahşi yaşam gözlem etkinlikleri sunabiliriz. Örneğin, yerel rehberlerimiz duyarlıdır ve birçok irtibatları vardır, ve yeni bir hayvan yerinin bilindiği ve güvenilir bir şekilde görüldüğü durumda oraya gitme fırsatına sahip oluruz.<br/>• Yerel Pygmy köyüne katılma fırsatınız olacak; bu deneyim Afrika'da herhangi birinde olduğu kadar otantik olacaktır.<br/>• Yukarıdaki tüm nedenler, merkez Afrika Cumhuriyeti'nde bu, benzersiz Vahşi Yaşam Safari'nizi görmek için yüksek bir başarı oranını sunmaktadır. Ayrıca, yılın diğer zamanlarında ve Mandrill ve Okapi gibi diğer türler üzerine yoğunlaşmış olan farklı bölgelerde de vahşi yaşam turları düzenleme ve yürütme yeteneğine sahibiz. Bu yerlerden herhangi biri hakkında daha fazla bilgi almak veya bir safari rezervasyonu yapmak isterseniz lütfen bize bildirin.<br/>• Birçok tur operatörünün aksine, isteğe bağlı olarak bu turu tek bir kişi için de düzenlemeye isteklisiz.<br/><br/>Yerler:<br/><br/>Bu tur, Yaounde, Kamerun'da başlar ve sona erer. Ancak burası sadece charter uçağını kiralayıp Orta Afrika Cumhuriyeti'nin güney-batısında yer alan büyük ve muhteşem Dzanga-Ndoki Milli Parkı'nın ortasındaki otele doğrudan ulaşmak için giriş ve çıkış noktamızdır.<br/><br/>Fitness Seviyesi:<br/><br/>Bu gezide bazı yürüyüşler yapılmaktadır; örneğin bai'deki yükseltilmiş platforma gitmek veya alçak ağaç gorilleri ve çevik mangabeyleri takip etmek gibi. Ancak arazi çoğunlukla düzdür, bu nedenle gerçek bir fiziksel yeterlilik gerektirmemektedir. Sadece sıcağın ve nemin içinde 1-2 saat yürüyebilmeniz yeterlidir.<br/><br/>Ekipman:<br/><br/>Tura kaydolduğunuzda size kapsamlı bir ön kalkış paketi göndereceğiz; bu paket, önerilen ekipman için bir tam paket listesi içerecektir. Ekipman listesi turdan tura ve yerden yere değişeceği için bizimle iletişime geçmenizde veya rezervasyon yaptıktan sonra ön kalkış paketini almayı beklemenizde fayda vardır.<br/><br/>Minimum Yaş: 18 Yaş<br/><br/>Fotoğraf kredileri:<br/>Pierre Fidenci <br/>U.S. Fish and Wildlife Service Headquarters <br/>Daniel Ramirez<br/>Steve Wilson<br/>Tyler Brenot<br/>Gana'daki U.S. Büyükelçiliği'nin resmi fotoğrafçısı<br/>Damiano Luchetti",
     "durationDays": "12",
     "price": "10450",
     "image1": "images/tour-photos/India/01/01.webp",
@@ -90,25 +165,70 @@
       {
         "dayNumber": 1,
         "title": "",
-        "description": "Yaounde - Today you will arrive in the Cameroon capital of Yaounde. Here you will be met by your local guide and transferred from the airport to your hotel for teh night. There are no activities planned today, it is a rest day. Accommodation - Yaounde Airport Hotel (or similar) - no meals included today"
+        "description": "Yaounde - Bugün Kamerun'un başkenti Yaounde'ye varacaksınız. Burada yerel rehberiniz tarafından karşılanacak ve havaalanından otelinize transfer edileceksiniz. Bugün herhangi bir aktivite planlanmamıştır, dinlenme günü. Konaklama - Yaounde Havaalanı Oteli (veya benzeri) - bugün yemek yok."
       },
       {
         "dayNumber": 2,
         "title": "",
-        "description": "Yaounde to Dzanga Bai - Today you will leave the hotel and travel to the small domestic airport and catch our chartered private Cessna, which will take us direct to the lodge. This is the quickest and easiest way to reach the lodge. The lodge is located close to the wonderful and world famous Dzanga-Ndoki National Park in the northern section of the north-western Congo Basin. In the reserve are large populations of Forest Elephant, Lowland gorillas, 16 of the country's primate species (such as De Brazza's Monkey with its distinctive white beard), hundreds of bird species, reptiles, frogs etc. you visit a village of the Ba'aka pygmies, of which you will spend some time with and the woman will share some traditional knowledge of the plants and you learn about their lifestyle in the forest. The WWF works with the Ba'aka in establishing conservation, education and health programs in the area. Once at the lodge we will settle in and have the rest of the day to relax and have a walk around the lodge grounds. Many species of monkey can be seen around the lodge. Breakfast and dinner will be included today. NB: From when we arrive in the lodge it is important to remain flexible in terms of what happens on a day to day basis here, we will try and follow the below itinerary, but things may be mixed up and moved around. We will get all of the activities mentioned, just maybe not in this particular order."
+        "description": "Yaounde'den Dzanga Bai'ye - Bugün otelden çıkacak ve küçük bir iç hatlar havaalanına seyahat edeceksiniz. Buradan kiralanmış Cessna uçağımıza bineceksiniz, bu da bizi doğrudan otele götürecek. Bu, otele ulaşmanın en hızlı ve kolay yoludur. Otel, Kongo Havzası'nın kuzey-batı kesiminde yer alan şahane ve dünya çapında ünlü Dzanga-Ndoki Milli Parkı'na yakındır. Rezervde Orman Filleri, Alçak Ağaç Gorilleri, ülkenin 16 primat türü (özellikle De Brazza'nın maymunu gibi beyaz sakallı olanları), yüzlerce kuş türü, sürüngenler, kurbağalar vb. bulunmaktadır. Ba'aka pygmilerinin bir köyünü ziyaret edeceksiniz ve burada bir süre geçirecek, kadınlar bitkiler hakkında geleneksel bilgi paylaşacaklar ve ormandaki yaşam tarzlarını öğreneceksiniz. WWF, bölgede koruma, eğitim ve sağlık programları oluşturmak için Ba'aka ile çalışmaktadır. Otele vardığımızda, yerleşip otel alanında dinlenmek ve dolaşmak için günün geri kalanını geçireceğiz. Otelin etrafında birçok maymun türü görülebilir. Bugün kahvaltı ve akşam yemeği dahildir. Not: Otele vardığımız andan itibaren burada günlük olarak olacaklara esnek olunması önemlidir; aşağıdaki güzergâhı takip etmeye çalışacağız, ancak bazı şeyler karıştırılabilir ve yerleri değiştirilebilir. Belirtilen tüm aktiviteleri gerçekleştireceğiz, sadece bu belirli sırayla olmayabilir."
       },
       {
         "dayNumber": 11,
         "title": "",
-        "description": "Yaounde - Today we will leave the lodge and be flown back to Yaounde on our own chartered private Cessna and then taken to your hotel for your final night on the tour. Accommodation - Yaounde Airport Hotel (or similar) - breakfast is the only meal included today."
+        "description": "Yaounde - Bugün otelden ayrılacak ve kendi kiralanmış Cessna uçağımızla Yaounde'ye dönecek ve ardından turun son geceniz için otelinize götürüleceksiniz. Konaklama - Yaounde Havaalanı Oteli (veya benzeri) - bugün tek yemek kahvaltıdır."
       },
       {
         "dayNumber": 12,
         "title": "",
-        "description": "Home - today you will be collected from the airport and taken to the international airport in time to catch your return flight home."
+        "description": "Ev - Bugün havaalanından alınacak ve dönüş uçuşunuzu yakalamak için uluslararası havaalanına götürüleceksiniz."
       }
     ],
     "map": "",
-    "category": "Safari"
+    "category": "Safari",
+    "route": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      },
+      {
+        "name": "Dzanga Bai",
+        "country": "Central African Republic"
+      },
+      {
+        "name": "Yaounde",
+        "country": "Cameroon"
+      }
+    ],
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      {
+        "name": "Yaounde",
+        "country": "Kamerun",
+        "lat": 3.864768,
+        "lng": 11.520526
+      },
+      {
+        "name": "Dzanga Bai",
+        "country": "Orta Afrika Cumhuriyeti",
+        "lat": 6.775785,
+        "lng": 16.129504
+      },
+      {
+        "name": "Yaounde",
+        "country": "Kamerun",
+        "lat": 3.864768,
+        "lng": 11.520526
+      }
+    ],
+    "__trTranslated": true
   }
 ]

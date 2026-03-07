@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll('a[data-country]').forEach(link => {
     const country = link.dataset.country;
     const category = link.dataset.category; // 👈 YENİ
+    const id = link.dataset.id;
 
     let url = `template_tours_grid_page.html?country=${encodeURIComponent(country)}`;
 

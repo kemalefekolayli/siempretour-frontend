@@ -109,37 +109,43 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Uluwatu Tapınağı",
-        "country": "Endonezya",
+        "name": "Uluwatu Temple",
+        "country": "Indonesia",
         "lat": -4.118547,
         "lng": 120.01521
       },
       {
         "name": "Ubud",
-        "country": "Endonezya",
+        "country": "Indonesia",
         "lat": -8.506872,
         "lng": 115.262474
       },
       {
-        "name": "Yeh Gangga Plajı",
-        "country": "Endonezya",
+        "name": "Yeh Gangga Beach",
+        "country": "Indonesia",
         "lat": -8.309701,
         "lng": 116.1989
       },
       {
-        "name": "Batur Dağı",
-        "country": "Endonezya",
+        "name": "Mount Batur",
+        "country": "Indonesia",
         "lat": -7.206964,
         "lng": 109.82982
       },
       {
-        "name": "Tegallalang Pirinç Terasları",
-        "country": "Endonezya",
+        "name": "Turtle Island",
+        "country": "Bali",
+        "lat": 6.073525,
+        "lng": 118.31396
+      },
+      {
+        "name": "Tegallalang Rice Terraces",
+        "country": "Indonesia",
         "lat": -8.449728,
         "lng": 115.28027
       }

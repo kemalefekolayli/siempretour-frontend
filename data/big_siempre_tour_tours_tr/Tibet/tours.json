@@ -87,12 +87,42 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Yarlung Tsangpo Nehri",
+        "name": "Lhasa",
+        "country": "Tibet",
+        "lat": 29.654987,
+        "lng": 91.11809
+      },
+      {
+        "name": "Yamdrok Lake",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Gyantse",
+        "country": "Tibet",
+        "lat": 28.914864,
+        "lng": 89.60451
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet",
+        "lat": 29.272408,
+        "lng": 88.88125
+      },
+      {
+        "name": "Tashilhunpo Monastery",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Yarlung Tsangpo River",
         "country": "Tibet",
         "lat": 18.324577,
         "lng": -66.09221
@@ -282,15 +312,111 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Chengdu",
-        "country": "Çin",
+        "country": "China",
         "lat": 30.659126,
         "lng": 104.07872
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet",
+        "lat": 29.654987,
+        "lng": 91.11809
+      },
+      {
+        "name": "Gyantse",
+        "country": "Tibet",
+        "lat": 28.914864,
+        "lng": 89.60451
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet",
+        "lat": 29.272408,
+        "lng": 88.88125
+      },
+      {
+        "name": "Rongbuk Monastery",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Saga",
+        "country": "Tibet",
+        "lat": 29.330704,
+        "lng": 85.23109
+      },
+      {
+        "name": "Manasarovar Lake",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Darchen",
+        "country": "Tibet",
+        "lat": 31.920565,
+        "lng": 94.05178
+      },
+      {
+        "name": "Guge",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Zanda",
+        "country": "Tibet",
+        "lat": 31.480865,
+        "lng": 79.80168
+      },
+      {
+        "name": "Ali",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Gegye",
+        "country": "Tibet",
+        "lat": 32.39008,
+        "lng": 81.14315
+      },
+      {
+        "name": "Gertse",
+        "country": "Tibet",
+        "lat": 32.304962,
+        "lng": 84.059586
+      },
+      {
+        "name": "Nyima",
+        "country": "Tibet",
+        "lat": 31.787594,
+        "lng": 87.23432
+      },
+      {
+        "name": "Bange",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Namtso",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Damxung",
+        "country": "Tibet",
+        "lat": 30.477222,
+        "lng": 91.10256
       }
     ],
     "__trTranslated": true
@@ -516,7 +642,111 @@
         "country": "Tibet"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet",
+        "lat": 29.654987,
+        "lng": 91.11809
+      },
+      {
+        "name": "Norbulingka",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Drepung Monastery",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Sera Monastery",
+        "country": "Tibet",
+        "lat": 32.27062,
+        "lng": 100.33019
+      },
+      {
+        "name": "Potala Palace",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Jokhang Temple",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Barkhor Street",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Yamdrok Lake",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Karola Glacier",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Gyantse",
+        "country": "Tibet",
+        "lat": 28.914864,
+        "lng": 89.60451
+      },
+      {
+        "name": "Palcho Monastery",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet",
+        "lat": 29.272408,
+        "lng": 88.88125
+      },
+      {
+        "name": "Tashilhunpo Monastery",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Rongbuk Monastery",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Mount Everest",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Tingri",
+        "country": "Tibet",
+        "lat": 28.662088,
+        "lng": 87.1241
+      }
+    ]
   },
   {
     "destination": "Tibet",
@@ -621,7 +851,63 @@
         "country": "Tibet"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet",
+        "lat": 29.654987,
+        "lng": 91.11809
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet",
+        "lat": 29.272408,
+        "lng": 88.88125
+      },
+      {
+        "name": "Everest Base Camp",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Gyantse",
+        "country": "Tibet",
+        "lat": 28.914864,
+        "lng": 89.60451
+      },
+      {
+        "name": "Yamdrok Lake",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Karola Glacier",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Tashilhunpo Monastery",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Mount Everest",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      }
+    ]
   },
   {
     "destination": "Tibet",
@@ -723,10 +1009,52 @@
     ],
     "routeCoordinates": [
       {
-        "name": "Istanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet",
+        "lat": 29.654987,
+        "lng": 91.11809
+      },
+      {
+        "name": "Yamdrok Lake",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Gyantse",
+        "country": "Tibet",
+        "lat": 28.914864,
+        "lng": 89.60451
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet",
+        "lat": 29.272408,
+        "lng": 88.88125
+      },
+      {
+        "name": "Mount Everest",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Everest Base Camp",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Gyirong",
+        "country": "Tibet",
+        "lat": 28.855982,
+        "lng": 85.29537
       },
       {
         "name": "Kathmandu",
@@ -836,7 +1164,57 @@
         "country": "Tibet"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet",
+        "lat": 29.654987,
+        "lng": 91.11809
+      },
+      {
+        "name": "Yamdrotso Lake",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet",
+        "lat": 29.272408,
+        "lng": 88.88125
+      },
+      {
+        "name": "Tingri",
+        "country": "Tibet",
+        "lat": 28.662088,
+        "lng": 87.1241
+      },
+      {
+        "name": "Everest Base Camp",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Rongbuk Monastery",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Namtso Lake",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      }
+    ]
   },
   {
     "destination": "Tibet",
@@ -1515,13 +1893,37 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
-        "name": "Pekin",
-        "country": "Çin",
+        "name": "Lhasa",
+        "country": "Tibet",
+        "lat": 29.654987,
+        "lng": 91.11809
+      },
+      {
+        "name": "Gyantse",
+        "country": "Tibet",
+        "lat": 28.914864,
+        "lng": 89.60451
+      },
+      {
+        "name": "Yamdrok Tso Lake",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet",
+        "lat": 29.272408,
+        "lng": 88.88125
+      },
+      {
+        "name": "Beijing",
+        "country": "China",
         "lat": 39.906217,
         "lng": 116.391276
       }
@@ -1620,7 +2022,69 @@
         "country": "Tibet"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet",
+        "lat": 29.654987,
+        "lng": 91.11809
+      },
+      {
+        "name": "Potala Palace",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Jokhang Temple",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Barkhor",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Drepung Monastery",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Sera Monastery",
+        "country": "Tibet",
+        "lat": 32.27062,
+        "lng": 100.33019
+      },
+      {
+        "name": "Yamdrok Lake",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Gampala Pass",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Mount Nyenchen Khangsar",
+        "country": "Tibet",
+        "lat": 28.558126,
+        "lng": 89.67853
+      }
+    ]
   },
   {
     "destination": "Tibet",
@@ -1773,15 +2237,81 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Kathmandu",
         "country": "Nepal",
         "lat": 27.714186,
         "lng": 85.31094
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet",
+        "lat": 29.654987,
+        "lng": 91.11809
+      },
+      {
+        "name": "Potala Palace",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Bhakhor Bazaar",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Ganden Monastery",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Gyantse",
+        "country": "Tibet",
+        "lat": 28.914864,
+        "lng": 89.60451
+      },
+      {
+        "name": "Xigatse",
+        "country": "Tibet",
+        "lat": 29.272408,
+        "lng": 88.88125
+      },
+      {
+        "name": "Shalu Monastery",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Xigar",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Shakya Monastery",
+        "country": "Tibet",
+        "lat": 28.90239,
+        "lng": 88.018654
+      },
+      {
+        "name": "Rongbuk",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Milrepa Cave",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
       },
       {
         "name": "Kathmandu",
@@ -1908,7 +2438,75 @@
         "country": "Tibet"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Lhasa",
+        "country": "Tibet",
+        "lat": 29.654987,
+        "lng": 91.11809
+      },
+      {
+        "name": "Yamdrok Yumtso Lake",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet",
+        "lat": 29.272408,
+        "lng": 88.88125
+      },
+      {
+        "name": "Gyantse",
+        "country": "Tibet",
+        "lat": 28.914864,
+        "lng": 89.60451
+      },
+      {
+        "name": "Shegar",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Mount Everest",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Rongbuk Valley",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Tashi Zom",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Sakya Monastery",
+        "country": "Tibet",
+        "lat": 28.90239,
+        "lng": 88.018654
+      },
+      {
+        "name": "Nyenchen Kangsang",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      }
+    ]
   },
   {
     "destination": "Tibet",
@@ -2147,9 +2745,51 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Namtso Lake",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Chang Tang Wildlife Sanctuary",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Qiang Tang Wildlife Sanctuary",
+        "country": "Tibet",
+        "lat": 27.369246,
+        "lng": 118.85265
+      },
+      {
+        "name": "Tsuchen",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Shigatse",
+        "country": "Tibet",
+        "lat": 29.272408,
+        "lng": 88.88125
+      },
+      {
+        "name": "Shegar",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
+      },
+      {
+        "name": "Zhangmu",
+        "country": "Tibet",
+        "lat": 31.553403,
+        "lng": 88.043944
       },
       {
         "name": "Kathmandu",

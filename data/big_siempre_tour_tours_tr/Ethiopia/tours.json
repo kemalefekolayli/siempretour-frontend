@@ -1,6 +1,6 @@
 [
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "danakil-depression-tour-5-days",
     "tourName": "Danakil Çöküntüsü Turu, 5 Gün",
@@ -156,7 +156,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "ethiopia-express-tour",
     "tourName": "Ekvador Ekspres Turu",
@@ -282,7 +282,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "ethiopia-family-holiday",
     "tourName": "Etiyopya aile tatili",
@@ -473,7 +473,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "ethiopia-guided-highlights-tour",
     "tourName": "Etiyopya rehberli öne çıkanlar turu",
@@ -592,55 +592,61 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Addis Ababa",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 9.010793,
         "lng": 38.761253
       },
       {
         "name": "Bahir Dar",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 11.588551,
         "lng": 37.384398
       },
       {
-        "name": "Mavi Nil Şelaleleri",
-        "country": "Etiyopya",
+        "name": "Blue Nile Falls",
+        "country": "Ethiopia",
         "lat": 5.71075,
         "lng": 35.965698
       },
       {
         "name": "Gondar",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 12.617401,
         "lng": 37.465476
       },
       {
-        "name": "Simien Dağları Milli Parkı",
-        "country": "Etiyopya",
+        "name": "Simien Mountains National Park",
+        "country": "Ethiopia",
         "lat": 6.75,
         "lng": 39.75
       },
       {
         "name": "Lalibela",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 12.035836,
         "lng": 39.055571
       },
       {
         "name": "Langano",
-        "country": "Etiyopya",
+        "country": "Ethiopia",
         "lat": 9.35,
         "lng": 37.3
       },
       {
-        "name": "Ziway Gölü",
-        "country": "Etiyopya",
+        "name": "Abjatta and Shalla Lakes",
+        "country": "Ethiopia",
+        "lat": 7.264538,
+        "lng": 36.246053
+      },
+      {
+        "name": "Lake Ziway",
+        "country": "Ethiopia",
         "lat": 7.935806,
         "lng": 38.716493
       }
@@ -648,7 +654,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "ethiopia-holiday-tailormade",
     "tourName": "Etiyopya tatili, kişiye özel",
@@ -933,7 +939,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "ethiopia-small-group-wildlife-tour",
     "tourName": "Etkileyici küçük gruplar için Etiyopya vahşi yaşam turu",
@@ -1149,7 +1155,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "ethiopia-tour-the-best-of-ethiopia",
     "tourName": "Etyopya turu, Etyopya'nın En İyileri",
@@ -1370,7 +1376,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "ethiopia-wildlife-tours",
     "tourName": "Etyopya yaban hayatı turları",
@@ -1586,7 +1592,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "lalibela-omo-valley-and-danakil-tour-ethopia",
     "tourName": "Lalibela, Omo Vadisi ve Danakil Turu, Etiyopya",
@@ -1757,7 +1763,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "north-ethiopia-holiday",
     "tourName": "Kuzey Etiyopya Tatili",
@@ -1948,7 +1954,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "people-and-culture-of-ethiopia",
     "tourName": "Etyopya'nın İnsanları ve Kültürü",
@@ -2144,7 +2150,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "southern-ethiopia-tailor-made-holiday",
     "tourName": "Güney Etiyopya, kişiye özel tatil",
@@ -2375,7 +2381,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "timkat-festival-in-ethiopia-holiday",
     "tourName": "Etyopya Timkat Festivali Turu",
@@ -2556,7 +2562,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "ultimate-ethiopia-18-day-tour",
     "tourName": "Efsane Etiyopya 18 Günlük Tur",
@@ -2867,7 +2873,7 @@
     "__trTranslated": true
   },
   {
-    "destination": "Ethiopia",
+    "destination": "Etiyopya",
     "mainPhoto": "",
     "id": "wildlife-and-cultural-tour-to-ethiopia",
     "tourName": "Etiyopya Yaban Hayatı ve Kültürel Turu",

@@ -1,6 +1,6 @@
 [
   {
-    "destination": "St Helena",
+    "destination": "Saint Helena",
     "mainPhoto": "",
     "id": "sail-across-the-south-atlantic-ocean",
     "tourName": "Güney Atlantik Okyanusu'nda Yelken Açın",
@@ -80,13 +80,13 @@
     "routeCoordinates": [
       {
         "name": "İstanbul",
-        "country": "Türkiye",
-        "lat": 41.015137,
-        "lng": 28.97953
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
       },
       {
         "name": "Cape Town",
-        "country": "Güney Afrika",
+        "country": "South Africa",
         "lat": -33.922497,
         "lng": 18.420296
       },
@@ -95,12 +95,18 @@
         "country": "Namibia",
         "lat": -26.650009,
         "lng": 15.157266
+      },
+      {
+        "name": "St Helena",
+        "country": "St Helena",
+        "lat": 38.505261,
+        "lng": -122.470303
       }
     ],
     "__trTranslated": true
   },
   {
-    "destination": "St Helena",
+    "destination": "Saint Helena",
     "mainPhoto": "",
     "id": "saint-helena-nature-and-culture-tour",
     "tourName": "Saint Helena doğa ve kültür turu",
@@ -188,10 +194,60 @@
         "country": "Saint Helena"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Saint Helena",
+        "country": "Saint Helena",
+        "lat": 38.505261,
+        "lng": -122.470303
+      },
+      {
+        "name": "Jamestown",
+        "country": "Saint Helena",
+        "lat": -15.928977,
+        "lng": -5.700779
+      },
+      {
+        "name": "Deadwood Plain",
+        "country": "Saint Helena",
+        "lat": -15.940643,
+        "lng": -5.689076
+      },
+      {
+        "name": "Plantation House",
+        "country": "Saint Helena",
+        "lat": 38.505261,
+        "lng": -122.470303
+      },
+      {
+        "name": "Museum of Saint Helena",
+        "country": "Saint Helena",
+        "lat": 38.505261,
+        "lng": -122.470303
+      },
+      {
+        "name": "St James Church",
+        "country": "Saint Helena",
+        "lat": 42.847745,
+        "lng": -8.632422
+      },
+      {
+        "name": "Longwood House",
+        "country": "Saint Helena",
+        "lat": 38.505261,
+        "lng": -122.470303
+      }
+    ]
   },
   {
-    "destination": "St Helena",
+    "destination": "Saint Helena",
     "mainPhoto": "",
     "id": "st-helena-tour-small-group",
     "tourName": "Saint Helena Turu, Küçük Grup",
@@ -309,6 +365,80 @@
         "country": "Saint Helena"
       }
     ],
-    "__trTranslated": true
+    "__trTranslated": true,
+    "routeCoordinates": [
+      {
+        "name": "İstanbul",
+        "country": "Turkey",
+        "lat": 41.009043,
+        "lng": 28.9661
+      },
+      {
+        "name": "Saint Helena",
+        "country": "Saint Helena",
+        "lat": 38.505261,
+        "lng": -122.470303
+      },
+      {
+        "name": "Jamestown",
+        "country": "Saint Helena",
+        "lat": -15.928977,
+        "lng": -5.700779
+      },
+      {
+        "name": "Deadwood Plain",
+        "country": "Saint Helena",
+        "lat": -15.940643,
+        "lng": -5.689076
+      },
+      {
+        "name": "Flagg Staff",
+        "country": "Saint Helena",
+        "lat": 38.505261,
+        "lng": -122.470303
+      },
+      {
+        "name": "Levelwood",
+        "country": "Saint Helena",
+        "lat": -15.974313,
+        "lng": -5.680579
+      },
+      {
+        "name": "Plantation House",
+        "country": "Saint Helena",
+        "lat": 38.505261,
+        "lng": -122.470303
+      },
+      {
+        "name": "High Knoll Fort",
+        "country": "Saint Helena",
+        "lat": 38.505261,
+        "lng": -122.470303
+      },
+      {
+        "name": "Longwood House",
+        "country": "Saint Helena",
+        "lat": 38.505261,
+        "lng": -122.470303
+      },
+      {
+        "name": "Millennium Forest",
+        "country": "Saint Helena",
+        "lat": 38.505261,
+        "lng": -122.470303
+      },
+      {
+        "name": "Blue Point",
+        "country": "Saint Helena",
+        "lat": 38.505261,
+        "lng": -122.470303
+      },
+      {
+        "name": "Sandy Bay",
+        "country": "Saint Helena",
+        "lat": -15.976458,
+        "lng": -5.709664
+      }
+    ]
   }
 ]
