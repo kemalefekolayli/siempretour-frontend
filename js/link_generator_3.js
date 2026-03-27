@@ -9,10 +9,11 @@ function generateBookingUrl() {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
+    const url = generateBookingUrl();
 
     const bookingBtn = document.getElementById("bookingBtn");
-    if (!bookingBtn) return;
+    if (bookingBtn) bookingBtn.href = url;
 
-    bookingBtn.href = generateBookingUrl();
-
+    const mobileBookingBtn = document.getElementById("mobileBookingBtn");
+    if (mobileBookingBtn) mobileBookingBtn.href = url;
 });

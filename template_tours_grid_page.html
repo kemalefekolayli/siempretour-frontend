@@ -23,6 +23,7 @@
 
 
     <link rel="stylesheet" href="fonts/line-icons.css" type="text/css">
+    <link rel="stylesheet" href="css/chat-widget.css">
 </head>
 
 <body class="home-thh">
@@ -418,10 +419,14 @@
                                         <li><a href="#" data-mega-tab="gt" role="menuitem" tabindex="-1">Gemi
                                                 Turları</a>
                                             <ul class="mega-list mega-list--grid" data-mega-content="gt">
-                                                <li><a href="cruise-grid.html">Avustralya</a></li>
-                                                <li><a href="cruise-grid.html">Avrupa</a></li>
-                                                <li><a href="cruise-grid.html">Asya</a></li>
-                                                <li><a href="cruise-grid.html">Polar</a></li>
+                                                <li><a href="template_tours_grid_page.html" data-country="Alaska" data-category="Ship/Cruise">Alaska</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Antarctica" data-category="Ship/Cruise">Antarktika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Arctic Cruises" data-category="Ship/Cruise">Arktik</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Australia" data-category="Ship/Cruise">Avustralya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Brazil" data-category="Ship/Cruise">Brezilya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Egypt" data-category="Ship/Cruise">Mısır</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Norway" data-category="Ship/Cruise">Norveç</a></li>
+                          <li><a href="cruise-grid.html">Tüm Gemi Turları</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -1316,29 +1321,31 @@
                                                 <h3 class="">Kategoriler</h3>
                                                 <ul class="sidebar-category1">
                                                     <li><input type="checkbox" value="Luxury"> Lüx <span
-                                                            class="float-end count">92</span>   
+                                                            class="float-end count">0</span>
                                                     </li>
                                                     <li><input type="checkbox" value="Safari"> Safari <span
-                                                            class="float-end count">22</span>
+                                                            class="float-end count">0</span>
                                                     </li>
                                                     <li><input type="checkbox" value="Ship/Cruise"> Gemi/Kruz <span
-                                                            class="float-end count">35</span></li>
+                                                            class="float-end count">0</span></li>
                                                     <li><input type="checkbox" value="Adventure"> Macera <span
-                                                            class="float-end count">41</span>
+                                                            class="float-end count">0</span>
                                                     </li>
                                                     <li><input type="checkbox" value="Polar"> Polar <span
-                                                            class="float-end count">11</span></li>
+                                                            class="float-end count">0</span></li>
                                                     <li><input type="checkbox" value="Family"> Aile <span
-                                                            class="float-end count">61</span></li>
+                                                            class="float-end count">0</span></li>
                                                     <li><input type="checkbox" value="Yoga&Wellness"> Yoga ve Wellness <span
-                                                            class="float-end count">18</span></li>
-                                                    <li><input type="checkbox" value="Horse Riding"> Binicilik ve Doğa <span class="float-end count">88</span>
+                                                            class="float-end count">0</span></li>
+                                                    <li><input type="checkbox" value="Horse Riding"> Binicilik ve Doğa <span class="float-end count">0</span>
                                                     </li>
-                                                    <li><input type="checkbox" value="Diving"> Dalış <span class="float-end count">88</span>
+                                                    <li><input type="checkbox" value="Diving"> Dalış <span class="float-end count">0</span>
                                                     </li>
-                                                    <li><input type="checkbox" value="Honeymoon"> Balayı <span class="float-end count">88</span>
+                                                    <li><input type="checkbox" value="Honeymoon"> Balayı <span class="float-end count">0</span>
                                                     </li>
-                                                    <li><input type="checkbox" value="Culture"> Kültür <span class="float-end count">88</span>
+                                                    <li><input type="checkbox" value="Culture"> Kültür <span class="float-end count">0</span>
+                                                    </li>
+                                                    <li><input type="checkbox" value="Historical"> Tarihi <span class="float-end count">0</span>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -1975,46 +1982,7 @@
             </div>
         </div>
 
-        <div class="footer-payment">
-            <div class="container">
-                <div class="row footer-pay align-items-center justify-content-between text-lg-start text-center">
-                    <div class="col-lg-8 footer-payment-nav mb-4">
-                        <ul class="">
-                            <li class="me-2">Desteklediğimiz Ödeme Yöntemleri:</li>
-                            <li class="me-2"><i class="fab fa-cc-mastercard fs-4"></i></li>
-                            <li class="me-2"><i class="fab fa-cc-paypal fs-4"></i></li>
-                            <li class="me-2"><i class="fab fa-cc-stripe fs-4"></i></li>
-                            <li class="me-2"><i class="fab fa-cc-visa fs-4"></i></li>
-                            <li class="me-2"><i class="fab fa-cc-discover fs-4"></i></li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-4 footer-payment-nav mb-4">
-                        <ul class="d-flex align-items-center">
-                            <li class="me-2 w-75">
-                                <select class="niceSelect rounded">
-                                    <option>Türkçe</option>
-                                    <option>English</option>
-                                    <option>Russian</option>
-                                    <option>Japanese</option>
-                                    <option>Korean</option>
-                                </select>
-                            </li>
-                            <li class="w-25">
-                                <select class="niceSelect rounded">
-                                    <option>$ USD</option>
-                                    <option>₺ TRY</option>
-                                    <option>$ YEN</option>
-                                    <option>$ IN</option>
-                                    <option>$ NP</option>
-                                </select>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="footer-copyright">
+<div class="footer-copyright">
             <div class="container">
                 <div class="copyright-inner rounded p-3 d-md-flex align-items-center justify-content-center">
                     <div class="copyright-text">
@@ -2216,6 +2184,9 @@
 
 
     <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script src="js/lang-detect.js"></script>
+    <script src="js/country-names-tr.js"></script>
+    <script src="js/api-service.js"></script>
     <script src="js/template_tour_grid_filter.js"></script>
     <script src="js/link_generator_2.js"></script>
     <script src="js/template_tours_grid_page.js"></script>
@@ -2225,6 +2196,7 @@
     <script src="js/template_tour_grid_page_5.js"></script>
     <script src="js/template_tour_grid_page_6.js"></script>
 
+    <script src="js/chat-widget.js"></script>
 </body>
 
 </html>

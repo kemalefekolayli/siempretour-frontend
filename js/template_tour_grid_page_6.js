@@ -44,20 +44,13 @@ async function renderTourPagePhotos() {
   ================================ */
   if (usedImages.length < 4) {
     try {
-      const tourRes = await fetch(
-        `data/big_siempre_tour_tours_tr/${_countrySlug}/tours.json`,  
-        { cache: "no-store" }
-      );
+      const tours = await ApiService.getToursByDestination(_countrySlug, 'tr');
+      const tour = tours?.[0];
 
-      if (tourRes.ok) {
-        const tours = await tourRes.json();
-        const tour = tours?.[0];
-
-        if (tour) {
-          ["image1", "image2", "image3", "image4"].forEach(key => {
-            if (tour[key]) usedImages.push(tour[key]);
-          });
-        }
+      if (tour) {
+        ["image1", "image2", "image3", "image4"].forEach(key => {
+          if (tour[key]) usedImages.push(tour[key]);
+        });
       }
     } catch (e) {
       console.error("Tour fallback da okunamadı:", e);

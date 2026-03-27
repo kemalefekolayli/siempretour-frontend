@@ -98,12 +98,8 @@ document.addEventListener('DOMContentLoaded', function () {
     centeredSidebar.style.transform = '';
   }
 
-  function buildToursUrl(country) {
-    return `./data/big_siempre_tour_tours_tr/${country}/tours.json`;
-  }
-
   // ===============================
-  // FETCH TOURS
+  // FETCH TOURS (from Backend API)
   // ===============================
 
   async function fetchTours() {
@@ -111,13 +107,10 @@ document.addEventListener('DOMContentLoaded', function () {
     if (!countryParam) return;
 
     const country = decodeURIComponent(countryParam);
-    const url = buildToursUrl(country);
+    const lang = typeof getActiveLang === 'function' ? getActiveLang() : (new URLSearchParams(window.location.search).get('lang') || 'tr');
 
     try {
-      const res = await fetch(url, { cache: "no-store" });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-
-      const tours = await res.json();
+      const tours = await ApiService.getToursByDestination(country, lang);
       allTours = Array.isArray(tours) ? tours : [];
 
       updateCategoryCounts();

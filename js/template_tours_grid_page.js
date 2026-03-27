@@ -4,7 +4,7 @@ async function loadTours() {
 
   const params = new URLSearchParams(window.location.search);
   const countryParam = params.get('country');
-  const categoryParam = params.get('category'); // 👈 YENİ
+  const categoryParam = params.get('category');
 
   if (!countryParam) {
     container.innerHTML =
@@ -12,34 +12,28 @@ async function loadTours() {
     return;
   }
 
-  // 🔑 URL parametresini decode et
   const country = decodeURIComponent(countryParam);
+  const countryTr = typeof countryNameTr === 'function' ? countryNameTr(country) : country;
+  const lang = typeof getActiveLang === 'function' ? getActiveLang() : (params.get('lang') || 'tr');
 
-  // 🔥 SADECE DATA SOURCE SEÇİMİ DEĞİŞİYOR
-  let toursUrl;
+  // Set headers immediately with Turkish name
+  const dest1 = document.getElementById('tour-tab');
+  if (dest1) dest1.innerHTML = `${countryTr} Genel Bakış`;
+  const dest2 = document.getElementById('overview-tab');
+  if (dest2) dest2.innerHTML = `${countryTr} Turları`;
+  const dest3 = document.getElementById('theHeaderOne');
+  if (dest3) dest3.innerHTML = countryTr;
+  const dest4 = document.getElementById('theHeaderTwo');
+  if (dest4) dest4.innerHTML = countryTr;
 
-  if (categoryParam === "Ship/Cruise") {
-    toursUrl = `./data/siempre_tour_ship_tours/${country}/tours.json`;
-  }
-  else if (categoryParam === "Safari") {
-    toursUrl = `./data/siempre_tour_safari_tours/${country}/tours.json`;
-  }
-  else {
-    toursUrl = `./data/big_siempre_tour_tours_tr/${country}/tours.json`;
-  }
+  // Pass category as-is — backend accepts both enum names and display names
+  const backendCategory = categoryParam || null;
 
   console.log("COUNTRY:", country);
   console.log("CATEGORY:", categoryParam || "ALL");
-  console.log("TOURS URL:", toursUrl);
 
   try {
-    const res = await fetch(toursUrl, { cache: "no-store" });
-
-    if (!res.ok) {
-      throw new Error(`HTTP ${res.status} → ${toursUrl}`);
-    }
-
-    const tours = await res.json();
+    const tours = await ApiService.getToursByDestination(country, lang, backendCategory);
 
     if (!Array.isArray(tours) || tours.length === 0) {
       container.innerHTML =
@@ -50,27 +44,14 @@ async function loadTours() {
     container.innerHTML = '';
 
     tours.forEach(tour => {
-      const destination = tour.destination || '';
       const image = tour.image1 || tour.mainPhoto || '';
       const alt = tour.imagealt || tour.tourName || 'Tour image';
       const days = tour.durationDays || '';
-      const price = tour.price || '';
       const title = tour.tourName || '';
       const places = tour.placesVisited || '';
+      const shipName = tour.shipName || '';
 
-      const dest1 = document.getElementById('tour-tab');
-      dest1.innerHTML = `${destination} Genel Bakış`;
-
-      const dest2 = document.getElementById('overview-tab');
-      dest2.innerHTML = `${destination} Turları`;
-
-      const dest3 = document.getElementById('theHeaderOne');
-      dest3.innerHTML = `${destination}`;
-
-      const dest4 = document.getElementById('theHeaderTwo');
-      dest4.innerHTML = `${destination}`;
-
-      const detailUrl = generateDetailUrl(tour.id);
+      const detailUrl = generateDetailUrl(tour.slug);
 
       const cardHtml = `
         <div class="tour-card col-lg-6 col-md-6 mb-4">
@@ -86,13 +67,13 @@ async function loadTours() {
                   <p class="mb-0">${days ? `${days} günlük tur` : ''}</p>
                 </div>
                 <div class="entry-price text-end">
-                  <p class="mb-0">${price}$</p>
                 </div>
               </div>
 
               <h5 class="mb-1">
                 <a href="${detailUrl}">${title}</a>
               </h5>
+              ${shipName ? `<p class="text-muted mb-1"><i class="fa fa-ship"></i> ${shipName}</p>` : ''}
 
               <p class="border-b pb-2 mb-2">
                 ${places}

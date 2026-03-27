@@ -771,6 +771,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 document.addEventListener("DOMContentLoaded", function () {
     const table = document.getElementById("havaTablosu");
+    if (!table) return;
     const rows = table.querySelectorAll("tbody tr");
 
     rows.forEach(row => {

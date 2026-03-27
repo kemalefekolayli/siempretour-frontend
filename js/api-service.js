@@ -74,4 +74,21 @@ class ApiService {
     static async getMyBookings() {
         return this.request('/bookings/me', 'GET', null, true);
     }
+
+    // Tours
+    static async getToursByDestination(destination, lang = 'tr', category = null) {
+        let endpoint = `/tours/by-destination?destination=${encodeURIComponent(destination)}&lang=${encodeURIComponent(lang)}`;
+        if (category) {
+            endpoint += `&category=${encodeURIComponent(category)}`;
+        }
+        return this.request(endpoint);
+    }
+
+    static async getTourBySlug(slug, lang = 'tr') {
+        return this.request(`/tours/by-slug/${encodeURIComponent(slug)}?lang=${encodeURIComponent(lang)}`);
+    }
+
+    static async filterTours(filterDto, page = 0, size = 50) {
+        return this.request(`/tours/filter?page=${page}&size=${size}`, 'POST', filterDto);
+    }
 }

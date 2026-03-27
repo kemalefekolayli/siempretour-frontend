@@ -1,0 +1,23 @@
+# Tour data (JSON tours, country data, Python scripts)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.claude/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Source maps
+*.css.map
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*

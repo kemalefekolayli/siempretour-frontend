@@ -120,15 +120,25 @@ document.addEventListener("DOMContentLoaded", async () => {
         const datas = await fetchCountryDatas();
         const hasOverview = datas.some(d => d.type === "overview");
 
-        /* ❌ overview yok → tab tamamen kaldır */
+        /* ❌ overview yok → tab kaldır, turlar tabını aktif yap */
         if (!hasOverview) {
-            overviewTabBtn.remove();
+            switchToToursTab();
             return;
         }
     } catch (err) {
         console.error("Overview kontrol hatası:", err);
-        overviewTabBtn.remove();
+        switchToToursTab();
         return;
+    }
+
+    function switchToToursTab() {
+        overviewTabBtn.remove();
+        const overviewPane = document.getElementById("tour-tab-pane");
+        if (overviewPane) overviewPane.classList.remove("show", "active");
+        const toursBtn = document.getElementById("overview-tab");
+        if (toursBtn) toursBtn.classList.add("active");
+        const toursPane = document.getElementById("overview-tab-pane");
+        if (toursPane) toursPane.classList.add("show", "active");
     }
 
     /* ✅ Tab’a ilk açılışta render */

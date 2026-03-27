@@ -37,7 +37,8 @@ function renderTour(tour) {
     renderRouteMap(tour.routeCoordinates);
 }
 
-  // document.getElementById('currentDestination').textContent = tour.destination || "";
+  const destinationTr = typeof countryNameTr === 'function' ? countryNameTr(tour.destination || '') : (tour.destination || '');
+  document.getElementById('currentDestination').textContent = destinationTr;
   document.getElementById('tourTitle').textContent = tour.tourName || "";
   document.getElementById('tourTitle2').textContent = tour.tourName || "";
 
@@ -126,41 +127,26 @@ function initTourSliders() {
   $thumbs.slick('setPosition');
 }
 
-/* 🔥 FINAL LOADER */
-async function loadTourFromJson() {
-  const id = getQueryParam("id");
-  const country = getQueryParam("country");
+/* 🔥 FINAL LOADER — Backend API */
+async function loadTour() {
+  const slug = getQueryParam("id"); // "id" param is actually the slug
+  const lang = typeof getActiveLang === 'function' ? getActiveLang() : (getQueryParam("lang") || "tr");
 
-  if (!id || !country) {
-    console.error("id veya country eksik");
+  if (!slug) {
+    console.error("id (slug) eksik");
     return;
   }
 
-  const dataRoot = "./data/big_siempre_tour_tours_tr";
-  const url = `${dataRoot}/${country}/tours.json`;
-
   try {
-    const res = await fetch(url);
-    if (!res.ok) {
-      throw new Error("Tours.json yüklenemedi");
-    }
-
-    const tours = await res.json();
-    if (!Array.isArray(tours)) {
-      throw new Error("Geçersiz JSON");
-    }
-
-    const tour = tours.find(t => String(t.id) === String(id));
+    const tour = await ApiService.getTourBySlug(slug, lang);
     if (!tour) {
-      console.error("Tur bulunamadı:", id);
+      console.error("Tur bulunamadı:", slug);
       return;
     }
-
     renderTour(tour);
-
   } catch (err) {
     console.error("Tur yüklenirken hata:", err);
   }
 }
 
-document.addEventListener("DOMContentLoaded", loadTourFromJson);
+document.addEventListener("DOMContentLoaded", loadTour);

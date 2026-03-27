@@ -22,7 +22,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"/>
 
     <link rel="stylesheet" href="fonts/line-icons.css" type="text/css">
- </head>
+     <link rel="stylesheet" href="css/chat-widget.css">
+</head>
 <body class="home-thh">
     <!-- Preloader -->
     <div id="preloader">
@@ -250,10 +251,14 @@
                     <li><a href="#" data-mega-tab="afs" role="menuitem" tabindex="-1">Afrikan Safari</a></li>
                     <li><a href="#" data-mega-tab="gt" role="menuitem" tabindex="-1">Gemi Turları</a>
                       <ul class="mega-list mega-list--grid" data-mega-content="gt">
-                          <li><a href="cruise-grid.html">Avustralya</a></li>
-                          <li><a href="cruise-grid.html">Avrupa</a></li>
-                          <li><a href="cruise-grid.html">Asya</a></li>
-                          <li><a href="cruise-grid.html">Polar</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Alaska" data-category="Ship/Cruise">Alaska</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Antarctica" data-category="Ship/Cruise">Antarktika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Arctic Cruises" data-category="Ship/Cruise">Arktik</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Australia" data-category="Ship/Cruise">Avustralya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Brazil" data-category="Ship/Cruise">Brezilya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Egypt" data-category="Ship/Cruise">Mısır</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Norway" data-category="Ship/Cruise">Norveç</a></li>
+                          <li><a href="cruise-grid.html">Tüm Gemi Turları</a></li>
                         </ul></li>
                   </ul>
                 </li>
@@ -1142,46 +1147,7 @@
             </div>
         </div>
 
-        <div class="footer-payment">
-            <div class="container">
-                <div class="row footer-pay align-items-center justify-content-between text-lg-start text-center">
-                    <div class="col-lg-8 footer-payment-nav mb-4">
-                        <ul class="">
-                            <li class="me-2">Desteklediğimiz Ödeme Yöntemleri:</li>
-                            <li class="me-2"><i class="fab fa-cc-mastercard fs-4"></i></li>
-                            <li class="me-2"><i class="fab fa-cc-paypal fs-4"></i></li>
-                            <li class="me-2"><i class="fab fa-cc-stripe fs-4"></i></li>
-                            <li class="me-2"><i class="fab fa-cc-visa fs-4"></i></li>
-                            <li class="me-2"><i class="fab fa-cc-discover fs-4"></i></li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-4 footer-payment-nav mb-4">
-                        <ul class="d-flex align-items-center">
-                            <li class="me-2 w-75">
-                                <select class="niceSelect rounded">
-                                    <option>Türkçe</option>                                
-                                    <option>English</option>
-                                    <option>Russian</option>
-                                    <option>Japanese</option>
-                                    <option>Korean</option>
-                                </select>
-                            </li>
-                            <li class="w-25">
-                                <select class="niceSelect rounded">
-                                    <option>$ USD</option>
-                                    <option>₺ TRY</option>
-                                    <option>$ YEN</option>
-                                    <option>$ IN</option>
-                                    <option>$ NP</option>
-                                </select>
-                            </li>
-                        </ul>
-                    </div>
-                </div>    
-            </div>
-        </div>
-
-        <div class="footer-copyright">
+<div class="footer-copyright">
             <div class="container">
                 <div class="copyright-inner rounded p-3 d-md-flex align-items-center justify-content-center">
                     <div class="copyright-text">
@@ -1334,6 +1300,7 @@
     <script src="js/fontawesome.min.js"></script>
     <!-- <script src="js/particles.js"></script>
     <script src="js/particlerun.js"></script> -->
+    <script src="js/lang-detect.js"></script>
     <script src="js/plugin.js"></script>
     <script src="js/main.js"></script>
     <script src="js/custom-accordian.js"></script>
@@ -1353,5 +1320,6 @@ function googleTranslateElementInit() {
 </script>
 
 <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script src="js/chat-widget.js"></script>
 </body>
 </html>

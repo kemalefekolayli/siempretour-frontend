@@ -66,16 +66,13 @@ document.addEventListener("DOMContentLoaded", function () {
     // Extract tour details for auto-creation
     const tourNameRaw = document.getElementById('tour-name')?.innerText?.trim();
     const tourDestinationRaw = document.getElementById('tour-destination')?.innerText?.trim();
-    const tourPriceRaw = document.getElementById('tour-price')?.innerText?.replace('$', '')?.replace(',', '')?.trim();
     const tourDurationRaw = document.getElementById('tour-duration')?.innerText?.replace(' Gün', '')?.trim();
 
     const bookingData = {
       tourSlug: tourSlug,
       tourId: null,
-      // Auto-creation fields
       tourName: tourNameRaw,
       tourDestination: tourDestinationRaw,
-      tourPrice: tourPriceRaw ? parseFloat(tourPriceRaw) : 0,
       tourDuration: tourDurationRaw ? parseInt(tourDurationRaw, 10) : 1,
 
       numberOfPeople: personCount,
@@ -166,47 +163,31 @@ function getQueryParam(name) {
 }
 
 function renderTour(tour) {
-  const tourUrl = `template_tour_page.html?id=${tour.id}&country=${tour.destination}`;
+  const tourUrl = `template_tour_page.html?id=${tour.slug}&country=${tour.destination}`;
   document.getElementById('tour-main-photo').innerHTML = `<a href="${tourUrl}" style="background-image: url(${tour.mainPhoto})"></a>
                         <div class="color-overlay"></div>`;
-  document.getElementById('tour-name').innerHTML = `<a href="${tourUrl}">${tour.tourName}</a>`;
-  document.getElementById('tour-destination').innerHTML = `<i class="icon-location-pin"></i>${tour.destination}`;
+  document.getElementById('tour-name').innerHTML = `<a href="${tourUrl}">${tour.tourName || tour.name}</a>`;
+  const destTr = typeof countryNameTr === 'function' ? countryNameTr(tour.destination) : tour.destination;
+  document.getElementById('tour-destination').innerHTML = `<i class="icon-location-pin"></i>${destTr}`;
   document.getElementById('tour-duration').innerHTML = `${tour.durationDays} Gün`;
-  document.getElementById('tour-price').innerHTML = `$${tour.price}`;
-  document.getElementById('tour-price-big').innerHTML = `$${tour.price}`;
 }
 
 async function loadTourFromJson() {
-  const id = getQueryParam("id");
-  const country = getQueryParam("country");
+  const slug = getQueryParam("id"); // "id" param is actually the slug
+  const lang = typeof getActiveLang === 'function' ? getActiveLang() : (getQueryParam("lang") || "tr");
 
-  if (!id || !country) {
-    console.error("id veya country eksik");
+  if (!slug) {
+    console.error("id (slug) eksik");
     return;
   }
 
-  const dataRoot = "./data/big_siempre_tour_tours";
-  const url = `${dataRoot}/${country}/tours.json`;
-
   try {
-    const res = await fetch(url);
-    if (!res.ok) {
-      throw new Error("Tours.json yüklenemedi");
-    }
-
-    const tours = await res.json();
-    if (!Array.isArray(tours)) {
-      throw new Error("Geçersiz JSON");
-    }
-
-    const tour = tours.find(t => String(t.id) === String(id));
+    const tour = await ApiService.getTourBySlug(slug, lang);
     if (!tour) {
-      console.error("Tur bulunamadı:", id);
+      console.error("Tur bulunamadı:", slug);
       return;
     }
-
     renderTour(tour);
-
   } catch (err) {
     console.error("Tur yüklenirken hata:", err);
   }
