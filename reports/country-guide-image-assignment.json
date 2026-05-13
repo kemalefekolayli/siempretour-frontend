@@ -1,0 +1,2270 @@
+{
+  "summary": {
+    "mode": "APPLY",
+    "countriesChecked": 197,
+    "countriesUpdated": 147,
+    "imagesAssigned": 663,
+    "skipped": 50,
+    "reportPath": "C:\\Users\\kemal\\Desktop\\siempreFRONT\\siempretour\\reports\\country-guide-image-assignment.json"
+  },
+  "report": [
+    {
+      "country": "Alaska",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Albania",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Albania",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Albania/02/02.webp (2543x1059, 297180 bytes)",
+        "images/tour-photos/Albania/01/06.webp (2540x1058, 480714 bytes)",
+        "images/tour-photos/Albania/02/03.webp (2236x932, 417008 bytes)",
+        "images/tour-photos/Albania/01/05.webp (2236x931, 344082 bytes)",
+        "images/tour-photos/Albania/02/14.webp (2235x931, 276896 bytes)"
+      ]
+    },
+    {
+      "country": "Algeria",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Algeria",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Algeria/03/02.webp (1024x444, 197670 bytes)",
+        "images/tour-photos/Algeria/05/03.webp (1024x444, 174918 bytes)",
+        "images/tour-photos/Algeria/01/01.webp (1024x444, 148188 bytes)",
+        "images/tour-photos/Algeria/07/03.webp (1024x444, 144022 bytes)",
+        "images/tour-photos/Algeria/02/02.webp (1024x444, 140688 bytes)"
+      ]
+    },
+    {
+      "country": "Andorra",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Andorra",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Andorra/02/06.webp (1360x590, 132566 bytes)",
+        "images/tour-photos/Andorra/02/03.webp (1359x590, 91564 bytes)",
+        "images/tour-photos/Andorra/01/03.webp (675x293, 85510 bytes)",
+        "images/tour-photos/Andorra/02/05.webp (675x293, 82862 bytes)",
+        "images/tour-photos/Andorra/02/01.webp (675x293, 76074 bytes)"
+      ]
+    },
+    {
+      "country": "Angola",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Angola",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Angola/01/05.webp (1024x444, 115067 bytes)",
+        "images/tour-photos/Angola/01/02.webp (1024x444, 114822 bytes)",
+        "images/tour-photos/Angola/02/01.webp (1024x444, 111348 bytes)",
+        "images/tour-photos/Angola/01/06.webp (1024x444, 110821 bytes)",
+        "images/tour-photos/Angola/03/04.webp (1024x444, 103957 bytes)"
+      ]
+    },
+    {
+      "country": "Antarctica",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Antarctica",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Antarctica/08/01.webp (1024x444, 127835 bytes)",
+        "images/tour-photos/Antarctica/08/04.webp (1024x444, 118080 bytes)",
+        "images/tour-photos/Antarctica/02/01.webp (1024x444, 113607 bytes)",
+        "images/tour-photos/Antarctica/08/03.webp (1024x444, 111620 bytes)",
+        "images/tour-photos/Antarctica/03/06.webp (1024x444, 111018 bytes)"
+      ]
+    },
+    {
+      "country": "Arctic Cruises",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Arctic Cruises",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Arctic Cruises/02/06.webp (1024x444, 101320 bytes)",
+        "images/tour-photos/Arctic Cruises/05/02.webp (1024x444, 89377 bytes)",
+        "images/tour-photos/Arctic Cruises/01/06.webp (1024x444, 83142 bytes)",
+        "images/tour-photos/Arctic Cruises/03/05.webp (1024x444, 80591 bytes)",
+        "images/tour-photos/Arctic Cruises/06/03.webp (1024x444, 79512 bytes)"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Argentina",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Argentina/96/04.webp (1068x712, 128192 bytes)",
+        "images/tour-photos/Argentina/96/02.webp (1068x601, 76856 bytes)",
+        "images/tour-photos/Argentina/96/05.webp (1068x561, 127128 bytes)",
+        "images/tour-photos/Argentina/96/06.webp (1068x561, 89938 bytes)",
+        "images/tour-photos/Argentina/38/04.webp (1024x444, 193749 bytes)"
+      ]
+    },
+    {
+      "country": "Armenia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Armenia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Armenia/01/06.webp (1024x444, 128420 bytes)",
+        "images/tour-photos/Armenia/05/03.webp (1024x444, 126208 bytes)",
+        "images/tour-photos/Armenia/04/03.webp (1024x444, 124645 bytes)",
+        "images/tour-photos/Armenia/02/03.jpg.webp (1024x444, 120583 bytes)",
+        "images/tour-photos/Armenia/01/03.webp (1024x444, 119493 bytes)"
+      ]
+    },
+    {
+      "country": "Asia",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Australia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Australia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Australia/06/01.webp (1024x444, 107751 bytes)",
+        "images/tour-photos/Australia/04/04.webp (1024x444, 101751 bytes)",
+        "images/tour-photos/Australia/02/04.webp (1024x444, 94817 bytes)",
+        "images/tour-photos/Australia/02/06.webp (1024x444, 94638 bytes)",
+        "images/tour-photos/Australia/01/01.webp (1024x444, 90119 bytes)"
+      ]
+    },
+    {
+      "country": "Austria",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Austria",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Austria/02/02.webp (2235x931, 526628 bytes)",
+        "images/tour-photos/Austria/03/04.webp (2235x931, 521906 bytes)",
+        "images/tour-photos/Austria/04/02.webp (2235x931, 440938 bytes)",
+        "images/tour-photos/Austria/04/05.webp (2235x931, 440212 bytes)",
+        "images/tour-photos/Austria/01/06.webp (2235x931, 415248 bytes)"
+      ]
+    },
+    {
+      "country": "Azerbaijan",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Azerbaijan",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Azerbaijan/01/01.webp (1024x444, 138077 bytes)",
+        "images/tour-photos/Azerbaijan/01/04.webp (1024x444, 106765 bytes)",
+        "images/tour-photos/Azerbaijan/04/02.webp (1024x444, 102771 bytes)",
+        "images/tour-photos/Azerbaijan/05/01.webp (1024x444, 101958 bytes)",
+        "images/tour-photos/Azerbaijan/01/06.webp (1024x444, 99105 bytes)"
+      ]
+    },
+    {
+      "country": "Azores",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Bahamas",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Bahamas",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Bahamas/07/04.webp (1024x444, 114506 bytes)",
+        "images/tour-photos/Bahamas/02/06.webp (1024x444, 113153 bytes)",
+        "images/tour-photos/Bahamas/06/02.webp (1024x444, 108373 bytes)",
+        "images/tour-photos/Bahamas/05/06.webp (1024x444, 107485 bytes)",
+        "images/tour-photos/Bahamas/07/01.webp (1024x444, 104695 bytes)"
+      ]
+    },
+    {
+      "country": "Bangladesh",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Bangladesh",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Bangladesh/03/03.webp (1024x444, 197695 bytes)",
+        "images/tour-photos/Bangladesh/07/06.webp (1024x444, 125526 bytes)",
+        "images/tour-photos/Bangladesh/04/02.webp (1024x444, 123618 bytes)",
+        "images/tour-photos/Bangladesh/01/05.webp (1024x444, 116931 bytes)",
+        "images/tour-photos/Bangladesh/06/06.webp (1024x444, 109842 bytes)"
+      ]
+    },
+    {
+      "country": "Belize",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Belize",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Belize/21/02.webp (1024x444, 160832 bytes)",
+        "images/tour-photos/Belize/42/04.webp (1024x444, 160832 bytes)",
+        "images/tour-photos/Belize/20/01.webp (1024x444, 150725 bytes)",
+        "images/tour-photos/Belize/40/02.webp (1024x444, 143919 bytes)",
+        "images/tour-photos/Belize/44/06.webp (1024x444, 143233 bytes)"
+      ]
+    },
+    {
+      "country": "Benin",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Benin",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Benin/07/06.webp (1024x444, 142544 bytes)",
+        "images/tour-photos/Benin/06/04.webp (1024x444, 142295 bytes)",
+        "images/tour-photos/Benin/04/05.webp (1024x444, 130885 bytes)",
+        "images/tour-photos/Benin/09/05.webp (1024x444, 122681 bytes)",
+        "images/tour-photos/Benin/09/01.webp (1024x444, 121767 bytes)"
+      ]
+    },
+    {
+      "country": "Bermuda",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Bhutan",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Bhutan",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Bhutan/03/01.webp (1024x444, 125642 bytes)",
+        "images/tour-photos/Bhutan/05/06.webp (1024x444, 125600 bytes)",
+        "images/tour-photos/Bhutan/02/04.webp (1024x444, 123515 bytes)",
+        "images/tour-photos/Bhutan/04/03.webp (1024x444, 122990 bytes)",
+        "images/tour-photos/Bhutan/04/06.webp (1024x444, 122851 bytes)"
+      ]
+    },
+    {
+      "country": "Bolivia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Bolivia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Bolivia/13/04.webp (1024x444, 1048845 bytes)",
+        "images/tour-photos/Bolivia/26/03.webp (1024x444, 171079 bytes)",
+        "images/tour-photos/Bolivia/22/04.webp (1024x444, 166076 bytes)",
+        "images/tour-photos/Bolivia/14/02.webp (1024x444, 161528 bytes)",
+        "images/tour-photos/Bolivia/37/06.webp (1024x444, 151078 bytes)"
+      ]
+    },
+    {
+      "country": "Borneo",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Borneo",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Borneo/03/02.webp (1024x444, 140425 bytes)",
+        "images/tour-photos/Borneo/01/04.webp (1024x444, 130516 bytes)",
+        "images/tour-photos/Borneo/04/02.webp (1024x444, 117375 bytes)",
+        "images/tour-photos/Borneo/08/06.webp (1024x444, 116459 bytes)",
+        "images/tour-photos/Borneo/07/04.webp (1024x444, 115251 bytes)"
+      ]
+    },
+    {
+      "country": "Bosnia Herzegovina",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Bosnia Herzegovina",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Bosnia Herzegovina/05/02.webp (1360x590, 314062 bytes)",
+        "images/tour-photos/Bosnia Herzegovina/04/02.webp (1360x590, 282554 bytes)",
+        "images/tour-photos/Bosnia Herzegovina/04/06.webp (1360x590, 282112 bytes)",
+        "images/tour-photos/Bosnia Herzegovina/03/02.webp (1360x590, 269722 bytes)",
+        "images/tour-photos/Bosnia Herzegovina/03/06.webp (1360x590, 265446 bytes)"
+      ]
+    },
+    {
+      "country": "Botswana",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Botswana",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Botswana/04/06.webp (1024x444, 163042 bytes)",
+        "images/tour-photos/Botswana/14/03.webp (1024x444, 162803 bytes)",
+        "images/tour-photos/Botswana/16/04.webp (1024x444, 160066 bytes)",
+        "images/tour-photos/Botswana/05/01.webp (1024x444, 148086 bytes)",
+        "images/tour-photos/Botswana/04/01.webp (1024x444, 142727 bytes)"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Brazil",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Brazil/05/03.webp (1024x444, 148686 bytes)",
+        "images/tour-photos/Brazil/03/04.webp (1024x444, 132080 bytes)",
+        "images/tour-photos/Brazil/04/04.webp (1024x444, 128776 bytes)",
+        "images/tour-photos/Brazil/08/03.webp (1024x444, 123735 bytes)",
+        "images/tour-photos/Brazil/07/01.webp (1024x444, 121461 bytes)"
+      ]
+    },
+    {
+      "country": "Brunei",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Brunei",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Brunei/04/03.webp (1024x444, 134048 bytes)",
+        "images/tour-photos/Brunei/06/02.webp (1024x444, 104860 bytes)",
+        "images/tour-photos/Brunei/02/04.webp (1024x444, 104336 bytes)",
+        "images/tour-photos/Brunei/03/01.webp (1024x444, 97151 bytes)",
+        "images/tour-photos/Brunei/05/06.webp (1024x444, 96122 bytes)"
+      ]
+    },
+    {
+      "country": "Bulgaria",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Bulgaria",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Bulgaria/01/04.webp (2235x930, 172986 bytes)",
+        "images/tour-photos/Bulgaria/03/05.webp (2204x918, 246502 bytes)",
+        "images/tour-photos/Bulgaria/01/03.webp (2107x878, 158502 bytes)",
+        "images/tour-photos/Bulgaria/03/02.webp (1714x714, 110920 bytes)",
+        "images/tour-photos/Bulgaria/03/01.webp (1646x685, 71256 bytes)"
+      ]
+    },
+    {
+      "country": "Burkina Faso",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Burkina Faso",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Burkina Faso/01/04.webp (1024x444, 144464 bytes)",
+        "images/tour-photos/Burkina Faso/01/01.webp (1024x444, 140164 bytes)",
+        "images/tour-photos/Burkina Faso/01/02.webp (1024x444, 130422 bytes)",
+        "images/tour-photos/Burkina Faso/01/06.webp (1024x444, 104708 bytes)",
+        "images/tour-photos/Burkina Faso/01/03.webp (1024x444, 97594 bytes)"
+      ]
+    },
+    {
+      "country": "Burma",
+      "status": "updated",
+      "changed": 2,
+      "photoFolder": "Burma",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Burma/01/03.webp (1024x444, 112963 bytes)",
+        "images/tour-photos/Burma/02/04.webp (1024x444, 109609 bytes)",
+        "images/tour-photos/Burma/05/03.webp (1024x444, 103211 bytes)",
+        "images/tour-photos/Burma/01/04.webp (1024x444, 102870 bytes)",
+        "images/tour-photos/Burma/05/01.webp (1024x444, 100321 bytes)"
+      ]
+    },
+    {
+      "country": "Burundi",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Burundi",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Burundi/01/03.webp (1024x444, 118098 bytes)",
+        "images/tour-photos/Burundi/01/05.webp (1024x444, 109181 bytes)",
+        "images/tour-photos/Burundi/01/01.webp (1024x444, 73330 bytes)",
+        "images/tour-photos/Burundi/01/02.webp (1024x444, 69140 bytes)",
+        "images/tour-photos/Burundi/01/04.webp (1024x444, 64472 bytes)"
+      ]
+    },
+    {
+      "country": "Cambodia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Cambodia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Cambodia/02/04.webp (1024x444, 163936 bytes)",
+        "images/tour-photos/Cambodia/03/05.webp (1024x444, 151321 bytes)",
+        "images/tour-photos/Cambodia/02/06.webp (1024x444, 145041 bytes)",
+        "images/tour-photos/Cambodia/01/04.webp (1024x444, 136556 bytes)",
+        "images/tour-photos/Cambodia/04/05.webp (1024x444, 133338 bytes)"
+      ]
+    },
+    {
+      "country": "Cameroon",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Cameroon",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Cameroon/03/02.webp (1024x444, 139310 bytes)",
+        "images/tour-photos/Cameroon/04/02.webp (1024x444, 132659 bytes)",
+        "images/tour-photos/Cameroon/01/03.webp (1024x444, 126040 bytes)",
+        "images/tour-photos/Cameroon/05/02.webp (1024x444, 125497 bytes)",
+        "images/tour-photos/Cameroon/03/01.webp (1024x444, 107663 bytes)"
+      ]
+    },
+    {
+      "country": "Canada",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Canary Islands",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Cape Verde Islands",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Central African Republic",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Central America",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Chad",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Chad",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Chad/02/01.webp (1024x444, 133064 bytes)",
+        "images/tour-photos/Chad/01/01.webp (1024x444, 125692 bytes)",
+        "images/tour-photos/Chad/01/02.webp (1024x444, 103913 bytes)",
+        "images/tour-photos/Chad/03/04.webp (1024x444, 100088 bytes)",
+        "images/tour-photos/Chad/01/06.webp (1024x444, 94617 bytes)"
+      ]
+    },
+    {
+      "country": "Channel Islands",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Channel Islands",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Channel Islands/02/03.webp (768x333, 84220 bytes)",
+        "images/tour-photos/Channel Islands/03/06.webp (768x333, 81878 bytes)",
+        "images/tour-photos/Channel Islands/03/01.webp (768x333, 65554 bytes)",
+        "images/tour-photos/Channel Islands/03/02.webp (768x333, 64626 bytes)",
+        "images/tour-photos/Channel Islands/03/03.webp (768x333, 53500 bytes)"
+      ]
+    },
+    {
+      "country": "Chile",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Chile",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Chile/16/03.webp (1024x444, 166385 bytes)",
+        "images/tour-photos/Chile/14/01.webp (1024x444, 165908 bytes)",
+        "images/tour-photos/Chile/50/01.webp (1024x444, 154177 bytes)",
+        "images/tour-photos/Chile/51/02.webp (1024x444, 154177 bytes)",
+        "images/tour-photos/Chile/38/02.webp (1024x444, 139806 bytes)"
+      ]
+    },
+    {
+      "country": "China",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "China",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/China/01/06.webp (1024x444, 123791 bytes)",
+        "images/tour-photos/China/03/01.webp (1024x444, 122927 bytes)",
+        "images/tour-photos/China/07/05.webp (1024x444, 114885 bytes)",
+        "images/tour-photos/China/03/06.webp (1024x444, 109301 bytes)",
+        "images/tour-photos/China/03/05.webp (1024x444, 108647 bytes)"
+      ]
+    },
+    {
+      "country": "Colombia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Colombia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Colombia/04/04.webp (1024x444, 128694 bytes)",
+        "images/tour-photos/Colombia/04/05.webp (1024x444, 125360 bytes)",
+        "images/tour-photos/Colombia/01/04.webp (1024x444, 114634 bytes)",
+        "images/tour-photos/Colombia/03/01.webp (1024x444, 108136 bytes)",
+        "images/tour-photos/Colombia/02/05.webp (1024x444, 106862 bytes)"
+      ]
+    },
+    {
+      "country": "Comoros",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Congo",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Congo",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Congo/01/01.webp (1024x444, 107176 bytes)",
+        "images/tour-photos/Congo/01/04.webp (1024x444, 103570 bytes)",
+        "images/tour-photos/Congo/01/02.webp (1024x444, 90668 bytes)",
+        "images/tour-photos/Congo/01/03.webp (1024x444, 86175 bytes)",
+        "images/tour-photos/Congo/01/05.webp (1024x444, 73577 bytes)"
+      ]
+    },
+    {
+      "country": "Costa Rica",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Costa Rica",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Costa Rica/15/imgi_252_Tortuguero.webp (1024x444, 167847 bytes)",
+        "images/tour-photos/Costa Rica/116/imgi_186_8abaff12-abab-4db9-9295-d325a50d81c6.webp (1024x444, 165609 bytes)",
+        "images/tour-photos/Costa Rica/19/imgi_242_98727463Master.webp (1024x444, 162400 bytes)",
+        "images/tour-photos/Costa Rica/116/imgi_185_98727463Master.webp (1024x444, 162400 bytes)",
+        "images/tour-photos/Costa Rica/03/imgi_200_P5150551.webp (1024x444, 161783 bytes)"
+      ]
+    },
+    {
+      "country": "Croatia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Croatia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Croatia/04/06.webp (2352x1020, 632816 bytes)",
+        "images/tour-photos/Croatia/02/unnamed (1).webp (2078x902, 378164 bytes)",
+        "images/tour-photos/Croatia/03/06.webp (1856x805, 368768 bytes)",
+        "images/tour-photos/Croatia/04/05.webp (1856x805, 299614 bytes)",
+        "images/tour-photos/Croatia/04/02.webp (1562x677, 329446 bytes)"
+      ]
+    },
+    {
+      "country": "Cuba",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Cuba",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Cuba/05/03.webp (1024x444, 148009 bytes)",
+        "images/tour-photos/Cuba/02/04.webp (1024x444, 135885 bytes)",
+        "images/tour-photos/Cuba/04/02.webp (1024x444, 133657 bytes)",
+        "images/tour-photos/Cuba/05/05.webp (1024x444, 120434 bytes)",
+        "images/tour-photos/Cuba/05/02.webp (1024x444, 119262 bytes)"
+      ]
+    },
+    {
+      "country": "Cyprus",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Czech Republic",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Czech Republic",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Czech Republic/02/03.webp (2320x966, 157874 bytes)",
+        "images/tour-photos/Czech Republic/01/04.webp (2235x931, 371470 bytes)",
+        "images/tour-photos/Czech Republic/01/01.webp (2235x931, 345068 bytes)",
+        "images/tour-photos/Czech Republic/01/02.webp (2235x931, 319104 bytes)",
+        "images/tour-photos/Czech Republic/03/01.webp (2235x931, 305876 bytes)"
+      ]
+    },
+    {
+      "country": "Denmark",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Denmark",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Denmark/02/06.webp (1360x590, 177940 bytes)",
+        "images/tour-photos/Denmark/02/03.webp (1046x453, 136556 bytes)",
+        "images/tour-photos/Denmark/01/05.webp (863x374, 66932 bytes)",
+        "images/tour-photos/Denmark/02/01.webp (787x341, 53940 bytes)",
+        "images/tour-photos/Denmark/01/01.webp (675x293, 76790 bytes)"
+      ]
+    },
+    {
+      "country": "Djibouti",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Djibouti",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Djibouti/01/03.webp (1024x444, 113887 bytes)",
+        "images/tour-photos/Djibouti/03/01.webp (1024x444, 111507 bytes)",
+        "images/tour-photos/Djibouti/03/05.webp (1024x444, 96958 bytes)",
+        "images/tour-photos/Djibouti/03/03.webp (1024x444, 90038 bytes)",
+        "images/tour-photos/Djibouti/04/05.webp (1024x444, 89944 bytes)"
+      ]
+    },
+    {
+      "country": "Dominica",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Dominican Republic",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Dominican Republic",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Dominican Republic/03/05.webp (1024x444, 134420 bytes)",
+        "images/tour-photos/Dominican Republic/03/02.webp (1024x444, 126236 bytes)",
+        "images/tour-photos/Dominican Republic/04/03.webp (1024x444, 118670 bytes)",
+        "images/tour-photos/Dominican Republic/03/06.webp (1024x444, 116154 bytes)",
+        "images/tour-photos/Dominican Republic/02/04.webp (1024x444, 107365 bytes)"
+      ]
+    },
+    {
+      "country": "East Timor",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Ecuador & Galapagos",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Ecuador & Galapagos",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Ecuador & Galapagos/02/03.webp (1024x444, 144552 bytes)",
+        "images/tour-photos/Ecuador & Galapagos/05/04.webp (1024x444, 142020 bytes)",
+        "images/tour-photos/Ecuador & Galapagos/07/02.webp (1024x444, 121908 bytes)",
+        "images/tour-photos/Ecuador & Galapagos/02/05.webp (1024x444, 112792 bytes)",
+        "images/tour-photos/Ecuador & Galapagos/01/06.webp (1024x444, 107338 bytes)"
+      ]
+    },
+    {
+      "country": "Egypt",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Egypt",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Egypt/47/03.webp (1024x444, 158852 bytes)",
+        "images/tour-photos/Egypt/50/03.webp (1024x444, 146139 bytes)",
+        "images/tour-photos/Egypt/06/02.webp (1024x444, 139243 bytes)",
+        "images/tour-photos/Egypt/04/02.webp (1024x444, 138273 bytes)",
+        "images/tour-photos/Egypt/25/04.webp (1024x444, 137732 bytes)"
+      ]
+    },
+    {
+      "country": "El Salvador",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "England",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "England",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/England/01/02.webp (2235x931, 413542 bytes)",
+        "images/tour-photos/England/01/01.webp (2235x931, 374684 bytes)",
+        "images/tour-photos/England/02/04.webp (2235x931, 325558 bytes)",
+        "images/tour-photos/England/01/06.webp (2235x931, 324114 bytes)",
+        "images/tour-photos/England/02/03.webp (2235x931, 282884 bytes)"
+      ]
+    },
+    {
+      "country": "Equatorial Guinea",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Eritrea",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Estonia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Estonia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Estonia/06/02.webp (1942x842, 243698 bytes)",
+        "images/tour-photos/Estonia/06/05.webp (1744x756, 428372 bytes)",
+        "images/tour-photos/Estonia/04/01.webp (1360x590, 283526 bytes)",
+        "images/tour-photos/Estonia/03/02.webp (1360x590, 216906 bytes)",
+        "images/tour-photos/Estonia/04/03.webp (1360x590, 200630 bytes)"
+      ]
+    },
+    {
+      "country": "Ethiopia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Ethiopia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Ethiopia/14/01 (32).webp (1024x444, 144096 bytes)",
+        "images/tour-photos/Ethiopia/12/01.webp (1024x444, 134917 bytes)",
+        "images/tour-photos/Ethiopia/14/03.webp (1024x444, 133351 bytes)",
+        "images/tour-photos/Ethiopia/14/04.webp (1024x444, 129243 bytes)",
+        "images/tour-photos/Ethiopia/07/03.webp (1024x444, 126943 bytes)"
+      ]
+    },
+    {
+      "country": "Europe",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Falkland Islands",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Faroe Islands",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Faroe Islands",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Faroe Islands/02/03.webp (1360x590, 209928 bytes)",
+        "images/tour-photos/Faroe Islands/02/06.webp (1360x589, 205180 bytes)",
+        "images/tour-photos/Faroe Islands/02/01.webp (675x293, 34356 bytes)",
+        "images/tour-photos/Faroe Islands/01/06.webp (675x293, 30764 bytes)",
+        "images/tour-photos/Faroe Islands/01/05.webp (675x292, 65310 bytes)"
+      ]
+    },
+    {
+      "country": "Fiji",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Fiji",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Fiji/07/01.webp (1024x444, 113025 bytes)",
+        "images/tour-photos/Fiji/01/03.webp (1024x444, 106314 bytes)",
+        "images/tour-photos/Fiji/06/03.webp (1024x444, 101574 bytes)",
+        "images/tour-photos/Fiji/04/04.webp (1024x444, 92318 bytes)",
+        "images/tour-photos/Fiji/02/02.webp (1024x444, 91162 bytes)"
+      ]
+    },
+    {
+      "country": "Finland",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Finland",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Finland/01/05.webp (2235x931, 405568 bytes)",
+        "images/tour-photos/Finland/04/03.webp (2235x931, 379910 bytes)",
+        "images/tour-photos/Finland/03/01.webp (2235x931, 355860 bytes)",
+        "images/tour-photos/Finland/02/03.webp (2235x931, 320872 bytes)",
+        "images/tour-photos/Finland/02/01.webp (2235x931, 319624 bytes)"
+      ]
+    },
+    {
+      "country": "France",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "France",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/France/04/06.webp (2352x1020, 537740 bytes)",
+        "images/tour-photos/France/03/02.webp (2256x978, 224100 bytes)",
+        "images/tour-photos/France/03/01.webp (2094x908, 373360 bytes)",
+        "images/tour-photos/France/03/04.webp (1984x860, 617468 bytes)",
+        "images/tour-photos/France/03/03.webp (1630x706, 272290 bytes)"
+      ]
+    },
+    {
+      "country": "French Guiana",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "French Polynesia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "French Polynesia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/French Polynesia/08/01.webp (1024x444, 117189 bytes)",
+        "images/tour-photos/French Polynesia/05/04.webp (1024x444, 108917 bytes)",
+        "images/tour-photos/French Polynesia/07/06.webp (1024x444, 108044 bytes)",
+        "images/tour-photos/French Polynesia/03/03.webp (1024x444, 107786 bytes)",
+        "images/tour-photos/French Polynesia/01/03.webp (1024x444, 105989 bytes)"
+      ]
+    },
+    {
+      "country": "Gabon",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Gabon",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Gabon/01/02.webp (1024x444, 157960 bytes)",
+        "images/tour-photos/Gabon/03/01.webp (1024x444, 152498 bytes)",
+        "images/tour-photos/Gabon/03/02.webp (1024x444, 141253 bytes)",
+        "images/tour-photos/Gabon/03/04.webp (1024x444, 129190 bytes)",
+        "images/tour-photos/Gabon/02/05.webp (1024x444, 119286 bytes)"
+      ]
+    },
+    {
+      "country": "Gambia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Gambia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Gambia/02/01.webp (1024x444, 141773 bytes)",
+        "images/tour-photos/Gambia/01/03.webp (1024x444, 134787 bytes)",
+        "images/tour-photos/Gambia/02/06.webp (1024x444, 129020 bytes)",
+        "images/tour-photos/Gambia/03/04.webp (1024x444, 117101 bytes)",
+        "images/tour-photos/Gambia/05/06.webp (1024x444, 110843 bytes)"
+      ]
+    },
+    {
+      "country": "Georgia",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Germany",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Germany",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Germany/03/02.webp (2235x931, 645486 bytes)",
+        "images/tour-photos/Germany/02/03.webp (2235x931, 518402 bytes)",
+        "images/tour-photos/Germany/01/01.webp (2235x931, 458834 bytes)",
+        "images/tour-photos/Germany/02/05.webp (2235x931, 385004 bytes)",
+        "images/tour-photos/Germany/03/03.webp (2235x931, 348274 bytes)"
+      ]
+    },
+    {
+      "country": "Ghana",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Ghana",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Ghana/04/05.webp (1024x444, 160599 bytes)",
+        "images/tour-photos/Ghana/04/04.webp (1024x444, 158356 bytes)",
+        "images/tour-photos/Ghana/16/04.webp (1024x444, 154291 bytes)",
+        "images/tour-photos/Ghana/10/01.webp (1024x444, 152523 bytes)",
+        "images/tour-photos/Ghana/10/04.webp (1024x444, 151636 bytes)"
+      ]
+    },
+    {
+      "country": "Greece",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Greece",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Greece/02/04.webp (4508x1955, 1862156 bytes)",
+        "images/tour-photos/Greece/04/06.webp (3800x1648, 223706 bytes)",
+        "images/tour-photos/Greece/04/04.webp (3456x1498, 717944 bytes)",
+        "images/tour-photos/Greece/02/06.webp (3052x1322, 400862 bytes)",
+        "images/tour-photos/Greece/01/06.webp (2852x1237, 428734 bytes)"
+      ]
+    },
+    {
+      "country": "Greenland",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Greenland",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Greenland/07/01.webp (1024x444, 135901 bytes)",
+        "images/tour-photos/Greenland/09/06.webp (1024x444, 117881 bytes)",
+        "images/tour-photos/Greenland/07/04.webp (1024x444, 114252 bytes)",
+        "images/tour-photos/Greenland/09/04.webp (1024x444, 108342 bytes)",
+        "images/tour-photos/Greenland/01/02.webp (1024x444, 105099 bytes)"
+      ]
+    },
+    {
+      "country": "Guatemala",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Guatemala",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Guatemala/09/02.webp (1024x444, 136842 bytes)",
+        "images/tour-photos/Guatemala/06/05.webp (1024x444, 132168 bytes)",
+        "images/tour-photos/Guatemala/06/01.webp (1024x444, 131648 bytes)",
+        "images/tour-photos/Guatemala/07/02.webp (1024x444, 130005 bytes)",
+        "images/tour-photos/Guatemala/09/05.webp (1024x444, 127650 bytes)"
+      ]
+    },
+    {
+      "country": "Guinea",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Guinea",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Guinea/04/06.webp (1024x444, 150201 bytes)",
+        "images/tour-photos/Guinea/03/01.webp (1024x444, 149966 bytes)",
+        "images/tour-photos/Guinea/06/03.webp (1024x444, 131598 bytes)",
+        "images/tour-photos/Guinea/05/05.webp (1024x444, 129009 bytes)",
+        "images/tour-photos/Guinea/02/05.webp (1024x444, 126591 bytes)"
+      ]
+    },
+    {
+      "country": "Guinea Bissau",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Guyana",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Guyana",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Guyana/01/04.webp (1024x444, 131745 bytes)",
+        "images/tour-photos/Guyana/03/04.webp (1024x444, 128762 bytes)",
+        "images/tour-photos/Guyana/01/05.webp (1024x444, 116168 bytes)",
+        "images/tour-photos/Guyana/03/06.webp (1024x444, 111107 bytes)",
+        "images/tour-photos/Guyana/01/02.webp (1024x444, 104156 bytes)"
+      ]
+    },
+    {
+      "country": "Honduras",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Hungary",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Hungary",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Hungary/01-Europe/mid-adult-woman-taking-self-portrait-using-smartph-2026-01-09-09-36-58-utc.jpg (5402x3566, 4098799 bytes)",
+        "images/tour-photos/Hungary/02/01.webp (2235x931, 298866 bytes)",
+        "images/tour-photos/Hungary/01/02.webp (2235x931, 261782 bytes)",
+        "images/tour-photos/Hungary/02/04.webp (2235x931, 236834 bytes)",
+        "images/tour-photos/Hungary/01/05.webp (2235x931, 210686 bytes)"
+      ]
+    },
+    {
+      "country": "Iceland",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Iceland",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Iceland/01/06.webp (1505x652, 132172 bytes)",
+        "images/tour-photos/Iceland/02/05.webp (1360x590, 259186 bytes)",
+        "images/tour-photos/Iceland/05/06.webp (1360x590, 235726 bytes)",
+        "images/tour-photos/Iceland/06/06.webp (1360x590, 160606 bytes)",
+        "images/tour-photos/Iceland/05/03.webp (1360x590, 156022 bytes)"
+      ]
+    },
+    {
+      "country": "India",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "India",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/India/09/01.webp (4623x1925, 284912 bytes)",
+        "images/tour-photos/India/04/06.webp (4608x1918, 282886 bytes)",
+        "images/tour-photos/India/23/03.webp (2235x931, 809578 bytes)",
+        "images/tour-photos/India/23/06.webp (2235x931, 751630 bytes)",
+        "images/tour-photos/India/23/04.webp (2235x931, 691320 bytes)"
+      ]
+    },
+    {
+      "country": "Indonesia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Indonesia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Indonesia/06/01.webp (1024x444, 161925 bytes)",
+        "images/tour-photos/Indonesia/03/02.webp (1024x444, 138216 bytes)",
+        "images/tour-photos/Indonesia/04/06.webp (1024x444, 130710 bytes)",
+        "images/tour-photos/Indonesia/03/05.webp (1024x444, 125610 bytes)",
+        "images/tour-photos/Indonesia/01/04.webp (1024x444, 114510 bytes)"
+      ]
+    },
+    {
+      "country": "Iran",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Iran",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Iran/08/05.png.webp (1024x444, 805477 bytes)",
+        "images/tour-photos/Iran/03/06.webp (1024x444, 215896 bytes)",
+        "images/tour-photos/Iran/04/04.webp (1024x444, 179953 bytes)",
+        "images/tour-photos/Iran/04/06.webp (1024x444, 130462 bytes)",
+        "images/tour-photos/Iran/05/05.webp (1024x444, 126378 bytes)"
+      ]
+    },
+    {
+      "country": "Iraq",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Iraq",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Iraq/02/06.webp (1024x444, 139101 bytes)",
+        "images/tour-photos/Iraq/01/05.webp (1024x444, 134102 bytes)",
+        "images/tour-photos/Iraq/01/02.webp (1024x444, 129328 bytes)",
+        "images/tour-photos/Iraq/01/03.webp (1024x444, 100375 bytes)",
+        "images/tour-photos/Iraq/03/05.webp (1024x444, 99846 bytes)"
+      ]
+    },
+    {
+      "country": "Ireland",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Ireland",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Ireland/02/04.webp (2235x931, 575382 bytes)",
+        "images/tour-photos/Ireland/04/01.webp (2235x931, 491550 bytes)",
+        "images/tour-photos/Ireland/01/01.webp (2235x931, 444490 bytes)",
+        "images/tour-photos/Ireland/03/01.webp (2235x931, 430580 bytes)",
+        "images/tour-photos/Ireland/02/06.webp (2235x931, 390504 bytes)"
+      ]
+    },
+    {
+      "country": "Italy",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Italy",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Italy/05/06.webp (2352x1020, 435590 bytes)",
+        "images/tour-photos/Italy/02/05.webp (1764x766, 296964 bytes)",
+        "images/tour-photos/Italy/02/04.webp (1360x590, 283370 bytes)",
+        "images/tour-photos/Italy/04/03.webp (1360x590, 240226 bytes)",
+        "images/tour-photos/Italy/03/04.webp (1360x590, 237840 bytes)"
+      ]
+    },
+    {
+      "country": "Ivory Coast",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Ivory Coast",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Ivory Coast/02/01.webp (1024x444, 167552 bytes)",
+        "images/tour-photos/Ivory Coast/01/01.webp (1024x444, 150707 bytes)",
+        "images/tour-photos/Ivory Coast/05/01.webp (1024x444, 122790 bytes)",
+        "images/tour-photos/Ivory Coast/04/03.webp (1024x444, 119500 bytes)",
+        "images/tour-photos/Ivory Coast/04/01.webp (1024x444, 115481 bytes)"
+      ]
+    },
+    {
+      "country": "Jamaica",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Jamaica",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Jamaica/01/06.webp (1024x444, 127849 bytes)",
+        "images/tour-photos/Jamaica/04/04.webp (1024x444, 121853 bytes)",
+        "images/tour-photos/Jamaica/02/02.webp (1024x444, 107874 bytes)",
+        "images/tour-photos/Jamaica/03/04.webp (1024x444, 106885 bytes)",
+        "images/tour-photos/Jamaica/06/03.webp (1024x444, 103885 bytes)"
+      ]
+    },
+    {
+      "country": "Japan",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Japan",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Japan/05/01.webp (1024x444, 179775 bytes)",
+        "images/tour-photos/Japan/06/06.webp (1024x444, 158372 bytes)",
+        "images/tour-photos/Japan/03/03.webp (1024x444, 153179 bytes)",
+        "images/tour-photos/Japan/01/02.webp (1024x444, 150921 bytes)",
+        "images/tour-photos/Japan/03/05.webp (1024x444, 142790 bytes)"
+      ]
+    },
+    {
+      "country": "Jordan",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Jordan",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Jordan/03/05.webp (1024x444, 122458 bytes)",
+        "images/tour-photos/Jordan/02/01.webp (1024x444, 119393 bytes)",
+        "images/tour-photos/Jordan/02/04.webp (1024x444, 118972 bytes)",
+        "images/tour-photos/Jordan/01/03.webp (1024x444, 112403 bytes)",
+        "images/tour-photos/Jordan/01/05.webp (1024x444, 111594 bytes)"
+      ]
+    },
+    {
+      "country": "Kazakhstan",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Kazakhstan",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Kazakhstan/01/02.webp (1024x444, 156554 bytes)",
+        "images/tour-photos/Kazakhstan/06/04.webp (1024x444, 135028 bytes)",
+        "images/tour-photos/Kazakhstan/06/02.webp (1024x444, 132271 bytes)",
+        "images/tour-photos/Kazakhstan/02/06.webp (1024x444, 129628 bytes)",
+        "images/tour-photos/Kazakhstan/01/06.webp (1024x444, 120489 bytes)"
+      ]
+    },
+    {
+      "country": "Kenya",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Kenya",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Kenya/01/06.webp (1024x444, 162548 bytes)",
+        "images/tour-photos/Kenya/16/03.webp (1024x444, 161024 bytes)",
+        "images/tour-photos/Kenya/06/02.webp (1024x444, 152510 bytes)",
+        "images/tour-photos/Kenya/07/06.webp (1024x444, 152316 bytes)",
+        "images/tour-photos/Kenya/32/02.webp (1024x444, 142534 bytes)"
+      ]
+    },
+    {
+      "country": "Kiribati",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Kosovo",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Kosovo",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Kosovo/02/03.webp (3120x1353, 330252 bytes)",
+        "images/tour-photos/Kosovo/02/04.webp (2995x1299, 171366 bytes)",
+        "images/tour-photos/Kosovo/02/05.webp (2059x893, 69606 bytes)",
+        "images/tour-photos/Kosovo/01/05.webp (2048x888, 128634 bytes)",
+        "images/tour-photos/Kosovo/01/03.webp (2048x888, 124018 bytes)"
+      ]
+    },
+    {
+      "country": "Kyrgyzstan",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Kyrgyzstan",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Kyrgyzstan/02/06.webp (1024x444, 1051454 bytes)",
+        "images/tour-photos/Kyrgyzstan/04/04.webp (1024x444, 159327 bytes)",
+        "images/tour-photos/Kyrgyzstan/03/06.webp (1024x444, 141958 bytes)",
+        "images/tour-photos/Kyrgyzstan/02/03.webp (1024x444, 116927 bytes)",
+        "images/tour-photos/Kyrgyzstan/03/04.webp (1024x444, 114379 bytes)"
+      ]
+    },
+    {
+      "country": "Laos",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Laos",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Laos/06/05.webp (1024x444, 159925 bytes)",
+        "images/tour-photos/Laos/03/04.webp (1024x444, 151032 bytes)",
+        "images/tour-photos/Laos/07/01.webp (1024x444, 132552 bytes)",
+        "images/tour-photos/Laos/01/04.webp (1024x444, 121624 bytes)",
+        "images/tour-photos/Laos/02/04.webp (1024x444, 115083 bytes)"
+      ]
+    },
+    {
+      "country": "Lapland",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Lapland",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Lapland/02/01.webp (1360x590, 146356 bytes)",
+        "images/tour-photos/Lapland/02/03.webp (1360x590, 108074 bytes)",
+        "images/tour-photos/Lapland/02/04.webp (675x293, 57476 bytes)",
+        "images/tour-photos/Lapland/02/06.webp (675x292, 86414 bytes)",
+        "images/tour-photos/Lapland/01/04.webp (675x292, 72352 bytes)"
+      ]
+    },
+    {
+      "country": "Latvia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Latvia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Latvia/01/05.webp (1360x590, 173744 bytes)",
+        "images/tour-photos/Latvia/01/01.webp (1360x589, 133580 bytes)",
+        "images/tour-photos/Latvia/02/06.webp (1350x586, 276590 bytes)",
+        "images/tour-photos/Latvia/01/06.webp (1350x586, 266058 bytes)",
+        "images/tour-photos/Latvia/02/04.webp (1350x586, 235296 bytes)"
+      ]
+    },
+    {
+      "country": "Lebanon",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Lebanon",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Lebanon/03/05.webp (1024x444, 144557 bytes)",
+        "images/tour-photos/Lebanon/05/01.webp (1024x444, 137740 bytes)",
+        "images/tour-photos/Lebanon/01/01.webp (1024x444, 135543 bytes)",
+        "images/tour-photos/Lebanon/02/01.webp (1024x444, 134966 bytes)",
+        "images/tour-photos/Lebanon/06/06.webp (1024x444, 131763 bytes)"
+      ]
+    },
+    {
+      "country": "Liberia",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Liberia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Liberia/01/05.webp (1024x444, 186390 bytes)",
+        "images/tour-photos/Liberia/01/01.webp (1024x444, 121417 bytes)",
+        "images/tour-photos/Liberia/01/03.webp (1024x444, 116349 bytes)",
+        "images/tour-photos/Liberia/01/06.webp (1024x444, 102161 bytes)",
+        "images/tour-photos/Liberia/01/04.webp (1024x444, 101064 bytes)"
+      ]
+    },
+    {
+      "country": "Libya",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Libya",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Libya/01/02.webp (1024x444, 105556 bytes)",
+        "images/tour-photos/Libya/01/01.webp (1024x444, 95416 bytes)",
+        "images/tour-photos/Libya/01/05.webp (1024x444, 70401 bytes)",
+        "images/tour-photos/Libya/01/04.webp (1024x444, 59823 bytes)",
+        "images/tour-photos/Libya/01/06.webp (1024x444, 57795 bytes)"
+      ]
+    },
+    {
+      "country": "Lithuania",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Lithuania",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Lithuania/01/03.webp (1350x586, 460894 bytes)",
+        "images/tour-photos/Lithuania/02/04.webp (1350x586, 417174 bytes)",
+        "images/tour-photos/Lithuania/01/04.webp (1350x586, 254948 bytes)",
+        "images/tour-photos/Lithuania/01/05.webp (1350x585, 600084 bytes)",
+        "images/tour-photos/Lithuania/02/06.webp (1350x585, 517834 bytes)"
+      ]
+    },
+    {
+      "country": "Macedonia",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Madagascar",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Madagascar",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Madagascar/13/01.webp (1024x444, 173602 bytes)",
+        "images/tour-photos/Madagascar/02/04.webp (1024x444, 158195 bytes)",
+        "images/tour-photos/Madagascar/25/03.webp (1024x444, 157586 bytes)",
+        "images/tour-photos/Madagascar/06/04.webp (1024x444, 153130 bytes)",
+        "images/tour-photos/Madagascar/39/02.webp (1024x444, 153130 bytes)"
+      ]
+    },
+    {
+      "country": "Malawi",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Malawi",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Malawi/11/04.webp (1024x444, 155860 bytes)",
+        "images/tour-photos/Malawi/09/06.webp (1024x444, 149582 bytes)",
+        "images/tour-photos/Malawi/02/02.webp (1024x444, 145264 bytes)",
+        "images/tour-photos/Malawi/03/06.webp (1024x444, 133483 bytes)",
+        "images/tour-photos/Malawi/04/04.webp (1024x444, 133483 bytes)"
+      ]
+    },
+    {
+      "country": "Malaysia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Malaysia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Malaysia/01/02.webp (1024x444, 141525 bytes)",
+        "images/tour-photos/Malaysia/02/01.webp (1024x444, 136957 bytes)",
+        "images/tour-photos/Malaysia/05/03.webp (1024x444, 131309 bytes)",
+        "images/tour-photos/Malaysia/06/01.webp (1024x444, 130797 bytes)",
+        "images/tour-photos/Malaysia/01/01.webp (1024x444, 129603 bytes)"
+      ]
+    },
+    {
+      "country": "Maldives",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Maldives",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Maldives/05/04.webp (1024x444, 111875 bytes)",
+        "images/tour-photos/Maldives/08/01.webp (1024x444, 110234 bytes)",
+        "images/tour-photos/Maldives/04/02.webp (1024x444, 109024 bytes)",
+        "images/tour-photos/Maldives/02/03.webp (1024x444, 107756 bytes)",
+        "images/tour-photos/Maldives/07/02.webp (1024x444, 103396 bytes)"
+      ]
+    },
+    {
+      "country": "Mali",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Malta",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Malta",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Malta/02/06.webp (1360x590, 143662 bytes)",
+        "images/tour-photos/Malta/02/03.webp (1360x590, 123370 bytes)",
+        "images/tour-photos/Malta/02/04.webp (1350x586, 289542 bytes)",
+        "images/tour-photos/Malta/01/05.webp (1350x586, 284956 bytes)",
+        "images/tour-photos/Malta/01/01.webp (1350x586, 210604 bytes)"
+      ]
+    },
+    {
+      "country": "Mauritania",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Mauritius",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Mauritius",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Mauritius/01/03.webp (1024x444, 180210 bytes)",
+        "images/tour-photos/Mauritius/12/03.webp (1024x444, 156348 bytes)",
+        "images/tour-photos/Mauritius/11/03.webp (1024x444, 155343 bytes)",
+        "images/tour-photos/Mauritius/11/06.webp (1024x444, 150666 bytes)",
+        "images/tour-photos/Mauritius/07/01.webp (1024x444, 134079 bytes)"
+      ]
+    },
+    {
+      "country": "Mexico",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Mexico",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Mexico/48/01.webp (1024x444, 153730 bytes)",
+        "images/tour-photos/Mexico/25/01.webp (1024x444, 139883 bytes)",
+        "images/tour-photos/Mexico/31/03.webp (1024x444, 139695 bytes)",
+        "images/tour-photos/Mexico/37/01.webp (1024x444, 137507 bytes)",
+        "images/tour-photos/Mexico/30/01.webp (1024x444, 137465 bytes)"
+      ]
+    },
+    {
+      "country": "Micronesia",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Middle East",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Moldova",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Moldova",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Moldova/02/06.webp (1360x590, 280226 bytes)",
+        "images/tour-photos/Moldova/02/03.webp (1360x590, 192352 bytes)",
+        "images/tour-photos/Moldova/01/04.webp (899x390, 107866 bytes)",
+        "images/tour-photos/Moldova/01/05.webp (899x390, 74332 bytes)",
+        "images/tour-photos/Moldova/02/05.webp (875x380, 62592 bytes)"
+      ]
+    },
+    {
+      "country": "Mongolia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Mongolia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Mongolia/03/01.png.webp (1024x444, 964851 bytes)",
+        "images/tour-photos/Mongolia/08/05.webp (1024x444, 130650 bytes)",
+        "images/tour-photos/Mongolia/01/05.webp (1024x444, 130218 bytes)",
+        "images/tour-photos/Mongolia/01/01.webp (1024x444, 124554 bytes)",
+        "images/tour-photos/Mongolia/06/05.webp (1024x444, 112475 bytes)"
+      ]
+    },
+    {
+      "country": "Montenegro",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Montenegro",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Montenegro/01/06.jpg (1350x780, 370168 bytes)",
+        "images/tour-photos/Montenegro/01/05.jpg (1350x780, 345093 bytes)",
+        "images/tour-photos/Montenegro/01/01.jpg (1350x780, 326235 bytes)",
+        "images/tour-photos/Montenegro/01/02.jpeg (1350x780, 243079 bytes)",
+        "images/tour-photos/Montenegro/01/04.jpeg (1350x780, 232630 bytes)"
+      ]
+    },
+    {
+      "country": "Morocco",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Morocco",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Morocco/13/06.webp (1024x444, 176022 bytes)",
+        "images/tour-photos/Morocco/22/01.webp (1024x444, 163441 bytes)",
+        "images/tour-photos/Morocco/95/02.webp (1024x444, 160657 bytes)",
+        "images/tour-photos/Morocco/110/03.webp (1024x444, 153631 bytes)",
+        "images/tour-photos/Morocco/97/03.webp (1024x444, 152894 bytes)"
+      ]
+    },
+    {
+      "country": "Mozambique",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Mozambique",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Mozambique/03/06.webp (1024x444, 120743 bytes)",
+        "images/tour-photos/Mozambique/03/04.webp (1024x444, 114605 bytes)",
+        "images/tour-photos/Mozambique/01/03.webp (1024x444, 109696 bytes)",
+        "images/tour-photos/Mozambique/07/03.webp (1024x444, 105323 bytes)",
+        "images/tour-photos/Mozambique/06/01.webp (1024x444, 105257 bytes)"
+      ]
+    },
+    {
+      "country": "Myanmar",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Burma",
+      "exactPhotoFolder": false,
+      "selected": [
+        "images/tour-photos/Burma/01/03.webp (1024x444, 112963 bytes)",
+        "images/tour-photos/Burma/02/04.webp (1024x444, 109609 bytes)",
+        "images/tour-photos/Burma/05/03.webp (1024x444, 103211 bytes)",
+        "images/tour-photos/Burma/01/04.webp (1024x444, 102870 bytes)",
+        "images/tour-photos/Burma/05/01.webp (1024x444, 100321 bytes)"
+      ]
+    },
+    {
+      "country": "Namibia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Namibia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Namibia/02/02.webp (1024x444, 144910 bytes)",
+        "images/tour-photos/Namibia/11/06.webp (1024x444, 141511 bytes)",
+        "images/tour-photos/Namibia/08/05.webp (1024x444, 137693 bytes)",
+        "images/tour-photos/Namibia/08/02.webp (1024x444, 124340 bytes)",
+        "images/tour-photos/Namibia/03/02.webp (1024x444, 122096 bytes)"
+      ]
+    },
+    {
+      "country": "Nepal",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Nepal",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Nepal/05/02.webp (1024x444, 140040 bytes)",
+        "images/tour-photos/Nepal/06/04.webp (1024x444, 138148 bytes)",
+        "images/tour-photos/Nepal/02/01.webp (1024x444, 134612 bytes)",
+        "images/tour-photos/Nepal/03/05.webp (1024x444, 131137 bytes)",
+        "images/tour-photos/Nepal/08/01.webp (1024x444, 126630 bytes)"
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "New Zealand",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "New Zealand",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/New Zealand/06/03.webp (1024x444, 145479 bytes)",
+        "images/tour-photos/New Zealand/06/04.webp (1024x444, 142771 bytes)",
+        "images/tour-photos/New Zealand/01/06.webp (1024x444, 140612 bytes)",
+        "images/tour-photos/New Zealand/06/02.webp (1024x444, 140227 bytes)",
+        "images/tour-photos/New Zealand/03/05.webp (1024x444, 128785 bytes)"
+      ]
+    },
+    {
+      "country": "Nicaragua",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Nicaragua",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Nicaragua/04/01.webp (1024x444, 154930 bytes)",
+        "images/tour-photos/Nicaragua/02/06.webp (1024x444, 146533 bytes)",
+        "images/tour-photos/Nicaragua/06/04.webp (1024x444, 144336 bytes)",
+        "images/tour-photos/Nicaragua/05/03.webp (1024x444, 117485 bytes)",
+        "images/tour-photos/Nicaragua/03/06.webp (1024x444, 113750 bytes)"
+      ]
+    },
+    {
+      "country": "Nigeria",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "North America",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Northern Ireland",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Norway",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Norway",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Norway/04/04.webp (1360x590, 188162 bytes)",
+        "images/tour-photos/Norway/02/01.webp (1360x590, 171244 bytes)",
+        "images/tour-photos/Norway/03/01.webp (1360x590, 109826 bytes)",
+        "images/tour-photos/Norway/03/02.webp (1360x590, 108432 bytes)",
+        "images/tour-photos/Norway/03/06.webp (1360x590, 98346 bytes)"
+      ]
+    },
+    {
+      "country": "Oman",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Oman",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Oman/06/03.webp (1024x444, 152314 bytes)",
+        "images/tour-photos/Oman/04/02.webp (1024x444, 133397 bytes)",
+        "images/tour-photos/Oman/02/05.webp (1024x444, 129030 bytes)",
+        "images/tour-photos/Oman/01/04.webp (1024x444, 128303 bytes)",
+        "images/tour-photos/Oman/03/06.webp (1024x444, 123988 bytes)"
+      ]
+    },
+    {
+      "country": "Pakistan",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Pakistan",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Pakistan/08/04.webp (1024x444, 137829 bytes)",
+        "images/tour-photos/Pakistan/01/02.webp (1024x444, 114508 bytes)",
+        "images/tour-photos/Pakistan/01/03.webp (1024x444, 114399 bytes)",
+        "images/tour-photos/Pakistan/06/02.webp (1024x444, 114319 bytes)",
+        "images/tour-photos/Pakistan/03/01.webp (1024x444, 112651 bytes)"
+      ]
+    },
+    {
+      "country": "Panama",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Panama",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Panama/14/06.webp (1024x444, 159888 bytes)",
+        "images/tour-photos/Panama/17/05.webp (1024x444, 143865 bytes)",
+        "images/tour-photos/Panama/11/02.webp (1024x444, 134600 bytes)",
+        "images/tour-photos/Panama/16/05.webp (1024x444, 132390 bytes)",
+        "images/tour-photos/Panama/11/06.webp (1024x444, 131237 bytes)"
+      ]
+    },
+    {
+      "country": "Papua New Guinea",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Papua New Guinea",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Papua New Guinea/06/04.webp (1024x444, 123267 bytes)",
+        "images/tour-photos/Papua New Guinea/02/05.webp (1024x444, 121554 bytes)",
+        "images/tour-photos/Papua New Guinea/03/02.webp (1024x444, 119606 bytes)",
+        "images/tour-photos/Papua New Guinea/04/05.webp (1024x444, 114449 bytes)",
+        "images/tour-photos/Papua New Guinea/06/06.webp (1024x444, 111358 bytes)"
+      ]
+    },
+    {
+      "country": "Paraguay",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Paraguay",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Paraguay/03/04.webp (1024x444, 1075946 bytes)",
+        "images/tour-photos/Paraguay/04/03.webp (1024x444, 172200 bytes)",
+        "images/tour-photos/Paraguay/01/01.webp (1024x444, 148920 bytes)",
+        "images/tour-photos/Paraguay/06/02.webp (1024x444, 143235 bytes)",
+        "images/tour-photos/Paraguay/01/06.webp (1024x444, 132722 bytes)"
+      ]
+    },
+    {
+      "country": "Patagonia",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Peru",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Peru",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Peru/138/03.webp (1024x444, 1012347 bytes)",
+        "images/tour-photos/Peru/23/02.webp (1024x444, 981799 bytes)",
+        "images/tour-photos/Peru/90/05.webp (1024x444, 185311 bytes)",
+        "images/tour-photos/Peru/44/06.webp (1024x444, 170043 bytes)",
+        "images/tour-photos/Peru/27/02.webp (1024x444, 165651 bytes)"
+      ]
+    },
+    {
+      "country": "Philippines",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Philippines",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Philippines/01/03.webp (1024x444, 164433 bytes)",
+        "images/tour-photos/Philippines/05/03.webp (1024x444, 139169 bytes)",
+        "images/tour-photos/Philippines/06/06.webp (1024x444, 129144 bytes)",
+        "images/tour-photos/Philippines/03/01.webp (1024x444, 127380 bytes)",
+        "images/tour-photos/Philippines/06/01.webp (1024x444, 127300 bytes)"
+      ]
+    },
+    {
+      "country": "Poland",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Poland",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Poland/02/04.webp (1360x590, 496964 bytes)",
+        "images/tour-photos/Poland/02/06.webp (1360x590, 288634 bytes)",
+        "images/tour-photos/Poland/01/03.webp (1350x586, 438020 bytes)",
+        "images/tour-photos/Poland/02/01.webp (1350x586, 410860 bytes)",
+        "images/tour-photos/Poland/01/01.webp (1350x585, 450794 bytes)"
+      ]
+    },
+    {
+      "country": "Portugal",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Portugal",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Portugal/04/01.webp (1814x787, 140920 bytes)",
+        "images/tour-photos/Portugal/04/05.webp (1360x590, 286136 bytes)",
+        "images/tour-photos/Portugal/03/05.webp (1360x590, 206536 bytes)",
+        "images/tour-photos/Portugal/02/02.webp (1360x590, 176828 bytes)",
+        "images/tour-photos/Portugal/02/03.webp (1360x590, 145616 bytes)"
+      ]
+    },
+    {
+      "country": "Reunion",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Romania",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Romania",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Romania/02/05.webp (1798x780, 375280 bytes)",
+        "images/tour-photos/Romania/02/02.webp (1778x770, 671450 bytes)",
+        "images/tour-photos/Romania/01/01.webp (1774x770, 539006 bytes)",
+        "images/tour-photos/Romania/01/06.webp (1752x760, 530284 bytes)",
+        "images/tour-photos/Romania/01/02.webp (1736x752, 804506 bytes)"
+      ]
+    },
+    {
+      "country": "Rwanda",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Rwanda",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Rwanda/08/06.webp (1024x444, 141831 bytes)",
+        "images/tour-photos/Rwanda/03/06.webp (1024x444, 141455 bytes)",
+        "images/tour-photos/Rwanda/09/02.webp (1024x444, 140639 bytes)",
+        "images/tour-photos/Rwanda/13/05.webp (1024x444, 137477 bytes)",
+        "images/tour-photos/Rwanda/05/03.webp (1024x444, 135048 bytes)"
+      ]
+    },
+    {
+      "country": "Saint Lucia",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Samoa",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Sao Tome And Principe",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Saudi Arabia",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Saudi Arabia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Saudi Arabia/05/04.webp (1024x444, 134468 bytes)",
+        "images/tour-photos/Saudi Arabia/05/01.webp (1024x444, 126062 bytes)",
+        "images/tour-photos/Saudi Arabia/04/02.webp (1024x444, 118247 bytes)",
+        "images/tour-photos/Saudi Arabia/01/01.webp (1024x444, 116904 bytes)",
+        "images/tour-photos/Saudi Arabia/07/03.webp (1024x444, 109344 bytes)"
+      ]
+    },
+    {
+      "country": "Scotland",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Scotland",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Scotland/02/06.webp (1360x590, 174344 bytes)",
+        "images/tour-photos/Scotland/02/03.webp (1360x590, 114958 bytes)",
+        "images/tour-photos/Scotland/01/05.webp (1350x586, 238842 bytes)",
+        "images/tour-photos/Scotland/02/05.webp (1350x586, 191196 bytes)",
+        "images/tour-photos/Scotland/02/02.webp (1350x586, 180598 bytes)"
+      ]
+    },
+    {
+      "country": "Senegal",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Senegal",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Senegal/05/04.webp (1024x444, 136618 bytes)",
+        "images/tour-photos/Senegal/02/01.webp (1024x444, 122075 bytes)",
+        "images/tour-photos/Senegal/04/02.webp (1024x444, 117584 bytes)",
+        "images/tour-photos/Senegal/04/06.webp (1024x444, 116288 bytes)",
+        "images/tour-photos/Senegal/06/04.webp (1024x444, 105970 bytes)"
+      ]
+    },
+    {
+      "country": "Serbia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Serbia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Serbia/03/01.webp (1360x590, 500920 bytes)",
+        "images/tour-photos/Serbia/03/02.webp (1360x590, 237430 bytes)",
+        "images/tour-photos/Serbia/03/05.webp (1360x589, 297812 bytes)",
+        "images/tour-photos/Serbia/01/03.webp (1350x586, 502808 bytes)",
+        "images/tour-photos/Serbia/01/01.webp (1350x586, 381704 bytes)"
+      ]
+    },
+    {
+      "country": "Seychelles",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Sierra Leone",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Sierra Leone",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Sierra Leone/02/03.webp (1024x444, 143430 bytes)",
+        "images/tour-photos/Sierra Leone/03/06.webp (1024x444, 143219 bytes)",
+        "images/tour-photos/Sierra Leone/01/02.webp (1024x444, 138602 bytes)",
+        "images/tour-photos/Sierra Leone/03/02.webp (1024x444, 130057 bytes)",
+        "images/tour-photos/Sierra Leone/02/05.webp (1024x444, 127680 bytes)"
+      ]
+    },
+    {
+      "country": "Singapore",
+      "status": "updated",
+      "changed": 2,
+      "photoFolder": "Singapore",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Singapore/05/02.webp (1024x444, 160694 bytes)",
+        "images/tour-photos/Singapore/02/06.webp (1024x444, 136891 bytes)",
+        "images/tour-photos/Singapore/04/02.webp (1024x444, 128949 bytes)",
+        "images/tour-photos/Singapore/01/03.webp (1024x444, 128392 bytes)",
+        "images/tour-photos/Singapore/02/01.webp (1024x444, 126174 bytes)"
+      ]
+    },
+    {
+      "country": "Slovakia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Slovakia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Slovakia/01/04.webp (1778x771, 136854 bytes)",
+        "images/tour-photos/Slovakia/01/02.webp (1350x586, 201128 bytes)",
+        "images/tour-photos/Slovakia/01/05.webp (1350x586, 200444 bytes)",
+        "images/tour-photos/Slovakia/01/01.webp (1350x586, 170912 bytes)",
+        "images/tour-photos/Slovakia/02/02.webp (1350x586, 149794 bytes)"
+      ]
+    },
+    {
+      "country": "Slovenia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Slovenia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Slovenia/04/04.webp (1400x608, 616424 bytes)",
+        "images/tour-photos/Slovenia/04/03.webp (1400x607, 422602 bytes)",
+        "images/tour-photos/Slovenia/04/02.webp (1152x500, 299216 bytes)",
+        "images/tour-photos/Slovenia/02/04.webp (922x400, 294566 bytes)",
+        "images/tour-photos/Slovenia/02/01.webp (784x340, 161218 bytes)"
+      ]
+    },
+    {
+      "country": "Solomon Islands",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Solomon Islands",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Solomon Islands/02/05.webp (1024x444, 145206 bytes)",
+        "images/tour-photos/Solomon Islands/03/05.webp (1024x444, 114502 bytes)",
+        "images/tour-photos/Solomon Islands/02/03.webp (1024x444, 112682 bytes)",
+        "images/tour-photos/Solomon Islands/03/06.webp (1024x444, 106567 bytes)",
+        "images/tour-photos/Solomon Islands/06/01.webp (1024x444, 102566 bytes)"
+      ]
+    },
+    {
+      "country": "South Africa",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "South Africa",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/South Africa/33/04.webp (1024x444, 174475 bytes)",
+        "images/tour-photos/South Africa/35/04.webp (1024x444, 167900 bytes)",
+        "images/tour-photos/South Africa/38/04.webp (1024x444, 164660 bytes)",
+        "images/tour-photos/South Africa/61/03.webp (1024x444, 160938 bytes)",
+        "images/tour-photos/South Africa/33/05.webp (1024x444, 158857 bytes)"
+      ]
+    },
+    {
+      "country": "South America",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "South Korea",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "South Sudan",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "South Sudan",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/South Sudan/01/05.webp (1024x444, 100916 bytes)",
+        "images/tour-photos/South Sudan/01/06.webp (1024x444, 96277 bytes)",
+        "images/tour-photos/South Sudan/01/02.webp (1024x444, 58798 bytes)",
+        "images/tour-photos/South Sudan/01/01.webp (1024x444, 52552 bytes)",
+        "images/tour-photos/South Sudan/01/04.webp (1024x444, 50336 bytes)"
+      ]
+    },
+    {
+      "country": "Spain",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Spain",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Spain/03/03.webp (2176x944, 497100 bytes)",
+        "images/tour-photos/Spain/03/05.webp (1360x590, 318910 bytes)",
+        "images/tour-photos/Spain/03/01.webp (1360x590, 288090 bytes)",
+        "images/tour-photos/Spain/03/04.webp (1360x590, 287850 bytes)",
+        "images/tour-photos/Spain/03/06.webp (1360x590, 270732 bytes)"
+      ]
+    },
+    {
+      "country": "Spitsbergen",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Spitsbergen",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Spitsbergen/06/05.webp (1024x444, 99595 bytes)",
+        "images/tour-photos/Spitsbergen/01/01.webp (1024x444, 95963 bytes)",
+        "images/tour-photos/Spitsbergen/03/05.webp (1024x444, 89946 bytes)",
+        "images/tour-photos/Spitsbergen/02/05.webp (1024x444, 81165 bytes)",
+        "images/tour-photos/Spitsbergen/01/05.webp (1024x444, 76720 bytes)"
+      ]
+    },
+    {
+      "country": "Sri Lanka",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Sri Lanka",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Sri Lanka/05/01.jpg.webp (1024x444, 159613 bytes)",
+        "images/tour-photos/Sri Lanka/03/06.webp (1024x444, 123545 bytes)",
+        "images/tour-photos/Sri Lanka/02/04.webp (1024x444, 112990 bytes)",
+        "images/tour-photos/Sri Lanka/06/03.webp (1024x444, 110596 bytes)",
+        "images/tour-photos/Sri Lanka/04/06.webp (1024x444, 110255 bytes)"
+      ]
+    },
+    {
+      "country": "St Helena",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "St Helena",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/St Helena/01/02.webp (1024x444, 152779 bytes)",
+        "images/tour-photos/St Helena/04/03.webp (1024x444, 137971 bytes)",
+        "images/tour-photos/St Helena/02/01.webp (1024x444, 117760 bytes)",
+        "images/tour-photos/St Helena/07/06.webp (1024x444, 111672 bytes)",
+        "images/tour-photos/St Helena/07/01.webp (1024x444, 109376 bytes)"
+      ]
+    },
+    {
+      "country": "Sudan",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Suriname",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Suriname",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Suriname/04/01.webp (1024x444, 168241 bytes)",
+        "images/tour-photos/Suriname/01/06.webp (1024x444, 131053 bytes)",
+        "images/tour-photos/Suriname/03/02.webp (1024x444, 112621 bytes)",
+        "images/tour-photos/Suriname/02/04.webp (1024x444, 110307 bytes)",
+        "images/tour-photos/Suriname/05/01.webp (1024x444, 103382 bytes)"
+      ]
+    },
+    {
+      "country": "Swaziland",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Swaziland",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Swaziland/03/06.webp (1024x444, 150833 bytes)",
+        "images/tour-photos/Swaziland/01/06.webp (1024x444, 124618 bytes)",
+        "images/tour-photos/Swaziland/03/03.webp (1024x444, 119392 bytes)",
+        "images/tour-photos/Swaziland/01/04.webp (1024x444, 118963 bytes)",
+        "images/tour-photos/Swaziland/03/05.webp (1024x444, 112529 bytes)"
+      ]
+    },
+    {
+      "country": "Sweden",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Sweden",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Sweden/04/06.webp (1645x713, 194294 bytes)",
+        "images/tour-photos/Sweden/03/03.webp (1554x674, 351128 bytes)",
+        "images/tour-photos/Sweden/04/04.webp (1536x665, 356066 bytes)",
+        "images/tour-photos/Sweden/03/01.webp (1360x590, 416080 bytes)",
+        "images/tour-photos/Sweden/04/03.webp (1257x545, 297146 bytes)"
+      ]
+    },
+    {
+      "country": "Switzerland",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Switzerland",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Switzerland/03/05.webp (2736x1187, 800636 bytes)",
+        "images/tour-photos/Switzerland/03/04.webp (2736x1186, 1016662 bytes)",
+        "images/tour-photos/Switzerland/04/03.webp (1360x590, 263896 bytes)",
+        "images/tour-photos/Switzerland/04/04.webp (1360x590, 256418 bytes)",
+        "images/tour-photos/Switzerland/02/06.webp (1360x590, 169238 bytes)"
+      ]
+    },
+    {
+      "country": "Syria",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Syria",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Syria/01/04.webp (1024x444, 151974 bytes)",
+        "images/tour-photos/Syria/08/06.webp (1024x444, 141925 bytes)",
+        "images/tour-photos/Syria/04/05.webp (1024x444, 131532 bytes)",
+        "images/tour-photos/Syria/08/03.webp (1024x444, 117000 bytes)",
+        "images/tour-photos/Syria/09/03.webp (1024x444, 115094 bytes)"
+      ]
+    },
+    {
+      "country": "Taiwan",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Tajikistan",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Tanzania",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Tanzania",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Tanzania/32/03.webp (1024x444, 143611 bytes)",
+        "images/tour-photos/Tanzania/21/01.webp (1024x444, 137161 bytes)",
+        "images/tour-photos/Tanzania/13/03.webp (1024x444, 132724 bytes)",
+        "images/tour-photos/Tanzania/24/01.webp (1024x444, 132351 bytes)",
+        "images/tour-photos/Tanzania/30/03.webp (1024x444, 132314 bytes)"
+      ]
+    },
+    {
+      "country": "Thailand",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Thailand",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Thailand/02/05.webp (1024x444, 149832 bytes)",
+        "images/tour-photos/Thailand/05/06.webp (1024x444, 147365 bytes)",
+        "images/tour-photos/Thailand/06/04.webp (1024x444, 133135 bytes)",
+        "images/tour-photos/Thailand/03/02.webp (1024x444, 131743 bytes)",
+        "images/tour-photos/Thailand/03/06.webp (1024x444, 126204 bytes)"
+      ]
+    },
+    {
+      "country": "Tibet",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Togo",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Tonga",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Tonga",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Tonga/01/02.webp (1024x444, 158116 bytes)",
+        "images/tour-photos/Tonga/02/01.webp (1024x444, 152003 bytes)",
+        "images/tour-photos/Tonga/06/06.webp (1024x444, 148261 bytes)",
+        "images/tour-photos/Tonga/02/04.webp (1024x444, 130797 bytes)",
+        "images/tour-photos/Tonga/02/02.webp (1024x444, 112834 bytes)"
+      ]
+    },
+    {
+      "country": "Trinidad And Tobago",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Trinidad And Tobago",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Trinidad And Tobago/01/01.webp (1024x444, 145831 bytes)",
+        "images/tour-photos/Trinidad And Tobago/01/03.webp (1024x444, 98976 bytes)",
+        "images/tour-photos/Trinidad And Tobago/01/05.webp (1024x444, 81681 bytes)",
+        "images/tour-photos/Trinidad And Tobago/01/02.webp (1024x444, 79657 bytes)",
+        "images/tour-photos/Trinidad And Tobago/01/06.webp (1024x444, 67369 bytes)"
+      ]
+    },
+    {
+      "country": "Tunisia",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Tunisia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Tunisia/06/06.webp (1024x444, 122121 bytes)",
+        "images/tour-photos/Tunisia/05/03.webp (1024x444, 120642 bytes)",
+        "images/tour-photos/Tunisia/12/05.webp (1024x444, 119747 bytes)",
+        "images/tour-photos/Tunisia/03/02.webp (1024x444, 114316 bytes)",
+        "images/tour-photos/Tunisia/02/01.webp (1024x444, 111829 bytes)"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Turkey",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Turkey/07/05.webp (3120x1353, 528702 bytes)",
+        "images/tour-photos/Turkey/07/06.webp (3120x1353, 197570 bytes)",
+        "images/tour-photos/Turkey/02/02.webp (3072x1332, 846220 bytes)",
+        "images/tour-photos/Turkey/08/01.webp (3042x1319, 259822 bytes)",
+        "images/tour-photos/Turkey/11/02.webp (3027x1312, 179480 bytes)"
+      ]
+    },
+    {
+      "country": "Turkmenistan",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Uganda",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Uganda",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Uganda/06/03.webp (1024x444, 130578 bytes)",
+        "images/tour-photos/Uganda/07/03.webp (1024x444, 120420 bytes)",
+        "images/tour-photos/Uganda/04/03.webp (1024x444, 112378 bytes)",
+        "images/tour-photos/Uganda/03/03.webp (1024x444, 112303 bytes)",
+        "images/tour-photos/Uganda/04/01.webp (1024x444, 110315 bytes)"
+      ]
+    },
+    {
+      "country": "Uk",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Uk",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Uk/07/06.webp (1920x832, 363200 bytes)",
+        "images/tour-photos/Uk/06/02.webp (1920x832, 253190 bytes)",
+        "images/tour-photos/Uk/03/imgi_129_thomas-konings-7uV0rCUZS3I-unsplash-HEADER.jpg (1500x600, 283063 bytes)",
+        "images/tour-photos/Uk/06/03.webp (1490x647, 187614 bytes)",
+        "images/tour-photos/Uk/01/04.webp (1384x600, 241488 bytes)"
+      ]
+    },
+    {
+      "country": "United Arab Emirates",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "United Arab Emirates",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/United Arab Emirates/06/03.webp (1024x444, 120059 bytes)",
+        "images/tour-photos/United Arab Emirates/04/02.webp (1024x444, 119918 bytes)",
+        "images/tour-photos/United Arab Emirates/01/04.webp (1024x444, 118302 bytes)",
+        "images/tour-photos/United Arab Emirates/04/03.webp (1024x444, 113081 bytes)",
+        "images/tour-photos/United Arab Emirates/02/02.webp (1024x444, 110348 bytes)"
+      ]
+    },
+    {
+      "country": "Uruguay",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Uruguay",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Uruguay/03/05.webp (1024x444, 127074 bytes)",
+        "images/tour-photos/Uruguay/04/02.webp (1024x444, 122783 bytes)",
+        "images/tour-photos/Uruguay/08/04.webp (1024x444, 121036 bytes)",
+        "images/tour-photos/Uruguay/03/02.webp (1024x444, 120399 bytes)",
+        "images/tour-photos/Uruguay/05/03.webp (1024x444, 110007 bytes)"
+      ]
+    },
+    {
+      "country": "Usa",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Uzbekistan",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Vanuatu",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Venezuela",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Venezuela",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Venezuela/02/02.webp (1024x444, 108134 bytes)",
+        "images/tour-photos/Venezuela/01/04.webp (1024x444, 104739 bytes)",
+        "images/tour-photos/Venezuela/01/05.webp (1024x444, 93863 bytes)",
+        "images/tour-photos/Venezuela/02/01.webp (1024x444, 86756 bytes)",
+        "images/tour-photos/Venezuela/02/03.webp (1024x444, 79296 bytes)"
+      ]
+    },
+    {
+      "country": "Vietnam",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Vietnam",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Vietnam/01/01.webp (1024x444, 143568 bytes)",
+        "images/tour-photos/Vietnam/01/05.webp (1024x444, 121911 bytes)",
+        "images/tour-photos/Vietnam/04/03.webp (1024x444, 120045 bytes)",
+        "images/tour-photos/Vietnam/03/04.webp (1024x444, 118058 bytes)",
+        "images/tour-photos/Vietnam/03/03.webp (1024x444, 101449 bytes)"
+      ]
+    },
+    {
+      "country": "Wales",
+      "status": "skipped-no-country-photo-folder"
+    },
+    {
+      "country": "Western Sahara",
+      "status": "updated",
+      "changed": 3,
+      "photoFolder": "Western Sahara",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Western Sahara/01/01.webp (1024x444, 87975 bytes)",
+        "images/tour-photos/Western Sahara/01/02.webp (1024x444, 83091 bytes)",
+        "images/tour-photos/Western Sahara/01/04.webp (1024x444, 80899 bytes)",
+        "images/tour-photos/Western Sahara/01/05.webp (1024x444, 79839 bytes)",
+        "images/tour-photos/Western Sahara/01/06.webp (1024x444, 60356 bytes)"
+      ]
+    },
+    {
+      "country": "Zambia",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Zambia",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Zambia/03/04.webp (1024x444, 142291 bytes)",
+        "images/tour-photos/Zambia/01/06.webp (1024x444, 119089 bytes)",
+        "images/tour-photos/Zambia/09/01.webp (1024x444, 118525 bytes)",
+        "images/tour-photos/Zambia/03/02.webp (1024x444, 115576 bytes)",
+        "images/tour-photos/Zambia/01/04.webp (1024x444, 113212 bytes)"
+      ]
+    },
+    {
+      "country": "Zimbabwe",
+      "status": "updated",
+      "changed": 5,
+      "photoFolder": "Zimbabwe",
+      "exactPhotoFolder": true,
+      "selected": [
+        "images/tour-photos/Zimbabwe/02/01.webp (1024x444, 181655 bytes)",
+        "images/tour-photos/Zimbabwe/01/04.webp (1024x444, 116947 bytes)",
+        "images/tour-photos/Zimbabwe/01/01.webp (1024x444, 111641 bytes)",
+        "images/tour-photos/Zimbabwe/02/04.webp (1024x444, 106946 bytes)",
+        "images/tour-photos/Zimbabwe/02/03.webp (1024x444, 99855 bytes)"
+      ]
+    }
+  ]
+}

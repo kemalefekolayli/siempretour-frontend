@@ -91,4 +91,17 @@ class ApiService {
     static async filterTours(filterDto, page = 0, size = 50) {
         return this.request(`/tours/filter?page=${page}&size=${size}`, 'POST', filterDto);
     }
+
+    // Reviews
+    static async getReviewsByTour(tourId, lang = 'tr') {
+        return this.request(`/reviews/by-tour/${encodeURIComponent(tourId)}?lang=${encodeURIComponent(lang)}`);
+    }
+
+    static async getReviewsByDestination(destination, lang = 'tr') {
+        return this.request(`/reviews/by-destination?destination=${encodeURIComponent(destination)}&lang=${encodeURIComponent(lang)}`);
+    }
+
+    static async createReview(reviewData) {
+        return this.request('/reviews', 'POST', reviewData);
+    }
 }

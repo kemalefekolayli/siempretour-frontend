@@ -6,21 +6,40 @@
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    background: #000;
+    background: #215093;
     color: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
     z-index: 9999;
-    box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+    box-shadow: 0 4px 16px rgba(33,80,147,0.4);
     transition: transform 0.2s, background 0.2s;
     border: none;
     font-size: 24px;
 }
 .chat-bubble:hover {
     transform: scale(1.1);
-    background: #222;
+    background: #1a3f75;
+}
+.chat-bubble .chat-badge {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    width: 20px;
+    height: 20px;
+    background: #f33807;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 11px;
+    font-weight: 700;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+}
+.chat-bubble .chat-badge.show {
+    display: flex;
 }
 
 .chat-window {
@@ -31,7 +50,7 @@
     height: 500px;
     background: #fff;
     border-radius: 16px;
-    box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+    box-shadow: 0 8px 32px rgba(33,80,147,0.25);
     z-index: 9999;
     display: none;
     flex-direction: column;
@@ -42,7 +61,7 @@
 }
 
 .chat-header {
-    background: #000;
+    background: #215093;
     color: #fff;
     padding: 16px 20px;
     display: flex;
@@ -54,14 +73,28 @@
     font-weight: 600;
     font-size: 15px;
 }
+.chat-header-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.chat-header-clear,
 .chat-header-close {
     background: none;
     border: none;
-    color: #fff;
-    font-size: 20px;
+    color: rgba(255,255,255,0.8);
+    font-size: 16px;
     cursor: pointer;
-    padding: 0;
+    padding: 2px 4px;
     line-height: 1;
+    transition: color 0.2s;
+}
+.chat-header-clear:hover,
+.chat-header-close:hover {
+    color: #fff;
+}
+.chat-header-close {
+    font-size: 20px;
 }
 
 .chat-messages {
@@ -80,10 +113,11 @@
     font-size: 14px;
     line-height: 1.5;
     word-wrap: break-word;
+    position: relative;
 }
 .chat-msg.user {
     align-self: flex-end;
-    background: #000;
+    background: #215093;
     color: #fff;
     border-bottom-right-radius: 4px;
 }
@@ -93,18 +127,63 @@
     color: #333;
     border-bottom-left-radius: 4px;
 }
+.chat-msg .chat-copy-btn {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    background: none;
+    border: none;
+    color: inherit;
+    opacity: 0;
+    cursor: pointer;
+    font-size: 12px;
+    padding: 2px 5px;
+    border-radius: 4px;
+    transition: opacity 0.2s, background 0.2s;
+}
+.chat-msg:hover .chat-copy-btn {
+    opacity: 0.5;
+}
+.chat-msg .chat-copy-btn:hover {
+    opacity: 1;
+    background: rgba(0,0,0,0.1);
+}
+.chat-msg.user .chat-copy-btn:hover {
+    background: rgba(255,255,255,0.2);
+}
 
 .chat-typing {
-    align-self: flex-start;
-    padding: 10px 14px;
-    background: #f1f1f1;
-    border-radius: 12px;
+    padding: 10px 16px;
     font-size: 14px;
     color: #999;
     display: none;
 }
 .chat-typing.show {
-    display: block;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+.chat-typing-dots {
+    display: flex;
+    gap: 4px;
+}
+.chat-typing-dots span {
+    width: 6px;
+    height: 6px;
+    background: #215093;
+    border-radius: 50%;
+    opacity: 0.4;
+    animation: chatDot 1.4s infinite ease-in-out;
+}
+.chat-typing-dots span:nth-child(2) {
+    animation-delay: 0.2s;
+}
+.chat-typing-dots span:nth-child(3) {
+    animation-delay: 0.4s;
+}
+@keyframes chatDot {
+    0%, 80%, 100% { opacity: 0.4; transform: scale(1); }
+    40% { opacity: 1; transform: scale(1.2); }
 }
 
 .chat-input-area {
@@ -124,10 +203,10 @@
     font-family: inherit;
 }
 .chat-input:focus {
-    border-color: #000;
+    border-color: #215093;
 }
 .chat-send {
-    background: #000;
+    background: #215093;
     color: #fff;
     border: none;
     border-radius: 8px;
@@ -137,11 +216,27 @@
     transition: background 0.2s;
 }
 .chat-send:hover {
-    background: #333;
+    background: #1a3f75;
 }
 .chat-send:disabled {
-    background: #ccc;
+    background: #a0b8d8;
     cursor: not-allowed;
+}
+
+/* Retry button */
+.chat-retry-btn {
+    background: none;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 4px 10px;
+    font-size: 12px;
+    color: #215093;
+    cursor: pointer;
+    margin-top: 6px;
+    transition: background 0.2s;
+}
+.chat-retry-btn:hover {
+    background: #f1f1f1;
 }
 
 /* Mobile */

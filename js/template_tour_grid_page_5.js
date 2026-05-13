@@ -1,8 +1,8 @@
-console.log("extra text js yüklendi");
+﻿console.log("extra text js yÃ¼klendi");
 
 /* ===============================
    EXTRA TEXT RENDER
-   (_countrySlug zaten başka dosyada var)
+   (_countrySlug zaten baÅŸka dosyada var)
 ================================ */
 async function renderExtraTexts() {
     if (typeof _countrySlug === "undefined" || !_countrySlug) return;
@@ -23,21 +23,36 @@ async function renderExtraTexts() {
 
         const datas = await res.json();
         const bestTime = datas.find(d => d.type === "best-time-to");
+        const images = await (window.CountryPageImages?.pickMany(_countrySlug, [bestTime?.image1], 1) || Promise.resolve([]));
 
         if (!bestTime) {
             container.innerHTML = "";
             return;
         }
 
+        const introWrap = document.querySelector("#guide-tab-pane .col-lg-12.d-md-flex");
+        if (introWrap) {
+            introWrap.classList.add("best-time-editorial");
+        }
+
+        function figureCaption(index, fallback) {
+            const caption = bestTime[`image${index}Caption`] || bestTime[`caption${index}`] || "";
+            return caption ? `<figcaption>${caption}</figcaption>` : "";
+        }
+
         const img1 = document.getElementById("image1forwhentogo");
-        img1.innerHTML = `<div class="tour-bg__image"
-                                    style="background-image: url(${bestTime.image1});">
-                                </div>`;
+        if (img1 && images[0]) {
+            img1.innerHTML = `
+                <figure class="country-guide-image">
+                    <img src="${images[0]}" alt="${bestTime.Main_Title || _countrySlug}">
+                    ${figureCaption(1, bestTime.Main_Title || _countrySlug)}
+                </figure>
+            `;
+        }
 
 
         container.innerHTML = "";
 
-        let image2Inserted = false;
 
         for (let i = 1; i <= 20; i++) {
             const title = bestTime[`title${i}`];
@@ -56,19 +71,10 @@ async function renderExtraTexts() {
                 p.innerHTML = paragraph.replace(/\n/g, "<br>");
                 container.appendChild(p);
             }
-
-            // 🔥 SADECE title1 + paragraph1 sonrası
-            if (i === 1 && bestTime.image2 && !image2Inserted) {
-                const imgDiv = document.createElement("div");
-                imgDiv.className = "tour-bg__image";
-                imgDiv.style.backgroundImage = `url(${bestTime.image2})`;
-                container.appendChild(imgDiv);
-                image2Inserted = true;
-            }
         }
 
     } catch (err) {
-        console.error("Extra text yüklenemedi:", err);
+        console.error("Extra text yÃ¼klenemedi:", err);
         container.innerHTML = "";
     }
 }

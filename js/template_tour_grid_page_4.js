@@ -17,7 +17,7 @@ async function renderWeatherChart() {
 
   try {
     const res = await fetch(
-      `data/siempre_tour_country_datas/${_countrySlug}/datas.json`,
+      `data/siempre_tour_country_datas_tr/${_countrySlug}/datas.json`,
       { cache: "no-store" }
     );
 

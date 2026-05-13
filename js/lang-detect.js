@@ -19,14 +19,26 @@ function getActiveLang() {
 }
 
 /**
- * Google Translate: banner gizle + "Dili Seçir" -> "Dil Secin" + Turkce secenegi ekle
+ * Google Translate: keep the language selector visible and normalized.
+ * Google can replace its select after page load, so this must be repeatable.
  */
 (function fixGoogleTranslate() {
-  var selectFixed = false;
+  var fallbackId = 'languageFallbackSelect';
+  var supportedLanguages = [
+    { value: 'tr', label: 'T\u00FCrk\u00E7e' },
+    { value: 'en', label: 'English' },
+    { value: 'de', label: 'Deutsch' },
+    { value: 'fr', label: 'Fran\u00E7ais' },
+    { value: 'es', label: 'Espa\u00F1ol' },
+    { value: 'it', label: 'Italiano' },
+    { value: 'ru', label: 'Russian' },
+    { value: 'ar', label: 'Arabic' }
+  ];
 
   function removeBanner() {
     var iframe = document.querySelector('iframe.goog-te-banner-frame');
-    if (iframe) iframe.remove();
+    if (!iframe) return;
+    iframe.remove();
     document.documentElement.style.top = '0px';
     if (document.body) {
       document.body.style.top = '0px';
@@ -35,8 +47,18 @@ function getActiveLang() {
     document.documentElement.style.position = '';
   }
 
+  function getGoogleTranslateLang() {
+    var match = document.cookie.match(/googtrans=\/[^/]*\/([a-z-]+)/i);
+    return match ? match[1].toLowerCase() : 'tr';
+  }
+
+  function setGoogleTranslateCookie(lang) {
+    var value = '/tr/' + lang;
+    document.cookie = 'googtrans=' + value + '; path=/';
+    document.cookie = 'googtrans=' + value + '; path=/; domain=' + window.location.hostname;
+  }
+
   function fixSelect() {
-    if (selectFixed) return;
     var sel = document.querySelector('select.goog-te-combo');
     if (!sel) return;
 
@@ -46,8 +68,12 @@ function getActiveLang() {
 
     var hasTr = false;
     for (var i = 0; i < sel.options.length; i++) {
-      if (sel.options[i].value === 'tr') { hasTr = true; break; }
+      if (sel.options[i].value === 'tr') {
+        hasTr = true;
+        break;
+      }
     }
+
     if (!hasTr) {
       var opt = document.createElement('option');
       opt.value = 'tr';
@@ -58,20 +84,77 @@ function getActiveLang() {
         sel.appendChild(opt);
       }
     }
-    selectFixed = true;
+
+    var lang = getGoogleTranslateLang();
+    if (lang && sel.value !== lang) {
+      for (var j = 0; j < sel.options.length; j++) {
+        if (sel.options[j].value === lang) {
+          sel.value = lang;
+          break;
+        }
+      }
+    }
+
+    sel.setAttribute('aria-label', 'Dil secimi');
+    sel.style.display = 'inline-block';
+    sel.style.visibility = 'visible';
+    sel.style.opacity = '1';
+  }
+
+  function createFallbackSelect(container) {
+    var fallback = document.createElement('select');
+    fallback.id = fallbackId;
+    fallback.className = 'language-fallback-select';
+    fallback.setAttribute('aria-label', 'Dil secimi');
+
+    for (var i = 0; i < supportedLanguages.length; i++) {
+      var option = document.createElement('option');
+      option.value = supportedLanguages[i].value;
+      option.text = supportedLanguages[i].label;
+      fallback.appendChild(option);
+    }
+
+    fallback.addEventListener('change', function () {
+      setGoogleTranslateCookie(fallback.value);
+      window.location.reload();
+    });
+
+    container.appendChild(fallback);
+    return fallback;
+  }
+
+  function ensureFallback() {
+    var container = document.getElementById('google_translate_element');
+    if (!container) return;
+
+    var googleSelect = container.querySelector('select.goog-te-combo');
+    var fallback = document.getElementById(fallbackId);
+
+    if (googleSelect) {
+      if (fallback) fallback.style.display = 'none';
+      return;
+    }
+
+    if (!fallback) fallback = createFallbackSelect(container);
+    fallback.value = getGoogleTranslateLang();
+    fallback.style.display = 'inline-block';
+  }
+
+  function runOnce() {
+    removeBanner();
+    fixSelect();
+    ensureFallback();
   }
 
   function init() {
-    removeBanner();
-    fixSelect();
-
-    var obs = new MutationObserver(function () {
-      removeBanner();
-      if (!selectFixed) fixSelect();
+    runOnce();
+    // Google Translate injects its widget asynchronously after its script loads.
+    // A few delayed polls catch the injection without the runaway feedback loop
+    // that a MutationObserver + 1s setInterval used to create against GT's own
+    // DOM rewrites.
+    [500, 1500, 4000, 10000].forEach(function (ms) {
+      setTimeout(runOnce, ms);
     });
-    obs.observe(document.documentElement, { childList: true, subtree: true });
-
-    setInterval(removeBanner, 1000);
   }
 
   if (document.readyState === 'loading') {

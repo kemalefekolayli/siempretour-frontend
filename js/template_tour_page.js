@@ -70,11 +70,138 @@ function renderTour(tour) {
   });
 
   renderDayInfo(tour.dayInfo);
+  loadTourReviews(tour);
 
   if (typeof requestAnimationFrame === "function") {
     requestAnimationFrame(initTourSliders);
   } else {
     setTimeout(initTourSliders, 0);
+  }
+}
+
+function escapeHtml(value) {
+  return String(value || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}
+
+function renderStars(rating) {
+  const value = Math.max(0, Math.min(5, Number(rating) || 0));
+  return `${"★".repeat(value)}${"☆".repeat(5 - value)}`;
+}
+
+function formatReviewDate(value) {
+  if (!value) return "";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "";
+  return date.toLocaleDateString("tr-TR", {
+    year: "numeric",
+    month: "short",
+    day: "numeric"
+  });
+}
+
+function hideTourReviews() {
+  const section = document.getElementById("tour-reviews-section");
+  const container = document.getElementById("tour-reviews-container");
+  const ratingStars = document.getElementById("tourRatingStars");
+  const reviewCount = document.getElementById("tourReviewCount");
+  const sidebarTrust = document.getElementById("sidebarReviewTrust");
+
+  if (section) section.classList.add("d-none");
+  if (container) container.innerHTML = "";
+  if (ratingStars) {
+    ratingStars.innerHTML = "";
+    ratingStars.classList.add("d-none");
+  }
+  if (reviewCount) {
+    reviewCount.textContent = "";
+    reviewCount.classList.add("d-none");
+  }
+  if (sidebarTrust) {
+    sidebarTrust.innerHTML = "";
+    sidebarTrust.classList.add("d-none");
+  }
+}
+
+function renderTourReviews(reviews) {
+  const section = document.getElementById("tour-reviews-section");
+  const container = document.getElementById("tour-reviews-container");
+  const ratingStars = document.getElementById("tourRatingStars");
+  const reviewCount = document.getElementById("tourReviewCount");
+  const sidebarTrust = document.getElementById("sidebarReviewTrust");
+  if (!section || !container) return;
+
+  const total = reviews.length;
+  const average = reviews.reduce((sum, review) => sum + (Number(review.rating) || 0), 0) / total;
+  const roundedAverage = Math.round(average);
+
+  const items = reviews.map((review) => {
+    const dateText = formatReviewDate(review.travelDate || review.approvedAt || review.createdAt);
+    const title = escapeHtml(review.title || "Misafir yorumu");
+    const meta = dateText
+      ? `${escapeHtml(review.guestName || "Misafir")} &nbsp;&nbsp; ${escapeHtml(dateText)}`
+      : escapeHtml(review.guestName || "Misafir");
+
+    return `
+      <div class="comment-box">
+        <div class="comment-content rounded">
+          <h5 class="mb-1">${escapeHtml(review.guestName || "Misafir")}</h5>
+          <p class="comment-date">${meta}</p>
+          <div class="comment-rate">
+            <div class="rating mar-right-15 text-warning" aria-label="${Number(review.rating) || 0} / 5">${renderStars(review.rating)}</div>
+            <span class="comment-title">${title}</span>
+          </div>
+          <p class="comment">${escapeHtml(review.comment)}</p>
+        </div>
+      </div>
+    `;
+  }).join("");
+
+  container.innerHTML = `
+    <div class="review-box bg-title text-center py-4 p-2 rounded mb-4">
+      <h2 class="mb-1 white"><span>${average.toFixed(1)}</span>/5</h2>
+      <h4 class="white mb-1">Misafir Yorumları</h4>
+      <p class="mb-0 white font-italic">${total} doğrulanmış misafir yorumu</p>
+    </div>
+    <div class="single-comments single-box mb-4">
+      <h5 class="border-b pb-2 mb-2">${total} doğrulanmış misafir yorumu gösteriliyor</h5>
+      ${items}
+    </div>
+  `;
+  section.classList.remove("d-none");
+
+  if (ratingStars && reviewCount) {
+    ratingStars.innerHTML = renderStars(roundedAverage);
+    ratingStars.classList.remove("d-none");
+    reviewCount.textContent = `(${total} doğrulanmış yorum)`;
+    reviewCount.classList.remove("d-none");
+  }
+
+  if (sidebarTrust) {
+    sidebarTrust.innerHTML = `
+      <div class="sidebar-trust-stars">${renderStars(roundedAverage)}</div>
+      <p class="sidebar-trust-text">${total} doğrulanmış misafir yorumu</p>
+    `;
+    sidebarTrust.classList.remove("d-none");
+  }
+}
+
+async function loadTourReviews(tour) {
+  hideTourReviews();
+  if (!tour || !tour.id || typeof ApiService === "undefined" || typeof ApiService.getReviewsByTour !== "function") return;
+
+  const lang = typeof getActiveLang === 'function' ? getActiveLang() : (getQueryParam("lang") || "tr");
+  try {
+    const reviews = await ApiService.getReviewsByTour(tour.id, lang);
+    if (!Array.isArray(reviews) || reviews.length === 0) return;
+    renderTourReviews(reviews);
+  } catch (err) {
+    console.warn("Tur yorumları yüklenemedi:", err);
+    hideTourReviews();
   }
 }
 
