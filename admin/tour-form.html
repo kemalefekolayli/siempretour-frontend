@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tour Form | Siempre Tour</title>
+  <link rel="shortcut icon" type="image/x-icon" href="../images/favicon.svg">
+  <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="../css/style.css" rel="stylesheet" type="text/css">
+  <link href="../css/admin.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="../css/fontawesome.min.css">
+</head>
+<body class="admin-body" data-admin-page="tour-form">
+  <div class="admin-shell">
+    <aside class="admin-sidebar">
+      <a class="admin-brand" href="../index.html"><img src="../images/logolv.svg" alt="Siempre Logo"></a>
+      <nav class="admin-nav">
+        <a href="analytics.html"><i class="fa fa-chart-line"></i> Overview / Analytics</a>
+        <a href="tours.html"><i class="fa fa-suitcase"></i> Tour Management</a>
+        <a class="active" href="tour-form.html"><i class="fa fa-plus"></i> Add New Tour</a>
+        <a href="../index.html"><i class="fa fa-arrow-left"></i> Public Site</a>
+      </nav>
+    </aside>
+    <main class="admin-main">
+      <div class="admin-topbar">
+        <div class="admin-title"><h1 id="form-title">Add New Tour</h1><p>Fields match the current backend tour model and public page rendering.</p></div>
+        <a class="admin-btn" href="tours.html">Back to list</a>
+      </div>
+      <form id="tour-form" class="admin-grid">
+        <section class="admin-card admin-form-section">
+          <h3>Core Details</h3>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Tour title</label><input name="name" required minlength="3" placeholder="Örn: Büyük Balkan Turu"></div>
+            <div class="admin-field"><label>Slug</label><input name="slug" placeholder="Örn: buyuk-balkan-turu"></div>
+          </div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Language</label><select name="language"><option value="tr">Turkish</option><option value="en">English</option></select></div>
+            <div class="admin-field"><label>Destination / country</label><input name="destination" placeholder="Örn: Italy"></div>
+          </div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Category</label><select id="tour-category" name="category"></select></div>
+            <div class="admin-field"><label>Status</label><select id="tour-status" name="status"></select></div>
+          </div>
+          <label><input id="tour-active" type="checkbox" checked> Active on public website</label>
+        </section>
+
+        <section class="admin-card admin-form-section">
+          <h3>Pricing and Schedule</h3>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Price</label><input name="price" type="number" min="0" step="0.01" placeholder="Örn: 1299"></div>
+            <div class="admin-field"><label>Discounted price</label><input name="discountedPrice" type="number" min="0" step="0.01" placeholder="Örn: 1099"></div>
+          </div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Duration days</label><input name="duration" type="number" min="1" placeholder="Örn: 8"></div>
+            <div class="admin-field"><label>Available dates text</label><input name="dates" placeholder="Örn: 12 Haziran 2026, 20 Temmuz 2026"></div>
+          </div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Departure city</label><input name="departureCity" placeholder="Örn: İstanbul"></div>
+            <div class="admin-field"><label>Person number</label><input name="personNumber" placeholder="Örn: 2-16 kişi"></div>
+          </div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Minimum age</label><input name="minimumAge" placeholder="Örn: 12+"></div>
+            <div class="admin-field"><label>Meet point</label><input name="meet" placeholder="Örn: İstanbul Havalimanı dış hatlar terminali"></div>
+          </div>
+        </section>
+
+        <section class="admin-card admin-form-section">
+          <h3>Content</h3>
+          <div class="admin-field"><label>Description / general info</label><textarea name="generalInfo" placeholder="Tur açıklamasını detaylı şekilde yazın..."></textarea></div>
+          <div class="admin-field"><label>Places visited</label><textarea name="placesVisited" placeholder="Örn: Roma, Floransa, Venedik"></textarea></div>
+          <div class="admin-field"><label>What to expect</label><textarea name="whatExpect" placeholder="Örn: Şehir turları, tarihi merkez yürüyüşleri, yerel lezzet deneyimleri"></textarea></div>
+          <div class="admin-field"><label>Map embed/text</label><textarea name="map" placeholder="Örn: Google Maps iframe kodu veya rota açıklaması"></textarea></div>
+        </section>
+
+        <section class="admin-card admin-form-section">
+          <h3>Images</h3>
+          <div class="admin-field"><label>Upload local images</label><input id="tour-images" type="file" accept="image/jpeg,image/png,image/webp" multiple><div id="image-upload-status" class="admin-upload-status" aria-live="polite"></div></div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Main cover image URL/path</label><input name="mainPhoto" placeholder="Örn: /uploads/tours/kapak.webp"></div>
+            <div class="admin-field"><label>Image alt text</label><input name="imagealt" placeholder="Örn: Roma turu kapak görseli"></div>
+          </div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Image 1</label><input name="image1" placeholder="Örn: /uploads/tours/galeri-1.webp"></div>
+            <div class="admin-field"><label>Image 2</label><input name="image2" placeholder="Örn: /uploads/tours/galeri-2.webp"></div>
+          </div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Image 3</label><input name="image3" placeholder="Örn: /uploads/tours/galeri-3.webp"></div>
+            <div class="admin-field"><label>Image 4</label><input name="image4" placeholder="Örn: /uploads/tours/galeri-4.webp"></div>
+          </div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Image 5</label><input name="image5" placeholder="Örn: /uploads/tours/galeri-5.webp"></div>
+            <div class="admin-field"><label>Image 6</label><input name="image6" placeholder="Örn: /uploads/tours/galeri-6.webp"></div>
+          </div>
+          <div id="image-preview" class="admin-image-grid"></div>
+        </section>
+
+        <div class="admin-actions">
+          <button class="admin-btn primary" type="submit"><i class="fa fa-save"></i> Save tour</button>
+          <a class="admin-btn" href="tours.html">Cancel</a>
+        </div>
+      </form>
+    </main>
+  </div>
+  <script src="../js/api-service.js"></script>
+  <script src="../js/admin-panel.js"></script>
+</body>
+</html>

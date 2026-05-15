@@ -98,26 +98,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const registerForms = document.querySelectorAll('#registerFormInline, #contactform1');
     registerForms.forEach(attachRegisterHandler);
 
-    // === Check if user is logged in (Simple UI update) ===
-    const token = localStorage.getItem('jwt_token');
-    if (token) {
-        console.log("User is logged in");
-
-        // Update login buttons to show logged-in state
-        const loginButtons = document.querySelectorAll('.trip-button a, .log-reg-button-mobile a');
-        loginButtons.forEach(btn => {
-            if (btn.textContent.includes('Giriş') || btn.textContent.includes('Login') || btn.textContent.includes('Kayıt')) {
-                btn.textContent = 'Hesabım';
-                btn.href = '#';
-                btn.addEventListener('click', (e) => {
-                    e.preventDefault();
-                    if (confirm('Çıkış yapmak istiyor musunuz?')) {
-                        localStorage.removeItem('jwt_token');
-                        localStorage.removeItem('user_info');
-                        window.location.reload();
-                    }
-                });
-            }
-        });
-    }
+    // Navbar logged-in state (profile button, logout) is handled by js/navbar-user.js
+    // across all pages — kept centralized to avoid duplicate, inconsistent UI.
 });

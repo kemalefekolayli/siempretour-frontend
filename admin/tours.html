@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tour Management | Siempre Tour</title>
+  <link rel="shortcut icon" type="image/x-icon" href="../images/favicon.svg">
+  <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="../css/style.css" rel="stylesheet" type="text/css">
+  <link href="../css/admin.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="../css/fontawesome.min.css">
+</head>
+<body class="admin-body" data-admin-page="tours">
+  <div class="admin-shell">
+    <aside class="admin-sidebar">
+      <a class="admin-brand" href="../index.html"><img src="../images/logolv.svg" alt="Siempre Logo"></a>
+      <nav class="admin-nav">
+        <a href="analytics.html"><i class="fa fa-chart-line"></i> Overview / Analytics</a>
+        <a class="active" href="tours.html"><i class="fa fa-suitcase"></i> Tour Management</a>
+        <a href="tour-form.html"><i class="fa fa-plus"></i> Add New Tour</a>
+        <a href="../index.html"><i class="fa fa-arrow-left"></i> Public Site</a>
+      </nav>
+    </aside>
+    <main class="admin-main">
+      <div class="admin-topbar">
+        <div class="admin-title"><h1>Tour Management</h1><p>Search, edit, deactivate, preview, or permanently delete tours.</p></div>
+        <a class="admin-btn primary" href="tour-form.html"><i class="fa fa-plus"></i> Add New Tour</a>
+      </div>
+      <form id="tour-filters" class="admin-toolbar admin-card">
+        <div class="admin-field"><label>Search</label><input id="tour-q" type="search" placeholder="Tour name"></div>
+        <div class="admin-field"><label>Destination</label><input id="tour-destination-filter" type="text" placeholder="Country"></div>
+        <div class="admin-field"><label>Category</label><select id="filter-category"></select></div>
+        <div class="admin-field"><label>Status</label><select id="tour-status-filter"><option value="">All statuses</option><option>DRAFT</option><option>PUBLISHED</option><option>SOLD_OUT</option><option>CANCELLED</option><option>COMPLETED</option></select></div>
+        <div class="admin-field"><label>Active</label><select id="tour-active-filter"><option value="">All</option><option value="true">Active</option><option value="false">Inactive</option></select></div>
+        <button class="admin-btn primary" type="submit"><i class="fa fa-search"></i> Search</button>
+      </form>
+      <section class="admin-card"><div id="tour-list"></div></section>
+    </main>
+  </div>
+  <script src="../js/api-service.js"></script>
+  <script src="../js/admin-panel.js"></script>
+</body>
+</html>

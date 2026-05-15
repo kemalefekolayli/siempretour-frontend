@@ -47,6 +47,49 @@ class ApiService {
         }
     }
 
+    static async upload(endpoint, formData, auth = true) {
+        const headers = {};
+
+        if (auth) {
+            const token = localStorage.getItem('jwt_token');
+            if (token) {
+                headers['Authorization'] = `Bearer ${token}`;
+            }
+        }
+
+        const response = await fetch(`${API_BASE_URL}${endpoint}`, {
+            method: 'POST',
+            headers,
+            body: formData
+        });
+
+        if (!response.ok) {
+            let errorMessage = response.statusText || `HTTP ${response.status}`;
+            try {
+                const errorData = await response.json();
+                errorMessage = errorData.message || errorData.error || JSON.stringify(errorData);
+            } catch (e) {
+                // ignore json parse error
+            }
+            const error = new Error(errorMessage);
+            error.status = response.status;
+            throw error;
+        }
+
+        return response.status === 204 ? null : response.json();
+    }
+
+    static query(params = {}) {
+        const query = new URLSearchParams();
+        Object.entries(params).forEach(([key, value]) => {
+            if (value !== undefined && value !== null && value !== '') {
+                query.append(key, value);
+            }
+        });
+        const text = query.toString();
+        return text ? `?${text}` : '';
+    }
+
     // Auth
     static async login(email, password) {
         return this.request('/auth/login', 'POST', { email, password });
@@ -58,6 +101,65 @@ class ApiService {
 
     static async getMe() {
         return this.request('/auth/me', 'GET', null, true);
+    }
+
+    // Admin
+    static async adminSummary(params = {}) {
+        return this.request(`/admin/analytics/summary${this.query(params)}`, 'GET', null, true);
+    }
+
+    static async adminRequestsOverTime(params = {}) {
+        return this.request(`/admin/analytics/requests-over-time${this.query(params)}`, 'GET', null, true);
+    }
+
+    static async adminTopTours(params = {}) {
+        return this.request(`/admin/analytics/top-tours${this.query(params)}`, 'GET', null, true);
+    }
+
+    static async adminTopCategories(params = {}) {
+        return this.request(`/admin/analytics/top-categories${this.query(params)}`, 'GET', null, true);
+    }
+
+    static async adminRequests(params = {}) {
+        return this.request(`/admin/requests${this.query(params)}`, 'GET', null, true);
+    }
+
+    static async adminMetadata() {
+        return this.request('/admin/metadata', 'GET', null, true);
+    }
+
+    static async adminTours(params = {}) {
+        return this.request(`/admin/tours${this.query(params)}`, 'GET', null, true);
+    }
+
+    static async adminTour(tourId) {
+        return this.request(`/admin/tours/${encodeURIComponent(tourId)}`, 'GET', null, true);
+    }
+
+    static async adminCreateTour(tourData) {
+        return this.request('/admin/tours', 'POST', tourData, true);
+    }
+
+    static async adminUpdateTour(tourId, tourData) {
+        return this.request(`/admin/tours/${encodeURIComponent(tourId)}`, 'PUT', tourData, true);
+    }
+
+    static async adminDeactivateTour(tourId) {
+        return this.request(`/admin/tours/${encodeURIComponent(tourId)}/deactivate`, 'POST', {}, true);
+    }
+
+    static async adminDeleteCheck(tourId) {
+        return this.request(`/admin/tours/${encodeURIComponent(tourId)}/delete-check`, 'GET', null, true);
+    }
+
+    static async adminPermanentlyDeleteTour(tourId) {
+        return this.request(`/admin/tours/${encodeURIComponent(tourId)}/permanent`, 'DELETE', null, true);
+    }
+
+    static async adminUploadTourImages(files) {
+        const formData = new FormData();
+        Array.from(files || []).forEach(file => formData.append('files', file));
+        return this.upload('/admin/tours/images', formData, true);
     }
 
     // Bookings

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Admin Analytics | Siempre Tour</title>
+  <link rel="shortcut icon" type="image/x-icon" href="../images/favicon.svg">
+  <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="../css/style.css" rel="stylesheet" type="text/css">
+  <link href="../css/admin.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="../css/fontawesome.min.css">
+</head>
+<body class="admin-body" data-admin-page="analytics">
+  <div class="admin-shell">
+    <aside class="admin-sidebar">
+      <a class="admin-brand" href="../index.html"><img src="../images/logolv.svg" alt="Siempre Logo"></a>
+      <nav class="admin-nav">
+        <a class="active" href="analytics.html"><i class="fa fa-chart-line"></i> Overview / Analytics</a>
+        <a href="tours.html"><i class="fa fa-suitcase"></i> Tour Management</a>
+        <a href="tour-form.html"><i class="fa fa-plus"></i> Add New Tour</a>
+        <a href="../index.html"><i class="fa fa-arrow-left"></i> Public Site</a>
+      </nav>
+    </aside>
+    <main class="admin-main">
+      <div class="admin-topbar">
+        <div class="admin-title">
+          <h1>Analytics Dashboard</h1>
+          <p>Reservation and information-request demand from real backend records.</p>
+        </div>
+      </div>
+
+      <form id="analytics-filters" class="admin-toolbar admin-card">
+        <div class="admin-field"><label>Date from</label><input id="filter-start" type="date"></div>
+        <div class="admin-field"><label>Date to</label><input id="filter-end" type="date"></div>
+        <div class="admin-field"><label>Tour ID</label><input id="filter-tour" type="number" min="1" placeholder="All"></div>
+        <div class="admin-field"><label>Category</label><select id="filter-category"></select></div>
+        <div class="admin-field"><label>Request type</label><select id="filter-type"><option value="all">All</option><option value="reservation">Reservation</option><option value="information">Information</option></select></div>
+        <button class="admin-btn primary" type="submit"><i class="fa fa-filter"></i> Apply</button>
+      </form>
+
+      <section class="admin-grid cols-5">
+        <article class="admin-card admin-kpi"><span>Total reservation requests</span><strong id="kpi-reservations">0</strong></article>
+        <article class="admin-card admin-kpi"><span>Total information requests</span><strong id="kpi-info">0</strong></article>
+        <article class="admin-card admin-kpi"><span>This month’s requests</span><strong id="kpi-month">0</strong></article>
+        <article class="admin-card admin-kpi"><span>Most requested tour</span><strong id="kpi-tour">-</strong></article>
+        <article class="admin-card admin-kpi"><span>Most popular category</span><strong id="kpi-category">-</strong></article>
+      </section>
+
+      <section class="admin-grid cols-2 mt-4">
+        <article class="admin-card"><h3>Requests over time</h3><canvas id="requests-chart" height="130"></canvas></article>
+        <article class="admin-card"><h3>Requests by tour</h3><canvas id="tour-chart" height="130"></canvas></article>
+        <article class="admin-card"><h3>Requests by category</h3><canvas id="category-chart" height="130"></canvas></article>
+        <article class="admin-card"><h3>Demographics</h3><p class="admin-state">Gender and age distribution are unavailable because the current booking/contact models do not collect those fields.</p></article>
+      </section>
+
+      <section class="admin-grid cols-2 mt-4">
+        <article class="admin-card"><h3>Recent requests</h3><div id="recent-requests"></div></article>
+        <article class="admin-card"><h3>Top tours by demand</h3><div id="top-tours-table"></div></article>
+        <article class="admin-card"><h3>Top categories by demand</h3><div id="top-categories-table"></div></article>
+      </section>
+    </main>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="../js/api-service.js"></script>
+  <script src="../js/admin-panel.js"></script>
+</body>
+</html>

@@ -127,17 +127,21 @@ function getActiveLang() {
     var container = document.getElementById('google_translate_element');
     if (!container) return;
 
-    var googleSelect = container.querySelector('select.goog-te-combo');
+    // Use our custom select as the only visible language UI. Google Translate
+    // still loads (it performs the translation via the googtrans cookie set by
+    // the fallback), but its own UI (combo + simple gadget link) is hidden so
+    // the navbar doesn't render two language controls side-by-side
+    // (previously: fallback "Türkçe" + Google's "Dili Seçin").
     var fallback = document.getElementById(fallbackId);
-
-    if (googleSelect) {
-      if (fallback) fallback.style.display = 'none';
-      return;
-    }
-
     if (!fallback) fallback = createFallbackSelect(container);
     fallback.value = getGoogleTranslateLang();
     fallback.style.display = 'inline-block';
+
+    var googleSelect = container.querySelector('select.goog-te-combo');
+    if (googleSelect) googleSelect.style.display = 'none';
+
+    var googleGadget = container.querySelector('.goog-te-gadget');
+    if (googleGadget) googleGadget.style.display = 'none';
   }
 
   function runOnce() {
