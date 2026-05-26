@@ -1,4 +1,13 @@
-const API_BASE_URL = 'http://localhost:8080/api';
+// API base resolved by environment.
+// - Local dev (localhost/127.0.0.1/file://): talks to the local Spring Boot backend.
+// - Production: talks to the deployed backend. UPDATE the domain below once the
+//   Railway backend URL is known (replace PROD_BACKEND_ORIGIN).
+const PROD_BACKEND_ORIGIN = 'https://REPLACE-WITH-RAILWAY-BACKEND-DOMAIN';
+const API_BASE_URL = (function () {
+    var h = (typeof window !== 'undefined' && window.location) ? window.location.hostname : '';
+    var isLocal = h === '' || h === 'localhost' || h === '127.0.0.1' || h === '0.0.0.0';
+    return (isLocal ? 'http://localhost:8080' : PROD_BACKEND_ORIGIN) + '/api';
+})();
 
 class ApiService {
     static async request(endpoint, method = 'GET', body = null, auth = false) {

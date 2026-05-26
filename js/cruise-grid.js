@@ -1,7 +1,10 @@
-// cruise-grid.js — Dynamic cruise tour loading with ship name search
+// cruise-grid.js — Cruise tours with ship name + cruise company filtering (client-side)
 
 (function () {
   var debounceTimer = null;
+  var allCruises = [];
+  var loaded = false;
+  var PAGE_SIZE = 30;
 
   function getLang() {
     return typeof getActiveLang === 'function' ? getActiveLang() : 'tr';
@@ -13,14 +16,18 @@
       '&country=' + encodeURIComponent(tour.destination);
   }
 
+  function normalize(str) {
+    return (str == null ? '' : String(str)).toLowerCase();
+  }
+
   function renderCards(tours) {
     var container = document.getElementById('cruiseCards');
     var countEl = document.getElementById('cruiseCount');
     if (!container) return;
 
     if (!tours || tours.length === 0) {
-      container.innerHTML = '<div class="col-12 text-center py-5"><p>Gemi turu bulunamadı.</p></div>';
-      if (countEl) countEl.textContent = '';
+      container.innerHTML = '<div class="col-12 text-center py-5"><p>Aradığınız kriterlere uygun gemi turu bulunamadı.</p></div>';
+      if (countEl) countEl.textContent = loaded ? '0 sonuç' : '';
       return;
     }
 
@@ -29,11 +36,12 @@
     container.innerHTML = '';
     tours.forEach(function (tour) {
       var image = tour.image1 || tour.mainPhoto || '';
-      var alt = tour.imagealt || tour.tourName || 'Tour image';
+      var alt = tour.imagealt || tour.tourName || tour.name || 'Tour image';
       var days = tour.durationDays || tour.duration || '';
       var title = tour.tourName || tour.name || '';
       var places = tour.placesVisited || '';
       var shipName = tour.shipName || '';
+      var shipCompany = tour.shipCompany || '';
       var destination = tour.destination || '';
       var destTr = typeof countryNameTr === 'function' ? countryNameTr(destination) : destination;
       var detailUrl = makeDetailUrl(tour);
@@ -55,6 +63,7 @@
         '</div>' +
         '<h5 class="mb-1"><a href="' + detailUrl + '">' + title + '</a></h5>' +
         (shipName ? '<p class="text-muted mb-1"><i class="fa fa-ship"></i> ' + shipName + '</p>' : '') +
+        (shipCompany ? '<p class="text-muted mb-1"><i class="fa fa-anchor"></i> ' + shipCompany + '</p>' : '') +
         '<p class="border-b pb-2 mb-2">' + places + '</p>' +
         '</div></div></div>';
 
@@ -62,49 +71,110 @@
     });
   }
 
-  function loadCruiseTours(shipNameQuery) {
+  function shipHaystack(tour) {
+    return normalize(
+      (tour.shipName || '') + ' ' +
+      (tour.tourName || tour.name || '')
+    );
+  }
+
+  function companyHaystack(tour) {
+    return normalize(
+      (tour.shipCompany || '') + ' ' +
+      (tour.tourName || tour.name || '') + ' ' +
+      (tour.generalInfo || '')
+    );
+  }
+
+  function applyFilters() {
+    if (!loaded) return;
+    var shipEl = document.getElementById('shipSearch');
+    var companyEl = document.getElementById('companySearch');
+    var shipQ = normalize(shipEl ? shipEl.value.trim() : '');
+    var companyQ = normalize(companyEl ? companyEl.value.trim() : '');
+
+    if (!shipQ && !companyQ) {
+      renderCards(allCruises);
+      return;
+    }
+
+    var filtered = allCruises.filter(function (t) {
+      if (shipQ && shipHaystack(t).indexOf(shipQ) === -1) return false;
+      if (companyQ && companyHaystack(t).indexOf(companyQ) === -1) return false;
+      return true;
+    });
+    renderCards(filtered);
+  }
+
+  function fetchPage(filter, page) {
+    return ApiService.filterTours(filter, page, PAGE_SIZE).then(function (resp) {
+      if (Array.isArray(resp)) return { content: resp, totalPages: 1 };
+      return resp || { content: [], totalPages: 1 };
+    });
+  }
+
+  function fetchAllCruises() {
+    var lang = getLang();
+    var filter = { category: 'CRUISE', language: lang };
+    return fetchPage(filter, 0).then(function (firstPage) {
+      var tours = (firstPage.content || []).slice();
+      var totalPages = firstPage.totalPages || 1;
+      if (totalPages <= 1) return tours;
+      var promises = [];
+      for (var p = 1; p < totalPages; p++) promises.push(fetchPage(filter, p));
+      return Promise.all(promises).then(function (pages) {
+        pages.forEach(function (pg) { tours = tours.concat(pg.content || []); });
+        return tours;
+      });
+    });
+  }
+
+  function showLoading() {
     var container = document.getElementById('cruiseCards');
     if (!container) return;
-
     container.innerHTML = '<div class="col-12 text-center py-5">' +
       '<div class="spinner-border text-primary" role="status">' +
       '<span class="visually-hidden">Yükleniyor...</span></div>' +
       '<p class="mt-2">Gemi turları yükleniyor...</p></div>';
+  }
 
-    var lang = getLang();
-    var filter = {
-      category: 'CRUISE',
-      language: lang
-    };
+  function showError() {
+    var container = document.getElementById('cruiseCards');
+    if (!container) return;
+    container.innerHTML = '<div class="col-12 text-center py-5">' +
+      '<p>Gemi turları şu anda yüklenemiyor.</p></div>';
+  }
 
-    if (shipNameQuery && shipNameQuery.trim()) {
-      filter.shipName = shipNameQuery.trim();
-    }
-
-    ApiService.filterTours(filter)
-      .then(function (response) {
-        // Backend returns PagedResponse with 'content' array
-        var tours = Array.isArray(response) ? response : (response.content || []);
-        renderCards(tours);
-      })
-      .catch(function (err) {
-        console.error('Gemi turları yüklenirken hata:', err);
-        container.innerHTML = '<div class="col-12 text-center py-5">' +
-          '<p>Gemi turları şu anda yüklenemiyor.</p></div>';
-      });
+  function debouncedApply() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(applyFilters, 250);
   }
 
   function init() {
-    loadCruiseTours('');
+    showLoading();
 
-    var searchInput = document.getElementById('shipSearch');
-    if (searchInput) {
-      searchInput.addEventListener('input', function () {
-        var val = searchInput.value;
-        clearTimeout(debounceTimer);
-        debounceTimer = setTimeout(function () {
-          loadCruiseTours(val);
-        }, 400);
+    fetchAllCruises()
+      .then(function (tours) {
+        allCruises = tours || [];
+        loaded = true;
+        renderCards(allCruises);
+      })
+      .catch(function (err) {
+        console.error('Gemi turları yüklenirken hata:', err);
+        showError();
+      });
+
+    var ship = document.getElementById('shipSearch');
+    var company = document.getElementById('companySearch');
+    var clearBtn = document.getElementById('clearCruiseFilters');
+
+    if (ship) ship.addEventListener('input', debouncedApply);
+    if (company) company.addEventListener('input', debouncedApply);
+    if (clearBtn) {
+      clearBtn.addEventListener('click', function () {
+        if (ship) ship.value = '';
+        if (company) company.value = '';
+        applyFilters();
       });
     }
   }

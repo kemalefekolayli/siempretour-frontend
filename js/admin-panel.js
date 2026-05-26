@@ -538,7 +538,15 @@
       if (page === "tours") await initTours();
       if (page === "tour-form") await initTourForm();
     } catch (error) {
-      alert(error.message);
+      console.error("Admin panel init failed:", error);
+      var msg = (error && error.message) ? error.message : "";
+      if (/403|unauthorized|forbidden/i.test(msg) || msg === "") {
+        msg = "Admin oturumu doğrulanamadı. Lütfen çıkış yapıp admin hesabıyla tekrar giriş yapın.";
+      }
+      var bar = document.createElement("div");
+      bar.style.cssText = "position:fixed;top:0;left:0;right:0;background:#b00020;color:#fff;padding:10px 16px;z-index:99999;font:14px/1.4 sans-serif;";
+      bar.textContent = "Admin paneli yüklenemedi: " + msg;
+      document.body.appendChild(bar);
     }
   });
 })();

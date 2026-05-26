@@ -1179,13 +1179,21 @@
             <div class="row">
                 <div class="col-lg-12 mb-4">
                     <div class="d-flex align-items-center gap-3 flex-wrap">
-                        <div class="flex-grow-1" style="max-width: 400px;">
+                        <div style="max-width: 320px; flex: 1 1 240px;">
                             <div class="input-group">
                                 <span class="input-group-text bg-white"><i class="fa fa-ship"></i></span>
                                 <input type="text" id="shipSearch" class="form-control"
-                                    placeholder="Gemi adı ile ara... (ör. Explorer of the Seas)">
+                                    placeholder="Gemi adı ile ara...">
                             </div>
                         </div>
+                        <div style="max-width: 320px; flex: 1 1 240px;">
+                            <div class="input-group">
+                                <span class="input-group-text bg-white"><i class="fa fa-anchor"></i></span>
+                                <input type="text" id="companySearch" class="form-control"
+                                    placeholder="Şirket / Cruise firması ile ara...">
+                            </div>
+                        </div>
+                        <button type="button" id="clearCruiseFilters" class="btn btn-outline-secondary">Temizle</button>
                         <p id="cruiseCount" class="mb-0 text-muted"></p>
                     </div>
                 </div>

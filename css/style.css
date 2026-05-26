@@ -7860,6 +7860,14 @@ ul.sidebar-tags li a:hover {
   object-fit: cover;
 }
 
+/* Aylık macera kartları: yerel (yatay) görseller dikey kart formatına kırpılır */
+.month-selector .trend-item1-carousel img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 11 / 20;
+  object-fit: cover;
+}
+
 /* Remove flex-nowrap from inner rows */
 .row.flex-row.flex-nowrap {
   flex-wrap: wrap !important;
