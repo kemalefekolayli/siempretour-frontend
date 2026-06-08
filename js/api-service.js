@@ -2,7 +2,7 @@
 // - Local dev (localhost/127.0.0.1/file://): talks to the local Spring Boot backend.
 // - Production: talks to the deployed backend. UPDATE the domain below once the
 //   Railway backend URL is known (replace PROD_BACKEND_ORIGIN).
-const PROD_BACKEND_ORIGIN = 'https://REPLACE-WITH-RAILWAY-BACKEND-DOMAIN';
+const PROD_BACKEND_ORIGIN = 'https://siempretour-backend-629682499889.europe-west1.run.app';
 const API_BASE_URL = (function () {
     var h = (typeof window !== 'undefined' && window.location) ? window.location.hostname : '';
     var isLocal = h === '' || h === 'localhost' || h === '127.0.0.1' || h === '0.0.0.0';
