@@ -21,3 +21,14 @@ node_modules/
 # Environment
 .env
 .env.*
+
+# Large media files (serve via WordPress/CDN)
+images/tour-photos/
+images/tour.mp4
+images/siempre-video1.mp4
+images/austria-carosel/
+avrupa-turlari.zip
+
+# Browser profile data (accidentally committed)
+.edge-profile-shot/
+.chrome-profile-shot/
