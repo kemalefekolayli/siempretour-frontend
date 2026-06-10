@@ -14,8 +14,8 @@ document.addEventListener('DOMContentLoaded', function () {
   const sidebarColumn = centeredSidebar ? centeredSidebar.parentElement : null;
   const DESKTOP_LEFT_SHIFT = -16;
 
-  // URL'de category varsa sidebar gizle
-  if (categoryParam) {
+  // Diğer categoryParam'larda sidebar'ı gizle
+  if (categoryParam && categoryParam !== 'Ship/Cruise') {
     const sidebar = document.querySelector('.sidebar-sticky');
     if (sidebar) sidebar.style.display = 'none';
     return;
@@ -217,6 +217,82 @@ document.addEventListener('DOMContentLoaded', function () {
   window.addEventListener('scroll', requestSidebarPositionUpdate, { passive: true });
   window.addEventListener('resize', requestSidebarPositionUpdate);
   window.addEventListener('load', requestSidebarPositionUpdate);
-  fetchTours();
+
+  if (categoryParam === 'Ship/Cruise') {
+    initShipFilter();
+  } else {
+    fetchTours();
+  }
+
+  // ===============================
+  // GEMİ FİLTRESİ (Ship/Cruise modu)
+  // ===============================
+
+  async function initShipFilter() {
+    const sidebarEl = document.querySelector('.sidebar-sticky');
+    const sidebarItem = sidebarEl ? sidebarEl.querySelector('.sidebar-item') : null;
+    if (!sidebarItem) return;
+
+    // Başlığı değiştir
+    const h3 = sidebarItem.querySelector('h3');
+    if (h3) h3.textContent = 'Gemilerimiz';
+
+    // Checkbox listesini temizle
+    const ul = sidebarItem.querySelector('ul.sidebar-category1');
+    if (ul) ul.innerHTML = '<li class="text-muted small">Yükleniyor...</li>';
+
+    // Turları çek
+    const country = decodeURIComponent(countryParam || '');
+    const lang = typeof getActiveLang === 'function' ? getActiveLang() : 'tr';
+    let tours = [];
+    try {
+      const all = await ApiService.getToursByDestination(country, lang);
+      tours = (Array.isArray(all) ? all : []).filter(t => t.category === 'Ship/Cruise');
+    } catch (e) {
+      if (ul) ul.innerHTML = '';
+      return;
+    }
+
+    // Benzersiz gemi adlarını topla
+    const shipMap = {};
+    tours.forEach(t => {
+      const name = (t.shipName || '').trim();
+      if (name) shipMap[name] = (shipMap[name] || 0) + 1;
+    });
+
+    const ships = Object.keys(shipMap).sort();
+
+    if (!ships.length) {
+      if (ul) ul.innerHTML = '<li class="text-muted small">Gemi bilgisi bulunamadı.</li>';
+      return;
+    }
+
+    // Checkbox listesini oluştur
+    ul.innerHTML = ships.map(ship =>
+      `<li>
+        <input type="checkbox" class="ship-filter-cb" value="${ship}">
+        ${ship} <span class="float-end count">${shipMap[ship]}</span>
+      </li>`
+    ).join('');
+
+    // Filtre mantığı
+    function applyShipFilter() {
+      const selected = Array.from(ul.querySelectorAll('.ship-filter-cb:checked')).map(c => c.value);
+      const cards = document.querySelectorAll('#tourCards .tour-card');
+      cards.forEach((card, i) => {
+        const tour = tours[i];
+        if (!tour) return;
+        if (!selected.length || selected.includes((tour.shipName || '').trim())) {
+          card.style.display = '';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    }
+
+    ul.querySelectorAll('.ship-filter-cb').forEach(cb => {
+      cb.addEventListener('change', applyShipFilter);
+    });
+  }
 
 });
