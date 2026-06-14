@@ -41,6 +41,10 @@
             <div class="admin-field"><label>Category</label><select id="tour-category" name="category"></select></div>
             <div class="admin-field"><label>Status</label><select id="tour-status" name="status"></select></div>
           </div>
+          <div id="ship-cruise-fields" class="admin-form-row" style="display:none;">
+            <div class="admin-field"><label>Cruz Şirketi</label><input name="shipCompany" id="tour-ship-company" placeholder="Örn: MSC Cruises"></div>
+            <div class="admin-field"><label>Gemi Adı</label><input name="shipName" id="tour-ship-name" placeholder="Örn: MSC Magnifica"></div>
+          </div>
           <label><input id="tour-active" type="checkbox" checked> Active on public website</label>
         </section>
 
@@ -62,6 +66,30 @@
             <div class="admin-field"><label>Minimum age</label><input name="minimumAge" placeholder="Örn: 12+"></div>
             <div class="admin-field"><label>Meet point</label><input name="meet" placeholder="Örn: İstanbul Havalimanı dış hatlar terminali"></div>
           </div>
+          <div class="admin-form-row">
+            <div class="admin-field">
+              <label>Etkinlik / Dönem</label>
+              <select name="eventType" id="tour-event-type">
+                <option value="">— Seçiniz (isteğe bağlı) —</option>
+                <option value="NISAN_23">23 Nisan Gezisi</option>
+                <option value="TIP_BAYRAMI">Tıp Bayramı</option>
+                <option value="MAYIS_1">1 Mayıs Bayramı</option>
+                <option value="MAYIS_19">19 Mayıs Gezisi</option>
+                <option value="TEMMUZ_15">15 Temmuz</option>
+                <option value="AGUSTOS_30">30 Ağustos</option>
+                <option value="EKIM_29">29 Ekim</option>
+                <option value="YILBASI">Yılbaşı Gezisi</option>
+                <option value="RAMAZAN_BAYRAMI">Ramazan Bayramı Gezisi</option>
+                <option value="KURBAN_BAYRAMI">Kurban Bayramı Gezisi</option>
+                <option value="SEMESTRE">Sömestre Gezisi</option>
+                <option value="PASKALYA">Paskalya</option>
+              </select>
+            </div>
+          </div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Başlangıç tarihi</label><input id="tour-start-date" type="date"></div>
+            <div class="admin-field"><label>Bitiş tarihi</label><input id="tour-end-date" type="date"></div>
+          </div>
         </section>
 
         <section class="admin-card admin-form-section">
@@ -69,7 +97,20 @@
           <div class="admin-field"><label>Description / general info</label><textarea name="generalInfo" placeholder="Tur açıklamasını detaylı şekilde yazın..."></textarea></div>
           <div class="admin-field"><label>Places visited</label><textarea name="placesVisited" placeholder="Örn: Roma, Floransa, Venedik"></textarea></div>
           <div class="admin-field"><label>What to expect</label><textarea name="whatExpect" placeholder="Örn: Şehir turları, tarihi merkez yürüyüşleri, yerel lezzet deneyimleri"></textarea></div>
-          <div class="admin-field"><label>Map embed/text</label><textarea name="map" placeholder="Örn: Google Maps iframe kodu veya rota açıklaması"></textarea></div>
+        </section>
+
+        <section class="admin-card admin-form-section">
+          <h3>Map Route</h3>
+          <div id="map-stops-list"></div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Şehir / Yer Adı</label><input id="map-stop-name" placeholder="Örn: Roma"></div>
+            <div class="admin-field"><label>Ülke</label><input id="map-stop-country" placeholder="Örn: İtalya"></div>
+          </div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Enlem (Lat)</label><input id="map-stop-lat" type="number" step="any" placeholder="Örn: 41.9028"></div>
+            <div class="admin-field"><label>Boylam (Lng)</label><input id="map-stop-lng" type="number" step="any" placeholder="Örn: 12.4964"></div>
+          </div>
+          <button type="button" id="map-stop-add" class="admin-btn"><i class="fa fa-plus"></i> Durak Ekle</button>
         </section>
 
         <section class="admin-card admin-form-section">

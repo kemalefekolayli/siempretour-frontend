@@ -880,6 +880,11 @@
                                 data-bs-target="#guide-tab-pane" type="button" role="tab" aria-controls="guide-tab-pane"
                                 aria-selected="false">Gidilecek En iyi Zaman</button>
                         </li>
+                        <li class="nav-item bg-grey d-none" id="ships-tab-item" role="presentation">
+                            <button class="nav-link" id="ships-tab" data-bs-toggle="tab"
+                                data-bs-target="#ships-tab-pane" type="button" role="tab"
+                                aria-controls="ships-tab-pane" aria-selected="false">Gemilerimiz</button>
+                        </li>
                         <li class="nav-item bg-grey d-none" id="reviews-tab-item" role="presentation">
                             <button class="nav-link" id="reviews-tab" data-bs-toggle="tab"
                                 data-bs-target="#reviews-tab-pane" type="button" role="tab"
@@ -998,6 +1003,36 @@
                                                     <li><input type="checkbox" value="Historical"> Tarihi <span class="float-end count">0</span>
                                                     </li>
                                                 </ul>
+                                            </div>
+                                            <!-- Ne zaman? filtresi -->
+                                            <div class="sidebar-item mb-4">
+                                                <h3 class="">Ne zaman?</h3>
+                                                <select id="eventFilterSelect" class="sidebar-event-select">
+                                                    <option value="">Tümü</option>
+                                                    <option value="NISAN_23">23 Nisan Gezisi</option>
+                                                    <option value="TIP_BAYRAMI">Tıp Bayramı</option>
+                                                    <option value="MAYIS_1">1 Mayıs Bayramı</option>
+                                                    <option value="MAYIS_19">19 Mayıs Gezisi</option>
+                                                    <option value="TEMMUZ_15">15 Temmuz</option>
+                                                    <option value="AGUSTOS_30">30 Ağustos</option>
+                                                    <option value="EKIM_29">29 Ekim</option>
+                                                    <option value="YILBASI">Yılbaşı Gezisi</option>
+                                                    <option value="RAMAZAN_BAYRAMI">Ramazan Bayramı Gezisi</option>
+                                                    <option value="KURBAN_BAYRAMI">Kurban Bayramı Gezisi</option>
+                                                    <option value="SEMESTRE">Sömestre Gezisi</option>
+                                                    <option value="PASKALYA">Paskalya</option>
+                                                </select>
+                                            </div>
+                                            <!-- Tarih filtresi -->
+                                            <div class="sidebar-item mb-4">
+                                                <h3 class="">Tarih</h3>
+                                                <div class="sidebar-date-filter">
+                                                    <label class="sidebar-date-label">Başlangıç</label>
+                                                    <input type="date" id="dateFilterStart" class="sidebar-date-input">
+                                                    <label class="sidebar-date-label">Bitiş</label>
+                                                    <input type="date" id="dateFilterEnd" class="sidebar-date-input">
+                                                    <button type="button" id="dateFilterClear" class="sidebar-date-clear">Temizle</button>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -1265,6 +1300,13 @@
 
                 <!-- Tur Rehberi end-->
 
+                <!-- Gemilerimiz start-->
+                <div class="tab-pane fade pt-2" id="ships-tab-pane" role="tabpanel" aria-labelledby="ships-tab"
+                    tabindex="0">
+                    <div class="container" id="ships-container"></div>
+                </div>
+                <!-- Gemilerimiz end-->
+
                 <!-- Yorumlar start-->
                 <div class="tab-pane fade pt-2" id="reviews-tab-pane" role="tabpanel" aria-labelledby="reviews-tab"
                     tabindex="0">
@@ -1346,7 +1388,7 @@
                                 <li class="black"><strong>Asres:</strong> 
                                   Cevat Şakir Cad. Orkide Sk. No:15 K:3 Gümbet Bodrum, Türkiye</li>
                                 <li class="black"><strong>Email:</strong> 	info@siempretour.com</li>
-                                <li class="black"><strong>Telefon:</strong> +90 532 516 23 42</li>
+                                <li class="black"><strong>Telefon:</strong> +90 546 587 00 48</li>
                                 <li class="black"><strong>Website:</strong> www.siempretour.com</li>
                             </ul>
                         </div>

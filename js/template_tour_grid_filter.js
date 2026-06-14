@@ -14,22 +14,31 @@ document.addEventListener('DOMContentLoaded', function () {
   const sidebarColumn = centeredSidebar ? centeredSidebar.parentElement : null;
   const DESKTOP_LEFT_SHIFT = -16;
 
-  // Diğer categoryParam'larda sidebar'ı gizle
-  if (categoryParam && categoryParam !== 'Ship/Cruise') {
-    const sidebar = document.querySelector('.sidebar-sticky');
-    if (sidebar) sidebar.style.display = 'none';
-    return;
-  }
-
   const filterCheckboxes = document.querySelectorAll('.sidebar-category1 input[type="checkbox"]');
+  const eventSelect = document.getElementById('eventFilterSelect');
+  const dateFilterStart = document.getElementById('dateFilterStart');
+  const dateFilterEnd = document.getElementById('dateFilterEnd');
+  const dateFilterClear = document.getElementById('dateFilterClear');
 
   let allTours = [];
+  let selectedEventType = '';
+  let selectedShips = [];
 
   const normalize = (s) => (s ?? '').toString().trim();
 
+  // Belirli bir kategori URL'sindeyken (Ship/Cruise hariç) kategori bölümünü gizle
+  if (categoryParam && categoryParam !== 'Ship/Cruise') {
+    const categorySidebarItem = document.querySelector('.sidebar-category1') &&
+      document.querySelector('.sidebar-category1').closest('.sidebar-item');
+    if (categorySidebarItem) categorySidebarItem.style.display = 'none';
+  }
+
+  // ===============================
+  // SIDEBAR POSITION
+  // ===============================
+
   function resetCenteredSidebarStyles() {
     if (!centeredSidebar) return;
-
     centeredSidebar.style.position = '';
     centeredSidebar.style.top = '';
     centeredSidebar.style.left = '';
@@ -39,29 +48,23 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function applyDesktopLeftShiftInFlow() {
     if (!centeredSidebar) return;
-
     if (window.matchMedia('(max-width: 991.98px)').matches) {
       centeredSidebar.style.transform = '';
       return;
     }
-
     centeredSidebar.style.transform = `translateX(${DESKTOP_LEFT_SHIFT}px)`;
   }
 
   function updateCenteredSidebarPosition() {
     if (!centeredSidebar || !sidebarColumn) return;
-
     if (window.matchMedia('(max-width: 991.98px)').matches) {
       resetCenteredSidebarStyles();
       return;
     }
-
     sidebarColumn.style.position = 'relative';
-
     const viewportHeight = window.innerHeight || document.documentElement.clientHeight;
     const sidebarHeight = centeredSidebar.offsetHeight;
     const fixedTop = Math.round((viewportHeight - sidebarHeight) / 2);
-
     const columnRect = sidebarColumn.getBoundingClientRect();
     const columnStyles = window.getComputedStyle(sidebarColumn);
     const padLeft = parseFloat(columnStyles.paddingLeft) || 0;
@@ -75,13 +78,11 @@ document.addEventListener('DOMContentLoaded', function () {
       resetCenteredSidebarStyles();
       return;
     }
-
     if (window.scrollY <= startScrollY) {
       resetCenteredSidebarStyles();
       applyDesktopLeftShiftInFlow();
       return;
     }
-
     if (window.scrollY >= endScrollY) {
       centeredSidebar.style.position = 'absolute';
       centeredSidebar.style.top = `${Math.max(0, sidebarColumn.offsetHeight - sidebarHeight)}px`;
@@ -90,7 +91,6 @@ document.addEventListener('DOMContentLoaded', function () {
       centeredSidebar.style.transform = '';
       return;
     }
-
     centeredSidebar.style.position = 'fixed';
     centeredSidebar.style.top = `${fixedTop}px`;
     centeredSidebar.style.left = `${Math.round(contentLeft + DESKTOP_LEFT_SHIFT)}px`;
@@ -99,23 +99,22 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // ===============================
-  // FETCH TOURS (from Backend API)
+  // FETCH TOURS
   // ===============================
 
   async function fetchTours() {
-
     if (!countryParam) return;
-
     const country = decodeURIComponent(countryParam);
     const lang = typeof getActiveLang === 'function' ? getActiveLang() : (new URLSearchParams(window.location.search).get('lang') || 'tr');
-
     try {
       const tours = await ApiService.getToursByDestination(country, lang);
-      allTours = Array.isArray(tours) ? tours : [];
-
-      updateCategoryCounts();
+      let all = Array.isArray(tours) ? tours : [];
+      if (categoryParam) {
+        all = all.filter(t => t.category === categoryParam);
+      }
+      allTours = all;
+      if (!categoryParam) updateCategoryCounts();
       requestSidebarPositionUpdate();
-
     } catch (err) {
       console.error("Filter fetch error:", err);
     }
@@ -126,29 +125,19 @@ document.addEventListener('DOMContentLoaded', function () {
   // ===============================
 
   function updateCategoryCounts() {
-
     const categoryCounts = {};
-
     allTours.forEach(tour => {
       const cat = normalize(tour.category);
       if (!cat) return;
-
       categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
     });
-
     filterCheckboxes.forEach(cb => {
       const value = normalize(cb.value);
       const countSpan = cb.parentElement.querySelector('.count');
       const listItem = cb.closest('li');
       const count = categoryCounts[value] || 0;
-
-      if (countSpan) {
-        countSpan.textContent = count;
-      }
-
-      if (listItem) {
-        listItem.style.display = count > 0 ? 'block' : 'none';
-      }
+      if (countSpan) countSpan.textContent = count;
+      if (listItem) listItem.style.display = count > 0 ? 'block' : 'none';
     });
   }
 
@@ -156,28 +145,44 @@ document.addEventListener('DOMContentLoaded', function () {
   // FILTER LOGIC
   // ===============================
 
-  function filterCards(selectedCategories) {
+  function tourMatchesFilters(tour) {
+    // Gemi filtresi (Ship/Cruise modu)
+    if (categoryParam === 'Ship/Cruise') {
+      const shipOk = selectedShips.length === 0 || selectedShips.includes((tour.shipName || '').trim());
+      if (!shipOk) return false;
+    } else if (!categoryParam) {
+      // Genel mod: kategori checkbox'ları
+      const selectedCategories = Array.from(filterCheckboxes).filter(c => c.checked).map(c => normalize(c.value));
+      if (selectedCategories.length > 0 && !selectedCategories.includes(normalize(tour.category))) return false;
+    }
+    // Kategori URL modunda (Safari vb.) allTours zaten filtrelenmiş, ek kontrol yok
 
-    const cards = cardsContainer.querySelectorAll('.tour-card');
+    // Etkinlik filtresi
+    if (selectedEventType && normalize(tour.eventType) !== selectedEventType) return false;
 
-    cards.forEach((card, index) => {
+    // Tarih filtresi
+    const filterFrom = dateFilterStart && dateFilterStart.value ? new Date(dateFilterStart.value) : null;
+    const filterTo = dateFilterEnd && dateFilterEnd.value ? new Date(dateFilterEnd.value) : null;
+    if (filterFrom || filterTo) {
+      const tourStart = tour.startDate ? new Date(tour.startDate.substring(0, 10)) : null;
+      const tourEnd = tour.endDate ? new Date(tour.endDate.substring(0, 10)) : null;
+      if (!tourStart && !tourEnd) return false;
+      const effectiveStart = tourStart || tourEnd;
+      const effectiveEnd = tourEnd || tourStart;
+      if (filterFrom && effectiveEnd < filterFrom) return false;
+      if (filterTo && effectiveStart > filterTo) return false;
+    }
 
-      const tour = allTours[index];
-      if (!tour) return;
-
-      const tourCategory = normalize(tour.category);
-
-      if (selectedCategories.includes(tourCategory)) {
-        card.style.display = '';
-      } else {
-        card.style.display = 'none';
-      }
-    });
+    return true;
   }
 
-  function showAllCards() {
+  function applyFilters() {
     const cards = cardsContainer.querySelectorAll('.tour-card');
-    cards.forEach(card => card.style.display = '');
+    cards.forEach((card, index) => {
+      const tour = allTours[index];
+      if (!tour) return;
+      card.style.display = tourMatchesFilters(tour) ? '' : 'none';
+    });
   }
 
   // ===============================
@@ -185,19 +190,22 @@ document.addEventListener('DOMContentLoaded', function () {
   // ===============================
 
   filterCheckboxes.forEach(cb => {
-    cb.addEventListener('change', function () {
+    cb.addEventListener('change', applyFilters);
+  });
 
-      const selected = Array.from(filterCheckboxes)
-        .filter(c => c.checked)
-        .map(c => normalize(c.value));
-
-      if (selected.length === 0) {
-        showAllCards();
-        return;
-      }
-
-      filterCards(selected);
+  if (eventSelect) {
+    eventSelect.addEventListener('change', function () {
+      selectedEventType = this.value;
+      applyFilters();
     });
+  }
+
+  if (dateFilterStart) dateFilterStart.addEventListener('change', applyFilters);
+  if (dateFilterEnd) dateFilterEnd.addEventListener('change', applyFilters);
+  if (dateFilterClear) dateFilterClear.addEventListener('click', function () {
+    if (dateFilterStart) dateFilterStart.value = '';
+    if (dateFilterEnd) dateFilterEnd.value = '';
+    applyFilters();
   });
 
   // ===============================
@@ -233,15 +241,12 @@ document.addEventListener('DOMContentLoaded', function () {
     const sidebarItem = sidebarEl ? sidebarEl.querySelector('.sidebar-item') : null;
     if (!sidebarItem) return;
 
-    // Başlığı değiştir
     const h3 = sidebarItem.querySelector('h3');
     if (h3) h3.textContent = 'Gemilerimiz';
 
-    // Checkbox listesini temizle
     const ul = sidebarItem.querySelector('ul.sidebar-category1');
     if (ul) ul.innerHTML = '<li class="text-muted small">Yükleniyor...</li>';
 
-    // Turları çek
     const country = decodeURIComponent(countryParam || '');
     const lang = typeof getActiveLang === 'function' ? getActiveLang() : 'tr';
     let tours = [];
@@ -253,7 +258,8 @@ document.addEventListener('DOMContentLoaded', function () {
       return;
     }
 
-    // Benzersiz gemi adlarını topla
+    allTours = tours;
+
     const shipMap = {};
     tours.forEach(t => {
       const name = (t.shipName || '').trim();
@@ -264,10 +270,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (!ships.length) {
       if (ul) ul.innerHTML = '<li class="text-muted small">Gemi bilgisi bulunamadı.</li>';
+      requestSidebarPositionUpdate();
       return;
     }
 
-    // Checkbox listesini oluştur
     ul.innerHTML = ships.map(ship =>
       `<li>
         <input type="checkbox" class="ship-filter-cb" value="${ship}">
@@ -275,24 +281,14 @@ document.addEventListener('DOMContentLoaded', function () {
       </li>`
     ).join('');
 
-    // Filtre mantığı
-    function applyShipFilter() {
-      const selected = Array.from(ul.querySelectorAll('.ship-filter-cb:checked')).map(c => c.value);
-      const cards = document.querySelectorAll('#tourCards .tour-card');
-      cards.forEach((card, i) => {
-        const tour = tours[i];
-        if (!tour) return;
-        if (!selected.length || selected.includes((tour.shipName || '').trim())) {
-          card.style.display = '';
-        } else {
-          card.style.display = 'none';
-        }
-      });
-    }
-
     ul.querySelectorAll('.ship-filter-cb').forEach(cb => {
-      cb.addEventListener('change', applyShipFilter);
+      cb.addEventListener('change', function () {
+        selectedShips = Array.from(ul.querySelectorAll('.ship-filter-cb:checked')).map(c => c.value);
+        applyFilters();
+      });
     });
+
+    requestSidebarPositionUpdate();
   }
 
 });

@@ -5,6 +5,7 @@
   var newTourDraftKey = "siempre.admin.newTourDraft";
   var activeTourFormId = "";
   var activeTourDraftKey = "";
+  var routeCoordinates = [];
 
   function user() {
     try {
@@ -74,6 +75,7 @@
     });
     var active = document.getElementById("tour-active");
     data.isActive = active ? active.checked : true;
+    data.routeCoordinates = routeCoordinates.slice();
     return data;
   }
 
@@ -107,9 +109,14 @@
           if (active) active.checked = data[field] !== false;
           return;
         }
+        if (field === "routeCoordinates") return;
         var node = document.querySelector('[name="' + field + '"]');
         if (node) node.value = data[field] || "";
       });
+      if (Array.isArray(data.routeCoordinates)) {
+        routeCoordinates = data.routeCoordinates;
+        renderRouteStops();
+      }
       renderImagePreview();
       setUploadStatus("Kaydedilmemis form taslagi geri yuklendi.");
       setUploadStatus("KaydedilmemiÅŸ form taslaÄŸÄ± geri yÃ¼klendi.");
@@ -350,6 +357,33 @@
     refreshTours();
   }
 
+  function renderRouteStops() {
+    var list = document.getElementById("map-stops-list");
+    if (!list) return;
+    if (!routeCoordinates.length) {
+      list.innerHTML = '<div class="admin-state" style="margin:0;padding:12px 0">Henüz durak eklenmedi.</div>';
+      return;
+    }
+    list.innerHTML = routeCoordinates.map(function (stop, i) {
+      return '<div class="admin-map-stop">' +
+        '<span class="admin-map-stop-num">' + (i + 1) + '</span>' +
+        '<span class="admin-map-stop-info">' +
+          '<strong>' + (stop.name || '-') + '</strong>' +
+          (stop.country ? ', ' + stop.country : '') +
+          ' <small>(' + (stop.lat || '?') + ', ' + (stop.lng || '?') + ')</small>' +
+        '</span>' +
+        '<button type="button" class="admin-btn danger" style="min-height:34px;padding:6px 12px;font-size:13px" data-remove-stop="' + i + '">Sil</button>' +
+        '</div>';
+    }).join('');
+    list.querySelectorAll('[data-remove-stop]').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        routeCoordinates.splice(Number(btn.dataset.removeStop), 1);
+        renderRouteStops();
+        saveTourDraft(activeTourDraftKey);
+      });
+    });
+  }
+
   async function initTourForm() {
     var id = new URLSearchParams(location.search).get("id");
     var form = document.getElementById("tour-form");
@@ -367,25 +401,84 @@
     imageInput.addEventListener("change", uploadImages);
 
     await loadMetadata();
+
+    var categorySelect = document.getElementById("tour-category");
+    var shipFields = document.getElementById("ship-cruise-fields");
+    function toggleShipFields() {
+      if (!shipFields) return;
+      var val = categorySelect ? categorySelect.value : "";
+      var selectedOption = categorySelect ? categorySelect.options[categorySelect.selectedIndex] : null;
+      var displayVal = selectedOption ? selectedOption.text : "";
+      shipFields.style.display = (val === "CRUISE" || displayVal === "Ship/Cruise") ? "" : "none";
+    }
+    if (categorySelect) categorySelect.addEventListener("change", toggleShipFields);
+
+    routeCoordinates = [];
+    renderRouteStops();
+    var addStopBtn = document.getElementById("map-stop-add");
+    if (addStopBtn) {
+      addStopBtn.addEventListener("click", function () {
+        var nameEl = document.getElementById("map-stop-name");
+        var countryEl = document.getElementById("map-stop-country");
+        var latEl = document.getElementById("map-stop-lat");
+        var lngEl = document.getElementById("map-stop-lng");
+        var name = (nameEl ? nameEl.value : "").trim();
+        var country = (countryEl ? countryEl.value : "").trim();
+        var lat = parseFloat(latEl ? latEl.value : "");
+        var lng = parseFloat(lngEl ? lngEl.value : "");
+        if (!name || isNaN(lat) || isNaN(lng)) {
+          alert("Şehir adı, enlem ve boylam zorunludur.");
+          return;
+        }
+        routeCoordinates.push({ name: name, country: country, lat: lat, lng: lng });
+        if (nameEl) nameEl.value = "";
+        if (countryEl) countryEl.value = "";
+        if (latEl) latEl.value = "";
+        if (lngEl) lngEl.value = "";
+        renderRouteStops();
+        saveTourDraft(activeTourDraftKey);
+      });
+      ["map-stop-name", "map-stop-country", "map-stop-lat", "map-stop-lng"].forEach(function (elId) {
+        var el = document.getElementById(elId);
+        if (el) el.addEventListener("keydown", function (e) {
+          if (e.key === "Enter") { e.preventDefault(); addStopBtn.click(); }
+        });
+      });
+    }
+
     if (id) {
       document.getElementById("form-title").textContent = "Turu Düzenle";
       var tour = await ApiService.adminTour(id);
       fillTourForm(tour);
+      toggleShipFields();
     } else {
       restoreTourDraft(draftKey);
       renderImagePreview();
+      toggleShipFields();
     }
     bindTourDraft(form, draftKey);
   }
 
   function fillTourForm(tour) {
-    ["name", "slug", "language", "destination", "departureCity", "duration", "price", "discountedPrice", "dates", "minimumAge", "personNumber", "mainPhoto", "image1", "image2", "image3", "image4", "image5", "image6", "imagealt", "generalInfo", "placesVisited", "whatExpect", "meet", "map"].forEach(function (field) {
+    ["name", "slug", "language", "destination", "departureCity", "duration", "price", "discountedPrice", "dates", "minimumAge", "personNumber", "mainPhoto", "image1", "image2", "image3", "image4", "image5", "image6", "imagealt", "generalInfo", "placesVisited", "whatExpect", "meet"].forEach(function (field) {
       var node = document.querySelector('[name="' + field + '"]');
       if (node) node.value = tour[field] || "";
     });
     document.getElementById("tour-category").value = enumCategory(tour.category);
     document.getElementById("tour-status").value = tour.status || "";
     document.getElementById("tour-active").checked = tour.isActive !== false;
+    var eventTypeEl = document.getElementById("tour-event-type");
+    if (eventTypeEl) eventTypeEl.value = tour.eventType || "";
+    var startDateEl = document.getElementById("tour-start-date");
+    if (startDateEl) startDateEl.value = tour.startDate ? tour.startDate.substring(0, 10) : "";
+    var endDateEl = document.getElementById("tour-end-date");
+    if (endDateEl) endDateEl.value = tour.endDate ? tour.endDate.substring(0, 10) : "";
+    var shipCompanyEl = document.getElementById("tour-ship-company");
+    if (shipCompanyEl) shipCompanyEl.value = tour.shipCompany || "";
+    var shipNameEl = document.getElementById("tour-ship-name");
+    if (shipNameEl) shipNameEl.value = tour.shipName || "";
+    routeCoordinates = Array.isArray(tour.routeCoordinates) ? tour.routeCoordinates.slice() : [];
+    renderRouteStops();
     renderImagePreview();
   }
 
@@ -406,6 +499,13 @@
     data.price = data.price ? Number(data.price) : null;
     data.discountedPrice = data.discountedPrice ? Number(data.discountedPrice) : null;
     data.destinations = data.destination ? [data.destination] : [];
+    var startDateEl = document.getElementById("tour-start-date");
+    var endDateEl = document.getElementById("tour-end-date");
+    data.startDate = startDateEl && startDateEl.value ? startDateEl.value + "T00:00:00" : null;
+    data.endDate = endDateEl && endDateEl.value ? endDateEl.value + "T23:59:59" : null;
+    data.routeCoordinates = routeCoordinates.length ? routeCoordinates : [];
+    var eventTypeEl = document.getElementById("tour-event-type");
+    data.eventType = eventTypeEl && eventTypeEl.value ? eventTypeEl.value : null;
     return data;
   }
 
@@ -421,6 +521,8 @@
     }
     if (id) {
       await ApiService.adminUpdateTour(id, data);
+      var refreshed = await ApiService.adminTour(id);
+      fillTourForm(refreshed);
       toast("Tour updated successfully");
     } else {
       var created = await ApiService.adminCreateTour(data);

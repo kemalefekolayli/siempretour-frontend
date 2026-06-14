@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
+﻿@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap");
 /*------------------------------------------------------------------
 * Project:        Travelin - Travel Tour Booking HTML Templates
@@ -7024,6 +7024,65 @@ ul.sidebar-category1 li {
 ul.sidebar-category1 input[type="checkbox"] {
   accent-color: #000000;
 }
+ul.sidebar-event1 {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+ul.sidebar-event1 li {
+  display: block;
+  line-height: 2.4;
+}
+ul.sidebar-event1 input[type="radio"] {
+  accent-color: #000000;
+}
+.sidebar-sticky.sidebar-sticky-center ul.sidebar-event1 li {
+  line-height: 2;
+  font-size: 0.92rem;
+}
+.sidebar-event-select {
+  width: 100%;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  color: #333;
+  background: #fff;
+  cursor: pointer;
+}
+.sidebar-date-filter {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.sidebar-date-label {
+  font-size: 0.85rem;
+  color: #555;
+  margin-bottom: 0;
+}
+.sidebar-date-input {
+  width: 100%;
+  padding: 5px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  color: #333;
+}
+.sidebar-date-clear {
+  margin-top: 4px;
+  background: none;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 4px 10px;
+  font-size: 0.82rem;
+  color: #555;
+  cursor: pointer;
+  align-self: flex-start;
+}
+.sidebar-date-clear:hover {
+  border-color: #333;
+  color: #111;
+}
 /* Compact version for tours grid filter sidebar */
 .sidebar-sticky.sidebar-sticky-center .list-sidebar .sidebar-item {
   padding: 0 0 18px;
@@ -9349,6 +9408,58 @@ body.mega-lock {
 .tour_cards__bottom .tour-card {
   /* transform: scale(0.95); */
 }
+/* Gemilerimiz Tab - Back Button */
+.ships-back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #000;
+  color: #fff;
+  border: 2px solid #000;
+  border-radius: 30px;
+  padding: 8px 22px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  cursor: pointer;
+  transition: background 0.25s ease, color 0.25s ease, transform 0.2s ease;
+  text-decoration: none;
+}
+.ships-back-btn:hover {
+  background: #fff;
+  color: #000;
+  transform: translateX(-3px);
+}
+.ships-back-btn i {
+  font-size: 12px;
+}
+
+/* Gemilerimiz Tab - Ship Company Cards */
+.ship-company-card {
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  cursor: pointer;
+  border: 1px solid #f0f0f0;
+}
+.ship-company-card:hover {
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.15);
+  transform: translateY(-3px);
+}
+.ship-company-card .ratio {
+  border-radius: 10px 10px 0 0;
+}
+.ship-company-info {
+  padding: 10px 14px 12px;
+}
+.ship-company-info h6 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #222;
+}
+
 #copyTours {
   overflow: hidden;
 }
@@ -10260,4 +10371,220 @@ html, body {
     visibility: hidden;
     pointer-events: none;
   }
+}
+
+/* ===== GEMİ DETAY SAYFASI ===== */
+
+/* Hero */
+.ship-detail-hero {
+  position: relative;
+  height: 420px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.ship-detail-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.65) 100%);
+  display: flex;
+  align-items: flex-end;
+  padding: 40px;
+}
+.ship-detail-hero-text h1 {
+  color: #fff;
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-bottom: 4px;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+.ship-detail-hero-text p {
+  color: rgba(255,255,255,0.85);
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0;
+  letter-spacing: 0.4px;
+}
+
+/* Sticky Section Nav */
+.ship-section-nav {
+  background: #fff;
+  border-bottom: 2px solid #000;
+  z-index: 900;
+  }
+.ship-section-nav .container {
+  overflow-x: auto;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+.ship-section-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 0;
+  margin: 0;
+}
+.ship-section-nav ul li a {
+  display: block;
+  padding: 14px 22px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.6px;
+  color: #555;
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+  transition: color 0.2s, border-color 0.2s;
+  white-space: nowrap;
+}
+.ship-section-nav ul li a:hover,
+.ship-section-nav ul li a.active {
+  color: #000;
+  border-bottom-color: #000;
+}
+
+/* Sections */
+.ship-section {
+  padding: 64px 0 48px;
+}
+.ship-section-title {
+  margin-bottom: 36px;
+}
+.ship-section-title h3 {
+  font-size: 1.05rem;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  color: #000;
+  text-transform: uppercase;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #000;
+  display: inline-block;
+}
+.ship-section-divider {
+  margin: 0;
+  border-color: #eee;
+}
+
+/* Photo Carousel */
+#shipPhotosCarousel .carousel-inner {
+  border-radius: 12px;
+  overflow: hidden;
+  max-height: 520px;
+}
+#shipPhotosCarousel .carousel-inner img {
+  object-fit: cover;
+  height: 520px;
+  width: 100%;
+}
+#shipPhotosCarousel .carousel-control-prev,
+#shipPhotosCarousel .carousel-control-next {
+  width: 44px;
+  height: 44px;
+  background: #000;
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.8;
+}
+#shipPhotosCarousel .carousel-control-prev { left: 12px; }
+#shipPhotosCarousel .carousel-control-next { right: 12px; }
+#shipPhotosCarousel .carousel-control-prev:hover,
+#shipPhotosCarousel .carousel-control-next:hover { opacity: 1; }
+
+.ship-carousel-thumbs {
+  display: flex !important;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: center;
+  position: static !important;
+  margin-top: 14px;
+  width: auto;
+  bottom: auto;
+  left: auto;
+  right: auto;
+}
+.ship-carousel-thumbs button {
+  width: 80px;
+  height: 52px;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 2px solid transparent;
+  background: none;
+  padding: 0;
+  opacity: 0.6;
+  transition: opacity 0.2s, border-color 0.2s;
+  flex-shrink: 0;
+}
+.ship-carousel-thumbs button img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.ship-carousel-thumbs button.active,
+.ship-carousel-thumbs button:hover {
+  border-color: #000;
+  opacity: 1;
+}
+
+/* Ship Info */
+#ship-description p {
+  font-size: 0.93rem;
+  color: #444;
+  line-height: 1.75;
+  margin-bottom: 10px;
+}
+.ship-specs-card {
+  background: #fafafa;
+  border: 1px solid #e8e8e8;
+  border-radius: 10px;
+  padding: 6px 0;
+}
+.ship-spec-row {
+  display: flex;
+  align-items: center;
+  padding: 9px 18px;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 0.88rem;
+}
+.ship-spec-row:last-child { border-bottom: none; }
+.ship-spec-label {
+  flex: 0 0 52%;
+  font-weight: 600;
+  color: #333;
+}
+.ship-spec-value {
+  flex: 1;
+  color: #555;
+}
+
+/* Cabins */
+#ship-cabins-grid .ship-company-card { cursor: default; }
+
+/* Deck */
+.ship-deck-wrapper { max-width: 700px; }
+.ship-deck-select {
+  border: 2px solid #000 !important;
+  border-radius: 8px !important;
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 10px 16px;
+  background-color: #fff;
+  cursor: pointer;
+  max-width: 300px;
+}
+.ship-deck-select:focus {
+  box-shadow: none !important;
+  border-color: #000 !important;
+}
+.ship-deck-img-wrap img {
+  border-radius: 10px;
+  border: 1px solid #e8e8e8;
+  max-height: 600px;
+  object-fit: contain;
+}
+
+/* Video */
+.ship-video-wrap {
+  max-width: 720px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.12);
 }
