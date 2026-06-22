@@ -1,0 +1,1243 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Siempre Tour | Müşteri Yorumları</title>
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="css/plugin.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/fontawesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"/>
+    <link rel="stylesheet" href="fonts/line-icons.css" type="text/css" />
+    <link rel="stylesheet" href="css/chat-widget.css">
+    <style>
+      :root {
+        --review-ink: #151411;
+        --review-muted: #67615a;
+        --review-paper: #f7f2ec;
+        --review-panel: #fffdf9;
+        --review-line: rgba(21, 20, 17, 0.14);
+        --review-clay: #c96f50;
+        --review-teal: #0f766e;
+        --review-gold: #e4a72f;
+      }
+
+      .google-reviews-section {
+        position: relative;
+        overflow: hidden;
+        padding: 128px 0 78px;
+        color: var(--review-ink);
+        background:
+          radial-gradient(circle at 82% 12%, rgba(15, 118, 110, 0.15), transparent 30%),
+          linear-gradient(135deg, #fbf7f1 0%, #f3ece2 52%, #eef5f1 100%);
+      }
+
+      .google-reviews-section::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        background:
+          repeating-linear-gradient(135deg, rgba(21, 20, 17, 0.04), rgba(21, 20, 17, 0.04) 1px, transparent 1px, transparent 12px),
+          radial-gradient(circle at 12% 82%, rgba(201, 111, 80, 0.16), transparent 26%);
+      }
+
+      .google-reviews-section .container {
+        position: relative;
+        z-index: 1;
+      }
+
+      .review-shell {
+        display: grid;
+        grid-template-columns: minmax(0, 1.15fr) minmax(300px, 0.85fr);
+        gap: 34px;
+        align-items: stretch;
+      }
+
+      .review-eyebrow {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 18px;
+        color: var(--review-teal);
+        font-size: 13px;
+        font-weight: 800;
+        line-height: 1;
+        text-transform: uppercase;
+        letter-spacing: 0;
+      }
+
+      .review-title {
+        max-width: 780px;
+        margin: 0;
+        color: var(--review-ink);
+        font-size: 54px;
+        line-height: 1.05;
+        letter-spacing: 0;
+      }
+
+      .review-lead {
+        max-width: 720px;
+        margin: 22px 0 0;
+        color: var(--review-muted);
+        font-size: 18px;
+        line-height: 1.72;
+      }
+
+      .review-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 30px;
+      }
+
+      .review-button {
+        display: inline-flex;
+        min-height: 46px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        border: 1px solid var(--review-ink);
+        border-radius: 8px;
+        padding: 12px 18px;
+        font-size: 14px;
+        font-weight: 800;
+        line-height: 1.2;
+        transition: transform 220ms ease, box-shadow 220ms ease, background-color 220ms ease;
+      }
+
+      .review-button:hover,
+      .review-button:focus {
+        transform: translateY(-2px);
+        box-shadow: 0 14px 28px rgba(21, 20, 17, 0.13);
+      }
+
+      .review-button.primary {
+        background: var(--review-ink);
+        color: #fff;
+      }
+
+      .review-button.secondary {
+        background: rgba(255, 253, 249, 0.72);
+        color: var(--review-ink);
+      }
+
+      .review-metrics {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 12px;
+        margin-top: 34px;
+      }
+
+      .review-metric {
+        min-height: 126px;
+        border: 1px solid var(--review-line);
+        border-radius: 8px;
+        padding: 18px;
+        background: rgba(255, 253, 249, 0.74);
+      }
+
+      .review-metric strong {
+        display: block;
+        margin-bottom: 8px;
+        color: var(--review-ink);
+        font-size: 26px;
+        line-height: 1.1;
+      }
+
+      .review-metric span {
+        display: block;
+        color: var(--review-muted);
+        font-size: 13px;
+        line-height: 1.5;
+      }
+
+      .review-source-panel {
+        display: flex;
+        flex-direction: column;
+        min-height: 100%;
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        border-radius: 8px;
+        padding: 28px;
+        background:
+          linear-gradient(160deg, rgba(255, 255, 255, 0.08), transparent 38%),
+          #151411;
+        color: #fff;
+        box-shadow: 0 24px 60px rgba(21, 20, 17, 0.22);
+      }
+
+      .review-source-panel .google-maps-attribution {
+        align-self: flex-start;
+        border-radius: 999px;
+        padding: 6px 10px;
+        background: #fff;
+        color: #5e5e5e;
+        font-family: Roboto, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1;
+        white-space: nowrap;
+      }
+
+      .review-source-panel h2 {
+        margin: 28px 0 12px;
+        color: #fff;
+        font-size: 30px;
+        line-height: 1.18;
+        letter-spacing: 0;
+      }
+
+      .review-source-panel p {
+        margin: 0;
+        color: rgba(255, 255, 255, 0.74);
+        font-size: 15px;
+        line-height: 1.7;
+      }
+
+      .review-source-list {
+        display: grid;
+        gap: 12px;
+        margin: 28px 0 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .review-source-list li {
+        display: flex;
+        gap: 12px;
+        align-items: flex-start;
+        border-top: 1px solid rgba(255, 255, 255, 0.12);
+        padding-top: 14px;
+        color: rgba(255, 255, 255, 0.82);
+        font-size: 14px;
+        line-height: 1.55;
+      }
+
+      .review-source-list i {
+        margin-top: 3px;
+        color: var(--review-gold);
+      }
+
+      .review-policy-note {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 14px;
+        margin-top: 28px;
+        border-left: 4px solid var(--review-teal);
+        border-radius: 8px;
+        padding: 18px 20px;
+        background: rgba(255, 253, 249, 0.78);
+        color: var(--review-muted);
+        line-height: 1.65;
+      }
+
+      .review-policy-note i {
+        margin-top: 4px;
+        color: var(--review-teal);
+        font-size: 20px;
+      }
+
+      .review-ready-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 16px;
+        margin-top: 28px;
+      }
+
+      .review-ready-card {
+        border: 1px solid var(--review-line);
+        border-radius: 8px;
+        padding: 22px;
+        background: rgba(255, 253, 249, 0.82);
+      }
+
+      .review-ready-card i {
+        display: inline-flex;
+        width: 38px;
+        height: 38px;
+        align-items: center;
+        justify-content: center;
+        border-radius: 8px;
+        margin-bottom: 16px;
+        background: rgba(201, 111, 80, 0.13);
+        color: var(--review-clay);
+      }
+
+      .review-ready-card h2 {
+        margin: 0 0 10px;
+        color: var(--review-ink);
+        font-size: 18px;
+        line-height: 1.28;
+        letter-spacing: 0;
+      }
+
+      .review-ready-card p {
+        margin: 0;
+        color: var(--review-muted);
+        font-size: 14px;
+        line-height: 1.65;
+      }
+
+      @media (max-width: 991px) {
+        .review-shell,
+        .review-ready-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .review-title {
+          font-size: 42px;
+        }
+
+        .review-metrics {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 767px) {
+        .google-reviews-section {
+          padding: 104px 0 54px;
+        }
+
+        .review-title {
+          font-size: 34px;
+        }
+
+        .review-lead {
+          font-size: 16px;
+        }
+
+        .review-source-panel,
+        .review-ready-card,
+        .review-policy-note {
+          padding: 20px;
+        }
+
+        .review-actions {
+          flex-direction: column;
+        }
+
+        .review-button {
+          width: 100%;
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .review-button {
+          transition: none;
+        }
+
+        .review-button:hover,
+        .review-button:focus {
+          transform: none;
+        }
+      }
+    </style>
+    <!-- Branded page loader: prevents half-rendered "broken" first paint -->
+  <script src="js/page-loader.js"></script>
+</head>
+
+  <body class="home-thh">
+    <!-- Preloader -->
+    <div id="preloader">
+      <div id="status"></div>
+    </div>
+
+    <!-- header starts -->
+    <header class="main_header_area position-absolute">
+    <div class="header_menu" id="header_menu">
+      <nav class="navbar navbar-default fixed-top">
+        <div class="container flex-nowrap">
+          <div class="navbar-flex d-flex align-items-center justify-content-around w-100 p-3">
+            <div class="navbar-collapse1 d-flex align-items-center justify-content-between gap-6"
+              id="bs-example-navbar-collapse-1">
+              <div class="navbar-header">
+                <a class="navbar-brand" href="index.html">
+                  <img src="images/logolv.svg" alt="Siempre Logo" />
+                </a>
+              </div>
+              <ul class="nav navbar-nav" id="responsive-menu">
+                <li class="dropdown submenu px-2">
+                  <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                    aria-expanded="false">Anasayfa </a>
+                </li>
+                <li class="submenu dropdown  px-2"><a href="about.html">Hakkımızda</a></li>
+                <li class="submenu dropdown px-2"><a href="yorumlar.html">Yorumlar</a></li>
+
+                <!--TURLAR BAŞLANGIÇ-->
+                <li id="menu-turlar" class="dropdown submenu desktop-tours-trigger px-2"><a href="#" id="megaTrigger" aria-expanded="false"
+                    aria-controls="megaFull">TURLAR</a></li>
+                <li class="submenu dropdown px-2"><a href="cruise-grid.html">Gemi Turları</a></li>
+
+                <li class="submenu dropdown slicknav_parent slicknav_collapsed"><a href="#" role="menuitem"
+                    aria-haspopup="true" tabindex="0" class="slicknav_item slicknav_row p-0" style="outline: none;">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                      aria-expanded="false" tabindex="0">TURLAR <i class="icon-arrow-down" aria-hidden="true"></i></a>
+                    <span class="slicknav_arrow"><svg class="svg-inline--fa fa-plus fa-w-14" aria-hidden="true"
+                        focusable="false" data-prefix="fa" data-icon="plus" role="img"
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                        <path fill="currentColor"
+                          d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+                        </path>
+                      </svg><!-- <i class="fa fa-plus"></i> --></span></a>
+                  <ul class="dropdown-menu" role="menu" aria-hidden="true">
+                    <li><a href="#" data-mega-tab="eu" role="menuitem" tabindex="-1">Avrupa</a>
+                        <ul class="mega-list mega-list--grid" data-mega-content="eu" >
+                          <li><a href="template_tours_grid_page.html" data-country="Albania">Arnavutluk</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Andorra">Andorra</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Austria">Avusturya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bosnia Herzegovina">Bosna Hersek</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bulgaria">Bulgaristan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Croatia">Hırvatistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Czech Republic">Çek Cumhuriyeti</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Denmark">Danimarka</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="England">İngiltere</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Estonia">Estonya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Finland">Finlandiya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="France">Fransa</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Germany">Almanya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Greece">Yunanistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Hungary">Macaristan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Iceland">İzlanda</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ireland">İrlanda</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Italy">İtalya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Kosovo">Kosova</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Latvia">Letonya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Lithuania">Litvanya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Malta">Malta</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Montenegro">Karadağ</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Norway">Norveç</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Poland">Polonya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Portugal">Portekiz</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Romania">Romanya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Scotland">İskoçya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Serbia">Sırbistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Slovakia">Slovakya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Slovenia">Slovenya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Spain">İspanya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Sweden">İsveç</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Switzerland">İsviçre</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Turkey">Türkiye</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Uk">Birleşik Krallık</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Faroe Islands">Faroe Adaları</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Lapland">Lapland</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Moldova">Moldova</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Channel Islands">Channel Adaları</a>
+                          </li>
+                        </ul>
+                    </li>
+                    <li><a href="#" data-mega-tab="af" role="menuitem" tabindex="-1">Afrika</a>
+                        <ul class="mega-list mega-list--grid" data-mega-content="af">
+                          <li><a href="template_tours_grid_page.html" data-country="Algeria">Cezayir</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Angola">Angola</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Benin">Benin</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Botswana">Botsvana</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Burkina Faso">Burkina Faso</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Cameroon">Kamerun</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Chad">Çad</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Congo">Kongo</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Djibouti">Cibuti</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Egypt">Mısır</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ethiopia">Etiyopya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Gabon">Gabon</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Gambia">Gambiya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ghana">Gana</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Kenya">Kenya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Madagascar">Madagaskar</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Malawi">Malavi</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Mauritius">Mauritius</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Morocco">Fas</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Namibia">Namibya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Rwanda">Ruanda</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Senegal">Senegal</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="South Africa">Güney Afrika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Tanzania">Tanzanya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Tunisia">Tunus</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Uganda">Uganda</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Zambia">Zambiya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Zimbabwe">Zimbabve</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Burundi">Burundi</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Comoros">Komorlar</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Guinea">Gine</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ivory Coast">Fildişi Sahili</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Liberia">Liberya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Libya">Libya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Sierra Leone">Sierra Leone</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="South Sudan">Güney Sudan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Swaziland">Esvatini</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Western Sahara">Batı Sahra</a></li>
+                        </ul></li>
+                    <li><a href="#" data-mega-tab="la" role="menuitem" tabindex="-1">Latin Amerika</a>
+                        <ul class="mega-list mega-list--grid" data-mega-content="la">
+                          <li><a href="template_tours_grid_page.html" data-country="Argentina">Arjantin</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Belize">Belize</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bolivia">Bolivya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Brazil">Brezilya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Chile">Şili</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Colombia">Kolombiya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Costa Rica">Kosta Rika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Cuba">Küba</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Dominican Republic">DominikCumhuriyeti</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ecuador & Galapagos">Ekvador & Galapagos</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Guatemala">Guatemala</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Jamaica">Jamaika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Mexico">Meksika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Nicaragua">Nikaragua</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Panama">Panama</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Paraguay">Paraguay</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Peru">Peru</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Uruguay">Uruguay</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Venezuela">Venezuela</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bahamas">Bahamalar</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Guyana">Guyana</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Suriname">Surinam</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Trinidad And Tobago">Trinidad ve Tobago</a></li>
+                        </ul></li>
+                    <li><a href="#" data-mega-tab="sp" role="menuitem" tabindex="-1">Güney Pasifik</a>
+                        <ul class="mega-list mega-list--grid" data-mega-content="sp">
+                          <li><a href="template_tours_grid_page.html" data-country="Australia">Avustralya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bora Bora">Bora Bora</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Fiji">Fiji</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="French Polynesia">Fransız Polinezyası</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="New Zealand">Yeni Zelanda</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Solomon Islands">Solomon Adaları</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Tahiti">Tahiti</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Tonga">Tonga</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bali">Bali</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Papua New Guinea">Papua Yeni Gine</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Tahiti">Tahiti</a></li>
+                        </ul></li>
+                    <li><a href="#" data-mega-tab="as" role="menuitem" tabindex="-1">Asya</a>
+                        <ul class="mega-list mega-list--grid" data-mega-content="as">
+                          <li><a href="template_tours_grid_page.html" data-country="Armenia">Ermenistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Azerbaijan">Azerbaycan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bangladesh">Bangladeş</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bhutan">Bhutan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Cambodia">Kamboçya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="China">Çin</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="India">Hindistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Indonesia">Endonezya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Japan">Japonya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Jordan">Ürdün</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Kazakhstan">Kazakistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Kyrgyzstan">Kırgızistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Laos">Laos</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Malaysia">Malezya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Maldives">Maldivler</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Mongolia">Moğolistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Nepal">Nepal</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Pakistan">Pakistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Philippines">Filipinler</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Sri Lanka">Sri Lanka</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Thailand">Tayland</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Vietnam">Vietnam</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Burma">Myanmar</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Brunei">Brunei</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Singapore">Singapur</a></li>
+                        </ul></li>
+                    <li><a href="#" data-mega-tab="me" role="menuitem" tabindex="-1">Orta Doğu & Kuzey Afrika</a>
+                        <ul class="mega-list mega-list--grid" data-mega-content="me">
+                          <li><a href="template_tours_grid_page.html" data-country="Iran">İran</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Iraq">Irak</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Israel">İsrail</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Lebanon">Lübnan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Oman">Umman</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Saudi Arabia">Suudi Arabistan</a>
+                          </li>
+                          <li><a href="template_tours_grid_page.html" data-country="Syria">Suriye</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="United Arab Emirates">Birleşik Arap
+                              Emirlikleri</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Yemen">Yemen</a></li>
+                        </ul></li>
+                    <li><a href="#" data-mega-tab="an" role="menuitem" tabindex="-1">Antarktika</a>
+                        <ul class="mega-list mega-list--grid" data-mega-content="an">
+                          <li><a href="template_tours_grid_page.html" data-country="Antarctica">Antarktika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Arctic Cruises">Arktik (Kutup)</a>
+                          </li>
+                          <li><a href="template_tours_grid_page.html" data-country="Greenland">Grönland</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Spitsbergen">Spitsbergen</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="St Helena">Saint Helena</a></li>
+                        </ul></li>
+                    <li><a href="#" data-mega-tab="afs" role="menuitem" tabindex="-1">Safari &amp; Doğa Turları</a></li>
+                  </ul>
+                </li>
+
+                <!-- Fullscreen panel -->
+                <div id="megaFull" class="mega-full" aria-hidden="true" role="dialog" aria-label="Turlar">
+                  <div class="mega-wrap">
+
+                    <div class="mega-grid">
+                      <!-- Sol: Lokasyonlar -->
+                      <nav class="mega-cats" aria-label="Lokasyonlar">
+                        <a href="#" data-mega-tab="eu" class="is-active">Avrupa</a>
+                        <a href="#" data-mega-tab="af">Afrika</a>
+                        <a href="#" data-mega-tab="la">Latin Amerika</a>
+                        <a href="#" data-mega-tab="sp">Güney Pasifik</a>
+                        <a href="#" data-mega-tab="as">Asya</a>
+                        <a href="#" data-mega-tab="me">Orta Doğu & Kuzey Afrika</a>
+                        <a href="#" data-mega-tab="an">Antarktika</a>
+                        <a href="#" data-mega-tab="afs">Safari &amp; Doğa Turları</a>
+                      </nav>
+
+
+                      <!-- Sağ: Ülkeler (tek UL, çok sütun) -->
+                      <div class="mega-content">
+                        <!-- Avrupa -->
+                        <ul class="mega-list mega-list--grid" data-mega-content="eu">
+                          <li><a href="template_tours_grid_page.html" data-country="Albania">Arnavutluk</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Andorra">Andorra</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Austria">Avusturya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bosnia Herzegovina">Bosna Hersek</a>
+                          </li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bulgaria">Bulgaristan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Croatia">Hırvatistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Czech Republic">Çek Cumhuriyeti</a>
+                          </li>
+                          <li><a href="template_tours_grid_page.html" data-country="Denmark">Danimarka</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="England">İngiltere</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Estonia">Estonya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Finland">Finlandiya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="France">Fransa</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Germany">Almanya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Greece">Yunanistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Hungary">Macaristan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Iceland">İzlanda</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ireland">İrlanda</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Italy">İtalya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Kosovo">Kosova</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Latvia">Letonya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Lithuania">Litvanya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Malta">Malta</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Montenegro">Karadağ</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Norway">Norveç</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Poland">Polonya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Portugal">Portekiz</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Romania">Romanya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Scotland">İskoçya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Serbia">Sırbistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Slovakia">Slovakya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Slovenia">Slovenya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Spain">İspanya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Sweden">İsveç</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Switzerland">İsviçre</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Turkey">Türkiye</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Uk">Birleşik Krallık</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Faroe Islands">Faroe Adaları</a>
+                          </li>
+                          <li><a href="template_tours_grid_page.html" data-country="Lapland">Lapland</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Moldova">Moldova</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Channel Islands">Channel Adaları</a>
+                          </li>
+                        </ul>
+
+
+                        <!-- Afrika -->
+                        <ul class="mega-list mega-list--grid" data-mega-content="af" hidden>
+                          <li><a href="template_tours_grid_page.html" data-country="Algeria">Cezayir</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Angola">Angola</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Benin">Benin</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Botswana">Botsvana</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Burkina Faso">Burkina Faso</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Cameroon">Kamerun</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Chad">Çad</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Congo">Kongo</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Djibouti">Cibuti</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Egypt">Mısır</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ethiopia">Etiyopya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Gabon">Gabon</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Gambia">Gambiya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ghana">Gana</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Kenya">Kenya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Madagascar">Madagaskar</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Malawi">Malavi</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Mauritius">Mauritius</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Morocco">Fas</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Namibia">Namibya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Rwanda">Ruanda</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Senegal">Senegal</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="South Africa">Güney Afrika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Tanzania">Tanzanya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Tunisia">Tunus</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Uganda">Uganda</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Zambia">Zambiya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Zimbabwe">Zimbabve</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Burundi">Burundi</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Comoros">Komorlar</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Guinea">Gine</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ivory Coast">Fildişi Sahili</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Liberia">Liberya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Libya">Libya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Sierra Leone">Sierra Leone</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="South Sudan">Güney Sudan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Swaziland">Esvatini</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Western Sahara">Batı Sahra</a></li>
+                        </ul>
+
+
+                        <!-- Latin Amerika -->
+                        <ul class="mega-list mega-list--grid" data-mega-content="la" hidden>
+                          <li><a href="template_tours_grid_page.html" data-country="Argentina">Arjantin</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Belize">Belize</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bolivia">Bolivya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Brazil">Brezilya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Chile">Şili</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Colombia">Kolombiya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Costa Rica">Kosta Rika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Cuba">Küba</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Dominican Republic">Dominik
+                              Cumhuriyeti</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ecuador & Galapagos">Ekvador &
+                              Galapagos</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Guatemala">Guatemala</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Jamaica">Jamaika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Mexico">Meksika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Nicaragua">Nikaragua</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Panama">Panama</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Paraguay">Paraguay</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Peru">Peru</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Uruguay">Uruguay</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Venezuela">Venezuela</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bahamas">Bahamalar</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Guyana">Guyana</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Suriname">Surinam</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Trinidad And Tobago">Trinidad ve
+                              Tobago</a></li>
+
+                        </ul>
+
+
+                        <!-- Güney Pasifik -->
+
+                        <ul class="mega-list mega-list--grid" data-mega-content="sp" hidden>
+                          <li><a href="template_tours_grid_page.html" data-country="Australia">Avustralya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bora Bora">Bora Bora</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Fiji">Fiji</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="French Polynesia">Fransız
+                              Polinezyası</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="New Zealand">Yeni Zelanda</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Solomon Islands">Solomon Adaları</a>
+                          </li>
+                          <li><a href="template_tours_grid_page.html" data-country="Tahiti">Tahiti</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Tonga">Tonga</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bali">Bali</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Papua New Guinea">Papua Yeni
+                              Gine</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Tahiti">Tahiti</a></li>
+
+                        </ul>
+
+
+                        <!-- Asya -->
+                        <ul class="mega-list mega-list--grid" data-mega-content="as" hidden>
+                          <li><a href="template_tours_grid_page.html" data-country="Armenia">Ermenistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Azerbaijan">Azerbaycan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bangladesh">Bangladeş</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bhutan">Bhutan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Cambodia">Kamboçya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="China">Çin</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="India">Hindistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Indonesia">Endonezya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Japan">Japonya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Jordan">Ürdün</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Kazakhstan">Kazakistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Kyrgyzstan">Kırgızistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Laos">Laos</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Malaysia">Malezya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Maldives">Maldivler</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Mongolia">Moğolistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Nepal">Nepal</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Pakistan">Pakistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Philippines">Filipinler</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Sri Lanka">Sri Lanka</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Thailand">Tayland</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Vietnam">Vietnam</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Burma">Myanmar</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Brunei">Brunei</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Singapore">Singapur</a></li>
+
+                        </ul>
+
+
+                        <!-- Orta Doğu & Kuzey Afrika -->
+                        <ul class="mega-list mega-list--grid" data-mega-content="me" hidden>
+                          <li><a href="template_tours_grid_page.html" data-country="Iran">İran</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Iraq">Irak</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Israel">İsrail</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Lebanon">Lübnan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Oman">Umman</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Saudi Arabia">Suudi Arabistan</a>
+                          </li>
+                          <li><a href="template_tours_grid_page.html" data-country="Syria">Suriye</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="United Arab Emirates">Birleşik Arap
+                              Emirlikleri</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Yemen">Yemen</a></li>
+                        </ul>
+
+
+                        <!-- Antarktika -->
+                        <ul class="mega-list mega-list--grid" data-mega-content="an" hidden>
+                          <li><a href="template_tours_grid_page.html" data-country="Antarctica">Antarktika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Arctic Cruises">Arktik (Kutup)</a>
+                          </li>
+                          <li><a href="template_tours_grid_page.html" data-country="Greenland">Grönland</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Spitsbergen">Spitsbergen</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="St Helena">Saint Helena</a></li>
+                        </ul>
+
+                        <!-- Gemi Turları -->
+                        <ul class="mega-list mega-list--grid" data-mega-content="gt" hidden>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Alaska" data-category="Ship/Cruise">
+                              Alaska
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Antarctica"
+                              data-category="Ship/Cruise">
+                              Antarktika
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Arctic Cruises"
+                              data-category="Ship/Cruise">
+                              Arktik Turları
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Argentina"
+                              data-category="Ship/Cruise">
+                              Arjantin
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Australia"
+                              data-category="Ship/Cruise">
+                              Avustralya
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Brazil" data-category="Ship/Cruise">
+                              Brezilya
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Cambodia" data-category="Ship/Cruise">
+                              Kamboçya
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Canada" data-category="Ship/Cruise">
+                              Kanada
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Canary Islands"
+                              data-category="Ship/Cruise">
+                              Kanarya Adaları
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Cape Verde Islands"
+                              data-category="Ship/Cruise">
+                              Yeşil Burun Adaları
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Chile" data-category="Ship/Cruise">
+                              Şili
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="China" data-category="Ship/Cruise">
+                              Çin
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Ecuador & Galapagos"
+                              data-category="Ship/Cruise">
+                              Ekvador &amp; Galapagos
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Egypt" data-category="Ship/Cruise">
+                              Mısır
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Fiji" data-category="Ship/Cruise">
+                              Fiji
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="French Polynesia"
+                              data-category="Ship/Cruise">
+                              Fransız Polinezyası
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Gambia" data-category="Ship/Cruise">
+                              Gambiya
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="India" data-category="Ship/Cruise">
+                              Hindistan
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Indonesia"
+                              data-category="Ship/Cruise">
+                              Endonezya
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Japan" data-category="Ship/Cruise">
+                              Japonya
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Madagascar"
+                              data-category="Ship/Cruise">
+                              Madagaskar
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Maldives" data-category="Ship/Cruise">
+                              Maldivler
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Mexico" data-category="Ship/Cruise">
+                              Meksika
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="New Zealand"
+                              data-category="Ship/Cruise">
+                              Yeni Zelanda
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Norway" data-category="Ship/Cruise">
+                              Norveç
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Papua New Guinea"
+                              data-category="Ship/Cruise">
+                              Papua Yeni Gine
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Philippines"
+                              data-category="Ship/Cruise">
+                              Filipinler
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Saint Lucia"
+                              data-category="Ship/Cruise">
+                              Saint Lucia
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Seychelles"
+                              data-category="Ship/Cruise">
+                              Seyşeller
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Spitsbergen"
+                              data-category="Ship/Cruise">
+                              Spitsbergen
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="St Helena"
+                              data-category="Ship/Cruise">
+                              Saint Helena
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Thailand" data-category="Ship/Cruise">
+                              Tayland
+                            </a>
+                          </li>
+                          <li>
+                            <a href="template_tours_grid_page.html" data-country="Vietnam" data-category="Ship/Cruise">
+                              Vietnam
+                            </a>
+                          </li>
+
+                        </ul>
+                        <ul class="mega-list mega-list--grid" data-mega-content="afs" hidden>
+                          <li><a href="template_tours_grid_page.html" data-country="Argentina"
+                              data-category="Safari">Arjantin</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Australia"
+                              data-category="Safari">Avustralya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bangladesh"
+                              data-category="Safari">Bangladeş</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bolivia"
+                              data-category="Safari">Bolivya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Borneo"
+                              data-category="Safari">Borneo</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Botswana"
+                              data-category="Safari">Botsvana</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Brazil"
+                              data-category="Safari">Brezilya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Cambodia"
+                              data-category="Safari">Kamboçya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Cameroon"
+                              data-category="Safari">Kamerun</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Chad" data-category="Safari">Çad</a>
+                          </li>
+                          <li><a href="template_tours_grid_page.html" data-country="Costa Rica"
+                              data-category="Safari">Kosta Rika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ethiopia"
+                              data-category="Safari">Etiyopya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ecuador & Galapagos"
+                              data-category="Safari">Ekvador &amp; Galapagos</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Dominican Republic"
+                              data-category="Safari">Dominik Cumhuriyeti</a></li>
+
+                          <li><a href="template_tours_grid_page.html" data-country="Ethiopia"
+                              data-category="Safari">Etiyopya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Finland"
+                              data-category="Safari">Finlandiya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Gabon"
+                              data-category="Safari">Gabon</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Ghana"
+                              data-category="Safari">Gana</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="India"
+                              data-category="Safari">Hindistan</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Indonesia"
+                              data-category="Safari">Endonezya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Japan"
+                              data-category="Safari">Japonya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Jordan"
+                              data-category="Safari">Ürdün</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Kenya"
+                              data-category="Safari">Kenya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Madagascar"
+                              data-category="Safari">Madagaskar</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Malawi"
+                              data-category="Safari">Malavi</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Mexico"
+                              data-category="Safari">Meksika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Morocco"
+                              data-category="Safari">Fas</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Mozambique"
+                              data-category="Safari">Mozambik</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Namibia"
+                              data-category="Safari">Namibya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Nepal"
+                              data-category="Safari">Nepal</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Peru"
+                              data-category="Safari">Peru</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Rwanda"
+                              data-category="Safari">Ruanda</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="South Africa"
+                              data-category="Safari">Güney Afrika</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Sri Lanka"
+                              data-category="Safari">Sri Lanka</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Sweden"
+                              data-category="Safari">İsveç</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Tanzania"
+                              data-category="Safari">Tanzanya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Uganda"
+                              data-category="Safari">Uganda</a></li>
+
+                          <li><a href="template_tours_grid_page.html" data-country="Western Sahara"
+                              data-category="Safari">Batı Sahra</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Zambia"
+                              data-category="Safari">Zambiya</a></li>
+                          <li><a href="template_tours_grid_page.html" data-country="Zimbabwe"
+                              data-category="Safari">Zimbabve</a></li>
+
+                        </ul>
+                      </div>
+                      <img src="images/02-Tokyo-.jpg" alt="">
+                    </div>
+                    <div class="mega-bottom">
+                      <button class="mega-close" aria-label="Kapat">Kapat x</button>
+                    </div>
+                  </div>
+                </div>
+                <!--TURLAR BİTİŞ-->
+                <li class="submenu dropdown px-2"><a href="contact.html">İletişim</a></li>
+                <li class="log-reg-button-mobile d-none">
+                  <a href="login.html" class="login justify-content-center"><svg xmlns="http://www.w3.org/2000/svg"
+                      height="28px" viewBox="0 -960 960 960" width="28px" fill="#ffffff">
+                      <path
+                        d="M247.85-260.62q51-36.69 108.23-58.03Q413.31-340 480-340t123.92 21.35q57.23 21.34 108.23 58.03 39.62-41 63.73-96.84Q800-413.31 800-480q0-133-93.5-226.5T480-800q-133 0-226.5 93.5T160-480q0 66.69 24.12 122.54 24.11 55.84 63.73 96.84ZM480.02-460q-50.56 0-85.29-34.71Q360-529.42 360-579.98q0-50.56 34.71-85.29Q429.42-700 479.98-700q50.56 0 85.29 34.71Q600-630.58 600-580.02q0 50.56-34.71 85.29Q530.58-460 480.02-460ZM480-120q-75.31 0-141-28.04t-114.31-76.65Q176.08-273.31 148.04-339 120-404.69 120-480t28.04-141q28.04-65.69 76.65-114.31 48.62-48.61 114.31-76.65Q404.69-840 480-840t141 28.04q65.69 28.04 114.31 76.65 48.61 48.62 76.65 114.31Q840-555.31 840-480t-28.04 141q-28.04 65.69-76.65 114.31-48.62 48.61-114.31 76.65Q555.31-120 480-120Zm0-40q55.31 0 108.85-19.35 53.53-19.34 92.53-52.96-39-31.31-90.23-49.5Q539.92-300 480-300q-59.92 0-111.54 17.81-51.61 17.81-89.84 49.88 39 33.62 92.53 52.96Q424.69-160 480-160Zm0-340q33.69 0 56.85-23.15Q560-546.31 560-580t-23.15-56.85Q513.69-660 480-660t-56.85 23.15Q400-613.69 400-580t23.15 56.85Q446.31-500 480-500Zm0-80Zm0 350Z" />
+                    </svg><span class="text-center">Giriş / Kayıt</span></a>
+                </li>
+              </ul>
+              <ul class="nav navbar-nav" id="responsive-menu">
+                <li class="trip-button">
+                  <a href="login.html" class="trip-button">Giriş / Kayıt</a>
+                </li>
+              </ul>
+            </div>
+            <div id="slicknav-mobile"></div>
+          </div>
+          <div class="lang-switch" aria-label="Dil seçimi">
+            <span class="lang-icon" aria-hidden="true">
+              <i class="fa-solid fa-globe"></i>
+            </span>
+            <div id="google_translate_element"></div>
+          </div>
+        </div>
+      </nav>
+    </div>
+    </header>
+    <!-- header ends -->
+
+    <!-- Reviews Section -->
+    <section class="google-reviews-section" data-google-place-id="" data-google-reviews-uri="" data-google-write-review-uri="">
+      <div class="container">
+        <div class="review-shell">
+          <div class="review-copy">
+            <span class="review-eyebrow"><i class="fa-brands fa-google" aria-hidden="true"></i> Google değerlendirmeleri</span>
+            <h1 class="review-title">Misafirlerimizin Siempre Tour deneyimleri</h1>
+            <p class="review-lead">Güncel değerlendirmeleri doğrudan Google Maps üzerinde, kaynağında okuyabilirsiniz. Bu sayfada yalnızca kaynağı doğrulanabilen yorumlara yer verilir; tüm yorumlara erişim için Google Maps bağlantısı açık tutulur.</p>
+            <div class="review-actions" aria-label="Google yorum bağlantıları">
+              <a href="https://www.google.com/maps/search/?api=1&amp;query=Siempre%20Tour%20Cevat%20%C5%9Eakir%20Cad.%20Orkide%20Sk.%20No%3A15%20Bodrum" target="_blank" rel="noopener noreferrer" class="review-button primary">
+                <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+                <span>Google Maps'te aç</span>
+              </a>
+              <a href="contact.html" class="review-button secondary">
+                <i class="fa-solid fa-message" aria-hidden="true"></i>
+                <span>Deneyimini paylaş</span>
+              </a>
+            </div>
+            <div class="review-metrics" aria-label="Yorum alanı özellikleri">
+              <div class="review-metric">
+                <strong>Kaynak</strong>
+                <span>Yorumlar Google Maps profilindeki güncel bilgilerle doğrulanır.</span>
+              </div>
+              <div class="review-metric">
+                <strong>Şeffaf</strong>
+                <span>Öne çıkan yorumlar gösterilse bile tüm yorumlara Google bağlantısı açık kalır.</span>
+              </div>
+              <div class="review-metric">
+                <strong>Güncel</strong>
+                <span>Puan, tarih ve yorum bilgileri kaynak sayfadaki güncel hâliyle kontrol edilir.</span>
+              </div>
+            </div>
+          </div>
+
+          <aside class="review-source-panel" aria-label="Google yorum kaynağı">
+            <span class="google-maps-attribution" translate="no">Google Maps</span>
+            <h2>Yorumları Google Maps'te açın</h2>
+            <p>Seyahat deneyimlerini okurken yorumun kaynağını da görebilmeniz için Google Maps bağlantısını öne çıkarıyoruz. Burada yayınlanacak seçili yorumlar, yazar adı ve kaynak bağlantısıyla birlikte gösterilir.</p>
+            <ul class="review-source-list">
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i><span>Yeni değerlendirme yazmak için Google Maps profiline yönlendirilirsiniz.</span></li>
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i><span>Güncel puan ve yorum sayısı Google Maps üzerinde görüntülenir.</span></li>
+              <li><i class="fa-solid fa-check" aria-hidden="true"></i><span>Olumsuz yorumlar gizlenecekse alan açıkça "öne çıkan yorumlar" olarak sunulur.</span></li>
+            </ul>
+          </aside>
+        </div>
+
+        <div class="review-policy-note">
+          <i class="fa-solid fa-shield-halved" aria-hidden="true"></i>
+          <p>Google yorumu gibi görünen manuel ve kaynaksız kartlar ziyaretçiyi yanıltabilir. Bu nedenle sayfa artık sahte kartlar yerine Google Maps bağlantısını öne çıkarır; seçili yorumlar yayınlandığında kaynak atıfları korunur.</p>
+        </div>
+
+        <div class="review-ready-grid" data-google-reviews-root>
+          <article class="review-ready-card">
+            <i class="fa-solid fa-location-dot" aria-hidden="true"></i>
+            <h2>Profil bağlantısı</h2>
+            <p>Google Maps profiline tek tıkla giderek güncel puanı, yorum sayısını ve tüm değerlendirmeleri görebilirsiniz.</p>
+          </article>
+          <article class="review-ready-card">
+            <i class="fa-solid fa-star-half-stroke" aria-hidden="true"></i>
+            <h2>Yorum kartları</h2>
+            <p>Sayfada yayınlanacak yorumlarda yazar adı, puan, tarih ve Google Maps kaynak bağlantısı birlikte yer alır.</p>
+          </article>
+          <article class="review-ready-card">
+            <i class="fa-solid fa-filter" aria-hidden="true"></i>
+            <h2>Öne çıkanlar</h2>
+            <p>Sayfada sadece seçili yorumlar gösterilecekse bu alan açıkça "öne çıkanlar" olarak sunulur.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+    <!-- Reviews Section Ends -->
+
+    <!-- footer starts -->
+    <footer class="pt-20 pb-4">
+      <div class="section-shape top-0" style="background-image: url(images/shape8.png);"></div>
+      <div class="footer-upper pb-4">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-4 col-md-6 col-sm-12 mb-4 pe-4">
+              <div class="footer-about">
+                <img src="images/logolv.svg" alt="">
+                <p class="mt-3 mb-3 black">Dünyanın dört bir yanındaki eşsiz lokasyonları keşfetmen için tasarlanmış kişisel tur deneyimleri sunuyoruz.</p>
+                <ul>
+                  <li class="black"><strong>Adres:</strong> Cevatşakir Mah., Gümbet, Orkide Sk. No:15/1, 48400 Bodrum/Muğla</li>
+                  <li class="black"><strong>Email:</strong> info@siempretour.com</li>
+                  <li class="black"><strong>Telefon:</strong> +90 546 587 00 48</li>
+                  <li class="black"><strong>Website:</strong> www.siempretour.com</li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-2 col-md-6 col-sm-12 mb-4">
+              <div class="footer-links">
+                <h3 class="Back">Hızlı Bağlantılar</h3>
+                <ul>
+                  <li><a href="about.html">Hakkımızda</a></li>
+                  <li><a href="yorumlar.html">Yorumlar</a></li>
+                  <li><a href="contact.html">İletişim</a></li>
+                  <li><a href="faq.html">SSS</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+          <div class="copyright-inner rounded p-3 d-md-flex align-items-center justify-content-center">
+            <div class="copyright-text">
+              <p class="m-0 black text-center">2025 Siempretour. Tüm hakları saklıdır.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="particles-js"></div>
+      <div class="container">
+        <div class="social-links rounded p-3 d-md-flex align-items-center justify-content-center" style="background-image: url(images/about-Footer.jpg);">
+          <ul>
+            <li><a href="#"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+            <li><a href="#"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+    <!-- footer ends -->
+
+    <!-- Back to top start -->
+    <div id="back-to-top">
+      <a href="#"></a>
+    </div>
+
+    <!-- *Scripts* -->
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/fontawesome.min.js"></script>
+    <script src="js/lang-detect.js"></script>
+  <script src="js/site-i18n.js"></script>
+    <script src="js/plugin.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/admin-nav.js"></script>
+    <script src="js/navbar-user.js"></script>
+    <script src="js/custom-nav.js"></script>
+    <script src="js/link_generator.js"></script>
+    <script src="js/chat-widget.js"></script>
+  </body>
+</html>

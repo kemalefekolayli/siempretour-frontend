@@ -11,6 +11,13 @@ document.addEventListener("DOMContentLoaded", () => {
       url += `&category=${encodeURIComponent(category)}`;
     }
 
+    const lang = typeof getSelectedLang === 'function'
+      ? getSelectedLang()
+      : (typeof getActiveLang === 'function' ? getActiveLang() : 'tr');
+    if (lang !== 'tr') {
+      url += `&lang=${encodeURIComponent(lang)}`;
+    }
+
     link.href = url;
   });
 });

@@ -16,8 +16,12 @@ async function renderWeatherChart() {
   if (!container) return;
 
   try {
+    const lang = typeof getActiveLang === "function" ? getActiveLang() : "tr";
+    const dataRoot = lang === "en"
+      ? "data/siempre_tour_country_datas"
+      : "data/siempre_tour_country_datas_tr";
     const res = await fetch(
-      `data/siempre_tour_country_datas_tr/${_countrySlug}/datas.json`,
+      `${dataRoot}/${_countrySlug}/datas.json`,
       { cache: "no-store" }
     );
 

@@ -1,6 +1,15 @@
 // Siempre Tour Chat Widget
 (function () {
-    var CHATBOT_API = 'http://localhost:8081/api/chat';
+    // Chatbot API base resolved by environment (mirrors js/api-service.js).
+    // - Local dev: separate chatbot service on :8081.
+    // - Production: UPDATE PROD_CHATBOT_API once the deployed chatbot URL is known.
+    //   (If the chatbot is served by the main backend, point this at that origin.)
+    var PROD_CHATBOT_API = 'https://siempretour-backend-629682499889.europe-west1.run.app/api/chat';
+    var CHATBOT_API = (function () {
+        var h = (typeof window !== 'undefined' && window.location) ? window.location.hostname : '';
+        var isLocal = h === '' || h === 'localhost' || h === '127.0.0.1' || h === '0.0.0.0';
+        return isLocal ? 'http://localhost:8081/api/chat' : PROD_CHATBOT_API;
+    })();
     var SEND_TIMEOUT = 20000; // 20 saniye
     var RATE_LIMIT_COUNT = 5; // max mesaj
     var RATE_LIMIT_WINDOW = 60000; // 60 saniye icinde
@@ -263,6 +272,7 @@
         var placeholder = lang === 'en' ? 'Type your message...' : 'Mesajınızı yazın...';
         var sendText = lang === 'en' ? 'Send' : 'Gönder';
         var clearTitle = lang === 'en' ? 'Clear chat' : 'Sohbeti temizle';
+        var headerTitle = lang === 'en' ? 'Siempre Tour Assistant' : 'Siempre Tour Asistan';
 
         var html = '' +
             '<button class="chat-bubble" id="chatBubble" aria-label="Chat">' +
@@ -271,7 +281,7 @@
             '</button>' +
             '<div class="chat-window" id="chatWindow">' +
                 '<div class="chat-header">' +
-                    '<span class="chat-header-title">Siempre Tour Asistan</span>' +
+                    '<span class="chat-header-title">' + headerTitle + '</span>' +
                     '<div class="chat-header-actions">' +
                         '<button class="chat-header-clear" id="chatClear" title="' + clearTitle + '">' +
                             '<i class="fa fa-trash"></i>' +

@@ -5,7 +5,7 @@
  * Bu dosya, ileride .env veya backend config'e taşınabilir.
  */
 const CONTACT_CONFIG = {
-    email: 'efe.kolayli@sabanciuniv.edu',
+    email: 'info@siempretour.com',
     phone: '+90 546 587 00 48',
-    address: 'Cevat Şakir Cad. Orkide Sk. No:15 K:3 Gümbet Bodrum, Türkiye'
+    address: 'Cevatşakir Mah., Gümbet, Orkide Sk. No:15/1, 48400 Bodrum/Muğla'
 };

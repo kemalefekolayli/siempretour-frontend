@@ -133,6 +133,10 @@ class ApiService {
         return this.request(`/admin/requests${this.query(params)}`, 'GET', null, true);
     }
 
+    static async adminContactMessages(params = {}) {
+        return this.request(`/admin/contact-messages${this.query(params)}`, 'GET', null, true);
+    }
+
     static async adminMetadata() {
         return this.request('/admin/metadata', 'GET', null, true);
     }

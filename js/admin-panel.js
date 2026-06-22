@@ -119,7 +119,7 @@
       }
       renderImagePreview();
       setUploadStatus("Kaydedilmemis form taslagi geri yuklendi.");
-      setUploadStatus("KaydedilmemiÅŸ form taslaÄŸÄ± geri yÃ¼klendi.");
+      setUploadStatus("Kaydedilmemiş form taslağı geri yüklendi.");
       setUploadStatus("Kaydedilmemis form taslagi geri yuklendi.");
       return true;
     } catch (error) {
@@ -173,8 +173,26 @@
     return value;
   }
 
+  // Serbest metni (public iletişim formundan gelir) tablo HTML'ine güvenle yerleştir
+  function esc(value) {
+    if (value === null || value === undefined || value === "") return "-";
+    return String(value)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#39;");
+  }
+
+  // Admin sayfaları /admin/ altında olduğu için göreli görsel yollarını bir üst dizine çöz
+  function resolveImageUrl(url) {
+    if (!url) return "";
+    if (/^(https?:)?\/\//.test(url) || url.charAt(0) === "/") return url;
+    return "../" + url.replace(/^\.\//, "");
+  }
+
   function imageFor(tour) {
-    return tour.image1 || tour.mainPhoto || "../images/destination/destination1.jpg";
+    return resolveImageUrl(tour.image1 || tour.mainPhoto) || "../images/destination/destination1.jpg";
   }
 
   async function initAnalytics() {
@@ -211,6 +229,25 @@
     } catch (error) {
       setState("recent-requests", "Admin verileri yüklenemedi: " + error.message);
     }
+
+    try {
+      var contactMessages = await ApiService.adminContactMessages({ page: 0, size: 10 });
+      renderContactMessagesTable("contact-messages-table", contactMessages.content || []);
+    } catch (error) {
+      setState("contact-messages-table", "İletişim mesajları yüklenemedi: " + error.message);
+    }
+  }
+
+  function renderContactMessagesTable(id, rows) {
+    var node = document.getElementById(id);
+    if (!node) return;
+    if (!rows.length) {
+      setState(id, "Henüz iletişim mesajı yok.");
+      return;
+    }
+    node.innerHTML = table(["Ad Soyad", "E-posta", "Konu", "Mesaj", "Tarih"], rows.map(function (row) {
+      return [esc(row.name), esc(row.email), esc(row.subject), esc(row.message), esc((row.createdAt || "").slice(0, 10))];
+    }));
   }
 
   function renderLineChart(id, points) {
@@ -249,8 +286,8 @@
       setState(id, "Bu filtrelerle talep bulunamadı.");
       return;
     }
-    node.innerHTML = table(["Tür", "Tur", "Kişi", "Durum", "Tarih"], rows.map(function (row) {
-      return [row.type === "reservation" ? "Rezervasyon" : "Bilgi", fmt(row.tourName), fmt(row.requesterName || row.requesterEmail), fmt(row.status), fmt((row.createdAt || "").slice(0, 10))];
+    node.innerHTML = table(["Tür", "Tur", "Kişi", "E-posta", "Telefon", "Durum", "Tarih"], rows.map(function (row) {
+      return [row.type === "reservation" ? "Rezervasyon" : "Bilgi", fmt(row.tourName), fmt(row.requesterName || row.requesterEmail), fmt(row.requesterEmail), fmt(row.requesterPhone), fmt(row.status), fmt((row.createdAt || "").slice(0, 10))];
     }));
   }
 
@@ -297,37 +334,84 @@
         page: 0,
         size: 50
       });
-      renderTours(response.content || []);
+      await renderTours(response.content || []);
     } catch (error) {
       setState("tour-list", "Turlar yüklenemedi: " + error.message);
     }
   }
 
-  function renderTours(tours) {
+  function tourRowHtml(tour, isChild) {
+    var preview = "../template_tour_page.html?id=" + encodeURIComponent(tour.slug || "") + "&country=" + encodeURIComponent(tour.destination || "");
+    var langCode = (tour.language || "").toLowerCase();
+    var langText = langCode === "en" ? "🇬🇧 İngilizce" : (langCode === "tr" ? "🇹🇷 Türkçe" : fmt(tour.language));
+    var langBadge = '<span class="admin-lang-badge ' + (langCode === "en" ? "en" : "tr") + '">' + langText + (isChild ? " versiyon" : "") + '</span>';
+    var active = tour.isActive !== false;
+    return '<tr class="' + (isChild ? "admin-subrow" : "") + '">' +
+      '<td><img class="admin-thumb" src="' + imageFor(tour) + '" alt=""></td>' +
+      '<td>' + langBadge + '<br><strong>' + fmt(tour.name || tour.tourName) + '</strong><br><small>' + fmt(tour.slug) + '</small></td>' +
+      '<td>' + fmt(tour.category) + '</td>' +
+      '<td>' + fmt(tour.destination) + '</td>' +
+      '<td>' + fmt(tour.price) + '</td>' +
+      '<td><span class="admin-badge ' + (active ? "ok" : "warn") + '">' + (active ? "Aktif" : "Pasif") + " / " + fmt(tour.status) + '</span></td>' +
+      '<td>' + fmt((tour.updatedAt || "").slice(0, 10)) + '</td>' +
+      '<td><div class="admin-actions">' +
+      '<a class="admin-btn" href="tour-form.html?id=' + tour.id + '">Düzenle</a>' +
+      '<a class="admin-btn" href="' + preview + '" target="_blank">Önizle</a>' +
+      '<button class="admin-btn" data-deactivate="' + tour.id + '">Pasifleştir</button>' +
+      '<button class="admin-btn danger" data-delete="' + tour.id + '">Kalıcı Sil</button>' +
+      '</div></td>' +
+      '</tr>';
+  }
+
+  function missingPairRowHtml(otherLang) {
+    var label = otherLang === "en" ? "İngilizce" : "Türkçe";
+    return '<tr class="admin-subrow admin-subrow-empty"><td></td>' +
+      '<td colspan="7"><small>' + label + ' versiyonu bulunamadı.</small></td></tr>';
+  }
+
+  async function renderTours(tours) {
     var node = document.getElementById("tour-list");
     if (!tours.length) {
       setState("tour-list", "Tur bulunamadı.");
       return;
     }
+    // Aynı slug'a sahip TR/EN kayıtlarını eşleştir (Türkçe ana satır, İngilizce alt satır)
+    var pageMap = {};
+    tours.forEach(function (t) {
+      if (!t.slug) return;
+      if (!pageMap[t.slug]) pageMap[t.slug] = {};
+      pageMap[t.slug][(t.language || "").toLowerCase()] = t;
+    });
+    var processed = {};
+    var entries = [];
+    tours.forEach(function (t) {
+      if (!t.slug) { entries.push({ primary: t }); return; }
+      if (processed[t.slug]) return;
+      processed[t.slug] = true;
+      var pair = pageMap[t.slug] || {};
+      var primary = pair.tr || pair.en || t;
+      var otherLang = (primary.language || "").toLowerCase() === "tr" ? "en" : "tr";
+      entries.push({ primary: primary, child: pair[otherLang] || null, otherLang: otherLang, slug: t.slug, needFetch: !pair[otherLang] });
+    });
+    // Sonuçlarda olmayan dil versiyonunu slug ile getir
+    await Promise.all(entries.filter(function (e) { return e.needFetch && e.slug; }).map(function (e) {
+      return ApiService.getTourBySlug(e.slug, e.otherLang)
+        .then(function (res) { e.child = res || null; })
+        .catch(function () { e.child = null; });
+    }));
+
+    var rows = entries.map(function (e) {
+      var html = tourRowHtml(e.primary, false);
+      if (e.child) {
+        html += tourRowHtml(e.child, true);
+      } else if (e.needFetch) {
+        html += missingPairRowHtml(e.otherLang);
+      }
+      return html;
+    }).join("");
+
     node.innerHTML = '<div class="admin-table-wrap"><table class="admin-table"><thead><tr><th>Görsel</th><th>Tur</th><th>Kategori</th><th>Hedef</th><th>Fiyat</th><th>Durum</th><th>Güncelleme</th><th>İşlemler</th></tr></thead><tbody>' +
-      tours.map(function (tour) {
-        var preview = "../template_tour_page.html?id=" + encodeURIComponent(tour.slug || "") + "&country=" + encodeURIComponent(tour.destination || "");
-        return '<tr>' +
-          '<td><img class="admin-thumb" src="' + imageFor(tour) + '" alt=""></td>' +
-          '<td><strong>' + fmt(tour.name || tour.tourName) + '</strong><br><small>' + fmt(tour.slug) + '</small></td>' +
-          '<td>' + fmt(tour.category) + '</td>' +
-          '<td>' + fmt(tour.destination) + '</td>' +
-          '<td>' + fmt(tour.price) + '</td>' +
-          '<td><span class="admin-badge ' + (tour.isActive ? "ok" : "warn") + '">' + (tour.isActive ? "Aktif" : "Pasif") + " / " + fmt(tour.status) + '</span></td>' +
-          '<td>' + fmt((tour.updatedAt || "").slice(0, 10)) + '</td>' +
-          '<td><div class="admin-actions">' +
-          '<a class="admin-btn" href="tour-form.html?id=' + tour.id + '">Düzenle</a>' +
-          '<a class="admin-btn" href="' + preview + '" target="_blank">Önizle</a>' +
-          '<button class="admin-btn" data-deactivate="' + tour.id + '">Pasifleştir</button>' +
-          '<button class="admin-btn danger" data-delete="' + tour.id + '">Kalıcı Sil</button>' +
-          '</div></td>' +
-          '</tr>';
-      }).join("") + "</tbody></table></div>";
+      rows + "</tbody></table></div>";
 
     node.querySelectorAll("[data-deactivate]").forEach(function (button) {
       button.addEventListener("click", function () { deactivateTour(button.dataset.deactivate); });
@@ -489,11 +573,21 @@
     return found ? found.name : "";
   }
 
+  function slugify(text) {
+    var map = { "ç": "c", "ğ": "g", "ı": "i", "İ": "i", "ö": "o", "ş": "s", "ü": "u", "Ç": "c", "Ğ": "g", "Ö": "o", "Ş": "s", "Ü": "u" };
+    return String(text)
+      .replace(/[çğıİöşüÇĞÖŞÜ]/g, function (ch) { return map[ch] || ch; })
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+  }
+
   function collectTourForm() {
     var data = {};
     new FormData(document.getElementById("tour-form")).forEach(function (value, key) {
       data[key] = value || null;
     });
+    if (!data.slug && data.name) data.slug = slugify(data.name);
     data.isActive = document.getElementById("tour-active").checked;
     data.duration = data.duration ? Number(data.duration) : null;
     data.price = data.price ? Number(data.price) : null;
@@ -506,6 +600,11 @@
     data.routeCoordinates = routeCoordinates.length ? routeCoordinates : [];
     var eventTypeEl = document.getElementById("tour-event-type");
     data.eventType = eventTypeEl && eventTypeEl.value ? eventTypeEl.value : null;
+    // Görsel alanları: boş olanları "" olarak gönder ki backend silmeyi uygulasın
+    // (backend yalnızca null OLMAYAN alanları günceller; null gönderilirse görsel silinmez).
+    tourImageFields.forEach(function (field) {
+      if (!data[field]) data[field] = "";
+    });
     return data;
   }
 
@@ -617,6 +716,31 @@
     });
   }
 
+  function removeTourImage(url) {
+    // Bu görseli tutan tüm alanları temizle
+    tourImageFields.forEach(function (field) {
+      var node = document.querySelector('[name="' + field + '"]');
+      if (node && node.value === url) node.value = "";
+    });
+    // Kapak silindiyse, ilk dolu galeri görselini kapak yap
+    var mainNode = document.querySelector('[name="mainPhoto"]');
+    if (mainNode && !mainNode.value) {
+      var next = ["image1", "image2", "image3", "image4", "image5", "image6"]
+        .map(function (f) { return document.querySelector('[name="' + f + '"]'); })
+        .filter(function (n) { return n && n.value; })[0];
+      if (next) mainNode.value = next.value;
+    }
+    saveTourDraft(activeTourDraftKey);
+    renderImagePreview();
+  }
+
+  function makeTourCover(url) {
+    var mainNode = document.querySelector('[name="mainPhoto"]');
+    if (mainNode) mainNode.value = url;
+    saveTourDraft(activeTourDraftKey);
+    renderImagePreview();
+  }
+
   function renderImagePreview() {
     var urls = tourImageFields
       .map(function (field) {
@@ -627,9 +751,23 @@
       .filter(function (url, index, allUrls) { return allUrls.indexOf(url) === index; });
     var node = document.getElementById("image-preview");
     if (!node) return;
-    node.innerHTML = urls.length ? urls.map(function (url, index) {
-      return '<div class="admin-image-item"><img src="' + url + '" alt=""><button type="button">' + (index === 0 ? "Kapak" : "Galeri") + '</button></div>';
+    var mainNode = document.querySelector('[name="mainPhoto"]');
+    var mainUrl = mainNode ? mainNode.value : "";
+    node.innerHTML = urls.length ? urls.map(function (url) {
+      var isCover = url === mainUrl;
+      return '<div class="admin-image-item">' +
+        '<img src="' + resolveImageUrl(url) + '" alt="">' +
+        '<span class="admin-image-tag">' + (isCover ? "Kapak" : "Galeri") + '</span>' +
+        (isCover ? "" : '<button type="button" class="admin-image-cover" data-url="' + encodeURIComponent(url) + '">Kapak yap</button>') +
+        '<button type="button" class="admin-image-remove" data-url="' + encodeURIComponent(url) + '" title="Görseli kaldır">✕ Kaldır</button>' +
+        '</div>';
     }).join("") : '<div class="admin-state">Henüz görsel seçilmedi.</div>';
+    Array.prototype.forEach.call(node.querySelectorAll(".admin-image-remove"), function (btn) {
+      btn.addEventListener("click", function () { removeTourImage(decodeURIComponent(btn.getAttribute("data-url"))); });
+    });
+    Array.prototype.forEach.call(node.querySelectorAll(".admin-image-cover"), function (btn) {
+      btn.addEventListener("click", function () { makeTourCover(decodeURIComponent(btn.getAttribute("data-url"))); });
+    });
   }
 
   document.addEventListener("DOMContentLoaded", async function () {

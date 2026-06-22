@@ -15,9 +15,13 @@
 
     async function fetchCountryDatas(countrySlug) {
         if (cachedDatasLocal) return cachedDatasLocal;
+        const lang = typeof getActiveLang === "function" ? getActiveLang() : "tr";
+        const dataRoot = lang === "en"
+            ? "data/siempre_tour_country_datas"
+            : "data/siempre_tour_country_datas_tr";
 
         const res = await fetch(
-            `data/siempre_tour_country_datas_tr/${countrySlug}/datas.json`,
+            `${dataRoot}/${countrySlug}/datas.json`,
             { cache: "no-store" }
         );
 
@@ -132,7 +136,7 @@
         const bestTime = datas.find(d => d.type === "best-time-to");
         if (!bestTime){
             const btn = document.getElementById("guide-tab");
-            btn?.remove();
+            btn?.closest(".nav-item")?.remove();
             return;
         };
 

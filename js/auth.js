@@ -1,4 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
+    const isEn = () => (typeof getActiveLang === 'function' ? getActiveLang() : 'tr') === 'en';
+    const text = (tr, en) => isEn() ? en : tr;
 
     // === Helper: Attach login handler to a form ===
     function attachLoginHandler(form) {
@@ -14,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const password = passwordInput ? passwordInput.value : '';
 
             if (!email || !password) {
-                alert('Lütfen tüm alanları doldurun.');
+                alert(text('Lütfen tüm alanları doldurun.', 'Please fill in all fields.'));
                 return;
             }
 
@@ -23,11 +25,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (response && response.token) {
                     localStorage.setItem('jwt_token', response.token);
                     localStorage.setItem('user_info', JSON.stringify(response));
-                    alert('Giriş başarılı!');
+                    alert(text('Giriş başarılı!', 'Login successful!'));
                     window.location.href = 'index.html';
                 }
             } catch (error) {
-                alert('Giriş başarısız: ' + error.message);
+                alert(text('Giriş başarısız: ', 'Login failed: ') + error.message);
             }
         });
     }
@@ -54,17 +56,17 @@ document.addEventListener('DOMContentLoaded', () => {
             const confirmPassword = passwordInputs[1] ? passwordInputs[1].value : '';
 
             if (!firstName || !lastName || !email || !password || !confirmPassword) {
-                alert('Lütfen tüm zorunlu alanları doldurun.');
+                alert(text('Lütfen tüm zorunlu alanları doldurun.', 'Please fill in all required fields.'));
                 return;
             }
 
             if (password !== confirmPassword) {
-                alert('Şifreler eşleşmiyor.');
+                alert(text('Şifreler eşleşmiyor.', 'Passwords do not match.'));
                 return;
             }
 
             if (termsBox && !termsBox.checked) {
-                alert('Şartlar ve Gizlilik Politikasını kabul etmelisiniz.');
+                alert(text('Şartlar ve Gizlilik Politikasını kabul etmelisiniz.', 'You must accept the Terms and Privacy Policy.'));
                 return;
             }
 
@@ -81,11 +83,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (response && response.token) {
                     localStorage.setItem('jwt_token', response.token);
                     localStorage.setItem('user_info', JSON.stringify(response));
-                    alert('Kayıt başarılı!');
+                    alert(text('Kayıt başarılı!', 'Registration successful!'));
                     window.location.href = 'index.html';
                 }
             } catch (error) {
-                alert('Kayıt başarısız: ' + error.message);
+                alert(text('Kayıt başarısız: ', 'Registration failed: ') + error.message);
             }
         });
     }

@@ -1,3 +1,21 @@
+function activeLang() {
+  return typeof getActiveLang === 'function' ? getActiveLang() : (getQueryParam("lang") || "tr");
+}
+
+function isEnglishLang() {
+  return activeLang() === "en";
+}
+
+function trEn(tr, en) {
+  return isEnglishLang() ? en : tr;
+}
+
+function resolveAssetUrl(url) {
+  return window.AssetCdn && typeof window.AssetCdn.resolve === 'function'
+    ? window.AssetCdn.resolve(url)
+    : url;
+}
+
 function renderDayInfo(dayInfo) {
   const container = document.getElementById('daysAccordion');
   if (!container) return;
@@ -12,6 +30,9 @@ function renderDayInfo(dayInfo) {
 
     const acc = document.createElement('div');
     acc.className = "accrodion" + isActive;
+    const dayLabel = isEnglishLang()
+      ? `Day ${day.dayNumber || index + 1}`
+      : `${day.dayNumber || index + 1}. Gün`;
 
     acc.innerHTML = `
       <div class="accrodion-title rounded">
@@ -25,6 +46,8 @@ function renderDayInfo(dayInfo) {
         </div>
       </div>
     `;
+    const titleSpan = acc.querySelector('.accrodion-title span');
+    if (titleSpan) titleSpan.textContent = dayLabel;
 
     container.appendChild(acc);
   });
@@ -41,6 +64,12 @@ function renderTour(tour) {
   document.getElementById('currentDestination').textContent = destinationTr;
   document.getElementById('tourTitle').textContent = tour.tourName || "";
   document.getElementById('tourTitle2').textContent = tour.tourName || "";
+  const selectedLang = typeof getSelectedLang === 'function' ? getSelectedLang() : activeLang();
+  const bookingUrl = `booking.html?id=${encodeURIComponent(tour.slug || "")}&country=${encodeURIComponent(tour.destination || "")}${selectedLang !== "tr" ? `&lang=${encodeURIComponent(selectedLang)}` : ""}`;
+  ["bookingBtn", "mobileBookingBtn"].forEach((id) => {
+    const button = document.getElementById(id);
+    if (button) button.href = bookingUrl;
+  });
 
   // if (tour.mainPhoto) {
   //   document.getElementById('mainPhoto').style =
@@ -51,16 +80,17 @@ function renderTour(tour) {
   document.getElementById('generalInfo').innerHTML = tour.generalInfo || "";
   document.getElementById('whatExpect').innerHTML = tour.whatExpect || "";
 
-  document.getElementById('durationDays').innerHTML =
-    `<i class="fa fa-clock-o pink mr-1"></i>${tour.durationDays ?? ""} gün`;
-
-  
-
   /* ✅ IMG FIX (innerHTML YOK) */
+  const durationEl = document.getElementById('durationDays');
+  if (durationEl) {
+    durationEl.innerHTML =
+    `<i class="fa fa-clock-o pink mr-1"></i>${tour.durationDays ?? ""} ${trEn('gün', 'days')}`;
+  }
+
   const setImg = (id, url) => {
     const img = document.getElementById(id);
     if (!img) return;
-    img.src = url || "";
+    img.src = resolveAssetUrl(url || "");
     img.alt = tour.imagealt || "";
   };
 
@@ -97,7 +127,7 @@ function formatReviewDate(value) {
   if (!value) return "";
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return "";
-  return date.toLocaleDateString("tr-TR", {
+  return date.toLocaleDateString(isEnglishLang() ? "en-US" : "tr-TR", {
     year: "numeric",
     month: "short",
     day: "numeric"
@@ -141,15 +171,16 @@ function renderTourReviews(reviews) {
 
   const items = reviews.map((review) => {
     const dateText = formatReviewDate(review.travelDate || review.approvedAt || review.createdAt);
-    const title = escapeHtml(review.title || "Misafir yorumu");
+    const guestLabel = trEn("Misafir", "Guest");
+    const title = escapeHtml(review.title || trEn("Misafir yorumu", "Guest review"));
     const meta = dateText
-      ? `${escapeHtml(review.guestName || "Misafir")} &nbsp;&nbsp; ${escapeHtml(dateText)}`
-      : escapeHtml(review.guestName || "Misafir");
+      ? `${escapeHtml(review.guestName || guestLabel)} &nbsp;&nbsp; ${escapeHtml(dateText)}`
+      : escapeHtml(review.guestName || guestLabel);
 
     return `
       <div class="comment-box">
         <div class="comment-content rounded">
-          <h5 class="mb-1">${escapeHtml(review.guestName || "Misafir")}</h5>
+          <h5 class="mb-1">${escapeHtml(review.guestName || guestLabel)}</h5>
           <p class="comment-date">${meta}</p>
           <div class="comment-rate">
             <div class="rating mar-right-15 text-warning" aria-label="${Number(review.rating) || 0} / 5">${renderStars(review.rating)}</div>
@@ -161,14 +192,24 @@ function renderTourReviews(reviews) {
     `;
   }).join("");
 
+  const reviewsTitle = trEn("Misafir Yorumları", "Guest Reviews");
+  const verifiedGuestReviews = trEn(
+    `${total} doğrulanmış misafir yorumu`,
+    `${total} verified guest reviews`
+  );
+  const showingReviews = trEn(
+    `${total} doğrulanmış misafir yorumu gösteriliyor`,
+    `Showing ${total} verified guest reviews`
+  );
+
   container.innerHTML = `
     <div class="review-box bg-title text-center py-4 p-2 rounded mb-4">
       <h2 class="mb-1 white"><span>${average.toFixed(1)}</span>/5</h2>
-      <h4 class="white mb-1">Misafir Yorumları</h4>
-      <p class="mb-0 white font-italic">${total} doğrulanmış misafir yorumu</p>
+      <h4 class="white mb-1">${reviewsTitle}</h4>
+      <p class="mb-0 white font-italic">${verifiedGuestReviews}</p>
     </div>
     <div class="single-comments single-box mb-4">
-      <h5 class="border-b pb-2 mb-2">${total} doğrulanmış misafir yorumu gösteriliyor</h5>
+      <h5 class="border-b pb-2 mb-2">${showingReviews}</h5>
       ${items}
     </div>
   `;
@@ -177,14 +218,14 @@ function renderTourReviews(reviews) {
   if (ratingStars && reviewCount) {
     ratingStars.innerHTML = renderStars(roundedAverage);
     ratingStars.classList.remove("d-none");
-    reviewCount.textContent = `(${total} doğrulanmış yorum)`;
+    reviewCount.textContent = trEn(`(${total} doğrulanmış yorum)`, `(${total} verified reviews)`);
     reviewCount.classList.remove("d-none");
   }
 
   if (sidebarTrust) {
     sidebarTrust.innerHTML = `
       <div class="sidebar-trust-stars">${renderStars(roundedAverage)}</div>
-      <p class="sidebar-trust-text">${total} doğrulanmış misafir yorumu</p>
+      <p class="sidebar-trust-text">${verifiedGuestReviews}</p>
     `;
     sidebarTrust.classList.remove("d-none");
   }

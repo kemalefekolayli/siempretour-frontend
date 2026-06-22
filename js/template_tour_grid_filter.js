@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const params = new URLSearchParams(window.location.search);
   const countryParam = params.get('country');
   const categoryParam = params.get('category');
+  const isEn = (typeof getActiveLang === 'function' ? getActiveLang() : (params.get('lang') || 'tr')) === 'en';
 
   const cardsContainer = document.getElementById('tourCards');
   if (!cardsContainer) return;
@@ -25,9 +26,14 @@ document.addEventListener('DOMContentLoaded', function () {
   let selectedShips = [];
 
   const normalize = (s) => (s ?? '').toString().trim();
+  const isShipCategory = (category) => category === 'Ship/Cruise' || category === 'CRUISE' || category === 'Ship';
+  const categoriesMatch = (actual, expected) => {
+    if (isShipCategory(actual) && isShipCategory(expected)) return true;
+    return normalize(actual) === normalize(expected);
+  };
 
   // Belirli bir kategori URL'sindeyken (Ship/Cruise hariç) kategori bölümünü gizle
-  if (categoryParam && categoryParam !== 'Ship/Cruise') {
+  if (categoryParam && !isShipCategory(categoryParam)) {
     const categorySidebarItem = document.querySelector('.sidebar-category1') &&
       document.querySelector('.sidebar-category1').closest('.sidebar-item');
     if (categorySidebarItem) categorySidebarItem.style.display = 'none';
@@ -110,7 +116,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const tours = await ApiService.getToursByDestination(country, lang);
       let all = Array.isArray(tours) ? tours : [];
       if (categoryParam) {
-        all = all.filter(t => t.category === categoryParam);
+        all = all.filter(t => categoriesMatch(t.category, categoryParam));
       }
       allTours = all;
       if (!categoryParam) updateCategoryCounts();
@@ -131,14 +137,34 @@ document.addEventListener('DOMContentLoaded', function () {
       if (!cat) return;
       categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
     });
+
+    let visibleCategoryCount = 0;
+
     filterCheckboxes.forEach(cb => {
       const value = normalize(cb.value);
       const countSpan = cb.parentElement.querySelector('.count');
       const listItem = cb.closest('li');
       const count = categoryCounts[value] || 0;
+
       if (countSpan) countSpan.textContent = count;
-      if (listItem) listItem.style.display = count > 0 ? 'block' : 'none';
+
+      if (listItem) {
+        const hasTours = count > 0;
+        listItem.classList.toggle('is-category-empty', !hasTours);
+        listItem.hidden = !hasTours;
+        listItem.setAttribute('aria-hidden', String(!hasTours));
+        listItem.style.setProperty('display', hasTours ? 'flex' : 'none', 'important');
+        cb.disabled = !hasTours;
+        if (!hasTours) cb.checked = false;
+        if (hasTours) visibleCategoryCount += 1;
+      }
     });
+
+    const categorySidebarItem = document.querySelector('.sidebar-category1')?.closest('.sidebar-item');
+    if (categorySidebarItem) {
+      categorySidebarItem.hidden = visibleCategoryCount === 0;
+      categorySidebarItem.style.setProperty('display', visibleCategoryCount > 0 ? 'block' : 'none', 'important');
+    }
   }
 
   // ===============================
@@ -147,7 +173,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function tourMatchesFilters(tour) {
     // Gemi filtresi (Ship/Cruise modu)
-    if (categoryParam === 'Ship/Cruise') {
+    if (isShipCategory(categoryParam)) {
       const shipOk = selectedShips.length === 0 || selectedShips.includes((tour.shipName || '').trim());
       if (!shipOk) return false;
     } else if (!categoryParam) {
@@ -226,7 +252,7 @@ document.addEventListener('DOMContentLoaded', function () {
   window.addEventListener('resize', requestSidebarPositionUpdate);
   window.addEventListener('load', requestSidebarPositionUpdate);
 
-  if (categoryParam === 'Ship/Cruise') {
+  if (isShipCategory(categoryParam)) {
     initShipFilter();
   } else {
     fetchTours();
@@ -242,17 +268,18 @@ document.addEventListener('DOMContentLoaded', function () {
     if (!sidebarItem) return;
 
     const h3 = sidebarItem.querySelector('h3');
-    if (h3) h3.textContent = 'Gemilerimiz';
+    if (h3) h3.textContent = isEn ? 'Our Ships' : 'Gemilerimiz';
 
     const ul = sidebarItem.querySelector('ul.sidebar-category1');
-    if (ul) ul.innerHTML = '<li class="text-muted small">Yükleniyor...</li>';
+    if (ul) ul.innerHTML = `<li class="text-muted small">${isEn ? 'Loading...' : 'Yükleniyor...'}</li>`;
 
     const country = decodeURIComponent(countryParam || '');
     const lang = typeof getActiveLang === 'function' ? getActiveLang() : 'tr';
+    const backendCategory = lang === 'en' ? 'Ship' : 'Ship/Cruise';
     let tours = [];
     try {
-      const all = await ApiService.getToursByDestination(country, lang);
-      tours = (Array.isArray(all) ? all : []).filter(t => t.category === 'Ship/Cruise');
+      const all = await ApiService.getToursByDestination(country, lang, backendCategory);
+      tours = (Array.isArray(all) ? all : []).filter(t => isShipCategory(t.category));
     } catch (e) {
       if (ul) ul.innerHTML = '';
       return;
@@ -269,7 +296,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const ships = Object.keys(shipMap).sort();
 
     if (!ships.length) {
-      if (ul) ul.innerHTML = '<li class="text-muted small">Gemi bilgisi bulunamadı.</li>';
+      if (ul) ul.innerHTML = `<li class="text-muted small">${isEn ? 'No ship information found.' : 'Gemi bilgisi bulunamadı.'}</li>`;
       requestSidebarPositionUpdate();
       return;
     }

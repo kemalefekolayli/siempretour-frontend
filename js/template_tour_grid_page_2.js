@@ -13,9 +13,13 @@ async function fetchCountryDatas() {
     if (!countrySlug) {
         throw new Error("country parametresi yok");
     }
+    const lang = typeof getActiveLang === "function" ? getActiveLang() : "tr";
+    const dataRoot = lang === "en"
+        ? "data/siempre_tour_country_datas"
+        : "data/siempre_tour_country_datas_tr";
 
     const res = await fetch(
-        `data/siempre_tour_country_datas_tr/${countrySlug}/datas.json`,
+        `${dataRoot}/${countrySlug}/datas.json`,
         { cache: "no-store" }
     );
 
@@ -85,7 +89,7 @@ async function renderOverview() {
     if (images[0]) {
         html += `
             <figure class="country-story-image country-story-image--wide">
-                <img src="${images[0]}" alt="${fixTurkishText(overview.Subtitle || overview.Main_Title || countrySlug)}">
+                <img src="${images[0]}" alt="${fixTurkishText(overview.Subtitle || overview.Main_Title || countrySlug)}" onerror="this.onerror=null;this.src='images/cruise/cruise-banner.jpg';">
                 ${figureCaption(1, overview.Subtitle || overview.Main_Title)}
             </figure>
         `;
@@ -146,7 +150,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
 
     function switchToToursTab() {
-        overviewTabBtn.remove();
+        overviewTabBtn.closest(".nav-item")?.remove();
         const overviewPane = document.getElementById("tour-tab-pane");
         if (overviewPane) overviewPane.classList.remove("show", "active");
         const toursBtn = document.getElementById("overview-tab");

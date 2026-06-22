@@ -1,7 +1,25 @@
-data/
 avrupa-turlari/
 avrupa-turlari.zip
 scss/
 *.md
 *.zip
+data/*.py
+data/geocode_cache*.json
 .git/
+
+# --- Pre-deploy audit additions (non-served assets / dev tooling / junk) ---
+# Frontend has 0 references to these; backend serves its own copies separately.
+siempretour-images/
+data/
+reports/
+dashboard/
+scripts/
+uploads/
+mail/
+import_tours.js
+# Dev-only browser profiles (may contain cookies/tokens) — must never ship
+.chrome-profile-*/
+.edge-profile-*/
+# OS / archive junk
+**/.DS_Store
+**/__MACOSX/

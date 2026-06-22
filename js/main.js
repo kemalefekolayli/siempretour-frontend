@@ -670,6 +670,12 @@ function resize_eb_slider() {
     }
 
     trigger.addEventListener('click', toggle);
+    document.querySelectorAll('[data-open-tours-menu]').forEach((link) => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            openMega();
+        });
+    });
     closeBt.addEventListener('click', closeMega);
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && panel.classList.contains('is-open')) closeMega(); });
     panel.addEventListener('click', (e) => { if (e.target === panel) closeMega(); });

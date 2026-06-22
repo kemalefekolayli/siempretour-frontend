@@ -1,8 +1,8 @@
-﻿console.log("extra text js yÃ¼klendi");
+﻿console.log("extra text js yüklendi");
 
 /* ===============================
    EXTRA TEXT RENDER
-   (_countrySlug zaten baÅŸka dosyada var)
+   (_countrySlug zaten başka dosyada var)
 ================================ */
 async function renderExtraTexts() {
     if (typeof _countrySlug === "undefined" || !_countrySlug) return;
@@ -11,8 +11,12 @@ async function renderExtraTexts() {
     if (!container) return;
 
     try {
+        const lang = typeof getActiveLang === "function" ? getActiveLang() : "tr";
+        const dataRoot = lang === "en"
+            ? "data/siempre_tour_country_datas"
+            : "data/siempre_tour_country_datas_tr";
         const res = await fetch(
-            `data/siempre_tour_country_datas_tr/${_countrySlug}/datas.json`,
+            `${dataRoot}/${_countrySlug}/datas.json`,
             { cache: "no-store" }
         );
 
@@ -44,7 +48,7 @@ async function renderExtraTexts() {
         if (img1 && images[0]) {
             img1.innerHTML = `
                 <figure class="country-guide-image">
-                    <img src="${images[0]}" alt="${bestTime.Main_Title || _countrySlug}">
+                    <img src="${images[0]}" alt="${bestTime.Main_Title || _countrySlug}" onerror="this.onerror=null;this.src='images/cruise/cruise-banner.jpg';">
                     ${figureCaption(1, bestTime.Main_Title || _countrySlug)}
                 </figure>
             `;
@@ -74,7 +78,7 @@ async function renderExtraTexts() {
         }
 
     } catch (err) {
-        console.error("Extra text yÃ¼klenemedi:", err);
+        console.error("Extra text yüklenemedi:", err);
         container.innerHTML = "";
     }
 }

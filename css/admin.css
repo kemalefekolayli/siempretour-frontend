@@ -279,6 +279,67 @@
   padding: 9px;
   background: #fff;
   border-top: 1px solid rgba(0, 0, 0, 0.08);
+  cursor: pointer;
+}
+
+.admin-image-tag {
+  display: block;
+  padding: 6px 9px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #444;
+  background: #f3f4f6;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+.admin-image-item .admin-image-cover {
+  color: #1d4ed8;
+}
+
+.admin-image-item .admin-image-cover:hover {
+  background: #eff6ff;
+}
+
+.admin-image-item .admin-image-remove {
+  color: #b91c1c;
+  font-weight: 600;
+}
+
+.admin-image-item .admin-image-remove:hover {
+  background: #fef2f2;
+}
+
+.admin-subrow > td {
+  background: #f8fafc;
+  border-top: 1px dashed rgba(0, 0, 0, 0.12);
+}
+
+.admin-subrow > td:first-child {
+  box-shadow: inset 3px 0 0 #1d4ed8;
+}
+
+.admin-subrow-empty > td {
+  color: #999;
+}
+
+.admin-lang-badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 1px 7px;
+  border-radius: 10px;
+  margin-bottom: 4px;
+}
+
+.admin-lang-badge.tr {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+.admin-lang-badge.en {
+  background: #dbeafe;
+  color: #1d4ed8;
 }
 
 .admin-state {

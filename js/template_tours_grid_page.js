@@ -1,3 +1,9 @@
+function resolveAssetUrl(url) {
+  return window.AssetCdn && typeof window.AssetCdn.resolve === 'function'
+    ? window.AssetCdn.resolve(url)
+    : url;
+}
+
 async function loadTours() {
   const container = document.getElementById('tourCards');
   if (!container) return;
@@ -7,20 +13,25 @@ async function loadTours() {
   const categoryParam = params.get('category');
 
   if (!countryParam) {
-    container.innerHTML =
-      '<p>Ülke seçilmedi. Lütfen Turlar sayfasından bir ülke seç.</p>';
+    container.innerHTML = isEnglishLang()
+      ? '<p>Please select a country from the Tours page.</p>'
+      : '<p>Ulke secilmedi. Lutfen Turlar sayfasindan bir ulke sec.</p>';
     return;
   }
 
   const country = decodeURIComponent(countryParam);
   const countryTr = typeof countryNameTr === 'function' ? countryNameTr(country) : country;
   const lang = typeof getActiveLang === 'function' ? getActiveLang() : (params.get('lang') || 'tr');
+  const isEn = lang === 'en';
+  const fallbackImage = resolveAssetUrl(categoryParam === 'Ship/Cruise'
+    ? 'images/cruise/cruise-banner.jpg'
+    : 'images/trending/trending-large.jpg');
 
   // Set headers immediately with Turkish name
   const dest1 = document.getElementById('tour-tab');
-  if (dest1) dest1.innerHTML = `${countryTr} Genel Bakış`;
+  if (dest1) dest1.innerHTML = isEn ? `${countryTr} Overview` : `${countryTr} Genel Bakış`;
   const dest2 = document.getElementById('overview-tab');
-  if (dest2) dest2.innerHTML = `${countryTr} Turları`;
+  if (dest2) dest2.innerHTML = isEn ? `${countryTr} Tours` : `${countryTr} Turları`;
   const dest3 = document.getElementById('theHeaderOne');
   if (dest3) dest3.innerHTML = countryTr;
   const dest4 = document.getElementById('theHeaderTwo');
@@ -33,8 +44,10 @@ async function loadTours() {
     renderShipCompanies();
   }
 
-  // Pass category as-is — backend accepts both enum names and display names
-  const backendCategory = categoryParam || null;
+  // Backend has legacy TR cruise tours as Ship/Cruise and EN cruise tours as Ship.
+  const backendCategory = isShipCategory(categoryParam)
+    ? (isEn ? 'Ship' : 'Ship/Cruise')
+    : (categoryParam || null);
 
   console.log("COUNTRY:", country);
   console.log("CATEGORY:", categoryParam || "ALL");
@@ -44,34 +57,35 @@ async function loadTours() {
 
     if (!Array.isArray(tours) || tours.length === 0) {
       container.innerHTML =
-        `<p>${country} için şu anda tur bulunamadı.</p>`;
+        isEn ? `<p>No tours are currently available for ${country}.</p>` : `<p>${country} icin su anda tur bulunamadi.</p>`;
       return;
     }
 
     container.innerHTML = '';
 
     tours.forEach(tour => {
-      const image = tour.image1 || tour.mainPhoto || '';
+      const image = resolveAssetUrl(tour.image1 || tour.mainPhoto || '');
       const alt = tour.imagealt || tour.tourName || 'Tour image';
       const days = tour.durationDays || '';
       const title = tour.tourName || '';
       const places = tour.placesVisited || '';
       const shipName = tour.shipName || '';
 
-      const detailUrl = generateDetailUrl(tour.slug);
+      const detailUrl = generateDetailUrl(tour.slug, tour.language || lang);
 
       const cardHtml = `
         <div class="tour-card col-lg-6 col-md-6 mb-4">
           <div class="pb-4 mb-0">
             <div class="ratio ratio-16x9 overflow-hidden">
-              ${image ? `<img class="hover-zoom" src="${image}" alt="${alt}">` : ''}
+              <img class="hover-zoom" src="${image || fallbackImage}" alt="${alt}" loading="lazy"
+                onerror="this.onerror=null;this.src='${fallbackImage}'">
               <div class="color-overlay"></div>
             </div>
 
             <div class="trend-content p-0 pt-2 position-relative">
               <div class="entry-meta d-flex justify-content-between align-items-center mb-0">
                 <div class="entry-author">
-                  <p class="mb-0">${days ? `${days} günlük tur` : ''}</p>
+                  <p class="mb-0">${days ? (isEn ? `${days}-day tour` : `${days} gunluk tur`) : ''}</p>
                 </div>
                 <div class="entry-price text-end">
                 </div>
@@ -96,8 +110,16 @@ async function loadTours() {
   } catch (err) {
     console.error('Turlar yüklenirken hata:', err);
     container.innerHTML =
-      `<p>Şu anda ${country} turları yüklenemiyor.</p>`;
+      isEn ? `<p>${country} tours are not available right now.</p>` : `<p>Su anda ${country} turlari yuklenemiyor.</p>`;
   }
+}
+
+function isEnglishLang() {
+  return typeof getActiveLang === 'function' && getActiveLang() === 'en';
+}
+
+function isShipCategory(category) {
+  return category === 'Ship/Cruise' || category === 'CRUISE' || category === 'Ship';
 }
 
 const SHIP_DATA = {
@@ -181,13 +203,14 @@ const COMPANIES = [
 function renderShipCompanies() {
   const container = document.getElementById('ships-container');
   if (!container) return;
+  const fallbackImage = resolveAssetUrl('images/cruise/cruise-banner.jpg');
 
   const cards = COMPANIES.map(c => `
     <div class="col-lg-4 col-md-6 mb-4">
       <div class="ship-company-card" data-company-key="${c.key}" style="cursor:pointer;">
         <div class="ratio ratio-16x9 overflow-hidden">
-          <img class="hover-zoom" src="${c.image}" alt="${c.name}"
-            onerror="this.src='images/cruise/cruise-banner.jpg'">
+          <img class="hover-zoom" src="${resolveAssetUrl(c.image)}" alt="${c.name}"
+            onerror="this.src='${fallbackImage}'">
         </div>
         <div class="ship-company-info pt-2 pb-1">
           <h6 class="mb-0">${c.name}</h6>
@@ -206,6 +229,7 @@ function renderShipCompanies() {
 function renderShipList(key) {
   const container = document.getElementById('ships-container');
   if (!container) return;
+  const fallbackImage = resolveAssetUrl('images/cruise/cruise-banner.jpg');
 
   const company = SHIP_DATA[key];
   if (!company) return;
@@ -218,8 +242,8 @@ function renderShipList(key) {
       <a href="${detailUrl}" class="text-decoration-none">
         <div class="ship-company-card">
           <div class="ratio ratio-16x9 overflow-hidden">
-            <img class="hover-zoom" src="${s.image}" alt="${s.name}"
-              onerror="this.src='images/cruise/cruise-banner.jpg'">
+            <img class="hover-zoom" src="${resolveAssetUrl(s.image)}" alt="${s.name}"
+              onerror="this.src='${fallbackImage}'">
           </div>
           <div class="ship-company-info pt-2 pb-1">
             <h6 class="mb-0">${s.name}</h6>
@@ -233,7 +257,7 @@ function renderShipList(key) {
   container.innerHTML = `
     <div class="d-flex align-items-center gap-3 mt-4 mb-4">
       <button class="ships-back-btn" id="ships-back-btn">
-        <i class="fa fa-arrow-left"></i> Tüm Şirketler
+        <i class="fa fa-arrow-left"></i> ${isEnglishLang() ? 'All Companies' : 'Tum Sirketler'}
       </button>
       <h5 class="mb-0 fw-semibold">${company.name}</h5>
     </div>

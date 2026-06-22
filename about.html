@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="tr">
   <head>
     <meta charset="UTF-8" />
@@ -21,6 +21,8 @@
 
     <link rel="stylesheet" href="fonts/line-icons.css" type="text/css" />
       <link rel="stylesheet" href="css/chat-widget.css">
+  <!-- Branded page loader: prevents half-rendered "broken" first paint -->
+  <script src="js/page-loader.js"></script>
 </head>
   <body class="home-thh">
     <!-- Preloader -->
@@ -52,10 +54,12 @@
                     aria-expanded="false">Anasayfa </a>
                 </li>
                 <li class="submenu dropdown  px-2"><a href="about.html">Hakkımızda</a></li>
+                <li class="submenu dropdown px-2"><a href="yorumlar.html">Yorumlar</a></li>
 
                 <!--TURLAR BAŞLANGIÇ-->
-                <li id="menu-turlar" class="dropdown submenu  px-2"><a href="#" id="megaTrigger" aria-expanded="false"
+                <li id="menu-turlar" class="dropdown submenu desktop-tours-trigger px-2"><a href="#" id="megaTrigger" aria-expanded="false"
                     aria-controls="megaFull">TURLAR</a></li>
+                <li class="submenu dropdown px-2"><a href="cruise-grid.html">Gemi Turları</a></li>
 
                 <li class="submenu dropdown slicknav_parent slicknav_collapsed"><a href="#" role="menuitem"
                     aria-haspopup="true" tabindex="0" class="slicknav_item slicknav_row p-0" style="outline: none;">
@@ -247,17 +251,6 @@
                           <li><a href="template_tours_grid_page.html" data-country="St Helena">Saint Helena</a></li>
                         </ul></li>
                     <li><a href="#" data-mega-tab="afs" role="menuitem" tabindex="-1">Safari &amp; Doğa Turları</a></li>
-                    <li><a href="#" data-mega-tab="gt" role="menuitem" tabindex="-1">Gemi Turları</a>
-                      <ul class="mega-list mega-list--grid" data-mega-content="gt">
-                          <li><a href="template_tours_grid_page.html" data-country="Alaska" data-category="Ship/Cruise">Alaska</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Antarctica" data-category="Ship/Cruise">Antarktika</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Arctic Cruises" data-category="Ship/Cruise">Arktik</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Australia" data-category="Ship/Cruise">Avustralya</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Brazil" data-category="Ship/Cruise">Brezilya</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Egypt" data-category="Ship/Cruise">Mısır</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Norway" data-category="Ship/Cruise">Norveç</a></li>
-                          <li><a href="cruise-grid.html">Tüm Gemi Turları</a></li>
-                        </ul></li>
                   </ul>
                 </li>
 
@@ -276,7 +269,6 @@
                         <a href="#" data-mega-tab="me">Orta Doğu & Kuzey Afrika</a>
                         <a href="#" data-mega-tab="an">Antarktika</a>
                         <a href="#" data-mega-tab="afs">Safari &amp; Doğa Turları</a>
-                        <a href="#" data-mega-tab="gt">Gemi Turları</a>
                       </nav>
 
 
@@ -924,8 +916,7 @@
                       <i class="icon-flag theme"></i>
                     </div>
                     <h4><a href="about.html">Ne Yapmak İstediğinizi Bize Söyleyin</a></h4>
-                    <p class="mb-2">Hayalinizdeki seyahati bizimle paylaşın, size en uygun rotayı birlikte tasarlayalım.</p>
-                    <p class="mb-0 theme">400+ Yorum</p>
+                    <p class="mb-0">Hayalinizdeki seyahati bizimle paylaşın, size en uygun rotayı birlikte tasarlayalım.</p>
                   </div>
                 </div>
               </div>
@@ -936,8 +927,7 @@
                       <i class="icon-location-pin theme"></i>
                     </div>
                     <h4><a href="about.html">Seyahat Noktalarınızı Belirleyin</a></h4>
-                    <p class="mb-2">Gitmek istediğiniz şehirleri veya ülkeleri seçin, detayları biz planlayalım.</p>
-                    <p class="mb-0 theme">180+ Yorum</p>
+                    <p class="mb-0">Gitmek istediğiniz şehirleri veya ülkeleri seçin, detayları biz planlayalım.</p>
                   </div>
                 </div>
               </div>
@@ -948,8 +938,7 @@
                       <i class="icon-directions theme"></i>
                     </div>
                     <h4><a href="about.html">Tercihlerinizi Bizimle Paylaşın</a></h4>
-                    <p class="mb-2">Konfor, macera ya da keşif... Seyahat tarzınızı öğrenelim, programınızı size özel oluşturalım.</p>
-                    <p class="mb-0 theme">300+ Yorum</p>
+                    <p class="mb-0">Konfor, macera ya da keşif... Seyahat tarzınızı öğrenelim, programınızı size özel oluşturalım.</p>
                   </div>
                 </div>
               </div>
@@ -960,8 +949,7 @@
                       <i class="icon-compass theme"></i>
                     </div>
                     <h4><a href="about.html">Siempre Tour Güvencesiyle Yola Çıkın</a></h4>
-                    <p class="mb-2">25 yıllık tecrübemizle güvenli, keyifli ve unutulmaz bir seyahat deneyimi yaşayın.</p>
-                    <p class="mb-0 theme">200+ Yorum</p>
+                    <p class="mb-0">25 yıllık tecrübemizle güvenli, keyifli ve unutulmaz bir seyahat deneyimi yaşayın.</p>
                   </div>
                 </div>
               </div>
@@ -1048,121 +1036,7 @@
     </section>
     our teams Ends -->
 
-    <!-- testomonial start -->
-    <section class="testimonial pt-9" style="background-image: url(images/testimonial.png)">
-      <div class="container">
-        <div class="section-title mb-6 text-center w-75 mx-auto">
-          <h4 class="mb-1 theme1">Misafirlerimizden</h4>
-          <h2 class="mb-1">Gerçek Seyahat <span class="theme">Yorumları</span></h2>
-          <p>Siempre Tour ile yola çıkan misafirlerimizin deneyimlerinden bir seçki.</p>
-        </div>
-          <div class="col-lg-12">
-            <div class="row review-slider">
-              <div class="col-sm-4 item">
-                <div class="testimonial-item1 rounded">
-                  <div class="author-info mt-2 d-flex align-items-center mb-4">
-                    <a href="#"><img src="images/testimonial/img1.jpg" alt="" /></a>
-                    <div class="author-title ms-3">
-                      <h5 class="m-0 theme">L. K.</h5>
-                      <span>Yunanistan Adaları Turu Misafiri</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    <p class="m-0 mb-3">
-                      <i class="fa fa-quote-left me-2 fs-5"></i>Santorini ve Mykonos'u kapsayan ada turumuzda her geçiş feribottan otele kadar kusursuz planlanmıştı. Gün batımı için doğru noktada doğru saatte olmamızı sağlayan rehberimize minnettarız. Ege'nin Yunan tarafını bu kadar rahat gezeceğimizi düşünmemiştik.
-                    </p>
-                    <h6 class="m-0 mb-1 theme1" style="font-size: 0.78rem; font-weight: 700; letter-spacing: 2px;">ENG</h6>
-                    <p class="m-0" style="font-size: 0.92rem; opacity: 0.85; font-style: italic;">
-                      On our island tour covering Santorini and Mykonos, every transfer — from ferries to hotels — was planned flawlessly. We're grateful to our guide who made sure we were at the right spot at the right time for sunset. We never imagined exploring the Greek Aegean could be this effortless.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-4 item">
-                <div class="testimonial-item1 rounded">
-                  <div class="author-info mt-2 d-flex align-items-center mb-4">
-                    <a href="#"><img src="images/testimonial/img2.jpg" alt="" /></a>
-                    <div class="author-title ms-3">
-                      <h5 class="m-0 theme">T. A.</h5>
-                      <span>İsviçre Alpleri Turu Misafiri</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    <p class="m-0 mb-3">
-                      <i class="fa fa-quote-left me-2 fs-5"></i>Panoramik tren yolculukları ve göl kenarındaki kasabaları içeren İsviçre programı muhteşemdi. Bilet, rezervasyon ve transferlerin tamamı önceden ayarlandığı için biz sadece manzaranın tadını çıkardık. Alpler'in karşısında içtiğimiz o sabah kahvesini hiç unutmayacağız.
-                    </p>
-                    <h6 class="m-0 mb-1 theme1" style="font-size: 0.78rem; font-weight: 700; letter-spacing: 2px;">ENG</h6>
-                    <p class="m-0" style="font-size: 0.92rem; opacity: 0.85; font-style: italic;">
-                      The Switzerland itinerary with panoramic train rides and lakeside towns was spectacular. With every ticket, booking and transfer arranged in advance, all we had to do was enjoy the scenery. We'll never forget that morning coffee facing the Alps.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-4 item">
-                <div class="testimonial-item1 rounded">
-                  <div class="author-info mt-2 d-flex align-items-center mb-4">
-                    <a href="#"><img src="images/testimonial/img3.jpg" alt="" /></a>
-                    <div class="author-title ms-3">
-                      <h5 class="m-0 theme">E. K.</h5>
-                      <span>İtalya Turu Misafiri</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    <p class="m-0 mb-3">
-                      <i class="fa fa-quote-left me-2 fs-5"></i>İlk yurtdışı seyahatimizdi, açıkçası biraz çekincelerimiz vardı. Vize sürecinden uçuşlara, otellerden şehir turlarına kadar her şey için tek bir kişiyle iletişimde kaldık. Roma'da yolumuzu şaşırdığımız gece yarısı bile telefona cevap verdiler.
-                    </p>
-                    <h6 class="m-0 mb-1 theme1" style="font-size: 0.78rem; font-weight: 700; letter-spacing: 2px;">ENG</h6>
-                    <p class="m-0" style="font-size: 0.92rem; opacity: 0.85; font-style: italic;">
-                      It was our first trip abroad and honestly we had some hesitations. From the visa process to flights, hotels and city tours, we stayed in touch with a single contact person. They even answered the phone the night we got lost in Rome — past midnight.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-4 item">
-                <div class="testimonial-item1 rounded">
-                  <div class="author-info mt-2 d-flex align-items-center mb-4">
-                    <a href="#"><img src="images/testimonial/img1.jpg" alt="" /></a>
-                    <div class="author-title ms-3">
-                      <h5 class="m-0 theme">S. A.</h5>
-                      <span>Aile Tatili Misafiri</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    <p class="m-0 mb-3">
-                      <i class="fa fa-quote-left me-2 fs-5"></i>İki çocuklu bir aile olarak detaylı planlama bizim için kritikti. Çocuk dostu aktiviteler, kısa transferler ve esnek yemek seçenekleri sayesinde tatil hepimiz için keyifli geçti. Bir sonraki tatilimizi yine Siempre Tour ile yapacağız.
-                    </p>
-                    <h6 class="m-0 mb-1 theme1" style="font-size: 0.78rem; font-weight: 700; letter-spacing: 2px;">ENG</h6>
-                    <p class="m-0" style="font-size: 0.92rem; opacity: 0.85; font-style: italic;">
-                      As a family with two kids, careful planning was critical for us. Thanks to kid-friendly activities, short transfers and flexible meal options, the trip was enjoyable for all of us. We'll be booking our next holiday with Siempre Tour again.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-4 item">
-                <div class="testimonial-item1 rounded">
-                  <div class="author-info mt-2 d-flex align-items-center mb-4">
-                    <a href="#"><img src="images/testimonial/img2.jpg" alt="" /></a>
-                    <div class="author-title ms-3">
-                      <h5 class="m-0 theme">C. Ö.</h5>
-                      <span>Hindistan Turu Misafiri</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    <p class="m-0 mb-3">
-                      <i class="fa fa-quote-left me-2 fs-5"></i>Jaipur'un saraylarından Agra'daki Tac Mahal'e uzanan program yoğun ama çok iyi düşünülmüştü. Kalabalık noktalarda bile rehberimiz sayesinde sıra beklemeden gezdik. İlk Hindistan deneyimimiz için bundan daha güvenli bir organizasyon olamazdı.
-                    </p>
-                    <h6 class="m-0 mb-1 theme1" style="font-size: 0.78rem; font-weight: 700; letter-spacing: 2px;">ENG</h6>
-                    <p class="m-0" style="font-size: 0.92rem; opacity: 0.85; font-style: italic;">
-                      The itinerary from the palaces of Jaipur to the Taj Mahal in Agra was intense but very well thought out. Even at the busiest spots, our guide got us through without waiting in line. For our first India experience, we couldn't have asked for a safer setup.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-      </div>
-    </section>
-    <!-- testimonial ends -->
+    <!-- testimonial section removed -->
 
     <!-- partner starts -->
     <!-- <div class="our-partner pt-0 pb-6">
@@ -1199,8 +1073,8 @@
                             </p>
                             <ul>
                                 
-                                <li class="black"><strong>Asres:</strong> 
-                                  Cevat Şakir Cad. Orkide Sk. No:15 K:3 Gümbet Bodrum, Türkiye</li>
+                                <li class="black"><strong>Adres:</strong> 
+                                  Cevatşakir Mah., Gümbet, Orkide Sk. No:15/1, 48400 Bodrum/Muğla</li>
                                 <li class="black"><strong>Email:</strong> 	info@siempretour.com</li>
                                 <li class="black"><strong>Telefon:</strong> +90 546 587 00 48</li>
                                 <li class="black"><strong>Website:</strong> www.siempretour.com</li>
@@ -1211,39 +1085,14 @@
                         <div class="footer-links">
                             <h3 class="Back">Hızlı Bağlantılar</h3>
                             <ul>
-                                <li><a href="about-us.html">Hakkımızda</a></li>
-                                <li><a href="about-us.html">Teslimat Bilgileri</a></li>
-                                <li><a href="about-us.html">Gizlilik Politikası</a></li>
-                                <li><a href="about-us.html">Şartlar &amp; Koşullar</a></li>
-                                <li><a href="about-us.html">Müşteri Hizmetleri</a></li>
-                                <li><a href="#about-us.html">İade Politikası</a></li>
+                                <li><a href="about.html">Hakkımızda</a></li>
+                                <li><a href="faq.html">Sıkça Sorulan Sorular</a></li>
+                                <li><a href="kvkk.html">Gizlilik Politikası (KVKK)</a></li>
+                                <li><a href="template_tours_grid_page.html">Turları Keşfet</a></li>
+                                <li><a href="contact.html">İletişim</a></li>
+                                <li><a href="cruise-grid.html">Gemi Turları</a></li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="col-lg-2 col-md-6 col-sm-12 mb-4">
-                        <div class="footer-links">
-                            <h3 class="black">Kategoriler</h3>
-                            <ul>
-                              <li><a href="about-us.html">Seyahat</a></li>
-                              <li><a href="about-us.html">Teknoloji</a></li>
-                              <li><a href="about-us.html">Yaşam Tarzı</a></li>
-                              <li><a href="about-us.html">Rotalar</a></li>
-                              <li><a href="about-us.html">Eğlence</a></li>
-                              <li><a href="about-us.html">İş Dünyası</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                        <div class="footer-links">
-                            <h3 class="black">Bülten</h3>
-                            <div class="newsletter-form ">
-                                <p class="mb-3">200.000'den fazla gezginin yer aldığı topluluğumuza katıl! En yeni haberleri, fırsatları ve özel indirimleri e-posta ile al.</p>
-                                <form action="#" method="get" accept-charset="utf-8" class="border-0 d-flex align-items-center">
-                                    <input type="text" placeholder="Mail Adresi">
-                                    <button class="nir-btn ms-2">Üye Ol</button>
-                                </form>
-                            </div> 
-                        </div>  
                     </div>
                 </div>
             </div>
@@ -1416,26 +1265,13 @@
     <!-- <script src="js/particles.js"></script>
     <script src="js/particlerun.js"></script> -->
     <script src="js/lang-detect.js"></script>
+  <script src="js/site-i18n.js"></script>
     <script src="js/plugin.js"></script>
     <script src="js/main.js"></script>
     <script src="js/admin-nav.js"></script>
     <script src="js/navbar-user.js"></script>
     <script src="js/custom-nav.js"></script>
     <script src="js/link_generator.js"></script>
-  <script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement(
-    {
-      pageLanguage: 'tr',
-      includedLanguages: 'en,fr,de,es,it,ru,ar,id,tr',
-        autoDisplay: false
-    },
-    'google_translate_element'
-  );
-}
-</script>
-
-<script async src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
       <script src="js/chat-widget.js"></script>
 </body>
 </html>

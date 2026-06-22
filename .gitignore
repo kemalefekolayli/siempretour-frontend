@@ -21,6 +21,10 @@ node_modules/
 # Environment
 .env
 .env.*
+!.env.example
+scripts/.azure-translation-cache.json
+scripts/.tour-translation-cache.json
+reports/tour-mojibake-report.json
 
 # Large media files (serve via WordPress/CDN)
 images/tour-photos/

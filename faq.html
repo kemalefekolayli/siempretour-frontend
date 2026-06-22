@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="tr">
 
 <head>
@@ -23,6 +23,8 @@
 
     <link rel="stylesheet" href="fonts/line-icons.css" type="text/css">
      <link rel="stylesheet" href="css/chat-widget.css">
+  <!-- Branded page loader: prevents half-rendered "broken" first paint -->
+  <script src="js/page-loader.js"></script>
 </head>
 <body class="home-thh">
     <!-- Preloader -->
@@ -54,10 +56,12 @@
                     aria-expanded="false">Anasayfa </a>
                 </li>
                 <li class="submenu dropdown  px-2"><a href="about.html">Hakkımızda</a></li>
+                <li class="submenu dropdown px-2"><a href="yorumlar.html">Yorumlar</a></li>
 
                 <!--TURLAR BAŞLANGIÇ-->
-                <li id="menu-turlar" class="dropdown submenu  px-2"><a href="#" id="megaTrigger" aria-expanded="false"
+                <li id="menu-turlar" class="dropdown submenu desktop-tours-trigger px-2"><a href="#" id="megaTrigger" aria-expanded="false"
                     aria-controls="megaFull">TURLAR</a></li>
+                <li class="submenu dropdown px-2"><a href="cruise-grid.html">Gemi Turları</a></li>
 
                 <li class="submenu dropdown slicknav_parent slicknav_collapsed"><a href="#" role="menuitem"
                     aria-haspopup="true" tabindex="0" class="slicknav_item slicknav_row p-0" style="outline: none;">
@@ -249,17 +253,6 @@
                           <li><a href="template_tours_grid_page.html" data-country="St Helena">Saint Helena</a></li>
                         </ul></li>
                     <li><a href="#" data-mega-tab="afs" role="menuitem" tabindex="-1">Safari &amp; Doğa Turları</a></li>
-                    <li><a href="#" data-mega-tab="gt" role="menuitem" tabindex="-1">Gemi Turları</a>
-                      <ul class="mega-list mega-list--grid" data-mega-content="gt">
-                          <li><a href="template_tours_grid_page.html" data-country="Alaska" data-category="Ship/Cruise">Alaska</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Antarctica" data-category="Ship/Cruise">Antarktika</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Arctic Cruises" data-category="Ship/Cruise">Arktik</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Australia" data-category="Ship/Cruise">Avustralya</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Brazil" data-category="Ship/Cruise">Brezilya</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Egypt" data-category="Ship/Cruise">Mısır</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Norway" data-category="Ship/Cruise">Norveç</a></li>
-                          <li><a href="cruise-grid.html">Tüm Gemi Turları</a></li>
-                        </ul></li>
                   </ul>
                 </li>
 
@@ -278,7 +271,6 @@
                         <a href="#" data-mega-tab="me">Orta Doğu & Kuzey Afrika</a>
                         <a href="#" data-mega-tab="an">Antarktika</a>
                         <a href="#" data-mega-tab="afs">Safari &amp; Doğa Turları</a>
-                        <a href="#" data-mega-tab="gt">Gemi Turları</a>
                       </nav>
 
 
@@ -802,16 +794,16 @@
     <!-- header ends -->
 
     <!-- BreadCrumb Starts -->  
-    <section class="breadcrumb-main" style="background-image: url(images/bg/bg1.jpg);">
+    <section class="breadcrumb-main" style="background-image: url(images/about-banner2.jpg);">
         <div class="section-shape section-shape1 top-inherit bottom-0" style="background-image: url(images/shape8.png);"></div>
         <div class="breadcrumb-outer">
             <div class="container">
                 <div class="breadcrumb-content text-center">
-                    <h1 class="mb-3">Faq</h1>
+                    <h1 class="mb-3">Sıkça Sorulan Sorular</h1>
                     <nav aria-label="breadcrumb" class="d-block">
                         <ul class="breadcrumb">
                             <li class="breadcrumb-item"><a href="index.html">Anasayfa</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Faq</li>
+                            <li class="breadcrumb-item active" aria-current="page">SSS</li>
                         </ul>
                     </nav>
                 </div>
@@ -825,9 +817,9 @@
     <section class="faq-main pb-6 pt-6">
         <div class="container">
             <div class="section-title mb-6 text-center w-75 mx-auto">
-                <h4 class="mb-1 theme1">Faq</h4>
-                <h2 class="mb-1">Frequent Asked <span class="theme">Questions</span></h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                <h4 class="mb-1 theme1">SSS</h4>
+                <h2 class="mb-1">Sıkça Sorulan <span class="theme">Sorular</span></h2>
+                <p>Rezervasyon, ödeme, turlarımız ve hizmetlerimiz hakkında en çok merak edilenleri sizin için derledik. Aradığınız yanıtı bulamazsanız uzman ekibimiz yalnızca bir telefon kadar uzakta.</p>
             </div>
             <div class="faq-accordian">
                 <div class="row">
@@ -835,51 +827,51 @@
                         <div class="accrodion-grp faq-accrodion" data-grp-name="faq-accrodion1">
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h5>Who We Are</h5>
+                                    <h5>Rezervasyonumu nasıl yapabilirim?</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: block;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Beğendiğiniz turun sayfasındaki "Yerini Ayır" butonuna tıklayarak ya da doğrudan +90 546 587 00 48 numaralı hattımızdan bize ulaşarak rezervasyon oluşturabilirsiniz. Uzman danışmanlarımız uygun tarih, kontenjan ve kişiye özel seçeneklerde size yardımcı olur.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h5>Wanna know our Special Features</h5>
+                                    <h5>Tur fiyatlarına neler dahildir?</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Her turun kapsamı detay sayfasında "Fiyata Dahil Olanlar" başlığı altında ayrıntılı belirtilir. Genellikle konaklama, belirtilen öğünler, programdaki geziler ve profesyonel rehberlik dahildir; kişisel harcamalar ve isteğe bağlı ekstra turlar hariçtir.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h5>Check Your Status</h5>
+                                    <h5>Hangi ödeme yöntemlerini kullanabilirim?</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Kredi kartı, banka havalesi veya EFT ile ödeme yapabilirsiniz. Anlaşmalı bankalara taksit imkanı sunulan turlarımız için danışmanlarımızdan güncel kampanya ve taksit seçenekleri hakkında bilgi alabilirsiniz.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title">
-                                    <h5>Why choose us</h5>
+                                    <h5>Rezervasyonumu iptal edebilir veya tarihini değiştirebilir miyim?</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Evet. İptal ve değişiklik koşulları turun türüne ve kalan süreye göre değişir. Esnek iptal politikamız kapsamındaki detaylar için rezervasyon onayınızdaki koşulları inceleyebilir veya bizimle iletişime geçebilirsiniz; ekibimiz en uygun çözümü birlikte planlar.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title">
-                                    <h5>How do I post my listing</h5>
+                                    <h5>Vize ve pasaport işlemlerinde destek alabilir miyim?</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Yurtdışı turlarımızda gerekli vize evrakları, randevu süreçleri ve seyahat sigortası konusunda yönlendirme sağlıyoruz. Pasaportunuzun seyahat tarihinden itibaren en az 6 ay geçerli olması gerektiğini hatırlatırız.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
@@ -889,51 +881,51 @@
                         <div class="accrodion-grp faq-accrodion" data-grp-name="faq-accrodion2">
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h5>Why my card payment is failing</h5>
+                                    <h5>Turlara rehberlik ve transfer dahil mi?</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: block;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Turlarımızın büyük çoğunluğunda profesyonel rehberlik ile havalimanı/otel transferleri pakete dahildir. Hangi hizmetlerin dahil olduğunu ilgili turun detay sayfasındaki "Fiyata Dahil Olanlar" bölümünden net olarak görebilirsiniz.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title">
-                                    <h5>Can I upload attachments</h5>
+                                    <h5>Gemi turları (cruise) hakkında nasıl bilgi alabilirim?</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Akdeniz'den Norveç fiyortlarına, Karayipler'den Antarktika'ya kadar geniş bir gemi turu yelpazemiz var. "Gemi Turları" sayfamızdan güzergahları inceleyebilir; kabin tipleri ve kalkış tarihleri için danışmanlarımızdan teklif alabilirsiniz.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h5>Can I create a profile page for business</h5>
+                                    <h5>Sağlık turizmi hizmetleriniz neleri kapsıyor?</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Akredite hastanelerde tedavi planlaması, uzman hekim yönlendirmesi, konaklama, transfer ve çok dilli tercüman desteğini uçtan uca organize ediyoruz. Süreç öncesi ücretsiz danışmanlık için bizimle iletişime geçebilirsiniz.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title">
-                                    <h5>What is the price of posting</h5>
+                                    <h5>Seyahatim sırasında sorun yaşarsam size nasıl ulaşırım?</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Seyahatiniz boyunca 7/24 destek hattımız yanınızda. Acil durumlarda +90 546 587 00 48 numarasından ya da info@siempretour.com adresinden bize ulaşabilir, yerel ekibimizden anında yardım alabilirsiniz.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title">
-                                    <h5>How do I post my listing</h5>
+                                    <h5>Turlara bireysel olarak katılabilir miyim?</h5>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, inventore cumque veniam, praesentium velit incidunt rem quas a, quos eos ipsum, reprehenderit voluptatem.</p>
+                                        <p>Elbette. Turlarımıza bireysel, çift ya da grup olarak katılabilirsiniz. Tek kişilik konaklama farkı ve grup indirimleri hakkında danışmanlarımızdan bilgi alarak size en uygun seçeneği birlikte belirleyebilirsiniz.</p>
                                     </div><!-- /.inner -->
                                 </div>
                             </div>
@@ -948,133 +940,52 @@
     <!-- Call To Action Starts -->
     <section class="call-to-action pb-0 bg-lgrey border-t">
         <div class="container">
-            <div class="section-title text-center w-75 mx-auto mb-5 px-5">
-                <h2 class="mb-2">Do You Have Any <span class="theme">Questions</span></h2>
-                <p class="mb-0">As opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum</p>
-            </div>  
-            <div class="reservation-main">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 mb-4">
-                        <img src="images/trending/trending4.jpg" alt="" class="rounded">
-                    </div>
-                    <div class="col-lg-6 mb-4">
-                        <form method="post" action="#" class="">
-                            <div class="row">
-                                <div class="col-lg-6 col-md-6">
-                                   <div class="form-group mb-2">
-                                        <label>Full Name</label>
-                                            <input type="text" id="full-name">
-                                    </div> 
-                                </div>
-                                <div class="col-lg-6 col-md-6">
-                                   <div class="form-group mb-2">
-                                        <label>Phone No.</label>
-                                        <input type="text" id="phone-no">
-                                    </div> 
-                                </div>
-                                <div class="col-lg-6 col-md-6">
-                                   <div class="form-group mb-2">
-                                        <label>Email Address</label>
-                                            <input type="email" id="email-name">
-                                    </div> 
-                                </div>
-                                <div class="col-lg-6 col-md-6">
-                                   <div class="form-group mb-2">
-                                        <label>Destionation</label>
-                                        <div class="input-box">
-                                            <select class="niceSelect">
-                                                <option value="1">Albania</option>
-                                                <option value="2">Belgium</option>
-                                                <option value="3">Canada</option>
-                                            </select>
-                                        </div>                             
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                   <div class="form-group mb-2">
-                                    <label>Message</label>
-                                    <textarea name="message" placeholder="Type your message here..."></textarea>
-                                   </div>
-                               </div>
-                            </div>
-                            
-                            <div class="comment-btn text-center">
-                                <input type="submit" class="nir-btn" id="submit2" value="Send Message">
-                            </div>
-                        </form>
-                    </div>
-                </div>
+            <div class="section-title text-center w-75 mx-auto mb-4 px-5">
+                <h2 class="mb-2">Hâlâ Aklınızda Bir <span class="theme">Soru</span> mu Var?</h2>
+                <p class="mb-4">Aradığınız yanıtı bulamadıysanız formu doldurun; uzman seyahat danışmanlarımız en kısa sürede size dönüş yapsın. Hayalinizdeki seyahati birlikte planlayalım.</p>
+                <a href="contact.html" class="nir-btn">İletişime Geçin</a>
             </div>
         </div>
     </section>
     <!-- Call To Action Ends -->
 
-    <!-- Discount action starts -->
-    <section class="discount-action pt-0" style="background-image:url(images/section-bg1.png); background-position:center;">
-        <div class="container">
-            <div class="call-banner rounded pt-10 pb-14">
-                <div class="call-banner-inner w-75 mx-auto text-center px-5">
-                    <div class="trend-content-main">
-                        <div class="trend-content mb-5 pb-2 px-5">
-                            <h5 class="mb-1 theme">Love Where Your're Going</h5>
-                            <h2><a href="detail-fullwidth.html">Explore Your Life, <span class="theme1"> Travel Where You Want!</span></a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                        </div>
-                        <div class="video-button text-center position-relative">
-                             <div class="call-button text-center">
-                                <button type="button" class="play-btn js-video-button" data-video-id="152879427" data-channel="vimeo">
-                                    <i class="fa fa-play bg-blue"></i>
-                                </button>
-                            </div>
-                            <div class="video-figure"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>     
-        </div>    
-        <div class="white-overlay"></div>
-        <div class="white-overlay"></div>
-        <div class="section-shape  top-inherit bottom-0" style="background-image: url(images/shape6.png);"></div>
-    </section>
-    <!-- Discount action Ends -->
-
     <!-- partner starts -->
     <section class="our-partner pb-6 pt-6">
         <div class="container">
             <div class="section-title mb-6 w-75 mx-auto text-center">
-                <h4 class="mb-1 theme1">Our Partners</h4>
-                <h2 class="mb-1">Our Awesome <span class="theme">partners</span></h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                <h4 class="mb-1 theme1">Partnerlerimiz</h4>
+                <h2 class="mb-1">Değerli <span class="theme">İş Ortaklarımız</span></h2>
+                <p>Bizimle iş birliği yapan markalar, kaliteye ve güvene verdiğimiz önemi paylaşan değerli ortaklarımızdır.</p>
             </div>
             <div class="row align-items-center partner-in partner-slider">
                 <div class="col-md-3 col-sm-6">
                     <div class="partner-item p-4 py-2 rounded bg-lgrey">
-                        <img src="images/cl-1.png" alt="">
+                        <img src="images/logolv.svg" alt="">
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="partner-item p-4 py-2 rounded bg-lgrey">
-                        <img src="images/cl-5.png" alt="">
+                        <img src="images/logolv.svg" alt="">
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="partner-item p-4 py-2 rounded bg-lgrey">
-                        <img src="images/cl-2.png" alt="">
+                        <img src="images/logolv.svg" alt="">
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="partner-item p-4 py-2 rounded bg-lgrey">
-                        <img src="images/cl-3.png" alt="">
+                        <img src="images/logolv.svg" alt="">
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="partner-item p-4 py-2 rounded bg-lgrey">
-                        <img src="images/cl-4.png" alt="">
+                        <img src="images/logolv.svg" alt="">
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="partner-item p-4 py-2 rounded bg-lgrey">
-                        <img src="images/cl-5.png" alt="">
+                        <img src="images/logolv.svg" alt="">
                     </div>
                 </div>
             </div>
@@ -1097,8 +1008,8 @@
                             </p>
                             <ul>
                                 
-                                <li class="black"><strong>Asres:</strong> 
-                                  Cevat Şakir Cad. Orkide Sk. No:15 K:3 Gümbet Bodrum, Türkiye</li>
+                                <li class="black"><strong>Adres:</strong> 
+                                  Cevatşakir Mah., Gümbet, Orkide Sk. No:15/1, 48400 Bodrum/Muğla</li>
                                 <li class="black"><strong>Email:</strong> 	info@siempretour.com</li>
                                 <li class="black"><strong>Telefon:</strong> +90 546 587 00 48</li>
                                 <!-- <li class="black"><strong>Website:</strong> www.Travelin.com</li> -->
@@ -1109,39 +1020,14 @@
                         <div class="footer-links">
                             <h3 class="Back">Hızlı Bağlantılar</h3>
                             <ul>
-                                <li><a href="about-us.html">Hakkımızda</a></li>
-                                <li><a href="about-us.html">Teslimat Bilgileri</a></li>
-                                <li><a href="about-us.html">Gizlilik Politikası</a></li>
-                                <li><a href="about-us.html">Şartlar &amp; Koşullar</a></li>
-                                <li><a href="about-us.html">Müşteri Hizmetleri</a></li>
-                                <li><a href="#about-us.html">İade Politikası</a></li>
+                                <li><a href="about.html">Hakkımızda</a></li>
+                                <li><a href="faq.html">Sıkça Sorulan Sorular</a></li>
+                                <li><a href="kvkk.html">Gizlilik Politikası (KVKK)</a></li>
+                                <li><a href="template_tours_grid_page.html">Turları Keşfet</a></li>
+                                <li><a href="contact.html">İletişim</a></li>
+                                <li><a href="cruise-grid.html">Gemi Turları</a></li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="col-lg-2 col-md-6 col-sm-12 mb-4">
-                        <div class="footer-links">
-                            <h3 class="black">Kategoriler</h3>
-                            <ul>
-                              <li><a href="about-us.html">Seyahat</a></li>
-                              <li><a href="about-us.html">Teknoloji</a></li>
-                              <li><a href="about-us.html">Yaşam Tarzı</a></li>
-                              <li><a href="about-us.html">Rotalar</a></li>
-                              <li><a href="about-us.html">Eğlence</a></li>
-                              <li><a href="about-us.html">İş Dünyası</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                        <div class="footer-links">
-                            <h3 class="black">Bülten</h3>
-                            <div class="newsletter-form ">
-                                <p class="mb-3">200.000'den fazla gezginin yer aldığı topluluğumuza katıl! En yeni haberleri, fırsatları ve özel indirimleri e-posta ile al.</p>
-                                <form action="#" method="get" accept-charset="utf-8" class="border-0 d-flex align-items-center">
-                                    <input type="text" placeholder="Mail Adresi">
-                                    <button class="nir-btn ms-2">Üye Ol</button>
-                                </form>
-                            </div> 
-                        </div>  
                     </div>
                 </div>
             </div>
@@ -1301,6 +1187,7 @@
     <!-- <script src="js/particles.js"></script>
     <script src="js/particlerun.js"></script> -->
     <script src="js/lang-detect.js"></script>
+  <script src="js/site-i18n.js"></script>
     <script src="js/plugin.js"></script>
     <script src="js/main.js"></script>
     <script src="js/admin-nav.js"></script>
@@ -1308,20 +1195,6 @@
     <script src="js/custom-accordian.js"></script>
     <script src="js/custom-nav.js"></script>
     <script src="js/link_generator.js"></script>
-  <script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement(
-    {
-      pageLanguage: 'tr',
-      includedLanguages: 'en,fr,de,es,it,ru,ar,id,tr',
-        autoDisplay: false
-    },
-    'google_translate_element'
-  );
-}
-</script>
-
-<script async src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <script src="js/chat-widget.js"></script>
 </body>
 </html>

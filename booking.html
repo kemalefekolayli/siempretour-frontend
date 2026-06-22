@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="tr">
 
 <head>
@@ -29,6 +29,8 @@
   <link rel="stylesheet" href="fonts/line-icons.css" type="text/css" />
 
     <link rel="stylesheet" href="css/chat-widget.css">
+  <!-- Branded page loader: prevents half-rendered "broken" first paint -->
+  <script src="js/page-loader.js"></script>
 </head>
 
 <body class="home-thh">
@@ -62,11 +64,13 @@
                     aria-expanded="false">Anasayfa</a>
                 </li>
                 <li class="submenu dropdown"><a href="about.html">Hakkımızda</a></li>
+                <li class="submenu dropdown px-2"><a href="yorumlar.html">Yorumlar</a></li>
 
                 <!--TURLAR BAŞLANGIÇ-->
-                <li id="menu-turlar" class="dropdown submenu">
+                <li id="menu-turlar" class="dropdown submenu desktop-tours-trigger">
                   <a href="#" id="megaTrigger" aria-expanded="false" aria-controls="megaFull">TURLAR</a>
                 </li>
+                <li class="submenu dropdown px-2"><a href="cruise-grid.html">Gemi Turları</a></li>
 
                 <li class="submenu dropdown slicknav_parent slicknav_collapsed">
                   <a href="#" role="menuitem" aria-haspopup="true" tabindex="0" class="slicknav_item slicknav_row p-0"
@@ -583,19 +587,6 @@
                     <li>
                       <a href="#" data-mega-tab="afs" role="menuitem" tabindex="-1">Safari &amp; Doğa Turları</a>
                     </li>
-                    <li>
-                      <a href="#" data-mega-tab="gt" role="menuitem" tabindex="-1">Gemi Turları</a>
-                      <ul class="mega-list mega-list--grid" data-mega-content="gt">
-                        <li><a href="template_tours_grid_page.html" data-country="Alaska" data-category="Ship/Cruise">Alaska</a></li>
-                        <li><a href="template_tours_grid_page.html" data-country="Antarctica" data-category="Ship/Cruise">Antarktika</a></li>
-                        <li><a href="template_tours_grid_page.html" data-country="Arctic Cruises" data-category="Ship/Cruise">Arktik</a></li>
-                        <li><a href="template_tours_grid_page.html" data-country="Australia" data-category="Ship/Cruise">Avustralya</a></li>
-                        <li><a href="template_tours_grid_page.html" data-country="Brazil" data-category="Ship/Cruise">Brezilya</a></li>
-                        <li><a href="template_tours_grid_page.html" data-country="Egypt" data-category="Ship/Cruise">Mısır</a></li>
-                        <li><a href="template_tours_grid_page.html" data-country="Norway" data-category="Ship/Cruise">Norveç</a></li>
-                        <li><a href="cruise-grid.html">Tüm Gemi Turları</a></li>
-                      </ul>
-                    </li>
                   </ul>
                 </li>
 
@@ -613,7 +604,6 @@
                         <a href="#" data-mega-tab="me">Orta Doğu & Kuzey Afrika</a>
                         <a href="#" data-mega-tab="an">Antarktika</a>
                         <a href="#" data-mega-tab="afs">Safari &amp; Doğa Turları</a>
-                        <a href="#" data-mega-tab="gt">Gemi Turları</a>
                       </nav>
 
                       <!-- Sağ: Ülkeler (tek UL, çok sütun) -->
@@ -1475,7 +1465,7 @@
           <div class="payment-book">
             <div class="booking-box">
               <div class="customer-information mb-4">
-                <h3 class="border-b pb-2 mb-2">Seyahat Edecek Ki?i Bilgileri</h3>
+                <h3 class="border-b pb-2 mb-2">Seyahat Edecek Kişi Bilgileri</h3>
                 <form class="mb-2" id="booking-form">
                   <h5>Lütfen tüm alanları doldurunuz</h5>
                   <div class="row">
@@ -1501,7 +1491,7 @@
                     </div>
                     <div class="col-md-12">
                       <div class="form-group mb-2 person-counter-wrap">
-                        <label>Ki?i Sayısı</label>
+                        <label>Kişi Sayısı</label>
                         <input type="number" id="person-count" class="form-control text-center person-counter-input"
                           value="1" min="1" step="1" inputmode="numeric" />
                         <div class="person-counter-actions">
@@ -1629,7 +1619,7 @@
                 <div class="row">
                   <div class="col-lg-4 col-md-4">
                     <div class="trend-item2 rounded" id="tour-main-photo">
-                      <a href="destination-single1.html"
+                      <a href="#"
                         style="background-image: url(images/tour-photos/Austria/01/03.webp)"></a>
                       <div class="color-overlay"></div>
                     </div>
@@ -1638,7 +1628,7 @@
                     <div class="trend-content position-relative">
 
                       <h5 class="mb-1" id="tour-name">
-                        <a href="grid-leftfilter.html">Avusturya Gölleri Aile Turu</a>
+                        <a href="#">Avusturya Gölleri Aile Turu</a>
                       </h5>
                       <h6 class="theme mb-0" id="tour-destination">
                         <i class="icon-location-pin"></i>
@@ -1658,16 +1648,16 @@
               </div>
             </div>
             <div class="sidebar-item bg-white rounded box-shadow overflow-hidden p-3 mb-4">
-              <h4>Rezervasyon ?zeti</h4>
+              <h4>Rezervasyon özeti</h4>
               <table>
                 <tbody>
                   <tr>
-                    <td>Ki?i Sayısı</td>
+                    <td>Kişi Sayısı</td>
                     <td class="theme2" id="person-count-2">1</td>
                   </tr>
                 </tbody>
               </table>
-              <p class="mt-2 mb-0" style="font-size:0.85rem; color:#666;">Tur dan??manımız sizinle ileti?ime geçerek detayları payla?acaktır.</p>
+              <p class="mt-2 mb-0" style="font-size:0.85rem; color:#666;">Tur danışmanımız sizinle iletişime geçerek detayları paylaşacaktır.</p>
               <button id="bookingBtn" class="booking-btn-special w-100 mt-3">
                 <i class="fa fa-lock me-2"></i> Yerini Ayırt
               </button>
@@ -1706,8 +1696,8 @@
               </p>
               <ul>
 
-                <li class="black"><strong>Asres:</strong>
-                  Cevat Şakir Cad. Orkide Sk. No:15 K:3 Gümbet Bodrum, Türkiye</li>
+                <li class="black"><strong>Adres:</strong>
+                  Cevatşakir Mah., Gümbet, Orkide Sk. No:15/1, 48400 Bodrum/Muğla</li>
                 <li class="black"><strong>Email:</strong> info@siempretour.com</li>
                 <li class="black"><strong>Telefon:</strong> +90 546 587 00 48</li>
                 <!-- <li class="black"><strong>Website:</strong> www.Travelin.com</li> -->
@@ -1718,39 +1708,13 @@
             <div class="footer-links">
               <h3 class="Back">Hızlı Bağlantılar</h3>
               <ul>
-                <li><a href="about-us.html">Hakkımızda</a></li>
-                <li><a href="about-us.html">Teslimat Bilgileri</a></li>
-                <li><a href="about-us.html">Gizlilik Politikası</a></li>
-                <li><a href="about-us.html">Şartlar &amp; Koşullar</a></li>
-                <li><a href="about-us.html">Müşteri Hizmetleri</a></li>
-                <li><a href="#about-us.html">İade Politikası</a></li>
+                <li><a href="about.html">Hakkımızda</a></li>
+                <li><a href="faq.html">Sıkça Sorulan Sorular</a></li>
+                <li><a href="kvkk.html">Gizlilik Politikası (KVKK)</a></li>
+                <li><a href="template_tours_grid_page.html">Turları Keşfet</a></li>
+                <li><a href="contact.html">İletişim</a></li>
+                <li><a href="cruise-grid.html">Gemi Turları</a></li>
               </ul>
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-6 col-sm-12 mb-4">
-            <div class="footer-links">
-              <h3 class="black">Kategoriler</h3>
-              <ul>
-                <li><a href="about-us.html">Seyahat</a></li>
-                <li><a href="about-us.html">Teknoloji</a></li>
-                <li><a href="about-us.html">Yaşam Tarzı</a></li>
-                <li><a href="about-us.html">Rotalar</a></li>
-                <li><a href="about-us.html">Eğlence</a></li>
-                <li><a href="about-us.html">İş Dünyası</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-            <div class="footer-links">
-              <h3 class="black">Bülten</h3>
-              <div class="newsletter-form ">
-                <p class="mb-3">200.000'den fazla gezginin yer aldığı topluluğumuza katıl! En yeni haberleri, fırsatları
-                  ve özel indirimleri e-posta ile al.</p>
-                <form action="#" method="get" accept-charset="utf-8" class="border-0 d-flex align-items-center">
-                  <input type="text" placeholder="Mail Adresi">
-                  <button class="nir-btn ms-2">Üye Ol</button>
-                </form>
-              </div>
             </div>
           </div>
         </div>
@@ -1938,7 +1902,9 @@
     <script src="js/particlerun.js"></script> -->
   <script src="js/plugin.js"></script>
   <script src="js/lang-detect.js"></script>
+  <script src="js/site-i18n.js"></script>
   <script src="js/country-names-tr.js"></script>
+  <script src="js/cdn-config.js"></script>
   <script src="js/api-service.js"></script>
   <script src="js/auth.js"></script>
   <script src="js/main.js"></script>
@@ -1949,21 +1915,6 @@
   <script src="js/dream-carousel.js"></script>
   <script src="js/cascading-carousel.js"></script>
   <script src="js/link_generator.js"></script>
-  <script type="text/javascript">
-    function googleTranslateElementInit() {
-      new google.translate.TranslateElement(
-        {
-          pageLanguage: 'tr',
-          includedLanguages: 'en,fr,de,es,it,ru,ar,id,tr',
-          autoDisplay: false
-        },
-        'google_translate_element'
-      );
-    }
-
-  </script>
-
-  <script async src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   <script src="js/booking_page.js"></script>
   <script src="js/booking_button.js"></script>
     <script src="js/chat-widget.js"></script>

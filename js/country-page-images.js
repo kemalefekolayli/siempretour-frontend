@@ -81,6 +81,12 @@
     return new URLSearchParams(window.location.search).get("country") || "";
   }
 
+  function resolveAssetUrl(url) {
+    return window.AssetCdn && typeof window.AssetCdn.resolve === "function"
+      ? window.AssetCdn.resolve(url)
+      : url;
+  }
+
   function isLocalTourPhoto(url) {
     return typeof url === "string" && url.trim().startsWith("images/tour-photos/");
   }
@@ -118,7 +124,7 @@
       const img = new Image();
       img.onload = () => resolve(true);
       img.onerror = () => resolve(false);
-      img.src = url;
+      img.src = resolveAssetUrl(url);
     });
   }
 
@@ -206,11 +212,11 @@
 
   async function pick(country, preferred, index = 0) {
     const avrupaPool = await buildAvrupaPool(country);
-    if (avrupaPool.length) return avrupaPool[index % avrupaPool.length];
-    if (isAvrupaPhoto(preferred)) return preferred.trim();
-    if (isLocalTourPhoto(preferred)) return preferred.trim();
+    if (avrupaPool.length) return resolveAssetUrl(avrupaPool[index % avrupaPool.length]);
+    if (isAvrupaPhoto(preferred)) return resolveAssetUrl(preferred.trim());
+    if (isLocalTourPhoto(preferred)) return resolveAssetUrl(preferred.trim());
     const pool = await buildPool(country);
-    return pool.length ? pool[index % pool.length] : "";
+    return pool.length ? resolveAssetUrl(pool[index % pool.length]) : "";
   }
 
   async function pickMany(country, preferredList, count) {
@@ -222,7 +228,7 @@
     avrupaPool.forEach((url) => {
       if (result.length < count) addUnique(result, seen, url);
     });
-    if (isAvrupaOnly) return result.slice(0, count);
+    if (isAvrupaOnly) return result.slice(0, count).map(resolveAssetUrl);
 
     const pool = await buildPool(country);
     (preferredList || []).forEach((url) => addUnique(result, seen, url));
@@ -230,7 +236,7 @@
       if (result.length < count) addUnique(result, seen, url);
     });
 
-    return result.slice(0, count);
+    return result.slice(0, count).map(resolveAssetUrl);
   }
 
   window.CountryPageImages = {

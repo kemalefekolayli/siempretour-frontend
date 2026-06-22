@@ -1,3 +1,21 @@
+function bookingLang() {
+  return typeof getActiveLang === 'function' ? getActiveLang() : (getQueryParam('lang') || 'tr');
+}
+
+function isBookingEnglish() {
+  return bookingLang() === 'en';
+}
+
+function bookingText(tr, en) {
+  return isBookingEnglish() ? en : tr;
+}
+
+function resolveAssetUrl(url) {
+  return window.AssetCdn && typeof window.AssetCdn.resolve === 'function'
+    ? window.AssetCdn.resolve(url)
+    : url;
+}
+
 document.addEventListener("DOMContentLoaded", function () {
 
   // Phone formatting logic
@@ -46,19 +64,19 @@ document.addEventListener("DOMContentLoaded", function () {
     const tourSlug = getQueryParam('id');
 
     if (!bookingName || !bookingSurname || !bookingPhone) {
-      alert('Lütfen tüm alanları doldurunuz.');
+      alert(bookingText('Lütfen tüm alanları doldurunuz.', 'Please fill in all fields.'));
       return;
     }
 
     if (!tourSlug) {
-      alert('Tur bilgisi bulunamadı. Lütfen tur sayfasından tekrar deneyin.');
+      alert(bookingText('Tur bilgisi bulunamadı. Lütfen tur sayfasından tekrar deneyin.', 'Tour information was not found. Please try again from the tour page.'));
       return;
     }
 
     // Check if user is logged in
     const token = localStorage.getItem('jwt_token');
     if (!token) {
-      alert('Rezervasyon yapabilmek için giriş yapmalısınız.');
+      alert(bookingText('Rezervasyon yapabilmek için giriş yapmalısınız.', 'Please log in to make a reservation.'));
       window.location.href = 'login.html';
       return;
     }
@@ -66,7 +84,9 @@ document.addEventListener("DOMContentLoaded", function () {
     // Extract tour details for auto-creation
     const tourNameRaw = document.getElementById('tour-name')?.innerText?.trim();
     const tourDestinationRaw = document.getElementById('tour-destination')?.innerText?.trim();
-    const tourDurationRaw = document.getElementById('tour-duration')?.innerText?.replace(' Gün', '')?.trim();
+    const tourDurationRaw = document.getElementById('tour-duration')?.innerText
+      ?.replace(/\s*(Gün|Gun|Days?)\s*$/i, '')
+      ?.trim();
 
     const bookingData = {
       tourSlug: tourSlug,
@@ -83,18 +103,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
     try {
       bookingBtn && (bookingBtn.disabled = true);
-      bookingBtn && (bookingBtn.textContent = 'Gönderiliyor...');
+      bookingBtn && (bookingBtn.textContent = bookingText('Gönderiliyor...', 'Sending...'));
       const response = await ApiService.createBooking(bookingData);
       if (response) {
         window.location.href = 'thank_you.html';
       }
     } catch (error) {
       console.error(error);
-      alert('Rezervasyon oluşturulurken bir hata oluştu: ' + error.message);
+      alert(bookingText('Rezervasyon oluşturulurken bir hata oluştu: ', 'There was an error creating the reservation: ') + error.message);
     } finally {
       if (bookingBtn) {
         bookingBtn.disabled = false;
-        bookingBtn.innerHTML = '<i class="fa fa-lock me-2"></i> Yerini Ayırt';
+        bookingBtn.innerHTML = `<i class="fa fa-lock me-2"></i> ${bookingText('Yerini Ayırt', 'Reserve Your Spot')}`;
       }
     }
   }
@@ -163,13 +183,16 @@ function getQueryParam(name) {
 }
 
 function renderTour(tour) {
-  const tourUrl = `template_tour_page.html?id=${tour.slug}&country=${tour.destination}`;
-  document.getElementById('tour-main-photo').innerHTML = `<a href="${tourUrl}" style="background-image: url(${tour.mainPhoto})"></a>
+  let tourUrl = `template_tour_page.html?id=${encodeURIComponent(tour.slug)}&country=${encodeURIComponent(tour.destination)}`;
+  const lang = typeof getSelectedLang === 'function' ? getSelectedLang() : bookingLang();
+  if (lang !== 'tr') tourUrl += `&lang=${encodeURIComponent(lang)}`;
+  const mainPhoto = resolveAssetUrl(tour.mainPhoto || '');
+  document.getElementById('tour-main-photo').innerHTML = `<a href="${tourUrl}" style="background-image: url(${mainPhoto})"></a>
                         <div class="color-overlay"></div>`;
   document.getElementById('tour-name').innerHTML = `<a href="${tourUrl}">${tour.tourName || tour.name}</a>`;
   const destTr = typeof countryNameTr === 'function' ? countryNameTr(tour.destination) : tour.destination;
   document.getElementById('tour-destination').innerHTML = `<i class="icon-location-pin"></i>${destTr}`;
-  document.getElementById('tour-duration').innerHTML = `${tour.durationDays} Gün`;
+  document.getElementById('tour-duration').innerHTML = `${tour.durationDays} ${bookingText('Gün', 'Days')}`;
 }
 
 async function loadTourFromJson() {

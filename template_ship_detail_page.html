@@ -25,6 +25,8 @@
 
     <link rel="stylesheet" href="fonts/line-icons.css" type="text/css">
     <link rel="stylesheet" href="css/chat-widget.css">
+  <!-- Branded page loader: prevents half-rendered "broken" first paint -->
+  <script src="js/page-loader.js"></script>
 </head>
 
 <body class="home-thh">
@@ -58,10 +60,11 @@
                     aria-expanded="false">Anasayfa </a>
                 </li>
                 <li class="submenu dropdown  px-2"><a href="about.html">Hakkımızda</a></li>
+                <li class="submenu dropdown px-2"><a href="yorumlar.html">Yorumlar</a></li>
 
                 <!--TURLAR BAŞLANGIÇ-->
-                <li id="menu-turlar" class="dropdown submenu  px-2"><a href="#" id="megaTrigger" aria-expanded="false"
-                    aria-controls="megaFull">TURLAR</a></li>
+                <li id="menu-turlar" class="dropdown submenu desktop-tours-trigger px-2"><a href="#" id="megaTrigger" aria-expanded="false"
+                    aria-controls="megaFull">TURLAR</a></li>                <li class="submenu dropdown px-2"><a href="cruise-grid.html">Gemi Turları</a></li>
 
                 <li class="submenu dropdown slicknav_parent slicknav_collapsed"><a href="#" role="menuitem"
                     aria-haspopup="true" tabindex="0" class="slicknav_item slicknav_row p-0" style="outline: none;">
@@ -253,17 +256,6 @@
                           <li><a href="template_tours_grid_page.html" data-country="St Helena">Saint Helena</a></li>
                         </ul></li>
                     <li><a href="#" data-mega-tab="afs" role="menuitem" tabindex="-1">Safari &amp; Doğa Turları</a></li>
-                    <li><a href="#" data-mega-tab="gt" role="menuitem" tabindex="-1">Gemi Turları</a>
-                      <ul class="mega-list mega-list--grid" data-mega-content="gt">
-                          <li><a href="template_tours_grid_page.html" data-country="Alaska" data-category="Ship/Cruise">Alaska</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Antarctica" data-category="Ship/Cruise">Antarktika</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Arctic Cruises" data-category="Ship/Cruise">Arktik</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Australia" data-category="Ship/Cruise">Avustralya</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Brazil" data-category="Ship/Cruise">Brezilya</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Egypt" data-category="Ship/Cruise">Mısır</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Norway" data-category="Ship/Cruise">Norveç</a></li>
-                          <li><a href="cruise-grid.html">Tüm Gemi Turları</a></li>
-                        </ul></li>
                   </ul>
                 </li>
 
@@ -282,7 +274,6 @@
                         <a href="#" data-mega-tab="me">Orta Doğu & Kuzey Afrika</a>
                         <a href="#" data-mega-tab="an">Antarktika</a>
                         <a href="#" data-mega-tab="afs">Safari &amp; Doğa Turları</a>
-                        <a href="#" data-mega-tab="gt">Gemi Turları</a>
                       </nav>
 
 
@@ -803,6 +794,18 @@
     <!-- Navigation Bar Ends -->
     <!-- Navigation Bar Ends -->
   </header>
+
+    <!-- Ship Browse (company grid / ship grid) — shown when no ?ship= param -->
+    <section id="ship-browse" class="trending pt-6 pb-6 bg-lgrey" style="display:none;">
+      <div class="container">
+        <div class="text-center mb-5">
+          <h2 id="ship-browse-title" class="mb-1">Gemilerimiz</h2>
+          <p id="ship-browse-subtitle" class="text-muted mb-0"></p>
+        </div>
+        <div class="row" id="ship-browse-grid"></div>
+      </div>
+    </section>
+
     <!-- Ship Hero -->
     <div class="ship-detail-hero" id="ship-hero">
       <div class="ship-detail-hero-overlay">
@@ -937,8 +940,8 @@
                             </p>
                             <ul>
                                 
-                                <li class="black"><strong>Asres:</strong> 
-                                  Cevat Şakir Cad. Orkide Sk. No:15 K:3 Gümbet Bodrum, Türkiye</li>
+                                <li class="black"><strong>Adres:</strong> 
+                                  Cevatşakir Mah., Gümbet, Orkide Sk. No:15/1, 48400 Bodrum/Muğla</li>
                                 <li class="black"><strong>Email:</strong> 	info@siempretour.com</li>
                                 <li class="black"><strong>Telefon:</strong> +90 546 587 00 48</li>
                                 <li class="black"><strong>Website:</strong> www.siempretour.com</li>
@@ -949,39 +952,14 @@
                         <div class="footer-links">
                             <h3 class="Back">Hızlı Bağlantılar</h3>
                             <ul>
-                                <li><a href="about-us.html">Hakkımızda</a></li>
-                                <li><a href="about-us.html">Teslimat Bilgileri</a></li>
-                                <li><a href="about-us.html">Gizlilik Politikası</a></li>
-                                <li><a href="about-us.html">Şartlar &amp; Koşullar</a></li>
-                                <li><a href="about-us.html">Müşteri Hizmetleri</a></li>
-                                <li><a href="#about-us.html">İade Politikası</a></li>
+                                <li><a href="about.html">Hakkımızda</a></li>
+                                <li><a href="faq.html">Sıkça Sorulan Sorular</a></li>
+                                <li><a href="kvkk.html">Gizlilik Politikası (KVKK)</a></li>
+                                <li><a href="template_tours_grid_page.html">Turları Keşfet</a></li>
+                                <li><a href="contact.html">İletişim</a></li>
+                                <li><a href="cruise-grid.html">Gemi Turları</a></li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="col-lg-2 col-md-6 col-sm-12 mb-4">
-                        <div class="footer-links">
-                            <h3 class="black">Kategoriler</h3>
-                            <ul>
-                              <li><a href="about-us.html">Seyahat</a></li>
-                              <li><a href="about-us.html">Teknoloji</a></li>
-                              <li><a href="about-us.html">Yaşam Tarzı</a></li>
-                              <li><a href="about-us.html">Rotalar</a></li>
-                              <li><a href="about-us.html">Eğlence</a></li>
-                              <li><a href="about-us.html">İş Dünyası</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                        <div class="footer-links">
-                            <h3 class="black">Bülten</h3>
-                            <div class="newsletter-form ">
-                                <p class="mb-3">200.000'den fazla gezginin yer aldığı topluluğumuza katıl! En yeni haberleri, fırsatları ve özel indirimleri e-posta ile al.</p>
-                                <form action="#" method="get" accept-charset="utf-8" class="border-0 d-flex align-items-center">
-                                    <input type="text" placeholder="Mail Adresi">
-                                    <button class="nir-btn ms-2">Üye Ol</button>
-                                </form>
-                            </div> 
-                        </div>  
                     </div>
                 </div>
             </div>
@@ -1161,16 +1139,8 @@
     <script src="js/navbar-user.js"></script>
     <script src="js/custom-nav.js"></script>
     <script src="js/link_generator.js"></script>
-    <script type="text/javascript">
-        function googleTranslateElementInit() {
-            new google.translate.TranslateElement(
-                { pageLanguage: 'tr', includedLanguages: 'tr,en,fr,de,es,it,ru,ar,id', autoDisplay: false },
-                'google_translate_element'
-            );
-        }
-    </script>
     <script src="js/lang-detect.js"></script>
-    <script async src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  <script src="js/site-i18n.js"></script>
     <script src="js/template_ship_detail_page.js"></script>
     <script src="js/chat-widget.js"></script>
 </body>
