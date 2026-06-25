@@ -84,7 +84,7 @@
               id="bs-example-navbar-collapse-1">
               <div class="navbar-header">
                 <a class="navbar-brand" href="index.html">
-                  <img src="images/logolv.svg" alt="Siempre Logo" />
+                  <img loading="lazy" src="images/logolv.svg" alt="Siempre Logo" />
                 </a>
               </div>
               <ul class="nav navbar-nav" id="responsive-menu">
@@ -787,7 +787,7 @@
 
                         </ul>
                       </div>
-                      <img src="images/02-Tokyo-.jpg" alt="">
+                      <img loading="lazy" src="images/02-Tokyo-.jpg" alt="">
                     </div>
                     <div class="mega-bottom">
                       <button class="mega-close" aria-label="Kapat">Kapat x</button>
@@ -835,9 +835,34 @@
     <div class="banner-main">
       <div class="banner-image ">
         <div class="video-banner ">
-          <video autoplay muted loop id="vid" class="col-lg-12">
-            <source src="images/siempre-video1.mp4" type="video/mp4" />
+          <video muted loop playsinline preload="none" id="vid" class="col-lg-12">
+            <source data-src="images/siempre-video1.mp4" type="video/mp4" />
           </video>
+          <script>
+            // Hero videosunu ilk yükten ertele: 20MB ana içeriği bloklamasın.
+            (function () {
+              function startHeroVideo() {
+                var vid = document.getElementById("vid");
+                if (!vid) return;
+                var src = vid.querySelector("source[data-src]");
+                if (src && !src.getAttribute("src")) {
+                  src.setAttribute("src", src.getAttribute("data-src"));
+                  vid.load();
+                }
+                var p = vid.play();
+                if (p && typeof p.catch === "function") p.catch(function () {});
+              }
+              function defer() {
+                if ("requestIdleCallback" in window) {
+                  requestIdleCallback(startHeroVideo, { timeout: 2500 });
+                } else {
+                  setTimeout(startHeroVideo, 1200);
+                }
+              }
+              if (document.readyState === "complete") defer();
+              else window.addEventListener("load", defer);
+            })();
+          </script>
           <div class="dot-overlay"></div>
         </div>
       </div>
@@ -907,13 +932,13 @@
         <p>Dünyanın en çok ziyaret edilen destinasyonlarını keşfedin. Her biri kendine özgü kültürü, doğası ve
           deneyimiyle sizi bekliyor.</p>
       </div>
-      <div class="eye-icon mb-4"><img src="images/eye-icon.svg" alt="eye-icon"></div>
+      <div class="eye-icon mb-4"><img loading="lazy" src="images/eye-icon.svg" alt="eye-icon"></div>
       <div class="row col-xl-12 cols-lg-6 gx-3 gy-4 gy-md-5 justify-content-center p-0 popular-locations-carousel">
 
         <div class="col-lg-2 p-1 ">
           <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
             <div class="trend-image position-relative">
-              <img src="images/carousel-destinations/cuba.jpg" alt="Küba" />
+              <img loading="lazy" src="images/carousel-destinations/cuba.jpg" alt="Küba" />
               <div class="overlay-text">
                 <div class="trend-content align-self-center">
                   <div class="trend-content-title text-center">
@@ -933,7 +958,7 @@
         <div class="col-lg-2 p-1 ">
           <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
             <div class="trend-image position-relative">
-              <img src="images/carousel-destinations/japan.jpg" alt="Japonya" />
+              <img loading="lazy" src="images/carousel-destinations/japan.jpg" alt="Japonya" />
 
               <div class="overlay-text">
                 <div class="trend-content align-self-center">
@@ -954,7 +979,7 @@
         <div class="col-lg-2 p-1 ">
           <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
             <div class="trend-image position-relative">
-              <img src="images/carousel-destinations/indonesia.jpg" alt="Endonezya" />
+              <img loading="lazy" src="images/carousel-destinations/indonesia.jpg" alt="Endonezya" />
 
               <div class="overlay-text">
                 <div class="trend-content align-self-center">
@@ -975,7 +1000,7 @@
         <div class="col-lg-2 p-1 ">
           <div class="trend-item1-carousel w-100">
             <div class="trend-image position-relative">
-              <img src="images/carousel-destinations/vietnam.jpg" alt="Vietnam" />
+              <img loading="lazy" src="images/carousel-destinations/vietnam.jpg" alt="Vietnam" />
               <div class="overlay-text">
                 <div class="trend-content align-self-center">
                   <div class="trend-content-title text-center">
@@ -994,7 +1019,7 @@
         <div class="col-lg-2 p-1 ">
           <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
             <div class="trend-image position-relative">
-              <img src="images/carousel-destinations/antarctica.jpg" alt="Şili/Patagonya" />
+              <img loading="lazy" src="images/carousel-destinations/antarctica.jpg" alt="Şili/Patagonya" />
               <div class="overlay-text">
                 <div class="trend-content align-self-center">
                   <div class="trend-content-title text-center">
@@ -1011,7 +1036,7 @@
         <div class="col-lg-2 p-1 ">
           <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
             <div class="trend-image position-relative">
-              <img src="images/carousel-destinations/iceland.jpg" alt="İzlanda" />
+              <img loading="lazy" src="images/carousel-destinations/iceland.jpg" alt="İzlanda" />
               <div class="overlay-text">
                 <div class="trend-content align-self-center">
                   <div class="trend-content-title text-center">
@@ -1052,7 +1077,7 @@
                 <a class="cascading-carousel__link" href="template_tours_grid_page.html?country=India">
                   <div class="trend-item1-carousel w-100 mb-3 mb-lg-0 align-content-center position-relative">
                     <div class="trend-image position-relative">
-                      <img src="images/tour-photos/India/09/01.webp" alt="Hindistan – Jal Mahal Sarayı" />
+                      <img loading="lazy" src="images/tour-photos/India/09/01.webp" alt="Hindistan – Jal Mahal Sarayı" />
                       <div class="overlay-text">
                         <div
                           class="trend-content d-flex align-items-end justify-content-between position-absolute bottom-0 p-3 w-100 z-index">
@@ -1072,7 +1097,7 @@
                 <a class="cascading-carousel__link" href="template_tours_grid_page.html?country=Greece">
                   <div class="trend-item1-carousel w-100 mb-3 mb-lg-0 align-content-center position-relative">
                     <div class="trend-image position-relative">
-                      <img src="images/tour-photos/Greece/02/04.webp" alt="Yunanistan – Ege kıyıları" />
+                      <img loading="lazy" src="images/tour-photos/Greece/02/04.webp" alt="Yunanistan – Ege kıyıları" />
                       <div class="overlay-text">
                         <div
                           class="trend-content d-flex align-items-end justify-content-between position-absolute bottom-0 p-3 w-100 z-index">
@@ -1093,7 +1118,7 @@
                 <a class="cascading-carousel__link" href="template_tours_grid_page.html?country=Spain" >
                   <div class="trend-item1-carousel w-100 mb-3 mb-lg-0 align-content-center position-relative">
                     <div class="trend-image position-relative">
-                      <img src="images/tour-photos/Spain/03/03.webp" alt="İspanya – Park Güell, Barselona" />
+                      <img loading="lazy" src="images/tour-photos/Spain/03/03.webp" alt="İspanya – Park Güell, Barselona" />
                       <div class="overlay-text">
                         <div
                           class="trend-content d-flex align-items-end justify-content-between position-absolute bottom-0 p-3 w-100">
@@ -1113,7 +1138,7 @@
                 <a class="cascading-carousel__link" href="template_tours_grid_page.html?country=Switzerland">
                   <div class="trend-item1-carousel w-100 mb-3 mb-lg-0 align-content-center position-relative">
                     <div class="trend-image position-relative">
-                      <img src="images/tour-photos/Switzerland/03/05.webp" alt="İsviçre – Bern" />
+                      <img loading="lazy" src="images/tour-photos/Switzerland/03/05.webp" alt="İsviçre – Bern" />
                       <div class="overlay-text">
                         <div
                           class="trend-content d-flex align-items-end justify-content-between position-absolute bottom-0 p-3 w-100 z-index">
@@ -1133,7 +1158,7 @@
                 <a class="cascading-carousel__link" href="template_tours_grid_page.html?country=Italy">
                   <div class="trend-item1-carousel w-100 mb-3 mb-lg-0 align-content-center position-relative">
                     <div class="trend-image position-relative">
-                      <img src="images/tour-photos/Italy/05/06.webp" alt="İtalya – Trevi Çeşmesi" />
+                      <img loading="lazy" src="images/tour-photos/Italy/05/06.webp" alt="İtalya – Trevi Çeşmesi" />
                       <div class="overlay-text">
                         <div
                           class="trend-content d-flex align-items-end justify-content-between position-absolute bottom-0 p-3 w-100 z-index">
@@ -1209,7 +1234,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Thailand/01/03.webp" alt="Tayland" />
+                    <img loading="lazy" src="images/tour-photos/Thailand/01/03.webp" alt="Tayland" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1226,7 +1251,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Maldives/01/01.webp" alt="Maldivler" />
+                    <img loading="lazy" src="images/tour-photos/Maldives/01/01.webp" alt="Maldivler" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1243,7 +1268,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/United_Arab_Emirates/01/01.webp" alt="Birleşik Arap Emirlikleri" />
+                    <img loading="lazy" src="images/tour-photos/United_Arab_Emirates/01/01.webp" alt="Birleşik Arap Emirlikleri" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1260,7 +1285,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Sri_Lanka/02/05.webp" alt="Sri_Lanka" />
+                    <img loading="lazy" src="images/tour-photos/Sri_Lanka/02/05.webp" alt="Sri_Lanka" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1277,7 +1302,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Vietnam/01/01.webp" alt="Vietnam" />
+                    <img loading="lazy" src="images/tour-photos/Vietnam/01/01.webp" alt="Vietnam" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1294,7 +1319,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/India/09/01.webp" alt="Hindistan" />
+                    <img loading="lazy" src="images/tour-photos/India/09/01.webp" alt="Hindistan" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1314,7 +1339,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Brazil/06/02.webp" alt="Brezilya" />
+                    <img loading="lazy" src="images/tour-photos/Brazil/06/02.webp" alt="Brezilya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1331,7 +1356,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Japan/01/01.webp" alt="Japonya" />
+                    <img loading="lazy" src="images/tour-photos/Japan/01/01.webp" alt="Japonya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1348,7 +1373,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Egypt/01/01.webp" alt="Mısır" />
+                    <img loading="lazy" src="images/tour-photos/Egypt/01/01.webp" alt="Mısır" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1365,7 +1390,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Morocco/01/01.webp" alt="Fas" />
+                    <img loading="lazy" src="images/tour-photos/Morocco/01/01.webp" alt="Fas" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1382,7 +1407,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Cambodia/01/01.webp" alt="Kamboçya" />
+                    <img loading="lazy" src="images/tour-photos/Cambodia/01/01.webp" alt="Kamboçya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1399,7 +1424,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Philippines/01/01.webp" alt="Filipinler" />
+                    <img loading="lazy" src="images/tour-photos/Philippines/01/01.webp" alt="Filipinler" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1419,7 +1444,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Spain/03/03.webp" alt="İspanya" />
+                    <img loading="lazy" src="images/tour-photos/Spain/03/03.webp" alt="İspanya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1436,7 +1461,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Portugal/04/01.webp" alt="Portekiz" />
+                    <img loading="lazy" src="images/tour-photos/Portugal/04/01.webp" alt="Portekiz" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1453,7 +1478,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Greece/02/04.webp" alt="Yunanistan" />
+                    <img loading="lazy" src="images/tour-photos/Greece/02/04.webp" alt="Yunanistan" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1470,7 +1495,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Jordan/01/01.webp" alt="Ürdün" />
+                    <img loading="lazy" src="images/tour-photos/Jordan/01/01.webp" alt="Ürdün" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1487,7 +1512,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Mexico/05/01.webp" alt="Meksika" />
+                    <img loading="lazy" src="images/tour-photos/Mexico/05/01.webp" alt="Meksika" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1504,7 +1529,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Nepal/01/01.webp" alt="Nepal" />
+                    <img loading="lazy" src="images/tour-photos/Nepal/01/01.webp" alt="Nepal" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1524,7 +1549,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Italy/05/06.webp" alt="İtalya" />
+                    <img loading="lazy" src="images/tour-photos/Italy/05/06.webp" alt="İtalya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1541,7 +1566,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/France/04/06.webp" alt="Fransa" />
+                    <img loading="lazy" src="images/tour-photos/France/04/06.webp" alt="Fransa" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1558,7 +1583,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/China/01/01.webp" alt="Çin" />
+                    <img loading="lazy" src="images/tour-photos/China/01/01.webp" alt="Çin" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1575,7 +1600,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Bhutan/01/01.webp" alt="Bhutan" />
+                    <img loading="lazy" src="images/tour-photos/Bhutan/01/01.webp" alt="Bhutan" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1592,7 +1617,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Cuba/01/01.webp" alt="Küba" />
+                    <img loading="lazy" src="images/tour-photos/Cuba/01/01.webp" alt="Küba" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1609,7 +1634,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Indonesia/01/02.webp" alt="Endonezya" />
+                    <img loading="lazy" src="images/tour-photos/Indonesia/01/02.webp" alt="Endonezya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1629,7 +1654,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Greece/02/04.webp" alt="Yunanistan" />
+                    <img loading="lazy" src="images/tour-photos/Greece/02/04.webp" alt="Yunanistan" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1646,7 +1671,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Croatia/01/01.webp" alt="Hırvatistan" />
+                    <img loading="lazy" src="images/tour-photos/Croatia/01/01.webp" alt="Hırvatistan" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1663,7 +1688,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Switzerland/03/05.webp" alt="İsviçre" />
+                    <img loading="lazy" src="images/tour-photos/Switzerland/03/05.webp" alt="İsviçre" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1680,7 +1705,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Iceland/04/05.jpg" alt="İzlanda" />
+                    <img loading="lazy" src="images/tour-photos/Iceland/04/05.jpg" alt="İzlanda" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1697,7 +1722,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Japan/01/01.webp" alt="Japonya" />
+                    <img loading="lazy" src="images/tour-photos/Japan/01/01.webp" alt="Japonya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1714,7 +1739,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Peru/04/03.webp" alt="Peru" />
+                    <img loading="lazy" src="images/tour-photos/Peru/04/03.webp" alt="Peru" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1734,7 +1759,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Norway/02/01.webp" alt="Norveç" />
+                    <img loading="lazy" src="images/tour-photos/Norway/02/01.webp" alt="Norveç" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1751,7 +1776,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Iceland/04/05.jpg" alt="İzlanda" />
+                    <img loading="lazy" src="images/tour-photos/Iceland/04/05.jpg" alt="İzlanda" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1768,7 +1793,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Scotland/02/03.webp" alt="İskoçya" />
+                    <img loading="lazy" src="images/tour-photos/Scotland/02/03.webp" alt="İskoçya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1785,7 +1810,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Ireland/01/01.webp" alt="İrlanda" />
+                    <img loading="lazy" src="images/tour-photos/Ireland/01/01.webp" alt="İrlanda" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1802,7 +1827,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Switzerland/03/05.webp" alt="İsviçre" />
+                    <img loading="lazy" src="images/tour-photos/Switzerland/03/05.webp" alt="İsviçre" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1819,7 +1844,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Italy/05/06.webp" alt="İtalya" />
+                    <img loading="lazy" src="images/tour-photos/Italy/05/06.webp" alt="İtalya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1839,7 +1864,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Kenya/01/01.webp" alt="Kenya" />
+                    <img loading="lazy" src="images/tour-photos/Kenya/01/01.webp" alt="Kenya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1856,7 +1881,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Tanzania/01/01.webp" alt="Tanzanya" />
+                    <img loading="lazy" src="images/tour-photos/Tanzania/01/01.webp" alt="Tanzanya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1873,7 +1898,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/South_Africa/01/01.webp" alt="Güney Afrika" />
+                    <img loading="lazy" src="images/tour-photos/South_Africa/01/01.webp" alt="Güney Afrika" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1890,7 +1915,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Namibia/01/01.webp" alt="Namibya" />
+                    <img loading="lazy" src="images/tour-photos/Namibia/01/01.webp" alt="Namibya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1907,7 +1932,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Greece/02/04.webp" alt="Yunanistan" />
+                    <img loading="lazy" src="images/tour-photos/Greece/02/04.webp" alt="Yunanistan" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1924,7 +1949,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Spain/03/03.webp" alt="İspanya" />
+                    <img loading="lazy" src="images/tour-photos/Spain/03/03.webp" alt="İspanya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1944,7 +1969,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Indonesia/01/02.webp" alt="Endonezya" />
+                    <img loading="lazy" src="images/tour-photos/Indonesia/01/02.webp" alt="Endonezya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1961,7 +1986,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Malaysia/01/01.webp" alt="Malezya" />
+                    <img loading="lazy" src="images/tour-photos/Malaysia/01/01.webp" alt="Malezya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1978,7 +2003,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Singapore/01/01.webp" alt="Singapur" />
+                    <img loading="lazy" src="images/tour-photos/Singapore/01/01.webp" alt="Singapur" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -1995,7 +2020,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Philippines/01/01.webp" alt="Filipinler" />
+                    <img loading="lazy" src="images/tour-photos/Philippines/01/01.webp" alt="Filipinler" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2012,7 +2037,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Peru/04/03.webp" alt="Peru" />
+                    <img loading="lazy" src="images/tour-photos/Peru/04/03.webp" alt="Peru" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2029,7 +2054,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Brazil/06/02.webp" alt="Brezilya" />
+                    <img loading="lazy" src="images/tour-photos/Brazil/06/02.webp" alt="Brezilya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2049,7 +2074,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Italy/05/06.webp" alt="İtalya" />
+                    <img loading="lazy" src="images/tour-photos/Italy/05/06.webp" alt="İtalya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2066,7 +2091,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/France/04/06.webp" alt="Fransa" />
+                    <img loading="lazy" src="images/tour-photos/France/04/06.webp" alt="Fransa" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2083,7 +2108,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Spain/03/03.webp" alt="İspanya" />
+                    <img loading="lazy" src="images/tour-photos/Spain/03/03.webp" alt="İspanya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2100,7 +2125,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Greece/02/04.webp" alt="Yunanistan" />
+                    <img loading="lazy" src="images/tour-photos/Greece/02/04.webp" alt="Yunanistan" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2117,7 +2142,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Japan/01/01.webp" alt="Japonya" />
+                    <img loading="lazy" src="images/tour-photos/Japan/01/01.webp" alt="Japonya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2134,7 +2159,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/China/01/01.webp" alt="Çin" />
+                    <img loading="lazy" src="images/tour-photos/China/01/01.webp" alt="Çin" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2154,7 +2179,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/India/09/01.webp" alt="Hindistan" />
+                    <img loading="lazy" src="images/tour-photos/India/09/01.webp" alt="Hindistan" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2171,7 +2196,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Nepal/01/01.webp" alt="Nepal" />
+                    <img loading="lazy" src="images/tour-photos/Nepal/01/01.webp" alt="Nepal" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2188,7 +2213,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Morocco/01/01.webp" alt="Fas" />
+                    <img loading="lazy" src="images/tour-photos/Morocco/01/01.webp" alt="Fas" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2205,7 +2230,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Egypt/01/01.webp" alt="Mısır" />
+                    <img loading="lazy" src="images/tour-photos/Egypt/01/01.webp" alt="Mısır" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2222,7 +2247,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Jordan/01/01.webp" alt="Ürdün" />
+                    <img loading="lazy" src="images/tour-photos/Jordan/01/01.webp" alt="Ürdün" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2239,7 +2264,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Vietnam/01/01.webp" alt="Vietnam" />
+                    <img loading="lazy" src="images/tour-photos/Vietnam/01/01.webp" alt="Vietnam" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2259,7 +2284,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Argentina/featured-november.webp" alt="Arjantin" />
+                    <img loading="lazy" src="images/tour-photos/Argentina/featured-november.webp" alt="Arjantin" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2276,7 +2301,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Chile/featured-november.webp" alt="Şili" />
+                    <img loading="lazy" src="images/tour-photos/Chile/featured-november.webp" alt="Şili" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2293,7 +2318,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Brazil/featured-november.webp" alt="Brezilya" />
+                    <img loading="lazy" src="images/tour-photos/Brazil/featured-november.webp" alt="Brezilya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2310,7 +2335,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Peru/featured-november.webp" alt="Peru" />
+                    <img loading="lazy" src="images/tour-photos/Peru/featured-november.webp" alt="Peru" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2327,7 +2352,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Australia/featured-november.webp" alt="Avustralya" />
+                    <img loading="lazy" src="images/tour-photos/Australia/featured-november.webp" alt="Avustralya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2344,7 +2369,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/New-Zealand/featured-november.webp" alt="Yeni Zelanda" />
+                    <img loading="lazy" src="images/tour-photos/New-Zealand/featured-november.webp" alt="Yeni Zelanda" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2364,7 +2389,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Austria/01/05.webp" alt="Avusturya" />
+                    <img loading="lazy" src="images/tour-photos/Austria/01/05.webp" alt="Avusturya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2381,7 +2406,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Germany/01/01.webp" alt="Almanya" />
+                    <img loading="lazy" src="images/tour-photos/Germany/01/01.webp" alt="Almanya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2398,7 +2423,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Switzerland/03/05.webp" alt="İsviçre" />
+                    <img loading="lazy" src="images/tour-photos/Switzerland/03/05.webp" alt="İsviçre" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2415,7 +2440,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Finland/01/01.webp" alt="Finlandiya" />
+                    <img loading="lazy" src="images/tour-photos/Finland/01/01.webp" alt="Finlandiya" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2432,7 +2457,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Lapland/02/01.webp" alt="Lapland" />
+                    <img loading="lazy" src="images/tour-photos/Lapland/02/01.webp" alt="Lapland" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2449,7 +2474,7 @@
               <div class="col-4 col-md-4 col-lg-2 p-1">
                 <div class="trend-item1-carousel w-100 mb-3 mb-lg-0">
                   <div class="trend-image position-relative">
-                    <img src="images/tour-photos/Norway/02/01.webp" alt="Norveç" />
+                    <img loading="lazy" src="images/tour-photos/Norway/02/01.webp" alt="Norveç" />
                     <div class="overlay-text align-items-center">
                       <div class="trend-content d-flex align-items-center justify-content-center p-3">
                         <div class="trend-content-title">
@@ -2467,7 +2492,7 @@
           </div>
         </div>
         <!-- <div class="dream-caraousel col-lg-10 d-flex flex-row box-shadow mt-3 px-0" data-category="food">
-            <img class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/c_fill,g_auto,h_460,w_480/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/893070f3d1df0ba411fcea39a211dde2.jpg" alt="">
+            <img loading="lazy" class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/c_fill,g_auto,h_460,w_480/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/893070f3d1df0ba411fcea39a211dde2.jpg" alt="">
             <div class="col-lg-6 align-self-center align-items-center d-flex flex-column p-4">
               <h4 class="">Özel Yiyecek & İçecek Deneyimleri</h4 >
             <p class="step-subtitle text-none gray p-4 align-content-center">Mutfak ufkunuzu genişletecek bir gastronomi yolculuğuna çıkın. Yüzyıllık şarap sırlarını keşfedin, 
@@ -2475,7 +2500,7 @@
             </div>
           </div>
           <div class="dream-caraousel col-lg-10 d-flex flex-row box-shadow mt-3 px-0" data-category="history">
-            <img class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/ar_1.3,c_fill,g_auto,w_auto/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/303c5002e2fddd424e29c09e25a85489.jpg" alt="">
+            <img loading="lazy" class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/ar_1.3,c_fill,g_auto,w_auto/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/303c5002e2fddd424e29c09e25a85489.jpg" alt="">
             <div class="col-lg-6 align-self-center align-items-center d-flex flex-column p-4" >
               <h4 class="">Sürükleyici, Otantik Turlar</h4 >
             <p class="step-subtitle text-none gray p-4 align-content-center">Kadim sırları gün yüzüne çıkarın, efsanelerin izini sürün ve ikonik tabloları, heykelleri ile eskizleri yakından görün. Rengârenk festivallerde ritme katılın, 
@@ -2483,7 +2508,7 @@
             </div>
           </div>
           <div class="dream-caraousel col-lg-10 d-flex flex-row box-shadow mt-3 px-0" data-category="beach">
-            <img class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/ar_1.3,c_fill,g_auto,w_auto/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/16dbbac92e116598888dc92ed4299960.jpg" alt="">
+            <img loading="lazy" class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/ar_1.3,c_fill,g_auto,w_auto/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/16dbbac92e116598888dc92ed4299960.jpg" alt="">
             <div class="col-lg-6 align-self-center align-items-center d-flex flex-column p-4" >
               <h4 class="">Işıltılı Tropik Kaçamaklar</h4 >
             <p class="step-subtitle text-none gray p-4 align-content-center">Güneşin öptüğü kıyıların panoramasında, dalgaların ritmine eşlik edin. Mercan bahçeleri arasında şnorkelle yüzün ya da kendinize ait cennetin sıcaklığında dinlenin.
@@ -2491,7 +2516,7 @@
             </div>
           </div>
           <div class="dream-caraousel col-lg-10 d-flex flex-row box-shadow mt-3 px-0" data-category="adventure">
-            <img class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/ar_1.3,c_fill,g_auto,w_auto/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/ffcc85d6bd4ebe22b9eb8607c29059f1.jpg" alt="">
+            <img loading="lazy" class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/ar_1.3,c_fill,g_auto,w_auto/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/ffcc85d6bd4ebe22b9eb8607c29059f1.jpg" alt="">
             <div class="col-lg-6 align-self-center align-items-center d-flex flex-column p-4" >
               <h4 class="">Aktif Maceralar</h4 >
             <p class="step-subtitle text-none gray p-4 align-content-center">Bağcıklarını bağla, keşfe hazır ol. İster yumuşak bir başlangıç ister sınırlarını zorlayan bir rota olsun, senin için heyecan dolu bir aktif macera kurgulayalım. 
@@ -2499,7 +2524,7 @@
             </div>
           </div>
           <div class="dream-caraousel col-lg-10 d-flex flex-row box-shadow mt-3 px-0" data-category="nature">
-            <img class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/ar_1.3,c_fill,g_auto,w_auto/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/4f7a02dfec881c3117ffc11bbfd5c00a.jpg" alt="">
+            <img loading="lazy" class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/ar_1.3,c_fill,g_auto,w_auto/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/4f7a02dfec881c3117ffc11bbfd5c00a.jpg" alt="">
             <div class="col-lg-6 align-self-center align-items-center d-flex flex-column p-4" >
               <h4 class="">Doğa & Yaban Hayatı Safarileri</h4 >
             <p class="step-subtitle text-none gray p-4 align-content-center">Afrika'nın vahşi kalbinde maceranın kurallarını yeniden yazın. Dünya standartlarında rehberlerle güneşin ışıldadığı savanları ve sisli yağmur ormanlarını aşın.
@@ -2526,7 +2551,7 @@
       <div
         class="section-title d-flex flex-row justify-content-center align-items-center w-100 mx-auto text-center gap-5 mt-10">
         <h3 class="mb-10 text-color-black">Yolculuğunuz böyle başlar</h3>
-        <div class="eye-icon mb-10"><img src="images/eye-icon.svg" alt="eye-icon"></div>
+        <div class="eye-icon mb-10"><img loading="lazy" src="images/eye-icon.svg" alt="eye-icon"></div>
         <p class="step-subtitle mb-10 text-none gray">Doğru uzman eşleştirmesiyle, ihtiyaçlarınıza göre şekillenen lüks
           seyahati adım adım tasarlarız.</p>
       </div>
@@ -2535,19 +2560,19 @@
       <!-- Steps Row -->
       <div class="row justify-content-center">
         <div class="col-md-4 step-card">
-          <!-- <img src="images/illu3.png" alt="Search Destination" class="step-icon mb-3 w-75" /> -->
+          <!-- <img loading="lazy" src="images/illu3.png" alt="Search Destination" class="step-icon mb-3 w-75" /> -->
           <h4 class="fw-semibold">Hedefini Belirle</h4>
           <p class="step-subtitle">Gitmek istediğin destinasyonu, seyahat tarihlerini ve tercihlerini seç.
             Sana en uygun seçenekleri hemen görüntüle.</p>
         </div>
         <div class="col-md-4 step-card">
-          <!-- <img src="images/illu2.png" alt="Select Package" class="step-icon mb-3 w-75" /> -->
+          <!-- <img loading="lazy" src="images/illu2.png" alt="Select Package" class="step-icon mb-3 w-75" /> -->
           <h4 class="fw-semibold">Paketini Seç</h4>
           <p class="step-subtitle">Senin için özenle hazırlanmış tur ve tatil paketlerini incele.
             İhtiyacına, bütçene ve zevkine en uygun olanı seç.</p>
         </div>
         <div class="col-md-4 step-card">
-          <!-- <img src="images/illu1.png" alt="Complete Booking" class="step-icon mb-3 w-75" /> -->
+          <!-- <img loading="lazy" src="images/illu1.png" alt="Complete Booking" class="step-icon mb-3 w-75" /> -->
           <h4 class="fw-semibold">Rezervasyonunu Tamamla</h4>
           <p class="step-subtitle">Bilgilerini gir ve yerini ayırt.
             Artık maceranı başlatmanın zamanı geldi.</p>
@@ -2587,7 +2612,7 @@
             <li><a id="nature-btn" href="#">Doğal Yaşam & Doğa </a> </li> -->
         </div>
         <div class="dream-caraousel col-lg-10 box-shadow mt-3 px-0" data-category="food">
-          <img class="img-beyond-dream col-lg-6 p-0"
+          <img loading="lazy" class="img-beyond-dream col-lg-6 p-0"
             src="images/mega-menu-photo/europian.jpg"
             alt="Özel Yiyecek & İçecek Deneyimleri">
           <div class="text-beyond-dream col-lg-6 my-auto mx-auto">
@@ -2599,7 +2624,7 @@
           </div>
         </div>
         <div class="dream-caraousel col-lg-10 box-shadow mt-3 px-0" data-category="history">
-          <img class="img-beyond-dream col-lg-6 p-0"
+          <img loading="lazy" class="img-beyond-dream col-lg-6 p-0"
             src="images/macera3.jpg"
             alt="Sürükleyici, Otantik Turlar">
           <div class="col-lg-6 my-auto mx-auto">
@@ -2612,7 +2637,7 @@
           </div>
         </div>
         <div class="dream-caraousel col-lg-10 box-shadow mt-3 px-0" data-category="beach">
-          <img class="img-beyond-dream col-lg-6 p-0"
+          <img loading="lazy" class="img-beyond-dream col-lg-6 p-0"
             src="images/macera1.jpg"
             alt="Işıltılı Tropik Kaçamaklar">
           <div class="col-lg-6 my-auto mx-auto">
@@ -2624,7 +2649,7 @@
           </div>
         </div>
         <div class="dream-caraousel col-lg-10 box-shadow mt-3 px-0" data-category="adventure">
-          <img class="img-beyond-dream col-lg-6 p-0"
+          <img loading="lazy" class="img-beyond-dream col-lg-6 p-0"
             src="images/index-photo2.jpg"
             alt="Aktif Maceralar">
           <div class="col-lg-6 my-auto mx-auto">
@@ -2637,7 +2662,7 @@
           </div>
         </div>
         <div class="dream-caraousel col-lg-10 box-shadow mt-3 px-0" data-category="nature">
-          <img class="img-beyond-dream col-lg-6 p-0"
+          <img loading="lazy" class="img-beyond-dream col-lg-6 p-0"
             src="images/mega-menu-photo/africansafari.jpg"
             alt="Doğa & Yaban Hayatı Safarileri">
           <div class="col-lg-6 my-auto mx-auto">
@@ -2670,19 +2695,19 @@
           <div class="tour-desc justify-content-center mt-5">
             <div class="tour-desc-container d-flex flex-row gap-2 justify-content-center">
               <div class="tour-desc-1 box-shadow p-4 d-flex flex-column text-lg-start gap-1">
-                <div class="icon"> <img src="images/groups_24dp_000000_FILL0_wght200_GRAD0_opsz24.svg" alt=""> </div>
+                <div class="icon"> <img loading="lazy" src="images/groups_24dp_000000_FILL0_wght200_GRAD0_opsz24.svg" alt=""> </div>
                 <h4 class="text-none mt-2 lh-base"> Uzmanlar Tarafından Hazırlanan Turlar</h4>
                 <p>İki seyahat uzmanının hazırladığı güzergâhları karşılaştırın ve özelleştirin; böylece daha yaratıcı
                   ve profesyonelce planlanmış bir tur deneyimi elde edersiniz.</p>
               </div>
               <div class="tour-desc-2 box-shadow p-4 d-flex flex-column text-lg-start gap-1">
-                <div class="icon"><img src="images/globe_24dp_000000_FILL0_wght200_GRAD0_opsz24.svg" alt=""></div>
+                <div class="icon"><img loading="lazy" src="images/globe_24dp_000000_FILL0_wght200_GRAD0_opsz24.svg" alt=""></div>
                 <h4 class="text-none mt-2 lh-base">Sorunsuz,<br>Stresiz Lojistik</h4>
                 <p>Valizlerinizi hazırlayın ve gönül rahatlığıyla yola çıkın. Uzmanlarımız her detayı sizin için
                   organize eder ve seyahatiniz boyunca 7/24 destek sağlar.</p>
               </div>
               <div class="tour-desc-3 box-shadow p-4 d-flex flex-column text-lg-start gap-1">
-                <div class="icon"><img src="images/editor_choice_24dp_000000_FILL0_wght200_GRAD0_opsz24.svg" alt="">
+                <div class="icon"><img loading="lazy" src="images/editor_choice_24dp_000000_FILL0_wght200_GRAD0_opsz24.svg" alt="">
                 </div>
                 <h4 class="text-none mt-2 lh-base">Benzersiz,<br>Özel Deneyimler</h4>
                 <p>Her adımda VIP ayrıcalıklarıyla, uzmanlarımız sizi hayalinizin ötesindeki lüks seyahat deneyimlerine
@@ -2809,32 +2834,32 @@
       <div class="row align-items-center partner-in partner-slider">
         <div class="col-md-3 col-sm-6">
           <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="images/logolv.svg" alt="">
+            <img loading="lazy" src="images/logolv.svg" alt="">
           </div>
         </div>
         <div class="col-md-3 col-sm-6">
           <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="images/logolv.svg" alt="">
+            <img loading="lazy" src="images/logolv.svg" alt="">
           </div>
         </div>
         <div class="col-md-3 col-sm-6">
           <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="images/logolv.svg" alt="">
+            <img loading="lazy" src="images/logolv.svg" alt="">
           </div>
         </div>
         <div class="col-md-3 col-sm-6">
           <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="images/logolv.svg" alt="">
+            <img loading="lazy" src="images/logolv.svg" alt="">
           </div>
         </div>
         <div class="col-md-3 col-sm-6">
           <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="images/logolv.svg" alt="">
+            <img loading="lazy" src="images/logolv.svg" alt="">
           </div>
         </div>
         <div class="col-md-3 col-sm-6">
           <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="images/logolv.svg" alt="">
+            <img loading="lazy" src="images/logolv.svg" alt="">
           </div>
         </div>
       </div>
@@ -2852,7 +2877,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12 mb-4 pe-4">
                         <div class="footer-about">
-                            <img src="images/logolv.svg" alt="">
+                            <img loading="lazy" src="images/logolv.svg" alt="">
                             <p class="mt-3 mb-3 black">
                                 Dünyanın dört bir yanındaki eşsiz lokasyonları keşfetmen için tasarlanmış kişisel tur deneyimleri sunuyoruz.
                             </p>
@@ -3076,6 +3101,8 @@
   <script src="js/dream-carousel.js"></script>
   <script src="js/cascading-carousel.js"></script>
   <script src="js/link_generator.js"></script>
+  <script src="js/api-service.js"></script>
+  <script src="js/homepage-sections.js"></script>
   <script src="js/chat-widget.js"></script>
   <script>
   (function () {

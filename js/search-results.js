@@ -135,7 +135,7 @@ document.addEventListener('DOMContentLoaded', function () {
       '<div class="tour-card col-lg-4 col-md-6 mb-4">' +
         '<div class="pb-4 mb-0">' +
           '<div class="ratio ratio-16x9 overflow-hidden">' +
-            (image ? '<img class="hover-zoom" src="' + esc(image) + '" alt="' + esc(alt) + '">' : '') +
+            (image ? '<img loading="lazy" class="hover-zoom" src="' + esc(image) + '" alt="' + esc(alt) + '">' : '') +
             '<div class="color-overlay"></div>' +
           '</div>' +
           '<div class="trend-content p-0 pt-2 position-relative">' +

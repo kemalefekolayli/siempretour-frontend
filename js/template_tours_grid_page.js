@@ -209,7 +209,7 @@ function renderShipCompanies() {
     <div class="col-lg-4 col-md-6 mb-4">
       <div class="ship-company-card" data-company-key="${c.key}" style="cursor:pointer;">
         <div class="ratio ratio-16x9 overflow-hidden">
-          <img class="hover-zoom" src="${resolveAssetUrl(c.image)}" alt="${c.name}"
+          <img loading="lazy" class="hover-zoom" src="${resolveAssetUrl(c.image)}" alt="${c.name}"
             onerror="this.src='${fallbackImage}'">
         </div>
         <div class="ship-company-info pt-2 pb-1">
@@ -242,7 +242,7 @@ function renderShipList(key) {
       <a href="${detailUrl}" class="text-decoration-none">
         <div class="ship-company-card">
           <div class="ratio ratio-16x9 overflow-hidden">
-            <img class="hover-zoom" src="${resolveAssetUrl(s.image)}" alt="${s.name}"
+            <img loading="lazy" class="hover-zoom" src="${resolveAssetUrl(s.image)}" alt="${s.name}"
               onerror="this.src='${fallbackImage}'">
           </div>
           <div class="ship-company-info pt-2 pb-1">

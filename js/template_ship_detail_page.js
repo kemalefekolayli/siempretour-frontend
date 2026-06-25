@@ -1270,7 +1270,7 @@ function renderCabins(ship) {
     <div class="col-lg-3 col-md-6 mb-4" data-cabin-card>
       <div class="ship-company-card">
         <div class="ratio ratio-4x3 overflow-hidden">
-          <img class="hover-zoom" src="${c.image}" alt="${c.label}"
+          <img loading="lazy" class="hover-zoom" src="${c.image}" alt="${c.label}"
             onerror="this.closest('[data-cabin-card]').remove(); if (!document.querySelector('#ship-cabins-grid [data-cabin-card]')) document.getElementById('cabins').style.display = 'none';">
         </div>
         <div class="ship-company-info">
