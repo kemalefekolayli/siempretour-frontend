@@ -52,16 +52,9 @@
         showReviewsTab();
         const container = document.getElementById("reviews-container");
         if (!container) return;
-        const stateText = message || uiText(
-            "Bu destinasyon için henüz doğrulanmış misafir yorumu bulunmuyor.",
-            "There are no verified guest reviews for this destination yet."
-        );
-        container.innerHTML = `
-            <div class="text-center py-5">
-                <h2 class="lh-base mb-3">${uiText("Misafir Yorumları", "Guest Reviews")}</h2>
-                <p class="text-muted mb-0">${escapeHtml(stateText)}</p>
-            </div>
-        `;
+        // No reviews: leave the container empty (the static heading + "Tüm
+        // Yorumları Gör" button on the page stay in place).
+        container.innerHTML = "";
     }
 
     function renderReviews(reviews) {

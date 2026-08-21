@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gemi Bilgileri | Siempre Tour</title>
+  <link rel="shortcut icon" type="image/x-icon" href="../images/favicon.svg">
+  <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="../css/style.css" rel="stylesheet" type="text/css">
+  <link href="../css/admin.css?v=20260708a" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="../css/fontawesome.min.css">
+  <style>
+    .ship-admin-cols { display: grid; grid-template-columns: 380px 1fr; gap: 20px; align-items: start; }
+    @media (max-width: 900px) { .ship-admin-cols { grid-template-columns: 1fr; } }
+    #ships-list { max-height: 78vh; overflow-y: auto; }
+    .ship-group { margin-bottom: 14px; }
+    .ship-group h4 { font-size: 14px; margin: 0 0 6px; color: #374151; }
+    .ship-group h4 span { color: #9ca3af; font-weight: 400; }
+    .ship-row { display: flex; align-items: center; gap: 10px; padding: 8px; border: 1px solid #e5e7eb; border-radius: 10px; margin-bottom: 6px; background: #fff; }
+    .ship-row__img { width: 54px; height: 40px; object-fit: cover; border-radius: 6px; background: #f3f4f6; flex: none; }
+    .ship-row__info { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+    .ship-row__info strong { font-size: 14px; }
+    .ship-row__info small { color: #9ca3af; font-size: 11px; }
+    .ship-editor-card { position: sticky; top: 12px; }
+    .ship-editor-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+    .ship-editor-head h3 { margin: 0; }
+    .ship-media { margin: 14px 0; }
+    .ship-media > label { display: block; font-weight: 600; font-size: 13px; margin-bottom: 6px; }
+    .ship-thumbs { display: flex; flex-wrap: wrap; gap: 8px; }
+    .ship-thumb { position: relative; width: 92px; height: 68px; }
+    .ship-thumb img { width: 100%; height: 100%; object-fit: cover; border-radius: 8px; border: 1px solid #e5e7eb; }
+    .ship-thumb-x { position: absolute; top: -8px; right: -8px; width: 22px; height: 22px; border-radius: 50%; border: none; background: #b00020; color: #fff; cursor: pointer; line-height: 1; }
+    .ship-cabin-row { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+    .ship-cabin-row img { width: 64px; height: 48px; object-fit: cover; border-radius: 6px; border: 1px solid #e5e7eb; flex: none; }
+    .ship-cabin-row .sf-cabin-label { flex: 1; padding: 6px 8px; border: 1px solid #d1d5db; border-radius: 6px; }
+    .sf-cabin-temsili { font-size: 12px; color: #6b7280; white-space: nowrap; display: flex; align-items: center; gap: 4px; }
+    .ship-media-actions { margin-top: 8px; display: flex; gap: 8px; flex-wrap: wrap; }
+    .ship-editor-foot { margin-top: 16px; display: flex; gap: 10px; align-items: center; }
+    .admin-muted { color: #9ca3af; }
+  </style>
+</head>
+<body class="admin-body" data-admin-page="ships">
+  <div class="admin-shell">
+    <aside class="admin-sidebar">
+      <a class="admin-brand" href="../index.html"><img src="../images/logolv.svg" alt="Siempre Logo"></a>
+      <nav class="admin-nav">
+        <a href="analytics.html"><i class="fa fa-chart-line"></i> Overview / Analytics</a>
+        <a href="tours.html"><i class="fa fa-suitcase"></i> Tour Management</a>
+        <a href="tour-form.html"><i class="fa fa-plus"></i> Add New Tour</a>
+        <a href="reservations.html"><i class="fa fa-clipboard-list"></i> Rezervasyonlar</a>
+        <a class="active" href="ships.html"><i class="fa fa-ship"></i> Gemi Bilgileri</a>
+        <a href="homepage.html"><i class="fa fa-home"></i> Anasayfa Düzenle</a>
+        <a href="../index.html"><i class="fa fa-arrow-left"></i> Public Site</a>
+      </nav>
+    </aside>
+    <main class="admin-main">
+      <div class="admin-topbar">
+        <div class="admin-title">
+          <h1>Gemi Bilgileri</h1>
+          <p>Gemileri, gemi şirketlerini, fotoğrafları ve kabinleri buradan yönetin.</p>
+        </div>
+      </div>
+
+      <form id="ships-toolbar" class="admin-toolbar admin-card">
+        <div class="admin-field admin-field--grow">
+          <label>Ara (gemi adı / şirket / slug)</label>
+          <input id="ship-search" type="text" placeholder="Örn: Costa ya da MSC Divina">
+        </div>
+        <button id="ship-new-btn" class="admin-btn primary" type="button"><i class="fa fa-plus"></i> Yeni Gemi</button>
+      </form>
+
+      <div id="ships-summary" class="admin-reservations-summary"></div>
+      <div class="ship-admin-cols">
+        <div id="ships-list"></div>
+        <div id="ship-editor"></div>
+      </div>
+    </main>
+  </div>
+  <script src="../js/api-service.js?v=20260708a"></script>
+  <script src="../js/admin-panel.js?v=20260708a"></script>
+</body>
+</html>

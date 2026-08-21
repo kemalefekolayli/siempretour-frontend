@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rezervasyonlar | Siempre Tour</title>
+  <link rel="shortcut icon" type="image/x-icon" href="../images/favicon.svg">
+  <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="../css/style.css" rel="stylesheet" type="text/css">
+  <link href="../css/admin.css?v=20260707b" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="../css/fontawesome.min.css">
+</head>
+<body class="admin-body" data-admin-page="reservations">
+  <div class="admin-shell">
+    <aside class="admin-sidebar">
+      <a class="admin-brand" href="../index.html"><img src="../images/logolv.svg" alt="Siempre Logo"></a>
+      <nav class="admin-nav">
+        <a href="analytics.html"><i class="fa fa-chart-line"></i> Overview / Analytics</a>
+        <a href="tours.html"><i class="fa fa-suitcase"></i> Tour Management</a>
+        <a href="tour-form.html"><i class="fa fa-plus"></i> Add New Tour</a>
+        <a class="active" href="reservations.html"><i class="fa fa-clipboard-list"></i> Rezervasyonlar</a>
+        <a href="ships.html"><i class="fa fa-ship"></i> Gemi Bilgileri</a>
+        <a href="homepage.html"><i class="fa fa-home"></i> Anasayfa Düzenle</a>
+        <a href="../index.html"><i class="fa fa-arrow-left"></i> Public Site</a>
+      </nav>
+    </aside>
+    <main class="admin-main">
+      <div class="admin-topbar">
+        <div class="admin-title">
+          <h1>Rezervasyonlar</h1>
+          <p>Turlara ve kalkış tarihlerine yapılan rezervasyonları arayın ve yönetin.</p>
+        </div>
+      </div>
+
+      <form id="reservations-toolbar" class="admin-toolbar admin-card">
+        <div class="admin-field admin-field--grow">
+          <label>Ara (tur adı, kişi adı, e-posta veya telefon)</label>
+          <input id="reservation-search" type="text" placeholder="Örn: İzlanda ya da Ahmet ya da 0555...">
+        </div>
+        <div class="admin-field">
+          <label>Durum</label>
+          <select id="reservation-status">
+            <option value="">Tümü</option>
+            <option value="PENDING">Onay bekleyen</option>
+            <option value="APPROVED">Onaylanan</option>
+            <option value="REJECTED">Reddedilen</option>
+            <option value="CANCELLED">İptal edilen</option>
+          </select>
+        </div>
+        <button class="admin-btn primary" type="submit"><i class="fa fa-search"></i> Ara</button>
+      </form>
+
+      <div id="reservations-summary" class="admin-reservations-summary"></div>
+      <div id="reservations-results"></div>
+    </main>
+  </div>
+  <script src="../js/api-service.js?v=20260707e"></script>
+  <script src="../js/admin-panel.js?v=20260707e"></script>
+</body>
+</html>

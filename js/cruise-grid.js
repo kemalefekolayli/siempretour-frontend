@@ -81,6 +81,8 @@
       var shipName = escapeHtml(tour.shipName || '');
       var destTr = escapeHtml(trName(tour.destination || ''));
       var detailUrl = makeDetailUrl(tour);
+      var priceHtml = window.TourCardFormat ? window.TourCardFormat.priceHtml(tour, isEn()) : '';
+      var datesHtml = window.TourCardFormat ? window.TourCardFormat.datesHtml(tour, isEn()) : '';
 
       html +=
         '<div class="tour-card col-lg-6 col-md-6 mb-4">' +
@@ -99,7 +101,9 @@
               '</div>' +
               '<h5 class="mb-1"><a href="' + detailUrl + '">' + title + '</a></h5>' +
               (shipName ? '<p class="text-muted mb-1"><i class="fa fa-ship"></i> ' + shipName + '</p>' : '') +
+              priceHtml +
               '<p class="border-b pb-2 mb-2">' + places + '</p>' +
+              datesHtml +
             '</div>' +
           '</div>' +
         '</div>';
@@ -130,6 +134,27 @@
     });
     fillDatalist('countryOptions', Object.keys(countrySet));
     fillDatalist('shipOptions', Object.keys(shipSet));
+    populateDurationOptions();
+  }
+
+  function populateDurationOptions() {
+    var sel = document.getElementById('durationFilterSelect');
+    if (!sel) return;
+    var seen = {};
+    var days = [];
+    allCruises.forEach(function (t) {
+      var n = parseInt(t.durationDays, 10);
+      if (n > 0 && !seen[n]) { seen[n] = true; days.push(n); }
+    });
+    days.sort(function (a, b) { return a - b; });
+    var prev = sel.value;
+    var html = '<option value="">' + (isEn() ? 'All' : 'Tümü') + '</option>';
+    html += days.map(function (n) {
+      return '<option value="' + n + '">' + n + ' ' +
+        (isEn() ? (n === 1 ? 'day' : 'days') : 'gün') + '</option>';
+    }).join('');
+    sel.innerHTML = html;
+    if (prev && seen[parseInt(prev, 10)]) sel.value = prev;
   }
 
   // ---------------------------------------------------------------------------
@@ -167,11 +192,13 @@
 
     var shipEl = document.getElementById('shipSearch');
     var eventEl = document.getElementById('eventFilterSelect');
+    var durationEl = document.getElementById('durationFilterSelect');
     var startEl = document.getElementById('dateFilterStart');
     var endEl = document.getElementById('dateFilterEnd');
 
     var shipQ = normalize(shipEl ? shipEl.value : '');
     var eventQ = normalize(eventEl ? eventEl.value : '');
+    var durationQ = durationEl && durationEl.value ? parseInt(durationEl.value, 10) : null;
     var countryQ = countryQuery();
     var filterFrom = startEl && startEl.value ? new Date(startEl.value) : null;
     var filterTo = endEl && endEl.value ? new Date(endEl.value) : null;
@@ -180,6 +207,7 @@
       if (!countryMatches(t, countryQ)) return false;
       if (shipQ && shipHaystack(t).indexOf(shipQ) === -1) return false;
       if (eventQ && normalize(t.eventType) !== eventQ) return false;
+      if (durationQ && parseInt(t.durationDays, 10) !== durationQ) return false;
       if (!matchesDate(t, filterFrom, filterTo)) return false;
       return true;
     });
@@ -262,6 +290,7 @@
     var country = document.getElementById('countrySearch');
     var ship = document.getElementById('shipSearch');
     var eventSel = document.getElementById('eventFilterSelect');
+    var durationSel = document.getElementById('durationFilterSelect');
     var startEl = document.getElementById('dateFilterStart');
     var endEl = document.getElementById('dateFilterEnd');
     var dateClear = document.getElementById('dateFilterClear');
@@ -270,6 +299,7 @@
     if (country) country.addEventListener('input', debouncedApply);
     if (ship) ship.addEventListener('input', debouncedApply);
     if (eventSel) eventSel.addEventListener('change', applyFilters);
+    if (durationSel) durationSel.addEventListener('change', applyFilters);
     if (startEl) startEl.addEventListener('change', applyFilters);
     if (endEl) endEl.addEventListener('change', applyFilters);
     if (dateClear) {
@@ -284,6 +314,7 @@
         if (country) country.value = '';
         if (ship) ship.value = '';
         if (eventSel) eventSel.value = '';
+        if (durationSel) durationSel.value = '';
         if (startEl) startEl.value = '';
         if (endEl) endEl.value = '';
         applyFilters();

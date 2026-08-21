@@ -72,6 +72,8 @@ async function loadTours() {
       const shipName = tour.shipName || '';
 
       const detailUrl = generateDetailUrl(tour.slug, tour.language || lang);
+      const priceHtml = window.TourCardFormat ? window.TourCardFormat.priceHtml(tour, isEn) : '';
+      const datesHtml = window.TourCardFormat ? window.TourCardFormat.datesHtml(tour, isEn) : '';
 
       const cardHtml = `
         <div class="tour-card col-lg-6 col-md-6 mb-4">
@@ -88,6 +90,7 @@ async function loadTours() {
                   <p class="mb-0">${days ? (isEn ? `${days}-day tour` : `${days} gunluk tur`) : ''}</p>
                 </div>
                 <div class="entry-price text-end">
+                  ${priceHtml}
                 </div>
               </div>
 
@@ -99,6 +102,7 @@ async function loadTours() {
               <p class="border-b pb-2 mb-2">
                 ${places}
               </p>
+              ${datesHtml}
             </div>
           </div>
         </div>

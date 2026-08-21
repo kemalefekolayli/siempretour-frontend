@@ -18,6 +18,9 @@
         <a href="analytics.html"><i class="fa fa-chart-line"></i> Overview / Analytics</a>
         <a href="tours.html"><i class="fa fa-suitcase"></i> Tour Management</a>
         <a class="active" href="tour-form.html"><i class="fa fa-plus"></i> Add New Tour</a>
+        <a href="reservations.html"><i class="fa fa-clipboard-list"></i> Rezervasyonlar</a>
+        <a href="ships.html"><i class="fa fa-ship"></i> Gemi Bilgileri</a>
+        <a href="homepage.html"><i class="fa fa-home"></i> Anasayfa Düzenle</a>
         <a href="../index.html"><i class="fa fa-arrow-left"></i> Public Site</a>
       </nav>
     </aside>
@@ -51,8 +54,8 @@
         <section class="admin-card admin-form-section">
           <h3>Pricing and Schedule</h3>
           <div class="admin-form-row">
-            <div class="admin-field"><label>Price</label><input name="price" type="number" min="0" step="0.01" placeholder="Örn: 1299"></div>
-            <div class="admin-field"><label>Discounted price</label><input name="discountedPrice" type="number" min="0" step="0.01" placeholder="Örn: 1099"></div>
+            <div class="admin-field"><label>Price (€)</label><input name="price" type="number" min="0" step="0.01" placeholder="Örn: 1299"></div>
+            <div class="admin-field"><label>Discounted price (€)</label><input name="discountedPrice" type="number" min="0" step="0.01" placeholder="Örn: 1099"></div>
           </div>
           <div class="admin-form-row">
             <div class="admin-field"><label>Duration days</label><input name="duration" type="number" min="1" placeholder="Örn: 8"></div>
@@ -93,10 +96,37 @@
         </section>
 
         <section class="admin-card admin-form-section">
+          <h3>Kalkış Tarihleri</h3>
+          <p class="admin-hint" style="margin:0 0 12px;color:#6b7280;font-size:13px">Aynı tur birden fazla tarihte yapılabiliyorsa her kalkışı buraya ekleyin. Fiyat/kontenjan boş bırakılırsa tur genel fiyatı/kontenjanı geçerli olur. Bu tarihler tur kartlarında ve rezervasyon formunda gösterilir.</p>
+          <div id="departure-list"></div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Kalkış tarihi</label><input id="departure-date" type="date"></div>
+            <div class="admin-field"><label>Dönüş tarihi</label><input id="departure-return-date" type="date"></div>
+          </div>
+          <div class="admin-form-row">
+            <div class="admin-field"><label>Fiyat (€, bu tarih)</label><input id="departure-price" type="number" min="0" step="0.01" placeholder="Boşsa tur fiyatı"></div>
+            <div class="admin-field"><label>İndirimli fiyat (€)</label><input id="departure-discounted-price" type="number" min="0" step="0.01" placeholder="İsteğe bağlı"></div>
+            <div class="admin-field" style="max-width:160px"><label>Kontenjan</label><input id="departure-seats" type="number" min="1" step="1" placeholder="Örn: 20"></div>
+          </div>
+          <button type="button" id="departure-add" class="admin-btn"><i class="fa fa-plus"></i> Kalkış Ekle</button>
+        </section>
+
+        <section class="admin-card admin-form-section">
           <h3>Content</h3>
           <div class="admin-field"><label>Description / general info</label><textarea name="generalInfo" placeholder="Tur açıklamasını detaylı şekilde yazın..."></textarea></div>
           <div class="admin-field"><label>Places visited</label><textarea name="placesVisited" placeholder="Örn: Roma, Floransa, Venedik"></textarea></div>
           <div class="admin-field"><label>What to expect</label><textarea name="whatExpect" placeholder="Örn: Şehir turları, tarihi merkez yürüyüşleri, yerel lezzet deneyimleri"></textarea></div>
+        </section>
+
+        <section class="admin-card admin-form-section">
+          <h3>Gün Gün Program</h3>
+          <div id="day-info-list"></div>
+          <div class="admin-form-row">
+            <div class="admin-field" style="max-width:140px"><label>Gün No</label><input id="day-number" type="number" min="1" placeholder="Örn: 1"></div>
+            <div class="admin-field"><label>Başlık</label><input id="day-title" placeholder="Örn: Varış ve karşılama"></div>
+          </div>
+          <div class="admin-field"><label>Açıklama</label><textarea id="day-description" placeholder="O günün programını yazın... (Örn: Perugia tren istasyonunda karşılanma — villaya transfer — akşam yemeği)"></textarea></div>
+          <button type="button" id="day-add" class="admin-btn"><i class="fa fa-plus"></i> Gün Ekle</button>
         </section>
 
         <section class="admin-card admin-form-section">
@@ -142,7 +172,7 @@
       </form>
     </main>
   </div>
-  <script src="../js/api-service.js"></script>
-  <script src="../js/admin-panel.js"></script>
+  <script src="../js/api-service.js?v=20260707e"></script>
+  <script src="../js/admin-panel.js?v=20260707e"></script>
 </body>
 </html>

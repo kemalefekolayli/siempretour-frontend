@@ -1412,7 +1412,7 @@ input#submit:hover {
   position: fixed;
   z-index: 1000;
   bottom: 20px;
-  right: 20px;
+  left: 20px;
   display: none;
 }
 #back-to-top a {
@@ -10551,6 +10551,21 @@ body.siempre-google-mode .goog-te-banner-frame {
 }
 
 @media (max-width: 575.98px) {
+  /* iPhone genisliklerinde (390/414) logo cok genis olup hamburger'i tasiriyor
+     ve dil secici (lang-switch) ustune biniyordu. Logoyu kucultup araya bosluk
+     koyarak ust menu + dil secici cakismasini onluyoruz. */
+  .header_menu .navbar-brand img {
+    max-width: 130px;
+    height: auto;
+  }
+  .header_menu .container.flex-nowrap {
+    gap: 10px;
+  }
+  .header_menu .navbar-flex {
+    min-width: 0;
+    gap: 8px;
+  }
+
   .lang-switch {
     min-width: 148px;
     max-width: calc(100vw - 32px);
@@ -11352,4 +11367,78 @@ body.tour-grid-page {
   .tour-grid-page #myTab .nav-item {
     flex-basis: 100%;
   }
+}
+
+/* ===== Tur kartı: fiyat + kalkış tarihleri (çoklu tarih desteği) ===== */
+.tour-card-price {
+  color: #215093;
+  font-weight: 700;
+  font-size: 15px;
+  white-space: nowrap;
+}
+.tour-card-price i {
+  color: #96c43f;
+  margin-right: 4px;
+}
+.tour-card-dates {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+.tour-card-dates-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: #6b7280;
+}
+.tour-date-badge {
+  display: inline-block;
+  background: #eef4fb;
+  color: #215093;
+  border: 1px solid #d6e4f4;
+  border-radius: 999px;
+  padding: 2px 10px;
+  font-size: 12px;
+  line-height: 1.6;
+  font-weight: 600;
+}
+
+/* ===== Tur detay: kalkış tarihleri listesi ===== */
+.tour-departures-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.tour-departure-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 10px 14px;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  background: #fafcff;
+}
+.tour-departure-date {
+  font-weight: 600;
+  color: #215093;
+}
+.tour-departure-date i {
+  color: #96c43f;
+  margin-right: 6px;
+}
+.tour-departure-price {
+  font-weight: 700;
+  color: #215093;
+  margin-left: auto;
+}
+.tour-departure-seats {
+  font-size: 12px;
+  color: #6b7280;
+}
+.tour-departure-full {
+  font-size: 12px;
+  font-weight: 700;
+  color: #d64545;
 }

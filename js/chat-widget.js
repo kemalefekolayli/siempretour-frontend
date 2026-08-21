@@ -1,14 +1,23 @@
 // Siempre Tour Chat Widget
 (function () {
-    // Chatbot API base resolved by environment (mirrors js/api-service.js).
-    // - Local dev: separate chatbot service on :8081.
-    // - Production: UPDATE PROD_CHATBOT_API once the deployed chatbot URL is known.
-    //   (If the chatbot is served by the main backend, point this at that origin.)
-    var PROD_CHATBOT_API = 'https://siempretour-backend-629682499889.europe-west1.run.app/api/chat';
+    // Chatbot API base — js/api-service.js ile ayni iki-versiyon mantigini paylasir.
+    // Endpoint ana Spring backend'inde (POST /api/chat). Toggle icin ayni
+    // localStorage('backendEnv') anahtarini okur, boylece api-service ile senkron kalir.
+    var LOCAL_BACKEND_ORIGIN   = 'http://localhost:8080';
+    var RAILWAY_BACKEND_ORIGIN = 'https://backend-production-56c81.up.railway.app';
     var CHATBOT_API = (function () {
-        var h = (typeof window !== 'undefined' && window.location) ? window.location.hostname : '';
-        var isLocal = h === '' || h === 'localhost' || h === '127.0.0.1' || h === '0.0.0.0';
-        return isLocal ? 'http://localhost:8081/api/chat' : PROD_CHATBOT_API;
+        var origin;
+        try {
+            var ov = (typeof localStorage !== 'undefined') ? localStorage.getItem('backendEnv') : null;
+            if (ov === 'local')   origin = LOCAL_BACKEND_ORIGIN;
+            else if (ov === 'railway') origin = RAILWAY_BACKEND_ORIGIN;
+        } catch (e) { /* localStorage erisilemez */ }
+        if (!origin) {
+            var h = (typeof window !== 'undefined' && window.location) ? window.location.hostname : '';
+            var isLocal = h === '' || h === 'localhost' || h === '127.0.0.1' || h === '0.0.0.0';
+            origin = isLocal ? LOCAL_BACKEND_ORIGIN : RAILWAY_BACKEND_ORIGIN;
+        }
+        return origin + '/api/chat';
     })();
     var SEND_TIMEOUT = 20000; // 20 saniye
     var RATE_LIMIT_COUNT = 5; // max mesaj

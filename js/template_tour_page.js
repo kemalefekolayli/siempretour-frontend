@@ -100,6 +100,7 @@ function renderTour(tour) {
   });
 
   renderDayInfo(tour.dayInfo);
+  renderDepartures(tour);
   loadTourReviews(tour);
 
   if (typeof requestAnimationFrame === "function") {
@@ -116,6 +117,49 @@ function escapeHtml(value) {
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&#039;");
+}
+
+function fmtDepartureDateDetail(value) {
+  if (!value) return "";
+  const p = String(value).substring(0, 10).split("-");
+  if (p.length === 3) return `${p[2]}.${p[1]}.${p[0]}`;
+  return String(value);
+}
+
+function renderDepartures(tour) {
+  const section = document.getElementById("tourDeparturesSection");
+  const list = document.getElementById("tourDeparturesList");
+  if (!section || !list) return;
+  const isEn = typeof isEnglishLang === "function" && isEnglishLang();
+  const deps = Array.isArray(tour && tour.departures)
+    ? tour.departures.filter(d => d && d.departureDate)
+    : [];
+  if (!deps.length) {
+    section.style.display = "none";
+    return;
+  }
+  const titleEl = document.getElementById("tourDeparturesTitle");
+  if (titleEl) titleEl.textContent = isEn ? "Departure Dates & Prices" : "Kalkış Tarihleri ve Fiyatlar";
+
+  list.innerHTML = deps.map(d => {
+    let dateStr = fmtDepartureDateDetail(d.departureDate);
+    if (d.returnDate) dateStr += ` – ${fmtDepartureDateDetail(d.returnDate)}`;
+    const eff = (d.discountedPrice != null && d.discountedPrice !== "") ? d.discountedPrice
+      : ((d.price != null && d.price !== "") ? d.price : (tour.price != null ? tour.price : null));
+    const priceStr = (eff != null && eff !== "")
+      ? `${Number(eff).toLocaleString("tr-TR")} €`
+      : (isEn ? "Price to be determined" : "Fiyat Belirlenecek");
+    const full = (d.availableSeats != null && d.availableSeats <= 0);
+    const seatsStr = full
+      ? `<span class="tour-departure-full">${isEn ? "Sold out" : "Doldu"}</span>`
+      : (d.availableSeats != null ? `<span class="tour-departure-seats">${d.availableSeats} ${isEn ? "seats" : "kişilik"}</span>` : "");
+    return `<div class="tour-departure-row">
+      <span class="tour-departure-date"><i class="fa fa-calendar-alt"></i> ${escapeHtml(dateStr)}</span>
+      ${priceStr ? `<span class="tour-departure-price">${escapeHtml(priceStr)}</span>` : ""}
+      ${seatsStr}
+    </div>`;
+  }).join("");
+  section.style.display = "";
 }
 
 function renderStars(rating) {
@@ -318,3 +362,69 @@ async function loadTour() {
 }
 
 document.addEventListener("DOMContentLoaded", loadTour);
+
+// ---- Yazdır (PDF) + Paylaş butonları ----
+function showTourToast(msg) {
+  var el = document.createElement("div");
+  el.className = "tour-toast";
+  el.textContent = msg;
+  document.body.appendChild(el);
+  requestAnimationFrame(function () { el.classList.add("show"); });
+  setTimeout(function () { el.classList.remove("show"); setTimeout(function () { el.remove(); }, 300); }, 2200);
+}
+
+// Yazdırırken haritayı küçült (tek sayfaya sığsın, noktalar küçülsün), sonra eski haline getir.
+function shrinkTourMapForPrint() {
+  var el = document.getElementById("mappp");
+  if (!el || !window.tourMapInstance) return;
+  document.body.classList.add("tour-printing");
+  el.style.height = "300px";
+  try { window.tourMapInstance.invalidateSize(); } catch (e) {}
+  try {
+    if (window.tourRouteBounds) window.tourMapInstance.fitBounds(window.tourRouteBounds, { padding: [8, 8] });
+  } catch (e) {}
+}
+function restoreTourMapAfterPrint() {
+  var el = document.getElementById("mappp");
+  document.body.classList.remove("tour-printing");
+  if (el) el.style.height = "";
+  if (!window.tourMapInstance) return;
+  try { window.tourMapInstance.invalidateSize(); } catch (e) {}
+  try {
+    if (window.tourRouteBounds) window.tourMapInstance.fitBounds(window.tourRouteBounds, { padding: [60, 60] });
+  } catch (e) {}
+}
+// Ctrl+P için de (senkron, en iyi çaba)
+window.addEventListener("beforeprint", shrinkTourMapForPrint);
+window.addEventListener("afterprint", restoreTourMapAfterPrint);
+
+document.addEventListener("DOMContentLoaded", function () {
+  var printBtn = document.getElementById("tourPrintBtn");
+  if (printBtn) printBtn.addEventListener("click", function () {
+    // Haritayı küçült, tile'lar yüklensin diye kısa bekle, sonra yazdır.
+    shrinkTourMapForPrint();
+    setTimeout(function () { window.print(); }, 650);
+  });
+
+  var shareBtn = document.getElementById("tourShareBtn");
+  if (shareBtn) shareBtn.addEventListener("click", async function () {
+    var url = window.location.href;
+    var titleEl = document.getElementById("tourTitle2");
+    var title = (titleEl && titleEl.textContent.trim()) || document.title || "Siempre Tour";
+    if (navigator.share) {
+      try { await navigator.share({ title: title, text: title, url: url }); return; }
+      catch (e) { if (e && e.name === "AbortError") return; }
+    }
+    try {
+      await navigator.clipboard.writeText(url);
+      showTourToast("Tur linki kopyalandı");
+    } catch (e) {
+      var t = document.createElement("textarea");
+      t.value = url; t.style.position = "fixed"; t.style.opacity = "0";
+      document.body.appendChild(t); t.select();
+      try { document.execCommand("copy"); showTourToast("Tur linki kopyalandı"); }
+      catch (_) { prompt("Tur linki:", url); }
+      document.body.removeChild(t);
+    }
+  });
+});

@@ -18,6 +18,9 @@
         <a class="active" href="analytics.html"><i class="fa fa-chart-line"></i> Overview / Analytics</a>
         <a href="tours.html"><i class="fa fa-suitcase"></i> Tour Management</a>
         <a href="tour-form.html"><i class="fa fa-plus"></i> Add New Tour</a>
+        <a href="reservations.html"><i class="fa fa-clipboard-list"></i> Rezervasyonlar</a>
+        <a href="ships.html"><i class="fa fa-ship"></i> Gemi Bilgileri</a>
+        <a href="homepage.html"><i class="fa fa-home"></i> Anasayfa Düzenle</a>
         <a href="../index.html"><i class="fa fa-arrow-left"></i> Public Site</a>
       </nav>
     </aside>
@@ -27,6 +30,21 @@
           <h1>Analytics Dashboard</h1>
           <p>Reservation and information-request demand from real backend records.</p>
         </div>
+      </div>
+
+      <!-- Backend hedef anahtari: sadece superadmin@siempretour.com hesabinda gorunur.
+           Klasik admin bunu gormez. Otomatik / Local / Railway arasinda gecis yapar. -->
+      <div id="backend-toggle" class="backend-toggle" hidden>
+        <div class="backend-toggle__head">
+          <span class="backend-toggle__title">Backend hedefi</span>
+          <span class="backend-toggle__badge">superadmin</span>
+        </div>
+        <div class="backend-toggle__options" role="group" aria-label="Backend target">
+          <button type="button" class="backend-toggle__btn" data-env="auto">Otomatik</button>
+          <button type="button" class="backend-toggle__btn" data-env="local">Local</button>
+          <button type="button" class="backend-toggle__btn" data-env="railway">Railway</button>
+        </div>
+        <div class="backend-toggle__current">Aktif: <strong id="backend-toggle-active">—</strong></div>
       </div>
 
       <form id="analytics-filters" class="admin-toolbar admin-card">

@@ -1,32 +1,39 @@
-document.addEventListener("DOMContentLoaded", () => {
-  const carousels = document.querySelectorAll("[data-cascading-carousel]");
-
+// Cascading carousel for the "Yeni Maceralar" homepage section.
+// Exposed as window.SiempreCascading.init() so it can be re-run after the
+// items are replaced dynamically (homepage-sections.js).
+(function () {
   const isMobile = () => window.matchMedia("(max-width: 770px)").matches;
-  carousels.forEach((carousel) => {
+
+  function initOne(carousel) {
+    // Tear down a previous init on this element (re-init after dynamic render).
+    if (typeof carousel._cascadingCleanup === "function") {
+      carousel._cascadingCleanup();
+    }
+    const oldDots = carousel.querySelector(".cascading-carousel__dots");
+    if (oldDots) oldDots.remove();
+
     const items = Array.from(
       carousel.querySelectorAll(".cascading-carousel__item")
     );
+    if (!items.length) return;
+
     const initialIndex = Math.floor(items.length / 2);
     let activeIndex = null;
     let showOverlay = true;
     const clampIndex = (index) =>
       Math.max(0, Math.min(index, items.length - 1));
-    const dotsWrap =
-      carousel.querySelector(".cascading-carousel__dots") ||
-      (() => {
-        const wrap = document.createElement("div");
-        wrap.className = "cascading-carousel__dots";
-        items.forEach((_, idx) => {
-          const dot = document.createElement("button");
-          dot.type = "button";
-          dot.className = "cascading-carousel__dot";
-          dot.setAttribute("aria-label", `Slide ${idx + 1}`);
-          dot.addEventListener("click", () => goTo(idx));
-          wrap.appendChild(dot);
-        });
-        carousel.appendChild(wrap);
-        return wrap;
-      })();
+
+    const dotsWrap = document.createElement("div");
+    dotsWrap.className = "cascading-carousel__dots";
+    items.forEach((_, idx) => {
+      const dot = document.createElement("button");
+      dot.type = "button";
+      dot.className = "cascading-carousel__dot";
+      dot.setAttribute("aria-label", `Slide ${idx + 1}`);
+      dot.addEventListener("click", () => goTo(idx));
+      dotsWrap.appendChild(dot);
+    });
+    carousel.appendChild(dotsWrap);
     const dots = Array.from(dotsWrap.querySelectorAll(".cascading-carousel__dot"));
 
     const update = () => {
@@ -66,8 +73,6 @@ document.addEventListener("DOMContentLoaded", () => {
       dots.forEach((dot, index) => {
         dot.classList.toggle("is-active", index === layoutIndex);
       });
-   
-
     };
 
     const goTo = (index) => {
@@ -91,10 +96,8 @@ document.addEventListener("DOMContentLoaded", () => {
       item.addEventListener("mouseenter", () => goTo(index));
     });
 
-    carousel.addEventListener("mouseleave", () => {
-      showOverlay = false;
-      update();
-    });
+    const onLeave = () => { showOverlay = false; update(); };
+    carousel.addEventListener("mouseleave", onLeave);
 
     let rafId = null;
     const handleMove = (event) => {
@@ -111,23 +114,19 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     };
 
-    carousel.addEventListener("mousemove", (event) => {
+    const onMove = (event) => {
       if (!showOverlay) {
         showOverlay = true;
       }
       handleMove(event);
-    });
+    };
+    carousel.addEventListener("mousemove", onMove);
 
     let touchStartX = null;
-    carousel.addEventListener(
-      "touchstart",
-      (event) => {
-        touchStartX = event.touches[0].clientX;
-      },
-      { passive: true }
-    );
+    const onTouchStart = (event) => { touchStartX = event.touches[0].clientX; };
+    carousel.addEventListener("touchstart", onTouchStart, { passive: true });
 
-    carousel.addEventListener("touchend", (event) => {
+    const onTouchEnd = (event) => {
       if (touchStartX === null) return;
       const deltaX = event.changedTouches[0].clientX - touchStartX;
       if (Math.abs(deltaX) > 40) {
@@ -135,9 +134,29 @@ document.addEventListener("DOMContentLoaded", () => {
         goTo(baseIndex + (deltaX < 0 ? 1 : -1));
       }
       touchStartX = null;
-    });
+    };
+    carousel.addEventListener("touchend", onTouchEnd);
 
     window.addEventListener("resize", update);
+
+    carousel._cascadingCleanup = function () {
+      carousel.removeEventListener("mouseleave", onLeave);
+      carousel.removeEventListener("mousemove", onMove);
+      carousel.removeEventListener("touchstart", onTouchStart);
+      carousel.removeEventListener("touchend", onTouchEnd);
+      window.removeEventListener("resize", update);
+    };
+
     resetToNeutral();
-  });
-});
+  }
+
+  function initAll() {
+    document
+      .querySelectorAll("[data-cascading-carousel]")
+      .forEach((carousel) => initOne(carousel));
+  }
+
+  window.SiempreCascading = { init: initAll };
+
+  document.addEventListener("DOMContentLoaded", initAll);
+})();

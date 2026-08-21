@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Anasayfa Düzenle | Siempre Tour</title>
+  <link rel="shortcut icon" type="image/x-icon" href="../images/favicon.svg">
+  <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="../css/style.css" rel="stylesheet" type="text/css">
+  <link href="../css/admin.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="../css/fontawesome.min.css">
+  <style>
+    .hp-row { display:grid; grid-template-columns:120px 1fr auto; gap:14px; align-items:start; padding:14px; border:1px solid #e6e0d8; border-radius:10px; margin-bottom:12px; background:#fff; }
+    .hp-row__thumb { width:120px; height:90px; object-fit:cover; border-radius:8px; background:#f1ece4; }
+    .hp-row__fields { display:flex; flex-direction:column; gap:8px; }
+    .hp-row__actions { display:flex; flex-direction:column; gap:6px; }
+    .hp-row textarea { min-height:64px; resize:vertical; }
+    .hp-results { display:flex; flex-direction:column; gap:6px; margin:8px 0; max-height:260px; overflow:auto; }
+    .hp-result, .hp-selected__item { display:flex; align-items:center; gap:10px; padding:8px 10px; border:1px solid #e6e0d8; border-radius:8px; background:#fff; }
+    .hp-result img, .hp-selected__item img { width:54px; height:40px; object-fit:cover; border-radius:6px; background:#f1ece4; }
+    .hp-result__meta, .hp-selected__meta { flex:1; min-width:0; }
+    .hp-result__meta small, .hp-selected__meta small { color:#8a7f70; }
+    .hp-muted { color:#8a7f70; font-size:13px; }
+  </style>
+</head>
+<body class="admin-body" data-admin-page="homepage">
+  <div class="admin-shell">
+    <aside class="admin-sidebar">
+      <a class="admin-brand" href="../index.html"><img src="../images/logolv.svg" alt="Siempre Logo"></a>
+      <nav class="admin-nav">
+        <a href="analytics.html"><i class="fa fa-chart-line"></i> Overview / Analytics</a>
+        <a href="tours.html"><i class="fa fa-suitcase"></i> Tour Management</a>
+        <a href="tour-form.html"><i class="fa fa-plus"></i> Add New Tour</a>
+        <a href="reservations.html"><i class="fa fa-clipboard-list"></i> Rezervasyonlar</a>
+        <a href="ships.html"><i class="fa fa-ship"></i> Gemi Bilgileri</a>
+        <a class="active" href="homepage.html"><i class="fa fa-home"></i> Anasayfa Düzenle</a>
+        <a href="../index.html"><i class="fa fa-arrow-left"></i> Public Site</a>
+      </nav>
+    </aside>
+    <main class="admin-main">
+      <div class="admin-topbar">
+        <div class="admin-title">
+          <h1>Anasayfa Düzenle</h1>
+          <p>Anasayfadaki "En Beğenilen Lokasyonlar" kartlarını ve "Yeni Maceralar" tur vitrinini yönetin.</p>
+        </div>
+        <button class="admin-btn primary" id="hp-save" type="button"><i class="fa fa-save"></i> Kaydet</button>
+      </div>
+
+      <section class="admin-card">
+        <h2>Bölüm 1 — En Beğenilen Lokasyonlar</h2>
+        <p class="hp-muted">Her kart için görsel, başlık, açıklama ve tıklanınca gidilecek ülke seçilir. Önerilen kart sayısı: 6.</p>
+        <div id="hp-s1-list"></div>
+        <button class="admin-btn" id="hp-s1-add" type="button"><i class="fa fa-plus"></i> Kart Ekle</button>
+      </section>
+
+      <section class="admin-card">
+        <h2>Bölüm 2 — Yeni Maceralar (Turlar)</h2>
+        <p class="hp-muted">Vitrinde gösterilecek turları seçin. En fazla 5 tur. Kart, turun kapak fotoğrafı ve adını gösterir; tıklanınca tur detay sayfasına gider.</p>
+        <div class="admin-field">
+          <label>Tur ara</label>
+          <input id="hp-s2-search" type="search" placeholder="Tur adı veya ülke yazın...">
+        </div>
+        <div id="hp-s2-results" class="hp-results"></div>
+        <h4 style="margin-top:14px;">Seçili turlar (<span id="hp-s2-count">0</span>/5)</h4>
+        <div id="hp-s2-selected"></div>
+      </section>
+    </main>
+  </div>
+  <script src="../js/api-service.js"></script>
+  <script src="../js/admin-panel.js"></script>
+</body>
+</html>

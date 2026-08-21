@@ -1,13 +1,46 @@
-// API base resolved by environment.
-// - Local dev (localhost/127.0.0.1/file://): talks to the local Spring Boot backend.
-// - Production: talks to the deployed backend. UPDATE the domain below once the
-//   Railway backend URL is known (replace PROD_BACKEND_ORIGIN).
-const PROD_BACKEND_ORIGIN = 'https://siempretour-backend-629682499889.europe-west1.run.app';
-const API_BASE_URL = (function () {
+// Backend origin — iki adlandirilmis hedef, anlik degistirilebilir:
+//   LOCAL_BACKEND_ORIGIN   -> lokal Spring Boot backend (gelistirme)
+//   RAILWAY_BACKEND_ORIGIN -> Railway'de yayindaki backend (production)
+// Cozumleme sirasi:
+//   1) localStorage('backendEnv') === 'local'|'railway' ise o kazanir
+//      (ileride super-admin panelindeki gecis dugmesi bunu kullanacak).
+//   2) Aksi halde hostname'e gore otomatik (localhost -> LOCAL, diger -> RAILWAY).
+const LOCAL_BACKEND_ORIGIN   = 'http://localhost:8080';
+const RAILWAY_BACKEND_ORIGIN = 'https://backend-production-56c81.up.railway.app';
+
+function resolveBackendOrigin() {
+    try {
+        var ov = (typeof localStorage !== 'undefined') ? localStorage.getItem('backendEnv') : null;
+        if (ov === 'local')   return LOCAL_BACKEND_ORIGIN;
+        if (ov === 'railway') return RAILWAY_BACKEND_ORIGIN;
+    } catch (e) { /* localStorage erisilemez */ }
     var h = (typeof window !== 'undefined' && window.location) ? window.location.hostname : '';
     var isLocal = h === '' || h === 'localhost' || h === '127.0.0.1' || h === '0.0.0.0';
-    return (isLocal ? 'http://localhost:8080' : PROD_BACKEND_ORIGIN) + '/api';
-})();
+    return isLocal ? LOCAL_BACKEND_ORIGIN : RAILWAY_BACKEND_ORIGIN;
+}
+
+const BACKEND_ORIGIN = resolveBackendOrigin();
+const API_BASE_URL = BACKEND_ORIGIN + '/api';
+
+// Ileride admin panelinden cagrilacak yardimci:
+//   window.SiempreBackend.setEnv('local'|'railway'|'auto')
+if (typeof window !== 'undefined') {
+    window.SiempreBackend = {
+        LOCAL: LOCAL_BACKEND_ORIGIN,
+        RAILWAY: RAILWAY_BACKEND_ORIGIN,
+        current: BACKEND_ORIGIN,
+        getEnv: function () {
+            try { return localStorage.getItem('backendEnv') || 'auto'; } catch (e) { return 'auto'; }
+        },
+        setEnv: function (env) {
+            try {
+                if (env === 'auto') localStorage.removeItem('backendEnv');
+                else localStorage.setItem('backendEnv', env);
+            } catch (e) { /* yok say */ }
+            if (typeof location !== 'undefined') location.reload();
+        }
+    };
+}
 
 class ApiService {
     static async request(endpoint, method = 'GET', body = null, auth = false) {
@@ -190,6 +223,53 @@ class ApiService {
         return this.request('/bookings/me', 'GET', null, true);
     }
 
+    // Admin: rezervasyon arama + yönetim
+    static async adminSearchBookings(params = {}) {
+        return this.request(`/bookings/search${this.query(params)}`, 'GET', null, true);
+    }
+
+    static async approveBooking(bookingId, dto = {}) {
+        return this.request(`/bookings/${encodeURIComponent(bookingId)}/approve`, 'POST', dto, true);
+    }
+
+    static async rejectBooking(bookingId, dto = {}) {
+        return this.request(`/bookings/${encodeURIComponent(bookingId)}/reject`, 'POST', dto, true);
+    }
+
+    static async cancelBooking(bookingId) {
+        return this.request(`/bookings/${encodeURIComponent(bookingId)}/cancel`, 'POST', {}, true);
+    }
+
+    // Admin: rezervasyonu kalıcı olarak sil
+    static async deleteBooking(bookingId) {
+        return this.request(`/bookings/${encodeURIComponent(bookingId)}`, 'DELETE', null, true);
+    }
+
+    // Ships (gemi bilgileri) — okuma public, yazma admin
+    static async listShips() {
+        return this.request('/ships', 'GET', null, true);
+    }
+    static async getShip(slug) {
+        return this.request(`/ships/${encodeURIComponent(slug)}`, 'GET', null, false);
+    }
+    static async listShipCompanies() {
+        return this.request('/ships/companies', 'GET', null, true);
+    }
+    static async createShip(dto) {
+        return this.request('/ships', 'POST', dto, true);
+    }
+    static async updateShip(slug, dto) {
+        return this.request(`/ships/${encodeURIComponent(slug)}`, 'PUT', dto, true);
+    }
+    static async deleteShip(slug) {
+        return this.request(`/ships/${encodeURIComponent(slug)}`, 'DELETE', null, true);
+    }
+    static async uploadShipImages(files) {
+        const formData = new FormData();
+        Array.from(files || []).forEach(file => formData.append('files', file));
+        return this.upload('/ships/images', formData, true);
+    }
+
     // Tours
     static async getToursByDestination(destination, lang = 'tr', category = null) {
         let endpoint = `/tours/by-destination?destination=${encodeURIComponent(destination)}&lang=${encodeURIComponent(lang)}`;
@@ -205,6 +285,19 @@ class ApiService {
 
     static async filterTours(filterDto, page = 0, size = 50) {
         return this.request(`/tours/filter?page=${page}&size=${size}`, 'POST', filterDto);
+    }
+
+    // Homepage (dynamic index.html sections)
+    static async getHomepage(lang = 'tr') {
+        return this.request(`/homepage?lang=${encodeURIComponent(lang)}`);
+    }
+
+    static async adminGetHomepage() {
+        return this.request('/admin/homepage', 'GET', null, true);
+    }
+
+    static async adminSaveHomepage(config) {
+        return this.request('/admin/homepage', 'PUT', config, true);
     }
 
     // Reviews

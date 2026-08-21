@@ -155,7 +155,10 @@ function renderRouteMap(routeCoordinates) {
         }).addTo(tourMapInstance);
     }
 
-    tourMapInstance.fitBounds(L.latLngBounds(latlngs), {
-        padding: [60, 60]
-    });
+    const routeBounds = L.latLngBounds(latlngs);
+    tourMapInstance.fitBounds(routeBounds, { padding: [60, 60] });
+
+    // Yazdırma (PDF) için harita örneğini ve rota sınırlarını dışa aç.
+    window.tourMapInstance = tourMapInstance;
+    window.tourRouteBounds = routeBounds;
 }

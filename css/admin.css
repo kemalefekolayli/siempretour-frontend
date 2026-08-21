@@ -439,3 +439,138 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* Backend hedef anahtari (yalnizca superadmin) */
+.backend-toggle {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  background: #fff;
+  border: 1px solid #ececec;
+  border-radius: 14px;
+  padding: 14px 18px;
+  margin-bottom: 18px;
+}
+.backend-toggle__head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.backend-toggle__title {
+  font-weight: 600;
+}
+.backend-toggle__badge {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  background: #111;
+  color: #fff;
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+.backend-toggle__options {
+  display: inline-flex;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.backend-toggle__btn {
+  appearance: none;
+  border: 0;
+  background: #fff;
+  color: #333;
+  padding: 8px 16px;
+  cursor: pointer;
+  font: inherit;
+  border-right: 1px solid #eee;
+}
+.backend-toggle__btn:last-child {
+  border-right: 0;
+}
+.backend-toggle__btn:hover {
+  background: #f5f5f5;
+}
+.backend-toggle__btn.is-active {
+  background: #111;
+  color: #fff;
+}
+.backend-toggle__current {
+  font-size: 13px;
+  color: #777;
+}
+
+/* ==================== Rezervasyonlar sayfası ==================== */
+.admin-field--grow { flex: 1 1 320px; }
+.admin-reservations-summary {
+  margin: 8px 2px 14px;
+  font-size: 13px;
+  color: #6b7280;
+  font-weight: 600;
+}
+.res-tour { margin-bottom: 18px; }
+.res-tour__title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 0 0 6px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #eef1f5;
+  font-size: 17px;
+  font-weight: 700;
+}
+.res-tour__name i { color: #215093; margin-right: 4px; }
+.res-tour__dest {
+  font-size: 12px;
+  font-weight: 600;
+  color: #215093;
+  background: #eef4fb;
+  border-radius: 999px;
+  padding: 3px 12px;
+}
+.res-tour__dest i { margin-right: 4px; color: #96c43f; }
+.res-tour__count {
+  margin-left: auto;
+  font-size: 12px;
+  font-weight: 600;
+  color: #6b7280;
+}
+.res-dep { margin-top: 16px; }
+.res-dep__head {
+  font-weight: 700;
+  color: #215093;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 14px;
+}
+.res-dep__head i { color: #96c43f; }
+.res-dep__meta {
+  font-size: 12px;
+  font-weight: 500;
+  color: #6b7280;
+}
+.res-contact { font-size: 12px; color: #4b5563; line-height: 1.5; }
+.res-contact i { color: #96c43f; margin-right: 4px; }
+.res-note { max-width: 260px; font-size: 12px; }
+.res-note__msg { color: #374151; font-style: italic; }
+.res-note__admin { color: #6b7280; margin-top: 3px; }
+.res-date { font-size: 12px; color: #9ca3af; white-space: nowrap; }
+.res-actions { white-space: nowrap; }
+.res-actions .admin-btn { min-height: 32px; padding: 5px 10px; font-size: 12px; }
+.res-muted { color: #9ca3af; }
+.res-badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 9px;
+  border-radius: 999px;
+  vertical-align: middle;
+}
+.res-badge--pending { background: #fff4e0; color: #b45309; }
+.res-badge--approved { background: #e6f6ec; color: #1a7f37; }
+.res-badge--rejected { background: #fdeaea; color: #b91c1c; }
+.res-badge--cancelled { background: #eef1f5; color: #6b7280; }

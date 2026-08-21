@@ -17,12 +17,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
   const filterCheckboxes = document.querySelectorAll('.sidebar-category1 input[type="checkbox"]');
   const eventSelect = document.getElementById('eventFilterSelect');
+  const durationSelect = document.getElementById('durationFilterSelect');
   const dateFilterStart = document.getElementById('dateFilterStart');
   const dateFilterEnd = document.getElementById('dateFilterEnd');
   const dateFilterClear = document.getElementById('dateFilterClear');
 
   let allTours = [];
   let selectedEventType = '';
+  let selectedDuration = '';
   let selectedShips = [];
 
   const normalize = (s) => (s ?? '').toString().trim();
@@ -120,6 +122,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
       allTours = all;
       if (!categoryParam) updateCategoryCounts();
+      populateDurationOptions();
       requestSidebarPositionUpdate();
     } catch (err) {
       console.error("Filter fetch error:", err);
@@ -168,6 +171,33 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // ===============================
+  // GÜN SAYISI SEÇENEKLERİ
+  // ===============================
+
+  function populateDurationOptions() {
+    if (!durationSelect) return;
+    const days = Array.from(new Set(
+      allTours
+        .map(t => parseInt(t.durationDays, 10))
+        .filter(n => Number.isFinite(n) && n > 0)
+    )).sort((a, b) => a - b);
+
+    const prev = selectedDuration;
+    const allLabel = isEn ? 'All' : 'Tümü';
+    let html = `<option value="">${allLabel}</option>`;
+    html += days.map(n =>
+      `<option value="${n}">${n} ${isEn ? (n === 1 ? 'day' : 'days') : 'gün'}</option>`
+    ).join('');
+    durationSelect.innerHTML = html;
+    // Seçim hâlâ geçerliyse koru
+    if (prev && days.indexOf(parseInt(prev, 10)) !== -1) {
+      durationSelect.value = prev;
+    } else {
+      selectedDuration = '';
+    }
+  }
+
+  // ===============================
   // FILTER LOGIC
   // ===============================
 
@@ -186,17 +216,38 @@ document.addEventListener('DOMContentLoaded', function () {
     // Etkinlik filtresi
     if (selectedEventType && normalize(tour.eventType) !== selectedEventType) return false;
 
+    // Gün sayısı filtresi
+    if (selectedDuration && parseInt(tour.durationDays, 10) !== parseInt(selectedDuration, 10)) return false;
+
     // Tarih filtresi
     const filterFrom = dateFilterStart && dateFilterStart.value ? new Date(dateFilterStart.value) : null;
     const filterTo = dateFilterEnd && dateFilterEnd.value ? new Date(dateFilterEnd.value) : null;
     if (filterFrom || filterTo) {
-      const tourStart = tour.startDate ? new Date(tour.startDate.substring(0, 10)) : null;
-      const tourEnd = tour.endDate ? new Date(tour.endDate.substring(0, 10)) : null;
-      if (!tourStart && !tourEnd) return false;
-      const effectiveStart = tourStart || tourEnd;
-      const effectiveEnd = tourEnd || tourStart;
-      if (filterFrom && effectiveEnd < filterFrom) return false;
-      if (filterTo && effectiveStart > filterTo) return false;
+      // Bir [start,end] aralığı filtre [from,to] ile kesişiyor mu?
+      const overlaps = (start, end) => {
+        if (!start && !end) return false;
+        const s = start || end;
+        const e = end || start;
+        if (filterFrom && e < filterFrom) return false;
+        if (filterTo && s > filterTo) return false;
+        return true;
+      };
+      const toDate = (v) => (v ? new Date(String(v).substring(0, 10)) : null);
+
+      // Çoklu kalkış tarihi varsa: herhangi bir kalkış aralığı filtreyle kesişmeli.
+      const departures = (window.TourCardFormat && typeof window.TourCardFormat.departures === 'function')
+        ? window.TourCardFormat.departures(tour)
+        : (Array.isArray(tour.departures) ? tour.departures.filter(d => d && d.departureDate) : []);
+
+      if (departures.length) {
+        const anyMatch = departures.some(d =>
+          overlaps(toDate(d.departureDate), toDate(d.returnDate || d.departureDate))
+        );
+        if (!anyMatch) return false;
+      } else {
+        // Kalkış yoksa: eski startDate/endDate mantığı (fallback).
+        if (!overlaps(toDate(tour.startDate), toDate(tour.endDate))) return false;
+      }
     }
 
     return true;
@@ -222,6 +273,13 @@ document.addEventListener('DOMContentLoaded', function () {
   if (eventSelect) {
     eventSelect.addEventListener('change', function () {
       selectedEventType = this.value;
+      applyFilters();
+    });
+  }
+
+  if (durationSelect) {
+    durationSelect.addEventListener('change', function () {
+      selectedDuration = this.value;
       applyFilters();
     });
   }
@@ -286,6 +344,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     allTours = tours;
+    populateDurationOptions();
 
     const shipMap = {};
     tours.forEach(t => {

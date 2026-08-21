@@ -50,6 +50,16 @@ document.addEventListener("DOMContentLoaded", function () {
   // Load Tour Data
   loadTourFromJson();
 
+  // Prefill e-mail with the logged-in user's account e-mail (if available)
+  (async () => {
+    const emailInput = document.getElementById('booking-email');
+    if (!emailInput || !localStorage.getItem('jwt_token')) return;
+    try {
+      const me = await ApiService.getMe();
+      if (me?.email && !emailInput.value) emailInput.value = me.email;
+    } catch (_) { /* not logged in / offline — leave empty */ }
+  })();
+
   // Handle Booking Submission (triggered by form submit or bookingBtn click)
   const bookingForm = document.getElementById('booking-form');
   const bookingBtn = document.getElementById('bookingBtn');
@@ -58,19 +68,37 @@ document.addEventListener("DOMContentLoaded", function () {
     const bookingName = document.getElementById('booking-name')?.value?.trim();
     const bookingSurname = document.getElementById('booking-surname')?.value?.trim();
     const bookingPhone = document.getElementById('booking-phone')?.value?.trim();
+    const bookingEmail = document.getElementById('booking-email')?.value?.trim();
     const personCount = parseInt(document.getElementById('person-count')?.value, 10) || 1;
 
     // Tour slug from URL — id param is already a slug (e.g. "family-adventure-holiday-in-morzine-france")
     const tourSlug = getQueryParam('id');
 
-    if (!bookingName || !bookingSurname || !bookingPhone) {
+    if (!bookingName || !bookingSurname || !bookingPhone || !bookingEmail) {
       alert(bookingText('Lütfen tüm alanları doldurunuz.', 'Please fill in all fields.'));
+      return;
+    }
+
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(bookingEmail)) {
+      alert(bookingText('Lütfen geçerli bir e-posta adresi giriniz.', 'Please enter a valid e-mail address.'));
       return;
     }
 
     if (!tourSlug) {
       alert(bookingText('Tur bilgisi bulunamadı. Lütfen tur sayfasından tekrar deneyin.', 'Tour information was not found. Please try again from the tour page.'));
       return;
+    }
+
+    // Kalkış tarihi seçimi (çoklu tarih varsa zorunlu)
+    const departureWrap = document.getElementById('booking-departure-wrap');
+    const departureSel = document.getElementById('booking-departure');
+    let departureId = null;
+    if (departureWrap && departureWrap.style.display !== 'none' && departureSel) {
+      if (!departureSel.value) {
+        alert(bookingText('Lütfen bir kalkış tarihi seçiniz.', 'Please select a departure date.'));
+        return;
+      }
+      departureId = Number(departureSel.value);
     }
 
     // Check if user is logged in
@@ -91,6 +119,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const bookingData = {
       tourSlug: tourSlug,
       tourId: null,
+      departureId: departureId,
       tourName: tourNameRaw,
       tourDestination: tourDestinationRaw,
       tourDuration: tourDurationRaw ? parseInt(tourDurationRaw, 10) : 1,
@@ -98,6 +127,7 @@ document.addEventListener("DOMContentLoaded", function () {
       numberOfPeople: personCount,
       userName: `${bookingName} ${bookingSurname}`,
       userPhone: bookingPhone,
+      userEmail: bookingEmail,
       userMessage: ''
     };
 
@@ -138,6 +168,61 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
+// Seçili kalkışın (yoksa turun) kişi başı geçerli fiyatı. Özet tablosunda
+// "Kişi Sayısı × Fiyat = Toplam" göstermek için kullanılır.
+let bookingUnitPrice = null;
+// Tur admin panelinden eklendiyse (adminCreated) gerçek fiyat gösterilir; değilse
+// toplu içe aktarılan tur olduğundan "Fiyat Belirlenecek" gösterilir.
+let bookingTourAdminCreated = false;
+
+// İndirimli varsa o, yoksa normal fiyat (TourCardFormat ile aynı mantık).
+function bookingEffPrice(o) {
+  if (window.TourCardFormat && typeof window.TourCardFormat.effPrice === 'function') {
+    return window.TourCardFormat.effPrice(o);
+  }
+  if (!o) return null;
+  var d = o.discountedPrice;
+  if (d != null && d !== '' && Number(d) > 0) return Number(d);
+  var p = o.price;
+  if (p != null && p !== '' && Number(p) > 0) return Number(p);
+  return null;
+}
+
+function fmtTL(n) {
+  return Number(n).toLocaleString('tr-TR') + ' €';
+}
+
+// Özet tablosundaki kişi başı fiyat + toplam satırlarını günceller.
+function updateBookingTotal() {
+  var count = parseInt((document.getElementById('person-count') || {}).value, 10) || 1;
+  var unitRow = document.getElementById('booking-unit-price-row');
+  var totalRow = document.getElementById('booking-total-row');
+  var unitEl = document.getElementById('booking-unit-price');
+  var totalEl = document.getElementById('booking-total');
+  if (!unitRow || !totalRow || !unitEl || !totalEl) return;
+
+  // Admin tarafından eklenmeyen turlarda fiyat gerçek değil → "Fiyat Belirlenecek".
+  if (!bookingTourAdminCreated) {
+    unitEl.textContent = isBookingEnglish() ? 'Price to be determined' : 'Fiyat Belirlenecek';
+    unitRow.style.display = '';
+    totalRow.style.display = 'none';
+    return;
+  }
+
+  if (bookingUnitPrice == null || !(Number(bookingUnitPrice) > 0)) {
+    // Fiyat bilgisi yoksa fiyat satırlarını gizle (yalnızca kişi sayısı görünür).
+    unitRow.style.display = 'none';
+    totalRow.style.display = 'none';
+    return;
+  }
+
+  var total = count * Number(bookingUnitPrice);
+  unitEl.textContent = fmtTL(bookingUnitPrice);
+  totalEl.innerHTML = '<strong>' + count + ' × ' + fmtTL(bookingUnitPrice) + ' = ' + fmtTL(total) + '</strong>';
+  unitRow.style.display = '';
+  totalRow.style.display = '';
+}
+
 function initPersonCounter() {
   const input = document.getElementById('person-count');
   const input2 = document.getElementById('person-count-2');
@@ -149,6 +234,7 @@ function initPersonCounter() {
     if (input2) {
       input2.textContent = input.value;
     }
+    updateBookingTotal();
   };
 
   const normalizeValue = () => {
@@ -183,6 +269,7 @@ function getQueryParam(name) {
 }
 
 function renderTour(tour) {
+  bookingTourAdminCreated = tour && tour.adminCreated === true;
   let tourUrl = `template_tour_page.html?id=${encodeURIComponent(tour.slug)}&country=${encodeURIComponent(tour.destination)}`;
   const lang = typeof getSelectedLang === 'function' ? getSelectedLang() : bookingLang();
   if (lang !== 'tr') tourUrl += `&lang=${encodeURIComponent(lang)}`;
@@ -193,6 +280,50 @@ function renderTour(tour) {
   const destTr = typeof countryNameTr === 'function' ? countryNameTr(tour.destination) : tour.destination;
   document.getElementById('tour-destination').innerHTML = `<i class="icon-location-pin"></i>${destTr}`;
   document.getElementById('tour-duration').innerHTML = `${tour.durationDays} ${bookingText('Gün', 'Days')}`;
+  populateDepartures(tour);
+}
+
+function fmtBookingDate(value) {
+  if (!value) return '';
+  const p = String(value).substring(0, 10).split('-');
+  if (p.length === 3) return `${p[2]}.${p[1]}.${p[0]}`;
+  return String(value);
+}
+
+function populateDepartures(tour) {
+  const wrap = document.getElementById('booking-departure-wrap');
+  const sel = document.getElementById('booking-departure');
+  if (!wrap || !sel) return;
+  const deps = Array.isArray(tour.departures)
+    ? tour.departures.filter(d => d && d.departureDate)
+    : [];
+  if (!deps.length) {
+    wrap.style.display = 'none';
+    sel.innerHTML = '';
+    // Kalkış yoksa fiyat tur seviyesinden alınır.
+    bookingUnitPrice = bookingEffPrice(tour);
+    updateBookingTotal();
+    return;
+  }
+  sel.innerHTML = deps.map(d => {
+    let label = fmtBookingDate(d.departureDate);
+    if (d.returnDate) label += ` → ${fmtBookingDate(d.returnDate)}`;
+    const eff = (d.discountedPrice != null && d.discountedPrice !== '') ? d.discountedPrice : d.price;
+    if (eff != null && eff !== '') label += `  ·  ${Number(eff).toLocaleString('tr-TR')} €`;
+    const full = (d.availableSeats != null && d.availableSeats <= 0);
+    if (full) label += `  (${bookingText('DOLU', 'FULL')})`;
+    return `<option value="${d.id}"${full ? ' disabled' : ''}>${label}</option>`;
+  }).join('');
+  wrap.style.display = '';
+
+  // Seçili kalkışın fiyatını özet tablosuna yansıt; seçim değişince güncelle.
+  const syncDeparturePrice = () => {
+    const chosen = deps.find(d => String(d.id) === String(sel.value)) || deps[0];
+    bookingUnitPrice = bookingEffPrice(chosen);
+    updateBookingTotal();
+  };
+  sel.addEventListener('change', syncDeparturePrice);
+  syncDeparturePrice();
 }
 
 async function loadTourFromJson() {

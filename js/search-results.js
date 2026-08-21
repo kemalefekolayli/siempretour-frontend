@@ -131,6 +131,8 @@ document.addEventListener('DOMContentLoaded', function () {
     var shipName = tour.shipName || '';
     var destTr = (typeof countryTrName === 'function' && tour.destination) ? countryTrName(tour.destination) : (tour.destination || '');
     var url = detailUrl(tour);
+    var priceHtml = window.TourCardFormat ? window.TourCardFormat.priceHtml(tour, isEn()) : '';
+    var datesHtml = window.TourCardFormat ? window.TourCardFormat.datesHtml(tour, isEn()) : '';
     return '' +
       '<div class="tour-card col-lg-4 col-md-6 mb-4">' +
         '<div class="pb-4 mb-0">' +
@@ -145,7 +147,9 @@ document.addEventListener('DOMContentLoaded', function () {
             '</div>' +
             '<h5 class="mb-1"><a href="' + url + '">' + esc(title) + '</a></h5>' +
             (shipName ? '<p class="text-muted mb-1"><i class="fa fa-ship"></i> ' + esc(shipName) + '</p>' : '') +
+            priceHtml +
             '<p class="border-b pb-2 mb-2">' + esc(places) + '</p>' +
+            datesHtml +
           '</div>' +
         '</div>' +
       '</div>';

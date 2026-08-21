@@ -132,7 +132,14 @@
         const countrySlug = getCountryFromUrl();
         if (!countrySlug) return;
 
-        const datas = await fetchCountryDatas(countrySlug);
+        let datas;
+        try {
+            datas = await fetchCountryDatas(countrySlug);
+        } catch (e) {
+            // datas.json yok/erisilemiyor -> best-time sekmesini hic gosterme
+            document.getElementById("guide-tab")?.closest(".nav-item")?.remove();
+            return;
+        }
         const bestTime = datas.find(d => d.type === "best-time-to");
         if (!bestTime){
             const btn = document.getElementById("guide-tab");

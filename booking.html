@@ -1490,6 +1490,19 @@
                       </div>
                     </div>
                     <div class="col-md-12">
+                      <div class="form-group mb-2">
+                        <label>E-posta Adresiniz</label>
+                        <input type="email" id="booking-email" class="form-control" placeholder="ornek@eposta.com"
+                          autocomplete="email" required />
+                      </div>
+                    </div>
+                    <div class="col-md-12" id="booking-departure-wrap" style="display:none;">
+                      <div class="form-group mb-2">
+                        <label>Kalkış Tarihi</label>
+                        <select id="booking-departure" class="form-control"></select>
+                      </div>
+                    </div>
+                    <div class="col-md-12">
                       <div class="form-group mb-2 person-counter-wrap">
                         <label>Kişi Sayısı</label>
                         <input type="number" id="person-count" class="form-control text-center person-counter-input"
@@ -1649,11 +1662,19 @@
             </div>
             <div class="sidebar-item bg-white rounded box-shadow overflow-hidden p-3 mb-4">
               <h4>Rezervasyon özeti</h4>
-              <table>
+              <table class="w-100">
                 <tbody>
                   <tr>
                     <td>Kişi Sayısı</td>
-                    <td class="theme2" id="person-count-2">1</td>
+                    <td class="theme2 text-end" id="person-count-2">1</td>
+                  </tr>
+                  <tr id="booking-unit-price-row" style="display:none;">
+                    <td>Kişi Başı Fiyat</td>
+                    <td class="theme2 text-end" id="booking-unit-price">—</td>
+                  </tr>
+                  <tr id="booking-total-row" style="display:none;">
+                    <td><strong>Toplam Tutar</strong></td>
+                    <td class="theme2 text-end" id="booking-total"><strong>—</strong></td>
                   </tr>
                 </tbody>
               </table>
@@ -1915,7 +1936,7 @@
   <script src="js/dream-carousel.js"></script>
   <script src="js/cascading-carousel.js"></script>
   <script src="js/link_generator.js"></script>
-  <script src="js/booking_page.js"></script>
+  <script src="js/booking_page.js?v=20260707g"></script>
   <script src="js/booking_button.js"></script>
     <script src="js/chat-widget.js"></script>
 </body>
