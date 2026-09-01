@@ -1,5 +1,11 @@
 console.log("tour page photos js loaded");
 
+function resolveAssetUrl(url) {
+  return window.AssetCdn && typeof window.AssetCdn.resolve === 'function'
+    ? window.AssetCdn.resolve(url)
+    : url;
+}
+
 const TOUR_PAGE_DEFAULT_IMAGES = [
   "images/cruise/cruise-banner.jpg",
   "images/cruise/ships/costa/costa-favolosa.jpg",
@@ -40,7 +46,7 @@ function imageLoads(url) {
 
     img.onload = () => done(true);
     img.onerror = () => done(false);
-    img.src = url;
+    img.src = resolveAssetUrl(url);
     window.setTimeout(() => done(false), 2500);
   });
 }
@@ -131,7 +137,7 @@ async function renderTourPagePhotos() {
   const safeImages = await resolveUsableImages(bannerCandidates, photos.length);
 
   photos.forEach((el, i) => {
-    const image = safeImages[i];
+    const image = resolveAssetUrl(safeImages[i]);
     const img = el.querySelector("img");
 
     el.style.backgroundImage = `url("${image}")`;
