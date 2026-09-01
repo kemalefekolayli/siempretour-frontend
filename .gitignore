@@ -1,5 +1,12 @@
-# Tour data (JSON tours, country data, Python scripts)
-data/
+# Tour data (JSON tours, country data, Python scripts).
+# siempre_tour_country_datas(_tr) is an exception: template_tour_grid_page_2.js
+# and _3.js fetch data/siempre_tour_country_datas(_tr)/{country}/datas.json at
+# runtime for the "Genel Bakis" / "Gidilecek En iyi Zaman" tabs, and silently
+# remove those tabs if the fetch 404s. It's small (~9MB, 721 files) so it ships
+# as a normal Pages static asset like the rest of the site.
+data/*
+!data/siempre_tour_country_datas/
+!data/siempre_tour_country_datas_tr/
 
 # OS files
 .DS_Store
