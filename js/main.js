@@ -514,10 +514,18 @@
     /*-----------------------------------------------------------------------------------*/
     /*  COUNTER UP
     /*-----------------------------------------------------------------------------------*/
-    $('.value').counterUp({
-        delay: 50,
-        time: 1000
-    });
+    // Disabled: the bundled jquery.counterup plugin relies on Waypoints' old
+    // triggerOnce option, which Waypoints 4.0.1 (bundled in plugin.js) does not
+    // support. Waypoints re-fires the handler on every scroll crossing instead of
+    // once, and if that happens mid-animation the plugin locks onto whatever
+    // partial number was on screen as the new "final" value (e.g. 25 -> 5 after
+    // scrolling past the stats section a second time). The static numbers already
+    // in the HTML (see .value elements) are the real, correct values, so we just
+    // leave them as-is instead of animating them.
+    // $('.value').counterUp({
+    //     delay: 50,
+    //     time: 1000
+    // });
     /*-----------------------------------------------------------------------------------*/
     /*  MASONRY
     /*-----------------------------------------------------------------------------------*/
