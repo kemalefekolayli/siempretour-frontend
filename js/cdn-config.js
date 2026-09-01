@@ -1,11 +1,14 @@
 (function () {
-  var DEFAULT_ASSET_CDN_BASE = "";
+  // images/tour-photos/ and images/gemi/ are hosted on R2 (cdn.siempretour.com)
+  // because the combined site + full tour photo catalog exceeds Cloudflare
+  // Pages' 20,000-file-per-deployment limit. avrupa-turlari/, uploads/tours/
+  // (proxied to Railway, see functions/uploads/[[path]].js) and the rest of
+  // images/ (site UI assets) stay as regular Pages static assets, so they are
+  // intentionally not in this list.
+  var DEFAULT_ASSET_CDN_BASE = "https://cdn.siempretour.com";
   var CDN_PATH_PREFIXES = [
-    "avrupa-turlari/",
     "images/tour-photos/",
-    "uploads/tours/",
-    "images/",
-    "fonts/"
+    "images/gemi/"
   ];
 
   function stripTrailingSlash(value) {
@@ -59,4 +62,46 @@
     resolve: resolve,
     setBase: setBase
   };
+
+  // Some pages (e.g. index.html's trending-destinations carousel, or the
+  // placeholder background-image on booking.html's #tour-main-photo before
+  // JS fills in the real tour) hardcode CDN-prefixed paths directly in the
+  // HTML instead of rendering them through JS + AssetCdn.resolve(). Sweep the
+  // DOM once on load and rewrite both <img src> and inline
+  // background-image: url(...) so they still resolve correctly wherever
+  // DEFAULT_ASSET_CDN_BASE points. loading="lazy" images haven't started
+  // fetching yet at this point, so this runs before the browser requests them.
+  var BG_URL_RE = /url\((['"]?)([^'")]+)\1\)/;
+
+  function rewriteStaticImgTags() {
+    if (!getBase()) return;
+
+    var imgs = document.querySelectorAll("img[src]");
+    for (var i = 0; i < imgs.length; i++) {
+      var img = imgs[i];
+      var src = img.getAttribute("src");
+      if (shouldRewrite(src)) {
+        img.setAttribute("src", resolve(src));
+      }
+    }
+
+    var bgEls = document.querySelectorAll('[style*="background-image"]');
+    for (var j = 0; j < bgEls.length; j++) {
+      var el = bgEls[j];
+      var style = el.getAttribute("style") || "";
+      var match = BG_URL_RE.exec(style);
+      if (match && shouldRewrite(match[2])) {
+        var resolved = resolve(match[2]);
+        el.setAttribute("style", style.replace(BG_URL_RE, "url(" + resolved + ")"));
+      }
+    }
+  }
+
+  if (typeof document !== "undefined") {
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", rewriteStaticImgTags);
+    } else {
+      rewriteStaticImgTags();
+    }
+  }
 })();
