@@ -1309,11 +1309,47 @@
     </footer>
     <!-- footer ends -->
 
-    <!-- Back to top start -->
-    <div id="back-to-top">
-        <a href="#"></a>
-    </div>
-    <!-- Back to top ends -->
+    <!-- WhatsApp floating button (replaces back-to-top on this page) -->
+    <a href="https://wa.me/905465870048?text=Merhaba%2C%20Siempre%20Tour%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
+       class="whatsapp-float"
+       target="_blank"
+       rel="noopener"
+       aria-label="WhatsApp ile yaz">
+      <i class="fab fa-whatsapp"></i>
+    </a>
+    <style>
+      .whatsapp-float {
+        position: fixed;
+        left: 24px;
+        bottom: 24px;
+        width: 56px;
+        height: 56px;
+        border-radius: 50%;
+        background: #25d366;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 30px;
+        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+        z-index: 9999;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+      .whatsapp-float:hover {
+        color: #fff;
+        transform: scale(1.08);
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+      }
+      @media (max-width: 600px) {
+        .whatsapp-float {
+          left: 16px;
+          bottom: 16px;
+          width: 48px;
+          height: 48px;
+          font-size: 26px;
+        }
+      }
+    </style>
 
     <!-- search popup -->
     <div id="search1">
