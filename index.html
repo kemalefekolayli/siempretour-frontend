@@ -2757,6 +2757,7 @@
       margin: 0;
       line-height: 1.65;
     }
+    .health-tourism .ht-cta { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; }
     .health-tourism .ht-cta a {
       display: inline-block;
       background: #070707;
@@ -2768,6 +2769,12 @@
       transition: opacity .3s ease;
     }
     .health-tourism .ht-cta a:hover { opacity: .85; color: #fff; }
+    .health-tourism .ht-cta a.ht-cta-secondary {
+      background: #fff;
+      color: #070707;
+      border: 1px solid #070707;
+    }
+    .health-tourism .ht-cta a.ht-cta-secondary:hover { opacity: 1; background: #070707; color: #fff; }
     @media (max-width: 767px) { .health-tourism .ht-card { margin-bottom: 16px; } }
   </style>
   <section class="health-tourism pt-6 pb-6">
@@ -2811,6 +2818,7 @@
       </div>
       <div class="ht-cta text-center mt-6">
         <a href="contact.html">Ücretsiz Bilgi Alın</a>
+        <a class="ht-cta-secondary" href="template_tours_grid_page.html?country=Cuba#cuba-health-tab-pane">Kübada Sağlık Turizmi ile İlgili Bilgi Alın</a>
       </div>
     </div>
   </section>

@@ -48,6 +48,19 @@ async function loadTours() {
   if (country === 'Cuba') {
     const cubaHealthTabItem = document.getElementById('cuba-health-tab-item');
     if (cubaHealthTabItem) cubaHealthTabItem.classList.remove('d-none');
+
+    // Anasayfadaki "Kübada Sağlık Turizmi ile İlgili Bilgi Alın" butonu buraya
+    // #cuba-health-tab-pane hash'iyle geliyor: sekmeyi otomatik ac ve kaydir.
+    if (window.location.hash === '#cuba-health-tab-pane') {
+      const cubaHealthTabBtn = document.getElementById('cuba-health-tab');
+      if (cubaHealthTabBtn && window.bootstrap && window.bootstrap.Tab) {
+        new window.bootstrap.Tab(cubaHealthTabBtn).show();
+        setTimeout(() => {
+          const pane = document.getElementById('cuba-health-tab-pane');
+          if (pane) pane.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 150);
+      }
+    }
   }
 
   // Backend has legacy TR cruise tours as Ship/Cruise and EN cruise tours as Ship.
