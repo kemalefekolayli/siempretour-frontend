@@ -738,7 +738,7 @@
   }
 
   function fillTourForm(tour) {
-    ["name", "slug", "language", "destination", "departureCity", "duration", "price", "discountedPrice", "dates", "minimumAge", "personNumber", "mainPhoto", "image1", "image2", "image3", "image4", "image5", "image6", "imagealt", "detailPdfUrl", "generalInfo", "placesVisited", "whatExpect", "meet"].forEach(function (field) {
+    ["name", "slug", "language", "destination", "departureCity", "duration", "price", "discountedPrice", "minimumAge", "mainPhoto", "image1", "image2", "image3", "image4", "image5", "image6", "imagealt", "detailPdfUrl", "generalInfo", "placesVisited", "whatExpect", "meet"].forEach(function (field) {
       var node = document.querySelector('[name="' + field + '"]');
       if (node) node.value = tour[field] || "";
     });
@@ -747,10 +747,6 @@
     document.getElementById("tour-active").checked = tour.isActive !== false;
     var eventTypeEl = document.getElementById("tour-event-type");
     if (eventTypeEl) eventTypeEl.value = tour.eventType || "";
-    var startDateEl = document.getElementById("tour-start-date");
-    if (startDateEl) startDateEl.value = tour.startDate ? tour.startDate.substring(0, 10) : "";
-    var endDateEl = document.getElementById("tour-end-date");
-    if (endDateEl) endDateEl.value = tour.endDate ? tour.endDate.substring(0, 10) : "";
     var shipCompanyEl = document.getElementById("tour-ship-company");
     if (shipCompanyEl) shipCompanyEl.value = tour.shipCompany || "";
     var shipNameEl = document.getElementById("tour-ship-name");
@@ -791,10 +787,6 @@
     data.price = data.price ? Number(data.price) : null;
     data.discountedPrice = data.discountedPrice ? Number(data.discountedPrice) : null;
     data.destinations = data.destination ? [data.destination] : [];
-    var startDateEl = document.getElementById("tour-start-date");
-    var endDateEl = document.getElementById("tour-end-date");
-    data.startDate = startDateEl && startDateEl.value ? startDateEl.value + "T00:00:00" : null;
-    data.endDate = endDateEl && endDateEl.value ? endDateEl.value + "T23:59:59" : null;
     data.routeCoordinates = routeCoordinates.length ? routeCoordinates : [];
     data.dayInfo = dayInfo.length ? dayInfo : [];
     data.departures = departures.length ? departures : [];

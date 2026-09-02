@@ -98,6 +98,22 @@ function renderTour(tour) {
     `<i class="fa fa-clock-o pink mr-1"></i>${tour.durationDays ?? ""} ${trEn('gün', 'days')}`;
   }
 
+  // Min. Yaş / Buluşma Noktası / Kalkış Şehri: admin tur formunda dolduysa göster,
+  // boşsa hücreyi tamamen gizle (boş etiketle "Min. Yaş : " gibi yarım görünmesin).
+  const setOptionalInfoCell = (id, iconClass, text) => {
+    const el = document.getElementById(id);
+    if (!el) return;
+    if (text) {
+      el.innerHTML = `<i class="fa ${iconClass} pink mr-1" aria-hidden="true"></i> ${escapeHtml(text)}`;
+      el.classList.remove('d-none');
+    } else {
+      el.classList.add('d-none');
+    }
+  };
+  setOptionalInfoCell('minimumAge', 'fa-user', tour.minimumAge ? `${trEn('Min. Yaş', 'Min. Age')} : ${tour.minimumAge}` : '');
+  setOptionalInfoCell('tourMeetPoint', 'fa-map-marker', tour.meet);
+  setOptionalInfoCell('tourDepartureCity', 'fa-plane', tour.departureCity);
+
   const setImg = (id, url) => {
     const img = document.getElementById(id);
     if (!img) return;

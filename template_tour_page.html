@@ -1113,14 +1113,28 @@
                                     <tr>
                                         <td id="durationDays"><i class="fa fa-clock-o pink mr-1" aria-hidden="true"></i>
                                         </td>
-                                        <td id="minimumAge"><i class="fa fa-user pink mr-1" aria-hidden="true"></i> Min.
-                                            Yaş : 13+</td>
+                                        <td id="minimumAge" class="d-none"><i class="fa fa-user pink mr-1" aria-hidden="true"></i></td>
                                         <td><i class="fa fa-file-alt pink mr-1" aria-hidden="true"></i> Dil - Türkçe,
                                             English</td>
+                                        <td id="tourMeetPoint" class="d-none"><i class="fa fa-map-marker pink mr-1" aria-hidden="true"></i></td>
+                                        <td id="tourDepartureCity" class="d-none"><i class="fa fa-plane pink mr-1" aria-hidden="true"></i></td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
+                        <style>
+                            /* .tour-includes 3 sabit hücre icin tasarlanmisti; Min Yas/Bulusma/Kalkis
+                               Sehri artik dinamik olarak gizlenip gosterilebildigi ve satir 5 hucreye
+                               kadar cikabildigi icin kucuk ekranda yan yana sikismak yerine alt alta dizilsin. */
+                            @media (max-width: 767.98px) {
+                                .tour-includes table, .tour-includes tbody, .tour-includes tr {
+                                    display: block; width: 100%;
+                                }
+                                .tour-includes td {
+                                    display: block; width: 100%; box-sizing: border-box;
+                                }
+                            }
+                        </style>
 
                         <div class="tour-departures-section mb-4" id="tourDeparturesSection" style="display:none;">
                             <h4 id="tourDeparturesTitle">Kalkış Tarihleri ve Fiyatlar</h4>
