@@ -12,6 +12,9 @@ data/*
 .DS_Store
 Thumbs.db
 
+# Wrangler CLI local cache/config
+.wrangler/
+
 # IDE / editor
 .claude/
 .vscode/
