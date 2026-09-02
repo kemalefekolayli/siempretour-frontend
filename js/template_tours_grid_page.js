@@ -44,6 +44,12 @@ async function loadTours() {
     renderShipCompanies();
   }
 
+  // "Kübada Sağlık Turizmi" tabını sadece Küba sayfasında göster
+  if (country === 'Cuba') {
+    const cubaHealthTabItem = document.getElementById('cuba-health-tab-item');
+    if (cubaHealthTabItem) cubaHealthTabItem.classList.remove('d-none');
+  }
+
   // Backend has legacy TR cruise tours as Ship/Cruise and EN cruise tours as Ship.
   const backendCategory = isShipCategory(categoryParam)
     ? (isEn ? 'Ship' : 'Ship/Cruise')
