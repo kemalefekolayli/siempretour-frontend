@@ -603,6 +603,7 @@
     var id = new URLSearchParams(location.search).get("id");
     var form = document.getElementById("tour-form");
     var imageInput = document.getElementById("tour-images");
+    var pdfInput = document.getElementById("tour-pdf");
     activeTourFormId = id || "";
     var draftKey = getTourDraftKey(id);
     activeTourDraftKey = draftKey;
@@ -614,6 +615,7 @@
       });
     });
     imageInput.addEventListener("change", uploadImages);
+    if (pdfInput) pdfInput.addEventListener("change", uploadPdf);
 
     await loadMetadata();
 
@@ -736,7 +738,7 @@
   }
 
   function fillTourForm(tour) {
-    ["name", "slug", "language", "destination", "departureCity", "duration", "price", "discountedPrice", "dates", "minimumAge", "personNumber", "mainPhoto", "image1", "image2", "image3", "image4", "image5", "image6", "imagealt", "generalInfo", "placesVisited", "whatExpect", "meet"].forEach(function (field) {
+    ["name", "slug", "language", "destination", "departureCity", "duration", "price", "discountedPrice", "dates", "minimumAge", "personNumber", "mainPhoto", "image1", "image2", "image3", "image4", "image5", "image6", "imagealt", "detailPdfUrl", "generalInfo", "placesVisited", "whatExpect", "meet"].forEach(function (field) {
       var node = document.querySelector('[name="' + field + '"]');
       if (node) node.value = tour[field] || "";
     });
@@ -803,6 +805,7 @@
     tourImageFields.forEach(function (field) {
       if (!data[field]) data[field] = "";
     });
+    if (!data.detailPdfUrl) data.detailPdfUrl = "";
     return data;
   }
 
@@ -889,6 +892,64 @@
       setUploadStatus("Görsel yükleme başarısız: " + (error.message || "HTTP hatası"));
       toast("Görsel yükleme başarısız.");
       */
+    } finally {
+      if (input) {
+        input.disabled = false;
+        input.value = "";
+      }
+    }
+  }
+
+  function setPdfUploadStatus(message) {
+    var node = document.getElementById("pdf-upload-status");
+    if (node) node.textContent = message || "";
+  }
+
+  async function uploadPdf(event) {
+    if (event) {
+      event.preventDefault();
+      event.stopPropagation();
+    }
+
+    var input = event && event.currentTarget ? event.currentTarget : document.getElementById("tour-pdf");
+    var file = input && input.files ? input.files[0] : null;
+    if (!file) return;
+    saveTourDraft(activeTourDraftKey);
+
+    if (file.type !== "application/pdf") {
+      setPdfUploadStatus(file.name + " bir PDF dosyası değil.");
+      if (input) input.value = "";
+      return;
+    }
+    if (file.size > 20 * 1024 * 1024) {
+      setPdfUploadStatus(file.name + " 20 MB sınırından büyük.");
+      if (input) input.value = "";
+      return;
+    }
+
+    setPdfUploadStatus("PDF yükleniyor...");
+    if (input) input.disabled = true;
+
+    try {
+      var response = await ApiService.adminUploadTourPdf(file);
+      if (response && response.pdfUrl) {
+        var pdfField = document.querySelector('[name="detailPdfUrl"]');
+        if (pdfField) pdfField.value = response.pdfUrl;
+        saveTourDraft(activeTourDraftKey);
+        setPdfUploadStatus("PDF yüklendi.");
+        toast("PDF yüklendi.");
+      } else {
+        var message = "PDF yüklenemedi." + (response && response.warning ? " " + response.warning : "");
+        setPdfUploadStatus(message);
+        toast("PDF yüklenemedi.");
+      }
+    } catch (error) {
+      var authError = error && (error.status === 401 || error.status === 403);
+      var message = authError
+        ? "Oturum suresi doldu veya admin yetkisi yok. Lutfen tekrar giris yapin."
+        : "PDF yukleme basarisiz: " + (error.message || "HTTP hatasi");
+      setPdfUploadStatus(message);
+      toast(authError ? "Oturum suresi doldu." : "PDF yukleme basarisiz.");
     } finally {
       if (input) {
         input.disabled = false;

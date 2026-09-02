@@ -208,6 +208,12 @@ class ApiService {
         return this.upload('/admin/tours/images', formData, true);
     }
 
+    static async adminUploadTourPdf(file) {
+        const formData = new FormData();
+        formData.append('file', file);
+        return this.upload('/admin/tours/pdf', formData, true);
+    }
+
     // Bookings
     static async createBooking(bookingData) {
         return this.request('/bookings', 'POST', bookingData, true); // Assuming booking requires auth? Or maybe not? Check controller. 

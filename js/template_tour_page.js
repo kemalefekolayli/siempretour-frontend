@@ -76,6 +76,17 @@ function renderTour(tour) {
   //     `background-image:url(${tour.mainPhoto});`;
   // }
 
+  const pdfBtn = document.getElementById('tourGuidePdfBtn');
+  if (pdfBtn) {
+    if (tour.detailPdfUrl) {
+      pdfBtn.href = resolveAssetUrl(tour.detailPdfUrl);
+      pdfBtn.classList.remove('d-none');
+    } else {
+      pdfBtn.classList.add('d-none');
+      pdfBtn.removeAttribute('href');
+    }
+  }
+
   document.getElementById('placesVisited').textContent = tour.placesVisited || "";
   document.getElementById('generalInfo').innerHTML = tour.generalInfo || "";
   document.getElementById('whatExpect').innerHTML = tour.whatExpect || "";
