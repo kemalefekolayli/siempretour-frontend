@@ -51,20 +51,21 @@ async function loadTours() {
 
     // Anasayfadaki "Kübada Sağlık Turizmi ile İlgili Bilgi Alın" butonu buraya
     // #cuba-health-tab-pane hash'iyle geliyor: sekmeyi otomatik ac ve kaydir.
-    // Diger tab scriptleri (ör. template_tour_grid_page_2.js) kendi async
-    // veri kontrolleri bitince "Turlar" sekmesini tekrar aktif yapabiliyor,
-    // bu yuzden bootstrap Tab API'sine ek olarak class'lari elle de zorluyoruz
-    // ve yarisi kaybetmemek icin birkac kez (artan gecikmelerle) tekrarliyoruz.
+    // Diger tab scriptleri (ör. template_tour_grid_page_2.js, bu dosyadan SONRA
+    // yukleniyor) kendi async veri kontrolleri bitince "Turlar" sekmesini
+    // tekrar aktif hale getirebiliyor - sabit gecikmelerle yarisi kazanmaya
+    // calismak yerine, tab class'larindaki HER degisikligi izleyip Kuba
+    // sekmesi aktif degilse aninda geri duzeltiyoruz (MutationObserver).
     if (window.location.hash === '#cuba-health-tab-pane') {
       const activateCubaHealthTab = () => {
         const cubaHealthTabBtn = document.getElementById('cuba-health-tab');
         const cubaHealthPane = document.getElementById('cuba-health-tab-pane');
         if (!cubaHealthTabBtn || !cubaHealthPane) return;
+        if (cubaHealthPane.classList.contains('active') && cubaHealthPane.classList.contains('show')) return;
 
         if (window.bootstrap && window.bootstrap.Tab) {
           window.bootstrap.Tab.getOrCreateInstance(cubaHealthTabBtn).show();
         }
-
         // Bootstrap API'si bir sebeple tutunmazsa diye class'ları da elle sabitle.
         document.querySelectorAll('#myTab .nav-link').forEach((btn) => {
           const isTarget = btn === cubaHealthTabBtn;
@@ -78,11 +79,30 @@ async function loadTours() {
         });
       };
 
-      [0, 300, 800, 1500].forEach((delay) => setTimeout(activateCubaHealthTab, delay));
+      activateCubaHealthTab();
       setTimeout(() => {
         const pane = document.getElementById('cuba-health-tab-pane');
         if (pane) pane.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }, 850);
+      }, 200);
+
+      const myTabEl = document.getElementById('myTab');
+      const myTabContentEl = document.getElementById('myTabContent');
+      if (myTabEl && myTabContentEl && window.MutationObserver) {
+        let watching = true;
+        const observer = new MutationObserver(() => {
+          if (watching) activateCubaHealthTab();
+        });
+        observer.observe(myTabEl, { attributes: true, attributeFilter: ['class'], subtree: true });
+        observer.observe(myTabContentEl, { attributes: true, attributeFilter: ['class'], subtree: true });
+
+        // Kullanıcı elle başka bir sekmeye tıklarsa müdahaleyi bırak.
+        myTabEl.querySelectorAll('.nav-link').forEach((btn) => {
+          if (btn.id !== 'cuba-health-tab') {
+            btn.addEventListener('click', () => { watching = false; observer.disconnect(); }, { once: true });
+          }
+        });
+        setTimeout(() => { watching = false; observer.disconnect(); }, 8000);
+      }
     }
   }
 
