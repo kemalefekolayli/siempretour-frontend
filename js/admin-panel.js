@@ -248,8 +248,11 @@
   // Admin sayfaları /admin/ altında olduğu için göreli görsel yollarını bir üst dizine çöz
   function resolveImageUrl(url) {
     if (!url) return "";
-    if (/^(https?:)?\/\//.test(url) || url.charAt(0) === "/") return url;
-    return "../" + url.replace(/^\.\//, "");
+    var resolved = window.AssetCdn && typeof window.AssetCdn.resolve === "function"
+      ? window.AssetCdn.resolve(url)
+      : url;
+    if (/^(https?:)?\/\//.test(resolved) || resolved.charAt(0) === "/") return resolved;
+    return "../" + resolved.replace(/^\.\//, "");
   }
 
   function imageFor(tour) {
@@ -1044,7 +1047,7 @@
     list.innerHTML = hpSection1.map(function (card, i) {
       return [
         '<div class="hp-row" data-index="' + i + '">',
-        '<img class="hp-row__thumb" src="' + hpEsc(card.imageUrl || "") + '" alt="" onerror="this.style.opacity=0.3">',
+        '<img class="hp-row__thumb" src="' + hpEsc(resolveImageUrl(card.imageUrl || "")) + '" alt="" onerror="this.style.opacity=0.3">',
         '<div class="hp-row__fields">',
         '<input class="hp-f-image" type="text" placeholder="Görsel URL (veya aşağıdan yükleyin)" value="' + hpEsc(card.imageUrl || "") + '">',
         '<input class="hp-f-file" type="file" accept="image/*">',
@@ -1119,7 +1122,7 @@
     wrap.innerHTML = hpSection2.map(function (t, i) {
       return [
         '<div class="hp-selected__item" data-index="' + i + '">',
-        '<img src="' + hpEsc(t.mainPhoto || "") + '" alt="" onerror="this.style.opacity=0.3">',
+        '<img src="' + hpEsc(resolveImageUrl(t.mainPhoto || "")) + '" alt="" onerror="this.style.opacity=0.3">',
         '<div class="hp-selected__meta"><strong>' + hpEsc(t.name || t.slug) + '</strong><br><small>' + hpEsc(t.destination || "") + ' · ' + hpEsc(t.slug) + '</small></div>',
         '<button class="admin-btn hp-s2-up" type="button" title="Yukarı">↑</button>',
         '<button class="admin-btn hp-s2-down" type="button" title="Aşağı">↓</button>',
@@ -1163,7 +1166,7 @@
       results.innerHTML = tours.map(function (t, idx) {
         return [
           '<div class="hp-result" data-idx="' + idx + '">',
-          '<img src="' + hpEsc(t.mainPhoto || "") + '" alt="" onerror="this.style.opacity=0.3">',
+          '<img src="' + hpEsc(resolveImageUrl(t.mainPhoto || "")) + '" alt="" onerror="this.style.opacity=0.3">',
           '<div class="hp-result__meta"><strong>' + hpEsc(t.name) + '</strong><br><small>' + hpEsc(t.destination || "") + ' · ' + hpEsc(t.language || "") + ' · ' + hpEsc(t.status || "") + '</small></div>',
           '<button class="admin-btn primary hp-add" type="button">Ekle</button>',
           '</div>'
@@ -1413,7 +1416,13 @@
     var draft = null;
 
     function sEsc(s) { return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); }
-    function assetUrl(u) { if (!u) return ""; return /^https?:\/\//.test(u) ? u : "../" + String(u).replace(/^\//, ""); }
+    function assetUrl(u) {
+      if (!u) return "";
+      var resolved = window.AssetCdn && typeof window.AssetCdn.resolve === "function"
+        ? window.AssetCdn.resolve(u)
+        : u;
+      return /^https?:\/\//.test(resolved) ? resolved : "../" + String(resolved).replace(/^\//, "");
+    }
     function clone(o) { return JSON.parse(JSON.stringify(o)); }
 
     async function load() {

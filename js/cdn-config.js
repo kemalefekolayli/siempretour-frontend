@@ -104,4 +104,54 @@
       rewriteStaticImgTags();
     }
   }
+
+  // Safety net: several pages re-render sections after the initial load
+  // (homepage-sections.js replaces the homepage carousels with API data,
+  // admin-panel.js re-renders previews, etc.) and any of those - present or
+  // future - could insert a raw, unresolved images/tour-photos|gemi/... path
+  // the same way the static-HTML case above did. Rather than relying on every
+  // such script remembering to call AssetCdn.resolve() itself, watch the DOM
+  // for new/changed <img> and background-image elements and fix them on
+  // sight. Debounced so bursts of unrelated DOM churn only sweep once.
+  if (typeof document !== "undefined" && typeof MutationObserver !== "undefined") {
+    var sweepPending = false;
+    function scheduleSweep() {
+      if (sweepPending) return;
+      sweepPending = true;
+      var run = function () {
+        sweepPending = false;
+        rewriteStaticImgTags();
+      };
+      if (typeof requestAnimationFrame === "function") requestAnimationFrame(run);
+      else setTimeout(run, 50);
+    }
+
+    var startObserver = function () {
+      if (!document.body) return;
+      new MutationObserver(function (mutations) {
+        for (var i = 0; i < mutations.length; i++) {
+          var m = mutations[i];
+          if (m.type === "childList" && m.addedNodes.length) {
+            scheduleSweep();
+            return;
+          }
+          if (m.type === "attributes") {
+            scheduleSweep();
+            return;
+          }
+        }
+      }).observe(document.body, {
+        childList: true,
+        subtree: true,
+        attributes: true,
+        attributeFilter: ["src", "style"]
+      });
+    };
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", startObserver);
+    } else {
+      startObserver();
+    }
+  }
 })();

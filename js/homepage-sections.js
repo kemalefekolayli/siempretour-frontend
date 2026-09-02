@@ -10,6 +10,12 @@
     return "tr";
   }
 
+  function resolveAssetUrl(url) {
+    return window.AssetCdn && typeof window.AssetCdn.resolve === "function"
+      ? window.AssetCdn.resolve(url)
+      : url;
+  }
+
   function esc(value) {
     return String(value == null ? "" : value)
       .replace(/&/g, "&amp;")
@@ -38,7 +44,7 @@
       '<div class="col-lg-2 p-1">' +
       '<div class="trend-item1-carousel w-100 mb-3 mb-lg-0">' +
       '<div class="trend-image position-relative">' +
-      '<img loading="lazy" src="' + esc(card.imageUrl) + '" alt="' + title + '" />' +
+      '<img loading="lazy" src="' + esc(resolveAssetUrl(card.imageUrl)) + '" alt="' + title + '" />' +
       '<div class="overlay-text">' +
       '<div class="trend-content align-self-center">' +
       '<div class="trend-content-title text-center">' +
@@ -60,7 +66,7 @@
       esc(detailUrl(tour.slug, tour.destination, lang)) + '">' +
       '<div class="trend-item1-carousel w-100 mb-3 mb-lg-0 align-content-center position-relative">' +
       '<div class="trend-image position-relative">' +
-      '<img loading="lazy" src="' + esc(tour.mainPhoto) + '" alt="' + esc(tour.name) + '" />' +
+      '<img loading="lazy" src="' + esc(resolveAssetUrl(tour.mainPhoto)) + '" alt="' + esc(tour.name) + '" />' +
       '<div class="overlay-text">' +
       '<div class="trend-content d-flex align-items-end justify-content-between position-absolute bottom-0 p-3 w-100 z-index">' +
       '<div class="trend-content-title">' +

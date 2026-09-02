@@ -1,5 +1,14 @@
-const BASE = 'https://siempretour.com/images/gemi/fotolar/';
+// images/gemi/ moved to R2 (cdn.siempretour.com) - this used to point at
+// siempretour.com directly, which 404s now that the folder isn't part of
+// the Pages deployment anymore.
+const BASE = 'https://cdn.siempretour.com/images/gemi/fotolar/';
 const DECK_BASE_URL = BASE;
+
+function resolveAssetUrl(url) {
+  return window.AssetCdn && typeof window.AssetCdn.resolve === 'function'
+    ? window.AssetCdn.resolve(url)
+    : url;
+}
 
 const SHIP_DETAIL_DATA = {
 
@@ -1171,7 +1180,7 @@ function renderHero(ship) {
 }
 
 function renderPhotos(ship) {
-  const photos = ship.photos || [];
+  const photos = (ship.photos || []).map(resolveAssetUrl);
   if (!photos.length) {
     document.getElementById('photos').style.display = 'none';
     return;
@@ -1219,7 +1228,7 @@ function renderCabins(ship) {
     <div class="col-lg-3 col-md-6 mb-4" data-cabin-card>
       <div class="ship-company-card">
         <div class="ratio ratio-4x3 overflow-hidden" style="position:relative;">
-          <img loading="lazy" class="hover-zoom" src="${c.image}" alt="${c.label}"
+          <img loading="lazy" class="hover-zoom" src="${resolveAssetUrl(c.image)}" alt="${c.label}"
             onerror="this.closest('[data-cabin-card]').remove(); if (!document.querySelector('#ship-cabins-grid [data-cabin-card]')) document.getElementById('cabins').style.display = 'none';">
           ${c.temsili ? '<span style="position:absolute;top:8px;left:8px;background:rgba(0,0,0,.65);color:#fff;font-size:11px;padding:2px 7px;border-radius:4px;z-index:2;">Temsili görsel</span>' : ''}
         </div>
