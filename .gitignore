@@ -40,9 +40,17 @@ reports/tour-mojibake-report.json
 images/tour-photos/
 images/gemi/
 images/tour.mp4
-images/siempre-video1.mp4
 images/austria-carosel/
 avrupa-turlari.zip
+
+# images/siempre-video1.mp4 is an exception: it's the homepage hero
+# background video (index.html), actually referenced by the live site.
+# It was never git-tracked, so every Pages deploy since the migration
+# off the old non-git deploy method has been missing it - it only
+# "worked" for some visitors because a handful of Cloudflare edges
+# still had it cached from before. Committing it directly (5.8MB, well
+# within Pages' per-file/file-count limits) makes it a normal asset
+# like avrupa-turlari/siempretour-images, no CDN routing needed.
 
 # Browser profile data (accidentally committed)
 .edge-profile-shot/
