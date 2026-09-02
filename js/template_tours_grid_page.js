@@ -51,15 +51,38 @@ async function loadTours() {
 
     // Anasayfadaki "Kübada Sağlık Turizmi ile İlgili Bilgi Alın" butonu buraya
     // #cuba-health-tab-pane hash'iyle geliyor: sekmeyi otomatik ac ve kaydir.
+    // Diger tab scriptleri (ör. template_tour_grid_page_2.js) kendi async
+    // veri kontrolleri bitince "Turlar" sekmesini tekrar aktif yapabiliyor,
+    // bu yuzden bootstrap Tab API'sine ek olarak class'lari elle de zorluyoruz
+    // ve yarisi kaybetmemek icin birkac kez (artan gecikmelerle) tekrarliyoruz.
     if (window.location.hash === '#cuba-health-tab-pane') {
-      const cubaHealthTabBtn = document.getElementById('cuba-health-tab');
-      if (cubaHealthTabBtn && window.bootstrap && window.bootstrap.Tab) {
-        new window.bootstrap.Tab(cubaHealthTabBtn).show();
-        setTimeout(() => {
-          const pane = document.getElementById('cuba-health-tab-pane');
-          if (pane) pane.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }, 150);
-      }
+      const activateCubaHealthTab = () => {
+        const cubaHealthTabBtn = document.getElementById('cuba-health-tab');
+        const cubaHealthPane = document.getElementById('cuba-health-tab-pane');
+        if (!cubaHealthTabBtn || !cubaHealthPane) return;
+
+        if (window.bootstrap && window.bootstrap.Tab) {
+          window.bootstrap.Tab.getOrCreateInstance(cubaHealthTabBtn).show();
+        }
+
+        // Bootstrap API'si bir sebeple tutunmazsa diye class'ları da elle sabitle.
+        document.querySelectorAll('#myTab .nav-link').forEach((btn) => {
+          const isTarget = btn === cubaHealthTabBtn;
+          btn.classList.toggle('active', isTarget);
+          btn.setAttribute('aria-selected', isTarget ? 'true' : 'false');
+        });
+        document.querySelectorAll('#myTabContent .tab-pane').forEach((pane) => {
+          const isTarget = pane === cubaHealthPane;
+          pane.classList.toggle('show', isTarget);
+          pane.classList.toggle('active', isTarget);
+        });
+      };
+
+      [0, 300, 800, 1500].forEach((delay) => setTimeout(activateCubaHealthTab, delay));
+      setTimeout(() => {
+        const pane = document.getElementById('cuba-health-tab-pane');
+        if (pane) pane.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 850);
     }
   }
 
