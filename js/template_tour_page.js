@@ -189,6 +189,95 @@ function renderDepartures(tour) {
   section.style.display = "";
 }
 
+// ---- Benzer turlar ("Beğenebileceğiniz Farklı Turlara Göz Atın") ----
+
+// Admin panelinden elle girilen turlar (adminCreated) her zaman önce gelir.
+// Admin turları kendi içinde en yeni eklenen önce, seed turlar ise gün sayısı
+// çoktan aza sıralanır (sitedeki diğer tur listeleriyle aynı klasik kural).
+function compareSimilarTours(a, b) {
+  const aAdmin = a && a.adminCreated === true;
+  const bAdmin = b && b.adminCreated === true;
+  if (aAdmin !== bAdmin) return aAdmin ? -1 : 1;
+
+  if (aAdmin) {
+    const ta = (a && a.createdAt) ? new Date(a.createdAt).getTime() : 0;
+    const tb = (b && b.createdAt) ? new Date(b.createdAt).getTime() : 0;
+    return tb - ta;
+  }
+  const da = parseInt(a && a.durationDays, 10) || 0;
+  const db = parseInt(b && b.durationDays, 10) || 0;
+  return db - da;
+}
+
+function similarTourDetailUrl(tour) {
+  if (!tour || !tour.slug || !tour.destination) return "#";
+  const selectedLang = typeof getSelectedLang === 'function' ? getSelectedLang() : activeLang();
+  let url = `template_tour_page.html?id=${encodeURIComponent(tour.slug)}&country=${encodeURIComponent(tour.destination)}`;
+  const detailLang = selectedLang && selectedLang !== "tr" ? selectedLang : (tour.language || activeLang());
+  if (detailLang !== "tr") url += `&lang=${encodeURIComponent(detailLang)}`;
+  return url;
+}
+
+function similarTourCardHtml(tour) {
+  const image = resolveAssetUrl(tour.image1 || tour.mainPhoto || "");
+  const alt = tour.imagealt || tour.tourName || "Tour image";
+  const days = tour.durationDays || "";
+  const title = tour.tourName || "";
+  const places = tour.placesVisited || "";
+  const destTr = typeof countryNameTr === 'function' && tour.destination ? countryNameTr(tour.destination) : (tour.destination || "");
+  const url = similarTourDetailUrl(tour);
+  const priceHtml = window.TourCardFormat ? window.TourCardFormat.priceHtml(tour, isEnglishLang()) : "";
+  const datesHtml = window.TourCardFormat ? window.TourCardFormat.datesHtml(tour, isEnglishLang()) : "";
+  return `
+    <div class="tour-card col-lg-4 col-md-6 mb-4">
+      <div class="pb-4 mb-0">
+        <div class="ratio ratio-16x9 overflow-hidden">
+          ${image ? `<img loading="lazy" class="hover-zoom" src="${escapeHtml(image)}" alt="${escapeHtml(alt)}">` : ""}
+          <div class="color-overlay"></div>
+        </div>
+        <div class="trend-content p-0 pt-2 position-relative">
+          <div class="entry-meta d-flex justify-content-between align-items-center mb-0">
+            <div class="entry-author"><p class="mb-0">${days ? (isEnglishLang() ? `${escapeHtml(days)}-day tour` : `${escapeHtml(days)} günlük tur`) : ""}</p></div>
+            ${destTr ? `<div class="entry-price text-end"><p class="mb-0"><i class="fa fa-map-marker-alt"></i> ${escapeHtml(destTr)}</p></div>` : ""}
+          </div>
+          <h5 class="mb-1"><a href="${url}">${escapeHtml(title)}</a></h5>
+          ${priceHtml}
+          <p class="border-b pb-2 mb-2">${escapeHtml(places)}</p>
+          ${datesHtml}
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+async function loadSimilarTours(tour) {
+  const container = document.getElementById("similarTours");
+  const section = container ? container.closest("section.similar-tours") : null;
+  if (!container || !tour || !tour.category) {
+    if (section) section.style.display = "none";
+    return;
+  }
+
+  try {
+    const filter = { category: tour.category, language: tour.language || activeLang(), isActive: true };
+    const res = await ApiService.filterTours(filter, 0, 30);
+    const candidates = (res && Array.isArray(res.content)) ? res.content : [];
+    const others = candidates.filter(t => t && t.id !== tour.id);
+
+    if (!others.length) {
+      if (section) section.style.display = "none";
+      return;
+    }
+
+    const top3 = others.sort(compareSimilarTours).slice(0, 3);
+    container.innerHTML = top3.map(similarTourCardHtml).join("");
+    if (section) section.style.display = "";
+  } catch (err) {
+    console.error("Benzer turlar yüklenirken hata:", err);
+    if (section) section.style.display = "none";
+  }
+}
+
 function renderStars(rating) {
   const value = Math.max(0, Math.min(5, Number(rating) || 0));
   return `${"★".repeat(value)}${"☆".repeat(5 - value)}`;
@@ -383,6 +472,7 @@ async function loadTour() {
       return;
     }
     renderTour(tour);
+    loadSimilarTours(tour);
   } catch (err) {
     console.error("Tur yüklenirken hata:", err);
   }

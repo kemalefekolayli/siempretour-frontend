@@ -7939,6 +7939,15 @@ ul.sidebar-tags li a:hover {
   place-self: center;
 }
 
+.brand-mark-section {
+  text-align: center;
+}
+.brand-mark-section img {
+  width: 72px;
+  display: inline-block;
+  margin: 0 auto;
+}
+
 .explore-tour-btn a{
   background-color: transparent;
   border: 1px solid white;
