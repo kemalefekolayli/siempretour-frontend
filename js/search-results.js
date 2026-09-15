@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', function () {
   var emptyBox = document.getElementById('resultsEmpty');
   var loadMoreWrap = document.getElementById('loadMoreWrap');
   var loadMoreBtn = document.getElementById('loadMoreBtn');
+  var durationSortAscBtn = document.getElementById('durationSortAsc');
+  var durationSortDescBtn = document.getElementById('durationSortDesc');
 
   var PAGE_SIZE = 30;
 
@@ -23,8 +25,30 @@ document.addEventListener('DOMContentLoaded', function () {
   var state = {
     destination: params.get('destination') || '',
     category: params.get('category') || '',
-    event: params.get('event') || ''
+    event: params.get('event') || '',
+    // null | 'asc' | 'desc' -- gün sayısına göre sıralama; admin turu/seed tur hiyerarşisini bozmaz (backend garantiler)
+    durationSort: (params.get('durationSort') === 'asc' || params.get('durationSort') === 'desc') ? params.get('durationSort') : null
   };
+
+  function updateDurationSortButtons() {
+    if (durationSortAscBtn) durationSortAscBtn.classList.toggle('active', state.durationSort === 'asc');
+    if (durationSortDescBtn) durationSortDescBtn.classList.toggle('active', state.durationSort === 'desc');
+  }
+
+  if (durationSortAscBtn) {
+    durationSortAscBtn.addEventListener('click', function () {
+      state.durationSort = state.durationSort === 'asc' ? null : 'asc';
+      updateDurationSortButtons();
+      runSearch();
+    });
+  }
+  if (durationSortDescBtn) {
+    durationSortDescBtn.addEventListener('click', function () {
+      state.durationSort = state.durationSort === 'desc' ? null : 'desc';
+      updateDurationSortButtons();
+      runSearch();
+    });
+  }
 
   // Sorgu durumu
   var page = 0;
@@ -62,6 +86,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // --- Kontrolleri URL'den doldur ---
   if (catSelect) catSelect.value = state.category;
   if (eventSelect) eventSelect.value = state.event;
+  updateDurationSortButtons();
   if (locInput && state.destination) {
     locInput.value = (typeof countryTrName === 'function') ? countryTrName(state.destination) : state.destination;
     locInput.dataset.countryKey = state.destination;
@@ -100,6 +125,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (state.destination) p.set('destination', state.destination);
     if (state.category) p.set('category', state.category);
     if (state.event) p.set('event', state.event);
+    if (state.durationSort) p.set('durationSort', state.durationSort);
     var selectedLang = typeof getSelectedLang === 'function' ? getSelectedLang() : lang();
     if (selectedLang !== 'tr') p.set('lang', selectedLang);
     var qs = p.toString();
@@ -197,7 +223,8 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     try {
-      var res = await ApiService.filterTours(buildDto(), targetPage, PAGE_SIZE);
+      var sortBy = state.durationSort ? 'duration' : null;
+      var res = await ApiService.filterTours(buildDto(), targetPage, PAGE_SIZE, sortBy, state.durationSort);
       var tours = (res && Array.isArray(res.content)) ? res.content : [];
       totalElements = (res && typeof res.totalElements === 'number') ? res.totalElements : tours.length;
       totalPages = (res && typeof res.totalPages === 'number') ? res.totalPages : 1;

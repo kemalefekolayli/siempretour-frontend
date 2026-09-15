@@ -25,6 +25,11 @@
       .filter-bar .search-btn-wrap { flex:0 0 auto; }
       .filter-bar .search-btn { height:46px; border:none; background:#111; color:#fff; padding:0 30px; border-radius:8px; font-size:14px; font-weight:500; cursor:pointer; display:inline-flex; align-items:center; gap:8px; }
       .filter-bar .search-btn:hover { background:#000; }
+      .duration-sort-row { display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin:14px 2px 0; }
+      .duration-sort-label { font-size:12px; font-weight:600; letter-spacing:.04em; text-transform:uppercase; color:#999; }
+      .duration-sort-btn { border:1px solid #e0ddd8; background:#fff; color:#333; border-radius:20px; padding:7px 16px; font-size:13px; cursor:pointer; display:inline-flex; align-items:center; gap:6px; transition:background .15s,color .15s,border-color .15s; }
+      .duration-sort-btn:hover { border-color:#b1aeab; }
+      .duration-sort-btn.active { background:#111; border-color:#111; color:#fff; }
       .results-heading { color:#555; font-size:14px; margin:18px 2px 22px; font-weight:500; }
       .results-empty { display:none; text-align:center; padding:50px 20px; color:#777; }
       .results-empty .eye-icon img { width:54px; opacity:.6; margin-bottom:14px; }
@@ -851,6 +856,12 @@
           <div class="search-btn-wrap">
             <button id="searchBtn" class="search-btn"><i class="fa fa-search"></i> Ara</button>
           </div>
+        </div>
+
+        <div class="duration-sort-row">
+          <span class="duration-sort-label">Gün Sayısına Göre Sırala</span>
+          <button type="button" id="durationSortAsc" class="duration-sort-btn"><i class="fa fa-sort-numeric-asc"></i> Artan</button>
+          <button type="button" id="durationSortDesc" class="duration-sort-btn"><i class="fa fa-sort-numeric-desc"></i> Azalan</button>
         </div>
 
         <p id="resultsHeading" class="results-heading"></p>

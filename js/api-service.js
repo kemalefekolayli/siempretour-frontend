@@ -289,8 +289,11 @@ class ApiService {
         return this.request(`/tours/by-slug/${encodeURIComponent(slug)}?lang=${encodeURIComponent(lang)}`);
     }
 
-    static async filterTours(filterDto, page = 0, size = 50) {
-        return this.request(`/tours/filter?page=${page}&size=${size}`, 'POST', filterDto);
+    static async filterTours(filterDto, page = 0, size = 50, sortBy = null, sortDirection = null) {
+        let endpoint = `/tours/filter?page=${page}&size=${size}`;
+        if (sortBy) endpoint += `&sortBy=${encodeURIComponent(sortBy)}`;
+        if (sortDirection) endpoint += `&sortDirection=${encodeURIComponent(sortDirection)}`;
+        return this.request(endpoint, 'POST', filterDto);
     }
 
     // Homepage (dynamic index.html sections)

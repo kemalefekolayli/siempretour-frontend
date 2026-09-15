@@ -7253,6 +7253,35 @@ ul.sidebar-event1 input[type="radio"] {
   border-color: #333;
   color: #111;
 }
+.duration-sort-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+.duration-sort-btn {
+  flex: 1 1 auto;
+  border: 1px solid #ccc;
+  background: #fff;
+  color: #333;
+  border-radius: 4px;
+  padding: 6px 10px;
+  font-size: 0.82rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  transition: background .15s, color .15s, border-color .15s;
+}
+.duration-sort-btn:hover {
+  border-color: #333;
+}
+.duration-sort-btn.active {
+  background: #0b1117;
+  border-color: #0b1117;
+  color: #fff;
+}
 /* Compact version for tours grid filter sidebar */
 .sidebar-sticky.sidebar-sticky-center .list-sidebar .sidebar-item {
   padding: 0 0 18px;

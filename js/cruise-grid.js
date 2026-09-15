@@ -7,6 +7,32 @@
   var loaded = false;
   var PAGE_SIZE = 30;
   var FALLBACK_IMAGE = 'images/cruise/cruise-banner.jpg';
+  var durationSortMode = null; // null | 'asc' | 'desc'
+
+  // Admin panelinden elle girilen turlar (adminCreated) her zaman önce gelir.
+  // Artan/Azalan butonu aktifse iki grup da aynı yönde gün sayısına göre sıralanır;
+  // aksi halde admin turları en yeni eklenen önde, seed turlar gün sayısı çoktan aza sıralanır.
+  function compareCruises(a, b) {
+    var aAdmin = a && a.adminCreated === true;
+    var bAdmin = b && b.adminCreated === true;
+    if (aAdmin !== bAdmin) return aAdmin ? -1 : 1;
+
+    var da = parseInt(a && a.durationDays, 10) || 0;
+    var db = parseInt(b && b.durationDays, 10) || 0;
+    if (durationSortMode === 'asc') return da - db;
+    if (durationSortMode === 'desc') return db - da;
+
+    if (aAdmin) {
+      var ta = (a && a.createdAt) ? new Date(a.createdAt).getTime() : 0;
+      var tb = (b && b.createdAt) ? new Date(b.createdAt).getTime() : 0;
+      return tb - ta;
+    }
+    return db - da;
+  }
+
+  function sortCruises(list) {
+    return (list || []).slice().sort(compareCruises);
+  }
 
   function getLang() {
     return typeof getActiveLang === 'function' ? getActiveLang() : 'tr';
@@ -212,7 +238,7 @@
       return true;
     });
 
-    renderCards(filtered);
+    renderCards(sortCruises(filtered));
   }
 
   function debouncedApply() {
@@ -280,7 +306,7 @@
         allCruises = tours || [];
         loaded = true;
         buildFilterOptions();
-        renderCards(allCruises);
+        renderCards(sortCruises(allCruises));
       })
       .catch(function (err) {
         console.error('Gemi turları yüklenirken hata:', err);
@@ -317,6 +343,27 @@
         if (durationSel) durationSel.value = '';
         if (startEl) startEl.value = '';
         if (endEl) endEl.value = '';
+        applyFilters();
+      });
+    }
+
+    var sortAscBtn = document.getElementById('durationSortAsc');
+    var sortDescBtn = document.getElementById('durationSortDesc');
+    function updateSortButtons() {
+      if (sortAscBtn) sortAscBtn.classList.toggle('active', durationSortMode === 'asc');
+      if (sortDescBtn) sortDescBtn.classList.toggle('active', durationSortMode === 'desc');
+    }
+    if (sortAscBtn) {
+      sortAscBtn.addEventListener('click', function () {
+        durationSortMode = durationSortMode === 'asc' ? null : 'asc';
+        updateSortButtons();
+        applyFilters();
+      });
+    }
+    if (sortDescBtn) {
+      sortDescBtn.addEventListener('click', function () {
+        durationSortMode = durationSortMode === 'desc' ? null : 'desc';
+        updateSortButtons();
         applyFilters();
       });
     }

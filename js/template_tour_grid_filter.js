@@ -26,6 +26,10 @@ document.addEventListener('DOMContentLoaded', function () {
   let selectedEventType = '';
   let selectedDuration = '';
   let selectedShips = [];
+  let durationSortMode = null; // null | 'asc' | 'desc'
+
+  const durationSortAscBtn = document.getElementById('durationSortAsc');
+  const durationSortDescBtn = document.getElementById('durationSortDesc');
 
   const normalize = (s) => (s ?? '').toString().trim();
   const isShipCategory = (category) => category === 'Ship/Cruise' || category === 'CRUISE' || category === 'Ship';
@@ -259,6 +263,65 @@ document.addEventListener('DOMContentLoaded', function () {
       const tour = allTours[index];
       if (!tour) return;
       card.style.display = tourMatchesFilters(tour) ? '' : 'none';
+    });
+    applySort();
+  }
+
+  // ===============================
+  // GÜN SAYISI SIRALAMA (admin/seed hiyerarşisini bozmadan)
+  // ===============================
+
+  // Admin panelinden elle girilen turlar (adminCreated) her zaman önce gelir.
+  // Artan/Azalan butonu aktifse iki grup da aynı yönde gün sayısına göre sıralanır;
+  // aksi halde admin turları en yeni eklenen önde, seed turlar gün sayısı çoktan aza sıralanır.
+  function compareTours(a, b) {
+    const aAdmin = a && a.adminCreated === true;
+    const bAdmin = b && b.adminCreated === true;
+    if (aAdmin !== bAdmin) return aAdmin ? -1 : 1;
+
+    const da = parseInt(a && a.durationDays, 10) || 0;
+    const db = parseInt(b && b.durationDays, 10) || 0;
+    if (durationSortMode === 'asc') return da - db;
+    if (durationSortMode === 'desc') return db - da;
+
+    if (aAdmin) {
+      const ta = (a && a.createdAt) ? new Date(a.createdAt).getTime() : 0;
+      const tb = (b && b.createdAt) ? new Date(b.createdAt).getTime() : 0;
+      return tb - ta;
+    }
+    return db - da;
+  }
+
+  // DOM sırasını değiştirmeden, sadece CSS `order` ile görsel sırayı ayarlar
+  // (#tourCards bir Bootstrap .row, yani flexbox) - böylece applyFilters'ın
+  // index bazlı görünürlük mantığı bozulmaz.
+  function applySort() {
+    const cards = Array.from(cardsContainer.querySelectorAll('.tour-card'));
+    if (!cards.length) return;
+    const order = cards.map((_, i) => i);
+    order.sort((ia, ib) => compareTours(allTours[ia], allTours[ib]));
+    order.forEach((origIdx, rank) => {
+      if (cards[origIdx]) cards[origIdx].style.order = rank;
+    });
+  }
+
+  function updateDurationSortButtons() {
+    if (durationSortAscBtn) durationSortAscBtn.classList.toggle('active', durationSortMode === 'asc');
+    if (durationSortDescBtn) durationSortDescBtn.classList.toggle('active', durationSortMode === 'desc');
+  }
+
+  if (durationSortAscBtn) {
+    durationSortAscBtn.addEventListener('click', function () {
+      durationSortMode = durationSortMode === 'asc' ? null : 'asc';
+      updateDurationSortButtons();
+      applySort();
+    });
+  }
+  if (durationSortDescBtn) {
+    durationSortDescBtn.addEventListener('click', function () {
+      durationSortMode = durationSortMode === 'desc' ? null : 'desc';
+      updateDurationSortButtons();
+      applySort();
     });
   }
 
