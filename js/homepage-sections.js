@@ -70,7 +70,7 @@
       '<div class="overlay-text">' +
       '<div class="trend-content d-flex align-items-end justify-content-between position-absolute bottom-0 p-3 w-100 z-index">' +
       '<div class="trend-content-title">' +
-      '<h5 class="mb-0"><span class="white">' + esc(tour.destination) + "</span></h5>" +
+      '<h5 class="mb-0"><span class="white">' + esc(window.TourCardFormat ? window.TourCardFormat.destinationLabel(tour) : tour.destination) + "</span></h5>" +
       '<h3 class="mb-0 white">' + esc(tour.name) + "</h3>" +
       "</div>" +
       '<span class="white p-1 px-2"></span>' +

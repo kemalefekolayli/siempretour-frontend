@@ -38,7 +38,14 @@
           </div>
           <div class="admin-form-row">
             <div class="admin-field"><label>Language</label><select name="language"><option value="tr">Turkish</option><option value="en">English</option></select></div>
-            <div class="admin-field"><label>Destination / country</label><input name="destination" placeholder="Örn: Italy"></div>
+            <div class="admin-field">
+              <label>Destinations / countries <span style="font-weight:400;color:#8a8a8a;">(ilk eklenen = ana ülke)</span></label>
+              <div class="destination-tag-input" id="destination-tag-input">
+                <div class="destination-tags" id="destination-tags"></div>
+                <input type="text" id="destination-search" placeholder="Ülke ara veya yaz, Enter ile ekle..." autocomplete="off">
+                <div class="destination-suggestions" id="destination-suggestions" hidden></div>
+              </div>
+            </div>
           </div>
           <div class="admin-form-row">
             <div class="admin-field"><label>Category</label><select id="tour-category" name="category"></select></div>
@@ -171,6 +178,7 @@
     </main>
   </div>
   <script src="../js/cdn-config.js"></script>
+  <script src="../js/country-names-tr.js"></script>
   <script src="../js/api-service.js?v=20260707e"></script>
   <script src="../js/admin-panel.js?v=20260707e"></script>
 </body>

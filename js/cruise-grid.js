@@ -105,7 +105,7 @@
       var title = escapeHtml(tour.tourName || tour.name || '');
       var places = escapeHtml(tour.placesVisited || '');
       var shipName = escapeHtml(tour.shipName || '');
-      var destTr = escapeHtml(trName(tour.destination || ''));
+      var destTr = escapeHtml(window.TourCardFormat ? window.TourCardFormat.destinationLabel(tour) : (tour.destination || ''));
       var detailUrl = makeDetailUrl(tour);
       var priceHtml = window.TourCardFormat ? window.TourCardFormat.priceHtml(tour, isEn()) : '';
       var datesHtml = window.TourCardFormat ? window.TourCardFormat.datesHtml(tour, isEn()) : '';
@@ -193,8 +193,10 @@
 
   function countryMatches(tour, q) {
     if (!q) return true;
-    return normalize(trName(tour.destination)).indexOf(q) !== -1 ||
-      normalize(tour.destination).indexOf(q) !== -1;
+    var list = (Array.isArray(tour.destinations) && tour.destinations.length) ? tour.destinations : [tour.destination];
+    return list.some(function (d) {
+      return normalize(trName(d)).indexOf(q) !== -1 || normalize(d).indexOf(q) !== -1;
+    });
   }
 
   function shipHaystack(tour) {

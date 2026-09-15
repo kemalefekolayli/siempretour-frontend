@@ -224,7 +224,7 @@ function similarTourCardHtml(tour) {
   const days = tour.durationDays || "";
   const title = tour.tourName || "";
   const places = tour.placesVisited || "";
-  const destTr = typeof countryNameTr === 'function' && tour.destination ? countryNameTr(tour.destination) : (tour.destination || "");
+  const destTr = window.TourCardFormat ? window.TourCardFormat.destinationLabel(tour) : (tour.destination || "");
   const url = similarTourDetailUrl(tour);
   const priceHtml = window.TourCardFormat ? window.TourCardFormat.priceHtml(tour, isEnglishLang()) : "";
   const datesHtml = window.TourCardFormat ? window.TourCardFormat.datesHtml(tour, isEnglishLang()) : "";

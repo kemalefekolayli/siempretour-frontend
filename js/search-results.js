@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var title = tour.tourName || '';
     var places = tour.placesVisited || '';
     var shipName = tour.shipName || '';
-    var destTr = (typeof countryTrName === 'function' && tour.destination) ? countryTrName(tour.destination) : (tour.destination || '');
+    var destTr = window.TourCardFormat ? window.TourCardFormat.destinationLabel(tour) : (tour.destination || '');
     var url = detailUrl(tour);
     var priceHtml = window.TourCardFormat ? window.TourCardFormat.priceHtml(tour, isEn()) : '';
     var datesHtml = window.TourCardFormat ? window.TourCardFormat.datesHtml(tour, isEn()) : '';

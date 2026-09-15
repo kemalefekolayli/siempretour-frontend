@@ -99,11 +99,29 @@
     return '<div class="tour-card-dates"><span class="tour-card-dates-label">' + label + ':</span> ' + badges + '</div>';
   }
 
+  // Çok ülkeli turlarda (ör. "İtalya-Fransa-İspanya") kart üzerindeki ülke
+  // rozetinde tüm ülkeler virgülle gösterilir. `destinations` boşsa (eski
+  // turlar) tek `destination` alanına düşer.
+  function destinationLabel(tour) {
+    var list = (tour && Array.isArray(tour.destinations) && tour.destinations.length)
+      ? tour.destinations
+      : (tour && tour.destination ? [tour.destination] : []);
+    var seen = {};
+    var names = [];
+    list.forEach(function (d) {
+      if (!d) return;
+      var label = (typeof countryNameTr === 'function') ? countryNameTr(d) : d;
+      if (!seen[label]) { seen[label] = true; names.push(label); }
+    });
+    return names.join(', ');
+  }
+
   window.TourCardFormat = {
     priceHtml: priceHtml,
     datesHtml: datesHtml,
     fmtDate: fmtDate,
     effPrice: effPrice,
-    departures: departures
+    departures: departures,
+    destinationLabel: destinationLabel
   };
 })();

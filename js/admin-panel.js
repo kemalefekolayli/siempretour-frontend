@@ -8,6 +8,7 @@
   var routeCoordinates = [];
   var dayInfo = [];
   var departures = [];
+  var tourDestinations = [];
 
   function user() {
     try {
@@ -127,6 +128,7 @@
     data.routeCoordinates = routeCoordinates.slice();
     data.dayInfo = dayInfo.slice();
     data.departures = departures.slice();
+    data.destinations = tourDestinations.slice();
     return data;
   }
 
@@ -163,6 +165,7 @@
         if (field === "routeCoordinates") return;
         if (field === "dayInfo") return;
         if (field === "departures") return;
+        if (field === "destinations") return;
         var node = document.querySelector('[name="' + field + '"]');
         if (node) node.value = data[field] || "";
       });
@@ -177,6 +180,10 @@
       if (Array.isArray(data.departures)) {
         departures = data.departures;
         renderDepartures();
+      }
+      if (Array.isArray(data.destinations)) {
+        tourDestinations = data.destinations;
+        renderDestinationTags();
       }
       renderImagePreview();
       setUploadStatus("Kaydedilmemis form taslagi geri yuklendi.");
@@ -560,6 +567,140 @@
     });
   }
 
+  // ==================== Destinations (çoklu ülke) ====================
+  // İlk eklenen ülke turun "ana" ülkesi (destination) olarak kullanılır;
+  // diğerleri çok ülkeli turlarda ek ülke sayfalarında da gösterilmesini sağlar.
+
+  function destinationDisplayName(code) {
+    return (typeof COUNTRY_NAME_TR !== "undefined" && COUNTRY_NAME_TR[code]) ? COUNTRY_NAME_TR[code] : code;
+  }
+
+  function renderDestinationTags() {
+    var wrap = document.getElementById("destination-tags");
+    if (!wrap) return;
+    wrap.innerHTML = tourDestinations.map(function (code, i) {
+      return '<span class="destination-tag' + (i === 0 ? ' is-primary' : '') + '">' +
+        esc(destinationDisplayName(code)) +
+        '<button type="button" data-remove-destination="' + i + '" aria-label="Kaldır">&times;</button>' +
+        '</span>';
+    }).join('');
+    wrap.querySelectorAll('[data-remove-destination]').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        tourDestinations.splice(Number(btn.dataset.removeDestination), 1);
+        renderDestinationTags();
+        saveTourDraft(activeTourDraftKey);
+      });
+    });
+  }
+
+  function addDestination(code) {
+    var value = String(code || "").trim();
+    if (!value) return;
+    var exists = tourDestinations.some(function (d) { return d.toLowerCase() === value.toLowerCase(); });
+    if (exists) return;
+    tourDestinations.push(value);
+    renderDestinationTags();
+    saveTourDraft(activeTourDraftKey);
+  }
+
+  function initDestinationInput() {
+    var input = document.getElementById("destination-search");
+    var suggestionsBox = document.getElementById("destination-suggestions");
+    if (!input || !suggestionsBox || input.dataset.bound) return;
+    input.dataset.bound = "1";
+
+    var allCountries = (typeof COUNTRY_NAME_TR !== "undefined") ? Object.keys(COUNTRY_NAME_TR) : [];
+    var activeIndex = -1;
+    var currentMatches = [];
+
+    function closeSuggestions() {
+      suggestionsBox.hidden = true;
+      suggestionsBox.innerHTML = "";
+      activeIndex = -1;
+      currentMatches = [];
+    }
+
+    function highlightActive() {
+      suggestionsBox.querySelectorAll(".destination-suggestion").forEach(function (el, i) {
+        el.classList.toggle("is-active", i === activeIndex);
+      });
+    }
+
+    function updateSuggestions() {
+      var q = input.value.trim().toLowerCase();
+      if (!q) { closeSuggestions(); return; }
+      currentMatches = allCountries.filter(function (code) {
+        var already = tourDestinations.some(function (d) { return d.toLowerCase() === code.toLowerCase(); });
+        if (already) return false;
+        var tr = COUNTRY_NAME_TR[code] || "";
+        return code.toLowerCase().indexOf(q) !== -1 || tr.toLowerCase().indexOf(q) !== -1;
+      }).slice(0, 8);
+
+      if (!currentMatches.length) { closeSuggestions(); return; }
+
+      activeIndex = -1;
+      suggestionsBox.innerHTML = currentMatches.map(function (code, i) {
+        return '<div class="destination-suggestion" data-index="' + i + '">' +
+          esc(COUNTRY_NAME_TR[code]) + ' <small style="color:#999">(' + esc(code) + ')</small></div>';
+      }).join('');
+      suggestionsBox.hidden = false;
+
+      suggestionsBox.querySelectorAll(".destination-suggestion").forEach(function (el) {
+        el.addEventListener("mousedown", function (e) {
+          e.preventDefault();
+          addDestination(currentMatches[Number(el.dataset.index)]);
+          input.value = "";
+          closeSuggestions();
+        });
+      });
+    }
+
+    input.addEventListener("input", updateSuggestions);
+    input.addEventListener("focus", updateSuggestions);
+
+    input.addEventListener("keydown", function (e) {
+      if (!suggestionsBox.hidden && currentMatches.length) {
+        if (e.key === "ArrowDown") {
+          e.preventDefault();
+          activeIndex = Math.min(activeIndex + 1, currentMatches.length - 1);
+          highlightActive();
+          return;
+        }
+        if (e.key === "ArrowUp") {
+          e.preventDefault();
+          activeIndex = Math.max(activeIndex - 1, 0);
+          highlightActive();
+          return;
+        }
+      }
+      if (e.key === "Enter") {
+        e.preventDefault();
+        if (!suggestionsBox.hidden && activeIndex >= 0 && currentMatches[activeIndex]) {
+          addDestination(currentMatches[activeIndex]);
+        } else if (input.value.trim()) {
+          addDestination(input.value.trim());
+        }
+        input.value = "";
+        closeSuggestions();
+        return;
+      }
+      if (e.key === ",") {
+        e.preventDefault();
+        if (input.value.trim()) addDestination(input.value.trim());
+        input.value = "";
+        closeSuggestions();
+        return;
+      }
+      if (e.key === "Escape") {
+        closeSuggestions();
+      }
+    });
+
+    document.addEventListener("click", function (e) {
+      if (!e.target.closest("#destination-tag-input")) closeSuggestions();
+    });
+  }
+
   function fmtDepartureDate(value) {
     if (!value) return "";
     // value "yyyy-MM-dd" -> "dd.MM.yyyy"
@@ -632,6 +773,10 @@
       shipFields.style.display = (val === "CRUISE" || displayVal === "Ship/Cruise") ? "" : "none";
     }
     if (categorySelect) categorySelect.addEventListener("change", toggleShipFields);
+
+    tourDestinations = [];
+    renderDestinationTags();
+    initDestinationInput();
 
     routeCoordinates = [];
     renderRouteStops();
@@ -741,7 +886,7 @@
   }
 
   function fillTourForm(tour) {
-    ["name", "slug", "language", "destination", "departureCity", "duration", "price", "discountedPrice", "minimumAge", "mainPhoto", "image1", "image2", "image3", "image4", "image5", "image6", "imagealt", "detailPdfUrl", "generalInfo", "placesVisited", "whatExpect", "meet"].forEach(function (field) {
+    ["name", "slug", "language", "departureCity", "duration", "price", "discountedPrice", "minimumAge", "mainPhoto", "image1", "image2", "image3", "image4", "image5", "image6", "imagealt", "detailPdfUrl", "generalInfo", "placesVisited", "whatExpect", "meet"].forEach(function (field) {
       var node = document.querySelector('[name="' + field + '"]');
       if (node) node.value = tour[field] || "";
     });
@@ -754,6 +899,10 @@
     if (shipCompanyEl) shipCompanyEl.value = tour.shipCompany || "";
     var shipNameEl = document.getElementById("tour-ship-name");
     if (shipNameEl) shipNameEl.value = tour.shipName || "";
+    tourDestinations = Array.isArray(tour.destinations) && tour.destinations.length
+      ? tour.destinations.slice()
+      : (tour.destination ? [tour.destination] : []);
+    renderDestinationTags();
     routeCoordinates = Array.isArray(tour.routeCoordinates) ? tour.routeCoordinates.slice() : [];
     renderRouteStops();
     dayInfo = Array.isArray(tour.dayInfo) ? tour.dayInfo.slice() : [];
@@ -789,7 +938,8 @@
     data.duration = data.duration ? Number(data.duration) : null;
     data.price = data.price ? Number(data.price) : null;
     data.discountedPrice = data.discountedPrice ? Number(data.discountedPrice) : null;
-    data.destinations = data.destination ? [data.destination] : [];
+    data.destination = tourDestinations.length ? tourDestinations[0] : null;
+    data.destinations = tourDestinations.slice();
     data.routeCoordinates = routeCoordinates.length ? routeCoordinates : [];
     data.dayInfo = dayInfo.length ? dayInfo : [];
     data.departures = departures.length ? departures : [];

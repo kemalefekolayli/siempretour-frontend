@@ -310,6 +310,99 @@
   background: #fef2f2;
 }
 
+.destination-tag-input {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.14);
+  border-radius: 8px;
+  padding: 8px;
+  background: #fff;
+}
+
+.destination-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.destination-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #eff6ff;
+  color: #1d4ed8;
+  border-radius: 999px;
+  padding: 4px 6px 4px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.destination-tag.is-primary {
+  background: #1d4ed8;
+  color: #fff;
+}
+
+.destination-tag button {
+  border: none;
+  background: transparent;
+  color: inherit;
+  opacity: 0.7;
+  cursor: pointer;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  line-height: 1;
+}
+
+.destination-tag button:hover {
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.08);
+}
+
+#destination-search {
+  flex: 1 1 160px;
+  min-width: 160px;
+  border: none;
+  outline: none;
+  padding: 6px 4px;
+  font: inherit;
+  color: #3f3f3f;
+}
+
+.destination-suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  margin-top: 4px;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.14);
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  max-height: 220px;
+  overflow-y: auto;
+  z-index: 20;
+}
+
+.destination-suggestion {
+  padding: 9px 12px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.destination-suggestion:hover,
+.destination-suggestion.is-active {
+  background: #f3f4f6;
+}
+
 .admin-subrow > td {
   background: #f8fafc;
   border-top: 1px dashed rgba(0, 0, 0, 0.12);
