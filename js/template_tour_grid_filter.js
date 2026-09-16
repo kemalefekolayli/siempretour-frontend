@@ -285,9 +285,12 @@ document.addEventListener('DOMContentLoaded', function () {
     if (durationSortMode === 'desc') return db - da;
 
     if (aAdmin) {
-      const ta = (a && a.createdAt) ? new Date(a.createdAt).getTime() : 0;
-      const tb = (b && b.createdAt) ? new Date(b.createdAt).getTime() : 0;
-      return tb - ta;
+      const da2 = window.TourCardFormat ? window.TourCardFormat.earliestUpcomingDeparture(a) : null;
+      const db2 = window.TourCardFormat ? window.TourCardFormat.earliestUpcomingDeparture(b) : null;
+      if (!da2 && !db2) return 0;
+      if (!da2) return 1;
+      if (!db2) return -1;
+      return da2 - db2;
     }
     return db - da;
   }

@@ -23,9 +23,12 @@
     if (durationSortMode === 'desc') return db - da;
 
     if (aAdmin) {
-      var ta = (a && a.createdAt) ? new Date(a.createdAt).getTime() : 0;
-      var tb = (b && b.createdAt) ? new Date(b.createdAt).getTime() : 0;
-      return tb - ta;
+      var da2 = window.TourCardFormat ? window.TourCardFormat.earliestUpcomingDeparture(a) : null;
+      var db2 = window.TourCardFormat ? window.TourCardFormat.earliestUpcomingDeparture(b) : null;
+      if (!da2 && !db2) return 0;
+      if (!da2) return 1;
+      if (!db2) return -1;
+      return da2 - db2;
     }
     return db - da;
   }

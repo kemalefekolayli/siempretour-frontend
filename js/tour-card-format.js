@@ -44,6 +44,33 @@
       : [];
   }
 
+  // "yyyy-MM-dd" (veya ISO datetime) -> yerel Date (saat dilimi kaymasını önlemek için
+  // bileşenlerden elle kurulur). Ayrıştırılamazsa null.
+  function parseDateOnly(value) {
+    if (!value) return null;
+    var s = String(value).substring(0, 10);
+    var p = s.split('-');
+    if (p.length !== 3) return null;
+    var d = new Date(Number(p[0]), Number(p[1]) - 1, Number(p[2]));
+    return isNaN(d.getTime()) ? null : d;
+  }
+
+  // Admin turlarını "bugüne en yakın kalkış tarihi önce" sıralamak için: bir turun
+  // bugünden itibaren (dahil) en erken kalkış tarihi; kalkış (departures) yoksa
+  // startDate'e düşer; gelecekte tarih yoksa null döner.
+  function earliestUpcomingDeparture(tour) {
+    var today = new Date();
+    today.setHours(0, 0, 0, 0);
+    var dates = departures(tour)
+      .map(function (d) { return parseDateOnly(d.departureDate); })
+      .filter(function (d) { return d && d >= today; });
+    if (dates.length) {
+      return dates.reduce(function (min, d) { return d < min ? d : min; });
+    }
+    var start = parseDateOnly(tour && tour.startDate);
+    return (start && start >= today) ? start : null;
+  }
+
   function tbdHtml(isEn) {
     var tbd = isEn ? 'Price to be determined' : 'Fiyat Belirlenecek';
     return '<p class="mb-0 tour-card-price tour-card-price--tbd"><i class="fa fa-tag"></i> ' + esc(tbd) + '</p>';
@@ -122,6 +149,7 @@
     fmtDate: fmtDate,
     effPrice: effPrice,
     departures: departures,
-    destinationLabel: destinationLabel
+    destinationLabel: destinationLabel,
+    earliestUpcomingDeparture: earliestUpcomingDeparture
   };
 })();

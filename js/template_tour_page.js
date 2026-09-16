@@ -200,9 +200,12 @@ function compareSimilarTours(a, b) {
   if (aAdmin !== bAdmin) return aAdmin ? -1 : 1;
 
   if (aAdmin) {
-    const ta = (a && a.createdAt) ? new Date(a.createdAt).getTime() : 0;
-    const tb = (b && b.createdAt) ? new Date(b.createdAt).getTime() : 0;
-    return tb - ta;
+    const da = window.TourCardFormat ? window.TourCardFormat.earliestUpcomingDeparture(a) : null;
+    const db = window.TourCardFormat ? window.TourCardFormat.earliestUpcomingDeparture(b) : null;
+    if (!da && !db) return 0;
+    if (!da) return 1;
+    if (!db) return -1;
+    return da - db;
   }
   const da = parseInt(a && a.durationDays, 10) || 0;
   const db = parseInt(b && b.durationDays, 10) || 0;
