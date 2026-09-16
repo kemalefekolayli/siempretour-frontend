@@ -50,6 +50,7 @@ const COUNTRY_NAME_TR = {
   "Mongolia": "Moğolistan", "Nepal": "Nepal", "Pakistan": "Pakistan",
   "Philippines": "Filipinler", "Sri Lanka": "Sri Lanka", "Thailand": "Tayland",
   "Vietnam": "Vietnam", "Burma": "Myanmar", "Brunei": "Brunei", "Singapore": "Singapur",
+  "South Korea": "Güney Kore",
   "Iran": "İran", "Iraq": "Irak", "Israel": "İsrail",
   "Lebanon": "Lübnan", "Oman": "Umman", "Saudi Arabia": "Suudi Arabistan",
   "Syria": "Suriye", "United Arab Emirates": "Birleşik Arap Emirlikleri", "Yemen": "Yemen",
