@@ -9529,7 +9529,9 @@ body.mega-lock {
 }
 
 .mega-content {
-  overflow: hidden;
+  overflow-y: auto;
+  overflow-x: hidden;
+  min-height: 0;
 }
 
 .mega-list {
