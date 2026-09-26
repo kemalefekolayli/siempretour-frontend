@@ -58,7 +58,13 @@ const COUNTRY_NAME_TR = {
   "Greenland": "Grönland", "Spitsbergen": "Spitsbergen", "St Helena": "Saint Helena",
   "Alaska": "Alaska", "Canada": "Kanada", "Canary Islands": "Kanarya Adaları",
   "Cape Verde Islands": "Yeşil Burun Adaları", "Seychelles": "Seyşeller",
-  "Saint Lucia": "Saint Lucia", "Borneo": "Borneo", "Mozambique": "Mozambik"
+  "Saint Lucia": "Saint Lucia", "Borneo": "Borneo", "Mozambique": "Mozambik",
+  "Usa": "ABD", "Uzbekistan": "Özbekistan", "Tibet": "Tibet", "Taiwan": "Tayvan",
+  "El Salvador": "El Salvador", "Georgia": "Gürcistan", "Turkmenistan": "Türkmenistan",
+  "Eritrea": "Eritre", "Mali": "Mali", "Mauritania": "Moritanya", "Patagonia": "Patagonya",
+  "Sao Tome And Principe": "Sao Tome ve Principe", "Azores": "Azorlar", "Cyprus": "Kıbrıs",
+  "Dominica": "Dominika", "East Timor": "Doğu Timor", "French Guiana": "Fransız Guyanası",
+  "Equatorial Guinea": "Ekvator Ginesi", "Nigeria": "Nijerya", "Tajikistan": "Tacikistan"
 };
 
 /**
