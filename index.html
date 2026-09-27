@@ -2818,6 +2818,105 @@
     }
     .health-tourism .ht-cta a.ht-cta-secondary:hover { opacity: 1; background: #070707; color: #fff; }
     @media (max-width: 767px) { .health-tourism .ht-card { margin-bottom: 16px; } }
+
+    .ht-video-teaser {
+      position: relative;
+      display: block;
+      min-height: 380px;
+      margin-top: 48px;
+      border-radius: 20px;
+      overflow: hidden;
+      text-decoration: none;
+      isolation: isolate;
+    }
+    .ht-video-teaser__bg {
+      position: absolute;
+      inset: 0;
+      background-size: cover;
+      background-position: center;
+      transition: transform .6s ease;
+    }
+    .ht-video-teaser:hover .ht-video-teaser__bg { transform: scale(1.06); }
+    .ht-video-teaser__overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(7,7,7,.30) 0%, rgba(7,7,7,.80) 100%);
+    }
+    .ht-video-teaser__play {
+      position: absolute;
+      top: 42%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 84px;
+      height: 84px;
+      border-radius: 50%;
+      background: rgba(255,255,255,.95);
+      color: #070707;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 26px;
+      padding-left: 6px;
+      z-index: 2;
+      animation: htPulse 2.2s ease-out infinite;
+      transition: transform .35s ease;
+    }
+    .ht-video-teaser:hover .ht-video-teaser__play { transform: translate(-50%, -50%) scale(1.12); }
+    @keyframes htPulse {
+      0% { box-shadow: 0 0 0 0 rgba(255,255,255,.45); }
+      70% { box-shadow: 0 0 0 22px rgba(255,255,255,0); }
+      100% { box-shadow: 0 0 0 0 rgba(255,255,255,0); }
+    }
+    .ht-video-teaser__content {
+      position: absolute;
+      left: 0; right: 0; bottom: 0;
+      z-index: 2;
+      padding: 32px 40px;
+      text-align: center;
+      color: #fff;
+    }
+    .ht-video-teaser__badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255,255,255,.15);
+      border: 1px solid rgba(255,255,255,.4);
+      padding: 6px 16px;
+      border-radius: 999px;
+      font-size: .8rem;
+      margin-bottom: 14px;
+    }
+    .ht-video-teaser__content h3 {
+      font-size: 1.7rem;
+      font-weight: 700;
+      margin-bottom: 10px;
+      color: #fff;
+    }
+    .ht-video-teaser__content p {
+      max-width: 620px;
+      margin: 0 auto 20px;
+      font-size: .95rem;
+      line-height: 1.6;
+      color: #eee;
+    }
+    .ht-video-teaser__btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: #fff;
+      color: #070707;
+      padding: 12px 30px;
+      border-radius: 10px;
+      font-weight: 600;
+      transition: background .3s ease, color .3s ease;
+    }
+    .ht-video-teaser:hover .ht-video-teaser__btn { background: #b02a37; color: #fff; }
+    @media (max-width: 767px) {
+      .ht-video-teaser { min-height: 320px; margin-top: 32px; }
+      .ht-video-teaser__play { width: 64px; height: 64px; font-size: 20px; top: 38%; }
+      .ht-video-teaser__content { padding: 22px 20px; }
+      .ht-video-teaser__content h3 { font-size: 1.3rem; }
+    }
   </style>
   <section class="health-tourism pt-6 pb-6">
     <div class="container">
@@ -2858,9 +2957,19 @@
           </div>
         </div>
       </div>
+      <a class="ht-video-teaser" href="template_tours_grid_page.html?country=Cuba#cuba-health-tab-pane">
+        <div class="ht-video-teaser__bg" style="background-image:url('https://cdn.siempretour.com/images/tour-photos/cuba/01/01.webp')"></div>
+        <div class="ht-video-teaser__overlay"></div>
+        <div class="ht-video-teaser__play"><i class="fa-solid fa-play"></i></div>
+        <div class="ht-video-teaser__content">
+          <span class="ht-video-teaser__badge"><i class="fa-solid fa-video"></i> Tanıtım Videosu</span>
+          <h3>Küba'da Sağlık Turizmi</h3>
+          <p>Koruyucu sağlık yaklaşımından onkolojiye, diyabetten rehabilitasyona; SiempreTour güvencesiyle Küba'da sağlık yolculuğunuzu keşfedin.</p>
+          <span class="ht-video-teaser__btn">Videoyu İzle ve Detayları Gör <i class="fa-solid fa-arrow-right"></i></span>
+        </div>
+      </a>
       <div class="ht-cta text-center mt-6">
         <a href="contact.html">Ücretsiz Bilgi Alın</a>
-        <a class="ht-cta-secondary" href="template_tours_grid_page.html?country=Cuba#cuba-health-tab-pane">Kübada Sağlık Turizmi ile İlgili Bilgi Alın</a>
       </div>
     </div>
   </section>
