@@ -2982,7 +2982,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
 }
 .banner .banner-main .video-banner .dot-overlay {
   z-index: 2;
-  opacity: .3;
+  opacity: .05;
 }
 @media (max-width: 767.98px) {
   .banner .banner-main {
