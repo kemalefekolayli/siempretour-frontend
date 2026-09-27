@@ -877,6 +877,9 @@
     <div class="banner-main">
       <div class="banner-image ">
         <div class="video-banner ">
+          <video muted loop playsinline preload="none" id="vidBg" aria-hidden="true">
+            <source data-src="https://cdn.siempretour.com/images/siempre-video1.mp4" type="video/mp4" />
+          </video>
           <video muted loop playsinline preload="none" id="vid" class="col-lg-12">
             <source data-src="https://cdn.siempretour.com/images/siempre-video1.mp4" type="video/mp4" />
           </video>
@@ -884,15 +887,17 @@
             // Hero videosunu ilk yükten ertele: 20MB ana içeriği bloklamasın.
             (function () {
               function startHeroVideo() {
-                var vid = document.getElementById("vid");
-                if (!vid) return;
-                var src = vid.querySelector("source[data-src]");
-                if (src && !src.getAttribute("src")) {
-                  src.setAttribute("src", src.getAttribute("data-src"));
-                  vid.load();
-                }
-                var p = vid.play();
-                if (p && typeof p.catch === "function") p.catch(function () {});
+                ["vid", "vidBg"].forEach(function (id) {
+                  var vid = document.getElementById(id);
+                  if (!vid) return;
+                  var src = vid.querySelector("source[data-src]");
+                  if (src && !src.getAttribute("src")) {
+                    src.setAttribute("src", src.getAttribute("data-src"));
+                    vid.load();
+                  }
+                  var p = vid.play();
+                  if (p && typeof p.catch === "function") p.catch(function () {});
+                });
               }
               function defer() {
                 if ("requestIdleCallback" in window) {

@@ -2948,8 +2948,9 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   background-position: top;
 }
 /* Hero videosu (video-banner) dikey/yatay her kaynak oranında bozulmadan,
-   kırpılmadan ve bulanıklaştırılmadan tam görünsün: video kutuya "contain"
-   ile sığdırılır, boş kalan kenarlar düz bir renkle doldurulur. */
+   kırpılmadan tam görünsün: video ön planda "contain" ile sığdırılır ve
+   biraz büyütülür; boş kalan kenarlar aynı videonun bulanıklaştırılmış,
+   ekranı kaplayan bir kopyasıyla doldurulur (düz siyah değil). */
 .banner .banner-main .video-banner {
   position: relative;
   width: 100%;
@@ -2957,7 +2958,18 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   overflow: hidden;
   background: #0b1117;
 }
-.banner .banner-main .video-banner video {
+.banner .banner-main .video-banner video#vidBg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: blur(40px) brightness(.85);
+  transform: scale(1.15); /* blur kenarındaki saydam halkayı kadraj dışına it */
+  z-index: 0;
+}
+.banner .banner-main .video-banner video#vid {
   position: absolute;
   top: 0;
   left: 0;
@@ -2965,6 +2977,12 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   height: 100%;
   object-fit: contain;
   object-position: center;
+  transform: scale(1.2);
+  z-index: 1;
+}
+.banner .banner-main .video-banner .dot-overlay {
+  z-index: 2;
+  opacity: .3;
 }
 @media (max-width: 767.98px) {
   .banner .banner-main {
