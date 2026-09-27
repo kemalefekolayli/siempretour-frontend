@@ -892,8 +892,23 @@
                   </div>
                   <div class="col-md-12">
                     <div class="form-group mb-3">
-                      <label class="mb-1" for="contactSubject">Konu *</label>
-                      <input type="text" class="form-control" id="contactSubject" placeholder="Mesajınızın konusu" required />
+                      <label class="mb-1" for="contactSubject">Mesajınızın Konusu *</label>
+                      <select class="form-control" id="contactSubject" required>
+                        <option value="" disabled selected>Bir konu seçin</option>
+                        <option value="Kübada Sağlık Turizmi">Kübada Sağlık Turizmi</option>
+                        <option value="Turlar">Turlar</option>
+                        <option value="Hakkımızda">Hakkımızda</option>
+                        <option value="İstek">İstek</option>
+                        <option value="Şikayet">Şikayet</option>
+                        <option value="Diğer">Diğer</option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="col-md-12 d-none" id="contactTourPickerWrap">
+                    <div class="form-group mb-3 tour-picker">
+                      <label class="mb-1" for="contactTourSearch">Hangi Tur? *</label>
+                      <input type="text" class="form-control" id="contactTourSearch" placeholder="Tur adı yazın veya listeden seçin..." autocomplete="off" />
+                      <div class="tour-picker-list" id="contactTourList" hidden></div>
                     </div>
                   </div>
                   <div class="col-md-12">
@@ -1143,6 +1158,38 @@
       <i class="fab fa-whatsapp"></i>
     </a>
     <style>
+      .tour-picker { position: relative; }
+      .tour-picker-list {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 100%;
+        margin-top: 4px;
+        background: #fff;
+        border: 1px solid #e0ddd8;
+        border-radius: 8px;
+        box-shadow: 0 10px 26px rgba(0, 0, 0, .12);
+        max-height: 260px;
+        overflow-y: auto;
+        z-index: 50;
+      }
+      .tour-picker-item {
+        padding: 10px 14px;
+        font-size: .92rem;
+        color: #222;
+        cursor: pointer;
+        border-bottom: 1px solid #f3f1ee;
+      }
+      .tour-picker-item small { display: block; color: #999; font-size: .78rem; }
+      .tour-picker-item:last-child { border-bottom: none; }
+      .tour-picker-item:hover,
+      .tour-picker-item.is-active { background: #f7f4ef; }
+      .tour-picker-empty {
+        padding: 12px 14px;
+        font-size: .88rem;
+        color: #999;
+        text-align: center;
+      }
       .whatsapp-float {
         position: fixed;
         left: 24px;
@@ -1189,6 +1236,7 @@
     <script src="js/custom-nav.js"></script>
     <script src="js/link_generator.js"></script>
     <script src="js/api-service.js"></script>
+    <script src="js/country-names-tr.js"></script>
     <script src="js/contact-config.js"></script>
     <script src="js/contact.js"></script>
       <script src="js/chat-widget.js"></script>
