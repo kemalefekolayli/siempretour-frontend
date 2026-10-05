@@ -1239,6 +1239,56 @@
 
   </section>
 
+  <!-- Güncel Turlar slider starts -->
+  <section class="current-tours pt-6 pb-4">
+    <div class="container">
+      <div class="section-title w-75 mx-auto text-center mb-4">
+        <h3 class="text-dark">Güncel Turlarımız</h3>
+        <p class="gray">En yeni ve en yakın tarihli turlarımızı keşfedin.</p>
+      </div>
+      <div class="current-tours__slider" id="currentToursSlider" tabindex="0" aria-label="Güncel turlar">
+        <div class="current-tours__track" id="currentToursTrack">
+          <div class="current-tours__loading">Turlar yükleniyor...</div>
+        </div>
+      </div>
+      <div class="text-center mt-4">
+        <a class="current-tours__more" href="guncel-turlar.html">Tüm Güncel Turları Gör <i class="fa-solid fa-arrow-right"></i></a>
+      </div>
+    </div>
+  </section>
+  <style>
+    .current-tours__slider { overflow-x: auto; scroll-behavior: smooth; scrollbar-width: none; }
+    .current-tours__slider::-webkit-scrollbar { display: none; }
+    .current-tours__track { display: flex; gap: 22px; padding: 6px 4px 14px; }
+    .current-tours__card {
+      flex: 0 0 280px;
+      scroll-snap-align: start;
+      background: #fff;
+      border-radius: 14px;
+      box-shadow: 0 6px 22px rgba(0,0,0,.07);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      text-decoration: none;
+      color: #222;
+      transition: transform .3s ease, box-shadow .3s ease;
+    }
+    .current-tours__card:hover { transform: translateY(-4px); box-shadow: 0 14px 30px rgba(0,0,0,.12); color: #222; }
+    .current-tours__card img { width: 100%; height: 170px; object-fit: cover; display: block; }
+    .current-tours__body { padding: 14px 16px 16px; }
+    .current-tours__dest { font-size: .8rem; color: #888; margin-bottom: 4px; }
+    .current-tours__title { font-size: 1rem; font-weight: 600; margin: 0 0 8px; line-height: 1.35; }
+    .current-tours__meta { font-size: .85rem; color: #555; }
+    .current-tours__loading { padding: 40px 0; color: #888; width: 100%; text-align: center; }
+    .current-tours__more {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: #070707; color: #fff; padding: 13px 34px; border-radius: 10px;
+      font-weight: 500; text-decoration: none; transition: opacity .3s ease;
+    }
+    .current-tours__more:hover { opacity: .85; color: #fff; }
+  </style>
+  <script src="js/current-tours-slider.js?v=20261005a"></script>
+
   <!-- about-us starts -->
   <section class="steps-to pt-4 mt-10">
     <div class="container text-center">
