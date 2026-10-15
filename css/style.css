@@ -1896,7 +1896,8 @@ input#submit:hover {
   padding: 0;
 }
 .navbar-collapse1{
-  flex: 1 0 auto;
+  flex: 1 1 auto;
+  min-width: 0;
 }
 .sidebar .navbar-nav {
   background: transparent;
@@ -8194,6 +8195,20 @@ ul.sidebar-tags li a:hover {
   background-origin: content-box; /* yalnızca yazı genişliği */
   background-clip: content-box; /* padding’i sayma */
   transition: background-size var(--u-dur) ease;
+}
+
+/* Üst menü yazıları: 7 öğe dil seçicisine taşmasın */
+#responsive-menu > li:not(.trip-button) > a {
+  font-size: 15px;
+}
+@media (min-width: 992px) and (max-width: 1500px) {
+  #responsive-menu > li:not(.trip-button) > a {
+    font-size: 14px;
+  }
+  #responsive-menu > li.px-2 {
+    padding-left: 0.3rem !important;
+    padding-right: 0.3rem !important;
+  }
 }
 
 /* Hover/Focus/Active → çizgi soldan sağa dolsun */
