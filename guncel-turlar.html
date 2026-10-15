@@ -32,6 +32,27 @@
 
     <!-- Gemi turu filtre paneli: sonuçlar kaydırılırken panelin görünür kalması için -->
     <style>
+        /* Bu sayfaya özel daha alçak banner (Antarktika fotoğrafı) */
+        .breadcrumb-main.current-tours-banner {
+            min-height: 0;
+            padding: 170px 0 120px;
+            background-position: center 35%;
+        }
+        .current-tours-banner__credit {
+            position: absolute;
+            right: 16px;
+            bottom: 70px;
+            z-index: 3;
+            font-size: 0.7rem;
+            color: rgba(255, 255, 255, 0.75);
+            text-decoration: none;
+        }
+        .current-tours-banner__credit:hover { color: #fff; }
+        @media (max-width: 767px) {
+            .breadcrumb-main.current-tours-banner { padding: 130px 0 90px; }
+            .current-tours-banner__credit { bottom: 40px; }
+        }
+
         /* Başlık + küçük gün sayısı sıralama butonları */
         .current-tours-head {
             display: flex;
@@ -116,6 +137,7 @@
                                 <!--TURLAR BAŞLANGIÇ-->
                                 <li id="menu-turlar" class="dropdown submenu desktop-tours-trigger px-2"><a href="#" id="megaTrigger"
                                         aria-expanded="false" aria-controls="megaFull">TURLAR</a></li>
+                <li class="submenu dropdown px-2"><a href="guncel-turlar.html">Güncel Turlar</a></li>
                 <li class="submenu dropdown px-2"><a href="cruise-grid.html">Gemi Turları</a></li>
 
                                 <li class="submenu dropdown slicknav_parent slicknav_collapsed"><a href="#"
@@ -1192,7 +1214,9 @@
     <!-- header ends -->
 
     <!-- BreadCrumb Starts -->
-    <section class="breadcrumb-main" style="background-image: url(images/cruise/cruise-banner.jpg);">
+    <section class="breadcrumb-main current-tours-banner" style="background-image: url(images/guncel-turlar-banner.webp);">
+        <a class="current-tours-banner__credit" href="https://commons.wikimedia.org/wiki/File:Mt_Herschel,_Antarctica,_Jan_2006.jpg"
+            target="_blank" rel="noopener">Fotoğraf: Andrew Mandemaker, CC BY-SA 2.5</a>
         <div class="section-shape section-shape1 top-inherit bottom-0"
             style="background-image: url(images/shape8.png);"></div>
         <div class="breadcrumb-outer">

@@ -101,6 +101,7 @@
     'Gurur Duyduğumuz İş Ortaklarımız': 'Partners We Are Proud Of',
     'Seyahat deneyimlerinizi mükemmelleştirmek için sektörün en güvenilir markalarıyla iş birliği yapıyoruz.': 'We work with trusted brands in the industry to perfect your travel experiences.',
     'Gemi Turları': 'Cruise Tours',
+    'Güncel Turlar': 'Current Tours',
     'Tüm Gemi Turları': 'All Cruise Tours',
     'Dünyanın Lider Gemi Seyahati Rezervasyon Platformudur': 'is a leading cruise travel booking platform',
     'Safari & Doğa Turları': 'Safari & Nature Tours',
