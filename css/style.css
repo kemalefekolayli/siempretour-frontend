@@ -8206,14 +8206,47 @@ ul.sidebar-tags li a:hover {
   #responsive-menu {
     white-space: nowrap;
   }
+  /* Başlık 1320px'lik kutuya sıkışmasın; ekran genişliğini kullansın */
+  .header_menu > .navbar > .container {
+    max-width: 1680px;
+  }
+  .header_menu .navbar-flex.p-3 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  /* Logo / menü / buton arası boşluk (gap-6 = 80px) daraltıldı */
+  .header_menu .navbar-collapse1.gap-6 {
+    gap: 28px !important;
+  }
+  /* Menü sığmadığında logo ezilmesin; yazılar küçülür */
+  .navbar-collapse1 > .navbar-header {
+    flex: 0 0 auto;
+  }
+  /* Öğe aralarındaki boşluk (li + a padding'i) daraltıldı */
+  #responsive-menu > li.px-2 {
+    padding-left: 0.2rem !important;
+    padding-right: 0.2rem !important;
+  }
+  .header_menu .navbar.navbar-default #responsive-menu > li:not(.trip-button) > a {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
 }
-@media (min-width: 992px) and (max-width: 1500px) {
+@media (min-width: 992px) and (max-width: 1600px) {
   #responsive-menu > li:not(.trip-button) > a {
     font-size: 13px;
   }
-  #responsive-menu > li.px-2 {
-    padding-left: 0.25rem !important;
-    padding-right: 0.25rem !important;
+}
+@media (min-width: 992px) and (max-width: 1440px) {
+  #responsive-menu > li:not(.trip-button) > a {
+    font-size: 12px;
+  }
+  .header_menu .navbar.navbar-default #responsive-menu > li:not(.trip-button) > a {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+  .navbar-collapse1 > .navbar-header .navbar-brand img {
+    max-width: 160px;
   }
 }
 
