@@ -8199,15 +8199,21 @@ ul.sidebar-tags li a:hover {
 
 /* Üst menü yazıları: 7 öğe dil seçicisine taşmasın */
 #responsive-menu > li:not(.trip-button) > a {
-  font-size: 15px;
+  font-size: 14px;
+}
+@media (min-width: 992px) {
+  /* Tüm öğeler tek satırda kalsın (admin girişinde "Admin Panel" de eklenir) */
+  #responsive-menu {
+    white-space: nowrap;
+  }
 }
 @media (min-width: 992px) and (max-width: 1500px) {
   #responsive-menu > li:not(.trip-button) > a {
-    font-size: 14px;
+    font-size: 13px;
   }
   #responsive-menu > li.px-2 {
-    padding-left: 0.3rem !important;
-    padding-right: 0.3rem !important;
+    padding-left: 0.25rem !important;
+    padding-right: 0.25rem !important;
   }
 }
 
