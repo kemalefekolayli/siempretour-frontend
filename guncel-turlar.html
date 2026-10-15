@@ -32,24 +32,49 @@
 
     <!-- Gemi turu filtre paneli: sonuçlar kaydırılırken panelin görünür kalması için -->
     <style>
-        /* Global `body{overflow-x:hidden}` position:sticky'i bozuyor; `clip` yatay
-           taşmayı yine engeller ama kaydırma bağlamı oluşturmaz, böylece sticky çalışır. */
-        body { overflow-x: clip; }
-        @media (min-width: 992px) {
-            #cruiseFilterSidebar {
-                position: sticky;
-                top: 90px;                       /* header'ın altında kalsın */
-                max-height: calc(100vh - 110px); /* uzun olursa panelin tamamı erişilebilir kalsın */
-                overflow-y: auto;
-                overflow-x: hidden;
-                padding-right: 6px;
-            }
-            /* panel içi kaydırma çubuğu ince ve sade */
-            #cruiseFilterSidebar::-webkit-scrollbar { width: 6px; }
-            #cruiseFilterSidebar::-webkit-scrollbar-thumb { background: #d9d9d9; border-radius: 6px; }
+        /* Başlık + küçük gün sayısı sıralama butonları */
+        .current-tours-head {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-end;
+            justify-content: space-between;
+            gap: 12px 24px;
         }
-        /* "Gemilerimizi Keşfedin" tanıtım bölümü (sade, arka plansız) */
-        .ship-explore-cta p { max-width: 640px; margin: 0 auto 1.5rem; }
+        .current-tours-sort { display: flex; align-items: center; gap: 6px; }
+        .current-tours-sort__label { font-size: 0.82rem; color: #666; white-space: nowrap; }
+        .current-tours-sort .duration-sort-btn { flex: 0 0 auto; padding: 4px 10px; font-size: 0.78rem; }
+
+        /* Fotoğraf üzerine gelince kararan katman ve gidilecek yerler metni */
+        .ct-card__media { display: block; position: relative; overflow: hidden; border-radius: 6px; }
+        .ct-card__media img { width: 100%; height: 100%; object-fit: cover; transition: transform .5s ease; }
+        .ct-card__overlay {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 24px;
+            background: rgba(0, 0, 0, 0.62);
+            color: #fff;
+            text-align: center;
+            font-size: 0.98rem;
+            line-height: 1.6;
+            opacity: 0;
+            transition: opacity .3s ease;
+        }
+        .ct-card__overlay span {
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 8;
+            overflow: hidden;
+        }
+        .ct-card:hover .ct-card__overlay,
+        .ct-card:focus-within .ct-card__overlay { opacity: 1; }
+        .ct-card:hover .ct-card__media img { transform: scale(1.04); }
+        @media (hover: none) {
+            .ct-card__overlay { display: none; }
+        }
+        .ct-card h5 { font-size: 1.2rem; }
     </style>
 
   <!-- Branded page loader: prevents half-rendered "broken" first paint -->
@@ -1190,92 +1215,24 @@
     <!-- Cruise Tours Dynamic Section -->
     <section class="trending pt-6 bg-lgrey">
         <div class="container">
-            <div class="row">
-                <div class="col-12 text-center mb-4">
+            <div class="current-tours-head mb-4">
+                <div>
                     <h2 class="mb-1">Güncel Turlarımızı Keşfedin</h2>
                     <p class="text-muted mb-0" id="cruiseCount"></p>
                 </div>
-            </div>
-            <div class="row">
-                <!-- gemi turu filtre sidebar -->
-                <div class="col-lg-4 ps-lg-1 pe-lg-4">
-                    <div class="sidebar-sticky" id="cruiseFilterSidebar">
-                        <div class="list-sidebar">
-                            <!-- Ülke filtresi (yazılabilir + açılır liste) -->
-                            <div class="sidebar-item mb-4">
-                                <h3 class="">Ülke</h3>
-                                <div class="input-group">
-                                    <span class="input-group-text bg-white"><i class="icon-location-pin"></i></span>
-                                    <input type="text" id="countrySearch" class="form-control" list="countryOptions"
-                                        placeholder="Ülke seçin veya yazın..." autocomplete="off">
-                                </div>
-                                <datalist id="countryOptions"></datalist>
-                            </div>
-                            <!-- Gemi adı filtresi (yazılabilir + açılır liste) -->
-                            <div class="sidebar-item mb-4">
-                                <h3 class="">Gemi Adı</h3>
-                                <div class="input-group">
-                                    <span class="input-group-text bg-white"><i class="fa fa-ship"></i></span>
-                                    <input type="text" id="shipSearch" class="form-control" list="shipOptions"
-                                        placeholder="Gemi seçin veya yazın..." autocomplete="off">
-                                </div>
-                                <datalist id="shipOptions"></datalist>
-                            </div>
-                            <!-- Ne zamanı filtresi -->
-                            <div class="sidebar-item mb-4">
-                                <h3 class="">Ne zamanı</h3>
-                                <select id="eventFilterSelect" class="sidebar-event-select">
-                                    <option value="">Tümü</option>
-                                    <option value="NISAN_23">23 Nisan Gezisi</option>
-                                    <option value="TIP_BAYRAMI">Tıp Bayramı</option>
-                                    <option value="MAYIS_1">1 Mayıs Bayramı</option>
-                                    <option value="MAYIS_19">19 Mayıs Gezisi</option>
-                                    <option value="TEMMUZ_15">15 Temmuz</option>
-                                    <option value="AGUSTOS_30">30 Ağustos</option>
-                                    <option value="EKIM_29">29 Ekim</option>
-                                    <option value="YILBASI">Yılbaşı Gezisi</option>
-                                    <option value="RAMAZAN_BAYRAMI">Ramazan Bayramı Gezisi</option>
-                                    <option value="KURBAN_BAYRAMI">Kurban Bayramı Gezisi</option>
-                                    <option value="SEMESTRE">Sömestre Gezisi</option>
-                                    <option value="PASKALYA">Paskalya</option>
-                                </select>
-                            </div>
-                            <!-- Gün sayısı filtresi -->
-                            <div class="sidebar-item mb-4">
-                                <h3 class="">Gün Sayısı</h3>
-                                <select id="durationFilterSelect" class="sidebar-event-select">
-                                    <option value="">Tümü</option>
-                                </select>
-                                <div class="duration-sort-row">
-                                    <button type="button" id="durationSortAsc" class="duration-sort-btn"><i class="fa fa-sort-numeric-asc"></i> Artan</button>
-                                    <button type="button" id="durationSortDesc" class="duration-sort-btn"><i class="fa fa-sort-numeric-desc"></i> Azalan</button>
-                                </div>
-                            </div>
-                            <!-- Tarih filtresi -->
-                            <div class="sidebar-item mb-4">
-                                <h3 class="">Tarih</h3>
-                                <div class="sidebar-date-filter">
-                                    <label class="sidebar-date-label">Başlangıç</label>
-                                    <input type="date" id="dateFilterStart" class="sidebar-date-input">
-                                    <label class="sidebar-date-label">Bitiş</label>
-                                    <input type="date" id="dateFilterEnd" class="sidebar-date-input">
-                                    <button type="button" id="dateFilterClear" class="sidebar-date-clear">Temizle</button>
-                                </div>
-                            </div>
-                            <div class="sidebar-item mb-4">
-                                <button type="button" id="clearCruiseFilters" class="sidebar-date-clear" style="width:100%;">Tüm Filtreleri Temizle</button>
-                            </div>
-                        </div>
-                    </div>
+                <div class="current-tours-sort">
+                    <span class="current-tours-sort__label">Gün sayısı:</span>
+                    <button type="button" id="durationSortAsc" class="duration-sort-btn"><i class="fa fa-sort-numeric-asc"></i> Artan</button>
+                    <button type="button" id="durationSortDesc" class="duration-sort-btn"><i class="fa fa-sort-numeric-desc"></i> Azalan</button>
                 </div>
-                <!-- gemi turu kartları -->
-                <div class="row col-lg-8" id="cruiseCards">
-                    <div class="col-12 text-center py-5">
-                        <div class="spinner-border text-primary" role="status">
-                            <span class="visually-hidden">Yükleniyor...</span>
-                        </div>
-                        <p class="mt-2">Gemi turları yükleniyor...</p>
+            </div>
+            <!-- güncel tur kartları -->
+            <div class="row" id="cruiseCards">
+                <div class="col-12 text-center py-5">
+                    <div class="spinner-border text-primary" role="status">
+                        <span class="visually-hidden">Yükleniyor...</span>
                     </div>
+                    <p class="mt-2">Turlar yükleniyor...</p>
                 </div>
             </div>
         </div>
@@ -1628,7 +1585,7 @@
     <script src="js/api-service.js"></script>
     <script src="js/link_generator_2.js"></script>
     <script src="js/tour-card-format.js?v=20260707g"></script>
-    <script src="js/guncel-turlar.js?v=20261005a"></script>
+    <script src="js/guncel-turlar.js?v=20261015a"></script>
     <script src="js/plugin.js"></script>
     <script src="js/main.js"></script>
     <script src="js/admin-nav.js"></script>
