@@ -38,10 +38,21 @@
             padding: 170px 0 120px;
             background-position: center 35%;
         }
+        /* Karartma yok; yazılar açık fotoğrafta okunsun diye gölge */
+        .current-tours-banner .dot-overlay,
+        .current-tours-banner .breadcrumb-outer:before { display: none; }
+        .current-tours-banner h1,
+        .current-tours-banner .breadcrumb-item,
+        .current-tours-banner .breadcrumb-item a {
+            color: #fff;
+            text-shadow: 0 2px 12px rgba(0, 0, 0, 0.55), 0 1px 3px rgba(0, 0, 0, 0.45);
+        }
+        .current-tours-banner .breadcrumb-item + .breadcrumb-item::before { color: #fff; }
         .current-tours-banner__credit {
             position: absolute;
             right: 16px;
-            bottom: 70px;
+            bottom: 14px;
+            text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
             z-index: 3;
             font-size: 0.7rem;
             color: rgba(255, 255, 255, 0.75);
@@ -50,7 +61,7 @@
         .current-tours-banner__credit:hover { color: #fff; }
         @media (max-width: 767px) {
             .breadcrumb-main.current-tours-banner { padding: 130px 0 90px; }
-            .current-tours-banner__credit { bottom: 40px; }
+            .current-tours-banner__credit { bottom: 10px; }
         }
 
         /* Başlık + küçük gün sayısı sıralama butonları */
@@ -1217,8 +1228,6 @@
     <section class="breadcrumb-main current-tours-banner" style="background-image: url(images/guncel-turlar-banner.webp);">
         <a class="current-tours-banner__credit" href="https://commons.wikimedia.org/wiki/File:Mt_Herschel,_Antarctica,_Jan_2006.jpg"
             target="_blank" rel="noopener">Fotoğraf: Andrew Mandemaker, CC BY-SA 2.5</a>
-        <div class="section-shape section-shape1 top-inherit bottom-0"
-            style="background-image: url(images/shape8.png);"></div>
         <div class="breadcrumb-outer">
             <div class="container">
                 <div class="breadcrumb-content text-center">
