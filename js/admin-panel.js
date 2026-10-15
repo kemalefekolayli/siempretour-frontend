@@ -358,7 +358,7 @@
       return;
     }
     node.innerHTML = table(["Tür", "Tur", "Kişi", "E-posta", "Telefon", "Durum", "Tarih"], rows.map(function (row) {
-      return [row.type === "reservation" ? "Rezervasyon" : "Bilgi", fmt(row.tourName), fmt(row.requesterName || row.requesterEmail), fmt(row.requesterEmail), fmt(row.requesterPhone), fmt(row.status), fmt((row.createdAt || "").slice(0, 10))];
+      return [row.type === "reservation" ? "Rezervasyon" : "Bilgi", esc(row.tourName), esc(row.requesterName || row.requesterEmail), esc(row.requesterEmail), esc(row.requesterPhone), esc(row.status), esc((row.createdAt || "").slice(0, 10))];
     }));
   }
 
@@ -370,7 +370,7 @@
       return;
     }
     node.innerHTML = table(["Ad", "Kategori", "Hedef", "Talep"], rows.map(function (row) {
-      return [fmt(row.name), fmt(row.category), fmt(row.destination), fmt(row.totalRequests)];
+      return [esc(row.name), esc(row.category), esc(row.destination), esc(row.totalRequests)];
     }));
   }
 

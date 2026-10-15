@@ -27,15 +27,16 @@ async function loadTours() {
     ? 'images/cruise/cruise-banner.jpg'
     : 'images/trending/trending-large.jpg');
 
-  // Set headers immediately with Turkish name
+  // Set headers immediately with Turkish name. textContent: the country comes from the URL,
+  // so it must never be parsed as HTML.
   const dest1 = document.getElementById('tour-tab');
-  if (dest1) dest1.innerHTML = isEn ? `${countryTr} Overview` : `${countryTr} Genel Bakış`;
+  if (dest1) dest1.textContent = isEn ? `${countryTr} Overview` : `${countryTr} Genel Bakış`;
   const dest2 = document.getElementById('overview-tab');
-  if (dest2) dest2.innerHTML = isEn ? `${countryTr} Tours` : `${countryTr} Turları`;
+  if (dest2) dest2.textContent = isEn ? `${countryTr} Tours` : `${countryTr} Turları`;
   const dest3 = document.getElementById('theHeaderOne');
-  if (dest3) dest3.innerHTML = countryTr;
+  if (dest3) dest3.textContent = countryTr;
   const dest4 = document.getElementById('theHeaderTwo');
-  if (dest4) dest4.innerHTML = countryTr;
+  if (dest4) dest4.textContent = countryTr;
 
   // "Gemilerimiz" tabını sadece gemi turları kategorisinde göster
   if (categoryParam === 'Ship/Cruise') {
@@ -119,7 +120,7 @@ async function loadTours() {
 
     if (!Array.isArray(tours) || tours.length === 0) {
       container.innerHTML =
-        isEn ? `<p>No tours are currently available for ${country}.</p>` : `<p>${country} icin su anda tur bulunamadi.</p>`;
+        isEn ? `<p>No tours are currently available for ${escapeCountryHtml(country)}.</p>` : `<p>${escapeCountryHtml(country)} icin su anda tur bulunamadi.</p>`;
       return;
     }
 
@@ -176,8 +177,15 @@ async function loadTours() {
   } catch (err) {
     console.error('Turlar yüklenirken hata:', err);
     container.innerHTML =
-      isEn ? `<p>${country} tours are not available right now.</p>` : `<p>Su anda ${country} turlari yuklenemiyor.</p>`;
+      isEn ? `<p>${escapeCountryHtml(country)} tours are not available right now.</p>` : `<p>Su anda ${escapeCountryHtml(country)} turlari yuklenemiyor.</p>`;
   }
+}
+
+// Country comes from the URL; escape it before placing it in HTML.
+function escapeCountryHtml(value) {
+  return String(value == null ? '' : value)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 }
 
 function isEnglishLang() {
