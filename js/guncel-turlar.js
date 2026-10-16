@@ -57,6 +57,25 @@
       .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
+  // Dates on one line: the first MAX_VISIBLE_DATES as badges, the rest as "+N"
+  // (all dates listed in its tooltip).
+  var MAX_VISIBLE_DATES = 2;
+  function compactDatesHtml(tour) {
+    var fmt = window.TourCardFormat;
+    if (!fmt) return '';
+    var list = fmt.departures(tour).map(function (d) { return fmt.fmtDate(d.departureDate); });
+    if (!list.length && tour.startDate) list = [fmt.fmtDate(tour.startDate)];
+    if (!list.length) return '';
+    var shown = list.slice(0, MAX_VISIBLE_DATES).map(function (d) {
+      return '<span class="tour-date-badge">' + escapeHtml(d) + '</span>';
+    }).join('');
+    var rest = list.length - MAX_VISIBLE_DATES;
+    if (rest > 0) {
+      shown += '<span class="tour-date-badge ct-card__more" title="' + escapeHtml(list.join(', ')) + '">+' + rest + '</span>';
+    }
+    return '<span class="ct-card__dates">' + shown + '</span>';
+  }
+
   // ---------------------------------------------------------------------------
   // Render
   // ---------------------------------------------------------------------------
@@ -88,28 +107,27 @@
       var destTr = escapeHtml(window.TourCardFormat ? window.TourCardFormat.destinationLabel(tour) : (tour.destination || ''));
       var detailUrl = makeDetailUrl(tour);
       var priceHtml = window.TourCardFormat ? window.TourCardFormat.priceHtml(tour, isEn()) : '';
-      var datesHtml = window.TourCardFormat ? window.TourCardFormat.datesHtml(tour, isEn()) : '';
+      var datesHtml = compactDatesHtml(tour);
 
+      // Below the photo only two lines: (1) days + countries, (2) price + dates.
+      // Tour name and places visited live in the hover overlay on the photo.
       html +=
         '<div class="tour-card ct-card col-lg-4 col-md-6 mb-4">' +
-          '<div class="pb-4 mb-0">' +
-            '<a class="ct-card__media ratio ratio-4x3" href="' + detailUrl + '" aria-label="' + title + '">' +
-              '<img src="' + (image || FALLBACK_IMAGE) + '" alt="' + alt + '" loading="lazy" ' +
-                'onerror="this.onerror=null;this.src=\'' + FALLBACK_IMAGE + '\'">' +
-              (places ? '<div class="ct-card__overlay"><span>' + places + '</span></div>' : '') +
-            '</a>' +
-            '<div class="trend-content p-0 pt-3 position-relative">' +
-              '<div class="entry-meta d-flex justify-content-between align-items-center mb-1">' +
-                '<div class="entry-author"><p class="mb-0">' +
-                  (days ? (isEn() ? days + '-day tour' : days + ' günlük tur') : '') +
-                '</p></div>' +
-                (destTr ? '<div class="entry-destination text-end"><p class="mb-0"><i class="icon-location-pin"></i> ' + destTr + '</p></div>' : '') +
-              '</div>' +
-              '<h5 class="mb-2"><a href="' + detailUrl + '">' + title + '</a></h5>' +
-              (shipName ? '<p class="text-muted mb-1"><i class="fa fa-ship"></i> ' + shipName + '</p>' : '') +
-              priceHtml +
-              datesHtml +
+          '<a class="ct-card__media ratio ratio-4x3" href="' + detailUrl + '" aria-label="' + title + '">' +
+            '<img src="' + (image || FALLBACK_IMAGE) + '" alt="' + alt + '" loading="lazy" ' +
+              'onerror="this.onerror=null;this.src=\'' + FALLBACK_IMAGE + '\'">' +
+            '<div class="ct-card__overlay">' +
+              '<h5 class="ct-card__title">' + title + '</h5>' +
+              (shipName ? '<div class="ct-card__ship"><i class="fa fa-ship"></i> ' + shipName + '</div>' : '') +
+              (places ? '<p class="ct-card__places">' + places + '</p>' : '') +
             '</div>' +
+          '</a>' +
+          '<div class="ct-card__info">' +
+            '<div class="ct-card__row">' +
+              '<span class="ct-card__days">' + (days ? (isEn() ? days + '-day tour' : days + ' günlük tur') : '') + '</span>' +
+              (destTr ? '<span class="ct-card__dest"><i class="icon-location-pin"></i> ' + destTr + '</span>' : '') +
+            '</div>' +
+            '<div class="ct-card__row">' + priceHtml + datesHtml + '</div>' +
           '</div>' +
         '</div>';
     });

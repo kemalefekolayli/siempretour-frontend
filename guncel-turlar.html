@@ -83,30 +83,70 @@
             position: absolute;
             inset: 0;
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
+            gap: 10px;
             padding: 24px;
             background: rgba(0, 0, 0, 0.62);
             color: #fff;
             text-align: center;
-            font-size: 0.98rem;
-            line-height: 1.6;
             opacity: 0;
             transition: opacity .3s ease;
         }
-        .ct-card__overlay span {
+        .ct-card__title {
+            margin: 0;
+            color: #fff;
+            font-size: 1.25rem;
+            line-height: 1.35;
+        }
+        .ct-card__ship { font-size: 0.85rem; opacity: .9; }
+        .ct-card__places {
+            margin: 0;
+            color: #fff;
+            font-size: 0.95rem;
+            line-height: 1.6;
             display: -webkit-box;
             -webkit-box-orient: vertical;
-            -webkit-line-clamp: 8;
+            -webkit-line-clamp: 6;
             overflow: hidden;
         }
         .ct-card:hover .ct-card__overlay,
         .ct-card:focus-within .ct-card__overlay { opacity: 1; }
         .ct-card:hover .ct-card__media img { transform: scale(1.04); }
+        /* Dokunmatik ekranda hover yok: tur adı fotoğrafın altında koyu şeritte hep görünür */
         @media (hover: none) {
-            .ct-card__overlay { display: none; }
+            .ct-card__overlay {
+                opacity: 1;
+                top: auto;
+                justify-content: flex-end;
+                padding: 40px 14px 12px;
+                background: linear-gradient(to top, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+            }
+            .ct-card__title { font-size: 1.05rem; }
+            .ct-card__places, .ct-card__ship { display: none; }
         }
-        .ct-card h5 { font-size: 1.2rem; }
+
+        /* Kart altı: tam iki satır */
+        .ct-card__info { padding-top: 12px; }
+        .ct-card__row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            min-height: 30px;
+            white-space: nowrap;
+        }
+        .ct-card__days { color: #555; }
+        .ct-card__dest {
+            color: #555;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            min-width: 0;
+        }
+        .ct-card__row .tour-card-price { flex: 0 0 auto; }
+        .ct-card__dates { display: inline-flex; gap: 6px; flex: 0 1 auto; min-width: 0; overflow: hidden; }
+        .ct-card__more { cursor: help; }
     </style>
 
   <!-- Branded page loader: prevents half-rendered "broken" first paint -->
@@ -1616,7 +1656,7 @@
     <script src="js/api-service.js"></script>
     <script src="js/link_generator_2.js"></script>
     <script src="js/tour-card-format.js?v=20260707g"></script>
-    <script src="js/guncel-turlar.js?v=20261015a"></script>
+    <script src="js/guncel-turlar.js?v=20261016a"></script>
     <script src="js/plugin.js"></script>
     <script src="js/main.js"></script>
     <script src="js/admin-nav.js"></script>

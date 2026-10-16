@@ -125,6 +125,7 @@ function renderTour(tour) {
     setImg(`image${n}`, tour[`image${n}`]);
     setImg(`image${n}${n}`, tour[`image${n}`]);
   });
+  addTourVideoSlide(tour);
 
   renderDayInfo(tour.dayInfo);
   renderDepartures(tour);
@@ -413,6 +414,86 @@ function getQueryParam(name) {
   return new URLSearchParams(window.location.search).get(name);
 }
 
+// --- Tour video (optional, admin "videoUrl"): first slide of the gallery ---------------
+function youtubeVideoId(url) {
+  const m = String(url || '').match(/(?:youtube\.com\/(?:watch\?(?:.*&)?v=|embed\/|shorts\/)|youtu\.be\/)([A-Za-z0-9_-]{11})/);
+  return m ? m[1] : null;
+}
+
+// Only http(s) URLs or site-relative paths are used, so a bad value can't inject a javascript: URL.
+function safeVideoSrc(url) {
+  const value = String(url || '').trim();
+  if (/^https?:\/\//i.test(value) || value.startsWith('/')) return value;
+  return null;
+}
+
+function addTourVideoSlide(tour) {
+  const store = document.querySelector('.slider-store');
+  const thumbs = document.querySelector('.slider-thumbs');
+  if (!store || !thumbs || !tour || !tour.videoUrl) return;
+  if (store.querySelector('.tour-video-slide')) return;
+
+  // The theme may already have turned the gallery into a slick slider; slick restores its
+  // own saved slides on re-init, so tear it down first or the new slide would be dropped.
+  if (window.jQuery && jQuery.fn && jQuery.fn.slick) {
+    if (jQuery(store).hasClass('slick-initialized')) jQuery(store).slick('unslick');
+    if (jQuery(thumbs).hasClass('slick-initialized')) jQuery(thumbs).slick('unslick');
+  }
+
+  const ytId = youtubeVideoId(tour.videoUrl);
+  const slide = document.createElement('div');
+  slide.className = 'tour-video-slide';
+  const thumb = document.createElement('div');
+  thumb.className = 'tour-video-thumb';
+  const thumbImg = document.createElement('img');
+  thumbImg.loading = 'lazy';
+  thumbImg.alt = trEn('Tur videosu', 'Tour video');
+
+  if (ytId) {
+    const iframe = document.createElement('iframe');
+    iframe.src = `https://www.youtube-nocookie.com/embed/${ytId}?rel=0&playsinline=1&enablejsapi=1`;
+    iframe.title = trEn('Tur videosu', 'Tour video');
+    iframe.allow = 'accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen';
+    iframe.allowFullscreen = true;
+    iframe.loading = 'lazy';
+    slide.appendChild(iframe);
+    thumbImg.src = `https://img.youtube.com/vi/${ytId}/hqdefault.jpg`;
+  } else {
+    const src = safeVideoSrc(resolveAssetUrl(tour.videoUrl));
+    if (!src) return;
+    const video = document.createElement('video');
+    video.src = src;
+    video.controls = true;
+    video.muted = true;
+    video.loop = true;
+    video.playsInline = true;
+    video.preload = 'metadata';
+    video.setAttribute('playsinline', '');
+    slide.appendChild(video);
+    thumbImg.src = resolveAssetUrl(tour.image1 || tour.mainPhoto || '');
+  }
+
+  thumb.appendChild(thumbImg);
+  const play = document.createElement('span');
+  play.className = 'tour-video-thumb__play';
+  play.setAttribute('aria-hidden', 'true');
+  thumb.appendChild(play);
+
+  store.insertBefore(slide, store.firstChild);
+  thumbs.insertBefore(thumb, thumbs.firstChild);
+}
+
+// Pauses whatever video is in the given slide (HTML5 or YouTube iframe).
+function pauseTourVideo(slideEl) {
+  if (!slideEl) return;
+  const video = slideEl.querySelector('video');
+  if (video) video.pause();
+  const iframe = slideEl.querySelector('iframe');
+  if (iframe && iframe.contentWindow) {
+    iframe.contentWindow.postMessage(JSON.stringify({ event: 'command', func: 'pauseVideo', args: [] }), '*');
+  }
+}
+
 function initTourSliders() {
   if (!window.jQuery || !jQuery.fn || !jQuery.fn.slick) return;
 
@@ -456,6 +537,35 @@ function initTourSliders() {
 
   $store.slick('setPosition');
   $thumbs.slick('setPosition');
+
+  // With a video as the first slide, the gallery holds still while the video slide is
+  // shown (it would otherwise move on after a few seconds) and the video stops when the
+  // visitor moves to a photo; autoplay resumes on the photos.
+  if ($store.find('.tour-video-slide').length) {
+    const onVideoSlide = () => {
+      $store.slick('slickPause');
+      $thumbs.slick('slickPause');
+      const video = $store.find('.slick-current video').get(0);
+      if (video) {
+        const p = video.play();
+        if (p && typeof p.catch === 'function') p.catch(() => {});
+      }
+    };
+    $store.on('beforeChange', (e, slick, current, next) => {
+      if (current !== next) pauseTourVideo($store.find('.slick-slide[data-slick-index="' + current + '"]').get(0));
+    });
+    $store.on('afterChange', (e, slick, current) => {
+      // slick (rows: 1) wraps each child, so look inside the slide as well.
+      const $slide = jQuery(slick.$slides.get(current));
+      if ($slide.hasClass('tour-video-slide') || $slide.find('.tour-video-slide').length) {
+        onVideoSlide();
+      } else {
+        $store.slick('slickPlay');
+        $thumbs.slick('slickPlay');
+      }
+    });
+    onVideoSlide();
+  }
 }
 
 /* 🔥 FINAL LOADER — Backend API */

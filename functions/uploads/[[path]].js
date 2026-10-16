@@ -14,9 +14,14 @@ export async function onRequest(context) {
     return fetch(target, request);
   }
 
+  const headers = { "Accept": request.headers.get("Accept") || "*/*" };
+  // Videolarda ileri/geri sarma ve Safari oynatimi icin Range istegi backend'e iletilir.
+  const range = request.headers.get("Range");
+  if (range) headers["Range"] = range;
+
   const resp = await fetch(target, {
     method: request.method,
-    headers: { "Accept": request.headers.get("Accept") || "*/*" },
+    headers,
     cf: { cacheEverything: true, cacheTtl: 86400 },
   });
 

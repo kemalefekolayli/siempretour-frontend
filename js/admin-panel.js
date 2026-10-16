@@ -760,6 +760,8 @@
     });
     imageInput.addEventListener("change", uploadImages);
     if (pdfInput) pdfInput.addEventListener("change", uploadPdf);
+    var videoInput = document.getElementById("tour-video");
+    if (videoInput) videoInput.addEventListener("change", uploadVideo);
 
     await loadMetadata();
 
@@ -886,7 +888,7 @@
   }
 
   function fillTourForm(tour) {
-    ["name", "slug", "language", "departureCity", "duration", "price", "discountedPrice", "minimumAge", "mainPhoto", "image1", "image2", "image3", "image4", "image5", "image6", "imagealt", "detailPdfUrl", "generalInfo", "placesVisited", "whatExpect", "meet"].forEach(function (field) {
+    ["name", "slug", "language", "departureCity", "duration", "price", "discountedPrice", "minimumAge", "mainPhoto", "image1", "image2", "image3", "image4", "image5", "image6", "imagealt", "detailPdfUrl", "videoUrl", "generalInfo", "placesVisited", "whatExpect", "meet"].forEach(function (field) {
       var node = document.querySelector('[name="' + field + '"]');
       if (node) node.value = tour[field] || "";
     });
@@ -951,6 +953,7 @@
       if (!data[field]) data[field] = "";
     });
     if (!data.detailPdfUrl) data.detailPdfUrl = "";
+    if (!data.videoUrl) data.videoUrl = "";
     return data;
   }
 
@@ -1095,6 +1098,64 @@
         : "PDF yukleme basarisiz: " + (error.message || "HTTP hatasi");
       setPdfUploadStatus(message);
       toast(authError ? "Oturum suresi doldu." : "PDF yukleme basarisiz.");
+    } finally {
+      if (input) {
+        input.disabled = false;
+        input.value = "";
+      }
+    }
+  }
+
+  function setVideoUploadStatus(message) {
+    var node = document.getElementById("video-upload-status");
+    if (node) node.textContent = message || "";
+  }
+
+  async function uploadVideo(event) {
+    if (event) {
+      event.preventDefault();
+      event.stopPropagation();
+    }
+
+    var input = event && event.currentTarget ? event.currentTarget : document.getElementById("tour-video");
+    var file = input && input.files ? input.files[0] : null;
+    if (!file) return;
+    saveTourDraft(activeTourDraftKey);
+
+    if (file.type !== "video/mp4" && file.type !== "video/webm") {
+      setVideoUploadStatus(file.name + " bir MP4 veya WebM video değil.");
+      if (input) input.value = "";
+      return;
+    }
+    if (file.size > 100 * 1024 * 1024) {
+      setVideoUploadStatus(file.name + " 100 MB sınırından büyük. Videoyu sıkıştırın veya YouTube bağlantısı kullanın.");
+      if (input) input.value = "";
+      return;
+    }
+
+    setVideoUploadStatus("Video yükleniyor... (büyük dosyalarda birkaç dakika sürebilir)");
+    if (input) input.disabled = true;
+
+    try {
+      var response = await ApiService.adminUploadTourVideo(file);
+      if (response && response.videoUrl) {
+        var videoField = document.querySelector('[name="videoUrl"]');
+        if (videoField) videoField.value = response.videoUrl;
+        saveTourDraft(activeTourDraftKey);
+        setVideoUploadStatus("Video yüklendi. Kaydetmeyi unutmayın.");
+        toast("Video yüklendi.");
+      } else {
+        var message = "Video yüklenemedi." + (response && response.warning ? " " + response.warning : "");
+        setVideoUploadStatus(message);
+        toast("Video yüklenemedi.");
+      }
+    } catch (error) {
+      var authError = error && (error.status === 401 || error.status === 403);
+      var errMessage = authError
+        ? "Oturum süresi doldu veya admin yetkisi yok. Lütfen tekrar giriş yapın."
+        : "Video yükleme başarısız: " + (error.message || "HTTP hatası");
+      setVideoUploadStatus(errMessage);
+      toast(authError ? "Oturum süresi doldu." : "Video yükleme başarısız.");
     } finally {
       if (input) {
         input.disabled = false;
