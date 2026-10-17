@@ -8,8 +8,19 @@
   var FALLBACK_IMAGE = 'images/cruise/cruise-banner.jpg';
   var durationSortMode = null; // null | 'asc' | 'desc'
 
-  // Varsayılan: en yakın kalkış tarihi önde. Artan/Azalan aktifse gün sayısına göre.
+  // Gemi turları ("Ship/Cruise" ve "Ship" kategorileri) ayrı grup olarak en sonda gelir.
+  function isCruiseTour(tour) {
+    var c = String((tour && tour.category) || '').toUpperCase();
+    return c === 'SHIP/CRUISE' || c === 'CRUISE' || c === 'SHIP';
+  }
+
+  // Önce gemi dışı turlar, sonra gemi turları. Her grubun içinde sıralama aynı:
+  // varsayılan en yakın kalkış tarihi önde, Artan/Azalan aktifse gün sayısına göre.
   function compareTours(a, b) {
+    var aCruise = isCruiseTour(a);
+    var bCruise = isCruiseTour(b);
+    if (aCruise !== bCruise) return aCruise ? 1 : -1;
+
     var da = parseInt(a && a.durationDays, 10) || 0;
     var db = parseInt(b && b.durationDays, 10) || 0;
     if (durationSortMode === 'asc') return da - db;
