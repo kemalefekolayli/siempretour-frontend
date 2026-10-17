@@ -85,13 +85,15 @@ function renderRouteMap(routeCoordinates) {
         scrollWheelZoom: false
     });
 
-    // Minimal premium tile
+    // OpenStreetMap tiles (no API key). CARTO basemaps started returning
+    // "API KEY REQUIRED" tiles; the soft grey look is kept with a CSS filter
+    // on .tour-map-tiles (template_tour_page.html).
     L.tileLayer(
-        'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
+        'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
         {
-            attribution: '&copy; OpenStreetMap &copy; CartoDB',
-            subdomains: 'abcd',
-            maxZoom: 20
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
+            maxZoom: 19,
+            className: 'tour-map-tiles'
         }
     ).addTo(tourMapInstance);
 

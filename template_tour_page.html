@@ -171,6 +171,10 @@
 
         /* Sabit (fixed-top) navbar içeriği örtüyor; başlığı navbarın altına
            indirmek için navbar yüksekliği kadar + biraz nefes payı boşluk ver. */
+        /* Harita: OpenStreetMap karoları sade, gri tonlu görünsün (eski CARTO light stili gibi) */
+        .tour-map-tiles {
+            filter: grayscale(1) brightness(1.06) contrast(0.92);
+        }
         .breadcrumb-container {
             padding-top: 120px;
         }
@@ -1516,7 +1520,7 @@
     <!-- <script src="js/particles.js"></script>
     <script src="js/particlerun.js"></script> -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="js/template_tour_map.js?v=20260708c"></script>
+    <script src="js/template_tour_map.js?v=20261017a"></script>
 
     <script src="js/plugin.js"></script>
     <script src="js/main.js"></script>
