@@ -63,6 +63,67 @@ function createCurve(start, end) {
 // --------------------
 // Main Render
 // --------------------
+// Base map: OpenFreeMap "positron" vector style (free, no API key, commercial use allowed),
+// drawn through MapLibre GL so place names can be shown in Turkish/English instead of the
+// local script (raster OSM tiles show e.g. Japanese or Khmer labels). CARTO, used before,
+// now answers with "API KEY REQUIRED" tiles. If MapLibre isn't available, fall back to
+// raster OpenStreetMap tiles.
+const TOUR_MAP_STYLE = 'https://tiles.openfreemap.org/styles/positron';
+
+function tourMapLabelExpression() {
+    const lang = typeof getActiveLang === 'function' ? getActiveLang() : 'tr';
+    const order = lang === 'en'
+        ? ['name:en', 'name_en', 'name:latin', 'name']
+        : ['name:tr', 'name:en', 'name_en', 'name:latin', 'name'];
+    return ['coalesce'].concat(order.map(key => ['get', key]));
+}
+
+function addTourBaseMap(map) {
+    if (typeof L.maplibreGL === 'function' && window.maplibregl) {
+        try {
+            const layer = L.maplibreGL({
+                style: TOUR_MAP_STYLE,
+                attributionControl: false,
+                preserveDrawingBuffer: true // keeps the map visible when the page is printed
+            }).addTo(map);
+            map.attributionControl.addAttribution(
+                '&copy; <a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> ' +
+                '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'
+            );
+            // The MapLibre map only exists once the Leaflet map has a view (set later by
+            // fitBounds), so the label language is applied from whenReady.
+            map.whenReady(() => {
+                try {
+                    const gl = layer.getMaplibreMap();
+                    if (!gl) return;
+                    const applyLabels = () => {
+                        const style = gl.getStyle();
+                        if (!style || !style.layers) return;
+                        const expr = tourMapLabelExpression();
+                        style.layers.forEach(l => {
+                            if (l.type === 'symbol' && l.layout && l.layout['text-field']) {
+                                gl.setLayoutProperty(l.id, 'text-field', expr);
+                            }
+                        });
+                    };
+                    if (gl.isStyleLoaded()) applyLabels(); else gl.once('load', applyLabels);
+                } catch (e) {
+                    console.warn('Harita etiket dili ayarlanamadı:', e);
+                }
+            });
+            return;
+        } catch (e) {
+            console.warn('Vektör harita yüklenemedi, OpenStreetMap karolarına dönülüyor:', e);
+        }
+    }
+
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
+        maxZoom: 19,
+        className: 'tour-map-tiles'
+    }).addTo(map);
+}
+
 function renderRouteMap(routeCoordinates) {
 
     const mapContainer = document.getElementById('mappp');
@@ -85,17 +146,7 @@ function renderRouteMap(routeCoordinates) {
         scrollWheelZoom: false
     });
 
-    // OpenStreetMap tiles (no API key). CARTO basemaps started returning
-    // "API KEY REQUIRED" tiles; the soft grey look is kept with a CSS filter
-    // on .tour-map-tiles (template_tour_page.html).
-    L.tileLayer(
-        'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
-        {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
-            maxZoom: 19,
-            className: 'tour-map-tiles'
-        }
-    ).addTo(tourMapInstance);
+    addTourBaseMap(tourMapInstance);
 
     const latlngs = [];
 
