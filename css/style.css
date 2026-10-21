@@ -8234,7 +8234,7 @@ ul.sidebar-tags li a:hover {
 }
 @media (min-width: 992px) and (max-width: 1600px) {
   #responsive-menu > li:not(.trip-button) > a {
-    font-size: 13px;
+    font-size: 12.5px;
   }
 }
 @media (min-width: 992px) and (max-width: 1440px) {
@@ -8247,6 +8247,55 @@ ul.sidebar-tags li a:hover {
   }
   .navbar-collapse1 > .navbar-header .navbar-brand img {
     max-width: 160px;
+  }
+}
+/* 8-9 menü öğesi (Tur Rehberleri + admin girişinde Admin Panel) dil seçicisine taşmasın:
+   boşluklar ve dil seçicinin iç boşluğu daraltılır */
+@media (min-width: 992px) {
+  .header_menu .navbar-collapse1.gap-6 {
+    gap: 16px !important;
+  }
+  #responsive-menu > li.px-2 {
+    padding-left: 0.1rem !important;
+    padding-right: 0.1rem !important;
+  }
+  .header_menu .navbar.navbar-default #responsive-menu > li:not(.trip-button) > a {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+  .header_menu .lang-switch,
+  .lang-switch {
+    min-width: 0 !important;
+    padding: 0 6px;
+    gap: 6px;
+  }
+  .header_menu #google_translate_element select.goog-te-combo {
+    padding: 8px 22px 8px 4px;
+    font-size: 13px;
+    max-width: 96px;
+  }
+  .header_menu .lang-switch::after {
+    right: 8px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1366px) {
+  #responsive-menu > li:not(.trip-button) > a {
+    font-size: 11.5px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1250px) {
+  #responsive-menu > li:not(.trip-button) > a {
+    font-size: 11px;
+  }
+  .header_menu .navbar-collapse1.gap-6 {
+    gap: 10px !important;
+  }
+  .header_menu .navbar.navbar-default #responsive-menu > li:not(.trip-button) > a {
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+  .navbar-collapse1 > .navbar-header .navbar-brand img {
+    max-width: 140px;
   }
 }
 

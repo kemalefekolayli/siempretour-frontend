@@ -7,6 +7,9 @@
 data/*
 !data/siempre_tour_country_datas/
 !data/siempre_tour_country_datas_tr/
+# Tur Rehberleri pages fetch data/tur-rehberleri/*.json (built by
+# tools/build_tur_rehberleri.js; ~12MB, 198 files).
+!data/tur-rehberleri/
 
 # OS files
 .DS_Store
