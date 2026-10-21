@@ -4,7 +4,7 @@
 // HTML is generated at build time from the archive's Markdown with raw HTML escaped.
 
 (function () {
-  var DATA_VERSION = '20261021a';
+  var DATA_VERSION = '20261021b';
   var guide = null;
 
   function isEn() {

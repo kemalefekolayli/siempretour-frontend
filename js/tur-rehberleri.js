@@ -2,7 +2,7 @@
 // Data: data/tur-rehberleri/index.json (built by tools/build_tur_rehberleri.js).
 
 (function () {
-  var DATA_URL = 'data/tur-rehberleri/index.json?v=20261021a';
+  var DATA_URL = 'data/tur-rehberleri/index.json?v=20261021b';
 
   function isEn() {
     return (typeof getActiveLang === 'function' ? getActiveLang() : 'tr') === 'en';

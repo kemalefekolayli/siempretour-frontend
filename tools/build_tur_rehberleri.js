@@ -165,6 +165,14 @@ const SECTION_RULES = [
   { test: /responsible-tourism|responsible-travel/, label: 'Sorumlu Turizm', order: 9 }
 ];
 
+// Guide-specific cover photos (public domain / CC0, from Wikimedia Commons) for
+// guides without a tour-photos folder: images/tur-rehberleri/<country-slug>.webp
+function coverPhoto(slug, folder) {
+  const own = path.join(frontend, 'images', 'tur-rehberleri', slug + '.webp');
+  if (fs.existsSync(own)) return 'images/tur-rehberleri/' + slug + '.webp';
+  return firstPhoto(folder);
+}
+
 function firstPhoto(folder) {
   if (!folder) return null;
   const base = path.join(photoRoot, folder);
@@ -231,7 +239,7 @@ for (const region of fs.readdirSync(dataDir)) {
     });
     sections.sort((a, b) => a.order - b.order || a.title.localeCompare(b.title, 'tr'));
     const nameEn = sections[0] ? sections[0].nameEn : folder;
-    const photo = firstPhoto(photoFolder);
+    const photo = coverPhoto(folder, photoFolder);
     const doc = {
       slug: folder, region, regionTr: R.tr, nameTr, nameEn, tourKey: tourKey || null, photo,
       sections: sections.map(s => ({ id: s.id, label: s.label, title: s.title, html: s.html }))
