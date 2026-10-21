@@ -8236,6 +8236,9 @@ ul.sidebar-tags li a:hover {
   #responsive-menu > li:not(.trip-button) > a {
     font-size: 12.5px;
   }
+  .navbar-collapse1 > .navbar-header .navbar-brand img {
+    max-width: 165px;
+  }
 }
 @media (min-width: 992px) and (max-width: 1440px) {
   #responsive-menu > li:not(.trip-button) > a {
@@ -8280,7 +8283,7 @@ ul.sidebar-tags li a:hover {
 }
 @media (min-width: 992px) and (max-width: 1366px) {
   #responsive-menu > li:not(.trip-button) > a {
-    font-size: 11.5px;
+    font-size: 11px;
   }
 }
 @media (min-width: 992px) and (max-width: 1250px) {
@@ -8295,7 +8298,7 @@ ul.sidebar-tags li a:hover {
     padding-right: 2px;
   }
   .navbar-collapse1 > .navbar-header .navbar-brand img {
-    max-width: 140px;
+    max-width: 130px;
   }
 }
 

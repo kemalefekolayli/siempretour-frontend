@@ -1,8 +1,8 @@
-// tur-rehberleri.js — "Tur Rehberleri" list page: region sections with country cards.
+// tur-rehberleri.js — "Seyahat Rehberleri" list page: region sections with country cards.
 // Data: data/tur-rehberleri/index.json (built by tools/build_tur_rehberleri.js).
 
 (function () {
-  var DATA_URL = 'data/tur-rehberleri/index.json?v=20261021b';
+  var DATA_URL = 'data/tur-rehberleri/index.json?v=20261021c';
 
   function isEn() {
     return (typeof getActiveLang === 'function' ? getActiveLang() : 'tr') === 'en';
@@ -25,7 +25,7 @@
 
   function cardNode(country, region) {
     var a = el('a', 'guide-card');
-    a.href = 'tur-rehberi.html?ulke=' + encodeURIComponent(country.slug);
+    a.href = 'seyahat-rehberi.html?ulke=' + encodeURIComponent(country.slug);
     a.setAttribute('data-search', norm(country.nameTr + ' ' + country.nameEn));
     if (country.photo) {
       var img = el('img');

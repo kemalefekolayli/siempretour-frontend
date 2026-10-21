@@ -63,7 +63,7 @@
                 <li class="submenu dropdown px-2"><a href="yorumlar.html">Yorumlar</a></li>
 
                 <!--TURLAR BAŞLANGIÇ-->
-                <li class="submenu dropdown px-2"><a href="tur-rehberleri.html">Tur Rehberleri</a></li>
+                <li class="submenu dropdown px-2"><a href="seyahat-rehberleri.html">Seyahat Rehberleri</a></li>
                 <li id="menu-turlar" class="dropdown submenu desktop-tours-trigger px-2"><a href="#" id="megaTrigger" aria-expanded="false"
                     aria-controls="megaFull">TURLAR</a></li>                <li class="submenu dropdown px-2"><a href="guncel-turlar.html">Güncel Turlar</a></li>
                 <li class="submenu dropdown px-2"><a href="cruise-grid.html">Gemi Turları</a></li>
@@ -879,6 +879,10 @@
                                 data-bs-target="#guide-tab-pane" type="button" role="tab" aria-controls="guide-tab-pane"
                                 aria-selected="false">Gidilecek En iyi Zaman</button>
                         </li>
+                        <!-- Ülkenin seyahat rehberi varsa görünür; ayrı sayfada açılır (template_tours_grid_page.js) -->
+                        <li class="nav-item bg-grey d-none" id="travel-guide-tab-item" role="presentation">
+                            <a class="nav-link" id="travel-guide-tab" href="seyahat-rehberleri.html">Seyahat Rehberi</a>
+                        </li>
                         <li class="nav-item bg-grey d-none" id="ships-tab-item" role="presentation">
                             <button class="nav-link" id="ships-tab" data-bs-toggle="tab"
                                 data-bs-target="#ships-tab-pane" type="button" role="tab"
@@ -1524,7 +1528,7 @@
     <script src="js/template_tour_grid_filter.js?v=20260707h"></script>
     <script src="js/link_generator_2.js"></script>
     <script src="js/tour-card-format.js?v=20260707g"></script>
-    <script src="js/template_tours_grid_page.js"></script>
+    <script src="js/template_tours_grid_page.js?v=20261021c"></script>
     <script src="js/template_tour_grid_page_2.js"></script>
     <script src="js/template_tour_grid_page_3.js"></script>
     <script src="js/template_tour_grid_page_4.js"></script>

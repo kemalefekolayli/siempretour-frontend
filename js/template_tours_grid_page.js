@@ -38,6 +38,8 @@ async function loadTours() {
   const dest4 = document.getElementById('theHeaderTwo');
   if (dest4) dest4.textContent = countryTr;
 
+  showTravelGuideTab(country, countryTr, isEn);
+
   // "Gemilerimiz" tabını sadece gemi turları kategorisinde göster
   if (categoryParam === 'Ship/Cruise') {
     const shipsTabItem = document.getElementById('ships-tab-item');
@@ -186,6 +188,30 @@ function escapeCountryHtml(value) {
   return String(value == null ? '' : value)
     .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+}
+
+// "<Ülke> Seyahat Rehberi" tab: shown only when a destination guide exists for this
+// country (matched by the tour-page country key stored in the guide index). It is a
+// plain link; the guide opens on its own page.
+function showTravelGuideTab(country, countryTr, isEn) {
+  const item = document.getElementById('travel-guide-tab-item');
+  const link = document.getElementById('travel-guide-tab');
+  if (!item || !link || !country) return;
+  fetch('data/tur-rehberleri/index.json?v=20261021c')
+    .then(r => (r.ok ? r.json() : null))
+    .then(index => {
+      if (!index || !Array.isArray(index.regions)) return;
+      let guide = null;
+      index.regions.some(region => {
+        guide = (region.countries || []).find(c => c.tourKey === country) || null;
+        return !!guide;
+      });
+      if (!guide) return;
+      link.href = 'seyahat-rehberi.html?ulke=' + encodeURIComponent(guide.slug);
+      link.textContent = isEn ? `${guide.nameEn} Travel Guide` : `${countryTr} Seyahat Rehberi`;
+      item.classList.remove('d-none');
+    })
+    .catch(() => { /* tab stays hidden */ });
 }
 
 function isEnglishLang() {

@@ -6,7 +6,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Tur Rehberi | Siempre Tour</title>
+    <title>Seyahat Rehberleri | Siempre Tour</title>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.svg" />
     <!-- Bootstrap core CSS -->
@@ -70,7 +70,7 @@
                                 <li class="submenu dropdown px-2"><a href="yorumlar.html">Yorumlar</a></li>
 
                                 <!--TURLAR BAŞLANGIÇ-->
-                                <li class="submenu dropdown px-2"><a href="tur-rehberleri.html">Tur Rehberleri</a></li>
+                                <li class="submenu dropdown px-2"><a href="seyahat-rehberleri.html">Seyahat Rehberleri</a></li>
                                 <li id="menu-turlar" class="dropdown submenu desktop-tours-trigger px-2"><a href="#" id="megaTrigger"
                                         aria-expanded="false" aria-controls="megaFull">TURLAR</a></li>
                 <li class="submenu dropdown px-2"><a href="guncel-turlar.html">Güncel Turlar</a></li>
@@ -1150,17 +1150,15 @@
     <!-- header ends -->
 
     <!-- BreadCrumb Starts -->
-    <section class="breadcrumb-main guide-banner" id="guideBanner" style="background-image: url(images/tur-rehberleri-banner.webp);">
+    <section class="breadcrumb-main guide-banner" style="background-image: url(images/tur-rehberleri-banner.webp);">
         <div class="breadcrumb-outer">
             <div class="container">
                 <div class="breadcrumb-content text-center">
-                    <span class="guide-banner__region" id="guideRegion"></span>
-                    <h1 class="mb-3" id="guideTitle">Tur Rehberi</h1>
+                    <h1 class="mb-3">Seyahat Rehberleri</h1>
                     <nav aria-label="breadcrumb" class="d-block">
                         <ul class="breadcrumb">
                             <li class="breadcrumb-item"><a href="index.html">Anasayfa</a></li>
-                            <li class="breadcrumb-item"><a href="tur-rehberleri.html">Tur Rehberleri</a></li>
-                            <li class="breadcrumb-item active" aria-current="page" id="guideCrumb"></li>
+                            <li class="breadcrumb-item active" aria-current="page">Seyahat Rehberleri</li>
                         </ul>
                     </nav>
                 </div>
@@ -1170,26 +1168,25 @@
     </section>
     <!-- BreadCrumb Ends -->
 
-    <!-- Ülke rehberi -->
+    <!-- Tur rehberleri listesi -->
     <section class="guide-page pt-6 pb-6">
         <div class="container">
-            <div class="guide-layout">
-                <nav class="guide-menu" id="guideMenu" aria-label="Rehber bölümleri"></nav>
-                <div>
-                    <select id="guideMenuSelect" class="guide-menu-select mb-3" aria-label="Rehber bölümü"></select>
-                    <article class="guide-content" id="guideContent">
-                        <h2 class="guide-content__title" id="guideSectionTitle"></h2>
-                        <div class="guide-body" id="guideSectionBody">
-                            <div class="text-center py-5"><div class="spinner-border text-primary" role="status"><span class="visually-hidden">Yükleniyor...</span></div></div>
-                        </div>
-                        <div class="guide-tours-link" id="guideToursLink" style="display:none;"><a class="nir-btn" href="#"></a></div>
-                        <p class="guide-note">Bu rehber genel bilgi amaçlıdır. Seyahatinizden önce vize, sağlık, güvenlik ve iklim gibi güncel koşulları resmi kaynaklardan kontrol etmenizi öneririz.</p>
-                    </article>
+            <p class="guide-intro">Gitmeyi düşündüğünüz ülkeyi seçin; ne zaman gidilir, nereler görülür, neler yapılır ve sorumlu seyahat ipuçları tek sayfada. <span id="guideCount"></span></p>
+            <div class="guide-tools">
+                <input type="search" id="guideSearch" class="guide-search" placeholder="Ülke ara..." aria-label="Ülke ara" autocomplete="off">
+                <div class="guide-chips" id="guideRegionChips"></div>
+            </div>
+            <div id="guideRegions">
+                <div class="text-center py-5">
+                    <div class="spinner-border text-primary" role="status"><span class="visually-hidden">Yükleniyor...</span></div>
+                    <p class="mt-2">Rehberler yükleniyor...</p>
                 </div>
             </div>
+            <p id="guideEmpty" class="text-center py-4" style="display:none;">Aramanıza uygun rehber bulunamadı.</p>
+            <p class="guide-note mx-auto" style="max-width: 900px;">Bu rehber genel bilgi amaçlıdır. Seyahatinizden önce vize, sağlık, güvenlik ve iklim gibi güncel koşulları resmi kaynaklardan kontrol etmenizi öneririz.</p>
         </div>
     </section>
-    <!-- Ülke rehberi ends -->
+    <!-- Tur rehberleri listesi ends -->
 
     <!-- footer starts -->
     <footer class="pt-20 pb-4">
@@ -1406,7 +1403,7 @@
     <script src="js/country-names-tr.js"></script>
     <script src="js/cdn-config.js"></script>
     <script src="js/api-service.js"></script>
-    <script src="js/tur-rehberi.js?v=20261021b"></script>
+    <script src="js/tur-rehberleri.js?v=20261021c"></script>
     <script src="js/plugin.js"></script>
     <script src="js/main.js"></script>
     <script src="js/admin-nav.js"></script>

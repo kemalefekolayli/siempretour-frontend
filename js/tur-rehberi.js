@@ -1,10 +1,10 @@
 // tur-rehberi.js — single destination guide: section menu on the left, content on the right.
-// URL: tur-rehberi.html?ulke=<slug>[&bolum=<section-id>]
+// URL: seyahat-rehberi.html?ulke=<slug>[&bolum=<section-id>]
 // Data: data/tur-rehberleri/<slug>.json (built by tools/build_tur_rehberleri.js); the section
 // HTML is generated at build time from the archive's Markdown with raw HTML escaped.
 
 (function () {
-  var DATA_VERSION = '20261021b';
+  var DATA_VERSION = '20261021c';
   var guide = null;
 
   function isEn() {
@@ -98,7 +98,7 @@
     setText('guideTitle', isEn() ? 'Guide not found' : 'Rehber bulunamadı');
     var body = document.getElementById('guideSectionBody');
     if (body) body.innerHTML = '<p>' + (isEn() ? 'This guide does not exist. ' : 'Aradığınız rehber bulunamadı. ') +
-      '<a href="tur-rehberleri.html">' + (isEn() ? 'All guides' : 'Tüm rehberler') + '</a></p>';
+      '<a href="seyahat-rehberleri.html">' + (isEn() ? 'All guides' : 'Tüm rehberler') + '</a></p>';
   }
 
   function init() {
@@ -110,8 +110,8 @@
       .then(function (data) {
         guide = data;
         var name = isEn() ? data.nameEn : data.nameTr;
-        document.title = (isEn() ? name + ' Travel Guide' : name + ' Tur Rehberi') + ' | Siempre Tour';
-        setText('guideTitle', isEn() ? name + ' Travel Guide' : name + ' Tur Rehberi');
+        document.title = (isEn() ? name + ' Travel Guide' : name + ' Seyahat Rehberi') + ' | Siempre Tour';
+        setText('guideTitle', isEn() ? name + ' Travel Guide' : name + ' Seyahat Rehberi');
         setText('guideCrumb', name);
         setText('guideRegion', isEn() ? '' : data.regionTr);
         if (data.photo) {

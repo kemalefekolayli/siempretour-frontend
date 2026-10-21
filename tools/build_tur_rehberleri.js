@@ -245,7 +245,7 @@ for (const region of fs.readdirSync(dataDir)) {
       sections: sections.map(s => ({ id: s.id, label: s.label, title: s.title, html: s.html }))
     };
     fs.writeFileSync(path.join(outDir, folder + '.json'), JSON.stringify(doc));
-    countries.push({ slug: folder, nameTr, nameEn, photo, overview: !!overview, sections: sections.length });
+    countries.push({ slug: folder, nameTr, nameEn, photo, tourKey: tourKey || null, overview: !!overview, sections: sections.length });
   }
   countries.sort((a, b) => (b.overview - a.overview) || a.nameTr.localeCompare(b.nameTr, 'tr'));
   index.regions.push({ id: region, tr: R.tr, en: R.en, order: R.order, color: R.color, countries });
